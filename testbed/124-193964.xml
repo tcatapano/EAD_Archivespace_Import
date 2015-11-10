@@ -1,0 +1,149 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "../ead_dtd/ead.dtd" [
+<!ENTITY scrc_name SYSTEM "scrc_name.txt">
+<!ENTITY su_address SYSTEM "su_address.txt">
+<!ENTITY su_name SYSTEM "su_name.txt">
+<!ENTITY subjindex SYSTEM "subjindex.txt">
+<!ENTITY summitref SYSTEM "summit_ref.txt">
+]>
+
+<!--Derived from Summit record.  Matches template version 1.7.-->
+<ead relatedencoding="MARC21">
+  <eadheader audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" relatedencoding="DC" repositoryencoding="iso15511" scriptencoding="iso15924">
+    <eadid countrycode="US" identifier="hyde_fg" mainagencycode="NSyU">hyde_fg</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper encodinganalog="Title">Frederick G. Hyde Collection</titleproper>
+        <subtitle>An inventory of his
+ collection at Syracuse University</subtitle>
+        <author encodinganalog="Creator">LDC</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher encodinganalog="Publisher">
+          <lb/></publisher>
+        <date calendar="gregorian" encodinganalog="Date" era="ce" normal="2008-11-19">19 Nov 2008</date></publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>[Derived from Summit]
+
+
+
+
+
+
+
+
+        <date calendar="gregorian" era="ce" normal="2007-03-12">12 Mar 2007</date></creation>
+      <langusage>
+        <language encodinganalog="Language" langcode="eng">English</language>
+      </langusage>
+    </profiledesc>
+    <revisiondesc>
+      <list>
+        <item>
+        </item>
+      </list>
+    </revisiondesc>
+  </eadheader>
+  <archdesc level="collection" relatedencoding="MARC21" type="inventory">
+    <did>
+      <head>Overview of the Collection</head>
+      <repository encodinganalog="852$a" label="Repository: ">
+        <lb/></repository>
+      <origination label="Creator: ">
+        <persname encodinganalog="100" source="lcnaf">Hyde, Frederick G.</persname>
+      </origination>
+      <unittitle encodinganalog="245$a" label="Title: ">Frederick G. Hyde Collection</unittitle>
+      <unitdate encodinganalog="245$f" label="Inclusive Dates: " normal="1865/1880" type="inclusive">1865-1880</unitdate>
+      <physdesc encodinganalog="300$a" label="Quantity: ">
+        <extent encodinganalog="300$a">41 items (SC)</extent>
+      </physdesc>
+      <abstract encodinganalog="520$a" label="Abstract: ">Papers of the U.S. naval officer. Official letters and orders tracing Hyde's assignments aboard the U.S.S. Kansas and U.S.S. Hartford from naval academy on.</abstract>
+      <unitid countrycode="US" encodinganalog="099" label="Identification: " repositorycode="NSyU">149222</unitid>
+      <langmaterial encodinganalog="546" label="Language: ">
+        <language langcode="eng">
+                          English
+                       </language>
+      </langmaterial>
+    </did>
+    <bioghist encodinganalog="545">
+      <head>Biographical History</head>
+      <p>Frederick Griswold Hyde (fl. 1863-1883) was an American naval officer during the second half of the 19th century.</p>
+      <p>Hyde began his career as a Midshipman starting September 23, 1863.  He graduated from the naval academy on June 5, 1867.  Hyde reached the rank of Lieutenant in 1871.  He resigned from the Navy on June 24, 1883.</p>
+    </bioghist>
+    <scopecontent encodinganalog="520">
+      <head>Scope and Contents of the Collection</head>
+      <p>The
+
+
+
+
+
+
+
+        <emph render="bold">Frederick G. Hyde</emph> collection contains mostly correspondence to Hyde.  The correspondence is of a business nature, with a majority having been sent by the United States Navy.  Much of the correspondence conveys Hyde's orders and assignments.</p>
+    </scopecontent>
+    <arrangement encodinganalog="351$a">
+      <head>Arrangement of the Collection</head>
+      <p>The collection contains one series, Correspondence, which is arranged chronologically.</p>
+    </arrangement>
+    <controlaccess>
+      <head>Subject and Genre Headings</head>
+      <subject encodinganalog="650" source="local">Military history</subject>
+      <persname encodinganalog="600" source="lcnaf">Hyde, Frederick G.</persname>
+      <corpname encodinganalog="610" source="lcnaf">United States, Navy -- Officers.</corpname>
+      <genreform encodinganalog="655" source="aat">Correspondence.</genreform>
+    </controlaccess>
+    <accessrestrict encodinganalog="506">
+      <head>Access Restrictions</head>
+      <p>There are no access restrictions on this material</p>
+    </accessrestrict>
+    <userestrict encodinganalog="540">
+      <head>Use Restrictions</head>
+      <p>Written permission must be obtained from SCRC and all relevant rights holders before publishing quotations, excerpts or images from any materials in this collection.</p>
+    </userestrict>
+    <prefercite encodinganalog="524">
+      <head>Preferred Citation</head>
+      <p>Preferred citation for this material is as follows:</p>
+      <p>Frederick G. Hyde Collection
+
+
+
+
+
+
+
+        <lb/></p>
+    </prefercite>
+    <dsc type="combined">
+      <head>Inventory</head>
+      <c01 level="series">
+        <did>
+          <unittitle>Correspondence</unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="SC">259</container>
+            <unittitle>
+              <unitdate calendar="gregorian" era="ce" normal="1865-08-11/1880-09-23" type="inclusive">11 Aug 1865-23 Sep 1880</unitdate>
+            </unittitle>
+            <physdesc>
+              <extent>40 items</extent>
+            </physdesc>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="SC">259</container>
+            <unittitle>
+              <unitdate calendar="gregorian" era="ce" normal="1865/1880" type="inclusive">undated</unitdate>
+            </unittitle>
+            <physdesc>
+              <extent>1 item</extent>
+            </physdesc>
+          </did>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

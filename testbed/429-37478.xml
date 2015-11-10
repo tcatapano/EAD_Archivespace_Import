@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+    <eadid countrycode="US" mainagencycode="US-UPB" publicid="-//L. Tom Perry Special Collections::20th Century Western  Mormon Manuscripts//TEXT(US::US-UPB::MSS 1712::Stella H. Oaks collection)//EN" encodinganalog="identifier">UPB_MSS1712</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper encodinganalog="title">Register of Stella H. Oaks collection
+                    
+                </titleproper>
+        <titleproper type="filing">Oaks (Stella H.) collection</titleproper>
+        <author encodinganalog="creator">Finding aid prepared by Garrett Schroath</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher encodinganalog="publisher">L. Tom Perry Special Collections</publisher>
+        <date encodinganalog="date">2011 May 4</date>
+        <address>
+          <addressline>1130 Harold B. Lee Library</addressline>
+          <addressline>Brigham Young University</addressline>
+          <addressline>Provo, Utah 84606</addressline>
+          <addressline>http://sc.lib.byu.edu/</addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2012-02-02T09:31-0700</date>
+            </creation>
+      <langusage>English</langusage>
+      <descrules>Archives, Personal Papers, and Manuscripts</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection" type="inventory">
+    <did>
+      <unittitle encodinganalog="title">Stella H. Oaks collection</unittitle>
+      <unitid encodinganalog="identifier">MSS 1712</unitid>
+      <repository>
+        <corpname encodinganalog="publisher">L. Tom Perry Special Collections</corpname>
+        <subarea encodinganalog="publisher">20th Century Western  Mormon Manuscripts</subarea>
+        <address>
+          <addressline>1130 Harold B. Lee Library</addressline>
+          <addressline>Brigham Young University</addressline>
+          <addressline>Provo, Utah 84606</addressline>
+          <addressline>http://sc.lib.byu.edu/</addressline>
+        </address>
+      </repository>
+      <langmaterial>
+        <language langcode="eng" encodinganalog="language">English</language>
+      </langmaterial>
+      <physdesc>
+        <extent encodinganalog="format">59 boxes</extent>
+        <extent encodinganalog="format">(29.5 linear ft.)</extent>
+      </physdesc>
+      <unitdate normal="1906/1996" era="ce" calendar="gregorian" datechar="creation" type="inclusive" encodinganalog="date">1906-1996</unitdate>
+      <langmaterial id="ref5">Materials are in English.</langmaterial>
+      <origination>
+        <persname source="lcnaf" encodinganalog="creator" role="">Oaks, Stella H. (Stella Harris), d. 1980</persname>
+      </origination>
+    </did>
+    <scopecontent id="ref1" encodinganalog="description">
+      <p>Stella Harris Oaks did not keep a journal, so this collection is probably the best, first-hand look one can get at her remarkable life. It consists of her research and speech notes, correspondence, and memorabilia files.</p>
+    </scopecontent>
+    <appraisal id="ref2">
+      <p>Utah and the American West and LDS cultural, social, and religious history (20th century Western  Mormon Manuscripts collection development policy, 5.VII, 2007).</p>
+    </appraisal>
+    <accessrestrict id="ref3" encodinganalog="rights">
+      <p>Open for public research.</p>
+    </accessrestrict>
+    <userestrict id="ref4" encodinganalog="rights">
+      <p>It is the responsibility of the researcher to obtain any necessary copyright clearances. Permission to publish material from Collection must be obtained from the Supervisor of Reference Services and/or the L. Tom Perry Special Collections Board of Curators.</p>
+    </userestrict>
+    <prefercite id="ref8">
+      <p>Initial citation: MSS 1712; Collection; 20th Century Western  Mormon Manuscripts; L. Tom Perry Special Collections, Harold B. Lee Library, Brigham Young University. Following citations: MSS 1712, LTPSC.</p>
+    </prefercite>
+    <bioghist id="ref6" encodinganalog="description">
+      <head>Biographical History</head>
+      <p>Stella Harris Oaks was a prominent member of the Provo, Utah community in the 20th century and a prominent Mormon woman.</p>
+    </bioghist>
+    <otherfindaid id="ref7">
+      <p>Finding aid available online and in the Special Collections Reference area.</p>
+    </otherfindaid>
+    <controlaccess>
+      <persname source="lcnaf" encodinganalog="subject">Oaks, Dallin H.</persname>
+      <subject source="cclanarrow" encodinganalog="subject">Home and Family</subject>
+      <subject source="umanarrow" encodinganalog="subject">Home and Family</subject>
+      <subject source="lcsh" encodinganalog="subject">Mormon families</subject>
+      <subject source="lcsh" encodinganalog="subject">Mormon women</subject>
+      <geogname source="lcnaf" encodinganalog="coverage">Provo (Utah)</geogname>
+      <subject source="cclabroad" encodinganalog="subject">Social Life and Customs</subject>
+      <subject source="umabroad" encodinganalog="subject">Social Life and Customs</subject>
+    </controlaccess>
+  </archdesc>
+</ead>

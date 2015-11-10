@@ -1,0 +1,133 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead relatedencoding="marc21">
+	<eadheader audience="internal">
+		<eadid countrycode="US" mainagencycode="TxU-TH" encodinganalog="852$a"
+			>urn:taro:utexas.cah.02609</eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper>A Guide to the Austin Community Concert Association Scrapbooks,
+					1935-1955</titleproper>
+			</titlestmt>
+		</filedesc>
+		<profiledesc>
+			<creation>Original EAD encoding by Laurel Rozema according to TARO 2 EAD 2002 Editing
+				Instructions. <date>April 2011</date></creation>
+			<langusage>Finding aid written in <language>English.</language></langusage>
+		</profiledesc>
+	</eadheader>
+	<archdesc type="inventory" level="collection">
+		<did>
+			<head>Descriptive Summary</head>
+			<origination label="Creator:">
+				<corpname encodinganalog="110">Austin Community Concert Association</corpname>
+			</origination>
+			<origination label="Creator:">
+				<persname encodinganalog="100">Trice, Lois Baird</persname>
+			</origination>
+			<unittitle encodinganalog="245" label="Title:">Austin Community Concert Association
+				scrapbooks</unittitle>
+			<unitdate type="inclusive" encodinganalog="245" label="Dates:">1935-1955</unitdate>
+			<!--Modify the language of material if appropriate and update 3 letter langcode in the upper-right table. 
+				Add multiple languages with most commonly used listed first, if necessary. 
+				Example: <language langcode="eng">English</language> and <language langcode="spa">Spanish.</language> -->
+			<langmaterial label="Language:">Materials are written in <language langcode="eng"
+					>English</language>.</langmaterial>
+			<unitid label="Accession No.:">87-136</unitid>
+			<physdesc label="Extent:" encodinganalog="300$a">1 ft.</physdesc>
+			<repository label="Repository:" encodinganalog="852$a">
+				<extref href="http://www.cah.utexas.edu" show="new" actuate="onrequest">
+					<corpname><subarea>Dolph Briscoe Center for American History, </subarea>The
+						University of Texas at Austin</corpname></extref></repository>
+			<abstract label="Abstract:" encodinganalog="520$a">Four scrapbooks compiled by Lois
+				Trice compose the Austin Community Concert Association Scrapbooks, 1935-1955,
+				documenting numerous classical, operatic, and other performances hosted by the
+				Austin Community Concert Association in Austin, Texas. The scrapbooks contain
+				photographs, programs, tickets, membership cards, newspaper clippings, and
+				correspondence related to performances by the Dallas Symphony Orchestra, soprano
+				Bidu Sayao, dancer Carola Goya, violinist Joseph Szigeti, mime Angna Enters, and
+				pianist Clifford Curzon, among others.</abstract>
+		</did>
+		<bioghist encodinganalog="545">
+			<head>Historical Note</head>
+			<p>Founded in 1935, the Austin Community Concert Association hosted classical, operatic,
+				and other performances in Austin, Texas. Officers included President H. T. Parlin
+				and Secretary-Treasurer/General Manager Lois Trice. Following the departure of Trice
+				in 1953, the Association disbanded two years later.</p>
+		</bioghist>
+		<scopecontent encodinganalog="520">
+			<!--This explains the collection. Include the title, dates, subjects, and material types in complete sentences.-->
+			<head>Scope and Contents</head>
+			<p>Four scrapbooks compiled by Lois Trice compose the Austin Community Concert
+				Association Scrapbooks, 1935-1955, documenting numerous classical, operatic, and
+				other performances hosted by the Austin Community Concert Association in Austin,
+				Texas. The scrapbooks contain photographs, programs, tickets, membership cards,
+				newspaper clippings, and correspondence related to performances by the Dallas
+				Symphony Orchestra, soprano Bidu Sayao, dancer Carola Goya, violinist Joseph
+				Szigeti, mime Angna Enters, and pianist Clifford Curzon, among others.</p>
+		</scopecontent>
+		<accessrestrict encodinganalog="506">
+			<!-- Select the appropriate tag(s) and delete others. You may need to modify an existing 
+				description or create a new one. The SAA Glossary defines access restrictions as such:
+				"Access restrictions may be defined by a period of time or by a class of individual 
+				allowed or denied access. They may be designed to protect national security (classification), 
+				personal privacy, or to preserve materials." -->
+			<head>Access Restrictions</head>
+			<p>This collection is open for research use.</p>
+		</accessrestrict>
+		<controlaccess>
+			<!--Delete section(s) as appropriate depending on the presence of index terms. Use LOC Authorities 
+				style subjects. Add multiple fields as necessary. "Archives" should be added to the creator's 
+				subject heading, separated by double dashes. Corpnames with a 610 are for organzations, while  
+				corpnames with 611 encodinganalog are for meeting names. Subjects with 650 are for general topics, 
+				while 630 are for titles of publications, including newspapers. -->
+			<head>Index Terms</head>
+			<controlaccess>
+				<head>Subjects (Persons)</head>
+				<persname encodinganalog="600">Trice, Lois Baird.</persname>
+			</controlaccess>
+			<controlaccess>
+				<head>Subjects (Organizations)</head>
+				<corpname encodinganalog="610">Austin Community Concert Association --
+					Archives.</corpname>
+			</controlaccess>
+			<controlaccess>
+				<head>Subjects</head>
+				<subject encodinganalog="650">Concerts -- Texas -- Austin.</subject>
+				<subject encodinganalog="650">Musicians -- Texas -- Austin.</subject>
+				<subject encodinganalog="650">Entertainers -- Texas -- Austin.</subject>
+				<subject encodinganalog="650">Music -- Texas -- Austin.</subject>
+			</controlaccess>
+			<controlaccess>
+				<head>Places</head>
+				<geogname encodinganalog="651" source="lcnaf">Austin (Tex.) -- History -- 20th
+					century -- Sources.</geogname>
+			</controlaccess>
+		</controlaccess>
+		<prefercite encodinganalog="524">
+			<head>Preferred Citation</head>
+			<p>Austin Community Concert Association Scrapbooks, 1935-1955, Dolph Briscoe Center for
+				American History, The University of Texas at Austin.</p>
+		</prefercite>
+		<processinfo>
+			<head>Processing Information</head>
+			<p>Basic processing and cataloging of this collection was supported with funds from the
+				National Historical Publications and Records Commission (NHPRC) for the Briscoe
+				Center’s “History Revealed: Bringing Collections to Light project,” 2009-2011.</p>
+		</processinfo>
+		<dsc type="in-depth">
+			<head>Detailed Description of the Papers</head>
+			<c01 level="series" id="ser1">
+				<did>
+					<unittitle>Inventory:</unittitle>
+				</did>
+				<c02>
+					<did>
+						<container type="box">4L339-4L342</container>
+						<unittitle>Scrapbooks, <unitdate>1935-1955 </unitdate></unittitle>
+					</did>
+				</c02>
+			</c01>
+		</dsc>
+	</archdesc>
+</ead>

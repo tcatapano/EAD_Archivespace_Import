@@ -1,0 +1,289 @@
+<?xml version="1.0"?>
+<!-- <!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "http://lcweb2.loc.gov/xmlcommon/dtds/ead2002/ead.dtd"  [ <!ENTITY uwmlogo SYSTEM "foo.jpg" NDATA jpeg>] > -->
+<!-- wiarchives version:2012-11-07 -->
+<ead id="uw-mil-uwmac0114" relatedencoding="MARC21">
+  <eadheader langencoding="iso639-2b" audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924" relatedencoding="MARC21">
+    <eadid countrycode="US" mainagencycode="wimiugma" url="http://digital.library.wisc.edu/1711.dl/wiarchives.uw-mil-uwmac0114" encodinganalog="856$u">uw-mil-uwmac0114</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper encodinganalog="245$a">Finding Aid of the UW-Milwaukee Dept. of Psychology
+          Records, 1953-1989</titleproper>
+      </titlestmt>
+      <publicationstmt>
+        <publisher encodinganalog="260$b">University of Wisconsin-Milwaukee Libraries, Archives
+          Department</publisher>
+        <address>
+          <addressline>University of Wisconsin-Milwaukee</addressline>
+          <addressline>UWM Libraries</addressline>
+          <addressline>Archives Department</addressline>
+          <addressline>P.O. Box 604</addressline>
+          <addressline>Milwaukee, Wisconsin 53201-0604</addressline>
+          <addressline>URL: www.uwm.edu/Libraries/arch/index.html<extptr href="http://www.uwm.edu/Libraries/arch/index.html"/></addressline>
+        </address>
+        <date encodinganalog="260$c" type="publication" normal="2007">Copyright  2007
+          University of Wisconsin Board of Regents</date>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation encodinganalog="500">Finding aid encoded by Dan Vinson</creation>
+      <langusage encodinganalog="546">Finding aid written in <language encodinganalog="041" langcode="eng" scriptcode="Latn">English.</language></langusage>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection" relatedencoding="MARC21">
+    <did>
+      <physloc type="locationcode" audience="internal">wimiugma</physloc>
+      <unittitle encodinganalog="245$a">UW-Milwaukee Dept. of Psychology Records, <unitdate type="inclusive" encodinganalog="245$f" normal="1953/1989">1953-1989</unitdate></unittitle>
+      <origination label="Creator">
+        <corpname encodinganalog="110">University of Wisconsin-Milwaukee. Dept. of
+          Psychology</corpname>
+      </origination>
+      <unitid label="Call Number" encodinganalog="099" repositorycode="us-wimiugma" countrycode="US">UWM Archival Collection 114</unitid>
+      <physdesc label="Quantity">
+        <extent encodinganalog="300">.8 cubic ft. (2 boxes)</extent>
+      </physdesc>
+      <repository encodinganalog="852">
+        <extptr entityref="uwmlogo" show="embed" actuate="onload" altrender="center" title="University of Wisconsin-Milwaukee Logo." role="logoimage"/>
+        <extref href="http://www.uwm.edu/Libraries/arch/index.html">
+          <corpname>University of Wisconsin-Milwaukee Libraries, Archives Department</corpname>
+        </extref>
+      </repository>
+      <abstract encodinganalog="520">Records of the department include correspondence, staff meeting
+        minutes, and miscellaneous information on lectures, undergraduate, and graduate degrees. The
+        correspondence files (1956-1976) largely consist of letters between the dean and associate
+        dean of the College of Letters  Science and the chair of the Department of
+        Psychology, regarding budget concerns, the developments of undergraduate and graduate
+        degrees, staffing, curricula, and department location. The collection also contains
+        materials on the teaching of psychology at County Teacher Colleges of Wisconsin, and a file
+        on a survey course given on the WMVS television station. Also included are the minutes and
+        correspondence of the Joint Department Conference Committee of the Psychology Departments of
+        Madison and Milwaukee (1956-1963).</abstract>
+      <langmaterial encodinganalog="546" label="Language">
+        <language encodinganalog="041" langcode="eng">English</language>
+      </langmaterial>
+    </did>
+    <bioghist encodinganalog="545">
+      <p>The Dept. of Psychology was established in 1956 when the University of Wisconsin-Milwaukee
+        was created. Prior to 1956, the predecessor colleges offered psychology courses. Since its
+        inception in 1885, the Wisconsin State Normal School offered general psychology courses as
+        part of its education curricula. After 1927, when the school became the Milwaukee State
+        Normal School, psychology courses were offered under the Department of Education and
+        Psychology. The Dept. of Psychology at UWM began to offer graduate level courses in 1961,
+        offered a full Master of Science in Psychology in 1963, and the Doctorate in Psychology in
+        1966.</p>
+      <bioghist>
+        <head>Department Chairs</head>
+        <chronlist>
+          <chronitem>
+            <date>1956-1961</date>
+            <event>Herman Weil</event>
+          </chronitem>
+          <chronitem>
+            <date>1961-1963</date>
+            <event>Chandler G. Screven</event>
+          </chronitem>
+          <chronitem>
+            <date>1965-1965</date>
+            <event>Harry L. Madison</event>
+          </chronitem>
+          <chronitem>
+            <date>1965-1968</date>
+            <event>Alan Baron</event>
+          </chronitem>
+          <chronitem>
+            <date>1968-1971</date>
+            <event>Eugene H. Eisman</event>
+          </chronitem>
+          <chronitem>
+            <date>1971-1975</date>
+            <event>Marilyn E. Miller</event>
+          </chronitem>
+          <chronitem>
+            <date>1975-1978</date>
+            <event>Harry L. Madison</event>
+          </chronitem>
+          <chronitem>
+            <date>1978-1980</date>
+            <event>John C. Hay</event>
+          </chronitem>
+          <chronitem>
+            <date>1980-1981</date>
+            <event>Marilyn E. Miller</event>
+          </chronitem>
+          <chronitem>
+            <date>1981-1984</date>
+            <event>Vincent Adesso</event>
+          </chronitem>
+          <chronitem>
+            <date>1984-1986</date>
+            <event>Harry L. Madison</event>
+          </chronitem>
+          <chronitem>
+            <date>1986-1990</date>
+            <event>John C. Moore</event>
+          </chronitem>
+          <chronitem>
+            <date>1990-1993</date>
+            <event>Harry L. Madison</event>
+          </chronitem>
+          <chronitem>
+            <date>1993-</date>
+            <event>John C. Moore</event>
+          </chronitem>
+        </chronlist>
+      </bioghist>
+    </bioghist>
+    <arrangement encodinganalog="351">
+      <p>The files are organized alphabetically by subject, then chronologically.</p>
+    </arrangement>
+    <prefercite encodinganalog="524">
+      <p>
+        <extref href="http://www.uwm.edu/Libraries/arch/services/citations.html">Citation Guide for
+          Primary Sources</extref>
+      </p>
+    </prefercite>
+    <relatedmaterial encodinganalog="544 1">
+      <head>Related Material in the UWM Libraries</head>
+      <archref href="http://digital.library.wisc.edu/1711.dl/wiarchives.uw-mil-uwmac0001" actuate="onrequest" show="new">
+        <unittitle>UW-Milwaukee College of Letters  Science Records</unittitle>
+        <unitid>UWM Archival Collection 1</unitid>
+      </archref>
+      <archref href="http://digital.library.wisc.edu/1711.dl/wiarchives.uw-mil-uwmac0033" actuate="onrequest" show="new">
+        <unittitle>UW-Milwaukee Dept. of Educational Psychology Records</unittitle>
+        <unitid>UWM Archival Collection 33 </unitid>
+      </archref>
+    </relatedmaterial>
+    <descgrp type="admininfo">
+      <head>Administrative/Restriction Information</head>
+      <accessrestrict encodinganalog="506">
+        <p>There are no access restrictions on the materials, and the collection is open to all
+          members of the public in accordance with state law.</p>
+      </accessrestrict>
+      <userestrict encodinganalog="540">
+        <p>The researcher assumes full responsibility for conforming with the laws of libel,
+          privacy, and copyright which may be involved in the use of this collection (Wisconsin
+          Statutes 19.21-19.39).</p>
+      </userestrict>
+      <acqinfo encodinganalog="541">
+        <p>An unknown donor transferred the collection to the archives prior to 1989.</p>
+      </acqinfo>
+      <processinfo encodinganalog="583">
+        <p>Ellen Engseth processed the collection at the Archives in June 1994.</p>
+      </processinfo>
+    </descgrp>
+    <dsc type="in-depth">
+      <head>Contents List</head>
+      <c01>
+        <did>
+          <unittitle>Clinical Committee, 1972-1973</unittitle>
+          <container type="box" label="Box">1</container>
+          <container type="folder" label="Folder">1</container>
+        </did>
+      </c01>
+      <c01>
+        <did>
+          <unittitle>Correspondence, 1956-1976</unittitle>
+          <container type="box" label="Box">1</container>
+          <container type="folder" label="Folder">2-6</container>
+        </did>
+      </c01>
+      <c01>
+        <did>
+          <unittitle>County Teacher's Colleges, 1953, 1958</unittitle>
+          <container type="box" label="Box">1</container>
+          <container type="folder" label="Folder">7</container>
+        </did>
+      </c01>
+      <c01>
+        <did>
+          <unittitle>Departmental Meeting Minutes, 1956-1959</unittitle>
+          <container type="box" label="Box">1</container>
+          <container type="folder" label="Folder">8</container>
+        </did>
+      </c01>
+      <c01>
+        <did>
+          <unittitle>Departmental Meeting Minutes, 1960-1968</unittitle>
+          <container type="box" label="Box">2</container>
+          <container type="folder" label="Folder">1</container>
+        </did>
+      </c01>
+      <c01>
+        <did>
+          <unittitle>Departmental Meeting Minutes, 1971-1989</unittitle>
+          <container type="box" label="Box">2</container>
+          <container type="folder" label="Folder">2-3</container>
+        </did>
+      </c01>
+      <c01>
+        <did>
+          <unittitle>Executive Committee Meeting Minutes, 1971-1987</unittitle>
+          <container type="box" label="Box">2</container>
+          <container type="folder" label="Folder">4-5</container>
+        </did>
+      </c01>
+      <c01>
+        <did>
+          <unittitle>Graduate Degree Information, Reports and Brochures, 1959-1981</unittitle>
+          <container type="box" label="Box">2</container>
+          <container type="folder" label="Folder">6</container>
+        </did>
+      </c01>
+      <c01>
+        <did>
+          <unittitle>Joint Department Conference Committee, 1956-1963</unittitle>
+          <container type="box" label="Box">2</container>
+          <container type="folder" label="Folder">7</container>
+        </did>
+      </c01>
+      <c01>
+        <did>
+          <unittitle>Lectures, 1957-1960</unittitle>
+          <container type="box" label="Box">2</container>
+          <container type="folder" label="Folder">8</container>
+        </did>
+      </c01>
+      <c01>
+        <did>
+          <unittitle>Psychology Newsletter, 1972-1975</unittitle>
+          <container type="box" label="Box">2</container>
+          <container type="folder" label="Folder">9</container>
+        </did>
+      </c01>
+      <c01>
+        <did>
+          <unittitle>Report of the Committee on Psychology, n.d.</unittitle>
+          <container type="box" label="Box">2</container>
+          <container type="folder" label="Folder">10</container>
+        </did>
+      </c01>
+      <c01>
+        <did>
+          <unittitle>Research Reports, 1970-1974</unittitle>
+          <container type="box" label="Box">2</container>
+          <container type="folder" label="Folder">11</container>
+        </did>
+      </c01>
+      <c01>
+        <did>
+          <unittitle>Television Course, WMVS, 1957-1958</unittitle>
+          <container type="box" label="Box">2</container>
+          <container type="folder" label="Folder">12</container>
+        </did>
+      </c01>
+      <c01>
+        <did>
+          <unittitle>Ten-Year Plan, 1958-1968</unittitle>
+          <container type="box" label="Box">2</container>
+          <container type="folder" label="Folder">13</container>
+        </did>
+      </c01>
+      <c01>
+        <did>
+          <unittitle>Undergraduate Degree Information, n.d.</unittitle>
+          <container type="box" label="Box">2</container>
+          <container type="folder" label="Folder">14</container>
+        </did>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

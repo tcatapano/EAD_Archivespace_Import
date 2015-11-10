@@ -1,0 +1,186 @@
+<?xml version="1.0" standalone="no"?>
+
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-9//DTD ead.dtd Encoded Archival Description (EAD) Version 2002//EN" "ead.dtd">
+<ead><!--Template for BLAC use. Incorporates elements added in editing of initial TARO files. Designed by Bob Stewart and Christian Kelleher. -->
+<eadheader audience="internal" langencoding="iso639-2b" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924" findaidstatus="unverified-partial-draft" relatedencoding="MARC21">
+<eadid countrycode="us" mainagencycode="TxU-LA" url="www.lib.utexas.edu/taro/utlac/00214.xml" encodinganalog="856$u">urn:taro:utexas.blac.00214</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="245$a">Manuel Urquidi Papers, 1909-1945</titleproper>
+<author encodinganalog="245$c">Carmen Sacomani, Benson Latin American Collection</author></titlestmt>
+<publicationstmt><publisher encodinganalog="260$b">University of Texas Libraries, </publisher><date encodinganalog="260$c">January 2008</date></publicationstmt></filedesc>
+<profiledesc><creation encodinganalog="500">Finding aid encoded by Carmen Sacomani, <date>2008</date></creation><langusage>Finding aid written in<language encodinganalog="546" langcode="eng" scriptcode="arab">English.</language></langusage></profiledesc>
+
+<revisiondesc><change encodinganalog="583"><date><?xm-replace_text {date}?></date><item><?xm-replace_text {item}?></item></change></revisiondesc></eadheader>
+
+<archdesc level="collection" type="inventory" relatedencoding="MARC21"><did><head>Descriptive Summary</head>
+<origination label="Creator"><persname source="lcnaf" encodinganalog="100">Urquidi, Manuel</persname></origination>
+<unittitle label="Title" encodinganalog="245">Manuel Urquidi Papers</unittitle>
+<unitdate type="inclusive" encodinganalog="245$f" normal="1909/1945">1909-1945</unitdate>
+<!-- Use ISO 8601 as the date standard within <unitdate> "normal" attribute. -->
+<langmaterial label="Language"><language langcode="spa" scriptcode="arab" encodinganalog="546">Spanish</language></langmaterial>
+<unitid label="Accession No." encodinganalog="099" countrycode="us" repositorycode="TxU-LA">2000-15</unitid>
+<unitid label="OCLC Record No." encodinganalog="001" countrycode="us" repositorycode="TxU-LA">N/A</unitid>
+<physdesc label="Extent" encodinganalog="300$a"><extent>8 linear inches</extent></physdesc>
+<repository label="Repository" encodinganalog="852$a"><extref href="http://www.lib.utexas.edu/benson" actuate="onrequest" show="new"><corpname><subarea>Benson Latin American Collection, </subarea>The University of Texas at Austin</corpname></extref></repository>
+
+<abstract label="Abstract" encodinganalog="520$a">Correspondence and other documents of Mexican engineer and congressman Manuel Urquidi.</abstract></did>
+
+<bioghist encodinganalog="545"><head>Biographical Sketch</head>
+<p>Born in Mexico City in 1881, Manuel Urquidi Márquez was an engineer by profession, and a government official and member of Congress during the presidency of Francisco I. Madero. As a young man he had studied at a university in the United States, where he resided for several years.</p> 
+<p>When Madero was organizing his followers against the reëlection of President Porfirio Díaz, Urquidi was one of the first members who joined the Centro Anti-reeleccionista de México in Mexico City, founded in May 1909. He held the posts of Treasurer and also of first Secretary, and in these positions he had correspondence with Madero. He was one of the delegates at the National Convention of the Partido Nacional Anti-reeleccionista in 1910. The government of President Díaz considered Madero and his followers as subversives and began sending them to prison. Urquidi himself spent several months in prison between 1910 and 1911.</p>
+<p>After Díaz’s resignation and the interim government of President Francisco León de la Barra, elections were called for October 1911. Madero and José María Pino Suárez were on the ballot as candidates for President and Vice President of Mexico, respectively. On election day, Urquidi, Alessio Robles, and Federico González Garza accompanied Madero to vote. At the onset of the Madero presidency, Urquidi was appointed as Under Secretary of Communications and Public Works. In June 1912 he was invited to run for Congress and won the seat to represent the Distrito Federal. He was also employed as Director of Works at Lake Texcoco. He was still working as Under Secretary of Communications when the Ciudadela was attacked in February 1913 by forces opposed to President Madero. During the period called the “Decena Trágica” when President Madero and Vicepresident Pino Suárez were taken prisoners and assassinated, members of the government and other citizens left the city to escape possible arrest by the opposing forces. Urquidi’s brother, Juan Francisco Urquidi, a member of the Mexican diplomatic service, spent some time at the Mexican Legation in Washington, D.C. after the death of President Madero.</p>
+<p>For several years Urquidi resided outside of Mexico City. In May 1913 he was appointed Military Judge of the District of Río Grande, in Piedras Negras, as part of the Constitutionalist Army led by General Venustiano Carranza. At the beginning of 1914 he received an appointment as Coronel de Caballería del Ejército Constitucionalista, División del Noreste, and later was appointed President of the Consejo de Guerra Permanente de Matamoros.</p>
+<p>As an engineer he was appointed as Inspector of Works at the Port of Tampico in June 1914 and supervised salvage operations. During the years of 1914 to 1916 he worked in the state of Veracruz, where the governor, General Cándido Aguilar, appointed him member of the Consejo de Educación Popular del Estado and Director of the Census of Urban and Rural Properties.</p>
+<p>In the 1920s Urquidi worked in the Departamento Hidrográfico del Valle de México and towards the 1940s he joined an insurance company. He became one of the first members of the society “Unión de Veteranos de la Revolución 1910-1913,” which was founded in 1932. In 1943 he joined the society “Unificación de Veteranos de la Revolución.”</p>
+<p>His brother Juan Francisco worked at the Mexican Legation in London for several years during the 1920s when Mexico was seeking Great Britain’s recognition of its government. Juan Francisco became the secretary and interpreter for the Mexican American Commission of 1923, which met to resolve differences between Mexico and Washington. Towards the end of 1923 he became the Enviado Extraordinario and Ministro Plenipotenciario of Mexico in Colombia and in 1929 he was posted as Ambassador to El Salvador.</p></bioghist>
+
+<scopecontent encodinganalog="520"><head>Scope and Contents Note</head>
+<p>Series one, <ref target="series1">Correspondence</ref>, contains letters written to and by Mr. Urquidi. The files are arranged chronologically. Most of the correspondence is in Spanish, with some letters in English. Some letters and telegrams are in code, some with notations or drafts on them, sometimes written in shorthand. A number of letters are not signed. Included among the many correspondents are Juan Francisco Urquidi, Arturo Pani, Francisco I. Madero, José María Pino Suárez, General Pablo González, and General Cándido Aguilar.  Of interest is a bill of sale for uniforms and equipment bought by General Cándido Aguilar from a store in Brownsville, dated August 1914. Some of the correspondence and documents in 1914 reflect the work being done at the Port of Tampico. In the later years there is incoming correspondence from people previously involved with the early days of the Revolution. Some are examining other people’s credentials or claims that they had served in the army or government during 1910-1913.</p>
+<p>Of some importance is Juan Francisco’s correspondence with Mr. E.J. Bray, European agent of the Ferrocarriles Nacionales de Mexico, during 1919-1923. In his correspondence he also discusses Mexican relations with the British Foreign Office and the efforts towards recognition of Mexico’s government by Great Britain.</p>
+<p>Series two, <ref target="series2">Written Works</ref>, includes some manuscripts written by Juan Francisco Urquidi, apparently as part of a diary. He wrote about the circumstances surrounding the arrest of President Madero, and other topics. There are manuscripts written by others, signed and unsigned.</p>
+<p>Series three, <ref target="series3">Photographs</ref>, contains copies of some photographs from the Casasola archive. There are some unidentified photographs.</p>
+<p>Series four, <ref target="series4">Publications</ref>, contains three publications, two of which commemorate the anniversary of Madero’s death and the beginning of the Mexican Revolution.</p>
+<p>Series five, <ref target="series5">Oversize Materials</ref>, contains printed materials and other documents relating to the Centro Anti-reeleccionista de Mexico, 1910-1911.</p>
+<p>The collection was accompanied by an original inventory which was incomplete, but can be made available to researchers. Inquire at the rare books reference desk for more information.</p></scopecontent>
+
+<accessrestrict encodinganalog="506"><head>Access Restrictions</head><p>Unrestricted.</p></accessrestrict>
+
+<userestrict encodinganalog="540"><head>Use Restrictions</head><p>Standard copyright restrictions apply.</p></userestrict>
+
+<prefercite encodinganalog="524"><head>Preferred Citation</head><p>Cite as: Manuel Urquidi Papers, Benson Latin American Collection, University of Texas Libraries, the University of Texas at Austin.</p></prefercite>
+
+<controlaccess><head>Index Terms</head><p>The Manuel Urquidi Papers are classified under the following <emph render="bold">Subject Headings</emph> in the University of Texas Libraries catalog:</p>
+<controlaccess>
+<persname source="lcnaf" encodinganalog="600">Urquidi, Manuel</persname>
+<persname source="lcnaf" encodinganalog="600">Urquidi, Juan Francisco</persname>
+<persname source="lcnaf" encodinganalog="600">Madero, Francisco I.</persname>
+<persname source="lcnaf" encodinganalog="600">Pino Suárez, José María</persname>
+<persname source="lcnaf" encodinganalog="600">Pani, Alberto</persname>
+<persname source="lcnaf" encodinganalog="600">González, Pablo</persname>
+<corpname source="lcnaf" encodinganalog="610">Comité Anti-reeleccionista de México</corpname>
+</controlaccess></controlaccess>
+
+
+<dsc type="combined"><head>Box and Folder Inventory</head>
+
+<c01 level="series" id="series1"><did><unittitle>Correspondence, </unittitle><unitdate>1909-1945</unitdate></did>
+<c02 level="file"><did><container type="box">1</container><container type="folder">1</container><unittitle>1909</unittitle></did></c02>
+
+<c02 level="file"><did><container type="box">1</container><container type="folder">2</container><unittitle>1910</unittitle></did></c02>
+
+<c02 level="file"><did><container type="box">1</container><container type="folder">3</container><unittitle>1911</unittitle></did></c02>
+
+<c02 level="file"><did><container type="box">1</container><container type="folder">4</container><unittitle>January-February 1912</unittitle></did></c02>
+
+<c02 level="file"><did><container type="box">1</container><container type="folder">5</container><unittitle>March-May 1912</unittitle></did></c02>
+
+<c02 level="file"><did><container type="box">1</container><container type="folder">6</container><unittitle>June-July 1912</unittitle></did></c02>
+
+<c02 level="file"><did><container type="box">1</container><container type="folder">7</container><unittitle>August-December 1912</unittitle></did></c02>
+
+<c02 level="file"><did><container type="box">1</container><container type="folder">8</container><unittitle>January-June 1913</unittitle></did></c02>
+
+<c02 level="file"><did><container type="box">1</container><container type="folder">9</container><unittitle>July-December 1913</unittitle></did></c02>
+
+<c02 level="file"><did><container type="box">1</container><container type="folder">10</container><unittitle>February-May 1914</unittitle></did></c02>
+
+<c02 level="file"><did><container type="box">1</container><container type="folder">11</container><unittitle>June-July 15, 1914</unittitle></did><note><p>Ten black and white photographs, relating to boat salvage operations at the Port of Tampico, dated 1911</p></note></c02>
+
+<c02 level="file"><did><container type="box">1</container><container type="folder">12</container><unittitle>July 16-30, 1914</unittitle></did></c02>
+
+<c02 level="file"><did><container type="box">1</container><container type="folder">13</container><unittitle>August 1914</unittitle></did></c02>
+
+<c02 level="file"><did><container type="box">1</container><container type="folder">14</container><unittitle>September 1914</unittitle></did></c02>
+
+<c02 level="file"><did><container type="box">1</container><container type="folder">15</container><unittitle>October-November 1914</unittitle></did></c02>
+
+<c02 level="file"><did><container type="box">1</container><container type="folder">16</container><unittitle>December 1914</unittitle></did></c02>
+
+<c02 level="file"><did><container type="box">1</container><container type="folder">17</container><unittitle>1915</unittitle></did></c02>
+
+<c02 level="file"><did><container type="box">1</container><container type="folder">18</container><unittitle>1916</unittitle></did></c02>
+
+<c02 level="file"><did><container type="box">1</container><container type="folder">19</container><unittitle>1917-1918</unittitle></did></c02>
+
+<c02 level="file"><did><container type="box">1</container><container type="folder">20</container><unittitle>1919</unittitle></did></c02>
+
+<c02 level="file"><did><container type="box">1</container><container type="folder">21</container><unittitle>February-May 1920</unittitle></did></c02>
+
+<c02 level="file"><did><container type="box">1</container><container type="folder">22</container><unittitle>June-July 1920</unittitle></did></c02>
+
+<c02 level="file"><did><container type="box">1</container><container type="folder">23</container><unittitle>August 1920</unittitle></did></c02>
+
+<c02 level="file"><did><container type="box">2</container><container type="folder">1</container><unittitle>March-April 1921</unittitle></did></c02>
+
+<c02 level="file"><did><container type="box">2</container><container type="folder">2</container><unittitle>May-December 1921</unittitle></did></c02>
+
+<c02 level="file"><did><container type="box">2</container><container type="folder">3</container><unittitle>1922</unittitle></did></c02>
+
+<c02 level="file"><did><container type="box">2</container><container type="folder">4</container><unittitle>April-May 1923</unittitle></did></c02>
+
+<c02 level="file"><did><container type="box">2</container><container type="folder">5</container><unittitle>June-December 1923</unittitle></did></c02>
+
+<c02 level="file"><did><container type="box">2</container><container type="folder">6</container><unittitle>1924-1928</unittitle></did></c02>
+
+<c02 level="file"><did><container type="box">2</container><container type="folder">7</container><unittitle>1929-1933</unittitle></did></c02>
+
+<c02 level="file"><did><container type="box">2</container><container type="folder">8</container><unittitle>1934-1945</unittitle></did></c02>
+</c01>
+
+<c01 level="series" id="series2"><did><unittitle>Written Works, </unittitle><unitdate>1913-1935</unitdate></did>
+
+<c02 level="file"><did><container type="box">2</container><container type="folder">9</container><unittitle>Written works by Juan F. Urquidi, </unittitle><unitdate>1913-1914</unitdate></did></c02>
+
+<c02 level="file"><did><container type="box">2</container><container type="folder">10</container><unittitle>Written works, unsigned, by Manuel Urquidi and Juan F. Urquidi, </unittitle><unitdate>n.d.</unitdate></did></c02>
+
+<c02 level="file"><did><container type="box">2</container><container type="folder">11</container><unittitle>Written works by other authors and unsigned, </unittitle><unitdate>1920-1935</unitdate></did></c02>
+
+<c02 level="file"><did><container type="box">2</container><container type="folder">12</container><unittitle>Written works, unsigned, </unittitle><unitdate>n.d.</unitdate></did></c02>
+</c01>
+
+
+
+<c01 level="series" id="series3"><did><unittitle>Photographs, </unittitle><unitdate>1912-1913, N.d.</unitdate></did>
+
+<c02 level="file"><did><container type="box">2</container><container type="folder">13</container><unittitle>Cadáveres incinerados, calle de Nuevo México</unittitle></did></c02>
+<c02 level="file"><did><container type="box">2</container><unittitle>Un aspecto de la avenida Balderas</unittitle></did></c02>
+<c02 level="file"><did><container type="box">2</container><unittitle>Edificio de la Asociación Cristiana de Jóvenes</unittitle></did></c02>
+<c02 level="file"><did><container type="box">2</container><unittitle>Felicistas después del triunfo</unittitle></did></c02>
+<c02 level="file"><did><container type="box">2</container><unittitle>Group of people with Francisco I. Madero in the center</unittitle></did></c02>
+<c02 level="file"><did><container type="box">2</container><unittitle>El Sr. Madero en el vapor México</unittitle></did></c02>
+<c02 level="file"><did><container type="box">2</container><unittitle>Madero a la cabeza de sus fuerzas</unittitle></did></c02>
+<c02 level="file"><did><container type="box">2</container><unittitle>Sr. F. I. Madero llegando al Palacio Nacional la mañana del </unittitle><unitdate>9 de febrero de 1913</unitdate></did></c02>
+<c02 level="file"><did><container type="box">2</container><unittitle>Sepulcro del Sr. Presidente Fco. I. Madero, </unittitle><unitdate>7 junio  1913</unitdate></did></c02>
+<c02 level="file"><did><container type="box">2</container><unittitle>Calendario azteca</unittitle></did></c02>
+<c02 level="file"><did><container type="box">2</container><unittitle>Ultima fotografía de cuerpo de Obregón, Rest. "La Bombilla"</unittitle></did></c02>
+<c02 level="file"><did><container type="box">2</container><unittitle>Francisco L. de la Barra, Presidente interino de la República Mexicana</unittitle></did></c02>
+<c02 level="file"><did><container type="box">2</container><unittitle>Kilómetro 12 del F.C. de las obras del Lago Texcoco, Excursión a las obras del Lago, </unittitle><unitdate>29 sept. 1912</unitdate></did></c02>
+<c02 level="file"><did><container type="box">2</container><unittitle>Unindentified photograph, showing three men in a cornfield</unittitle></did></c02>
+<c02 level="file"><did><container type="box">2</container><unittitle>Unindentified photograph, showing two gentlemen in an automobile</unittitle></did></c02>
+<c02 level="file"><did><container type="box">2</container><unittitle>Unindentified photograph, showing a large object on fire, Tampico</unittitle></did></c02>
+<c02 level="file"><did><container type="box">2</container><unittitle>Unindentified photograph, showing sign on a fence, reading ...Protección de la Bandera Inglesa</unittitle></did></c02>
+<c02 level="file"><did><container type="box">2</container><unittitle>Unindentified photograph, showing a large number of soldiers and civilians at an undisclosed location</unittitle></did></c02>
+</c01>
+
+
+
+
+<c01 level="series" id="series4"><did><unittitle>Publications, </unittitle><unitdate>1916-1933</unitdate></did>
+
+<c02 level="file"><did><container type="box">2</container><container type="folder">14</container><unittitle>a. Corona fúnebre en memoria del inmortal Apóstol Francisco I. Madero en el tercer aniversario de su sacrificio 22 de febrero de 1916 Mexico: A. Carranza e hijos, 1916</unittitle></did></c02>
+<c02 level="file"><did><container type="box">2</container><unittitle>b. Estudio y proyecto de organización de la Beneficencia Pública que por encargo del C. Presidente de la República, formulan los señores Lic. C. Trejo Lerdo de Tejada e Ing. Manuel Urquidi Mexico: Dirección de Talleres Gráficos, 1920</unittitle></did></c02>
+<c02 level="file"><did><container type="box">2</container><unittitle>c. Discursos pronunciados por Juan Ramón Solís, José R. Saucedo, Antonio Díaz Soto y Gama, Diego Arenas Guzmán y Antonio I. Villareal en el mitin con que el Partido Nacional Antirreeleccionista, la Confederación Revolucionaria de Partidos Independientes y otras agrupaciones políticas celebraron el XXIII Aniversario de la Revolución Mexicana Mexico: Ediciones de "El Hombre Libre," 1933</unittitle></did></c02>
+</c01>
+
+
+
+
+<c01 level="series" id="series5"><did><unittitle>Oversized Materials, </unittitle><unitdate>1910-1911</unitdate></did>
+<c02 level="file"><did><container type="box">OV</container><unittitle>Newspaper clipping and other documents relating to the Centro Anti-reeleccionista de México, 1910-1911</unittitle></did></c02>
+
+</c01>
+
+</dsc>
+</archdesc>
+</ead>
+

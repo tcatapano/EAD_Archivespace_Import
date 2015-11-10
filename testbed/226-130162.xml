@@ -1,0 +1,1330 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+<eadheader langencoding="iso639-2b" scriptencoding="iso15924" relatedencoding="dc" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" id="a0">
+<eadid countrycode="us" mainagencycode="wau-ar" encodinganalog="identifier" url="http://nwda.orbiscascade.org/ark:/80444/xv60200" identifier="80444/xv60200">FujiiYoshito1582_2.xml</eadid>
+<filedesc>
+<titlestmt>
+<titleproper encodinganalog="title">Guide to the Yoshito Fujii Papers 
+			 <date encodinganalog="date" era="ce" calendar="gregorian">1942-1945</date></titleproper>
+<titleproper type="filing" altrender="nodisplay">Fujii (Yoshito)
+			 Papers</titleproper>
+<sponsor encodinganalog="contributor">Funding for encoding this finding
+			 aid was partially provided through a grant awarded by the National Endowment
+			 for the Humanities.</sponsor>
+</titlestmt>
+<publicationstmt>
+<publisher encodinganalog="publisher">Special Collections, University
+			 of Washington Libraries</publisher>
+<date normal="1996" encodinganalog="date">© 1996</date>
+<address><addressline>Seattle, WA 98195</addressline></address>
+</publicationstmt>
+</filedesc>
+<profiledesc>
+<creation>Finding aid encoded by Marsha Maguire 
+		  <date era="ce" calendar="gregorian">January 4, 2002</date></creation>
+<langusage>Finding aid written in 
+		  <language encodinganalog="language" scriptcode="latn" langcode="eng">English.</language></langusage>
+</profiledesc>
+</eadheader>
+<archdesc level="collection" type="inventory" relatedencoding="marc21">
+<did id="a1">
+<repository><corpname encodinganalog="852$a" role="owner">University of Washington
+			 Libraries<subarea encodinganalog="852$b">Special
+			 Collections</subarea></corpname></repository>
+<unitid encodinganalog="099" repositorycode="wau-ar" countrycode="us" type="mss">1582</unitid>
+<origination>
+<persname source="lcnaf" rules="aacr2" encodinganalog="100" role="creator">Fujii, Yoshito</persname>
+</origination>
+<unittitle encodinganalog="245$a" type="collection">Yoshito Fujii
+		  Papers</unittitle>
+<unitdate type="inclusive" encodinganalog="245$f" normal="1942/1945" era="ce" calendar="gregorian">1942-1945</unitdate>
+<physdesc><extent encodinganalog="300$a">1 cubic foot plus 14 pages of
+		  textual materials</extent></physdesc>
+<daogrp linktype="extended"><daodesc><p>Minidoka Consumers' Cooperative, ca. 1943. Special Collections, UW
+			 Libraries, UW402</p></daodesc><daoloc href="http://www.lib.washington.edu/specialcoll/images/ead/uw402.jpg" linktype="locator" /></daogrp>
+<abstract encodinganalog="5203_$a">Issei
+		  businessman and civic leader who was removed from Seattle to the Minidoka
+		  Relocation Center in Idaho during World War II</abstract>
+<langmaterial>Collection materials are in 
+										<language scriptcode="latn" langcode="eng" encodinganalog="546">English</language>.
+									</langmaterial>
+</did>
+<bioghist encodinganalog="5450_" id="a2"><p>Yoshito Fujii was a Seattle Issei hotel owner and civic leader. During
+		  the incarceration experience, he played an important role in the organization
+		  of a viable community at the Minidoka Relocation Center in Hunt, Idaho. He
+		  served as chairman of the first Board of Directors there and was later chairman
+		  of the Community Council.</p></bioghist>
+<odd encodinganalog="500" id="a5"><p audience="external"> The papers of Harry R. Hatate (folders 2  3)
+		  also document the maintenance worker labor dispute at Minidoka (volume 3
+		  below).</p></odd>
+<acqinfo encodinganalog="541" id="a19"><p>The accession was donated to the Libraries by Yoshito Fujii on
+		  December 26, 1979.</p></acqinfo>
+<controlaccess id="a12">
+<controlaccess>
+<persname source="lcnaf" encodinganalog="600" role="subject">Fujii, Yoshito--Archives</persname>
+<persname source="lcnaf" encodinganalog="600" role="subject">Myer, Dillon S. (Dillon Seymour), 1891-</persname>
+</controlaccess>
+<controlaccess>
+<corpname source="lcnaf" encodinganalog="610" role="subject">Minidoka Relocation Center</corpname>
+</controlaccess>
+<controlaccess>
+<subject source="lcsh" encodinganalog="650">Concentration camp inmates--Idaho--Hunt</subject>
+<subject source="lcsh" encodinganalog="650">Concentration camps--Idaho--Hunt</subject>
+<subject source="lcsh" encodinganalog="650">Concentration camps--Idaho--Hunt--Management</subject>
+<subject source="lcsh" encodinganalog="650">Japanese Americans--Evacuation and relocation, 1942-1945</subject>
+<subject source="lcsh" encodinganalog="650">World War, 1939-1945--Concentration camps--Idaho--Hunt</subject>
+<subject source="lcsh" encodinganalog="650">World War, 1939-1945--Japanese Americans</subject>
+</controlaccess>
+<controlaccess>
+<subject altrender="nodisplay" source="nwda" encodinganalog="690">Civil Rights</subject>
+<subject altrender="nodisplay" source="nwda" encodinganalog="690">Idaho</subject>
+<subject altrender="nodisplay" source="nwda" encodinganalog="690">Japanese Americans</subject>
+<subject altrender="nodisplay" source="nwda" encodinganalog="690">Scrapbooks</subject>
+</controlaccess>
+<controlaccess>
+<genreform source="lcsh" encodinganalog="655">Scrapbooks</genreform>
+</controlaccess>
+</controlaccess>
+<dsc type="combined" id="a23">
+<c01 level="otherlevel" otherlevel="accession">
+<did>
+<unitid>1582-001</unitid>
+<unittitle>Yoshito Fujii's notes on Japanese History in the
+				Northwest, ca. 1610-1930</unittitle>
+<unitdate era="ce" calendar="gregorian">Before 1972</unitdate>
+</did>
+<accessrestrict><p>Access restricted: For terms of access contact Special
+				Collections.</p></accessrestrict><userestrict><p>Creator's literary rights not transferred to the University of
+				Washington Libraries</p></userestrict><acqinfo><p>Y. Fujii, Apr. 12, 1971.</p></acqinfo></c01>
+<c01 level="otherlevel" otherlevel="accession">
+<did>
+<unitid type="accession" encodinganalog="099">1582-002</unitid>
+<unittitle>Yoshito Fujii papers</unittitle>
+<unitdate era="ce" calendar="gregorian">1942-1945</unitdate>
+</did>
+<scopecontent><p>The collection consists of a three-volume scrapbook that contains,
+				among scores of items, minutes, memoranda, reports, and correspondence dating
+				from 1942 to 1945.</p></scopecontent><accessrestrict><p>Open to all users.</p></accessrestrict><userestrict><p>Creator's literary rights transferred to the University of
+				Washington Libraries.</p></userestrict><acqinfo><p>Y. Fujii, Dec. 16, 1979.</p></acqinfo><c02 level="series">
+<did>
+<unittitle>WRA Housing Division</unittitle>
+</did>
+<c03 level="subseries">
+<did>
+<container type="volume">I</container>
+<container type="page">5-6</container>
+<unittitle>Policy and Regulations</unittitle>
+</did>
+</c03>
+<c03 level="subseries">
+<did>
+<container type="volume">I</container>
+<container type="page">7</container>
+<unittitle>Clearance Procedure</unittitle>
+</did>
+</c03>
+<c03 level="subseries">
+<did>
+<container type="volume">I</container>
+<container type="page">8</container>
+<unittitle>Outside Visitors</unittitle>
+</did>
+</c03>
+<c03 level="series">
+<did>
+<container type="volume">I</container>
+<container type="page">9</container>
+<unittitle>Adjustment Board</unittitle>
+</did>
+</c03>
+<c03 level="subseries">
+<did>
+<container type="volume">I</container>
+<container type="page">11</container>
+<unittitle>Housing Census</unittitle>
+</did>
+</c03>
+<c03 level="subseries">
+<did>
+<container type="volume">I</container>
+<container type="page">13-14</container>
+<unittitle>Adjustment</unittitle>
+</did>
+</c03>
+<c03 level="subseries">
+<did>
+<container type="volume">I</container>
+<container type="page">16</container>
+<unittitle>Short Term Leaves</unittitle>
+</did>
+</c03>
+<c03 level="subseries">
+<did>
+<container type="volume">I</container>
+<container type="page">17-18</container>
+<unittitle>Segregation and Adjustment</unittitle>
+</did>
+</c03>
+<c03 level="subseries">
+<did>
+<container type="volume">I</container>
+<container type="page">19</container>
+<unittitle>Housing for Community Activities</unittitle>
+</did>
+</c03>
+<c03 level="subseries">
+<did>
+<container type="volume">I</container>
+<container type="page">20-23</container>
+<unittitle>2000 from the Tule Lake Camp</unittitle>
+</did>
+</c03>
+<c03 level="subseries">
+<did>
+<container type="volume">I</container>
+<container type="page">25</container>
+<unittitle>List of Repatriates</unittitle>
+</did>
+</c03>
+<c03 level="subseries">
+<did>
+<container type="volume">I</container>
+<container type="page">26</container>
+<unittitle>Sample of Case Workers' Reports</unittitle>
+</did>
+</c03>
+</c02>
+<c02 level="series">
+<did>
+<unittitle>Consumers' Cooperative Enterprise</unittitle>
+</did>
+<c03 level="subseries">
+<did>
+<container type="volume">I</container>
+<container type="page">27</container>
+<unittitle>Minutes of Inter-Project Cooperative Conference
+					 </unittitle>
+</did>
+</c03>
+<c03 level="subseries">
+<did>
+<container type="volume">I</container>
+<container type="page">28-33</container>
+<unittitle>Inter-Project Communication Memos</unittitle>
+</did>
+</c03>
+<c03 level="subseries">
+<did>
+<container type="volume">I</container>
+<container type="page">34</container>
+<unittitle>Balance Sheet of Consumer Enterprise, Topaz, Utah
+					 </unittitle>
+</did>
+</c03>
+<c03 level="subseries">
+<did>
+<container type="volume">I</container>
+<container type="page">35</container>
+<unittitle>Minidoka Consumers' Cooperative Membership Dues
+					 </unittitle>
+</did>
+</c03>
+<c03 level="subseries">
+<did>
+<container type="volume">I</container>
+<container type="page">36-37</container>
+<unittitle>Inter-Project Communication</unittitle>
+</did>
+</c03>
+<c03 level="subseries">
+<did>
+<container type="volume">I</container>
+<container type="page">38-39</container>
+<unittitle>Letter to Mr. Gerald Richardson, Washington, D.C.
+					 </unittitle>
+</did>
+</c03>
+<c03 level="subseries">
+<did>
+<container type="volume">I</container>
+<container type="page">40</container>
+<unittitle>Federal  State Unemployment Tax</unittitle>
+</did>
+</c03>
+<c03 level="subseries">
+<did>
+<container type="volume">I</container>
+<container type="page">41-42</container>
+<unittitle>Operating Agreement, Enterprise  WRA</unittitle>
+</did>
+</c03>
+<c03 level="subseries">
+<did>
+<container type="volume">I</container>
+<container type="page">43</container>
+<unittitle>Articles of Incorporation of the Minidoka Consumers'
+					 Cooperative</unittitle>
+</did>
+</c03>
+<c03 level="subseries">
+<did>
+<container type="volume">I</container>
+<container type="page">48</container>
+<unittitle>Additional Shoe Ration Currency</unittitle>
+</did>
+</c03>
+<c03 level="subseries">
+<did>
+<container type="volume">I</container>
+<container type="page">49</container>
+<unittitle>Administrative Instruction No. 28, Financial Condition
+					 of Enterprise</unittitle>
+</did>
+</c03>
+<c03 level="subseries">
+<did>
+<container type="volume">I</container>
+<container type="page">50-51</container>
+<unittitle>Letter from Otto Rossman, Sr. Advisor</unittitle>
+</did>
+</c03>
+<c03 level="subseries">
+<did>
+<container type="volume">I</container>
+<container type="page">52</container>
+<unittitle>Fidelity National Bank's Letter</unittitle>
+</did>
+</c03>
+<c03 level="subseries">
+<did>
+<container type="volume">I</container>
+<container type="page">53</container>
+<unittitle>Question on Employment Tax Liability</unittitle>
+</did>
+</c03>
+<c03 level="subseries">
+<did>
+<unittitle>US Securities  Exchange Commission</unittitle>
+</did>
+<c04 level="file">
+<did>
+<container type="volume">I</container>
+<container type="page">54-56</container>
+<unittitle>Subject: Public Offering</unittitle>
+</did>
+</c04>
+<c04 level="file">
+<did>
+<container type="volume">I</container>
+<container type="page">57</container>
+<unittitle>Reply</unittitle>
+</did>
+</c04>
+<c04 level="file">
+<did>
+<container type="volume">I</container>
+<container type="page">58-59</container>
+<unittitle>Regional Office, Seattle, Wash.</unittitle>
+</did>
+</c04>
+</c03>
+<c03 level="subseries">
+<did>
+<container type="volume">I</container>
+<container type="page">60-62</container>
+<unittitle>Special License</unittitle>
+</did>
+</c03>
+<c03 level="subseries">
+<did>
+<container type="volume">I</container>
+<container type="page">64-66</container>
+<unittitle>Operating Agreement</unittitle>
+</did>
+</c03>
+<c03 level="subseries">
+<did>
+<container type="volume">I</container>
+<container type="page">67</container>
+<unittitle>Letter of Recommendation for Mr. Taikichi Fujihara
+					 </unittitle>
+</did>
+</c03>
+<c03 level="subseries">
+<did>
+<container type="volume">I</container>
+<container type="page">68-69</container>
+<unittitle>Administrative Instruction No. 94, Issuance of Work
+					 Clothing</unittitle>
+</did>
+</c03>
+<c03 level="subseries">
+<did>
+<container type="volume">I</container>
+<container type="page">70</container>
+<unittitle>Movies Showing</unittitle>
+</did>
+</c03>
+<c03 level="subseries">
+<did>
+<container type="volume">I</container>
+<container type="page">71</container>
+<unittitle>Patronage Dividends</unittitle>
+</did>
+</c03>
+<c03 level="subseries">
+<did>
+<container type="volume">I</container>
+<container type="page">72</container>
+<unittitle>Movies, Flowershop, Fish Store, and Newspaper
+					 </unittitle>
+</did>
+</c03>
+<c03 level="subseries">
+<did>
+<container type="volume">I</container>
+<container type="page">73</container>
+<unittitle>Inter-Project Consumers' Enterprise, Employment and
+					 Its Rating - Charter</unittitle>
+</did>
+</c03>
+<c03 level="subseries">
+<did>
+<container type="volume">I</container>
+<container type="page">74-87</container>
+<unittitle>Minutes of Federation of Business - Enterprise
+					 Conference</unittitle>
+</did>
+</c03>
+<c03 level="subseries">
+<did>
+<container type="volume">I</container>
+<container type="page">88</container>
+<unittitle>Montgomery Ward, Catalogs</unittitle>
+</did>
+</c03>
+<c03 level="subseries">
+<did>
+<container type="volume">I</container>
+<container type="page">89-91</container>
+<unittitle>Administrative Notices</unittitle>
+</did>
+</c03>
+<c03 level="subseries">
+<did>
+<container type="volume">I</container>
+<container type="page">92-93</container>
+<unittitle>Joint Meeting with the Administrative Staff Members
+					 </unittitle>
+</did>
+</c03>
+<c03 level="subseries">
+<did>
+<container type="volume">I</container>
+<container type="page">94</container>
+<unittitle>Membership - Stamp Tax</unittitle>
+</did>
+</c03>
+<c03 level="subseries">
+<did>
+<container type="volume">I</container>
+<container type="page">95-96</container>
+<unittitle>License and Job Classification for
+					 Laborers</unittitle>
+</did>
+</c03>
+<c03 level="subseries">
+<did>
+<container type="volume">I</container>
+<container type="page">97-99</container>
+<unittitle>Petition from Barbers and Data</unittitle>
+</did>
+</c03>
+<c03 level="subseries">
+<did>
+<container type="volume">I</container>
+<container type="page">100</container>
+<unittitle>Memo - Fish Supplies in the Diet</unittitle>
+</did>
+</c03>
+<c03 level="subseries">
+<did>
+<container type="volume">I</container>
+<container type="page">101</container>
+<unittitle>Corporation License Tax</unittitle>
+</did>
+</c03>
+<c03 level="subseries">
+<did>
+<container type="volume">I</container>
+<container type="page">102</container>
+<unittitle>Chicago Conference</unittitle>
+</did>
+</c03>
+<c03 level="subseries">
+<did>
+<container type="volume">I</container>
+<container type="page">104-105</container>
+<unittitle>Inter-Office Memo</unittitle>
+</did>
+</c03>
+<c03 level="subseries">
+<did>
+<container type="volume">I</container>
+<container type="page">106</container>
+<unittitle>Operating Statement</unittitle>
+</did>
+</c03>
+<c03 level="subseries">
+<did>
+<container type="volume">I</container>
+<container type="page">107</container>
+<unittitle>Balance Sheet as of Dec. 31, 1943</unittitle>
+</did>
+</c03>
+</c02>
+<c02 level="series">
+<did>
+<unittitle>Community Government</unittitle>
+</did>
+<c03 level="subseries">
+<did>
+<container type="volume">I</container>
+<container type="page">108-111</container>
+<unittitle>Organization</unittitle>
+</did>
+</c03>
+<c03 level="subseries">
+<did>
+<container type="volume">I</container>
+<container type="page">112</container>
+<unittitle>Election Rules for Community Council</unittitle>
+</did>
+</c03>
+<c03 level="subseries">
+<did>
+<container type="volume">I</container>
+<container type="page">113</container>
+<unittitle>First Community Council</unittitle>
+</did>
+</c03>
+<c03 level="subseries">
+<did>
+<container type="volume">I</container>
+<container type="page">114-116</container>
+<unittitle>Officers and Committee Members</unittitle>
+</did>
+</c03>
+<c03 level="subseries">
+<did>
+<container type="volume">I</container>
+<container type="page">117-121</container>
+<unittitle>Minutes of the Community Council Meeting</unittitle>
+<unitdate era="ce" calendar="gregorian">March 9, 1944</unitdate>
+</did>
+</c03>
+<c03 level="subseries">
+<did>
+<container type="volume">I</container>
+<container type="page">121-122</container>
+<unittitle>Minutes of the Community Council Meeting</unittitle>
+<unitdate era="ce" calendar="gregorian">March 14, 1944</unitdate>
+</did>
+</c03>
+<c03 level="subseries">
+<did>
+<container type="volume">I</container>
+<container type="page">123-130</container>
+<unittitle>Joint Meeting of Community Council and Block
+					 Commissioners</unittitle>
+<unitdate era="ce" calendar="gregorian">March 21, 1944</unitdate>
+</did>
+</c03>
+<c03 level="subseries">
+<did>
+<container type="volume">I</container>
+<container type="page">131-135</container>
+<unittitle>Minutes of the Community Council Meeting</unittitle>
+<unitdate era="ce" calendar="gregorian">March 28, 1944</unitdate>
+</did>
+</c03>
+<c03 level="subseries">
+<did>
+<container type="volume">I</container>
+<container type="page">136-138</container>
+<unittitle>Supplemental Reports</unittitle>
+</did>
+</c03>
+</c02>
+<c02 level="series">
+<did>
+<unittitle>Minidoka Community Government</unittitle>
+</did>
+<c03 level="subseries">
+<did>
+<unittitle>Minutes</unittitle>
+</did>
+<c04 level="file">
+<did>
+<container type="volume">II</container>
+<container type="page">3-7</container>
+<unittitle>Community Council Meeting</unittitle>
+<unitdate era="ce" calendar="gregorian">April 4,
+						1944</unitdate>
+</did>
+</c04>
+<c04 level="file">
+<did>
+<container type="volume">II</container>
+<container type="page">8-9</container>
+<unittitle>Community Council Meeting</unittitle>
+<unitdate era="ce" calendar="gregorian">May 10, 1944</unitdate>
+</did>
+</c04>
+<c04 level="file">
+<did>
+<container type="volume">II</container>
+<container type="page">10-16</container>
+<unittitle>Mediation Committee Meeting</unittitle>
+<unitdate era="ce" calendar="gregorian">Jan. 7, 1944</unitdate>
+</did>
+</c04>
+<c04 level="file">
+<did>
+<container type="volume">II</container>
+<container type="page">17-19</container>
+<unittitle>Block Delegates Meeting</unittitle>
+<unitdate era="ce" calendar="gregorian">Jan 8, 1944</unitdate>
+</did>
+</c04>
+<c04 level="file">
+<did>
+<container type="volume">II</container>
+<container type="page">20-21</container>
+<unittitle>Mediation Committee Meeting</unittitle>
+<unitdate era="ce" calendar="gregorian">Jan. 9, 1944</unitdate>
+</did>
+</c04>
+<c04 level="file">
+<did>
+<container type="volume">II</container>
+<container type="page">22-25</container>
+<unittitle>Joint Meeting of Mediation Committee and Sanitation
+						Representatives</unittitle>
+<unitdate era="ce" calendar="gregorian">Jan. 10,
+						1944</unitdate>
+</did>
+</c04>
+<c04 level="file">
+<did>
+<container type="volume">II</container>
+<container type="page">26-28</container>
+<unittitle>Joint Meeting of Boilermen, Janitors and
+						Janitoresses </unittitle>
+<unitdate era="ce" calendar="gregorian">Jan. 10,
+						1944</unitdate>
+</did>
+</c04>
+</c03>
+<c03 level="subseries">
+<did>
+<container type="volume">II</container>
+<container type="page">29</container>
+<unittitle>Letter Addressed to Mr. Stafford, Project Director
+					 </unittitle>
+</did>
+</c03>
+<c03 level="subseries">
+<did>
+<container type="volume">II</container>
+<container type="page">30-37</container>
+<unittitle>Summaries of Our Observation on the Dispute Between
+					 the Administration and Maintenance Workers</unittitle>
+</did>
+</c03>
+<c03 level="subseries">
+<did>
+<unittitle>Agendas</unittitle>
+</did>
+<c04 level="file">
+<did>
+<container type="volume">II</container>
+<container type="page">38</container>
+<unittitle>Regular Monthly Joint Meeting with the Block
+						Commissioners</unittitle>
+<unitdate era="ce" calendar="gregorian">May 16, 1944</unitdate>
+</did>
+</c04>
+<c04 level="file">
+<did>
+<container type="volume">II</container>
+<container type="page">39</container>
+<unittitle>Special Community Council Meeting</unittitle>
+<unitdate era="ce" calendar="gregorian">May 29, 1944</unitdate>
+</did>
+</c04>
+<c04 level="file">
+<did>
+<container type="volume">II</container>
+<container type="page">40</container>
+<unittitle>Special Community Council Meeting</unittitle>
+<unitdate era="ce" calendar="gregorian">June 6, 1944</unitdate>
+</did>
+</c04>
+<c04 level="file">
+<did>
+<container type="volume">II</container>
+<container type="page">41</container>
+<unittitle>Special Joint Meeting with the Block Commissioners
+						</unittitle>
+<unitdate era="ce" calendar="gregorian">June 7, 1944</unitdate>
+</did>
+</c04>
+<c04 level="file">
+<did>
+<container type="volume">II</container>
+<container type="page">42</container>
+<unittitle>Special Community Council Meeting</unittitle>
+<unitdate era="ce" calendar="gregorian">June 14,
+						1944</unitdate>
+</did>
+</c04>
+<c04 level="file">
+<did>
+<container type="volume">II</container>
+<container type="page">43</container>
+<unittitle>Regular Monthly Joint Meeting with the Block
+						Commissioners</unittitle>
+<unitdate era="ce" calendar="gregorian">June 20,
+						1944</unitdate>
+</did>
+</c04>
+<c04 level="file">
+<did>
+<container type="volume">II</container>
+<container type="page">44</container>
+<unittitle>Regular Monthly Joint Meeting with the Block
+						Commissioners</unittitle>
+<unitdate era="ce" calendar="gregorian">June 18,
+						1944</unitdate>
+</did>
+</c04>
+</c03>
+<c03 level="subseries">
+<did>
+<unittitle>Minutes</unittitle>
+</did>
+<c04 level="file">
+<did>
+<container type="volume">II</container>
+<container type="page">48-50</container>
+<unittitle>Special Joint Meeting of Community Council (Old
+						 New Members)</unittitle>
+<unitdate era="ce" calendar="gregorian">Sept. 5,
+						1944</unitdate>
+</did>
+</c04>
+<c04 level="file">
+<did>
+<container type="volume">II</container>
+<container type="page">51-52</container>
+<unittitle>Community Council Meeting</unittitle>
+<unitdate era="ce" calendar="gregorian">Sept. 26,
+						1944</unitdate>
+</did>
+</c04>
+<c04 level="file">
+<did>
+<container type="volume">II</container>
+<container type="page">53-56</container>
+<unittitle>Community Council Meeting</unittitle>
+<unitdate era="ce" calendar="gregorian">Oct. 2, 1944</unitdate>
+</did>
+</c04>
+<c04 level="file">
+<did>
+<container type="volume">II</container>
+<container type="page">57-58</container>
+<unittitle>Special Council Meeting</unittitle>
+<unitdate era="ce" calendar="gregorian">Oct. 2, 1944</unitdate>
+</did>
+</c04>
+<c04 level="file">
+<did>
+<container type="volume">II</container>
+<container type="page">61-62</container>
+<unittitle>Community Council Meeting</unittitle>
+<unitdate era="ce" calendar="gregorian">Oct. 24,
+						1944</unitdate>
+</did>
+</c04>
+<c04 level="file">
+<did>
+<container type="volume">II</container>
+<container type="page">63-64</container>
+<unittitle>Special Community Council Meeting</unittitle>
+<unitdate era="ce" calendar="gregorian">Oct. 26,
+						1944</unitdate>
+</did>
+</c04>
+<c04 level="file">
+<did>
+<container type="volume">II</container>
+<container type="page">65-67</container>
+<unittitle>Community Council Meeting</unittitle>
+<unitdate era="ce" calendar="gregorian">Nov. 7, 1944</unitdate>
+</did>
+</c04>
+<c04 level="file">
+<did>
+<container type="volume">II</container>
+<container type="page">68-69</container>
+<unittitle>Community Council Meeting</unittitle>
+<unitdate era="ce" calendar="gregorian">Nov. 28,
+						1944</unitdate>
+</did>
+</c04>
+<c04 level="file">
+<did>
+<container type="volume">II</container>
+<container type="page">70-71</container>
+<unittitle>Special Community Council Meeting</unittitle>
+<unitdate era="ce" calendar="gregorian">Dec. 4, 1944</unitdate>
+</did>
+</c04>
+<c04 level="file">
+<did>
+<container type="volume">II</container>
+<container type="page">72-73</container>
+<unittitle>Community Council Meeting</unittitle>
+<unitdate era="ce" calendar="gregorian">Dec. 19,
+						1944</unitdate>
+</did>
+</c04>
+<c04 level="file">
+<did>
+<container type="volume">II</container>
+<container type="page">74-75</container>
+<unittitle>Community Council Meeting</unittitle>
+<unitdate era="ce" calendar="gregorian">Jan. 16,
+						1945</unitdate>
+</did>
+</c04>
+<c04 level="file">
+<did>
+<container type="volume">II</container>
+<container type="page">76-80</container>
+<unittitle>Meeting of Community Council and the Block
+						Commissioners with Mr. S. T. Kimball</unittitle>
+<unitdate era="ce" calendar="gregorian">Jan. 4, 1945</unitdate>
+</did>
+</c04>
+<c04 level="file">
+<did>
+<container type="volume">II</container>
+<container type="page">81-86</container>
+<unittitle>The Japanese Translation of the Minutes Mentioned
+						Above</unittitle>
+</did>
+</c04>
+</c03>
+<c03 level="subseries">
+<did>
+<container type="volume">II</container>
+<container type="page">87-96</container>
+<unittitle>Summary of WRA Policies and Procedures for the Final
+					 Phase of the Relocation Program</unittitle>
+</did>
+</c03>
+<c03 level="subseries">
+<did>
+<container type="volume">II</container>
+<container type="page">97-124</container>
+<unittitle>Minutes of Meeting of the Community Council and the
+					 Block Commissioners, with Mr. D. S. Myer, National Director</unittitle>
+<unitdate era="ce" calendar="gregorian">Feb. 19, 1945</unitdate>
+</did>
+</c03>
+<c03 level="subseries">
+<did>
+<container type="volume">II</container>
+<container type="page">125</container>
+<unittitle>Public Announcement Made by Mr. Dillon S. Myer,
+					 National Director</unittitle>
+<unitdate era="ce" calendar="gregorian">early 1945</unitdate>
+</did>
+</c03>
+<c03 level="subseries">
+<did>
+<container type="volume">II</container>
+<container type="page">126-132</container>
+<unittitle>Report to Mr. Myer from Residents of Minidoka
+					 </unittitle>
+<unitdate era="ce" calendar="gregorian">Feb.19, 1945</unitdate>
+</did>
+</c03>
+<c03 level="subseries">
+<did>
+<container type="volume">II</container>
+<container type="page">133</container>
+<unittitle>Letter from Mr. Stafford to Community Council Chairman
+					 </unittitle>
+</did>
+</c03>
+<c03 level="subseries">
+<did>
+<container type="volume">II</container>
+<container type="page">134-135</container>
+<unittitle>Letter to Mr. Stafford from Stafford School PTA
+					 </unittitle>
+</did>
+</c03>
+<c03 level="subseries">
+<did>
+<container type="volume">II</container>
+<container type="page">143-144</container>
+<unittitle>Minutes of Joint Meeting of the Old and New Community
+					 Council and the Block Commissioners</unittitle>
+<unitdate era="ce" calendar="gregorian">Mar. 12, 1945</unitdate>
+</did>
+</c03>
+</c02>
+<c02 level="series">
+<did>
+<unittitle>Supplementary Documents</unittitle>
+</did>
+<c03 level="subseries">
+<did>
+<container type="volume">III</container>
+<container type="page">2-32</container>
+<unittitle>Center Regulations</unittitle>
+<unitdate era="ce" calendar="gregorian">July 10, 1942</unitdate>
+</did>
+</c03>
+<c03 level="subseries">
+<did>
+<unittitle>Labor Dispute - Between Administration and Maintenance
+					 Workers</unittitle>
+</did>
+<c04 level="file">
+<did>
+<container type="volume">III</container>
+<container type="page">34</container>
+<unittitle>Letter to Mr. Stafford, Proj. Director</unittitle>
+<unitdate era="ce" calendar="gregorian">Jan. 7, 1944</unitdate>
+</did>
+</c04>
+<c04 level="file">
+<did>
+<container type="volume">III</container>
+<container type="page">35-37</container>
+<unittitle>The Arbitration Committee's Observation and
+						Recommendations</unittitle>
+</did>
+</c04>
+<c04 level="file">
+<did>
+<container type="volume">III</container>
+<container type="page">38</container>
+<unittitle>Memo to Janitorial Service Workers</unittitle>
+</did>
+</c04>
+<c04 level="file">
+<did>
+<container type="volume">III</container>
+<container type="page">39</container>
+<unittitle>Copy of Teletype Message from Mr. Myer, WRA Wa
+						</unittitle>
+</did>
+</c04>
+<c04 level="file">
+<did>
+<container type="volume">III</container>
+<container type="page">40</container>
+<unittitle>Letter from Mr. Stafford to Community Council
+						</unittitle>
+</did>
+</c04>
+<c04 level="file">
+<did>
+<container type="volume">III</container>
+<container type="page">41</container>
+<unittitle>Recommendation from Council Mediation Committee
+						</unittitle>
+</did>
+</c04>
+<c04 level="file">
+<did>
+<container type="volume">III</container>
+<container type="page">42</container>
+<unittitle>Letter from Mr. Stafford to Mr. Hatade [i.e.,
+						Hatate], Supervisor, and All Maintenance Employees</unittitle>
+</did>
+</c04>
+<c04 level="file">
+<did>
+<container type="volume">III</container>
+<container type="page">43</container>
+<unittitle>Minutes of Mediation Committee Meeting</unittitle>
+<unitdate era="ce" calendar="gregorian">Jan. 7, 1944</unitdate>
+</did>
+</c04>
+<c04 level="file">
+<did>
+<container type="volume">III</container>
+<container type="page">44-49</container>
+<unittitle>Minutes of Joint Meeting with
+						Mr.Stafford</unittitle>
+<unitdate era="ce" calendar="gregorian">Jan. 7, 1944</unitdate>
+</did>
+</c04>
+<c04 level="file">
+<did>
+<container type="volume">III</container>
+<container type="page">50-52</container>
+<unittitle>Minutes of Block Delegates</unittitle>
+<unitdate era="ce" calendar="gregorian">Jan. 8, 1944</unitdate>
+</did>
+</c04>
+<c04 level="file">
+<did>
+<container type="volume">III</container>
+<container type="page">53</container>
+<unittitle>Minutes of Mediation Committee</unittitle>
+<unitdate era="ce" calendar="gregorian">Jan. 9, 1944 (2:00
+						p.m.)</unitdate>
+</did>
+</c04>
+<c04 level="file">
+<did>
+<container type="volume">III</container>
+<container type="page">54</container>
+<unittitle>Minutes of Mediation Committee</unittitle>
+<unitdate era="ce" calendar="gregorian">Jan. 9, 1944 (4:30
+						p.m.)</unitdate>
+</did>
+</c04>
+<c04 level="file">
+<did>
+<container type="volume">III</container>
+<container type="page">55-58</container>
+<unittitle>Minutes of Joint of Mediation Committee and
+						Sanitation Representatives</unittitle>
+<unitdate era="ce" calendar="gregorian">Jan. 10, 1944 (10
+						a.m.)</unitdate>
+</did>
+</c04>
+<c04 level="file">
+<did>
+<container type="volume">III</container>
+<container type="page">59-61</container>
+<unittitle>Minutes of Joint Meeting of Boilermen, Janitors,
+						 Janitoresses</unittitle>
+<unitdate era="ce" calendar="gregorian">Jan. 10, 1944 (3:00
+						p.m.)</unitdate>
+</did>
+</c04>
+</c03>
+<c03 level="subseries">
+<did>
+<unittitle>Labor Dispute - In the Construction of Project
+					 Gymnasium </unittitle>
+</did>
+<c04 level="file">
+<did>
+<container type="volume">III</container>
+<container type="page">62</container>
+<unittitle>Memorandum from Mr. Stafford to Council Chairman
+						</unittitle>
+</did>
+</c04>
+<c04 level="file">
+<did>
+<container type="volume">III</container>
+<container type="page">63</container>
+<unittitle>Memorandum to Mr. Rawlings, Ass. Proj. Director in
+						Charge of Operations</unittitle>
+<unitdate era="ce" calendar="gregorian">Oct. 20,
+						1944</unitdate>
+</did>
+</c04>
+<c04 level="file">
+<did>
+<container type="volume">III</container>
+<container type="page">64-67</container>
+<unittitle>Our Reply to Mr. Stafford</unittitle>
+<unitdate era="ce" calendar="gregorian">Oct. 27,
+						1944</unitdate>
+</did>
+</c04>
+<c04 level="file">
+<did>
+<container type="volume">III</container>
+<container type="page">68</container>
+<unittitle>Letter from Mr. Stafford</unittitle>
+<unitdate era="ce" calendar="gregorian">Oct. 27,
+						1944</unitdate>
+</did>
+</c04>
+<c04 level="file">
+<did>
+<container type="volume">III</container>
+<container type="page">69</container>
+<unittitle>Copy of Memo to Mr. Rawlings</unittitle>
+<unitdate era="ce" calendar="gregorian">Oct. 25,
+						1944</unitdate>
+</did>
+</c04>
+<c04 level="file">
+<did>
+<container type="volume">III</container>
+<container type="page">70-71</container>
+<unittitle>Copy of Letter from Mr. Plank, Sr. Engineer, to Mr.
+						Rawlings</unittitle>
+<unitdate era="ce" calendar="gregorian">Oct. 26,
+						1944</unitdate>
+</did>
+</c04>
+<c04 level="file">
+<did>
+<container type="volume">III</container>
+<container type="page">72</container>
+<unittitle>Copy of a Letter from Mr. Myer to Mr. Stafford
+						</unittitle>
+<unitdate era="ce" calendar="gregorian">Oct. 20,
+						1944</unitdate>
+</did>
+</c04>
+<c04 level="file">
+<did>
+<container type="volume">III</container>
+<container type="page">73-76</container>
+<unittitle>Letter from Mr. Stafford to Community Council
+						Chairman </unittitle>
+<unitdate era="ce" calendar="gregorian">Nov. 13,
+						1944</unitdate>
+</did>
+</c04>
+<c04 level="file">
+<did>
+<container type="volume">III</container>
+<container type="page">77</container>
+<unittitle>Diagram of Relationship of All Concerned and Their
+						Responsibilities in Gym. Construction</unittitle>
+</did>
+</c04>
+<c04 level="file">
+<did>
+<container type="volume">III</container>
+<container type="page">78</container>
+<unittitle>Notice of Meeting to Mr. Omura</unittitle>
+<unitdate era="ce" calendar="gregorian">Nov. 13,
+						1944</unitdate>
+</did>
+</c04>
+<c04 level="file">
+<did>
+<container type="volume">III</container>
+<container type="page">79</container>
+<unittitle>Japanese Recruiting Notice for Work Crew</unittitle>
+</did>
+</c04>
+<c04 level="file">
+<did>
+<container type="volume">III</container>
+<container type="page">80</container>
+<unittitle>Copy of Teletype Message from Mr. Stafford to Mr.
+						Myer </unittitle>
+<unitdate era="ce" calendar="gregorian">Nov. 15,
+						1944</unitdate>
+</did>
+</c04>
+<c04 level="file">
+<did>
+<container type="volume">III</container>
+<container type="page">81</container>
+<unittitle>Signed Petition from Hunt High School Student
+						Council to Community Council Chairman</unittitle>
+<unitdate era="ce" calendar="gregorian">Nov. 17,
+						1944</unitdate>
+</did>
+</c04>
+<c04 level="file">
+<did>
+<container type="volume">III</container>
+<container type="page">82-83</container>
+<unittitle>Office Memorandum from Mr. Stafford to Community
+						Council Chairman</unittitle>
+<unitdate era="ce" calendar="gregorian">Nov. 17,
+						1944</unitdate>
+</did>
+</c04>
+<c04 level="file">
+<did>
+<container type="volume">III</container>
+<container type="page">84-86</container>
+<unittitle>Teletype to Mr. Myer, Wn.</unittitle>
+<unitdate era="ce" calendar="gregorian">Nov. 20,
+						1944</unitdate>
+</did>
+</c04>
+<c04 level="file">
+<did>
+<container type="volume">III</container>
+<container type="page">87-88</container>
+<unittitle>Letter from Mr. Stafford to Council Chairman
+						</unittitle>
+<unitdate era="ce" calendar="gregorian">Dec. 2, 1944</unitdate>
+</did>
+</c04>
+</c03>
+<c03 level="subseries">
+<did>
+<unittitle>Closing Pickling Plants and Some Labor Problems
+					 </unittitle>
+</did>
+<c04 level="file">
+<did>
+<container type="volume">III</container>
+<container type="page">89</container>
+<unittitle>Letter to Mr. Davidson, Ass. Proj. Director, in
+						Charge of Operation</unittitle>
+<unitdate era="ce" calendar="gregorian">Mar. 11,
+						1944</unitdate>
+</did>
+</c04>
+<c04 level="file">
+<did>
+<container type="volume">III</container>
+<container type="page">90-91</container>
+<unittitle>Letter from Mr. Miller, Acting Proj. Director, to
+						Council Chairman</unittitle>
+<unitdate era="ce" calendar="gregorian">Mar. 14,
+						1944</unitdate>
+</did>
+</c04>
+<c04 level="file">
+<did>
+<container type="volume">III</container>
+<container type="page">92-95</container>
+<unittitle>Minutes of Joint Meeting of the Pickling
+						Plantworkers and Representatives of the Farm Division</unittitle>
+<unitdate era="ce" calendar="gregorian">Mar. 18,
+						1944</unitdate>
+</did>
+</c04>
+</c03>
+<c03 level="subseries">
+<did>
+<unittitle>Suspension of the Community Activities Program
+					 </unittitle>
+</did>
+<c04 level="file">
+<did>
+<container type="volume">III</container>
+<container type="page">96-98</container>
+<unittitle>Letter to Mr. Stafford</unittitle>
+<unitdate era="ce" calendar="gregorian">Oct. 31,
+						1944</unitdate>
+</did>
+</c04>
+<c04 level="file">
+<did>
+<container type="volume">III</container>
+<container type="page">99-100</container>
+<unittitle>Letter from Mr. Stafford to Council Chairman
+						</unittitle>
+<unitdate era="ce" calendar="gregorian">Nov. 10,
+						1944</unitdate>
+</did>
+</c04>
+</c03>
+<c03 level="subseries">
+<did>
+<unittitle>Disbanding of the Emergency Crew Set-up</unittitle>
+</did>
+<c04 level="file">
+<did>
+<container type="volume">III</container>
+<container type="page">101</container>
+<unittitle>Letter from Mr. Stafford to Council Chairman
+						</unittitle>
+<unitdate era="ce" calendar="gregorian">Nov. 27,
+						1944</unitdate>
+</did>
+</c04>
+<c04 level="file">
+<did>
+<container type="volume">III</container>
+<container type="page">102</container>
+<unittitle>Letter from Mr. Stafford to Council Chairman
+						</unittitle>
+<unitdate era="ce" calendar="gregorian">Nov. 29,
+						1944</unitdate>
+</did>
+</c04>
+<c04 level="file">
+<did>
+<container type="volume">III</container>
+<container type="page">102-106</container>
+<unittitle>Letter from Mr. Stafford to Council Chairman
+						</unittitle>
+<unitdate era="ce" calendar="gregorian">Dec. 12,
+						1944</unitdate>
+</did>
+</c04>
+</c03>
+<c03 level="subseries">
+<did>
+<unittitle>Coal Hauling Operation  Labor Problem</unittitle>
+</did>
+<c04 level="file">
+<did>
+<container type="volume">III</container>
+<container type="page">107</container>
+<unittitle>Letter from Mr. Stafford to Council Chairman
+						</unittitle>
+<unitdate era="ce" calendar="gregorian">Nov. 30,
+						1944</unitdate>
+</did>
+</c04>
+<c04 level="file">
+<did>
+<container type="volume">III</container>
+<container type="page">108-109</container>
+<unittitle>Letter from Mr. Stafford to Council Chairman
+						</unittitle>
+<unitdate era="ce" calendar="gregorian">Dec. 7, 1944</unitdate>
+</did>
+</c04>
+<c04 level="file">
+<did>
+<container type="volume">III</container>
+<container type="page">110</container>
+<unittitle>Copy of Memo to Mr. Gooding</unittitle>
+<unitdate era="ce" calendar="gregorian">Dec. 6, 1944</unitdate>
+</did>
+</c04>
+<c04 level="file">
+<did>
+<container type="volume">III</container>
+<container type="page">111</container>
+<unittitle>Memo from Mr. Barrett, Proj. Attorney</unittitle>
+<unitdate era="ce" calendar="gregorian">Dec. 9, 1944</unitdate>
+</did>
+</c04>
+</c03>
+<c03 level="subseries">
+<did>
+<container type="volume">III</container>
+<container type="page">112-114</container>
+<unittitle>Special Report to Mr. Kimball, Community Org. Advisor
+					 W.R.A.</unittitle>
+</did>
+</c03>
+</c02>
+</c01>
+</dsc>
+</archdesc>
+</ead>

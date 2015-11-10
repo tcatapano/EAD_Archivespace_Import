@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.library.yale.edu/facc/schemas/ead/ead.xsd"
+     id="mssa.ms.0879">
+   <eadheader findaidstatus="edited-full-draft" repositoryencoding="iso15511"
+              countryencoding="iso3166-1"
+              dateencoding="iso8601"
+              langencoding="iso639-2b"
+              audience="internal"
+              scriptencoding="iso15924">
+      <eadid countrycode="US" mainagencycode="US-CtY"
+             publicid="-//Yale University::Manuscripts and Archives//TEXT (US::CtY::::[Robert Kaplan papers])//EN"
+             url="http://hdl.handle.net/10079/fa/mssa.ms.0879">mssa.ms.0879</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper type="formal">Guide to the Robert Kaplan Papers
+                    </titleproper>
+            <titleproper type="filing" audience="internal">Kaplan (Robert) Papers</titleproper>
+            <author>compiled by Tamar Evangelestia-Dougherty</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Yale University Library</publisher>
+            <publisher>Manuscripts and Archives</publisher>
+            <address>
+               <addressline>New Haven, Connecticut</addressline>
+            </address>
+            <date type="original" normal="2002-06">June 2002</date>
+            <p>
+               <extref ns2:type="simple" ns2:actuate="onRequest" ns2:show="new"
+                       ns2:href="http://hdl.handle.net/10079/9p8czk9">Copyright © <date type="copyright" normal="2012">2012</date> by the Yale University Library. </extref>
+            </p>
+         </publicationstmt>
+         <notestmt>
+            <note type="bpg">
+               <p>This encoded finding aid is compliant with the Yale EAD Best Practice Guidelines, Version 1.0.</p>
+            </note>
+         </notestmt>
+      </filedesc>
+      <profiledesc>
+         <creation>This finding aid was produced using the Archivists' Toolkit
+                </creation>
+         <langusage>Finding aid written in 
+                <language langcode="eng" scriptcode="Latn">English</language>.</langusage>
+         <descrules>Describing Archives: A Content Standard</descrules>
+      </profiledesc>
+   </eadheader>
+   <archdesc level="collection" relatedencoding="MARC21" type="register">
+      <did>
+         <head>Overview</head>
+         <unitid label="Call Number:" countrycode="US" repositorycode="US-CtY">MS 879</unitid>
+         <origination label="Creator:">
+            <persname rules="aacr" source="ingest">Kaplan, Robert.</persname>
+         </origination>
+         <unittitle label="Title:">Robert Kaplan papers</unittitle>
+         <unitdate normal="1918/1971" type="inclusive" label="Dates:" calendar="gregorian"
+                   era="ce"
+                   datechar="creation">1918-1971</unitdate>
+         <unitdate normal="1945/1959" type="bulk" label="Bulk Dates:" calendar="gregorian"
+                   era="ce"
+                   datechar="creation"> 1945-1959</unitdate>
+         <physdesc label="Physical Description:">
+            <extent>1 linear foot</extent>
+         </physdesc>
+         <abstract label="Summary:">The collection consists of correspondence, research materials and unpublished writings of Robert Kaplan. The research materials and writings document John L. Lewis, the UMWA Welfare and Retirement Fund, and Josephine Roche, retirement fund director.</abstract>
+         <langmaterial label="Language(s):">The materials are in <language langcode="eng" scriptcode="Latn">English</language>.</langmaterial>
+         <repository label="Repository:">
+            <corpname>Manuscripts and Archives</corpname>
+            <address>
+               <addressline>Sterling Memorial Library</addressline>
+               <addressline>128 Wall Street</addressline>
+               <addressline>P.O. Box 208240</addressline>
+               <addressline>New Haven, CT 06520</addressline>
+               <addressline altrender="web">Web: http://www.library.yale.edu/mssa/</addressline>
+               <addressline altrender="email">Email: mssa.assist@yale.edu</addressline>
+               <addressline altrender="phone">Phone: (203) 432-1735</addressline>
+               <addressline altrender="fax">Fax: (203) 432-7441</addressline>
+            </address>
+         </repository>
+      </did>
+      <descgrp type="admininfo" id="ai">
+         <head>Administrative Information</head>
+         <descgrp type="provenance" id="prov">
+            <head>Provenance</head>
+            <acqinfo id="ref3">
+               <p>Gift of Grace Kaplan, 1978.</p>
+            </acqinfo>
+         </descgrp>
+         <userestrict id="ref4">
+            <head>Ownership  Copyright</head>
+            <p>Copyright has not been transferred to Yale University.</p>
+         </userestrict>
+         <prefercite id="ref5">
+            <head>Cite As</head>
+            <p>Robert Kaplan Papers (MS 879). Manuscripts and Archives, Yale University Library.</p>
+         </prefercite>
+         <relatedmaterial id="ref6">
+            <head>Associated Materials</head>
+            <p>Forms part of the Contemporary Medical Care and Health Policy Collection.</p>
+         </relatedmaterial>
+      </descgrp>
+      <bioghist id="ref9">
+         <head>Biographical History</head>
+         <p>Robert Kaplan was the research director for the United Mine Workers Union of America (UMWA) from 1942 to 1967. He also served as the archivist in charge of documenting American labor leader John L. Lewis' term as president of the UMWA. As research director, Kaplan often contributed commentaries on economics and labor relations to the 
+                <title render="italic" ns2:type="simple">UMWA Journal</title>.</p>
+      </bioghist>
+      <scopecontent id="ref10">
+         <head>Description of the Collection</head>
+         <p>The collection consists of correspondence, research materials and unpublished writings of Robert Kaplan. The research materials and writings document John L. Lewis, the UMWA Welfare and Retirement Fund, and Josephine Roche, retirement fund director.</p>
+      </scopecontent>
+      <dsc type="combined">
+         <head>Collection Contents</head>
+         <c01 id="ref11" level="series">
+            <did>
+               <unittitle>Inventory</unittitle>
+            </did>
+            <c02 id="ref12" level="file">
+               <did>
+                  <container type="Box" label="39002051916154">1</container>
+                  <container type="Folder">1</container>
+                  <unittitle>Correspondence</unittitle>
+                  <unitdate normal="1943/1971" type="inclusive">1943-1971</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref13" level="file">
+               <did>
+                  <unittitle>Research materials</unittitle>
+               </did>
+               <c03 id="ref14" level="file">
+                  <did>
+                     <unittitle>John L. Lewis</unittitle>
+                  </did>
+                  <c04 id="ref15" level="file">
+                     <did>
+                        <container type="Box" label="39002051916154">1</container>
+                        <container type="Folder">2</container>
+                        <unittitle>Correspondence</unittitle>
+                        <unitdate normal="1946/1957" type="inclusive">1946-1957</unitdate>
+                     </did>
+                  </c04>
+                  <c04 id="ref16" level="file">
+                     <did>
+                        <container type="Box" label="39002051916154">1</container>
+                        <container type="Folder">3</container>
+                        <unittitle>Memoranda and notices</unittitle>
+                        <unitdate normal="1948/1957" type="inclusive">1948-1957</unitdate>
+                     </did>
+                  </c04>
+                  <c04 id="ref17" level="file">
+                     <did>
+                        <unittitle>Photographs</unittitle>
+                     </did>
+                     <c05 id="ref18" level="file">
+                        <did>
+                           <container type="Box" label="39002051916154">1</container>
+                           <container type="Folder">4 - 6</container>
+                           <unittitle>General</unittitle>
+                           <unitdate normal="1946/1959" type="inclusive">1946-1959</unitdate>
+                        </did>
+                     </c05>
+                     <c05 id="ref19" level="file">
+                        <did>
+                           <container type="Box" label="39002051916154">1</container>
+                           <container type="Folder">7</container>
+                           <unittitle>Portraits</unittitle>
+                           <unitdate normal="1952/1964" type="inclusive">1952-1964</unitdate>
+                        </did>
+                     </c05>
+                     <c05 id="ref20" level="file">
+                        <did>
+                           <container type="Box" label="39002051916154">1</container>
+                           <container type="Folder">8 - 9</container>
+                           <unittitle>Senate Subcommittee on Labor and Public Welfare hearing</unittitle>
+                           <unitdate normal="1957/1957">1957</unitdate>
+                        </did>
+                     </c05>
+                  </c04>
+                  <c04 id="ref21" level="file">
+                     <did>
+                        <unittitle>Speeches and statements</unittitle>
+                     </did>
+                     <c05 id="ref22" level="file">
+                        <did>
+                           <container type="Box" label="39002051916154">1</container>
+                           <container type="Folder">10 - 15</container>
+                           <unittitle>General</unittitle>
+                           <unitdate normal="1920/1952" type="inclusive">1920-1952</unitdate>
+                        </did>
+                     </c05>
+                     <c05 id="ref23" level="file">
+                        <did>
+                           <container type="Box" label="39002051916162">2</container>
+                           <container type="Folder">16</container>
+                           <unittitle>Congress of Industrial Organizations (CIO)</unittitle>
+                           <unitdate normal="1935/1935">1935</unitdate>
+                        </did>
+                     </c05>
+                  </c04>
+               </c03>
+               <c03 id="ref24" level="file">
+                  <did>
+                     <unittitle>Josephine Roche</unittitle>
+                  </did>
+                  <c04 id="ref25" level="file">
+                     <did>
+                        <container type="Box" label="39002051916162">2</container>
+                        <container type="Folder">17</container>
+                        <unittitle>Correspondence</unittitle>
+                        <unitdate normal="1959/1968" type="inclusive">1959-1968</unitdate>
+                     </did>
+                  </c04>
+                  <c04 id="ref26" level="file">
+                     <did>
+                        <container type="Box" label="39002051916162">2</container>
+                        <container type="Folder">18</container>
+                        <unittitle>Photographs</unittitle>
+                        <unitdate normal="1956/1960" type="inclusive">1956-1960</unitdate>
+                     </did>
+                  </c04>
+                  <c04 id="ref27" level="file">
+                     <did>
+                        <container type="Box" label="39002051916162">2</container>
+                        <container type="Folder">19</container>
+                        <unittitle>Testimonies and statements</unittitle>
+                        <unitdate normal="1938/1956" type="inclusive">1938-1956</unitdate>
+                     </did>
+                  </c04>
+                  <c04 id="ref28" level="file">
+                     <did>
+                        <container type="Box" label="39002051916162">2</container>
+                        <container type="Folder">20</container>
+                        <unittitle>
+                           <title render="italic" ns2:type="simple">Wage Earning Women and Girls in Baltimore</title> [monograph], by Josephine Roche</unittitle>
+                        <unitdate normal="1918/1918">1918</unitdate>
+                     </did>
+                  </c04>
+               </c03>
+               <c03 id="ref29" level="file">
+                  <did>
+                     <unittitle>UMWA Welfare and Retirement Fund</unittitle>
+                  </did>
+                  <c04 id="ref30" level="file">
+                     <did>
+                        <unittitle>Manuscripts</unittitle>
+                     </did>
+                     <c05 id="ref31" level="file">
+                        <did>
+                           <container type="Box" label="39002051916162">2</container>
+                           <container type="Folder">21</container>
+                           <unittitle>"Causes of Conflict Between the UMWA Retirement Fund and Organized Medicine," by Peter Rich</unittitle>
+                           <unitdate normal="1960/1960">1960</unitdate>
+                        </did>
+                     </c05>
+                     <c05 id="ref32" level="file">
+                        <did>
+                           <container type="Box" label="39002051916162">2</container>
+                           <container type="Folder">22</container>
+                           <unittitle>"The Medical, Health and Hospital Service of the Welfare and Retirement Fund of the UMWA," by M. L. Ingar</unittitle>
+                           <unitdate normal="1958/1958">1958</unitdate>
+                        </did>
+                     </c05>
+                     <c05 id="ref33" level="file">
+                        <did>
+                           <container type="Box" label="39002051916162">2</container>
+                           <container type="Folder">23 - 24</container>
+                           <unittitle>"The Healing Chain: How the Miners Created a New Pattern of Medical Care," by Alfred Deutsch</unittitle>
+                           <unitdate normal="1959/1959">1959</unitdate>
+                        </did>
+                     </c05>
+                  </c04>
+                  <c04 id="ref34" level="file">
+                     <did>
+                        <unittitle>Photographs</unittitle>
+                     </did>
+                     <c05 id="ref35" level="file">
+                        <did>
+                           <container type="Box" label="39002051916162">2</container>
+                           <container type="Folder">25</container>
+                           <unittitle>Disabled mine workers</unittitle>
+                           <unitdate normal="1946/1949" type="inclusive">1946-1949</unitdate>
+                        </did>
+                     </c05>
+                     <c05 id="ref36" level="file">
+                        <did>
+                           <container type="Box" label="39002051916162">2</container>
+                           <container type="Folder">26</container>
+                           <unittitle>Centralia Mine disaster [for retirement fund pamphlet]</unittitle>
+                           <unitdate normal="1947/1948" type="inclusive">1947-1948</unitdate>
+                        </did>
+                     </c05>
+                  </c04>
+                  <c04 id="ref37" level="file">
+                     <did>
+                        <container type="Box" label="39002051916162">2</container>
+                        <container type="Folder">27</container>
+                        <unittitle>Printed matter</unittitle>
+                        <unitdate normal="1930/1959" type="inclusive">1930-1959</unitdate>
+                     </did>
+                  </c04>
+               </c03>
+            </c02>
+            <c02 id="ref38" level="file">
+               <did>
+                  <unittitle>Writings</unittitle>
+               </did>
+               <c03 id="ref39" level="file">
+                  <did>
+                     <container type="Box" label="39002051916170">3</container>
+                     <container type="Folder">28</container>
+                     <unittitle>
+                        <title render="italic" ns2:type="simple">UMWA Journal</title>
+                     </unittitle>
+                     <unitdate normal="1940/1947" type="inclusive">1940-1947</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref40" level="file">
+                  <did>
+                     <unittitle>Manuscripts</unittitle>
+                  </did>
+                  <c04 id="ref41" level="file">
+                     <did>
+                        <container type="Box" label="39002051916170">3</container>
+                        <container type="Folder">29</container>
+                        <unittitle>"A Better Life For American Mine Workers"</unittitle>
+                        <unitdate normal="1945/1959" type="inclusive">no date</unitdate>
+                     </did>
+                  </c04>
+                  <c04 id="ref42" level="file">
+                     <did>
+                        <container type="Box" label="39002051916170">3</container>
+                        <container type="Folder">30</container>
+                        <unittitle>"Credit and Capital"</unittitle>
+                        <unitdate normal="1945/1959" type="inclusive">no date</unitdate>
+                     </did>
+                  </c04>
+                  <c04 id="ref43" level="file">
+                     <did>
+                        <container type="Box" label="39002051916170">3</container>
+                        <container type="Folder">31</container>
+                        <unittitle>"My Twenty-Five Years with John L. Lewis"</unittitle>
+                        <unitdate normal="1945/1959" type="inclusive">no date</unitdate>
+                     </did>
+                  </c04>
+                  <c04 id="ref44" level="file">
+                     <did>
+                        <container type="Box" label="39002051916170">3</container>
+                        <container type="Folder">32</container>
+                        <unittitle>"Progress and Plenty"</unittitle>
+                        <unitdate normal="1945/1959" type="inclusive">no date</unitdate>
+                     </did>
+                  </c04>
+                  <c04 id="ref45" level="file">
+                     <did>
+                        <container type="Box" label="39002051916170">3</container>
+                        <container type="Folder">33</container>
+                        <unittitle>"The United Mine Workers Welfare and Retirement Fund: Its Background and History"</unittitle>
+                        <unitdate normal="1945/1959" type="inclusive">no date</unitdate>
+                     </did>
+                  </c04>
+               </c03>
+            </c02>
+         </c01>
+      </dsc>
+   </archdesc>
+</ead>

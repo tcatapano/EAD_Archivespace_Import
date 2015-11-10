@@ -1,0 +1,128 @@
+<?xml version="1.0"?>
+<ead>
+ 
+ 
+ 
+ 
+ 
+ <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" scriptencoding="iso15924" audience="internal" langencoding="iso639-2b" findaidstatus="edited-full-draft"><eadid xmlns:cdlpath="http://www.cdlib.org/path/" countrycode="us" identifier="ark:/13030/kt509nc5mv" mainagencycode="CLU-SC" publicid="PUBLIC -//University of California, LosAngeles::Library::Dept. of Special Collections//TEXT(US::CLU-SC::2075::San Mateo County Recorder's Office Records)//EN sanm2075.xml" cdlpath:parent="ark:/13030/tf129008pn" cdlpath:grandparent="ark:/13030/tf8z09p95s">sanm2075.xml</eadid><filedesc>
+ <titlestmt>
+ <titleproper>Finding Aid for the San Mateo County Recorder's Office Records, 1857-1872</titleproper><titleproper type="filing">San Mateo County Recorder's Office Records</titleproper>
+ <author>Processed by Dan Luckenbill; machine-readable finding aid created by Caroline Cub</author>
+ </titlestmt>
+ <publicationstmt>
+ <date calendar="gregorian" era="ce"> 2004</date>
+ <p>The Regents of the University of California. All rights reserved.</p>
+ </publicationstmt>
+ </filedesc><profiledesc>
+ <creation>Text rekeyed by Caroline Cub from in-house card file, <date calendar="gregorian" era="ce">January 2004</date>. Machine-readable finding aid derived from rekeyed finding aid, encoding added via Notetab Pro. Online finding aid edited by Josh Fiala. Date of source: <date calendar="gregorian" era="ce">July 1978</date>.</creation>
+ <langusage>Description is in <language>English.</language></langusage>
+ </profiledesc><revisiondesc>
+ <change>
+ <date calendar="gregorian" era="ce" normal="20040323">March 23, 2004</date>
+ <item>PUBLIC "-//University of California, Los
+Angeles::Library::Dept. of Special Collections//TEXT
+(US::CLU-SC::2075::San Mateo County Recorder's Office Records)//EN" "sanm2075.xml"
+ converted from EAD 1.0 to 2002 by v1to02.cdl.xsl (2004-09-16).</item>
+ </change>
+ </revisiondesc></eadheader>
+ <frontmatter>
+ <titlepage>
+ <titleproper>Finding Aid for the San Mateo County Recorder's Office Records, 1857-1872</titleproper>
+ <num>Collection number: 2075</num>
+ <publisher>UCLA Library, Department of Special Collections
+<lb/>Manuscripts Division
+<lb/><extptr linktype="simple" actuate="onload" show="embed"/><lb/>Los Angeles, CA</publisher>
+ <list type="deflist">
+ <defitem>
+ <label>Processed by:</label>
+ <item>Dan Luckenbill, July 1978</item>
+ </defitem>
+ <defitem>
+ <label>Encoded by:</label>
+ <item>Caroline Cub</item>
+ </defitem>
+ <defitem>
+ <label>Online finding aid edited by:</label>
+ <item>Josh Fiala, February 2004</item>
+ </defitem>
+ </list>
+ <p> 2004 The Regents of the University of California. All rights reserved.</p>
+ </titlepage>
+ </frontmatter>
+ <archdesc level="collection" id="archdesc-1.3">
+ <did id="did-1.8.1">
+ <head>Descriptive Summary</head>
+ <unittitle label="Title">San Mateo County Recorder's Office Records, </unittitle>
+<unitdate calendar="gregorian" era="ce" type="inclusive">1857-1872</unitdate>
+ <unitid countrycode="US" repositorycode="CLUSC" label="Collection number">2075</unitid>
+ <origination label="Creator">San Mateo County (Calif.). Office of the County Recorder</origination>
+ <physdesc label="Extent">
+ <extent>1 box (0.5 linear ft.)</extent>
+ </physdesc>
+ <repository label="Repository">
+ <corpname>University of California, Los Angeles. Library. 
+<subarea>Dept. of Special Collections.</subarea></corpname>
+ <address>
+ <addressline>Los Angeles, California 90095-1575</addressline>
+ </address>
+ </repository>
+ <physloc label="Physical location">Stored off-site at SRLF. Advance notice is required for access to the collection. Please contact the UCLA Library, Department of Special Collections Reference Desk for paging information.</physloc>
+ <langmaterial label="Language">
+ <language langcode="eng">English.</language>
+ </langmaterial>
+ </did>
+ <descgrp type="admininfo" id="descgrp-1.8.2">
+ <head>Administrative Information</head>
+ <userestrict>
+ <head>Restrictions on Use and Reproduction</head>
+ <p>Property rights to the physical object belong to the UCLA Library, Department of Special Collections. Literary rights, including copyright, are retained by the creators and their heirs. It is the responsibility of the researcher to determine who holds the copyright and pursue the
+copyright owner or his or her heir for permission to publish where The UC Regents do not hold the copyright.</p>
+ </userestrict>
+ <accessrestrict>
+ <head>Restrictions on Access</head>
+ <p>COLLECTION STORED OFF-SITE AT SRLF: Advance notice required for access.</p>
+ </accessrestrict>
+ <prefercite>
+ <head>Preferred Citation</head>
+ <p>[Identification of item], San Mateo County Recorder's Office Records (Collection 2075). Department of Special Collections, Charles E. Young Research Library, University of California, Los Angeles.</p>
+ </prefercite>
+ </descgrp>
+ <scopecontent id="scopecontent-1.8.3">
+ <head>Scope and Content</head>
+ <p>Collection consists of deeds, mortgages, liens, land claims, declarations, and abandonments of homestead recorded at the office of the County Recorder, San Mateo County between 1857 and 1872.</p>
+ </scopecontent>
+ <controlaccess id="controlaccess-1.8.4">
+ <head>Indexing Terms</head>
+ <p>The following terms have been used to index the description of this collection in the library's online public access catalog.</p>
+ <corpname source="lcnaf" role="subject" encodinganalog="610">San Mateo County (Calif.) Office of the County Recorder--Archives.</corpname>
+ <genreform source="rbgenr" encodinganalog="655">Legal instruments.</genreform>
+ </controlaccess>
+ <dsc type="analyticover" id="dsc-1.8.5" score="2" C-ORDER="1" MAX-C-ORDER="3">
+ <head>Container List</head>
+ <note>
+ <p>
+ <emph render="italic">Description derived from in-house card file.</emph>
+ </p>
+ </note>
+ <c01 level="collection" id="c01-1.8.5.3" score="2" C-ORDER="3">
+ <did>
+ <origination>Sam Mateo County, Calif. County Recorder
+</origination>
+ <unittitle>[Legal documents]. <unitdate calendar="gregorian" era="ce">1857-1872</unitdate></unittitle>
+ <physdesc> (230 documents in 1 box)</physdesc>
+ </did>
+ <scopecontent>
+ <p>Deeds, mortgages, liens, land claims, declarations and abandonments of homestead recorded at the office of the County Recorder, San Mateo County between 1857 and 1872.</p>
+ <p>Robert Ernest Cowan collection.</p>
+ <p>
+ <list type="simple">
+ <item>1. Deeds - San Mateo County, Calif.</item>
+ <item>2. Legal documents - San Mateo County, Calif.</item>
+ </list>
+ </p>
+ </scopecontent>
+ </c01>
+ </dsc>
+ </archdesc>
+</ead>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead relatedencoding="marc21">
+<eadheader audience="internal"> 
+  <eadid countrycode="US" mainagencycode="TxU-TH"
+	encodinganalog="852$a">urn:taro:utexas.cah.00883</eadid> 
+  <filedesc> 
+	 <titlestmt> 
+		<titleproper>A Guide to the J. A. Barnes Papers, 1833-1836</titleproper> 
+	 </titlestmt> 
+  </filedesc> 
+  <profiledesc> 
+	 <creation>Original EAD encoding by Jessi Fishman according to TARO 2 EAD
+		2002 Editing Instructions. 
+		<date>April 2008</date></creation> 
+	 <langusage>Finding aid written in <language>English.</language></langusage>
+	 
+  </profiledesc>
+</eadheader>
+<archdesc type="inventory" level="collection"> 
+  <did> 
+	 <head>Descriptive Summary</head> 
+	 <origination label="Creator:"> 
+		<persname encodinganalog="100">Barnes, J.A.</persname> </origination> 
+	 <unittitle encodinganalog="245" label="Title:">J. A. Barnes
+		Papers</unittitle> 
+	 <unitdate type="inclusive" encodinganalog="245"
+	  label="Dates:">1833-1836</unitdate> <langmaterial label="Language:">Materials
+	 are written in <language langcode="eng">English.</language></langmaterial> 
+	 <unitid label="Accession No.:">AR 85-311</unitid> 
+	 <physdesc label="Extent:" encodinganalog="300$a">5 items</physdesc> 
+	 <repository label="Repository:" encodinganalog="852$a"> 
+		<extref href="http://www.cah.utexas.edu" show="new" actuate="onrequest"> 
+		  <corpname><subarea> Dolph Briscoe Center for American History,</subarea>The
+			 University of Texas at Austin</corpname></extref></repository> 
+	 <abstract label="Abstract:" encodinganalog="520$a">Correspondence and
+		cotton sales records document the cotton transactions of Barnes's Mississippi
+		estate as administered by David G. Humphreys. Forms part of the Natchez Trace
+		Collection.</abstract> 
+  </did> 
+  <scopecontent encodinganalog="520"> 
+	 <head>Scope and Contents</head><p>Correspondence and cotton sales records
+		document the cotton transactions of Barnes's Mississippi estate as administered
+		by David G. Humphreys. Forms part of the Natchez Trace Collection.</p> 
+  </scopecontent> 
+  <accessrestrict encodinganalog="506"> 
+	 <head>Access Restrictions</head><p>Unrestricted access.</p> 
+  </accessrestrict> 
+  <controlaccess> 
+	 <head>Index Terms</head> 
+	 <controlaccess> 
+		<head>Subjects</head> 
+		<subject encodinganalog="650">Barnes, J. A.</subject> 
+		<subject encodinganalog="650" source="lcsh">Humphreys, David G.</subject>
+		<subject encodinganalog="650"
+		 source="lcsh">Cotton--Mississippi.</subject>
+	 </controlaccess> 
+  </controlaccess> 
+  <prefercite encodinganalog="524"> 
+	 <head>Preferred Citation</head><p>J. A. Barnes Papers, 1833-1836, Center
+		for American History, The University of Texas at Austin.</p> 
+  </prefercite> 
+  <dsc type="in-depth"> 
+	 <head>Detailed Description of the Papers</head> 
+	 <c01 level="series" id="ser1"> 
+		<did> 
+		  <unittitle>Inventory </unittitle> 
+		</did> 
+		<c02> 
+		  <did><container type="box">2E549</container> 
+			 <unittitle>Papers, 
+				<unitdate>1833-1836</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+	 </c01></dsc>
+</archdesc></ead>

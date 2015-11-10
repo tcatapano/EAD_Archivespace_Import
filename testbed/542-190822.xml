@@ -1,0 +1,163 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "http://lcweb2.loc.gov/xmlcommon/dtds/ead2002/ead.dtd">
+<ead>
+<eadheader relatedencoding="Dublin Core" findaidstatus="edited-full-draft" langencoding="iso639-2b" scriptencoding="iso15924" audience="internal" id="a0">
+<eadid encodinganalog="Identifier" url="http://hdl.handle.net/10407/6587030757" identifier="10407/6587030757">ksrl.sc.powyslewelyn</eadid>
+<filedesc>
+<titlestmt>
+<titleproper encodinganalog="Title">Guide to the Llewelyn Powys Papers </titleproper>
+<subtitle>Papers of Llewelyn Powys, 1925-1928</subtitle>
+<author encodinganalog="Creator">Finding aid prepared before 1972</author>
+</titlestmt>
+<publicationstmt>
+<publisher encodinganalog="Publisher">University of Kansas</publisher>
+<address><addressline>1450 Poplar Lane, Lawrence, KS 66045-7616</addressline><addressline>Phone: (785)864-4334</addressline><addressline>Fax: (785)864-5803</addressline><addressline>URL: http://spencer.lib.ku.edu</addressline></address>
+<date encodinganalog="Date">2005</date>
+</publicationstmt>
+</filedesc>
+<profiledesc>
+<creation>Finding aid encoded by skt, 
+<date>2005</date>
+</creation>
+<langusage>Finding aid written in<language encodinganalog="language">English.</language></langusage>
+</profiledesc>
+</eadheader>
+
+<archdesc relatedencoding="MARC21" level="collection" type="inventory">
+<did id="a1">
+<head>COLLECTION SUMMARY</head>
+<repository label="Repository:" encodinganalog="852$a"><corpname>University of Kansas<subarea>Kenneth Spencer Research Library</subarea> <subarea>Department of Special Collections</subarea></corpname><address><addressline>1450 Poplar Lane, Lawrence, KS 66045-7616</addressline><addressline>Phone: (785)864-4334</addressline><addressline>Fax: (785)864-5803</addressline><addressline>URL: http://spencer.lib.ku.edu</addressline></address></repository>
+
+<origination label="Creator:"><persname encodinganalog="100">Powys, Llewelyn, 1885- </persname></origination>
+
+<unittitle label="Title:" encodinganalog="245$a">Papers of Llewelyn Powys, 1925-1928</unittitle>
+
+<unitdate type="inclusive" encodinganalog="245$f" label="Dates:">1925-1928</unitdate>
+       <langmaterial label="Language(s):"> <language>English </language>
+</langmaterial>
+<physdesc>
+<extent label="Quantity:" encodinganalog="300$a">4 Items </extent>
+
+</physdesc><abstract encodinganalog="520$a" label="Abstract:">3 letters: to publisher and friend; clipping of review. </abstract>
+
+<unitid encodinganalog="099" type="call#" label="Identification:" countrycode="US" repositorycode="KFS">MS P259</unitid>
+
+</did>
+
+
+
+
+<!-- Top Level Metadata Goes Here: -->
+
+<bioghist altrender="biography" encodinganalog="545" id="a2">
+<head>BIOGRAPHY of <emph>Llewelyn Powys (1884-1939)</emph></head>
+<p>Llewelyn Powys was the brother of Theodore Francis Powys (1875-1953). </p> 
+</bioghist>
+
+<relatedmaterial encodinganalog="544 1" id="a6">
+<head>RELATED MATERIAL</head>
+
+
+<archref>See also the <origination><persname>Theodore Francis Powys Collection</persname> </origination>  at <unitid>MS P260</unitid>.</archref>
+</relatedmaterial>
+
+
+
+
+
+
+
+
+
+	<!-- Arrangement/Series Info Goes Here: -->
+
+
+	<!-- End Arrangement/Series Info -->
+
+<!-- End Top Level Metadata -->
+
+<!-- Controlled Access Terms Go Here: -->
+	
+
+<controlaccess id="a12">
+<head>INDEX TERMS</head>
+<controlaccess>
+		<head>Places:</head>
+		<geogname encodinganalog="651" source="local">England: Dorset: Dorchester.</geogname>
+<geogname encodinganalog="651" source="local">England: London.</geogname>
+	</controlaccess>
+</controlaccess>
+	
+
+
+
+
+<!-- End Controlled Access Terms -->
+<!-- Administrative Information Goes Here: -->
+
+<accessrestrict id="a14" encodinganalog="506">
+<head>Restrictions on Access</head>
+<p>None</p>
+</accessrestrict>
+
+
+<prefercite encodinganalog="524" id="a18">
+<head>Preferred Citation</head>
+<p>Lewelyn Powys Papers, Department of Special Collections, MS P258:3, Kenneth Spencer Research Library, University of Kansas Libraries</p>
+</prefercite>
+
+<acqinfo encodinganalog="541" id="a19">
+<head>Acquisition Information</head>
+<p>Purchase, circa 1950s. </p>
+</acqinfo>
+<userestrict encodinganalog="540" id="a15">
+<head>Restrictions on Use</head>
+<p/>
+<p>Spencer Library staff may determine use restrictions dependent on the physical condition of manuscript materials.</p>
+</userestrict>
+<!-- End Administrative Information -->
+
+
+
+<!-- Start Description of Subordinate Components-->
+
+<dsc type="analyticover" id="a23">
+<head>COLLECTION DESCRIPTION</head>
+
+<c01 level="file"><did>
+<container type="folder">A</container><unittitle> To Grant Richards (1872-1948), man-of-letters and publisher.</unittitle></did>
+
+<c02><did><container type="folder">1</container><unittitle>The White Nune, Owermoigne, Dorchester.</unittitle><unitdate>December 8, 1925</unitdate><physdesc>1p (1 piece). Holograph letter, signed.</physdesc></did><scopecontent><p>Christmas wishes. Enclose some American [?] clippings which may be useful [nothing enclosed]. Look forward to seeing [Richard's] Skin for Skin.</p></scopecontent>
+</c02>
+
+<c02><did><container type="folder">2</container><unittitle>The White None, Owermoigne, Dorchester, Dorset.</unittitle><unitdate>August 1, 1926</unitdate><physdesc>lp (1 piece). Holograph letter, signed.</physdesc></did><scopecontent><p>Regret losing you as a publisher: your generosity and taste. Visit us. </p></scopecontent></c02>
+
+<c02><did><container type="folder">3</container><unittitle>Easter Sunday. 5 Patchin Place.</unittitle><unitdate>1928</unitdate><physdesc>1p (1 piece). Holograph letter, signed.</physdesc></did><scopecontent><p>My brother Theodore will send you reviews of his Mr Weston's Good Wine; so will I. Returning to Dorset in May; shall we meet? Your approval of Mr Weston and of Ducdame; "I fear you are being won away from your original favorite in the Powys family".</p></scopecontent>
+</c02>
+
+<c02><did><container type="folder">4</container><unittitle>Clipping from Saturday Review of Literature</unittitle><unitdate>April 7,1928</unitdate><physdesc>2 pieces altogether. Partial page, folded once; in bookdealer's folded sheet. Mended, but good condition. Printed.</physdesc></did><scopecontent><p>Hamish Miles' review of TF Powys' Mr Weston's Good Wine. </p></scopecontent>
+</c02>
+</c01>
+
+
+
+</dsc>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- End Description of Subordinate Components-->
+
+</archdesc>
+</ead>

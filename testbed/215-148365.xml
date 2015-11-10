@@ -1,0 +1,103 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead relatedencoding="marc21">
+	<eadheader audience="internal">
+		<eadid countrycode="US" mainagencycode="TxU-TH" encodinganalog="852$a"
+			>urn:taro:utexas.cah.03178</eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper>A Guide to the James Eugene Torbett Scrapbook, 1918-1919</titleproper>
+			</titlestmt>
+		</filedesc>
+		<profiledesc>
+			<creation>Original EAD encoding by Bethany Anderson according to TARO 2
+				EAD 2002 Editing Instructions.
+				<date>June 2012</date></creation>
+			<langusage>Finding aid written in <language>English.</language></langusage>
+		</profiledesc>
+	</eadheader>
+	<archdesc type="inventory" level="collection">
+		<did>
+			<head>Descriptive Summary</head>
+			<origination label="Creator:">
+				<persname encodinganalog="100">Torbett, James Eugene, 1893-1952</persname>
+			</origination>
+			<unittitle encodinganalog="245" label="Title:"
+				>Torbett, James Eugene, Scrapbook</unittitle>
+			<unitdate type="inclusive" encodinganalog="245" label="Dates:"
+				>1918-1919</unitdate>
+			<langmaterial label="Language:">Materials are written in <language langcode="eng"
+					>English.</language></langmaterial>
+			<unitid label="Accession No.:">2012-156</unitid>
+			<physdesc label="Extent:" encodinganalog="300$a"
+				>1 vol.</physdesc>
+			<repository label="Repository:" encodinganalog="852$a">
+				<extref href="http://www.cah.utexas.edu" show="new" actuate="onrequest">
+					<corpname><subarea>Dolph Briscoe Center for American History, </subarea>The
+						University of Texas at Austin</corpname></extref></repository>
+			<abstract label="Abstract:" encodinganalog="520$a"
+				>The James Eugene Torbett Scrapbook, 1918-1919, consists of postcards Torbett collected in France and Germany while he served in the 344th Field Artillery Band in the U.S. Army during World War I.</abstract>
+		</did>
+		<bioghist encodinganalog="545">
+			<head>Biographical Note</head>
+			<p>The son of James S. Torbett and Eugenia Wicker James Eugene Torbett (1893-1952) was born in Mound, Coryell County, Texas. During World War I, he enlisted in the U.S. Army. As a part of the 344th Field Artillery Band, Torbett served as a musician as he traveled with his regiment throughout France and Germany. Following the war, he returned to Texas and married in 1922. Torbett and his wife Lola had one child, Doratha Jean, born in 1926. He eventually moved to Nueces County, where he died in 1952.</p>
+			<p>Source:</p>
+			<p><emph render="doublequote">James Eugene Torbett.</emph> We Relate. Accessed June 25, 2012. <extref actuate="onrequest" show="new" href="http://www.werelate.org/wiki/Person:James_Torbett_(5)">http://www.werelate.org/wiki/Person:James_Torbett_(5)</extref>.</p>
+		</bioghist>
+		<scopecontent encodinganalog="520">
+			<head>Scope and Contents</head>
+			<p>The James Eugene Torbett Scrapbook, 1918-1919, consists of postcards Torbett collected in France and Germany while he served in the 344th Field Artillery Band in the U.S. Army during World War I. The scrapbook includes descriptions and brief histories of the places he visited.</p>
+		</scopecontent>
+		<accessrestrict encodinganalog="506">
+			<head>Access Restrictions</head>
+			<p>This collection is open for research use.</p>
+		</accessrestrict>
+		<controlaccess>
+			<head>Index Terms</head>
+			<controlaccess>
+				<head>Subjects (Persons)</head>
+				<persname encodinganalog="600">Torbett, James Eugene, 1893-1952 -- Archives.</persname>
+			</controlaccess>
+			<controlaccess>
+				<head>Subjects</head>
+				<subject encodinganalog="650">World War, 1914-1918.</subject>
+			</controlaccess>
+			<controlaccess>
+				<head>Places</head>
+				<geogname encodinganalog="651" source="lcnaf"
+					>France -- Description and travel.</geogname>
+				<geogname encodinganalog="651" source="lcnaf"
+					>Germany -- Description and travel.</geogname>
+			</controlaccess>
+		</controlaccess>
+		<prefercite encodinganalog="524">
+			<head>Preferred Citation</head>
+			<p>James Eugene Torbett Scrapbook, 1918-1919, Dolph Briscoe Center for American History, The
+				University of Texas at Austin.</p>
+		</prefercite>
+		<separatedmaterial>
+			<head>Separated Material</head>
+			<p>Some material has been separated to the
+				Library Unit.</p>
+		</separatedmaterial>
+		<processinfo>
+			<head>Processing Information</head>
+			<p>This collection was processed by Bethany Anderson, June 2012.</p>
+		</processinfo>
+		<dsc type="in-depth">
+			<head>Detailed Description of the Papers</head>
+			<c01 level="series" id="ser1">
+				<did>
+					<unittitle>Inventory</unittitle>
+				</did>
+				<c02>
+					<did>
+						<container type="box">4L231</container>
+						<unittitle>Scrapbook, 
+							<unitdate>1918-1919</unitdate></unittitle>
+					</did>
+				</c02>
+			</c01>
+		</dsc>
+	</archdesc>
+</ead>

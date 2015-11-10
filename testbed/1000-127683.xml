@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead> 
+  <eadheader langencoding="iso639-2b"
+	scriptencoding="iso15924" relatedencoding="dc" repositoryencoding="iso15511"
+	countryencoding="iso3166-1" dateencoding="iso8601" id="a0"> 
+	 <eadid countrycode="us" encodinganalog="identifier" mainagencycode="ohy"
+	  identifier="80444/xv05746"
+	  url="http://nwda.orbiscascade.org/ark:/80444/xv05746">OHY_Accession25916</eadid>
+	 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper encodinganalog="title">Oregon Aviation Day Photographs And
+			 Ticket, 
+			 <date encodinganalog="Date" normal="1932">1932</date></titleproper> 
+		  <titleproper type="filing" altrender="nodisplay">Oregon Aviation Day
+			 Photographs And Ticket,</titleproper> 
+		  <author encodinganalog="creator">Finding aid prepared by
+			 MarcEdit</author> 
+		  <sponsor>Conversion of this record was made possible by a grant from
+			 the National Historic Publications and Records Commission, an agency of the
+			 U.S. National Archives and Records Administration.</sponsor>
+		</titlestmt> 
+		<publicationstmt> 
+		  <publisher encodinganalog="publisher"> Oregon Historical Society Davies
+			 Family Research Library<extptr actuate="onload" show="embed"
+			 href="http://ohs.org/images/logo_2.gif"/></publisher> 
+		  <date encodinganalog="date" type="inclusive" era="ce"
+			calendar="gregorian" normal="2012">2012</date> 
+		  <address> 
+			 <addressline>Portland, OR 97205</addressline> 
+			 <addressline>503-306-5240</addressline> 
+			 <addressline>http://www.ohs.org/</addressline> 
+			 <addressline>libreference@ohs.org</addressline> 
+		  </address> 
+		</publicationstmt> 
+	 </filedesc> 
+	 <profiledesc> 
+		<creation encodinganalog="description"> Finding aid encoded by MarcEdit 
+		  <date era="ce" calendar="gregorian"
+			normal="2012">2012</date></creation> 
+		<langusage> Finding aid written in
+		  <language langcode="eng" encodinganalog="language"
+			scriptcode="latn">English.</language></langusage> 
+		<descrules>Finding aid based on DACS (
+		  <title render="italic">Describing Archives: A Content
+			 Standard</title>)</descrules> 
+	 </profiledesc> 
+  </eadheader> 
+  <archdesc level="collection" type="inventory" relatedencoding="marc21"> 
+	 <did id="a1">
+
+		<repository> 
+		  <corpname encodinganalog="852$a"> Oregon Historical Society
+			 <subarea encodinganalog="852$b">Research Library</subarea></corpname> 
+		  <address> 
+			 <addressline>Oregon Historical Society Davies Family Research
+				Library</addressline> 
+			 <addressline>Portland, OR 97205</addressline> 
+			 <addressline>503-306-5240</addressline> 
+			 <addressline>http://www.ohs.org/</addressline> 
+			 <addressline>libreference@ohs.org</addressline> 
+		  </address> </repository> 
+		<unitid encodinganalog="099" countrycode="us"
+		 repositorycode="orhi">Accession 25916</unitid> 
+		<unittitle encodinganalog="245$a" type="collection">Oregon Aviation Day
+		  photographs and ticket,</unittitle> 
+		<unitdate type="inclusive" era="ce" calendar="gregorian"
+		 encodinganalog="245$f" normal="1932">1932</unitdate> 
+		<physdesc> <extent encodinganalog="300$a">7</extent>
+		  <physfacet encodinganalog="300$b">items.</physfacet> </physdesc> 
+		<abstract encodinganalog="5203_">Six (6) black and white photographs
+		  taken during the of Oregon Aviation Day, May 19, 1932. Tex Rankin was the pilot
+		  of the aircraft in photographs. Also includes one (1) airplane flight ticket,
+		  Trails Club of Oregon Aviation Day, May 19, 1932. </abstract> 
+		<langmaterial> <language encodinganalog="546"
+		  langcode="Eng">English</language> </langmaterial> 
+	 </did>
+
+	 <scopecontent encodinganalog="520$a"> 
+		<p>Six (6) black and white photographs taken during the of Oregon
+		  Aviation Day, May 19, 1932. Tex Rankin was the pilot of the aircraft in
+		  photographs. Also includes one (1) airplane flight ticket, Trails Club of
+		  Oregon Aviation Day, May 19, 1932.</p> 
+	 </scopecontent> 
+	 <accessrestrict encodinganalog="506" id="a14"> 
+		<p>This collection is unprocessed. For information contact the Oregon
+		  Historical Society Research Library at libreference@ohs.org, or
+		  503-306-5240.</p> 
+	 </accessrestrict> 
+	 <acqinfo encodinganalog="541" id="a19"> 
+		<p>Acquired Feb. 2006, Library Accession 25916.</p> 
+	 </acqinfo> 
+	 <controlaccess id="a12"> 
+		<controlaccess> 
+		  <famname source="lcnaf" rules="aacr2r" role="subject"
+			encodinganalog="600">Rankin, Tex -- (John Gilbert), -- 1894-1947 --
+			 Photographs.</famname> 
+		</controlaccess> 
+		<controlaccess> 
+		  <corpname source="lcnaf" rules="aacr2r" role="subject"
+			encodinganalog="610">Trails Club of Oregon.</corpname> 
+		</controlaccess> 
+		<controlaccess> 
+		  <subject source="lcsh" encodinganalog="650" rules="scm">Airplanes --
+			 Oregon -- Photographs.</subject> 
+		</controlaccess> 
+		<controlaccess> 
+		  <genreform source="lcsh" encodinganalog="655">Photographs. --
+			 aat</genreform> 
+		</controlaccess> 
+		<controlaccess> 
+		  <genreform source="lcsh" encodinganalog="655">Tickets. --
+			 aat</genreform> 
+		</controlaccess> 
+		<controlaccess> 
+		  <subject altrender="nodisplay" source="nwda"
+			encodinganalog="690">Oregon</subject> 
+		  <subject altrender="nodisplay" source="nwda"
+			encodinganalog="690">Photographs</subject>
+		</controlaccess> 
+	 </controlaccess> 
+  </archdesc> 
+</ead> 

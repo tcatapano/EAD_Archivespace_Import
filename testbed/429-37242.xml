@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+    <eadid countrycode="US" mainagencycode="US-UPB" publicid="-//L. Tom Perry Special Collections::University Archives//TEXT(US::US-UPB::MSS 7965::Karen Ann Griggs professional papers)//EN" encodinganalog="identifier">UPB_MSS7965</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper encodinganalog="title">Register of Karen Ann Griggs professional papers
+                    
+                </titleproper>
+        <titleproper type="filing">Griggs (Karen Ann) professional papers</titleproper>
+        <author encodinganalog="creator">Finding aid prepared by Dani Peterson</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher encodinganalog="publisher">L. Tom Perry Special Collections</publisher>
+        <date encodinganalog="date">2011 October 5</date>
+        <address>
+          <addressline>1130 Harold B. Lee Library</addressline>
+          <addressline>Brigham Young University</addressline>
+          <addressline>Provo, Utah 84606</addressline>
+          <addressline>http://sc.lib.byu.edu/</addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2011-10-19T11:56-0600</date>
+            </creation>
+      <langusage>English</langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection" type="inventory">
+    <did>
+      <unittitle encodinganalog="title">Karen Ann Griggs professional papers</unittitle>
+      <unitid encodinganalog="identifier">MSS 7965</unitid>
+      <repository>
+        <corpname encodinganalog="publisher">L. Tom Perry Special Collections</corpname>
+        <subarea encodinganalog="publisher">University Archives</subarea>
+        <address>
+          <addressline>1130 Harold B. Lee Library</addressline>
+          <addressline>Brigham Young University</addressline>
+          <addressline>Provo, Utah 84606</addressline>
+          <addressline>http://sc.lib.byu.edu/</addressline>
+        </address>
+      </repository>
+      <langmaterial>
+        <language langcode="eng" encodinganalog="language">English</language>
+      </langmaterial>
+      <physdesc>
+        <extent encodinganalog="format">10 folders</extent>
+        <extent encodinganalog="format">(0.4 linear ft.)</extent>
+      </physdesc>
+      <unitdate normal="1985/2011" era="ce" calendar="gregorian" datechar="creation" type="inclusive" encodinganalog="date">1985-2011</unitdate>
+      <langmaterial id="ref11">Materials are in English.</langmaterial>
+      <origination>
+        <persname source="lcnaf" encodinganalog="creator" role="">Griggs, Karen Ann</persname>
+      </origination>
+    </did>
+    <scopecontent id="ref1" encodinganalog="description">
+      <p>Collection contains the professional papers of Griggs, including presentations covering the cataloging of audiovisual materials, as well as files from her professional papers. Materials date from between 1985 and 2011.</p>
+    </scopecontent>
+    <appraisal id="ref10">
+      <p>Part of University Archives; college records (University Archives collecting policy February 2010).</p>
+    </appraisal>
+    <processinfo id="ref9">
+      <p>Processed; Dani Peterson; Sept. 2011.</p>
+    </processinfo>
+    <acqinfo id="ref8">
+      <p>Donated; Karen Griggs; Sept. 2011.</p>
+    </acqinfo>
+    <custodhist id="ref7">
+      <p>Donated by Karen Griggs.</p>
+    </custodhist>
+    <prefercite id="ref6">
+      <p>Initial Citation: MSS 7965; Karen Griggs professional papers; University Archives; L. Tom Perry Special Collections, Harold B. Lee Library, Brigham Young University.</p>
+      <p>Following Citation: MSS 7935, LTPSC.</p>
+    </prefercite>
+    <userestrict id="ref5" encodinganalog="rights">
+      <p>It is the responsibility of the researcher to obtain any necessary copyright clearances. Permission to publish material from Karen Griggs professional papers must be obtained from the Supervisor of Reference Services and/or the L. Tom Perry Special Collections Board of Curators.</p>
+    </userestrict>
+    <accessrestrict id="ref4" encodinganalog="rights">
+      <p>Open for public research.</p>
+    </accessrestrict>
+    <arrangement id="ref3" encodinganalog="description">
+      <p>Arranged in two series: 1. Audiovisual cataloging presentation materials, 1994-2011. 2. Cataloging papers, 1985-2010.</p>
+    </arrangement>
+    <bioghist id="ref2" encodinganalog="description">
+      <head>Biographical History</head>
+      <p>Karen Ann Griggs (born 1945) was a faculty cataloger at the Harold B. Lee Library at Brigham Young University.</p>
+      <p>Born in Utah and raised in Hawaii, has a Bachelor of Arts in music performance and a Masters of Library and Information Science from Brigham Young University (BYU). She is the mother of seven and grandmother of thirteen. Her interests include family, church, friends, reading, music, geneology, and travel. As a faculty cataloger at BYU, her subject area responsibilities include U.S. history, local history, genealogy, and also cataloging the non-print media that is housed in the Learning Resource Center. She serves as the team leader for the Special Formats team and is active in Utah Library Association activities. She has created a Union List of Local Histories and Genealogies for Five North-Central Counties of West Virginia and has also presented a paper on the History of Utah Valley during the "Move South" -- 1858, at the Mormon History Association Conference in Tucson, 2002.</p>
+    </bioghist>
+    <controlaccess>
+      <persname source="lcnaf" encodinganalog="subject">Griggs, Karen Ann--Archives</persname>
+      <subject source="lcsh" encodinganalog="subject">Cataloging of audio-visual materials</subject>
+      <subject source="cclanarrow" encodinganalog="subject">Colleges and Universities</subject>
+      <subject source="umanarrow" encodinganalog="subject">Colleges and Universities</subject>
+      <genreform source="lcsh" encodinganalog="type">DVDs</genreform>
+      <subject source="cclabroad" encodinganalog="subject">Education</subject>
+      <subject source="umabroad" encodinganalog="subject">Education</subject>
+    </controlaccess>
+    <dsc type="analyticover">
+      <c01 id="ref12" level="series">
+        <did>
+          <unittitle encodinganalog="title">Karen Ann Griggs audiovisual cataloging presentation materials</unittitle>
+          <unitid encodinganalog="identifier">Series 1</unitid>
+          <langmaterial>
+            <language langcode="eng" encodinganalog="language">English</language>
+          </langmaterial>
+          <container id="cid4336001" type="box">1</container>
+          <container parent="cid4336001" type="folder">1-5</container>
+          <physdesc>
+            <extent encodinganalog="format">5 folders</extent>
+          </physdesc>
+          <unitdate normal="1994/2011" era="ce" calendar="gregorian" datechar="creation" type="inclusive" encodinganalog="date">1994-2011</unitdate>
+        </did>
+        <scopecontent id="ref17" encodinganalog="description">
+          <p>This series contains audiovisual cataloging presentations created by Karen Griggs. The majority of the presentations were created for the Utah Library Association conferences, specifically for the Utah Library Association Continuing Education Committee. These presentations cover the details of the rules for cataloging audiovisual materials, 1994-2011.</p>
+        </scopecontent>
+        <arrangement id="ref15" encodinganalog="description">
+          <p>The series was arranged chronologically.</p>
+        </arrangement>
+        <controlaccess>
+          <corpname rules="local" source="ingest" encodinganalog="subject">Utah Library Association</corpname>
+          <subject source="lcsh" encodinganalog="subject">Catalogers--Training of</subject>
+          <subject source="lcsh" encodinganalog="subject">Cataloging of audio-visual materials</subject>
+          <genreform source="rbgenr" encodinganalog="type">Lecture notes</genreform>
+        </controlaccess>
+      </c01>
+      <c01 id="ref13" level="series">
+        <did>
+          <unittitle encodinganalog="title">Karen Ann Griggs cataloging papers</unittitle>
+          <unitid encodinganalog="identifier">Series 2</unitid>
+          <langmaterial>
+            <language langcode="eng" encodinganalog="language">English</language>
+          </langmaterial>
+          <container id="cid4368001" type="box">1</container>
+          <container parent="cid4368001" type="folder">6-10</container>
+          <physdesc>
+            <extent encodinganalog="format">5 folders</extent>
+          </physdesc>
+          <unitdate normal="1985/2010" era="ce" calendar="gregorian" datechar="creation" type="inclusive" encodinganalog="date">1985-2010</unitdate>
+        </did>
+        <arrangement id="ref18" encodinganalog="description">
+          <p>This series was arranged alphabetically by subject.</p>
+        </arrangement>
+        <scopecontent id="ref19" encodinganalog="description">
+          <p>Contains the professional papers of Griggs. These include records on department views of cataloging, the Video Cataloging Guide from a faculty development seminar, an OLAC (Online Audivisual Catalogers) newsletter from 2010, a possible workflow for media catalogs, and scanned images related to cataloging, 1985-2010.</p>
+        </scopecontent>
+        <controlaccess>
+          <corpname source="lcnaf" encodinganalog="subject">On-Line Audiovisual Catalogers, Inc.</corpname>
+          <subject source="lcsh" encodinganalog="subject">Cataloging of audio-visual materials--Utah--Provo--Handbooks, manuals, etc.</subject>
+          <genreform source="lcsh" encodinganalog="type">Newsletters</genreform>
+          <genreform source="aat" encodinganalog="type">Reports</genreform>
+          <genreform source="aat" encodinganalog="type">Research (Document genres)</genreform>
+        </controlaccess>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

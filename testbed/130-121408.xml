@@ -1,0 +1,215 @@
+<?xml version="1.0" standalone="no"?>
+<?xml-stylesheet href="../../display/ead.xsl"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead relatedencoding="MARC21">
+   <eadheader langencoding="iso639-2b" findaidstatus="edited-full-draft" audience="internal" id="a0" repositoryencoding="iso15511" countryencoding="iso3166-1" scriptencoding="iso15924" dateencoding="iso8601">
+      <eadid countrycode="us" mainagencycode="Tx" encodinganalog="852$a">urn:taro:tslac.40053</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>James W. Throckmorton:</titleproper>
+            <subtitle>An Inventory of Papers at the Texas State Archives, <date type="inclusive" era="ce" calendar="gregorian">1857-1940 </date>
+               <date type="bulk" era="ce" calendar="gregorian">(bulk 1857-1897)</date>
+            </subtitle>
+            <author>Finding aid by Paul B. Beck, July 1993</author>
+            <sponsor>This EAD finding aid was created in part with funds provided
+			 by the Texas Telecommunications Infrastructure Fund Board for the Texas
+			 Archival Resources Online project.</sponsor>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Texas State Library and Archives Commission<extptr actuate="onload" href="defaultstar.gif" show="embed" linktype="simple"/>
+            </publisher>
+            <date era="ce" calendar="gregorian"/>
+         </publicationstmt>
+      </filedesc>
+      <profiledesc>
+         <creation>Text converted and initial EAD tagging provided by Apex Data Services, <date era="ce" calendar="gregorian">March 2001.</date>
+         </creation>
+         <langusage>Finding aid written
+		  in<language>English.</language>
+         </langusage>
+      </profiledesc>
+      <revisiondesc>
+         <change>
+            <date era="ce" calendar="gregorian">August 2001.</date>
+            <item>Corrections and further encoding to TARO project standards by Tonia J. Wood, </item>
+         </change>
+         <change>
+            <date>July 22, 2003.</date>
+            <item>Finding aid converted from EAD 1.0 to 2002 by v1to02.xsl,</item>
+         </change>
+      </revisiondesc>
+   </eadheader>
+   <archdesc level="subgrp" type="inventory" audience="external"><?xm-replace_text (be sure level attribute is correct)?>
+      <did id="a1">
+         <head>Overview</head>
+         <origination label="Creator:">
+            <persname authfilenumber="100" source="lcnaf">Throckmorton, J. W. (James Webb), 1825-1894.</persname>
+         </origination>
+         <unittitle label="Title:" encodinganalog="245">Papers</unittitle>
+         <unitdate label="Dates:" encodinganalog="245$f" type="inclusive" era="ce" calendar="gregorian">1857-1940</unitdate>
+         <unitdate type="bulk" era="ce" calendar="gregorian">(bulk 1857-1897)</unitdate>
+         <abstract label="Abstract:" encodinganalog="520$a">Types of records include incoming correspondence,
+                        speeches, canceled checks, insurance policies, and
+                        newspaper clippings.  Records date from 1857 to 1940. 
+                        Except for some of the newspaper clippings, all papers
+                        are from James W. Throckmorton and his wife, Annie,
+                        and date from 1857 to 1897.  Most of the correspondence
+                        dates from his early political career as a Texas legislator
+                        and as governor.  Speeches are primarily from his
+                        years in the U.S. House of Representatives, on such
+                        topics as reorganization of the army and the Indian
+                        Bureau.  The newspaper clippings relate to the
+                        Throckmorton family.</abstract>
+         <physdesc label="Quantity:" encodinganalog="300$a">0.24 cubic ft.</physdesc>
+         <langmaterial label="Language">
+            <language langcode="eng">English.</language>
+         </langmaterial>
+      </did>
+      <accessrestrict id="a14" encodinganalog="506">
+         <head>Restrictions on Access</head>
+         <p>None.</p>
+      </accessrestrict>
+      <userestrict id="a15" encodinganalog="540">
+         <head>Restrictions on Use</head>
+         <p>Under the Copyright Act of 1976 as amended in 1998, unpublished manuscripts are protected at a minimum through December 31, 2002 or 70 years after the author's death. Researchers are responsible for complying with U.S. Copyright Law (Title 17 U.S.C.).</p>
+         <p><?xm-replace_text {Text of the Use Restriction}?></p>
+      </userestrict>
+      <prefercite id="a18" encodinganalog="524">
+         <head>Preferred Citation</head>
+         <p>(Identify the item), James W. Throckmorton Papers. Archives and Information
+			 Services Division, Texas State Library and Archives Commission.</p>
+      </prefercite>
+      <bioghist id="a2" encodinganalog="545">
+         <head>Biographical Sketch</head>
+         <p>James W. Throckmorton, born in Tennessee in 1825, moved to Texas in 1841. He studied medicine and served in the Mexican War as an army surgeon. After discharge from the army, he married Annie Rattan in 1848 and settled near McKinney in Collin County. In 1851, he entered politics and was elected to the Texas Legislature where he served as either a state representative or senator for the next ten years. A member of the Secession Convention in 1861, he was one of the seven delegates to vote against secession. Despite his vote, Throckmorton served in the Confederate army, eventually becoming a brigadier general. After the war, he served as president of the Constitutional Convention of 1866. He ran for governor of Texas in 1866 and was elected, defeating E. M. Pease. In July 1867, Throckmorton was removed from office by General Philip Sheridan as <emph render="doublequote">an impediment to reconstruction.</emph> Throckmorton continued in politics and was elected to the U.S. House of Representatives, holding that office from 1874 until 1888. He ran unsuccessfully for governor twice, in 1878 and 1890, before he died in 1894.</p>
+      </bioghist>
+      <scopecontent id="a3" encodinganalog="520">
+         <head>Scope and Contents of the Records</head>
+         <p>Types of records include incoming correspondence, speeches, canceled checks, insurance policies, and newspaper clippings. Records date from 1857 to 1940. Except for some of the newspaper clippings, all papers are from James W. Throckmorton and his wife, Annie, and date from 1857 to 1897. Most of the correspondence dates from his early political career as a Texas legislator and as governor. Speeches are primarily from his years in the U.S. House of Representatives, on such topics as reorganization of the army and the Indian Bureau. The newspaper clippings relate to the Throckmorton family.</p>
+      </scopecontent>
+      <arrangement id="a5" encodinganalog="351$b">
+         <head>Arrangement of the Records</head>
+         <p> The papers are arranged by type and are chronological within each type.</p>
+      </arrangement>
+      <controlaccess id="a12">
+         <head>Index Terms</head>
+         <p>
+            <emph render="italic">The terms listed here were used to catalog the
+		  records. The terms can be used to find similar or related records.</emph>
+         </p>
+         <controlaccess>
+            <head>Personal Names:</head>
+            <persname source="lcnaf" encodinganalog="600">Throckmorton, J. W. (James Webb), 1825-1894.</persname>
+         </controlaccess>
+         <controlaccess>
+            <head>Subjects:</head>
+            <subject source="lcsh" encodinganalog="650">Texas. Governor (1866-1867 : Throckmorton)</subject>
+         </controlaccess>
+         <controlaccess>
+            <head>Document Types:</head>
+            <genreform source="aat" encodinganalog="655">Correspondence--Texas--Politicians--1857-1867.</genreform>
+            <genreform source="aat" encodinganalog="655">Speeches--Texas--Politicians--1876-1889.</genreform>
+            <genreform source="aat" encodinganalog="655">Clippings--Texas--Politicians--1898-1940.</genreform>
+         </controlaccess>
+      </controlaccess>
+      <relatedmaterial id="a6">
+         <head>Related Material</head>
+         <p>
+            <emph render="italic">The following materials are offered as
+			 possible sources of further information on the agencies and subjects covered by
+			 the records. The listing is not exhaustive. </emph>
+         </p>
+         <relatedmaterial>
+            <p>
+               <repository>
+                  <emph render="bold">Texas State
+				  Archives</emph>
+               </repository>
+            </p>
+            <note>
+               <p>
+                  <emph render="italic"><?xm-replace_text {Notes, if desired}?></emph>
+               </p>
+            </note>
+            <archref linktype="simple">Texas Office of the Governor, Records of James W. Throckmorton, 1866-1867, 1.18 cubic ft.</archref>
+         </relatedmaterial>
+         <relatedmaterial>
+            <p>
+               <repository>
+                  <emph render="bold">Center for American History, University of Texas at Austin</emph>
+               </repository>
+            </p>
+            <note>
+               <p>
+                  <emph render="italic"><?xm-replace_text {Notes, if desired}?></emph>
+               </p>
+            </note>
+            <archref linktype="simple">James Webb Throckmorton Papers, 1838-1888, 1 ft., 4 in.</archref>
+         </relatedmaterial>
+         <relatedmaterial>
+            <p>
+               <emph render="bold">Publications</emph>
+            </p>
+            <bibref linktype="simple">Elliott, Claude.   
+				<title linktype="simple">
+                  <emph render="italic">Leathercoat; the life history of a Texas patriot</emph>. </title>San Antonio, Tex. : Standard Printing Co., 1938.
+			 </bibref>
+         </relatedmaterial>
+      </relatedmaterial>
+      <processinfo id="a20" encodinganalog="583">
+         <head>Processing Information</head>
+         <p>Paul B. Beck, July 1993</p>
+      </processinfo>
+      <acqinfo id="a19" encodinganalog="541">
+         <head>Accession Information</head>
+         <p>Accession number: 1993/204</p>
+         <p>These papers were donated to the Texas State Archives by Bettye B. Hanna, great-great granddaughter of James W. Throckmorton, on July 1, 1993.</p>
+      </acqinfo>
+      <dsc type="combined" id="a23">
+         <head>Detailed Description of the Records</head>
+         <c01 level="series" id="ser1">
+            <did>
+               <unittitle>Papers, <unitdate type="inclusive" era="ce" calendar="gregorian">1857-1940 </unitdate>
+                  <unitdate type="bulk" era="ce" calendar="gregorian">(bulk 1857-1897), </unitdate>
+               </unittitle>
+               <physdesc>0.24 cubic ft.</physdesc>
+            </did>
+            <c02>
+               <did>
+                  <container type="box">1993/204</container>
+                  <unittitle>Correspondence, <unitdate era="ce" calendar="gregorian">1857-1867</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">1993/204</container>
+                  <unittitle>Speeches, <unitdate era="ce" calendar="gregorian">1876-1889</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">1993/204</container>
+                  <unittitle>Insurance policies, <unitdate era="ce" calendar="gregorian">1890-1897</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">1993/204</container>
+                  <unittitle>Canceled checks, <unitdate era="ce" calendar="gregorian">1889-1894</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">1993/204</container>
+                  <unittitle>Newspaper clippings, <unitdate era="ce" calendar="gregorian">1898-1940</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+         </c01>
+      </dsc>
+   </archdesc>
+</ead>

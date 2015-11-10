@@ -1,0 +1,2485 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.library.yale.edu/facc/schemas/ead/ead.xsd"
+     id="mssa.ms.0089">
+   <eadheader findaidstatus="edited-full-draft" repositoryencoding="iso15511"
+              countryencoding="iso3166-1"
+              dateencoding="iso8601"
+              langencoding="iso639-2b"
+              audience="internal"
+              scriptencoding="iso15924">
+      <eadid countrycode="US" mainagencycode="US-CtY"
+             publicid="-//Yale University::Manuscripts and Archives//TEXT (US::CtY::::[Boardman family papers])//EN"
+             url="http://hdl.handle.net/10079/fa/mssa.ms.0089">mssa.ms.0089</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper type="formal">Guide to the Boardman Family Papers
+                    </titleproper>
+            <titleproper type="filing" audience="internal">Boardman Family Papers</titleproper>
+            <author>compiled by William E. Brown, Jr., Diedre Reynolds, and Robert G. Mork</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Yale University Library</publisher>
+            <publisher>Manuscripts and Archives</publisher>
+            <address>
+               <addressline>New Haven, Connecticut</addressline>
+            </address>
+            <date type="original" normal="1984-12">December 1984</date>
+            <p>
+               <extref ns2:type="simple" ns2:actuate="onRequest" ns2:show="new"
+                       ns2:href="http://hdl.handle.net/10079/9p8czk9">Copyright © <date type="copyright" normal="2012">2012</date> by the Yale University Library. </extref>
+            </p>
+         </publicationstmt>
+         <notestmt>
+            <note type="bpg">
+               <p>This encoded finding aid is compliant with the Yale EAD Best Practice Guidelines, Version 1.0.</p>
+            </note>
+         </notestmt>
+      </filedesc>
+      <profiledesc>
+         <creation>This finding aid was produced using the Archivists' Toolkit
+                </creation>
+         <langusage>Finding aid written in 
+                <language langcode="eng" scriptcode="Latn">English</language>.</langusage>
+         <descrules>Finding aid created in accordance with Manuscripts and Archives' Processing Manual.</descrules>
+      </profiledesc>
+      <revisiondesc>
+         <change>
+            <date normal="1998-05">May 1998</date>
+            <item>[unspecified revision]</item>
+         </change>
+      </revisiondesc>
+   </eadheader>
+   <archdesc level="collection" relatedencoding="MARC21" type="register">
+      <did>
+         <head>Overview</head>
+         <unitid label="Call Number:" countrycode="US" repositorycode="US-CtY">MS 89</unitid>
+         <origination label="Creator:">
+            <famname rules="aacr" source="ingest">Boardman family</famname>
+         </origination>
+         <unittitle label="Title:">Boardman family papers</unittitle>
+         <unitdate normal="1770/1917" type="inclusive" label="Dates:" calendar="gregorian"
+                   era="ce"
+                   datechar="creation">1770-1917</unitdate>
+         <physdesc label="Physical Description:">
+            <extent>27 linear feet</extent>
+         </physdesc>
+         <abstract label="Summary:">Correspondence, diaries, account books, daybooks, legal papers, deeds, and land books of the Boardman family of New Haven and New Milford, Conn., which had extensive real estate holdings in Connecticut and the Western Reserve. Family members include William Whiting Boardman, (1794-1871) lawyer and probate judge of New Haven, Conn.; his father Elijah Boardman, (1760-1823) U.S. Senator from Connecticut who had holdings in the Connecticut Land Company and the three Ohio townships of Palmyra, Boardman, and Medina; his brother, George Sherman Boardman, (1799-1825) and his son, William Jarvis Boardman, (b.1832) attorney for the Valley Railroad Company, and holder of real estate in Cleveland, Ohio, New Haven, Conn., and Chattanooga, Tenn.</abstract>
+         <langmaterial label="Language(s):">The materials are in <language langcode="eng" scriptcode="Latn">English</language>.</langmaterial>
+         <repository label="Repository:">
+            <corpname>Manuscripts and Archives</corpname>
+            <address>
+               <addressline>Sterling Memorial Library</addressline>
+               <addressline>128 Wall Street</addressline>
+               <addressline>P.O. Box 208240</addressline>
+               <addressline>New Haven, CT 06520</addressline>
+               <addressline altrender="web">Web: http://www.library.yale.edu/mssa/</addressline>
+               <addressline altrender="email">Email: mssa.assist@yale.edu</addressline>
+               <addressline altrender="phone">Phone: (203) 432-1735</addressline>
+               <addressline altrender="fax">Fax: (203) 432-7441</addressline>
+            </address>
+         </repository>
+      </did>
+      <descgrp type="admininfo" id="ai">
+         <head>Administrative Information</head>
+         <descgrp type="provenance" id="prov">
+            <head>Provenance</head>
+            <acqinfo id="ref4">
+               <p>Gift of Mrs. Murray Crane and Mrs. Frederick A. Keep, 1947.</p>
+            </acqinfo>
+         </descgrp>
+         <prefercite id="ref3">
+            <head>Cite As</head>
+            <p>Boardman Family Papers (MS 89). Manuscripts and Archives, Yale University Library.</p>
+         </prefercite>
+      </descgrp>
+      <scopecontent id="ref7">
+         <head>Description of the Papers</head>
+         <p>The papers contain correspondence, business papers, account books, deeds, diaries, estate records, journals, letterpress copybooks, notebooks, and miscellanea of the Boardman family of Connecticut and Ohio. The personal lives and professional careers of several generations of the Boardman family are documented. Among the primary figures in the papers are: Elijah Boardman (1760-1823), William Whiting Boardman (1794-1871), and William Jarvis Boardman (1832-1914). Additional individuals represented in the collection include: Daniel Boardman (1757-1853), David Sherman Boardman (1768-1864), Elijah Boardman (1777-1845), Frederic A. Boardman (1820-1890), George Sherman Boardman (1799-1825), Henry Mason Boardman (1797-1846), William Henry Boardman (1862-), Joseph Earl Sheffield (1793-1882), and George St. John Sheffield (1842-1924). The papers document family activities and relationships, extensive land holdings in Ohio, business interests in land and manufacturing operations, the legal careers of William Whiting and William Jarvis Boardman, and the career of U.S. Senator Elijah Boardman.</p>
+         <p>The Boardman Family Papers are arranged in sixty-six (66) boxes and one folio volume totalling twenty-seven (27) linear feet. The papers are arranged in four series: Arranged in four series: I. Correspondence, 1811-1916; II. Business Correspondence, 1818-1917; III. Miscellaneous Papers, 1798-1865; IV. Personal Papers and Deeds, 1770-1936.</p>
+         <p>SERIES I, CORRESPONDENCE, 1811-1916, contains letters to various members of the extended Boardman family. General files are arranged alphabetically by author, and include items from many individuals outside the family domain. Eli Baldwin correspondence (box 1, folder 2) consists of letters to Elijah Boardman regarding his land holdings in the Ohio Territory (1811-1829). Letters from Bela B. Clark, Isaac Newton, Rufus Reynolds, and Samuel Swan also comment on the Boardman, Ohio lands of Elijah Boardman.</p>
+         <p>Other correspondents in this series include: Augustus Henry Mosle, an attorney who handled many routine financial and legal operations for William Jarvis Boardman, members of the Porter, Sheffield, Tyler, and Wright families, and three members of the Schroeder family. Brief notes from Theodore Roosevelt and William Howard Taft, to William Jarvis Boardman, are also arranged in this section.</p>
+         <p>Select files (boxes 3-7) contain correspondence to and from members of the extended Boardman family. The correspondence is arranged by author in two alphabetical sub-sections. Boxes 3-4 (folders 69-113) contain the first sub-section, and boxes 4-7 (folders 114-176) contain the second sub-section. The correspondence for each author of these letters is arranged alphabetically by the name of the correspondent.</p>
+         <p>Several female members of the Boardman family are represented in this section. Cornelia Elizabeth Boardman, Lucy Hall Boardman, Mabel Thorp Boardman, Mary Anna Whiting Boardman, and others corresponded regularly with parents, siblings, and a variety of relatives. Much of this correspondence is personal in nature, relating to the health and daily activates of family life. These letters include information on individuals in the New Haven and Mew Milford, Connecticut, area and those family members who travelled to the Ohio area to live and manage landholdings.</p>
+         <p>The correspondence of Elijah Boardman (1760-1823), (folders 120-126) consists of letters to two sons, Henry Mason and William Whiting. The material focuses on the sons management of family business interests, particularly while Elijah served as United States Senator, 1821-1823. Letters from the Henry Mason Boardman to his father are arranged in folder 147-148. Additional material of Elijah Boardman is arranged in SERIES III, box 45, folders 543-545.</p>
+         <p>The correspondence of William Whiting Boardman (1764-1871), the eldest son of Elijah and Mary Anna Boardman, includes letters to a sister-in-law, Florence Sheffield Boardman, the daughter of Joseph E. Sheffield, founder of the Sheffield Scientific School at Yale University. William Whiting Boardman was a frequent correspondent of several family members including a Cornelia Elizabeth Boardman, Henry Whiting Boardman, Lucy Hall Boardman, Mary Anna Whiting Boardman, William Jarvis Boardman, Daniel Boardman, David Sherman Boardman, Elijah Boardman, Frederic Alexander Boardman, and Henry Mason Boardman. Letters from Daniel Boardman (1822-1830) and Judge David Sherman Boardman (1822-1855) relate to family finances and land dealings in Connecticut and elsewhere. Frederic Alexander Boardman wrote several letters to William Whiting Boardman from 1837-1856. Early correspondence chronicles Frederic's educational expenses, and requests for support from his uncle, in Waterbury and Hartford. Letters from Boardman, Ohio, detail the estate problems brought about by the death of Frederic's father, Henry Mason Boardman.</p>
+         <p>Henry Mason Boardman moved with his family to Boardman, Ohio, in 1819, to manage the family lands. In a group of letters Henry wrote to his brother William from 1824-1846, the estensive land holdings and financial operations of the Boardman family are detailed. Frequent sales, leases, and exchanges of property are noted with an exact fiscal accounting of payments and accounts receivable.</p>
+         <p>William Jarvis Boardman (1832-1915), a Cleveland, Ohio, native who married Florence Sheffield, a daughter of Joseph E. Sheffield is another family member whose correspondence documents the Ohio branch of the Boardman family. SERIES IV contains several letterpress copybooks and other volumes detailing the personal and professional lives of Boardman's immediate family (boxes 48-61, folders 600-645).</p>
+         <p>Another William Jarvis Boardman (1885-1938), is a primary twentieth century figure in the papers. Much of his correspondence is personal, to aging members of his family. Correspondence to and from members of the Sheffield branch of the Boardman family is also found in SERIES IV, folders 662-679. Letters of Joseph Earl Sheffield (1793-1882) are included here.</p>
+         <p>SERIES II, BUSINESS CORRESPONDENCE, 1818-1892, contains the bulk of letters relating to the real estate and financial operations of the Boardman family. The sale and lease of land in Ohio is the primary focus of this material. The bulk of the correspondence is with Ohio attorneys, agents, employees, and individuals working on behalf of or with the Boardman family. Correspondence relating to real estate in Tennessee: is also arranged here (folders 190-196) and material from several trading, merchant, banking, and business concerns is also included.</p>
+         <p>SERIES III, MISCELLANEOUS PAPERS, 1798-1918, consists of notes, financial records and accounts, deeds, copies of wills, leases, and other legal agreements, and other papers relating to several generations of the Boardman family. Much of this material relates directly to SERIES II, BUSINESS CORRESPONDENCE, 1818-1917. Files for 1798 (folders 414-415) include information on the western reserve lands of Connecticut. Dated material for the period 1799-1840 is not extant, but files from 1841-1918 contain a great deal of material on family activity. The bulk of twentieth century material documents the work of William Jarvis Boardman (1885-1938), as the controller of family finances, including the settlement of estates.</p>
+         <p>SERIES IV, PERSONAL PAPERS AND DEEDS, contains a variety of bound volumes and deeds for members of the Boardman family. This series includes diaries, estate records, letterpress copybooks, account books, notebooks, correspondence, deeds, and other types of material.</p>
+         <p>Elijah Boardman (1760-1823) estate records and a land book of Ohio real estate holdings, 1799-1858, are among the earliest materials in the series. Elijah George Boardman (1829-1853) and Elijah George Boardman (1868-1900), two Ohio born members of the family, are represented through diaries and, for the latter, letterpress copybooks dating from 1895-1900.</p>
+         <p>William Jarvis Boardman (1832-1915) files include personal account books, 1860-1914, and material relating to family real estate interests in Ohio and Tennessee. Among the types of material documenting Boardman's professional duties are: claim books, land books, ledgers, and letterpress copybooks (1859-1914). Files relating to the settlement of the estate of Joseph Earl Sheffield (folders 643-645) are also arranged here.</p>
+         <p>Mabel Thorp Boardman, a prominent figure in the American Red Cross, wrote a manuscript about that organization (folder 596). Files for members of the Sheffield family include correspondence to and from Charles Joseph Sheffield, George Sheffield, George St. John Sheffield, Joseph Earl Sheffield (1793-1882) and others.</p>
+         <p>Additional papers of the Boardman family are in the possession of Carl Boardman Cobb of Arrora, Ohio. A folder inventory to this material is available, please consult the reference staff.</p>
+      </scopecontent>
+      <arrangement id="ref313">
+         <head>Arrangement note</head>
+         <p>Arranged in four series: I. Correspondence, 1811-1916. II. Business Correspondence, 1818-1917. III. Miscellaneous Papers, 1798-1865. IV. Personal Papers and Deeds, 1770-1936.</p>
+      </arrangement>
+      <controlaccess id="ca">
+         <head>Access Terms</head>
+         <persname rules="aacr" source="ingest">Adams, Mary L.</persname>
+         <persname rules="aacr" source="ingest">Baldwin, Eli, 1777-1841.</persname>
+         <famname rules="aacr" source="ingest">Boardman family</famname>
+         <persname rules="aacr" source="ingest">Boardman, Amanda Mina Davis.</persname>
+         <persname rules="aacr" source="ingest">Boardman, Charles Adolphus, 1788-1880.</persname>
+         <persname rules="aacr" source="ingest">Boardman, Cornelia Elizabeth, 1808-1880.</persname>
+         <persname rules="aacr" source="ingest">Boardman, David Sherman, 1768-1864.</persname>
+         <persname rules="aacr" source="ingest">Boardman, Elijah, 1760-1823.</persname>
+         <persname rules="aacr" source="ingest">Boardman, Frederick Alexander, 1820-1890.</persname>
+         <persname rules="aacr" source="ingest">Boardman, George Sherman, 1799-1825.</persname>
+         <persname rules="aacr" source="ingest">Boardman, Henry Mason, 1797-1846.</persname>
+         <persname rules="aacr" source="ingest">Boardman, Henry Whiting, b. 1837.</persname>
+         <persname rules="aacr" source="ingest">Boardman, Lucy Hall.</persname>
+         <persname rules="aacr" source="ingest">Boardman, Mabel Thorp.</persname>
+         <persname rules="aacr" source="ingest">Boardman, Mary Anna Williams.</persname>
+         <persname rules="aacr" source="ingest">Boardman, Sarah Hall Benham.</persname>
+         <persname rules="aacr" source="ingest">Boardman, William Jarvis, b. 1832.</persname>
+         <persname rules="aacr" source="ingest">Boardman, William Jarvis, b. 1885.</persname>
+         <persname rules="aacr" source="ingest">Boardman, William Whiting, 1794-1871.</persname>
+         <persname rules="aacr" source="ingest">Corey, William.</persname>
+         <persname rules="aacr" source="ingest">Crane, Josephine Boardman, 1873-1972.</persname>
+         <persname rules="aacr" source="ingest">Graves, John S.</persname>
+         <persname rules="aacr" source="ingest">Hay, John Milton, 1841-1905.</persname>
+         <persname rules="aacr" source="ingest">Henry, William, 1862-1918.</persname>
+         <persname rules="aacr" source="ingest">Holmes, Oliver Wendell, 1841-1935.</persname>
+         <persname rules="aacr" source="ingest">Johnson, Ellen F. Terry.</persname>
+         <persname rules="aacr" source="ingest">Keep, Florence Boardman.</persname>
+         <persname rules="aacr" source="ingest">Keep, Frederick A.</persname>
+         <persname rules="aacr" source="ingest">Kirtland, J. P. (Jared Potter), 1793-1877.</persname>
+         <persname rules="aacr" source="ingest">Mosle, Augustus Henry.</persname>
+         <persname rules="aacr" source="ingest">Newton, Isaac, 1837-1884.</persname>
+         <persname rules="aacr" source="ingest">Phelps, John J.</persname>
+         <persname rules="aacr" source="ingest">Phelps, William Walter, 1839-1894.</persname>
+         <persname rules="aacr" source="ingest">Pinckney, John T.</persname>
+         <persname rules="aacr" source="ingest">Porter, John Addison, 1856-1900.</persname>
+         <persname rules="aacr" source="ingest">Porter, Josephine Earl Sheffield, 1834-</persname>
+         <persname rules="aacr" source="ingest">Schroeder, Henry Hermann.</persname>
+         <persname rules="aacr" source="ingest">Schroeder, John Frederick, 1800-1857.</persname>
+         <persname rules="aacr" source="ingest">Sheffield, Joseph Earl, 1793-1882.</persname>
+         <persname rules="aacr" source="ingest">Taft, William H. (William Howard), 1857-1930.</persname>
+         <persname rules="aacr" source="ingest">Tyler, Cornelius Boardman.</persname>
+         <persname rules="aacr" source="ingest">Tyler, Eliza Margaretta Schroeder, 1906-</persname>
+         <persname rules="aacr" source="ingest">Tyler, Mason Whiting, 1840-1907.</persname>
+         <persname rules="aacr" source="ingest">Van Buren, Thomas Brodhead, 1824-1888.</persname>
+         <persname rules="aacr" source="ingest">Wade, Mary P. Hall.</persname>
+         <persname rules="aacr" source="ingest">Wright, Boardman.</persname>
+         <persname rules="aacr" source="ingest">Wright, Cornelia E. Schroeder.</persname>
+         <persname rules="aacr" source="ingest">Wright, Frederick Amaziah, b. 1871.</persname>
+         <corpname rules="dacs" source="ingest">Yale University. Students.</corpname>
+         <genreform source="aat">Account books.</genreform>
+         <subject source="lcsh">Building--Estimates.</subject>
+         <subject source="lcsh">Business.</subject>
+         <geogname source="lcsh">Connecticut--Politics and government--1865-1950.</geogname>
+         <geogname source="lcsh">Connecticut.</geogname>
+         <genreform source="aat">Deeds.</genreform>
+         <genreform source="aat">Diaries.</genreform>
+         <subject source="lcsh">Family.</subject>
+         <subject source="lcsh">Law.</subject>
+         <occupation source="lcsh">Lawyers.</occupation>
+         <geogname source="lcsh">Middle West.</geogname>
+         <geogname source="lcsh">New Haven (Conn.)</geogname>
+         <geogname source="lcsh">Ohio--Industry.</geogname>
+         <occupation source="lcsh">Politicians.</occupation>
+         <subject source="lcsh">Real estate investment--Connecticut.</subject>
+         <subject source="lcsh">Real estate investment--Ohio.</subject>
+         <subject source="lcsh">Science.</subject>
+         <geogname source="lcsh">Southern States.</geogname>
+         <geogname source="lcsh">United States--Politics and government.</geogname>
+      </controlaccess>
+      <dsc type="combined">
+         <head>Collection Contents</head>
+         <c01 id="ref11" level="series">
+            <did>
+               <unitid>Series I</unitid>
+               <unittitle>CORRESPONDENCE</unittitle>
+               <unitdate normal="1811/1916" type="inclusive">1811-1916</unitdate>
+               <physdesc>
+                  <extent>3 linear feet</extent>
+                  <extent>(7 boxes)</extent>
+               </physdesc>
+            </did>
+            <scopecontent>
+               <p>This series contains correspondence arranged in two sections: General and Select. General files are arranged in a single alphabetical sequence. Select files are arranged in two alphabetical sub-sections.</p>
+            </scopecontent>
+            <c02 id="ref13" level="file">
+               <did>
+                  <unittitle>
+                     <emph render="underline">General</emph>
+                  </unittitle>
+               </did>
+               <c03 id="ref14" level="file">
+                  <did>
+                     <container type="Box" label="39002042321563">1</container>
+                     <container type="Folder">1</container>
+                     <unittitle>Adams, Mary L.</unittitle>
+                     <unitdate normal="1890/1904" type="inclusive">1890-1904</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref15" level="file">
+                  <did>
+                     <container type="Box" label="39002042321563">1</container>
+                     <container type="Folder">2</container>
+                     <unittitle>Baldwin, Eli</unittitle>
+                     <unitdate normal="1811/1829" type="inclusive">1811-1829</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref16" level="file">
+                  <did>
+                     <container type="Box" label="39002042321563">1</container>
+                     <container type="Folder">3</container>
+                     <unittitle>Baldwin, Jesse</unittitle>
+                     <unitdate normal="1890/1890">1890</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref17" level="file">
+                  <did>
+                     <container type="Box" label="39002042321563">1</container>
+                     <container type="Folder">4</container>
+                     <unittitle>Bosley, George</unittitle>
+                     <unitdate normal="1890/1891" type="inclusive">1890-1891</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref18" level="file">
+                  <did>
+                     <container type="Box" label="39002042321563">1</container>
+                     <container type="Folder">5</container>
+                     <unittitle>Carey, William</unittitle>
+                     <unitdate>1888, 1894</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref19" level="file">
+                  <did>
+                     <container type="Box" label="39002042321563">1</container>
+                     <container type="Folder">6</container>
+                     <unittitle>Clark, Bela B.</unittitle>
+                     <unitdate normal="1821/1821">1821</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref20" level="file">
+                  <did>
+                     <container type="Box" label="39002042321563">1</container>
+                     <container type="Folder">7</container>
+                     <unittitle>Coit, Henry A.</unittitle>
+                     <unitdate normal="1886/1886">1886</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref21" level="file">
+                  <did>
+                     <container type="Box" label="39002042321563">1</container>
+                     <container type="Folder">8</container>
+                     <unittitle>Crane, Josephine Porter Boardman</unittitle>
+                     <unitdate>1884, 1907-1913</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref22" level="file">
+                  <did>
+                     <container type="Box" label="39002042321563">1</container>
+                     <container type="Folder">9</container>
+                     <unittitle>Culmer, H.L.A.</unittitle>
+                     <unitdate normal="1886/1886">1886</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref23" level="file">
+                  <did>
+                     <container type="Box" label="39002042321563">1</container>
+                     <container type="Folder">10</container>
+                     <unittitle>Doan, G.W.</unittitle>
+                     <unitdate normal="1821/1821">1821</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref24" level="file">
+                  <did>
+                     <container type="Box" label="39002042321563">1</container>
+                     <container type="Folder">11</container>
+                     <unittitle>Dutton, Samuel A.</unittitle>
+                     <unitdate>1871-1875, 1913-1914</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref25" level="file">
+                  <did>
+                     <container type="Box" label="39002042321563">1</container>
+                     <container type="Folder">12</container>
+                     <unittitle>Fox, Marianna Boardman</unittitle>
+                     <unitdate normal="1912/1912">1912</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref26" level="file">
+                  <did>
+                     <container type="Box" label="39002042321563">1</container>
+                     <container type="Folder">13</container>
+                     <unittitle>Gidding, Hiram</unittitle>
+                     <unitdate>1822, 1847</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref27" level="file">
+                  <did>
+                     <container type="Box" label="39002042321563">1</container>
+                     <container type="Folder">14</container>
+                     <unittitle>Giddings, Jonathan</unittitle>
+                     <unitdate normal="1807/1807">1807</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref28" level="file">
+                  <did>
+                     <container type="Box" label="39002042321563">1</container>
+                     <container type="Folder">15</container>
+                     <unittitle>Graves, John S.</unittitle>
+                     <unitdate normal="1867/1867">1867</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref29" level="file">
+                  <did>
+                     <container type="Box" label="39002042321563">1</container>
+                     <container type="Folder">16</container>
+                     <unittitle>Hawley, H.A.</unittitle>
+                     <unitdate normal="1878/1878">1878</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref30" level="file">
+                  <did>
+                     <container type="Box" label="39002042321563">1</container>
+                     <container type="Folder">17</container>
+                     <unittitle>Hay, John Milton</unittitle>
+                     <unitdate normal="1890/1905" type="inclusive">1890-1905</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref31" level="file">
+                  <did>
+                     <container type="Box" label="39002042321563">1</container>
+                     <container type="Folder">18</container>
+                     <unittitle>Holmes, Oliver Wendell</unittitle>
+                     <unitdate normal="1905/1905">1905</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref32" level="file">
+                  <did>
+                     <container type="Box" label="39002042321563">1</container>
+                     <container type="Folder">19</container>
+                     <unittitle>Ingersall, Jonathan</unittitle>
+                     <unitdate normal="1821/1821">1821</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref33" level="file">
+                  <did>
+                     <container type="Box" label="39002042321563">1</container>
+                     <container type="Folder">20</container>
+                     <unittitle>Johnson, Ellen F. Terry</unittitle>
+                     <unitdate normal="1872/1875" type="inclusive">1872-1875</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref34" level="file">
+                  <did>
+                     <container type="Box" label="39002042321563">1</container>
+                     <container type="Folder">21</container>
+                     <unittitle>Keep, Florence Sheffield Boardman</unittitle>
+                     <unitdate>1881, 1883-1884</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref35" level="file">
+                  <did>
+                     <container type="Box" label="39002042321563">1</container>
+                     <container type="Folder">22</container>
+                     <unittitle>Keep, Frederic A.</unittitle>
+                     <unitdate>1902-1906, no date</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref36" level="file">
+                  <did>
+                     <container type="Box" label="39002042321563">1</container>
+                     <container type="Folder">23</container>
+                     <unittitle>Kirtland, Jared Potter</unittitle>
+                     <unitdate normal="1860/1867" type="inclusive">1860-1867</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref37" level="file">
+                  <did>
+                     <container type="Box" label="39002042321563">1</container>
+                     <container type="Folder">24</container>
+                     <unittitle>Lyman, Theodore B.</unittitle>
+                     <unitdate normal="1867/1882" type="inclusive">1867-1882</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref38" level="file">
+                  <did>
+                     <container type="Box" label="39002042321563">1</container>
+                     <container type="Folder">25-29</container>
+                     <unittitle>Mosle, Augustus Henry</unittitle>
+                     <unitdate normal="1897/1914" type="inclusive">1897-1914</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref39" level="file">
+                  <did>
+                     <container type="Box" label="39002042321563">1</container>
+                     <container type="Folder">30</container>
+                     <unittitle>Newton, Isaac</unittitle>
+                     <unitdate normal="1821/1822" type="inclusive">1821-1822</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref40" level="file">
+                  <did>
+                     <container type="Box" label="39002042321563">1</container>
+                     <container type="Folder">31</container>
+                     <unittitle>Pearce, Cornelia E.</unittitle>
+                     <unitdate>1907, 1913</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref41" level="file">
+                  <did>
+                     <container type="Box" label="39002042321563">1</container>
+                     <container type="Folder">32</container>
+                     <unittitle>Phelps, Ellen Sheffield</unittitle>
+                     <unitdate normal="1894/1894">1894</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref42" level="file">
+                  <did>
+                     <container type="Box" label="39002042321563">1</container>
+                     <container type="Folder">33</container>
+                     <unittitle>Phelps, John J.</unittitle>
+                     <unitdate normal="1894/1910" type="inclusive">1894-1910</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref43" level="file">
+                  <did>
+                     <container type="Box" label="39002042321563">1</container>
+                     <container type="Folder">34</container>
+                     <unittitle>Phelps, Sheffield</unittitle>
+                     <unitdate>1888, 1898</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref44" level="file">
+                  <did>
+                     <container type="Box" label="39002042321563">1</container>
+                     <container type="Folder">35</container>
+                     <unittitle>Porter, William Walter</unittitle>
+                     <unitdate normal="1868/1888" type="inclusive">1868-1888</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref45" level="file">
+                  <did>
+                     <container type="Box" label="39002042321563">1</container>
+                     <container type="Folder">36</container>
+                     <unittitle>Porter, Edward S.</unittitle>
+                     <unitdate normal="1885/1885">1885</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref46" level="file">
+                  <did>
+                     <container type="Box" label="39002042321563">1</container>
+                     <container type="Folder">37</container>
+                     <unittitle>Porter, John Addison</unittitle>
+                     <unitdate normal="1878/1889" type="inclusive">1878-1889</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref47" level="file">
+                  <did>
+                     <container type="Box" label="39002042321563">1</container>
+                     <container type="Folder">38</container>
+                     <unittitle>Porter, Josephine Earl Sheffield</unittitle>
+                     <unitdate>1882, 1890, no date</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref48" level="file">
+                  <did>
+                     <container type="Box" label="39002042321571">2</container>
+                     <container type="Folder">39</container>
+                     <unittitle>Reynolds, Rufus</unittitle>
+                     <unitdate normal="1821/1822" type="inclusive">1821-1822</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref49" level="file">
+                  <did>
+                     <container type="Box" label="39002042321571">2</container>
+                     <container type="Folder">40</container>
+                     <unittitle>Roosevelt, Theodore</unittitle>
+                     <unitdate normal="1893/1893">1893</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref50" level="file">
+                  <did>
+                     <container type="Box" label="39002042321571">2</container>
+                     <container type="Folder">41</container>
+                     <unittitle>Rouse, Caroline M.</unittitle>
+                     <unitdate normal="1870/1870">1870</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref51" level="file">
+                  <did>
+                     <container type="Box" label="39002042321571">2</container>
+                     <container type="Folder">42</container>
+                     <unittitle>Schroeder, Caroline Maria Boardman</unittitle>
+                     <unitdate normal="1821/1848" type="inclusive">1821-1848</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref52" level="file">
+                  <did>
+                     <container type="Box" label="39002042321571">2</container>
+                     <container type="Folder">43</container>
+                     <unittitle>Schroeder, Henry Harrison</unittitle>
+                     <unitdate normal="1867/1878" type="inclusive">1867-1878</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref53" level="file">
+                  <did>
+                     <container type="Box" label="39002042321571">2</container>
+                     <container type="Folder">44</container>
+                     <unittitle>Schroeder, John Frederic</unittitle>
+                     <unitdate>1859, 1864, 1872-1895</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref54" level="file">
+                  <did>
+                     <container type="Box" label="39002042321571">2</container>
+                     <container type="Folder">45</container>
+                     <unittitle>Sherman, John</unittitle>
+                     <unitdate normal="1890/1890">1890</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref55" level="file">
+                  <did>
+                     <container type="Box" label="39002042321571">2</container>
+                     <container type="Folder">46</container>
+                     <unittitle>Stewart, Charles Samuel</unittitle>
+                     <unitdate normal="1858/1863" type="inclusive">1858-1863</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref56" level="file">
+                  <did>
+                     <container type="Box" label="39002042321571">2</container>
+                     <container type="Folder">47</container>
+                     <unittitle>Swan, Samuel</unittitle>
+                     <unitdate normal="1821/1822" type="inclusive">1821-1822</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref57" level="file">
+                  <did>
+                     <container type="Box" label="39002042321571">2</container>
+                     <container type="Folder">48</container>
+                     <unittitle>Taft, Helen Herron</unittitle>
+                     <unitdate>no date</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref58" level="file">
+                  <did>
+                     <container type="Box" label="39002042321571">2</container>
+                     <container type="Folder">49</container>
+                     <unittitle>Taft, William Howard</unittitle>
+                     <unitdate>1905, 1915</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref59" level="file">
+                  <did>
+                     <container type="Box" label="39002042321571">2</container>
+                     <container type="Folder">50</container>
+                     <unittitle>Tufer, Cornelius Boardman</unittitle>
+                     <unitdate normal="1906/1907" type="inclusive">1906-1907</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref60" level="file">
+                  <did>
+                     <container type="Box" label="39002042321571">2</container>
+                     <container type="Folder">51</container>
+                     <unittitle>Tyler, Eliza Margaretta Schroeder</unittitle>
+                     <unitdate>1860, 1865-1896</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref61" level="file">
+                  <did>
+                     <container type="Box" label="39002042321571">2</container>
+                     <container type="Folder">52-57</container>
+                     <unittitle>Tyler, Mason Whiting</unittitle>
+                     <unitdate normal="1870/1907" type="inclusive">1870-1907</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref62" level="file">
+                  <did>
+                     <container type="Box" label="39002042321571">2</container>
+                     <container type="Folder">58</container>
+                     <unittitle>Tyler, William Seymour</unittitle>
+                     <unitdate>1906, 1913</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref63" level="file">
+                  <did>
+                     <container type="Box" label="39002042321571">2</container>
+                     <container type="Folder">59</container>
+                     <unittitle>Van Buren, Harriette Sheffield</unittitle>
+                     <unitdate normal="1881/1889" type="inclusive">1881-1889</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref64" level="file">
+                  <did>
+                     <container type="Box" label="39002042321571">2</container>
+                     <container type="Folder">60</container>
+                     <unittitle>Van Buren, Harold Sheffield</unittitle>
+                     <unitdate normal="1897/1897">1897</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref65" level="file">
+                  <did>
+                     <container type="Box" label="39002042321571">2</container>
+                     <container type="Folder">61</container>
+                     <unittitle>Van Buren, Thomas Brodhead</unittitle>
+                     <unitdate normal="1867/1882" type="inclusive">1867-1882</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref66" level="file">
+                  <did>
+                     <container type="Box" label="39002042321571">2</container>
+                     <container type="Folder">62</container>
+                     <unittitle>Wade, Mary P. Hall</unittitle>
+                     <unitdate normal="1858/1867" type="inclusive">1858-1867</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref67" level="file">
+                  <did>
+                     <container type="Box" label="39002042321571">2</container>
+                     <container type="Folder">63</container>
+                     <unittitle>Williams, Jonathan</unittitle>
+                     <unitdate normal="1859/1859">1859</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref68" level="file">
+                  <did>
+                     <container type="Box" label="39002042321571">2</container>
+                     <container type="Folder">64</container>
+                     <unittitle>Worder, Caroline M. Benham</unittitle>
+                     <unitdate normal="1870/1908" type="inclusive">1870-1908</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref69" level="file">
+                  <did>
+                     <container type="Box" label="39002042321571">2</container>
+                     <container type="Folder">65</container>
+                     <unittitle>Wright, Boardman</unittitle>
+                     <unitdate normal="1901/1914" type="inclusive">1901-1914</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref70" level="file">
+                  <did>
+                     <container type="Box" label="39002042321571">2</container>
+                     <container type="Folder">66</container>
+                     <unittitle>Wright, Cornelia Elizabeth Schroeder</unittitle>
+                     <unitdate>1859-1865, 1874-1911</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref71" level="file">
+                  <did>
+                     <container type="Box" label="39002042321571">2</container>
+                     <container type="Folder">67</container>
+                     <unittitle>Wright, Frederick Amaziah</unittitle>
+                     <unitdate>1896, 1904, 1911</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref72" level="file">
+                  <did>
+                     <container type="Box" label="39002042321571">2</container>
+                     <container type="Folder">68</container>
+                     <unittitle>Wright, George William</unittitle>
+                     <unitdate normal="1872/1873" type="inclusive">1872-1873</unitdate>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="ref73" level="file">
+               <did>
+                  <unittitle>
+                     <emph render="underline">Select</emph>
+                  </unittitle>
+               </did>
+               <c03 id="ref74" level="file">
+                  <did>
+                     <container type="Box" label="39002042321589">3</container>
+                     <container type="Folder">69</container>
+                     <unittitle>Boardman, Amanda Mina Davis</unittitle>
+                     <unitdate>18[illegible]2-1900</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref75" level="file">
+                  <did>
+                     <container type="Box" label="39002042321589">3</container>
+                     <container type="Folder">70</container>
+                     <unittitle>Boardman, Augusta Wick (Bissell)</unittitle>
+                     <unitdate normal="1907/1907">1907</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref76" level="file">
+                  <did>
+                     <container type="Box" label="39002042321589">3</container>
+                     <container type="Folder">71</container>
+                     <unittitle>Boardman, Charles Adolphus</unittitle>
+                     <unitdate normal="1839/1856" type="inclusive">1839-1856</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref77" level="file">
+                  <did>
+                     <unittitle>Boardman, Cornelia Elizabeth</unittitle>
+                  </did>
+                  <c04 id="ref78" level="file">
+                     <did>
+                        <container type="Box" label="39002042321589">3</container>
+                        <container type="Folder">72</container>
+                        <unittitle>Boardman, Lucy (Hall)</unittitle>
+                        <unitdate normal="1858/1860" type="inclusive">1858-1860</unitdate>
+                     </did>
+                  </c04>
+                  <c04 id="ref79" level="file">
+                     <did>
+                        <container type="Box" label="39002042321589">3</container>
+                        <container type="Folder">73-74</container>
+                        <unittitle>Boardman, William Jarvis</unittitle>
+                        <unitdate normal="1861/1880" type="inclusive">1861-1880</unitdate>
+                     </did>
+                  </c04>
+                  <c04 id="ref80" level="file">
+                     <did>
+                        <container type="Box" label="39002042321589">3</container>
+                        <container type="Folder">75</container>
+                        <unittitle>Boardman, William Whiting</unittitle>
+                        <unitdate normal="1827/1871" type="inclusive">1827-1871</unitdate>
+                     </did>
+                  </c04>
+                  <c04 id="ref81" level="file">
+                     <did>
+                        <container type="Box" label="39002042321589">3</container>
+                        <container type="Folder">76</container>
+                        <unittitle>Wright, Cornelia Elizabeth S.</unittitle>
+                        <unitdate normal="1871/1871">1871</unitdate>
+                     </did>
+                  </c04>
+               </c03>
+               <c03 id="ref82" level="file">
+                  <did>
+                     <unittitle>Boardman, Florence (Sheffield)</unittitle>
+                  </did>
+                  <c04 id="ref83" level="file">
+                     <did>
+                        <container type="Box" label="39002042321589">3</container>
+                        <container type="Folder">77-78</container>
+                        <unittitle>Boardman, William Jarvis</unittitle>
+                        <unitdate>1871 1884</unitdate>
+                     </did>
+                  </c04>
+               </c03>
+               <c03 id="ref84" level="file">
+                  <did>
+                     <container type="Box" label="39002042321589">3</container>
+                     <container type="Folder">79</container>
+                     <unittitle>Boardman, Henry Mason</unittitle>
+                     <unitdate normal="1870/1870">1870</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref85" level="file">
+                  <did>
+                     <unittitle>Boardman, Henry Whiting</unittitle>
+                  </did>
+                  <c04 id="ref86" level="file">
+                     <did>
+                        <container type="Box" label="39002042321589">3</container>
+                        <container type="Folder">80</container>
+                        <unittitle>Boardman, Cornelia Elizabeth</unittitle>
+                        <unitdate>no date</unitdate>
+                     </did>
+                  </c04>
+                  <c04 id="ref87" level="file">
+                     <did>
+                        <container type="Box" label="39002042321589">3</container>
+                        <container type="Folder">81-83</container>
+                        <unittitle>Boardman, William Jarvis</unittitle>
+                        <unitdate normal="1859/1899" type="inclusive">1859-1899</unitdate>
+                     </did>
+                  </c04>
+                  <c04 id="ref88" level="file">
+                     <did>
+                        <container type="Box" label="39002042321589">3</container>
+                        <container type="Folder">84</container>
+                        <unittitle>Boardman, William Whiting</unittitle>
+                        <unitdate normal="1852/1856" type="inclusive">1852-1856</unitdate>
+                     </did>
+                  </c04>
+               </c03>
+               <c03 id="ref89" level="file">
+                  <did>
+                     <container type="Box" label="39002042321589">3</container>
+                     <container type="Folder">85</container>
+                     <unittitle>Boardman, Homer</unittitle>
+                     <unitdate normal="1825/1825">1825</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref90" level="file">
+                  <did>
+                     <unittitle>Boardman, Lucy (Hall)</unittitle>
+                  </did>
+                  <c04 id="ref91" level="file">
+                     <did>
+                        <container type="Box" label="39002042321589">3</container>
+                        <container type="Folder">86</container>
+                        <unittitle>Boardman, Cornelia Elizabeth</unittitle>
+                        <unitdate normal="1857/1861" type="inclusive">1857-1861</unitdate>
+                     </did>
+                  </c04>
+                  <c04 id="ref92" level="file">
+                     <did>
+                        <container type="Box" label="39002042321589">3</container>
+                        <container type="Folder">87</container>
+                        <unittitle>Boardman, William Jarvis</unittitle>
+                        <unitdate normal="1871/1907" type="inclusive">1871-1907</unitdate>
+                     </did>
+                  </c04>
+                  <c04 id="ref93" level="file">
+                     <did>
+                        <container type="Box" label="39002042321589">3</container>
+                        <container type="Folder">88</container>
+                        <unittitle>Boardman, William Whiting</unittitle>
+                        <unitdate normal="1864/1871" type="inclusive">1864-1871</unitdate>
+                     </did>
+                  </c04>
+                  <c04 id="ref94" level="file">
+                     <did>
+                        <container type="Box" label="39002042321589">3</container>
+                        <container type="Folder">89</container>
+                        <unittitle>Dutton, Samuel A.</unittitle>
+                        <unitdate normal="1871/1871">1871</unitdate>
+                     </did>
+                  </c04>
+               </c03>
+               <c03 id="ref95" level="file">
+                  <did>
+                     <unittitle>Boardman, Mabel Thorp</unittitle>
+                  </did>
+                  <c04 id="ref96" level="file">
+                     <did>
+                        <container type="Box" label="39002042321589">3</container>
+                        <container type="Folder">90</container>
+                        <unittitle>Boardman, Florence (Sheffield)</unittitle>
+                        <unitdate normal="1914/1914">1914</unitdate>
+                     </did>
+                  </c04>
+                  <c04 id="ref97" level="file">
+                     <did>
+                        <container type="Box" label="39002042321589">3</container>
+                        <container type="Folder">91</container>
+                        <unittitle>Boardman, William Jarvis</unittitle>
+                        <unitdate normal="1877/1914" type="inclusive">1877-1914</unitdate>
+                     </did>
+                  </c04>
+                  <c04 id="ref98" level="file">
+                     <did>
+                        <container type="Box" label="39002042321589">3</container>
+                        <container type="Folder">92</container>
+                        <unittitle>Moyand, Henri Company</unittitle>
+                        <unitdate normal="1917/1917">1917</unitdate>
+                     </did>
+                  </c04>
+               </c03>
+               <c03 id="ref99" level="file">
+                  <did>
+                     <container type="Box" label="39002042321589">3</container>
+                     <container type="Folder">93</container>
+                     <unittitle>Boardman, Mary Anna (Whiting)</unittitle>
+                     <unitdate>1827, 1841</unitdate>
+                  </did>
+                  <c04 id="ref100" level="file">
+                     <did>
+                        <container type="Box" label="39002042321589">3</container>
+                        <container type="Folder">94</container>
+                        <unittitle>Boardman, Mabel Thorp</unittitle>
+                        <unitdate normal="1906/1906">1906</unitdate>
+                     </did>
+                  </c04>
+                  <c04 id="ref101" level="file">
+                     <did>
+                        <container type="Box" label="39002042321589">3</container>
+                        <container type="Folder">95</container>
+                        <unittitle>Boardman, William Jarvis</unittitle>
+                        <unitdate normal="1896/1898" type="inclusive">1896-1898</unitdate>
+                     </did>
+                  </c04>
+                  <c04 id="ref102" level="file">
+                     <did>
+                        <container type="Box" label="39002042321589">3</container>
+                        <container type="Folder">96</container>
+                        <unittitle>Boardman, William Whiting</unittitle>
+                        <unitdate>[1907], 1909</unitdate>
+                     </did>
+                  </c04>
+               </c03>
+               <c03 id="ref103" level="file">
+                  <did>
+                     <container type="Box" label="39002042321589">3</container>
+                     <container type="Folder">97</container>
+                     <unittitle>Boardman, Samuel W.</unittitle>
+                     <unitdate normal="1905/1905">1905</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref104" level="file">
+                  <did>
+                     <container type="Box" label="39002042321589">3</container>
+                     <container type="Folder">98</container>
+                     <unittitle>Boardman, Sarah Hall (Benham)</unittitle>
+                     <unitdate normal="1848/1856" type="inclusive">1848-1856</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref105" level="file">
+                  <did>
+                     <container type="Box" label="39002042321589">3</container>
+                     <container type="Folder">99</container>
+                     <unittitle>Boardman, Sarah (Taintor)</unittitle>
+                     <unitdate>no date</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref106" level="file">
+                  <did>
+                     <container type="Box" label="39002042321589">3</container>
+                     <container type="Folder">100</container>
+                     <unittitle>Boardman, William C.</unittitle>
+                     <unitdate normal="1834/1834">1834</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref107" level="file">
+                  <did>
+                     <unittitle>Boardman, William Jarvis (1832-1915)</unittitle>
+                  </did>
+                  <c04 id="ref108" level="file">
+                     <did>
+                        <container type="Box" label="39002042321597">4</container>
+                        <container type="Folder">101-102</container>
+                        <unittitle>Drafts and copies of letters</unittitle>
+                        <unitdate normal="1870/1915" type="inclusive">1870-1915</unitdate>
+                     </did>
+                  </c04>
+                  <c04 id="ref109" level="file">
+                     <did>
+                        <container type="Box" label="39002042321597">4</container>
+                        <container type="Folder">103</container>
+                        <unittitle>Boardman, William Whiting</unittitle>
+                        <unitdate normal="1848/1868" type="inclusive">1848-1868</unitdate>
+                     </did>
+                  </c04>
+                  <c04 id="ref110" level="file">
+                     <did>
+                        <container type="Box" label="39002042321597">4</container>
+                        <container type="Folder">104-105</container>
+                        <unittitle>Miscellaneous</unittitle>
+                        <unitdate>no date</unitdate>
+                     </did>
+                  </c04>
+               </c03>
+               <c03 id="ref111" level="file">
+                  <did>
+                     <unittitle>Boardman, William Jarvis (1885-1938)</unittitle>
+                  </did>
+                  <c04 id="ref112" level="file">
+                     <did>
+                        <container type="Box" label="39002042321597">4</container>
+                        <container type="Folder">106</container>
+                        <unittitle>Boardman, Florence (Sheffield)</unittitle>
+                        <unitdate>no date</unitdate>
+                     </did>
+                  </c04>
+                  <c04 id="ref113" level="file">
+                     <did>
+                        <container type="Box" label="39002042321597">4</container>
+                        <container type="Folder">107</container>
+                        <unittitle>Boardman, William Jarvis (G.F.)</unittitle>
+                        <unitdate normal="1902/1914" type="inclusive">1902-1914</unitdate>
+                     </did>
+                  </c04>
+               </c03>
+               <c03 id="ref114" level="file">
+                  <did>
+                     <unittitle>Boardman, William Whiting (1794-1871)</unittitle>
+                  </did>
+                  <c04 id="ref115" level="file">
+                     <did>
+                        <container type="Box" label="39002042321597">4</container>
+                        <container type="Folder">108</container>
+                        <unittitle>Boardman, Florence (Sheffield)</unittitle>
+                        <unitdate normal="1866/1866">1866</unitdate>
+                     </did>
+                  </c04>
+                  <c04 id="ref116" level="file">
+                     <did>
+                        <container type="Box" label="39002042321597">4</container>
+                        <container type="Folder">109</container>
+                        <unittitle>Boardman, Frederick A.</unittitle>
+                        <unitdate>1849, 1856</unitdate>
+                     </did>
+                  </c04>
+                  <c04 id="ref117" level="file">
+                     <did>
+                        <container type="Box" label="39002042321597">4</container>
+                        <container type="Folder">110</container>
+                        <unittitle>Boardman, Sarah Hall (Benham)</unittitle>
+                        <unitdate normal="1862/1862">1862</unitdate>
+                     </did>
+                  </c04>
+                  <c04 id="ref118" level="file">
+                     <did>
+                        <container type="Box" label="39002042321597">4</container>
+                        <container type="Folder">111-112</container>
+                        <unittitle>Boardman, William Jarvis</unittitle>
+                        <unitdate normal="1856/1871" type="inclusive">1856-1871</unitdate>
+                     </did>
+                  </c04>
+                  <c04 id="ref119" level="file">
+                     <did>
+                        <container type="Box" label="39002042321597">4</container>
+                        <container type="Folder">113</container>
+                        <unittitle>Drafts of letters</unittitle>
+                        <unitdate>1847, 1863</unitdate>
+                     </did>
+                  </c04>
+               </c03>
+               <c03 id="ref120" level="file">
+                  <did>
+                     <unittitle>Boardman, Daniel</unittitle>
+                  </did>
+                  <c04 id="ref121" level="file">
+                     <did>
+                        <container type="Box" label="39002042321597">4</container>
+                        <container type="Folder">114</container>
+                        <unittitle>Pinckney, John T.</unittitle>
+                        <unitdate normal="1832/1832">1832</unitdate>
+                     </did>
+                  </c04>
+                  <c04 id="ref122" level="file">
+                     <did>
+                        <container type="Box" label="39002042321597">4</container>
+                        <container type="Folder">115</container>
+                        <unittitle>Boardman, William Whiting</unittitle>
+                        <unitdate normal="1822/1830" type="inclusive">1822-1830</unitdate>
+                     </did>
+                  </c04>
+               </c03>
+               <c03 id="ref123" level="file">
+                  <did>
+                     <container type="Box" label="39002042321597">4</container>
+                     <container type="Folder">116</container>
+                     <unittitle>Boardman, Daniel Homer (1803-1834)</unittitle>
+                     <unitdate normal="1827/1828" type="inclusive">1827-1828</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref124" level="file">
+                  <did>
+                     <unittitle>Boardman, David Sherman</unittitle>
+                  </did>
+                  <c04 id="ref125" level="file">
+                     <did>
+                        <container type="Box" label="39002042321597">4</container>
+                        <container type="Folder">117</container>
+                        <unittitle>Boardman, Henry Mason</unittitle>
+                        <unitdate normal="1845/1845">1845</unitdate>
+                     </did>
+                  </c04>
+                  <c04 id="ref126" level="file">
+                     <did>
+                        <container type="Box" label="39002042321597">4</container>
+                        <container type="Folder">118</container>
+                        <unittitle>Boardman, William Jarvis</unittitle>
+                        <unitdate normal="1856/1856">1856</unitdate>
+                     </did>
+                  </c04>
+                  <c04 id="ref127" level="file">
+                     <did>
+                        <container type="Box" label="39002042321597">4</container>
+                        <container type="Folder">119</container>
+                        <unittitle>Boardman, William Whiting</unittitle>
+                        <unitdate normal="1822/1855" type="inclusive">1822-1855</unitdate>
+                     </did>
+                  </c04>
+                  <c04 id="ref128" level="file">
+                     <did>
+                        <container type="Box" label="39002042321597">4</container>
+                        <container type="Folder">119</container>
+                        <unittitle>Tomlinson, Daniel</unittitle>
+                        <unitdate normal="1831/1831">1831</unitdate>
+                     </did>
+                  </c04>
+               </c03>
+               <c03 id="ref129" level="file">
+                  <did>
+                     <unittitle>Boardman, Elijah (1760-1823)</unittitle>
+                  </did>
+                  <c04 id="ref130" level="file">
+                     <did>
+                        <container type="Box" label="39002042321597">4</container>
+                        <container type="Folder">120</container>
+                        <unittitle>Boardman, Henry Mason</unittitle>
+                        <unitdate normal="1819/1822" type="inclusive">1819-1822</unitdate>
+                     </did>
+                  </c04>
+                  <c04 id="ref131" level="file">
+                     <did>
+                        <container type="Box" label="39002042321597">4</container>
+                        <container type="Folder">121-123</container>
+                        <unittitle>Boardman, William Whiting</unittitle>
+                        <unitdate normal="1820/1822" type="inclusive">1820-1822</unitdate>
+                     </did>
+                  </c04>
+                  <c04 id="ref132" level="file">
+                     <did>
+                        <container type="Box" label="39002042321605">5</container>
+                        <container type="Folder">124-125</container>
+                        <unittitle>Boardman, William Whiting</unittitle>
+                        <unitdate normal="1822/1822">1822</unitdate>
+                     </did>
+                  </c04>
+                  <c04 id="ref133" level="file">
+                     <did>
+                        <container type="Box" label="39002042321605">5</container>
+                        <container type="Folder">126</container>
+                        <unittitle>Various persons</unittitle>
+                     </did>
+                  </c04>
+               </c03>
+               <c03 id="ref134" level="file">
+                  <did>
+                     <container type="Box" label="39002042321605">5</container>
+                     <container type="Folder">127</container>
+                     <unittitle>Boardman, Elijah 2nd</unittitle>
+                     <unitdate normal="1825/1825">1825</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref135" level="file">
+                  <did>
+                     <container type="Box" label="39002042321605">5</container>
+                     <container type="Folder">128</container>
+                     <unittitle>Boardman, Elijah (1777-[1845])</unittitle>
+                     <unitdate normal="1830/1836" type="inclusive">1830-1836</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref136" level="file">
+                  <did>
+                     <container type="Box" label="39002042321605">5</container>
+                     <container type="Folder">129</container>
+                     <unittitle>Boardman, Elijah George (1829-1853)</unittitle>
+                     <unitdate normal="1847/1852" type="inclusive">1847-1852</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref137" level="file">
+                  <did>
+                     <unittitle>Boardman, Elijah George (1868-1900)</unittitle>
+                  </did>
+                  <c04 id="ref138" level="file">
+                     <did>
+                        <container type="Box" label="39002042321605">5</container>
+                        <container type="Folder">130</container>
+                        <unittitle>Boardman, Florence (Sheffield)</unittitle>
+                        <unitdate normal="1884/1899" type="inclusive">1884-1899</unitdate>
+                     </did>
+                  </c04>
+                  <c04 id="ref139" level="file">
+                     <did>
+                        <container type="Box" label="39002042321605">5</container>
+                        <container type="Folder">131</container>
+                        <unittitle>Boardman, William Jarvis</unittitle>
+                        <unitdate normal="1880/1900" type="inclusive">1880-1900</unitdate>
+                     </did>
+                  </c04>
+                  <c04 id="ref140" level="file">
+                     <did>
+                        <container type="Box" label="39002042321605">5</container>
+                        <container type="Folder">132</container>
+                        <unittitle>Various persons</unittitle>
+                        <unitdate normal="1898/1899" type="inclusive">1898-1899</unitdate>
+                     </did>
+                  </c04>
+               </c03>
+               <c03 id="ref141" level="file">
+                  <did>
+                     <unittitle>Boardman, Frederick Alexander (1820-[1890])</unittitle>
+                  </did>
+                  <c04 id="ref142" level="file">
+                     <did>
+                        <container type="Box" label="39002042321605">5</container>
+                        <container type="Folder">133</container>
+                        <unittitle>Boardman, Henry Whiting</unittitle>
+                        <unitdate normal="1860/1860">1860</unitdate>
+                     </did>
+                  </c04>
+                  <c04 id="ref143" level="file">
+                     <did>
+                        <container type="Box" label="39002042321605">5</container>
+                        <container type="Folder">134</container>
+                        <unittitle>Boardman, Mason Whiting Tyler</unittitle>
+                        <unitdate normal="1881/1881">1881</unitdate>
+                     </did>
+                  </c04>
+                  <c04 id="ref144" level="file">
+                     <did>
+                        <container type="Box" label="39002042321605">5</container>
+                        <container type="Folder">135</container>
+                        <unittitle>Boardman, Sarah Hall (Benham)</unittitle>
+                        <unitdate>1851, 1869</unitdate>
+                     </did>
+                  </c04>
+                  <c04 id="ref145" level="file">
+                     <did>
+                        <container type="Box" label="39002042321605">5</container>
+                        <container type="Folder">136-138</container>
+                        <unittitle>Boardman, William Jarvis</unittitle>
+                        <unitdate normal="1858/1890" type="inclusive">1858-1890</unitdate>
+                     </did>
+                  </c04>
+                  <c04 id="ref146" level="file">
+                     <did>
+                        <container type="Box" label="39002042321605">5</container>
+                        <container type="Folder">139-141</container>
+                        <unittitle>Boardman, William Whiting</unittitle>
+                        <unitdate normal="1837/1856" type="inclusive">1837-1856</unitdate>
+                     </did>
+                  </c04>
+               </c03>
+               <c03 id="ref147" level="file">
+                  <did>
+                     <container type="Box" label="39002042321605">5</container>
+                     <container type="Folder">142</container>
+                     <unittitle>Boardman, Frederic Alexander (1873-)[1900]</unittitle>
+                     <unitdate normal="1908/1908">1908</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref148" level="file">
+                  <did>
+                     <container type="Box" label="39002042321605">5</container>
+                     <container type="Folder">143</container>
+                     <unittitle>Boardman, Frederick William Henry (1804-1882)</unittitle>
+                     <unitdate normal="1834/1851" type="inclusive">1834-1851</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref149" level="file">
+                  <did>
+                     <container type="Box" label="39002042321605">5</container>
+                     <container type="Folder">144</container>
+                     <unittitle>Boardman, George Sherman (1799-1825)</unittitle>
+                     <unitdate normal="1820/1825" type="inclusive">1820-1825</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref150" level="file">
+                  <did>
+                     <container type="Box" label="39002042321605">5</container>
+                     <container type="Folder">145</container>
+                     <unittitle>Boardman, G.M.</unittitle>
+                     <unitdate normal="1841/1842" type="inclusive">1841-1842</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref151" level="file">
+                  <did>
+                     <unittitle>Boardman, Henry Mason (1797-1846)</unittitle>
+                  </did>
+                  <c04 id="ref152" level="file">
+                     <did>
+                        <container type="Box" label="39002042321605">5</container>
+                        <container type="Folder">146</container>
+                        <unittitle>Boardman, David Sherman</unittitle>
+                        <unitdate normal="1835/1835">1835</unitdate>
+                     </did>
+                  </c04>
+                  <c04 id="ref153" level="file">
+                     <did>
+                        <container type="Box" label="39002042321613">6</container>
+                        <container type="Folder">147-148</container>
+                        <unittitle>Boardman, Elijah</unittitle>
+                        <unitdate normal="1819/1823" type="inclusive">1819-1823</unitdate>
+                     </did>
+                  </c04>
+                  <c04 id="ref154" level="file">
+                     <did>
+                        <container type="Box" label="39002042321613">6</container>
+                        <container type="Folder">149-159</container>
+                        <unittitle>Boardman, William Whiting</unittitle>
+                        <unitdate normal="1824/1846" type="inclusive">1824-1846</unitdate>
+                     </did>
+                  </c04>
+                  <c04 id="ref155" level="file">
+                     <did>
+                        <container type="Box" label="39002042321613">6</container>
+                        <container type="Folder">160</container>
+                        <unittitle>Schroeder, Caroline Maria Boardman</unittitle>
+                        <unitdate normal="1845/1845">1845</unitdate>
+                     </did>
+                  </c04>
+               </c03>
+               <c03 id="ref156" level="file">
+                  <did>
+                     <unittitle>Boardman, William Henry (1862-)</unittitle>
+                  </did>
+                  <c04 id="ref157" level="file">
+                     <did>
+                        <container type="Box" label="39002042321621">7</container>
+                        <container type="Folder">161</container>
+                        <unittitle>Boardman, Elijah George</unittitle>
+                        <unitdate normal="1899/1900" type="inclusive">1899-1900</unitdate>
+                     </did>
+                  </c04>
+                  <c04 id="ref158" level="file">
+                     <did>
+                        <container type="Box" label="39002042321621">7</container>
+                        <container type="Folder">162</container>
+                        <unittitle>Boardman, Florence Sheffield</unittitle>
+                        <unitdate normal="1877/1916" type="inclusive">1877-1916</unitdate>
+                     </did>
+                  </c04>
+                  <c04 id="ref159" level="file">
+                     <did>
+                        <container type="Box" label="39002042321621">7</container>
+                        <container type="Folder">163-176</container>
+                        <unittitle>Boardman, William Jarvis</unittitle>
+                        <unitdate normal="1876/1914" type="inclusive">1876-1914</unitdate>
+                     </did>
+                  </c04>
+               </c03>
+            </c02>
+         </c01>
+         <c01 id="ref161" level="series">
+            <did>
+               <unitid>Series II</unitid>
+               <unittitle>BUSINESS CORRESPONDENCE</unittitle>
+               <unitdate normal="1818/1917" type="inclusive">1818-1917</unitdate>
+               <physdesc>
+                  <extent>9.5 linear feet</extent>
+                  <extent>(23 boxes)</extent>
+               </physdesc>
+            </did>
+            <scopecontent>
+               <p>This series contains material arranged in chronological order.</p>
+            </scopecontent>
+            <c02 id="ref163" level="file">
+               <did>
+                  <container type="Box" label="39002042321639">8</container>
+                  <container type="Folder">177-192</container>
+                  <unittitle>
+                     <unitdate normal="1818/1865" type="inclusive">1818 - 1865</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02 id="ref164" level="file">
+               <did>
+                  <container type="Box" label="39002042321647">9</container>
+                  <container type="Folder">193-202</container>
+                  <unittitle>
+                     <unitdate normal="1866/1870" type="inclusive">1866 - 1870</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02 id="ref165" level="file">
+               <did>
+                  <container type="Box" label="39002042321654">10</container>
+                  <container type="Folder">203-215</container>
+                  <unittitle>
+                     <unitdate>1871 - 1872 Jul</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02 id="ref166" level="file">
+               <did>
+                  <container type="Box" label="39002042321662">11</container>
+                  <container type="Folder">216-233</container>
+                  <unittitle>
+                     <unitdate>1872 Aug - 1874 Mar</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02 id="ref167" level="file">
+               <did>
+                  <container type="Box" label="39002042321670">12</container>
+                  <container type="Folder">234-252</container>
+                  <unittitle>
+                     <unitdate>1874 Apr - 1876</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02 id="ref168" level="file">
+               <did>
+                  <container type="Box" label="39002042321688">13</container>
+                  <container type="Folder">253-267</container>
+                  <unittitle>
+                     <unitdate>1877 - 1880 Sept</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02 id="ref169" level="file">
+               <did>
+                  <container type="Box" label="39002042321696">14</container>
+                  <container type="Folder">268-299</container>
+                  <unittitle>
+                     <unitdate>1880 oct - 1883</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02 id="ref170" level="file">
+               <did>
+                  <container type="Box" label="39002042321704">15</container>
+                  <container type="Folder">281-299</container>
+                  <unittitle>
+                     <unitdate normal="1884/1886" type="inclusive">1884 - 1886</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02 id="ref171" level="file">
+               <did>
+                  <container type="Box" label="39002042321712">16</container>
+                  <container type="Folder">300-325</container>
+                  <unittitle>
+                     <unitdate>1887 - 1890 Sept</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02 id="ref172" level="file">
+               <did>
+                  <container type="Box" label="39002042321720">17</container>
+                  <container type="Folder">326-342</container>
+                  <unittitle>
+                     <unitdate>1890 Oct - 1893 Oct</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02 id="ref173" level="file">
+               <did>
+                  <container type="Box" label="39002042321738">18</container>
+                  <container type="Folder">343-358</container>
+                  <unittitle>
+                     <unitdate>1893 Nov - 1895 May</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02 id="ref174" level="file">
+               <did>
+                  <container type="Box" label="39002042321746">19</container>
+                  <container type="Folder">359-273</container>
+                  <unittitle>
+                     <unitdate>1895 Jun - 1897</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02 id="ref175" level="file">
+               <did>
+                  <container type="Box" label="39002042321753">20</container>
+                  <container type="Folder">274-287</container>
+                  <unittitle>
+                     <unitdate normal="1898/1899" type="inclusive">1898 - 1899</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02 id="ref176" level="file">
+               <did>
+                  <container type="Box" label="39002042321761">21</container>
+                  <container type="Folder">288-299</container>
+                  <unittitle>
+                     <unitdate>1900 - 1901 Jul</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02 id="ref177" level="file">
+               <did>
+                  <container type="Box" label="39002042321779">22</container>
+                  <container type="Folder">300-310</container>
+                  <unittitle>
+                     <unitdate>1901 Aug - 1902</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02 id="ref178" level="file">
+               <did>
+                  <container type="Box" label="39002042321787">23</container>
+                  <container type="Folder">311-322</container>
+                  <unittitle>
+                     <unitdate>1903 Jan - 1904 Aug</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02 id="ref179" level="file">
+               <did>
+                  <container type="Box" label="39002042321795">24</container>
+                  <container type="Folder">323-332</container>
+                  <unittitle>
+                     <unitdate>1904 Nov - 1906 Feb</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02 id="ref180" level="file">
+               <did>
+                  <container type="Box" label="39002042321803">25</container>
+                  <container type="Folder">333-348</container>
+                  <unittitle>
+                     <unitdate>1906 Mar - 1907 Sep</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02 id="ref181" level="file">
+               <did>
+                  <container type="Box" label="39002042321811">26</container>
+                  <container type="Folder">349-368</container>
+                  <unittitle>
+                     <unitdate>1907 Oct - 1909 May</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02 id="ref182" level="file">
+               <did>
+                  <container type="Box" label="39002042321829">27</container>
+                  <container type="Folder">369-382</container>
+                  <unittitle>
+                     <unitdate>1909 Jun - 1910</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02 id="ref183" level="file">
+               <did>
+                  <container type="Box" label="39002042321837">28</container>
+                  <container type="Folder">383-393</container>
+                  <unittitle>
+                     <unitdate>1911 Jan - 1912 Jun</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02 id="ref184" level="file">
+               <did>
+                  <container type="Box" label="39002042321845">29</container>
+                  <container type="Folder">394-407</container>
+                  <unittitle>
+                     <unitdate>1912 Jul - 1914 Jun</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02 id="ref185" level="file">
+               <did>
+                  <container type="Box" label="39002042321852">30</container>
+                  <container type="Folder">408-413</container>
+                  <unittitle>
+                     <unitdate>1914 Jul - 1917</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="ref187" level="series">
+            <did>
+               <unitid>Series III</unitid>
+               <unittitle>MISCELLANEOUS PAPERS</unittitle>
+               <unitdate normal="1798/1865" type="inclusive">1798-1865</unitdate>
+               <physdesc>
+                  <extent>6 linear feet</extent>
+                  <extent>(14 boxes)</extent>
+               </physdesc>
+            </did>
+            <scopecontent>
+               <p>This series contains files arranged in chronological order.</p>
+            </scopecontent>
+            <c02 id="ref189" level="file">
+               <did>
+                  <container type="Box" label="39002042321860">31</container>
+                  <container type="Folder">414-429</container>
+                  <unittitle>Miscellaneous papers</unittitle>
+                  <unitdate normal="1798/1865" type="inclusive">1798-1865</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref190" level="file">
+               <did>
+                  <container type="Box" label="39002042321878">32</container>
+                  <container type="Folder">430-439</container>
+                  <unittitle>Miscellaneous papers</unittitle>
+                  <unitdate normal="1865/1871" type="inclusive">1865-1871</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref191" level="file">
+               <did>
+                  <container type="Box" label="39002042321886">33</container>
+                  <container type="Folder">440-452</container>
+                  <unittitle>Miscellaneous papers</unittitle>
+                  <unitdate normal="1872/1877" type="inclusive">1872-1877</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref192" level="file">
+               <did>
+                  <container type="Box" label="39002042321894">34</container>
+                  <container type="Folder">453-462</container>
+                  <unittitle>Miscellaneous papers</unittitle>
+                  <unitdate normal="1878/1881" type="inclusive">1878-1881</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref193" level="file">
+               <did>
+                  <container type="Box" label="39002042321902">35</container>
+                  <container type="Folder">463-475</container>
+                  <unittitle>Miscellaneous papers</unittitle>
+                  <unitdate normal="1882/1884" type="inclusive">1882-1884</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref194" level="file">
+               <did>
+                  <container type="Box" label="39002042321910">36</container>
+                  <container type="Folder">476-488</container>
+                  <unittitle>Miscellaneous papers</unittitle>
+                  <unitdate normal="1884/1888" type="inclusive">1884-1888</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref195" level="file">
+               <did>
+                  <container type="Box" label="39002042321928">37</container>
+                  <container type="Folder">489-499</container>
+                  <unittitle>Miscellaneous papers</unittitle>
+                  <unitdate normal="1889/1891" type="inclusive">1889-1891</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref196" level="file">
+               <did>
+                  <container type="Box" label="39002042321936">38</container>
+                  <container type="Folder">500-511</container>
+                  <unittitle>Miscellaneous papers</unittitle>
+                  <unitdate normal="1891/1893" type="inclusive">1891-1893</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref197" level="file">
+               <did>
+                  <container type="Box" label="39002042321944">39</container>
+                  <container type="Folder">512-521</container>
+                  <unittitle>Miscellaneous papers</unittitle>
+                  <unitdate normal="1894/1897" type="inclusive">1894-1897</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref198" level="file">
+               <did>
+                  <container type="Box" label="39002042321951">40</container>
+                  <container type="Folder">522-535</container>
+                  <unittitle>Miscellaneous papers</unittitle>
+                  <unitdate normal="1897/1900" type="inclusive">1897-1900</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref199" level="file">
+               <did>
+                  <container type="Box" label="39002042321969">41</container>
+                  <container type="Folder">536-545</container>
+                  <unittitle>Miscellaneous papers</unittitle>
+                  <unitdate normal="1900/1905" type="inclusive">1900-1905</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref200" level="file">
+               <did>
+                  <container type="Box" label="39002042321977">42</container>
+                  <container type="Folder">546-557</container>
+                  <unittitle>Miscellaneous papers</unittitle>
+                  <unitdate normal="1906/1909" type="inclusive">1906-1909</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref201" level="file">
+               <did>
+                  <container type="Box" label="39002042321985">43</container>
+                  <container type="Folder">558-568</container>
+                  <unittitle>Miscellaneous papers</unittitle>
+                  <unitdate normal="1910/1913" type="inclusive">1910-1913</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref202" level="file">
+               <did>
+                  <container type="Box" label="39002042321993">44</container>
+                  <container type="Folder">569-581</container>
+                  <unittitle>Miscellaneous papers</unittitle>
+                  <unitdate>1914-1918, no date</unitdate>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="ref204" level="series">
+            <did>
+               <unitid>Series IV</unitid>
+               <unittitle>PERSONAL PAPERS AND DEEDS</unittitle>
+               <unitdate normal="1770/1936" type="inclusive">1770-1936</unitdate>
+               <physdesc>
+                  <extent>22 boxes, 1 folio (10.5')</extent>
+               </physdesc>
+            </did>
+            <scopecontent>
+               <p>This series is arranged in two sections: Personal Papers and Deeds. Personal Papers contains material in alphabetical order. Deeds contains material in chronological order.</p>
+            </scopecontent>
+            <c02 id="ref206" level="file">
+               <did>
+                  <unittitle>
+                     <emph render="underline">Personal Papers</emph>
+                  </unittitle>
+               </did>
+               <c03 id="ref207" level="file">
+                  <did>
+                     <container type="Box" label="39002042322009">45</container>
+                     <container type="Folder">582</container>
+                     <unittitle>Boardman, Cornelia Elizabeth: almanac and diary</unittitle>
+                     <unitdate normal="1848/1848">1848</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref208" level="file">
+                  <did>
+                     <unittitle>Boardman, Elijah: estate records</unittitle>
+                     <unitdate normal="1848/1857" type="inclusive">1848-1857</unitdate>
+                  </did>
+                  <c04 id="ref209" level="file">
+                     <did>
+                        <container type="Box" label="39002042322009">45</container>
+                        <container type="Folder">583</container>
+                        <unittitle>Estate records</unittitle>
+                        <unitdate normal="1848/1857" type="inclusive">1848-1857</unitdate>
+                     </did>
+                  </c04>
+                  <c04 id="ref210" level="file">
+                     <did>
+                        <container type="Box" label="39002042322009">45</container>
+                        <container type="Folder">584-585</container>
+                        <unittitle>Land book: Ohio</unittitle>
+                        <unitdate normal="1799/1858" type="inclusive">1799-1858</unitdate>
+                     </did>
+                  </c04>
+               </c03>
+               <c03 id="ref211" level="file">
+                  <did>
+                     <container type="Box" label="39002042322009">45</container>
+                     <container type="Folder">586</container>
+                     <unittitle>Boardman, Elijah George (1829-1853): diary</unittitle>
+                     <unitdate normal="1852/1853" type="inclusive">1852-1853</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref212" level="file">
+                  <did>
+                     <unittitle>Boardman, Elijah George (1868-1900)</unittitle>
+                  </did>
+                  <c04 id="ref213" level="file">
+                     <did>
+                        <container type="Box" label="39002042322009">45</container>
+                        <container type="Folder">587</container>
+                        <unittitle>Diary</unittitle>
+                        <unitdate>1885-1886, 1890, 1899</unitdate>
+                     </did>
+                  </c04>
+                  <c04 id="ref214" level="file">
+                     <did>
+                        <container type="Box" label="39002042322017">46</container>
+                        <container type="Folder">588-590</container>
+                        <unittitle>Letterpress copybooks</unittitle>
+                        <unitdate normal="1895/1899" type="inclusive">1895-1899</unitdate>
+                     </did>
+                  </c04>
+                  <c04 id="ref215" level="file">
+                     <did>
+                        <container type="Box" label="39002042322025">47</container>
+                        <container type="Folder">591-592</container>
+                        <unittitle>Letterpress copybooks</unittitle>
+                        <unitdate normal="1899/1900" type="inclusive">1899-1900</unitdate>
+                     </did>
+                  </c04>
+               </c03>
+               <c03 id="ref216" level="file">
+                  <did>
+                     <unittitle>Sheffield, Charles Joseph: estate records</unittitle>
+                  </did>
+                  <c04 id="ref217" level="file">
+                     <did>
+                        <container type="Box" label="39002042322025">47</container>
+                        <container type="Folder">593</container>
+                        <unittitle>
+                           <unitdate normal="1895/1896" type="inclusive">1895-1896</unitdate>
+                        </unittitle>
+                     </did>
+                  </c04>
+                  <c04 id="ref218" level="file">
+                     <did>
+                        <container type="Box" label="39002042322033">48</container>
+                        <container type="Folder">594-595</container>
+                        <unittitle>
+                           <unitdate normal="1897/1900" type="inclusive">1897-1900</unitdate>
+                        </unittitle>
+                     </did>
+                  </c04>
+               </c03>
+               <c03 id="ref219" level="file">
+                  <did>
+                     <unittitle>Boardman, Mabel Thorp</unittitle>
+                  </did>
+                  <c04 id="ref220" level="file">
+                     <did>
+                        <container type="Box" label="39002042322033">48</container>
+                        <container type="Folder">596</container>
+                        <unittitle>
+                           <title render="italic" ns2:type="simple">Under the Red Cross Flag at Home and Abroad</title>: typescript</unittitle>
+                        <unitdate normal="1910/1920" type="inclusive">ca. 1915</unitdate>
+                     </did>
+                  </c04>
+                  <c04 id="ref221" level="file">
+                     <did>
+                        <container type="Box" label="39002042322033">48</container>
+                        <container type="Folder">597</container>
+                        <unittitle>North, Arthur W., 
+                                    <title render="italic" ns2:type="simple">The First Grandmother of Walton: Margaret Furman North,</title> with a foreward by MTB</unittitle>
+                        <unitdate normal="1926/1926">1926</unitdate>
+                     </did>
+                  </c04>
+               </c03>
+               <c03 id="ref222" level="file">
+                  <did>
+                     <container type="Box" label="39002042322033">48</container>
+                     <container type="Folder">598</container>
+                     <unittitle>[Boardman, Sarah Hall (Benham)?]: diary</unittitle>
+                     <unitdate normal="1862/1862">1862</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref223" level="file">
+                  <did>
+                     <container type="Box" label="39002042322033">48</container>
+                     <container type="Folder">599</container>
+                     <unittitle>Boardman, Sarah Hall (Benham): estate records</unittitle>
+                     <unitdate normal="1870/1876" type="inclusive">1870-1876</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref224" level="file">
+                  <did>
+                     <unittitle>Boardman, William Jarvis (1832-1915)</unittitle>
+                  </did>
+                  <c04 id="ref225" level="file">
+                     <did>
+                        <container type="Box" label="39002042322033">48</container>
+                        <container type="Folder">600-601</container>
+                        <unittitle>Account books</unittitle>
+                        <unitdate normal="1860/1907" type="inclusive">1860-1907</unitdate>
+                     </did>
+                  </c04>
+                  <c04 id="ref226" level="file">
+                     <did>
+                        <container type="Box" label="39002042322041">49</container>
+                        <container type="Folder">602-603</container>
+                        <unittitle>Account books</unittitle>
+                        <unitdate normal="1879/1914" type="inclusive">1879-1914</unitdate>
+                     </did>
+                  </c04>
+                  <c04 id="ref227" level="file">
+                     <did>
+                        <container type="Box" label="39002042322041">49</container>
+                        <container type="Folder">604</container>
+                        <unittitle>Bankbooks</unittitle>
+                        <unitdate normal="1892/1914" type="inclusive">1892-1914</unitdate>
+                     </did>
+                  </c04>
+                  <c04 id="ref228" level="file">
+                     <did>
+                        <container type="Box" label="39002042322041">49</container>
+                        <container type="Folder">605</container>
+                        <unittitle>Central Dispensary and Emergency Hospital, Washington, D.C.: printed matter</unittitle>
+                        <unitdate>1894-1911, no date</unitdate>
+                     </did>
+                  </c04>
+                  <c04 id="ref229" level="file">
+                     <did>
+                        <container type="Box" label="39002042322041">49</container>
+                        <container type="Folder">606</container>
+                        <unittitle>Checkbooks</unittitle>
+                        <unitdate>1885-1886, 1892-1893</unitdate>
+                     </did>
+                  </c04>
+                  <c04 id="ref230" level="file">
+                     <did>
+                        <unittitle>Claim Books</unittitle>
+                     </did>
+                     <c05 id="ref231" level="file">
+                        <did>
+                           <container type="Box" label="39002042322041">49</container>
+                           <container type="Folder">607</container>
+                           <unittitle>
+                              <unitdate normal="1833/1897" type="inclusive">1833-1897</unitdate>
+                           </unittitle>
+                        </did>
+                     </c05>
+                     <c05 id="ref232" level="file">
+                        <did>
+                           <container type="Box" label="39002042322058">50</container>
+                           <container type="Folder">608</container>
+                           <unittitle>
+                              <unitdate normal="1870/1886" type="inclusive">1870-1886</unitdate>
+                           </unittitle>
+                        </did>
+                     </c05>
+                  </c04>
+                  <c04 id="ref233" level="file">
+                     <did>
+                        <unittitle>Land books</unittitle>
+                     </did>
+                     <c05 id="ref234" level="file">
+                        <did>
+                           <container type="Box" label="39002042322058">50</container>
+                           <container type="Folder">609</container>
+                           <unittitle>Ohio</unittitle>
+                           <unitdate normal="1886/1892" type="inclusive">1886-1892</unitdate>
+                        </did>
+                     </c05>
+                     <c05 id="ref235" level="file">
+                        <did>
+                           <container type="Box" label="39002042322058">50</container>
+                           <container type="Folder">610</container>
+                           <unittitle>Tennessee</unittitle>
+                           <unitdate normal="1857/1877" type="inclusive">1857-1877</unitdate>
+                        </did>
+                     </c05>
+                  </c04>
+                  <c04 id="ref236" level="file">
+                     <did>
+                        <unittitle>Ledgers</unittitle>
+                     </did>
+                     <c05 id="ref237" level="file">
+                        <did>
+                           <container type="Box" label="39002042322058">50</container>
+                           <container type="Folder">611</container>
+                           <unittitle>
+                              <unitdate normal="1857/1872" type="inclusive">1857-1872</unitdate>
+                           </unittitle>
+                        </did>
+                     </c05>
+                     <c05 id="ref238" level="file">
+                        <did>
+                           <container type="Box" label="39002042322066">51</container>
+                           <container type="Folder">612-613</container>
+                           <unittitle>
+                              <unitdate normal="1890/1915" type="inclusive">1890-1915</unitdate>
+                           </unittitle>
+                        </did>
+                     </c05>
+                  </c04>
+                  <c04 id="ref239" level="file">
+                     <did>
+                        <unittitle>Letterpress copybooks</unittitle>
+                     </did>
+                     <c05 id="ref240" level="file">
+                        <did>
+                           <container type="Box" label="39002042322066">51</container>
+                           <container type="Folder">614-615</container>
+                           <unittitle>
+                              <unitdate normal="1859/1871" type="inclusive">1859-1871</unitdate>
+                           </unittitle>
+                        </did>
+                     </c05>
+                     <c05 id="ref241" level="file">
+                        <did>
+                           <container type="Box" label="39002042322074">52</container>
+                           <container type="Folder">616-617</container>
+                           <unittitle>
+                              <unitdate normal="1871/1883" type="inclusive">1871-1883</unitdate>
+                           </unittitle>
+                        </did>
+                     </c05>
+                     <c05 id="ref242" level="file">
+                        <did>
+                           <container type="Box" label="39002042322082">53</container>
+                           <container type="Folder">618-619</container>
+                           <unittitle>
+                              <unitdate normal="1883/1894" type="inclusive">1883-1894</unitdate>
+                           </unittitle>
+                        </did>
+                     </c05>
+                     <c05 id="ref243" level="file">
+                        <did>
+                           <container type="Box" label="39002042322090">54</container>
+                           <container type="Folder">620-621</container>
+                           <unittitle>
+                              <unitdate normal="1894/1909" type="inclusive">1894-1909</unitdate>
+                           </unittitle>
+                        </did>
+                     </c05>
+                     <c05 id="ref244" level="file">
+                        <did>
+                           <container type="Box" label="39002042322108">55</container>
+                           <container type="Folder">622</container>
+                           <unittitle>
+                              <unitdate normal="1909/1914" type="inclusive">1909-1914</unitdate>
+                           </unittitle>
+                        </did>
+                     </c05>
+                     <c05 id="ref245" level="file">
+                        <did>
+                           <container type="Box" label="39002042322108">55</container>
+                           <container type="Folder">623</container>
+                           <unittitle>
+                              <unitdate normal="1859/1861" type="inclusive">1859-1861</unitdate>
+                           </unittitle>
+                        </did>
+                     </c05>
+                     <c05 id="ref246" level="file">
+                        <did>
+                           <container type="Box" label="39002042322116">56</container>
+                           <container type="Folder">624-626</container>
+                           <unittitle>
+                              <unitdate normal="1861/1870" type="inclusive">1861-1870</unitdate>
+                           </unittitle>
+                        </did>
+                     </c05>
+                     <c05 id="ref247" level="file">
+                        <did>
+                           <container type="Box" label="39002042322124">57</container>
+                           <container type="Folder">627</container>
+                           <unittitle>
+                              <unitdate normal="1870/1874" type="inclusive">1870-1874</unitdate>
+                           </unittitle>
+                        </did>
+                     </c05>
+                     <c05 id="ref248" level="file">
+                        <did>
+                           <container type="Box" label="39002042322124">57</container>
+                           <container type="Folder">628-629</container>
+                           <unittitle>
+                              <unitdate>1864-1878, 1871-1873</unitdate>
+                           </unittitle>
+                        </did>
+                     </c05>
+                  </c04>
+                  <c04 id="ref249" level="file">
+                     <did>
+                        <container type="Box" label="39002042322124">57</container>
+                        <container type="Folder">630</container>
+                        <unittitle>Memorandum book</unittitle>
+                        <unitdate normal="1865/1883" type="inclusive">1865-1883</unitdate>
+                     </did>
+                  </c04>
+                  <c04 id="ref250" level="file">
+                     <did>
+                        <container type="Box" label="39002042322132">58</container>
+                        <container type="Folder">631-636</container>
+                        <unittitle>Notebooks</unittitle>
+                        <unitdate normal="1866/1914" type="inclusive">1866-1914</unitdate>
+                     </did>
+                  </c04>
+                  <c04 id="ref251" level="file">
+                     <did>
+                        <container type="Box" label="39002042322140">59</container>
+                        <container type="Folder">637</container>
+                        <unittitle>Office docket book</unittitle>
+                        <unitdate normal="1859/1882" type="inclusive">1859-1882</unitdate>
+                     </did>
+                  </c04>
+                  <c04 id="ref252" level="file">
+                     <did>
+                        <container type="Box" label="39002042322140">59</container>
+                        <container type="Folder">638</container>
+                        <unittitle>Printed material</unittitle>
+                        <unitdate normal="1828/1911" type="inclusive">1828-1911</unitdate>
+                     </did>
+                  </c04>
+                  <c04 id="ref253" level="file">
+                     <did>
+                        <container type="Box" label="39002042322140">59</container>
+                        <container type="Folder">639-640</container>
+                        <unittitle>School notebooks: Harvard Law School</unittitle>
+                        <unitdate normal="1855/1856" type="inclusive">1855-1856</unitdate>
+                     </did>
+                  </c04>
+                  <c04 id="ref254" level="file">
+                     <did>
+                        <container type="Box" label="39002042322157">60</container>
+                        <container type="Folder">641</container>
+                        <unittitle>School notebooks: Harvard Law School</unittitle>
+                        <unitdate>1855-1856, 1874-1877</unitdate>
+                     </did>
+                  </c04>
+                  <c04 id="ref255" level="file">
+                     <did>
+                        <container type="Box" label="39002042322157">60</container>
+                        <container type="Folder">642</container>
+                        <unittitle>Scrapbook of newspapers clippings: railroads, miscellaneous</unittitle>
+                        <unitdate normal="1859/1887" type="inclusive">1859-1887</unitdate>
+                     </did>
+                  </c04>
+                  <c04 id="ref256" level="file">
+                     <did>
+                        <container type="Box" label="39002042322157">60</container>
+                        <container type="Folder">643-644</container>
+                        <unittitle>Sheffield, Joseph Earl: estate records</unittitle>
+                        <unitdate normal="1882/1895" type="inclusive">1882-1895</unitdate>
+                     </did>
+                  </c04>
+                  <c04 id="ref257" level="file">
+                     <did>
+                        <container type="Box" label="39002042322165">61</container>
+                        <container type="Folder">645</container>
+                        <unittitle>Sheffield, Joseph Earl: estate records</unittitle>
+                        <unitdate normal="1882/1885" type="inclusive">1882-1885</unitdate>
+                     </did>
+                  </c04>
+               </c03>
+               <c03 id="ref258" level="file">
+                  <did>
+                     <unittitle>Boardman, William Whiting</unittitle>
+                  </did>
+                  <c04 id="ref259" level="file">
+                     <did>
+                        <container type="Box" label="39002042322165">61</container>
+                        <container type="Folder">646</container>
+                        <unittitle>Account books</unittitle>
+                        <unitdate normal="1833/1862" type="inclusive">1833-1862</unitdate>
+                     </did>
+                  </c04>
+                  <c04 id="ref260" level="file">
+                     <did>
+                        <container type="Box" label="39002042322165">61</container>
+                        <container type="Folder">646</container>
+                        <unittitle>Bankbook</unittitle>
+                        <unitdate normal="1868/1871" type="inclusive">1868-1871</unitdate>
+                     </did>
+                  </c04>
+                  <c04 id="ref261" level="file">
+                     <did>
+                        <unittitle>Daybooks</unittitle>
+                     </did>
+                     <c05 id="ref262" level="file">
+                        <did>
+                           <container type="Box" label="39002042322165">61</container>
+                           <container type="Folder">647-648</container>
+                           <unittitle>
+                              <unitdate normal="1824/1855" type="inclusive">1824-1855</unitdate>
+                           </unittitle>
+                        </did>
+                     </c05>
+                     <c05 id="ref263" level="file">
+                        <did>
+                           <container type="Box" label="39002042322173">62</container>
+                           <container type="Folder">649</container>
+                           <unittitle>
+                              <unitdate normal="1856/1871" type="inclusive">1856-1871</unitdate>
+                           </unittitle>
+                        </did>
+                     </c05>
+                  </c04>
+                  <c04 id="ref264" level="file">
+                     <did>
+                        <container type="Box" label="39002042322173">62</container>
+                        <container type="Folder">650-653</container>
+                        <unittitle>Estate records</unittitle>
+                        <unitdate normal="1871/1907" type="inclusive">1871-1907</unitdate>
+                     </did>
+                  </c04>
+                  <c04 id="ref265" level="file">
+                     <did>
+                        <container type="Box" label="39002042322181">63</container>
+                        <container type="Folder">654-655</container>
+                        <unittitle>Estate records</unittitle>
+                        <unitdate normal="1897/1907" type="inclusive">1897-1907</unitdate>
+                     </did>
+                  </c04>
+                  <c04 id="ref266" level="file">
+                     <did>
+                        <container type="Box" label="39002042322181">63</container>
+                        <container type="Folder">656-658</container>
+                        <unittitle>Journals</unittitle>
+                        <unitdate>1838-1860, 1871</unitdate>
+                     </did>
+                  </c04>
+                  <c04 id="ref267" level="file">
+                     <did>
+                        <container type="Box" label="39002042322181">63</container>
+                        <container type="Folder">659</container>
+                        <unittitle>Land books: Ohio</unittitle>
+                        <unitdate normal="1816/1880" type="inclusive">1816-1880</unitdate>
+                     </did>
+                  </c04>
+                  <c04 id="ref268" level="file">
+                     <did>
+                        <container type="Box" label="39002042322199">64</container>
+                        <container type="Folder">660</container>
+                        <unittitle>Ledger</unittitle>
+                        <unitdate normal="1820/1867" type="inclusive">1820-1867</unitdate>
+                     </did>
+                  </c04>
+               </c03>
+               <c03 id="ref269" level="file">
+                  <did>
+                     <container type="Box" label="39002042322199">64</container>
+                     <container type="Folder">661</container>
+                     <unittitle>Schroeder, John Frederic</unittitle>
+                  </did>
+                  <c04 id="ref270" level="file">
+                     <did>
+                        <container type="Box" label="39002042322199">64</container>
+                        <container type="Folder">661</container>
+                        <unittitle>Address book</unittitle>
+                        <unitdate normal="1834/1837" type="inclusive">1834-1837</unitdate>
+                     </did>
+                  </c04>
+                  <c04 id="ref271" level="file">
+                     <did>
+                        <container type="Box" label="39002042322199">64</container>
+                        <container type="Folder">661</container>
+                        <unittitle>Notebook</unittitle>
+                        <unitdate normal="1832/1833" type="inclusive">1832-1833</unitdate>
+                     </did>
+                  </c04>
+               </c03>
+               <c03 id="ref272" level="file">
+                  <did>
+                     <container type="Box" label="39002042322199">64</container>
+                     <container type="Folder">662</container>
+                     <unittitle>Sheffield, Charles Joseph</unittitle>
+                  </did>
+                  <c04 id="ref273" level="file">
+                     <did>
+                        <container type="Box" label="39002042322199">64</container>
+                        <container type="Folder">662</container>
+                        <unittitle>Boardman, William Jarvis</unittitle>
+                        <unitdate normal="1871/1886" type="inclusive">1871-1886</unitdate>
+                     </did>
+                     <note>
+                        <p>See also: 
+                                    <ref target="ref217" ns2:type="simple" ns2:actuate="onRequest" ns2:show="replace">box 47, folders 593-595</ref>
+                        </p>
+                     </note>
+                  </c04>
+               </c03>
+               <c03 id="ref275" level="file">
+                  <did>
+                     <container type="Box" label="39002042322199">64</container>
+                     <container type="Folder">663</container>
+                     <unittitle>Sheffield, George</unittitle>
+                  </did>
+                  <c04 id="ref276" level="file">
+                     <did>
+                        <container type="Box" label="39002042322199">64</container>
+                        <container type="Folder">663</container>
+                        <unittitle>Boardman, William Jarvis</unittitle>
+                        <unitdate normal="1905/1908" type="inclusive">1905-1908</unitdate>
+                     </did>
+                  </c04>
+               </c03>
+               <c03 id="ref277" level="file">
+                  <did>
+                     <unittitle>Sheffield, George St. John</unittitle>
+                  </did>
+                  <c04 id="ref278" level="file">
+                     <did>
+                        <container type="Box" label="39002042322199">64</container>
+                        <container type="Folder">664</container>
+                        <unittitle>Boardman, Elijah George (1868-1900)</unittitle>
+                        <unitdate normal="1895/1900" type="inclusive">1895-1900</unitdate>
+                     </did>
+                  </c04>
+                  <c04 id="ref279" level="file">
+                     <did>
+                        <container type="Box" label="39002042322199">64</container>
+                        <container type="Folder">665</container>
+                        <unittitle>Boardman, William Jarvis</unittitle>
+                        <unitdate normal="1868/1914" type="inclusive">1868-1914</unitdate>
+                     </did>
+                  </c04>
+                  <c04 id="ref280" level="file">
+                     <did>
+                        <container type="Box" label="39002042322199">64</container>
+                        <container type="Folder">666</container>
+                        <unittitle>Sheffield, Joseph Earl (1793-1882)</unittitle>
+                        <unitdate normal="1879/1879">1879</unitdate>
+                     </did>
+                  </c04>
+                  <c04 id="ref281" level="file">
+                     <did>
+                        <container type="Box" label="39002042322199">64</container>
+                        <container type="Folder">667</container>
+                        <unittitle>Sheffield, Maria (St. John)</unittitle>
+                        <unitdate>no date</unitdate>
+                     </did>
+                  </c04>
+               </c03>
+               <c03 id="ref282" level="file">
+                  <did>
+                     <unittitle>Sheffield, Joseph Earl (1793-1882)</unittitle>
+                  </did>
+                  <c04 id="ref283" level="file">
+                     <did>
+                        <container type="Box" label="39002042322199">64</container>
+                        <container type="Folder">668</container>
+                        <unittitle>Boardman, Florence (Sheffield)</unittitle>
+                        <unitdate normal="1869/1869">1869</unitdate>
+                     </did>
+                  </c04>
+                  <c04 id="ref284" level="file">
+                     <did>
+                        <container type="Box" label="39002042322199">64</container>
+                        <container type="Folder">669-671</container>
+                        <unittitle>Boardman, William Jarvis</unittitle>
+                        <unitdate normal="1860/1881" type="inclusive">1860-1881</unitdate>
+                     </did>
+                  </c04>
+                  <c04 id="ref285" level="file">
+                     <did>
+                        <container type="Box" label="39002042322199">64</container>
+                        <container type="Folder">672</container>
+                        <unittitle>Boardman, William Whiting</unittitle>
+                        <unitdate normal="1842/1852" type="inclusive">1842-1852</unitdate>
+                     </did>
+                  </c04>
+                  <c04 id="ref286" level="file">
+                     <did>
+                        <container type="Box" label="39002042322199">64</container>
+                        <container type="Folder">673</container>
+                        <unittitle>Sheffield, George St. John</unittitle>
+                        <unitdate normal="1871/1871">1871</unitdate>
+                     </did>
+                  </c04>
+                  <c04 id="ref287" level="file">
+                     <did>
+                        <container type="Box" label="39002042322199">64</container>
+                        <container type="Folder">674</container>
+                        <unittitle>Printed tributes</unittitle>
+                        <unitdate>1882, 1907</unitdate>
+                     </did>
+                     <note>
+                        <p>See also: 
+                                    <ref target="ref256" ns2:type="simple" ns2:actuate="onRequest" ns2:show="replace">box 60, folders 643-645</ref>
+                        </p>
+                     </note>
+                  </c04>
+               </c03>
+               <c03 id="ref289" level="file">
+                  <did>
+                     <container type="Box" label="39002042322207">65</container>
+                     <container type="Folder">675</container>
+                     <unittitle>Sheffield, Joseph Earl (1871-1903)</unittitle>
+                  </did>
+                  <c04 id="ref290" level="file">
+                     <did>
+                        <container type="Box" label="39002042322207">65</container>
+                        <container type="Folder">675</container>
+                        <unittitle>Boardman, William Jarvis</unittitle>
+                        <unitdate normal="1902/1903" type="inclusive">1902-1903</unitdate>
+                     </did>
+                  </c04>
+               </c03>
+               <c03 id="ref291" level="file">
+                  <did>
+                     <unittitle>Sheffield, Laura (Barnett)</unittitle>
+                  </did>
+                  <c04 id="ref292" level="file">
+                     <did>
+                        <container type="Box" label="39002042322207">65</container>
+                        <container type="Folder">676</container>
+                        <unittitle>Boardman, Elijah George (1868-1900)</unittitle>
+                        <unitdate normal="1897/1899" type="inclusive">1897-1899</unitdate>
+                     </did>
+                  </c04>
+                  <c04 id="ref293" level="file">
+                     <did>
+                        <container type="Box" label="39002042322207">65</container>
+                        <container type="Folder">677</container>
+                        <unittitle>Boardman, Florence (Sheffield)</unittitle>
+                        <unitdate normal="1896/1896">1896</unitdate>
+                     </did>
+                  </c04>
+                  <c04 id="ref294" level="file">
+                     <did>
+                        <container type="Box" label="39002042322207">65</container>
+                        <container type="Folder">678</container>
+                        <unittitle>Boardman, William Jarvis</unittitle>
+                        <unitdate normal="1895/1896" type="inclusive">1895-1896</unitdate>
+                     </did>
+                  </c04>
+               </c03>
+               <c03 id="ref295" level="file">
+                  <did>
+                     <container type="Box" label="39002042322207">65</container>
+                     <container type="Folder">679</container>
+                     <unittitle>Sheffield, Maria (St. John)</unittitle>
+                  </did>
+                  <c04 id="ref296" level="file">
+                     <did>
+                        <container type="Box" label="39002042322207">65</container>
+                        <container type="Folder">679</container>
+                        <unittitle>Boardman, William Jarvis</unittitle>
+                        <unitdate normal="1881/1885" type="inclusive">1881-1885</unitdate>
+                     </did>
+                  </c04>
+               </c03>
+               <c03 id="ref297" level="file">
+                  <did>
+                     <container type="Box" label="39002042322207">65</container>
+                     <container type="Folder">680</container>
+                     <unittitle>Sheffield, Nellie M.</unittitle>
+                  </did>
+                  <c04 id="ref298" level="file">
+                     <did>
+                        <container type="Box" label="39002042322207">65</container>
+                        <container type="Folder">680</container>
+                        <unittitle>Commonplace book</unittitle>
+                        <unitdate normal="1855/1856" type="inclusive">1855-1856</unitdate>
+                     </did>
+                  </c04>
+               </c03>
+               <c03 id="ref299" level="file">
+                  <did>
+                     <container type="Box" label="39002042322207">65</container>
+                     <container type="Folder">681</container>
+                     <unittitle>Wright, Cornelia Elizabeth (Schroeder)</unittitle>
+                  </did>
+                  <c04 id="ref300" level="file">
+                     <did>
+                        <container type="Box" label="39002042322207">65</container>
+                        <container type="Folder">681</container>
+                        <unittitle>Poems</unittitle>
+                        <unitdate>no date</unitdate>
+                     </did>
+                  </c04>
+               </c03>
+               <c03 id="ref301" level="file">
+                  <did>
+                     <unittitle>Unidentified</unittitle>
+                  </did>
+                  <c04 id="ref302" level="file">
+                     <did>
+                        <container type="Box" label="39002042322207">65</container>
+                        <container type="Folder">682</container>
+                        <unittitle>Account book</unittitle>
+                        <unitdate>no date</unitdate>
+                     </did>
+                  </c04>
+                  <c04 id="ref303" level="file">
+                     <did>
+                        <container type="Box" label="39002042322207">65</container>
+                        <container type="Folder">682</container>
+                        <unittitle>Checkbook</unittitle>
+                        <unitdate normal="1928/1936" type="inclusive">1928-1936</unitdate>
+                     </did>
+                  </c04>
+                  <c04 id="ref304" level="file">
+                     <did>
+                        <container type="Box" label="39002042322207">65</container>
+                        <container type="Folder">683</container>
+                        <unittitle>Notebooks</unittitle>
+                        <unitdate>1848, no date</unitdate>
+                     </did>
+                  </c04>
+               </c03>
+            </c02>
+            <c02 id="ref305" level="file">
+               <did>
+                  <unittitle>
+                     <emph render="underline">Deeds</emph>
+                  </unittitle>
+               </did>
+               <note>
+                  <p>Folio</p>
+               </note>
+               <c03 id="ref306" level="file">
+                  <did>
+                     <container type="Box" label="39002042322207">65</container>
+                     <container type="Folder">684-687</container>
+                     <unittitle>General</unittitle>
+                     <unitdate normal="1770/1914" type="inclusive">1770-1914</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref307" level="file">
+                  <did>
+                     <container type="Box" label="39002042322215">66</container>
+                     <container type="Folder">688</container>
+                     <unittitle>Oversize</unittitle>
+                     <unitdate normal="1811/1903" type="inclusive">1811-1903</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref308" level="file">
+                  <did>
+                     <container type="Box" label="39002042602855">67</container>
+                     <unittitle>Architectural drawings, maps, diplomas</unittitle>
+                     <unitdate>1854-1917, no date</unitdate>
+                  </did>
+               </c03>
+            </c02>
+         </c01>
+      </dsc>
+   </archdesc>
+</ead>

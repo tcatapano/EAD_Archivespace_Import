@@ -1,0 +1,680 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="clrc.xsl"?>
+<?DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd"?>
+<ead audience="external"> 
+  <eadheader audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" langencoding="iso639-2b" scriptencoding="iso15924" relatedencoding="Dublin core"> 
+	 <eadid countrycode="mnu" mainagencycode="MnU" publicid="-//us::University of Minnesota, Twin Cities::Children's Literature Research Collections//TEXT 
+	  us::MnU::clrc-1945.xml:://EN">CLRC-1945</eadid><filedesc> <titlestmt> <titleproper encodinganalog="Title"> <emph render="bold">Clyde Robert Bulla Papers</emph></titleproper><author encodinganalog="Contributor">Nancy Larsen</author> </titlestmt><publicationstmt><publisher encodinganalog="Publisher">University of Minnesota Libraries</publisher><date encodinganalog="Date">6/22/2005</date> <address> <addressline>University of Minnesota Libraries</addressline> <addressline>Minneapolis, MN 55455</addressline> </address> </publicationstmt></filedesc><profiledesc><creation>EAD 2002 Validated Finding Aid generated with the aid of a custom FileMaker Pro database developed by the staff of the Children's Literature Research Collections, University of Minnesota Libraries. Many thanks to all the staff and volunteers.<date>6/22/2005</date></creation><langusage>Description is in <language encodinganalog="Language" langcode="eng">English</language></langusage></profiledesc></eadheader><archdesc level="collection" relatedencoding="MARC21" type="inventory">
+ <did id="a1">
+ <head>Summary Information</head>
+ <repository encodinganalog="852$a" label="Repository:">University of Minnesota Libraries
+ <subarea>Children's Literature Research Collections</subarea></repository>
+ <origination label="Creator:"><persname encodinganalog="100" source="lcnaf" rules="aacr2">Bulla, Clyde Robert</persname></origination>
+ <unittitle label="Title:" encodinganalog="245$a">Clyde Robert Bulla Papers</unittitle>
+ <unitdate label="Date:" encodinganalog="245$f" type="inclusive" normal="1955/1984">1955-1984</unitdate>
+ <unitid label="Collection Number:" encodinganalog="099" countrycode="us" repositorycode="MnU">CLRC-1945
+ </unitid>
+ <abstract encodinganalog="520" label="Abstract:">The collection consists of production material for 20 titles, including typescripts, proofs, notes, articles and photographs.</abstract>
+ <physdesc label="Quantity:" encodinganalog="300"><extent>unknown</extent></physdesc>
+ <physloc label="Location:">See Detailed Descriptions for Each Title Item for Box Locations</physloc>
+ <langmaterial encodinganalog="546">
+ <language encodinganalog="041" langcode="eng">
+ English
+ </language>
+ </langmaterial>
+ </did>
+ <descgrp>
+ <head>
+ Important Information for Users of the Collections
+ </head>
+ <accessrestrict encodinganalog="506">
+ <head>
+ Access and Use:
+ </head>
+ <p>
+ Collection is open for researchers with no restrictions. Registration with the collection is required. </p>
+ </accessrestrict>
+ <userestrict encodinganalog="540">
+ <head>
+ Copyright: </head>
+ <p>
+ This collection is protected by the Copyright Law of the United States (Title 17, U.S. Code). It is the user's responsibility to verify copyright ownership and to obtain all necessary permissions prior to the reproduction, publication, or other use of any portion of these materials. </p>
+ </userestrict>
+ </descgrp>
+ <bioghist encodinganalog="545" id="hb"><head altrender="history"><emph render="bold">Biographical Sketch</emph></head><p>Clyde Robert Bulla was born in 1914 on a farm near King City, MO. In his early years he attended a one room school house run by his older sister. He attended one year of high school before dropping out to help his family on the farm. He completed his education by correspondence. Although he wanted to be a writer, he was a farmer on his family farm until 1942. Then his father died and the family moved into town. He was a linotype operator and newspaper columnist until1947. From 1947 on he was a writer of children's books.
+
+Biographical Source: Something About the Author, v. 139, pp. 45-49.</p></bioghist>
+ <scopecontent encodinganalog="520" id="sc"><head><emph render="bold">Scope and Content</emph></head><p>The collection consists of production material for twenty titles, including typescripts, proofs, notes, articles and photographs.</p></scopecontent>
+<controlaccess>
+ <head>
+ Indexing Terms
+ </head>
+ <p>
+ The collection is indexed under the following headings in the catalog of the University of Minnesota Libraries. Researchers desiring materials about related topics, persons or places should search the catalog using these headings.  </p>
+ <persname encodinganalog="600" rules="aacr2" role="subject">
+ Bulla, Clyde Robert
+ </persname>
+
+ </controlaccess>
+ <acqinfo encodinganalog="541">
+ <head>
+ Accession Information:
+ </head>
+ <p>Clyde Robert Bulla contributed the collection in the 1960s, 1970s and the early 1980s.
+ </p><p>
+ Gift of: <persname> Bulla, Clyde Robert</persname>
+ </p>
+ </acqinfo>
+<arrangement encodinganalog="351">
+ <head>
+ <emph render="bold">Arrangement</emph>
+ </head>
+	<p>articles and photographs</p>
+	<p>Benito, 1961</p>
+	<p> Cardboard Crown, 1984</p>
+	<p> Charlie's House, 1983</p>
+	<p> Conquista!, 1978</p>
+	<p> Daniel's Duck, 1979</p>
+	<p> Dexter, 1973 </p>
+	<p> Jonah and the Great Fish, 1970 </p>
+	<p> Joseph the Dreamer, 1971 </p>
+	<p> Last Look, 1979 </p>
+	<p> Moon Singer, 1969 </p>
+	<p> Open the Door and See All the People, 1972 </p>
+	<p> Poor Boy, Rich Boy, 1982 </p>
+	<p> Poppy Seeds, 1955</p>
+	<p> Ring and the Fire, 1962 </p>
+	<p> Shoeshine Girl, 1975 </p>
+	<p> Stories of Gilbert and Sullivan Operas, 1968 </p>
+	<p> Sugar Pear Tree, 1961 </p>
+	<p> Tree is a Plant, 1960 </p>
+	<p> Viking Adventure, 1963 </p>
+	<p> What Makes a Shadow?, 1962 </p>
+	</arrangement>
+<dsc type="combined">
+ <head> <emph render="bold"> Collection Contents </emph> </head>
+<c01 level="series">
+		 <did>
+			 <unittitle>articles and photographs</unittitle>
+			 <unitdate type="inclusive"></unitdate>
+		 </did>
+		 	<scopecontent>
+			 <p> </p><p></p>
+			 </scopecontent>
+	<c02 level="item">
+		 <did>
+		 	<container type="box">MF 159 </container> 
+			 <unittitle>typescript</unittitle>
+			 <physdesc><extent>1 p.</extent></physdesc>
+		 </did>
+		</c02>
+	<c02 level="item">
+		 <did>
+		 	<container type="box">MF 159 </container> 
+			 <unittitle>greeting cards</unittitle>
+			 <physdesc><extent></extent></physdesc>
+		 </did>
+		</c02>		
+	</c01>
+<c01 level="series">
+		 <did>
+			<unittitle>Benito </unittitle>
+			 <unitdate type="inclusive">1961</unitdate>
+		 </did>
+			<scopecontent>
+			<p>Angelo, Valenti</p>
+			<p> New York: Crowell, 1961</p>
+		  </scopecontent><c02 level="item">
+		 <did>
+			 <container type="box">MF 159</container> 
+			 <unittitle>typescript, corrected</unittitle>
+			 <physdesc><extent>63 p.</extent></physdesc>
+		 </did>
+	</c02>
+	<c02 level="item">
+		 <did>
+			<container type="box">MF 159</container> 
+			<unittitle>notes</unittitle>
+			<physdesc><extent>1 p.</extent></physdesc>
+		 </did>
+		</c02>
+	</c01>
+<c01 level="series">
+		<did>
+		 <unittitle>Cardboard Crown </unittitle>
+		 <unitdate type="inclusive">1984</unitdate>
+		</did>
+		 <scopecontent><p>Chessare, Michele</p>
+		 <p>New York: Crowell, 1984</p>
+ 		</scopecontent><c02 level="item">
+		 <did>
+			<container type="box">MF 1194</container> 
+			<unittitle>typescript, corrected with front matter, 8 p.</unittitle>
+ <physdesc><extent>45 p.</extent></physdesc>
+ </did>
+ </c02>
+<c02 level="item">
+ <did>
+ <container type="box">MF 1194
+</container> <unittitle>galley proof, corrected photocopy</unittitle>
+ <physdesc><extent>57 p.</extent></physdesc>
+ </did>
+ </c02>
+<c02 level="item">
+ <did>
+ <container type="box">MF 1194
+</container> <unittitle>page proof, corrected</unittitle>
+ <physdesc><extent>79 p.</extent></physdesc>
+ </did>
+ </c02>
+</c01><c01 level="series">
+ <did>
+ <unittitle>
+Charlie's House
+ </unittitle>
+ <unitdate type="inclusive">
+1983</unitdate>
+ </did>
+ <scopecontent>
+ <p>Dorros, Arthur
+ </p><p>
+ New York: Crowell, 1983</p>
+ </scopecontent><c02 level="item">
+ <did>
+ <container type="box">MF 1194
+</container> <unittitle>typescript, corrected with front matter, 7 p.</unittitle>
+ <physdesc><extent>52 p.</extent></physdesc>
+ </did>
+ </c02>
+<c02 level="item">
+ <did>
+ <container type="box">MF 1194
+</container> <unittitle>galley proof, photocopy</unittitle>
+ <physdesc><extent>31 p.</extent></physdesc>
+ </did>
+ </c02>
+<c02 level="item">
+ <did>
+ <container type="box">MF 1194
+</container> <unittitle>miscellaneous</unittitle>
+ <physdesc><extent>2 p.</extent></physdesc>
+ </did>
+ </c02>
+</c01><c01 level="series">
+ <did>
+ <unittitle>
+Conquista!
+ </unittitle>
+ <unitdate type="inclusive">
+1978</unitdate>
+ </did>
+ <scopecontent>
+ <p>Himler, Ronald
+ </p><p>
+ New York: Crowell, 1978</p>
+ </scopecontent><c02 level="item">
+ <did>
+ <container type="box">MF 159
+</container> <unittitle>typescript, corrected with front matter, 6 p.</unittitle>
+ <physdesc><extent>19 p.</extent></physdesc>
+ </did>
+ </c02>
+</c01><c01 level="series">
+ <did>
+ <unittitle>
+Daniel's Duck
+ </unittitle>
+ <unitdate type="inclusive">
+1979</unitdate>
+ </did>
+ <scopecontent>
+ <p>Sandin, Joan
+ </p><p>
+ New York: Harper and Row, 1979</p>
+ </scopecontent><c02 level="item">
+ <did>
+ <container type="box">MF 159
+</container> <unittitle>typescript, corrected with front matter, 3 p.</unittitle>
+ <physdesc><extent>11 p.</extent></physdesc>
+ </did>
+ </c02>
+</c01><c01 level="series">
+ <did>
+ <unittitle>
+Dexter
+ </unittitle>
+ <unitdate type="inclusive">
+1973</unitdate>
+ </did>
+ <scopecontent>
+ <p>Coalson, Glo
+ </p><p>
+ New York: Crowell, 1973</p>
+ </scopecontent><c02 level="item">
+ <did>
+ <container type="box">MF 159
+</container> <unittitle>typescript, corrected with front matter, 6 p.</unittitle>
+ <physdesc><extent>60 p.</extent></physdesc>
+ </did>
+ </c02>
+<c02 level="item">
+ <did>
+ <container type="box">MF 159
+</container> <unittitle>galley proof, corrected</unittitle>
+ <physdesc><extent>38 p.</extent></physdesc>
+ </did>
+ </c02>
+<c02 level="item">
+ <did>
+ <container type="box">MF 159
+</container> <unittitle>galley proof, corrected</unittitle>
+ <physdesc><extent>22 p.</extent></physdesc>
+ </did>
+ </c02>
+<c02 level="item">
+ <did>
+ <container type="box">MF 159
+</container> <unittitle>galley proof</unittitle>
+ <physdesc><extent>33 p.</extent></physdesc>
+ </did>
+ </c02>
+</c01><c01 level="series">
+ <did>
+ <unittitle>
+Jonah and the Great Fish
+ </unittitle>
+ <unitdate type="inclusive">
+1970</unitdate>
+ </did>
+ <scopecontent>
+ <p>Aichinger, Helga
+ </p><p>
+ New York: Crowell, 1970</p>
+ </scopecontent><c02 level="item">
+ <did>
+ <container type="box">MF 159
+</container> <unittitle>typescript, corrected</unittitle>
+ <physdesc><extent>12 p.</extent></physdesc>
+ </did>
+ </c02>
+<c02 level="item">
+ <did>
+ <container type="box">MF 159
+</container> <unittitle>galley proof, corrected</unittitle>
+ <physdesc><extent>4 p.</extent></physdesc>
+ </did>
+ </c02>
+</c01><c01 level="series">
+ <did>
+ <unittitle>
+Joseph the Dreamer
+ </unittitle>
+ <unitdate type="inclusive">
+1971</unitdate>
+ </did>
+ <scopecontent>
+ <p>Laite, Gordon
+ </p><p>
+ New York: Crowell, 1971</p>
+ </scopecontent><c02 level="item">
+ <did>
+ <container type="box">MF 159
+</container> <unittitle>typescript, corrected</unittitle>
+ <physdesc><extent>21 p.</extent></physdesc>
+ </did>
+ </c02>
+<c02 level="item">
+ <did>
+ <container type="box">MF 159
+</container> <unittitle>galley proof, corrected</unittitle>
+ <physdesc><extent>27 p.</extent></physdesc>
+ </did>
+ </c02>
+</c01><c01 level="series">
+ <did>
+ <unittitle>
+Last Look
+ </unittitle>
+ <unitdate type="inclusive">
+1979</unitdate>
+ </did>
+ <scopecontent>
+ <p>McCully, Emily Arnold
+ </p><p>
+ New York: Crowell, 1979</p>
+ </scopecontent><c02 level="item">
+ <did>
+ <container type="box">MF 159
+</container> <unittitle>typescript, corrected photocopy with front matter, 6 p.</unittitle>
+ <physdesc><extent>51 p.</extent></physdesc>
+ </did>
+ </c02>
+</c01><c01 level="series">
+ <did>
+ <unittitle>
+Moon Singer
+ </unittitle>
+ <unitdate type="inclusive">
+1969</unitdate>
+ </did>
+ <scopecontent>
+ <p>Hyman, Trina Schart
+ </p><p>
+ New York: Crowell, 1969</p>
+ </scopecontent><c02 level="item">
+ <did>
+ <container type="box">MF 159
+</container> <unittitle>typescript, corrected</unittitle>
+ <physdesc><extent>14 p.</extent></physdesc>
+ </did>
+ </c02>
+<c02 level="item">
+ <did>
+ <container type="box">MF 159
+</container> <unittitle>galley proof, corrected</unittitle>
+ <physdesc><extent>7 p.</extent></physdesc>
+ </did>
+ </c02>
+<c02 level="item">
+ <did>
+ <container type="box">MF 159
+</container> <unittitle>page proof</unittitle>
+ <physdesc><extent>27 p.</extent></physdesc>
+ </did>
+ </c02>
+</c01><c01 level="series">
+ <did>
+ <unittitle>
+Open the Door and See All the People
+ </unittitle>
+ <unitdate type="inclusive">
+1972</unitdate>
+ </did>
+ <scopecontent>
+ <p>Watson, Wendy
+ </p><p>
+ New York: Crowell, 1972</p>
+ </scopecontent><c02 level="item">
+ <did>
+ <container type="box">MF 160
+</container> <unittitle>typescript, corrected  with front matter, 2 p.</unittitle>
+ <physdesc><extent>44 p.</extent></physdesc>
+ </did>
+ </c02>
+<c02 level="item">
+ <did>
+ <container type="box">MF 160
+</container> <unittitle>galley proof, corrected</unittitle>
+ <physdesc><extent>14 p.</extent></physdesc>
+ </did>
+ </c02>
+</c01><c01 level="series">
+ <did>
+ <unittitle>
+Poor Boy, Rich Boy
+ </unittitle>
+ <unitdate type="inclusive">
+1982</unitdate>
+ </did>
+ <scopecontent>
+ <p>Sewell, Marcia
+ </p><p>
+ New York: Harper and Row, 1982</p>
+ </scopecontent><c02 level="item">
+ <did>
+ <container type="box">MF 1194
+</container> <unittitle>dummy photocopy</unittitle>
+ <physdesc><extent>58 p.</extent></physdesc>
+ </did>
+ </c02>
+</c01><c01 level="series">
+ <did>
+ <unittitle>
+Poppy Seeds
+ </unittitle>
+ <unitdate type="inclusive">
+1955</unitdate>
+ </did>
+ <scopecontent>
+ <p>Charlot, Jean
+ </p><p>
+ New York: Crowell, 1955</p>
+ </scopecontent><c02 level="item">
+ <did>
+ <container type="box">MF 160
+</container> <unittitle>typescript, corrected</unittitle>
+ <physdesc><extent>12 p.</extent></physdesc>
+ </did>
+ </c02>
+</c01><c01 level="series">
+ <did>
+ <unittitle>
+Ring and the Fire
+ </unittitle>
+ <unitdate type="inclusive">
+1962</unitdate>
+ </did>
+ <scopecontent>
+ <p>Ross, Clare and John
+ </p><p>
+ New York: Crowell, 1962</p>
+ </scopecontent><c02 level="item">
+ <did>
+ <container type="box">MF 160
+</container> <unittitle>typescript, corrected with front matter, 5 p.</unittitle>
+ <physdesc><extent>157 p.</extent></physdesc>
+ </did>
+ </c02>
+<c02 level="item">
+ <did>
+ <container type="box">
+</container> <unittitle>layout sketch for casts of characters</unittitle>
+ <physdesc><extent>1 p.</extent></physdesc>
+ </did>
+ </c02>
+<c02 level="item">
+ <did>
+ <container type="box">MF 160
+</container> <unittitle>typescript and score for themes from the operas</unittitle>
+ <physdesc><extent>13 p.</extent></physdesc>
+ </did>
+ </c02>
+<c02 level="item">
+ <did>
+ <container type="box">MF 160
+</container> <unittitle>typescript for index</unittitle>
+ <physdesc><extent>6 p.</extent></physdesc>
+ </did>
+ </c02>
+<c02 level="item">
+ <did>
+ <container type="box">MF 160
+</container> <unittitle>galley proof</unittitle>
+ <physdesc><extent>41 p.</extent></physdesc>
+ </did>
+ </c02>
+</c01><c01 level="series">
+ <did>
+ <unittitle>
+Shoeshine Girl
+ </unittitle>
+ <unitdate type="inclusive">
+1975</unitdate>
+ </did>
+ <scopecontent>
+ <p>Grant, Leigh
+ </p><p>
+ New York: Crowell, 1975</p>
+ </scopecontent><c02 level="item">
+ <did>
+ <container type="box">MF 160
+</container> <unittitle>typescript, corrected with front matter, 4 p.</unittitle>
+ <physdesc><extent>60 p.</extent></physdesc>
+ </did>
+ </c02>
+<c02 level="item">
+ <did>
+ <container type="box">MF 160
+</container> <unittitle>page proof, corrected photocopy</unittitle>
+ <physdesc><extent>48 p.</extent></physdesc>
+ </did>
+ </c02>
+</c01><c01 level="series">
+ <did>
+ <unittitle>
+Stories of Gilbert and Sullivan Operas
+ </unittitle>
+ <unitdate type="inclusive">
+1968</unitdate>
+ </did>
+ <scopecontent>
+ <p>McCrea, James and Ruth
+ </p><p>
+ New York: Crowell, 1968</p>
+ </scopecontent><c02 level="item">
+ <did>
+ <container type="box">MF 160, 161
+</container> <unittitle>typescript, corrected</unittitle>
+ <physdesc><extent>263 p.</extent></physdesc>
+ </did>
+ </c02>
+<c02 level="item">
+ <did>
+ <container type="box">MF 160, 161
+</container> <unittitle>galley proof</unittitle>
+ <physdesc><extent>68 p.</extent></physdesc>
+ </did>
+ </c02>
+<c02 level="item">
+ <did>
+ <container type="box">MF 160, 161
+</container> <unittitle>page proof</unittitle>
+ <physdesc><extent>125 p.</extent></physdesc>
+ </did>
+ </c02>
+</c01><c01 level="series">
+ <did>
+ <unittitle>
+Sugar Pear Tree
+ </unittitle>
+ <unitdate type="inclusive">
+1961</unitdate>
+ </did>
+ <scopecontent>
+ <p>Yashima, Taro
+ </p><p>
+ New York: Crowell, 1961</p>
+ </scopecontent><c02 level="item">
+ <did>
+ <container type="box">MF 161
+</container> <unittitle>typescript, corrected</unittitle>
+ <physdesc><extent>47 p.</extent></physdesc>
+ </did>
+ </c02>
+<c02 level="item">
+ <did>
+ <container type="box">MF 161
+</container> <unittitle>notes</unittitle>
+ <physdesc><extent>1 p.</extent></physdesc>
+ </did>
+ </c02>
+</c01><c01 level="series">
+ <did>
+ <unittitle>
+Tree is a Plant
+ </unittitle>
+ <unitdate type="inclusive">
+1960</unitdate>
+ </did>
+ <scopecontent>
+ <p>Lignell, Lois
+ </p><p>
+ New York: Crowell, 1960</p>
+ </scopecontent><c02 level="item">
+ <did>
+ <container type="box">MF 161
+</container> <unittitle>typescript, corrected</unittitle>
+ <physdesc><extent>4 p.</extent></physdesc>
+ </did>
+ </c02>
+<c02 level="item">
+ <did>
+ <container type="box">MF 161
+</container> <unittitle>notes</unittitle>
+ <physdesc><extent>1 p.</extent></physdesc>
+ </did>
+ </c02>
+</c01><c01 level="series">
+ <did>
+ <unittitle>
+Viking Adventure
+ </unittitle>
+ <unitdate type="inclusive">
+1963</unitdate>
+ </did>
+ <scopecontent>
+ <p>Gorsline, Douglas
+ </p><p>
+ New York: Crowell, 1963</p>
+ </scopecontent><c02 level="item">
+ <did>
+ <container type="box">MF 161
+</container> <unittitle>galley proof, corrected</unittitle>
+ <physdesc><extent>38 p.</extent></physdesc>
+ </did>
+ </c02>
+<c02 level="item">
+ <did>
+ <container type="box">MF 161
+</container> <unittitle>typescript, corrected</unittitle>
+ <physdesc><extent>107 p.</extent></physdesc>
+ </did>
+ </c02>
+<c02 level="item">
+ <did>
+ <container type="box">MF 161
+</container> <unittitle>notes</unittitle>
+ <physdesc><extent>1 p.</extent></physdesc>
+ </did>
+ </c02>
+</c01><c01 level="series">
+ <did>
+ <unittitle>
+What Makes a Shadow?
+ </unittitle>
+ <unitdate type="inclusive">
+1962</unitdate>
+ </did>
+ <scopecontent>
+ <p>Adams, Adrienne
+ </p><p>
+ New York: Crowell, 1962</p>
+ </scopecontent><c02 level="item">
+ <did>
+ <container type="box">MF 161
+</container> <unittitle>typescript, corrected</unittitle>
+ <physdesc><extent>3 p.</extent></physdesc>
+ </did>
+ </c02>
+<c02 level="item">
+ <did>
+ <container type="box">MF 161
+</container> <unittitle>galley proof, corrected</unittitle>
+ <physdesc><extent>2 p.</extent></physdesc>
+ </did>
+ </c02>
+<c02 level="item">
+ <did>
+ <container type="box">MF 161
+</container> <unittitle>galley proof, corrected</unittitle>
+ <physdesc><extent>2 p.</extent></physdesc>
+ </did>
+ </c02>
+<c02 level="item">
+ <did>
+ <container type="box">MF 161
+</container> <unittitle>galley proof, corrected</unittitle>
+ <physdesc><extent>1 p.</extent></physdesc>
+ </did>
+ </c02>
+</c01></dsc> </archdesc> </ead>

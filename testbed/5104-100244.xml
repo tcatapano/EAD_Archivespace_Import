@@ -1,0 +1,1786 @@
+<?xml version="1.0"?>
+<ead>
+  
+   
+  
+  
+  
+  
+  
+  <eadheader langencoding="iso639-2b" findaidstatus="unverified-partial-draft" audience="internal" scriptencoding="iso15924" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601">    
+    
+    
+    <eadid xmlns:cdlpath="http://www.cdlib.org/path/" encodinganalog="852$a" countrycode="us" identifier="ark:/13030/kt1d5nd9h2" mainagencycode="CaMfAHO" publicid="-//Ames Research Center::NASA Ames History Office//TEXT (US::CaMfAHO::PP07.13::Robert E. Slye Papers, 1961-2001)//EN" cdlpath:parent="ark:/13030/tf6q2nc0cc">
+      pp07.13rs_slye.xml
+    </eadid>    
+    
+    
+    
+    
+    
+    
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the Robert E. Slye Papers, 
+          <date calendar="gregorian" era="ce">1961-2001</date>
+        </titleproper>
+        <titleproper type="filing">Slye (Robert E.) Papers</titleproper>
+        
+        
+        <author>Guide prepared by Laura Williams</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>NASA Ames History Office</publisher>
+        <address>
+          <addressline>NASA Ames Research Center</addressline>
+          <addressline>Mail Stop 207-1</addressline>
+          <addressline>Moffett Field, California 94035</addressline>
+          <addressline>Phone: (650) 604-1032</addressline>
+          <addressline>Email: ARC-DL-history@mail.nasa.gov</addressline>
+          <addressline>URL: http://history.arc.nasa.gov</addressline>
+        </address>
+        <p><date calendar="gregorian" era="ce">2009</date>
+        NASA Ames Research Center. All rights reserved.</p>
+      </publicationstmt>
+    </filedesc>
+    
+    
+    
+    
+    
+    <profiledesc>
+      <creation>Machine-readable finding aid created by Laura Williams. Machine-readable finding
+        aid derived from MS Word. Date of source: 
+          <date calendar="gregorian" era="ce">November 2009.</date>
+      </creation> 
+           
+      
+      <langusage>
+        Description is in <language>English.</language>
+      </langusage>
+      <descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules> 
+    </profiledesc>
+    
+    
+  </eadheader>
+  
+  
+  
+  
+  
+  
+  
+  
+  <frontmatter>
+    <titlepage>
+      <titleproper>Guide to the Robert E. Slye Papers, 
+        <date calendar="gregorian" era="ce">1961-2001</date>
+      </titleproper>
+      <publisher>
+        NASA Ames History Office
+        <lb/>
+        NASA Ames Research Center
+      </publisher>
+          
+      
+      <list type="simple">
+        <head>Contact Information:</head>
+        <item>NASA Ames History Office</item>
+        <item>NASA Ames Research Center</item>
+        <item>Mail Stop 207-1</item>
+        <item>Moffett Field, CA 94035</item>
+        <item>Phone: (650) 604-1032</item>
+        <item>Email: ARC-DL-history@mail.nasa.gov</item>
+        <item>URL: http://history.arc.nasa.gov</item>
+      </list>
+      <list type="deflist">
+          <defitem>
+            <label>Collection processed by:</label>
+            <item>Laura Williams</item>
+          </defitem>
+          <defitem>
+            <label>Date Completed: </label>
+            <item>November 2009</item>
+          </defitem>
+        </list>       
+      <p>2009 NASA Ames Research Center. All rights reserved.</p>
+    </titlepage>
+  </frontmatter>
+  
+  
+  
+  
+  
+  
+  
+  
+  <archdesc level="collection" id="archdesc-1.3">
+    
+    
+    <did id="did-1.3.1">
+      <head>Descriptive Summary</head>
+      <unittitle encodinganalog="245" label="Title">Robert E. Slye Papers</unittitle>
+       
+      
+      <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1967/1981">1961-2001</unitdate>
+      
+      
+      <unitid label="Collection Number" countrycode="US" repositorycode="CaMfAHO">PP07.13-RS</unitid>
+      
+        <origination label="Creator">
+          <corpname encodinganalog="110" source="lcnaf">Ames Research Center</corpname>
+          
+          
+          
+        </origination>
+        <physdesc encodinganalog="300" label="Extent">
+            <extent>Number of containers: 4</extent>
+            <lb/>
+            <extent>Volume: 4.8 cubic feet</extent>
+          
+        </physdesc>
+        <repository label="Repository" encodinganalog="852$a">
+            <corpname encodinganalog="852$a" source="lcnaf">Ames Research Center, </corpname>
+            <subarea>Ames History Office</subarea>
+            <address>
+                <addressline>Moffett Field, California 94035</addressline>
+            </address>
+        </repository>
+      <abstract label="Abstract">This collection, accumulated by NASA Ames Research Center scientist Robert E. Slye, consists of reports, 
+        research proposals, memoranda, contracts, conference and workshop proceedings, user guides, administrative announcements, newsletters, 
+        secondary publications and other materials related to the NASA Mission Analysis Division, technology applications research and 
+        general administrative activities.</abstract>
+      <langmaterial label="Language">
+          <language langcode="eng" encodinganalog="041">English
+          </language>
+        </langmaterial>
+    </did>
+
+    
+    
+    <descgrp type="admininfo" id="descgrp-1.3.2"> 
+      <head>Administrative Information</head>
+      <accessrestrict encodinganalog="506">
+        <head>Access</head>
+        <p>Collection is open for research.</p>
+      </accessrestrict>
+      <userestrict encodinganalog="540">
+        <head>Publication Rights</head>
+        <p>Copyright does not apply to United States government records. For non-government
+          material, researcher must contact the original creator.</p>
+      </userestrict>
+      <prefercite encodinganalog="524">
+        <head>Preferred Citation</head>
+        <p>NASA Ames History Office, NASA Ames Research Center. Moffett Field, California. PP07.13-RS, Robert E. Slye Papers, 1961-2001, [Container number]: [Folder number]. [Identification of item]. [Date, if available].</p>
+        <prefercite encodinganalog="524">
+          <head>Abbreviated Citation</head>
+          <p>NASA ARC. PP07.13-RS, [Container number]: [Folder number]. [Identification of item]. [Date, if available].</p>
+        </prefercite>
+      </prefercite>
+    </descgrp>
+    
+    <descgrp id="descgrp-1.3.3">
+      <head>Related Collections</head>
+        <p>Larry A. Manning Papers, 1967-1988 (PP05.04)</p>
+        <p>Donald E. Wilson Earth Resources Survey Program Papers, 1972-1983 (PP07.13-DW)</p>
+    </descgrp>
+       
+    
+   
+   
+    
+
+    <acqinfo encodinganalog="541" id="acqinfo-1.3.4">
+      <head>Acquisition Information</head>
+      <p>Transferred by Robert E. Slye in August 2007.</p>
+    </acqinfo>
+    
+    <bioghist encodinganalog="545" id="bioghist-1.3.5">
+      <head>Biographical History</head>
+      <p>Robert "Buzz" E. Slye was born in 1934 in Burlington, Vermont. He received a B.E. in Mechanical Engineering from Yale University in 
+        1956, where he also served in the Reserve Officers' Training Corps. He earned a M.S. in Aeronautical Engineering from Stanford 
+        University in 1957. Slye joined NACA Ames Aeronautical Laboratory in Moffett Field, California, in June 1957 as a summer student, 
+        and was subsequently assigned to Air Force duty on the Ames campus in the fall of 1957.</p> 
+      <p>As a summer student, and after conversion to a permanent post as research scientist in 1958, Slye worked with Alfred Eggers and Clarence 
+        "Sy" Syverston as a member of the 10 x 14 Inch Wind Tunnel Branch (1957 to 1960) and the 3-1/2 Foot Wind Tunnel Branch (1960 to 1963). Here, 
+        he was involved in projects relating to the aerodynamics of lifting bodies, rockets and re-entry capsules. In 1963, Slye became a member of 
+        the Mission Analysis Division, Space Applications Branch. The Mission Analysis Division's 
+        main function was to conduct studies to determine research areas in which Ames could use its time and funds most effectively. Here, Slye 
+        became an expert in trajectory analysis, and was involved in conducting studies on the feasibility of transporting humans to the moon and 
+        mars, and in conducting shuttle and launch vehicle studies, including trajectory and payload analysis, costing, planning, design and 
+        implementation. Slye was a member of the Mission Analysis Division from 1963 to 1969, the System Studies Division from 1969 to 1971, and 
+        the Advanced Concepts and Missions Division from 1971 to 1975.</p>
+      <p>When the Advanced Concepts and Missions Division dissolved in 1975, Slye moved to the Data Research and Management Branch (1975 to 1976), 
+        the Technology Applications Branch under the Airborne Missions and Applications Division (1976 to 1984) and later the Ecosystem Science and 
+        Technology (ECOSAT) Branch under the Life Science/Earth System Science/Earth Science Divisions (1984 to present). His research activities 
+        under these divisions largely relate to the analysis and display of computer information, including remotely sensed images. As a member of 
+        the Ecosystem Science and Technology Branch, Slye worked to develop new understandings of the Earth's ecosystems through remote sensing, 
+        airborne imaging and data processing research. </p>
+      <p>Slye's career at Ames has spanned over a half of a century and is remarkable in that he has made important research contributions in a 
+        wide range of disciplines. Slye received the NASA/Ames Special Achievement Award in 1988. At the time of his retirement in December 2007, 
+        Slye was the longest continually employed worker at Ames. He became an Ames Associate in 2008, and as of November 2009, Slye is listed as 
+        an Ames Associate with the Ecosystem Science and Technology Branch.</p> 
+    </bioghist>
+    
+    <bibliography id="bibliography-1.3.6">
+      <head>Sources Consulted:</head>
+      <bibref>Bugos, Glenn E. Atmosphere of freedom: sixty years at the NASA Ames Research Center. Washington, D.C.: NASA SP4314, 2000.</bibref> 
+      <bibref>Bugos, Glenn E. NASAs 50 Year Men and Women: Buzz Slye in NASA: 50 Years of Exploration and Discovery. NASA, 2008. </bibref>
+      
+      <archref>NASA Ames History Office, NASA Ames Research Center. Moffett Field, California. AFS1030.39A, Ames Astrogram Collection. 1958-2008.</archref>
+      <archref>NASA Ames History Office, NASA Ames Research Center. Moffett Field, California. AFS1070.8A, Archives Reference Collection. Telephone Directories. 1962-2003.</archref>
+    </bibliography>
+  
+    
+    
+      
+    
+      
+    
+    <controlaccess id="controlaccess-1.3.7">
+      <head>Indexing Terms</head>
+      <p>The following terms may be used to index this collection.</p>
+      
+      
+      
+      <controlaccess>
+        <head>Personal Name</head>
+        <persname role="subject" encodinganalog="600" rules="aacr">Slye, Robert E.</persname>
+      </controlaccess>
+      
+      <controlaccess>
+        <head>Corporate Name</head>
+        <corpname role="subject" encodinganalog="610" source="lcnaf">Ames Research Center</corpname>
+        <corpname role="subject" encodinganalog="610" source="lcnaf">United States. National Aeronautics and Space Administration</corpname>
+      </controlaccess>
+      
+      <controlaccess>
+        <head>Subjects</head>
+        <subject encodinganalog="650" source="lcsh">Launch vehicles (Astronautics)</subject>
+        <subject encodinganalog="650" source="lcsh">Trajectory optimization</subject>
+        <subject encodinganalog="650" source="lcsh">Payloads (Aerospace engineering)</subject>
+        <subject encodinganalog="650" source="lcsh">Computer engineering--Data processing</subject>
+        <subject encodinganalog="650" source="lcsh">Remote sensing.</subject>
+        <subject encodinganalog="650" source="lcsh">Remote-sensing images</subject>
+        <subject encodinganalog="650" source="lcsh">Landsat satellites.</subject>
+        <subject encodinganalog="650" source="lcsh">Image analysis.</subject>
+        <subject encodinganalog="650" source="lcsh">Image processing.</subject>
+        <subject encodinganalog="650" source="lcsh">Ecosystem management--Research.</subject>
+        <subject encodinganalog="650" source="lcsh">Feasibility studies</subject>
+        <subject encodinganalog="650" source="nasat">Cost analysis</subject>
+        
+      </controlaccess>
+      
+      <controlaccess>
+        <head>Geographic Names</head>
+        <geogname role="subject" encodinganalog="651" source="lcnaf">Moffett Field (Calif.)</geogname>
+      </controlaccess>
+      
+      
+      
+      
+      
+    </controlaccess>
+    
+      
+    
+    <scopecontent encodinganalog="520" id="scopecontent-1.3.8">
+      <head>Scope and Content</head>
+      <p>The collection consists of scientific reports, quarterly and annual reports, research proposals, memoranda, 
+        correspondence, contracts, studies, secondary publications, conference proceedings, meeting minutes, agendas, 
+        newsletters, bibliographies, indexes, directories, rosters, workshop proceedings, user guides, administrative 
+        announcements, clippings, ephemera and a transcript of the 1996 NASA Ames "State of the Center" speech. The 
+        materials provide insight into Slye's activities with the Mission Analysis Division and Technology 
+        Applications/Ecosystem Science and Technology Applications Branches as well as into the administrative 
+        activities of NASA Ames.</p> 
+      <p>Series I, Mission Analysis Division Records, 1965-1974, contains reports, proposals, memoranda, secondary 
+        publications and other material related to the design, costing, selection and analysis of shuttles and launch 
+        vehicles. Series II, Technology Applications Records, 1974-1998, includes reports, memoranda, newsletters, 
+        rosters, plans and other materials related to the activities of the NASA Ames Airborne Missions and 
+        Applications and Life Science/Earth System Science/Earth Science Divisions. A number of records relate to 
+        the Landsat Remote Sensing Technology Program and the Western Regional Applications Program (WRAP). Series 
+        III, NASA Ames Administrative Records, 1971-2001, consists of clippings, publications, memoranda and 
+        administrative announcements related to topics such as staff honors, organizational restructuring and 
+        policies. Series IV, General/Reference Publications, 1961-1999, largely consists of newsletters (generated 
+        both by Ames and outside publishers) and secondary publications on topics related to Slye's fields of interest, 
+        including aeronautics, remote sensing and computing.</p>
+      
+    </scopecontent>
+    
+    <arrangement id="arrangement-1.3.9">
+      <head>Arrangement of the Robert E. Slye Papers</head>
+      <p>The papers are arranged into four series:</p>
+      <list>
+        <item>I. Mission Analysis Division Records, 1965-1974.</item>
+        <item>II. Technology Applications Records, 1974-1998.</item>
+        <item>III. NASA Ames Administrative Records, 1971-2001.</item>
+        <item>IV. General/Reference Publications, 1961-1999.</item>
+      </list>
+      <p>Materials within each series are arranged chronologically.</p>
+    </arrangement>
+    
+    
+      
+      
+      
+    
+    
+   
+    <dsc type="analyticover" id="dsc-1.3.10" score="1" C-ORDER="1" MAX-C-ORDER="161">
+      
+      <head>Series Description</head>
+      
+      
+
+      <c01 level="series" id="c01-1.3.10.2" score="2" C-ORDER="2"> 
+        
+        
+          <did>
+            <unitid>I. </unitid> 
+            
+            <unittitle>Mission Analysis Division Records, </unittitle>
+            <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1967/1981">1965-1974</unitdate>
+            <physdesc>56 folders</physdesc>  
+          </did>
+        
+        
+          <scopecontent>
+            <head>Series Description</head>
+            <p>The materials in Series I reflect the activities of the Mission Analysis Division, System Studies Division, and the Advanced Concepts and Missions 
+              Division from 1965 to 1974. Many records relate to Lockheed contract NAS 2-5202, in which methodologies and computer models were constructed for 
+              optimal launch vehicle assignment for advanced space missions in light of strict budgetary constraints. According to one of the reports associated 
+              with this contract, "a primary objective [of the study] is provision of an analytical tool to help the advance planner to maximize, under restrictive 
+              budget constraints, the accomplishment of a future space program." Materials related to the Burner II, Titan/Centaur, Solid/Agena and Saturn family 
+              of launch vehicles are included in this series.</p>
+          </scopecontent>
+      </c01>
+      
+      <c01 level="series" id="c01-1.3.10.3" score="2" C-ORDER="4">  
+        <did>
+          <unitid>II. </unitid>
+          <unittitle>Technology Applications Records, </unittitle> 
+          <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1967/1981">1974-1998</unitdate>
+          <physdesc>44 folders</physdesc>
+        </did>
+        
+        <scopecontent>
+          <head>Series Description</head>
+          <p>Series II consists of records related to the activities of the NASA Ames Data Research and Management Branch, Technology Applications Branch and 
+            Ecosystem Science and Technology (ECOSAT) Branch from 1974 to 1998. Here, Slye was involved in performing research in ecosystem science, remote sensing, 
+            and computational image analysis. Many materials relate to the Landsat Remote Sensing Technology Program and the Western Regional Applications Program (WRAP). 
+            Slye was particularly involved in remote sensing, airborne imaging, and data processing research. Research subjects include coastal-zone, forestry, 
+            geography, geology, hydrology, meteorology, oceanography, agricultural and fire studies.</p>
+        </scopecontent>
+      </c01>
+      
+      <c01 level="series" id="c01-1.3.10.4" score="2" C-ORDER="6">  
+        <did>
+          <unitid>III. </unitid>
+          <unittitle>NASA Ames Administrative Records, </unittitle> 
+          <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1967/1981">1971-2001</unitdate>
+          <physdesc>11 folders</physdesc>
+        </did>
+        
+        <scopecontent>
+          <head>Series Description</head>
+          <p>Series III consists of records on topics such as exhibits, personnel appointments, policies, Ames events and activities, length of service honors, 
+            branch/division restructuring and other organizational changes, and a transcript of the 1996 "State of the Center" address by Director Ken K. Munechika.</p>
+        </scopecontent>
+      </c01>
+      
+      <c01 level="series" id="c01-1.3.10.5" score="2" C-ORDER="8">  
+        <did>
+          <unitid>IV. </unitid>
+          <unittitle>General/Reference Publications, </unittitle> 
+          <unitdate calendar="gregorian" era="ce" type="inclusive" normal="1967/1981">1961-1999</unitdate>
+          <physdesc>40 folders</physdesc>
+        </did>
+        
+        <scopecontent>
+          <head>Series Description</head>
+          <p>Series IV consists of secondary publications on topics such as missiles, aeronautics, lunar and planetary sciences, extraterrestrial life, remote sensing, 
+            meteor orbits/dust and astrophysics, symposium proceedings, materials related to computing (including the Illiac IV, Cray I, Cray-IS and VAX computers and 
+            ARPANET), newsletters (both published by NASA and by outside entities) and other general materials.</p>
+        </scopecontent>
+      </c01>
+      
+      
+      
+    </dsc>   
+      
+      
+    
+    <dsc type="in-depth" id="dsc-1.3.11" score="1" C-ORDER="10">
+      <head>Container List</head>
+      
+      
+      
+      
+      <c01 level="series" id="c01-1.3.11.2" score="1" C-ORDER="11">
+        <did>
+          <unittitle>I: Mission Analysis Records, 1965-1974</unittitle>
+        </did>
+        
+        <c02 level="file" id="c02-1.3.11.2.2" score="1" C-ORDER="12">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">1</container>
+            <unittitle>Saturn V, </unittitle>
+            <unitdate calendar="gregorian" era="ce">1965</unitdate> 
+            
+          </did>
+        </c02>
+        
+        <c02 level="file" id="c02-1.3.11.2.3" score="1" C-ORDER="13">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">2</container>
+            <unittitle>Saturn IB, </unittitle>
+            <unitdate calendar="gregorian" era="ce">1965-1967</unitdate> 
+          </did>
+        </c02>
+        
+        <c02 level="file" id="c02-1.3.11.2.4" score="1" C-ORDER="14">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">3</container>
+            <unittitle>Burner II, </unittitle>
+            <unitdate calendar="gregorian" era="ce">1966-1968</unitdate> 
+          </did>
+        </c02>
+        
+        <c02 level="file" id="c02-1.3.11.2.5" score="1" C-ORDER="15">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">4</container>
+            <unittitle>Analytical Cost/Performance Model for the Analysis of the Long Duration 
+              Manned Space Missions, Final Report, </unittitle>
+            <unitdate calendar="gregorian" era="ce">1967</unitdate> 
+          </did>
+        </c02>
+        
+        <c02 level="file" id="c02-1.3.11.2.6" score="1" C-ORDER="16">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">5</container>
+            <unittitle>Final Report, Service Module Upper Stage, </unittitle>
+            <unitdate calendar="gregorian" era="ce">1967</unitdate> 
+          </did>
+        </c02>
+        
+        <c02 level="file" id="c02-1.3.11.2.7" score="1" C-ORDER="17">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">6</container>
+            <unittitle>Planetary Programs, Analysis of Titan III F Family Capability for the Mars 1973 Type 1 Mission, </unittitle>
+            <unitdate calendar="gregorian" era="ce">1967</unitdate> 
+          </did>
+        </c02>
+        
+        <c02 level="file" id="c02-1.3.11.2.8" score="1" C-ORDER="18">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">7</container>
+            <unittitle>S-5 Study, </unittitle>
+            <unitdate calendar="gregorian" era="ce">1967</unitdate> 
+          </did>
+        </c02>
+        
+        <c02 level="file" id="c02-1.3.11.2.9" score="1" C-ORDER="19">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">8</container>
+            <unittitle>SLV, General Dynamics, </unittitle>
+            <unitdate calendar="gregorian" era="ce">1967</unitdate> 
+          </did>
+        </c02>
+        
+        <c02 level="file" id="c02-1.3.11.2.10" score="1" C-ORDER="20">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">9</container>
+            <unittitle>1 Centaur Sizing Study for Titan IIID and IIIB, </unittitle>
+            <unitdate calendar="gregorian" era="ce">1968</unitdate> 
+          </did>
+        </c02>
+        
+        <c02 level="file" id="c02-1.3.11.2.11" score="1" C-ORDER="21">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">10</container>
+            <unittitle>Proposal for Systems Modeling and Cost/Performance Methodologies 
+              for Optimization of Vehicle Assignment Study, </unittitle>
+            <unitdate calendar="gregorian" era="ce">1968</unitdate> 
+          </did>
+        </c02>
+        
+        <c02 level="file" id="c02-1.3.11.2.12" score="1" C-ORDER="22">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">11</container>
+            <unittitle>Systems Modeling and Cost/Performance Methodologies for Optimization of Vehicle Assignment, Contracts, </unittitle>
+            <unitdate calendar="gregorian" era="ce">1968-1970</unitdate> 
+          </did>
+        </c02>
+        
+        <c02 level="file" id="c02-1.3.11.2.13" score="1" C-ORDER="23">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">12</container>
+            <unittitle>Systems Modeling and Cost/Performance Methodologies for Optimization of Vehicle Assignment, Proposal Documents, </unittitle>
+            <unitdate calendar="gregorian" era="ce">1968-1970</unitdate> 
+          </did>
+        </c02>
+        
+        <c02 level="file" id="c02-1.3.11.2.14" score="1" C-ORDER="24">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">13</container>
+            <unittitle>Study of Systems and Cost/Performance Methodologies for Optimization of Vehicle Assignment, Technical Reports, </unittitle>
+            <unitdate calendar="gregorian" era="ce">1968-1970</unitdate> 
+          </did>
+        </c02>
+        
+        <c02 level="file" id="c02-1.3.11.2.15" score="1" C-ORDER="25">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">14</container>
+            <unittitle>NASA Space Shuttle Task Group Report, </unittitle>
+            <unitdate calendar="gregorian" era="ce">1969</unitdate> 
+          </did>
+        </c02>
+        
+        <c02 level="file" id="c02-1.3.11.2.16" score="1" C-ORDER="26">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">15</container>
+            <unittitle>Solid/Agena Launch Vehicle System, </unittitle>
+            <unitdate calendar="gregorian" era="ce">1969</unitdate> 
+          </did>
+        </c02>
+        
+        <c02 level="file" id="c02-1.3.11.2.17" score="1" C-ORDER="27">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">16</container>
+            <unittitle>Study of Systems and Cost/Performance Methodologies for Optimization of Vehicle Assignment, Reports and Schedules, </unittitle>
+            <unitdate calendar="gregorian" era="ce">1969</unitdate> 
+          </did>
+        </c02>
+        
+        <c02 level="file" id="c02-1.3.11.2.18" score="1" C-ORDER="28">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">17</container>
+            <unittitle>Titan III, </unittitle>
+            <unitdate calendar="gregorian" era="ce">1969</unitdate> 
+          </did>
+        </c02>
+        
+        <c02 level="file" id="c02-1.3.11.2.19" score="1" C-ORDER="29">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">18</container>
+            <unittitle>The UA1207 First Stage Solid Rocket Motor Technical Report, </unittitle>
+            <unitdate calendar="gregorian" era="ce">1969</unitdate> 
+          </did>
+        </c02>
+        
+        <c02 level="file" id="c02-1.3.11.2.20" score="1" C-ORDER="30">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">19</container>
+            <unittitle>AIAA Paper, The Nuclear Shuttle for Interorbital and Transplanetary Applications, </unittitle>
+            <unitdate calendar="gregorian" era="ce">1970</unitdate> 
+          </did>
+        </c02>
+        
+        <c02 level="file" id="c02-1.3.11.2.21" score="1" C-ORDER="31">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">20</container>
+            <unittitle>Impact of the Space Shuttle on Satellite Payloads, Technical Memorandum, </unittitle>
+            <unitdate calendar="gregorian" era="ce">1970</unitdate> 
+          </did>
+        </c02>
+        
+        <c02 level="file" id="c02-1.3.11.2.22" score="1" C-ORDER="32">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">21</container>
+            <unittitle>Saturn IB, </unittitle>
+            <unitdate calendar="gregorian" era="ce">1970</unitdate> 
+          </did>
+        </c02>
+        
+        <c02 level="file" id="c02-1.3.11.2.23" score="1" C-ORDER="33">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">22</container>
+            <unittitle>Space Shuttle Engineering Memoranda, Lockheed Missiles and Space Company, </unittitle>
+            <unitdate calendar="gregorian" era="ce">1970</unitdate> 
+          </did>
+        </c02>
+        
+        <c02 level="file" id="c02-1.3.11.2.24" score="1" C-ORDER="34">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">23</container>
+            <unittitle>Study of Methodology and Model Development for Minimizing Space Program Costs, </unittitle>
+            <unitdate calendar="gregorian" era="ce">1970</unitdate> 
+          </did>
+        </c02>
+        
+        <c02 level="file" id="c02-1.3.11.2.25" score="1" C-ORDER="35">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">24</container>
+            <unittitle>Study of Systems and Cost/Performance Methodologies for Optimization of Vehicle Assignment, 
+              Reports and Schedules, </unittitle>
+            <unitdate calendar="gregorian" era="ce">1970 (1 of 4)</unitdate> 
+          </did>
+        </c02>
+        
+        <c02 level="file" id="c02-1.3.11.2.26" score="1" C-ORDER="36">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">25</container>
+            <unittitle>Study of Systems and Cost/Performance Methodologies for Optimization of Vehicle Assignment, Reports and Schedules, </unittitle>
+            <unitdate calendar="gregorian" era="ce">1970 (2 of 4)</unitdate> 
+          </did>
+        </c02>
+        
+        <c02 level="file" id="c02-1.3.11.2.27" score="1" C-ORDER="37">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">26</container>
+            <unittitle>Study of Systems and Cost/Performance Methodologies for Optimization of Vehicle Assignment, Reports and Schedules, </unittitle>
+            <unitdate calendar="gregorian" era="ce">1970 (3 of 4)</unitdate> 
+          </did>
+        </c02>
+        
+        <c02 level="file" id="c02-1.3.11.2.28" score="1" C-ORDER="38">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">27</container>
+            <unittitle>Study of Systems and Cost/Performance Methodologies for Optimization of Vehicle Assignment, Reports and Schedules, </unittitle>
+            <unitdate calendar="gregorian" era="ce">1970 (4 of 4)</unitdate> 
+          </did>
+        </c02>
+        
+        <c02 level="file" id="c02-1.3.11.2.29" score="1" C-ORDER="39">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">28</container>
+            <unittitle>Study of Systems and Cost/Performance Methodologies for Optimization of Vehicle Assignment, Final Reports, </unittitle>
+            <unitdate calendar="gregorian" era="ce">1970</unitdate> 
+          </did>
+        </c02>
+        
+        <c02 level="file" id="c02-1.3.11.2.30" score="1" C-ORDER="40">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">29</container>
+            <unittitle>Launch Vehicle Study for NASA Missions, </unittitle>
+            <unitdate calendar="gregorian" era="ce">1970-1979</unitdate> 
+          </did>
+        </c02>
+        
+        <c02 level="file" id="c02-1.3.11.2.31" score="1" C-ORDER="41">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">30</container>
+            <unittitle>Mission Analysis of Shuttle Operations Between Earth and the Moon, </unittitle>
+            <unitdate calendar="gregorian" era="ce">1971</unitdate> 
+          </did>
+        </c02>
+        
+        <c02 level="file" id="c02-1.3.11.2.32" score="1" C-ORDER="42">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">31</container>
+            <unittitle>Comparative Evolution of Space Transportation Concepts, </unittitle>
+            <unitdate calendar="gregorian" era="ce">1971</unitdate> 
+          </did>
+        </c02>
+        
+        <c02 level="file" id="c02-1.3.11.2.33" score="1" C-ORDER="43">
+          <did>
+            <container type="Box">2</container>
+            <container type="Folder">1</container>
+            <unittitle>Logic Checkout and Production Exercising of Space Program Optimal Assignment Model, </unittitle>
+            <unitdate calendar="gregorian" era="ce">1971</unitdate> 
+          </did>
+        </c02>
+        
+        <c02 level="file" id="c02-1.3.11.2.34" score="1" C-ORDER="44">
+          <did>
+            <container type="Box">2</container>
+            <container type="Folder">2</container>
+            <unittitle>Methodologies for Optimal Resource Allocation to the National Space Program and New Space Utilization, Final Report, </unittitle>
+            <unitdate calendar="gregorian" era="ce">1971 (1 of 3)</unitdate> 
+          </did>
+        </c02>
+        
+        <c02 level="file" id="c02-1.3.11.2.35" score="1" C-ORDER="45">
+          <did>
+            <container type="Box">2</container>
+            <container type="Folder">3</container>
+            <unittitle>Methodologies for Optimal Resource Allocation to the National Space Program and New Space Utilization, Final Report, </unittitle>
+            <unitdate calendar="gregorian" era="ce">1971 (2 of 3)</unitdate> 
+          </did>
+        </c02>
+        
+        <c02 level="file" id="c02-1.3.11.2.36" score="1" C-ORDER="46">
+          <did>
+            <container type="Box">2</container>
+            <container type="Folder">4</container>
+            <unittitle>Methodologies for Optimal Resource Allocation to the National Space Program and New Space Utilization, Final Report, </unittitle>
+            <unitdate calendar="gregorian" era="ce">1971 (3 of 3)</unitdate> 
+          </did>
+        </c02>
+        
+        <c02 level="file" id="c02-1.3.11.2.37" score="1" C-ORDER="47">
+          <did>
+            <container type="Box">2</container>
+            <container type="Folder">5</container>
+            <unittitle>Payload Effects Analysis Study, </unittitle>
+            <unitdate calendar="gregorian" era="ce">1971</unitdate> 
+          </did>
+        </c02>
+        
+        <c02 level="file" id="c02-1.3.11.2.38" score="1" C-ORDER="48">
+          <did>
+            <container type="Box">2</container>
+            <container type="Folder">6</container>
+            <unittitle>Probabilistic Systems Modeling and Cost/Performance Methodologies for Optimization of Vehicle Assignment, Final Report, Volume 1, </unittitle>
+            <unitdate calendar="gregorian" era="ce">1971</unitdate> 
+          </did>
+        </c02>
+        
+        <c02 level="file" id="c02-1.3.11.2.39" score="1" C-ORDER="49">
+          <did>
+            <container type="Box">2</container>
+            <container type="Folder">7</container>
+            <unittitle>Probabilistic Systems Modeling and Cost/Performance Methodologies for Optimization of Vehicle Assignment, Final Report, Volume 2, </unittitle>
+            <unitdate calendar="gregorian" era="ce">1971 (1 of 2)</unitdate> 
+          </did>
+        </c02>
+        
+        <c02 level="file" id="c02-1.3.11.2.40" score="1" C-ORDER="50">
+          <did>
+            <container type="Box">2</container>
+            <container type="Folder">8</container>
+            <unittitle>Probabilistic Systems Modeling and Cost/Performance Methodologies for Optimization of Vehicle Assignment, Final Report, Volume 2, </unittitle>
+            <unitdate calendar="gregorian" era="ce">1971 (2 of 2)</unitdate> 
+          </did>
+        </c02>
+        
+        <c02 level="file" id="c02-1.3.11.2.41" score="1" C-ORDER="51">
+          <did>
+            <container type="Box">2</container>
+            <container type="Folder">9</container>
+            <unittitle>Study of Systems and Cost/Performance Methodologies for Optimization of Vehicle Assignment, Reports and Schedules, </unittitle>
+            <unitdate calendar="gregorian" era="ce">1971 (1 of 2)</unitdate> 
+          </did>
+        </c02>
+        
+        <c02 level="file" id="c02-1.3.11.2.42" score="1" C-ORDER="52">
+          <did>
+            <container type="Box">2</container>
+            <container type="Folder">10</container>
+            <unittitle>Study of Systems and Cost/Performance Methodologies for Optimization of Vehicle Assignment, Reports and Schedules, </unittitle>
+            <unitdate calendar="gregorian" era="ce">1971 (2 of 2)</unitdate> 
+          </did>
+        </c02>
+        
+        <c02 level="file" id="c02-1.3.11.2.43" score="1" C-ORDER="53">
+          <did>
+            <container type="Box">2</container>
+            <container type="Folder">11</container>
+            <unittitle>Task Report, Study of Systems and Cost/Performance Methodologies for Optimization of Vehicle Assignment, </unittitle>
+            <unitdate calendar="gregorian" era="ce">1971</unitdate> 
+          </did>
+        </c02>
+        
+        <c02 level="file" id="c02-1.3.11.2.44" score="1" C-ORDER="54">
+          <did>
+            <container type="Box">2</container>
+            <container type="Folder">12</container>
+            <unittitle>The Utilization of Halo Orbits in Advance Lunar Operations, </unittitle>
+            <unitdate calendar="gregorian" era="ce">1971-1972</unitdate> 
+          </did>
+        </c02>
+        
+        <c02 level="file" id="c02-1.3.11.2.45" score="1" C-ORDER="55">
+          <did>
+            <container type="Box">2</container>
+            <container type="Folder">13</container>
+            <unittitle>The Space Applications Program Review, </unittitle>
+            <unitdate calendar="gregorian" era="ce">1974</unitdate> 
+          </did>
+        </c02>
+        
+        <c02 level="file" id="c02-1.3.11.2.46" score="1" C-ORDER="56">
+          <did>
+            <container type="Box">2</container>
+            <container type="Folder">14</container>
+            <unittitle>The Space Applications Program, Appendices, </unittitle>
+            <unitdate calendar="gregorian" era="ce">1974</unitdate> 
+          </did>
+        </c02>
+        
+        <c02 level="file" id="c02-1.3.11.2.47" score="1" C-ORDER="57">
+          <did>
+            <container type="Box">2</container>
+            <container type="Folder">15</container>
+            <unittitle>Study of Computer Data Transfer Via Satellite, Monthly Report and Final Report, </unittitle>
+            <unitdate calendar="gregorian" era="ce">1974 (1 of 2)</unitdate> 
+          </did>
+        </c02>
+        
+        <c02 level="file" id="c02-1.3.11.2.48" score="1" C-ORDER="58">
+          <did>
+            <container type="Box">2</container>
+            <container type="Folder">16</container>
+            <unittitle>Study of Computer Data Transfer Via Satellite, Monthly Report and Final Report, </unittitle>
+            <unitdate calendar="gregorian" era="ce">1974 (2 of 2)</unitdate> 
+          </did>
+        </c02>
+        
+        <c02 level="file" id="c02-1.3.11.2.49" score="1" C-ORDER="59">
+          <did>
+            <container type="Box">2</container>
+            <container type="Folder">17</container>
+            <unittitle>Study of Computer Data Transfer Via Satellite, </unittitle>
+            <unitdate calendar="gregorian" era="ce">1974</unitdate> 
+          </did>
+        </c02>
+        
+        <c02 level="file" id="c02-1.3.11.2.50" score="1" C-ORDER="60">
+          <did>
+            <container type="Box">2</container>
+            <container type="Folder">18</container>
+            <unittitle>IDAS comparison Matrices, </unittitle>
+            <unitdate calendar="gregorian" era="ce">undated</unitdate> 
+          </did>
+        </c02>
+        
+        <c02 level="file" id="c02-1.3.11.2.51" score="1" C-ORDER="61">
+          <did>
+            <container type="Box">2</container>
+            <container type="Folder">19</container>
+            <unittitle>Mission Analysis Humor, </unittitle>
+            <unitdate calendar="gregorian" era="ce">undated (1 of 2)</unitdate> 
+          </did>
+        </c02>
+        
+        <c02 level="file" id="c02-1.3.11.2.52" score="1" C-ORDER="62">
+          <did>
+            <container type="Box">2</container>
+            <container type="Folder">20</container>
+            <unittitle>Mission Analysis Humor, </unittitle>
+            <unitdate calendar="gregorian" era="ce">undated (2 of 2)</unitdate> 
+          </did>
+        </c02>
+        
+        <c02 level="file" id="c02-1.3.11.2.53" score="1" C-ORDER="63">
+          <did>
+            <container type="Box">2</container>
+            <container type="Folder">21</container>
+            <unittitle>Planetary Programs, Launch Vehicle Appendix, </unittitle>
+            <unitdate calendar="gregorian" era="ce">undated</unitdate> 
+          </did>
+        </c02>
+       
+      </c01>
+      
+      <c01 level="series" id="c01-1.3.11.3" score="1" C-ORDER="64">
+        <did>
+          <unittitle>II: Technology Applications Records, 1974-1998</unittitle>
+        </did>
+        
+        <c02 level="file" id="c02-1.3.11.3.2" score="1" C-ORDER="65">
+          <did>
+            <container type="Box">2</container>
+            <container type="Folder">22</container>
+            <unittitle>Earth Resources Program, Revised Project Plan, </unittitle>
+            <unitdate calendar="gregorian" era="ce">1974</unitdate> 
+          </did>
+        </c02>
+   
+        <c02 level="file" id="c02-1.3.11.3.3" score="1" C-ORDER="66">
+          <did>
+            <container type="Box">2</container>
+            <container type="Folder">23</container>
+            <unittitle>Image Selection System, M. A. Knutson et al., </unittitle>
+            <unitdate calendar="gregorian" era="ce">1974</unitdate> 
+          </did>
+        </c02>
+        
+        <c02 level="file" id="c02-1.3.11.3.4" score="1" C-ORDER="67">
+          <did>
+            <container type="Box">2</container>
+            <container type="Folder">24</container>
+            <unittitle>Satellite On-Board Processing for Earth Resources Data, </unittitle>
+            <unitdate calendar="gregorian" era="ce">1975</unitdate> 
+          </did>
+        </c02>
+        
+        <c02 level="file" id="c02-1.3.11.3.5" score="1" C-ORDER="68">
+          <did>
+            <container type="Box">2</container>
+            <container type="Folder">25</container>
+            <unittitle>User Dissemination Concepts for Earth Resources, Final Report, </unittitle>
+            <unitdate calendar="gregorian" era="ce">1976 (1 of 5)</unitdate> 
+          </did>
+        </c02>
+        
+        <c02 level="file" id="c02-1.3.11.3.6" score="1" C-ORDER="69">
+          <did>
+            <container type="Box">2</container>
+            <container type="Folder">26</container>
+            <unittitle>User Dissemination Concepts for Earth Resources, Final Report, </unittitle>
+            <unitdate calendar="gregorian" era="ce">1976 (2 of 5)</unitdate> 
+          </did>
+        </c02>
+        
+        <c02 level="file" id="c02-1.3.11.3.7" score="1" C-ORDER="70">
+          <did>
+            <container type="Box">2</container>
+            <container type="Folder">27</container>
+            <unittitle>User Dissemination Concepts for Earth Resources, Final Report, </unittitle>
+            <unitdate calendar="gregorian" era="ce">1976 (3 of 5)</unitdate> 
+          </did>
+        </c02>
+        
+        <c02 level="file" id="c02-1.3.11.3.8" score="1" C-ORDER="71">
+          <did>
+            <container type="Box">2</container>
+            <container type="Folder">28</container>
+            <unittitle>User Dissemination Concepts for Earth Resources, Final Report, </unittitle>
+            <unitdate calendar="gregorian" era="ce">1976 (4 of 5)</unitdate> 
+          </did>
+        </c02>
+        
+        <c02 level="file" id="c02-1.3.11.3.9" score="1" C-ORDER="72">
+          <did>
+            <container type="Box">3</container>
+            <container type="Folder">1</container>
+            <unittitle>User Dissemination Concepts for Earth Resources, Final Report, </unittitle>
+            <unitdate calendar="gregorian" era="ce">1976 (5 of 5)</unitdate> 
+          </did>
+        </c02>
+        
+        <c02 level="file" id="c02-1.3.11.3.10" score="1" C-ORDER="73">
+          <did>
+            <container type="Box">3</container>
+            <container type="Folder">2</container>
+            <unittitle>Western Regional Applications Program (WRAP) memoranda, </unittitle>
+            <unitdate calendar="gregorian" era="ce">1977</unitdate> 
+          </did>
+        </c02>
+        
+        <c02 level="file" id="c02-1.3.11.3.11" score="1" C-ORDER="74">
+          <did>
+            <container type="Box">3</container>
+            <container type="Folder">3</container>
+            <unittitle>Landsat Newsletter: Signature, </unittitle>
+            <unitdate calendar="gregorian" era="ce">1977-1978</unitdate> 
+          </did>
+        </c02>
+        
+        <c02 level="file" id="c02-1.3.11.3.12" score="1" C-ORDER="75">
+          <did>
+            <container type="Box">3</container>
+            <container type="Folder">4</container>
+            <unittitle>Institute for Advanced Computation, Landsat Image Processing Documentation, </unittitle>
+            <unitdate calendar="gregorian" era="ce">1977-1978</unitdate> 
+          </did>
+        </c02>
+        
+        <c02 level="file" id="c02-1.3.11.3.13" score="1" C-ORDER="76">
+          <did>
+            <container type="Box">3</container>
+            <container type="Folder">5</container>
+            <unittitle>Western Regional Applications Program (WRAP) Summary Reports, </unittitle>
+            <unitdate calendar="gregorian" era="ce">1977-1980</unitdate> 
+          </did>
+        </c02>
+        
+        <c02 level="file" id="c02-1.3.11.3.14" score="1" C-ORDER="77">
+          <did>
+            <container type="Box">3</container>
+            <container type="Folder">6</container>
+            <unittitle>Newsletter: Pixel Facts, </unittitle>
+            <unitdate calendar="gregorian" era="ce">1977-1981</unitdate> 
+          </did>
+        </c02>
+        
+        <c02 level="file" id="c02-1.3.11.3.15" score="1" C-ORDER="78">
+          <did>
+            <container type="Box">3</container>
+            <container type="Folder">7</container>
+            <unittitle>CZCS Coastal Zone Color Scanner Investigations Correspondence, </unittitle>
+            <unitdate calendar="gregorian" era="ce">1978</unitdate> 
+          </did>
+        </c02>
+        
+        <c02 level="file" id="c02-1.3.11.3.16" score="1" C-ORDER="79">
+          <did>
+            <container type="Box">3</container>
+            <container type="Folder">8</container>
+            <unittitle>Institute for Advanced Computation, Landsat Imaging Program Descriptions and User Guides, </unittitle>
+            <unitdate calendar="gregorian" era="ce">1978</unitdate> 
+          </did>
+        </c02>
+        
+        <c02 level="file" id="c02-1.3.11.3.17" score="1" C-ORDER="80">
+          <did>
+            <container type="Box">3</container>
+            <container type="Folder">9</container>
+            <unittitle>Institute for Advanced Computation, Landsat Image Processing, Final Report, </unittitle>
+            <unitdate calendar="gregorian" era="ce">1978</unitdate> 
+          </did>
+        </c02>
+        
+        <c02 level="file" id="c02-1.3.11.3.18" score="1" C-ORDER="81">
+          <did>
+            <container type="Box">3</container>
+            <container type="Folder">10</container>
+            <unittitle>Western Regional Applications Program (WRAP) Review, </unittitle>
+            <unitdate calendar="gregorian" era="ce">1978</unitdate> 
+          </did>
+        </c02>
+        
+        <c02 level="file" id="c02-1.3.11.3.19" score="1" C-ORDER="82">
+          <did>
+            <container type="Box">3</container>
+            <container type="Folder">11</container>
+            <unittitle>Western Regional Applications Program (WRAP) Training Program, </unittitle>
+            <unitdate calendar="gregorian" era="ce">1978</unitdate> 
+          </did>
+        </c02>
+        
+        <c02 level="file" id="c02-1.3.11.3.20" score="1" C-ORDER="83">
+          <did>
+            <container type="Box">3</container>
+            <container type="Folder">12</container>
+            <unittitle>Landsat, </unittitle>
+            <unitdate calendar="gregorian" era="ce">1978-1979</unitdate> 
+          </did>
+        </c02>
+        
+        <c02 level="file" id="c02-1.3.11.3.21" score="1" C-ORDER="84">
+          <did>
+            <container type="Box">3</container>
+            <container type="Folder">13</container>
+            <unittitle>Newsletter: Landsat Data User Notes, </unittitle>
+            <unitdate calendar="gregorian" era="ce">1978-1980</unitdate> 
+          </did>
+        </c02>
+        
+        <c02 level="file" id="c02-1.3.11.3.22" score="1" C-ORDER="85">
+          <did>
+            <container type="Box">3</container>
+            <container type="Folder">14</container>
+            <unittitle>Newsletter: Plain Brown Wrapper, </unittitle>
+            <unitdate calendar="gregorian" era="ce">1978-1981</unitdate> 
+          </did>
+        </c02>
+        
+        <c02 level="file" id="c02-1.3.11.3.23" score="1" C-ORDER="86">
+          <did>
+            <container type="Box">3</container>
+            <container type="Folder">15</container>
+            <unittitle>Western Regional Remote Sensing Conference Proceedings, </unittitle>
+            <unitdate calendar="gregorian" era="ce">1979</unitdate> 
+          </did>
+        </c02>
+        
+        <c02 level="file" id="c02-1.3.11.3.24" score="1" C-ORDER="87">
+          <did>
+            <container type="Box">3</container>
+            <container type="Folder">16</container>
+            <unittitle>Western Regional Applications Program (WRAP) Publications, </unittitle>
+            <unitdate calendar="gregorian" era="ce">1980</unitdate> 
+          </did>
+        </c02>
+        
+        <c02 level="file" id="c02-1.3.11.3.25" score="1" C-ORDER="88">
+          <did>
+            <container type="Box">3</container>
+            <container type="Folder">17</container>
+            <unittitle>1982 Report: Renewable Resources Remote Sensing Research Program</unittitle>
+          </did>
+        </c02>
+        
+        <c02 level="file" id="c02-1.3.11.3.26" score="1" C-ORDER="89">
+          <did>
+            <container type="Box">3</container>
+            <container type="Folder">18</container>
+            <unittitle>Earth Resources Bibliography, </unittitle>
+            <unitdate calendar="gregorian" era="ce">1983</unitdate> 
+          </did>
+        </c02>
+        
+        <c02 level="file" id="c02-1.3.11.3.27" score="1" C-ORDER="90">
+          <did>
+            <container type="Box">3</container>
+            <container type="Folder">19</container>
+            <unittitle>Land-Related Global Habitability Science Issues, </unittitle>
+            <unitdate calendar="gregorian" era="ce">1983</unitdate> 
+          </did>
+        </c02>
+        
+        <c02 level="file" id="c02-1.3.11.3.28" score="1" C-ORDER="91">
+          <did>
+            <container type="Box">3</container>
+            <container type="Folder">20</container>
+            <unittitle>Airborne Science and Applications Program, 20th Anniversary, </unittitle>
+            <unitdate calendar="gregorian" era="ce">1984</unitdate> 
+          </did>
+        </c02>
+        
+        <c02 level="file" id="c02-1.3.11.3.29" score="1" C-ORDER="92">
+          <did>
+            <container type="Box">3</container>
+            <container type="Folder">21</container>
+            <unittitle>Code LX Extraterrestrial Research Division Roster, </unittitle>
+            <unitdate calendar="gregorian" era="ce">1984</unitdate> 
+          </did>
+        </c02>
+        
+        <c02 level="file" id="c02-1.3.11.3.30" score="1" C-ORDER="93">
+          <did>
+            <container type="Box">3</container>
+            <container type="Folder">22</container>
+            <unittitle>ECOSAT Research Activity and Publication Update, </unittitle>
+            <unitdate calendar="gregorian" era="ce">1985</unitdate> 
+          </did>
+        </c02>
+        
+        <c02 level="file" id="c02-1.3.11.3.31" score="1" C-ORDER="94">
+          <did>
+            <container type="Box">3</container>
+            <container type="Folder">23</container>
+            <unittitle>Life Science Division Roster, </unittitle>
+            <unitdate calendar="gregorian" era="ce">1985</unitdate> 
+          </did>
+        </c02>
+        
+        <c02 level="file" id="c02-1.3.11.3.32" score="1" C-ORDER="95">
+          <did>
+            <container type="Box">3</container>
+            <container type="Folder">24</container>
+            <unittitle>ECOSAT Branch Strategy Planning Document, </unittitle>
+            <unitdate calendar="gregorian" era="ce">1986</unitdate> 
+          </did>
+        </c02>
+        
+        <c02 level="file" id="c02-1.3.11.3.33" score="1" C-ORDER="96">
+          <did>
+            <container type="Box">3</container>
+            <container type="Folder">25</container>
+            <unittitle>ECOSAT Branch, Annual Report, </unittitle>
+            <unitdate calendar="gregorian" era="ce">1986</unitdate> 
+          </did>
+        </c02>
+        
+        <c02 level="file" id="c02-1.3.11.3.34" score="1" C-ORDER="97">
+          <did>
+            <container type="Box">3</container>
+            <container type="Folder">26</container>
+            <unittitle>NASA Earth Systems Science Overview, </unittitle>
+            <unitdate calendar="gregorian" era="ce">1986</unitdate> 
+          </did>
+        </c02>
+        
+        <c02 level="file" id="c02-1.3.11.3.35" score="1" C-ORDER="98">
+          <did>
+            <container type="Box">3</container>
+            <container type="Folder">27</container>
+            <unittitle>Rosters, </unittitle>
+            <unitdate calendar="gregorian" era="ce">1987-1996</unitdate> 
+          </did>
+        </c02>
+        
+        <c02 level="file" id="c02-1.3.11.3.36" score="1" C-ORDER="99">
+          <did>
+            <container type="Box">3</container>
+            <container type="Folder">28</container>
+            <unittitle>ECOSAT Branch, Annual Report, </unittitle>
+            <unitdate calendar="gregorian" era="ce">1988</unitdate> 
+          </did>
+        </c02>
+        
+        <c02 level="file" id="c02-1.3.11.3.37" score="1" C-ORDER="100">
+          <did>
+            <container type="Box">3</container>
+            <container type="Folder">29</container>
+            <unittitle>Newsletter: What on Earth, </unittitle>
+            <unitdate calendar="gregorian" era="ce">1989-1995 (1 of 2)</unitdate> 
+          </did>
+        </c02>
+        
+        <c02 level="file" id="c02-1.3.11.3.38" score="1" C-ORDER="101">
+          <did>
+            <container type="Box">3</container>
+            <container type="Folder">30</container>
+            <unittitle>Newsletter: What on Earth, </unittitle>
+            <unitdate calendar="gregorian" era="ce">1989-1995 (2 of 2)</unitdate> 
+          </did>
+        </c02>
+        
+        <c02 level="file" id="c02-1.3.11.3.39" score="1" C-ORDER="102">
+          <did>
+            <container type="Box">3</container>
+            <container type="Folder">31</container>
+            <unittitle>Memoranda and Correspondence: ECOSAT Branch, </unittitle>
+            <unitdate calendar="gregorian" era="ce">1989-1995</unitdate> 
+          </did>
+        </c02>
+        
+        <c02 level="file" id="c02-1.3.11.3.40" score="1" C-ORDER="103">
+          <did>
+            <container type="Box">3</container>
+            <container type="Folder">32</container>
+            <unittitle>Earth Systems Science Division, Annual Reports, </unittitle>
+            <unitdate calendar="gregorian" era="ce">1990</unitdate> 
+          </did>
+        </c02>
+        
+        <c02 level="file" id="c02-1.3.11.3.41" score="1" C-ORDER="104">
+          <did>
+            <container type="Box">3</container>
+            <container type="Folder">33</container>
+            <unittitle>Earth Systems Science Division, Annual Reports, </unittitle>
+            <unitdate calendar="gregorian" era="ce">1991-1993</unitdate> 
+          </did>
+        </c02>
+        
+        <c02 level="file" id="c02-1.3.11.3.42" score="1" C-ORDER="105">
+          <did>
+            <container type="Box">3</container>
+            <container type="Folder">34</container>
+            <unittitle>Earth Systems Science Division, Annual Reports, </unittitle>
+            <unitdate calendar="gregorian" era="ce">1994-1998</unitdate> 
+          </did>
+        </c02>
+        
+        <c02 level="file" id="c02-1.3.11.3.43" score="1" C-ORDER="106">
+          <did>
+            <container type="Box">3</container>
+            <container type="Folder">35</container>
+            <unittitle>Mission to Planet Earth Call for Proposals, </unittitle>
+            <unitdate calendar="gregorian" era="ce">1995</unitdate> 
+          </did>
+        </c02>
+        
+        <c02 level="file" id="c02-1.3.11.3.44" score="1" C-ORDER="107">
+          <did>
+            <container type="Box">3</container>
+            <container type="Folder">36</container>
+            <unittitle>An Exercise in Automated Analysis of Remotely Sensed Data, </unittitle>
+            <unitdate calendar="gregorian" era="ce">undated</unitdate> 
+          </did>
+        </c02>
+        
+        <c02 level="file" id="c02-1.3.11.3.45" score="1" C-ORDER="108">
+          <did>
+            <container type="Box">3</container>
+            <container type="Folder">37</container>
+            <unittitle>Center for Health Applications of Aerospace Related Technologies, </unittitle>
+            <unitdate calendar="gregorian" era="ce">undated</unitdate> 
+          </did>
+        </c02>
+        </c01>
+
+      
+      <c01 level="series" id="c01-1.3.11.4" score="1" C-ORDER="109">
+        <did>
+          <unittitle>III: NASA Ames Administrative Records, 1971-2001</unittitle>
+        </did>
+        
+        <c02 level="file" id="c02-1.3.11.4.2" score="1" C-ORDER="110">
+          <did>
+            <container type="Box">3</container>
+            <container type="Folder">38</container>
+            <unittitle>Clippings, Ephemera, </unittitle>
+            <unitdate calendar="gregorian" era="ce">1958-1995</unitdate> 
+          </did>
+        </c02>
+        
+        
+        <c02 level="file" id="c02-1.3.11.4.3" score="1" C-ORDER="111">
+          <did>
+            <container type="Box">3</container>
+            <container type="Folder">39</container>
+            <unittitle>Miscellaneous Project Management Documents, </unittitle>
+            <unitdate calendar="gregorian" era="ce">1968-1991</unitdate> 
+          </did>
+        </c02>
+        
+        <c02 level="file" id="c02-1.3.11.4.4" score="1" C-ORDER="112">
+          <did>
+            <container type="Box">3</container>
+            <container type="Folder">40</container>
+            <unittitle>Administrative Memoranda, </unittitle>
+            <unitdate calendar="gregorian" era="ce">1971-2001</unitdate> 
+          </did>
+        </c02>
+        
+        <c02 level="file" id="c02-1.3.11.4.5" score="1" C-ORDER="113">
+          <did>
+            <container type="Box">3</container>
+            <container type="Folder">41</container>
+            <unittitle>Personal, Commendations, </unittitle>
+            <unitdate calendar="gregorian" era="ce">1977-1983</unitdate> 
+          </did>
+        </c02>
+        
+        <c02 level="file" id="c02-1.3.11.4.6" score="1" C-ORDER="114">
+          <did>
+            <container type="Box">3</container>
+            <container type="Folder">42</container>
+            <unittitle>Active Job Order Numbers, Fiscal Year, </unittitle>
+            <unitdate calendar="gregorian" era="ce">1982</unitdate> 
+          </did>
+        </c02>
+        
+        <c02 level="file" id="c02-1.3.11.4.7" score="1" C-ORDER="115">
+          <did>
+            <container type="Box">3</container>
+            <container type="Folder">43</container>
+            <unittitle>NASA Excellence Teams at Ames Research Center: A Dynamic Approach to Productivity, </unittitle>
+            <unitdate calendar="gregorian" era="ce">1983-1988</unitdate> 
+          </did>
+        </c02>
+        
+        <c02 level="file" id="c02-1.3.11.4.8" score="1" C-ORDER="116">
+          <did>
+            <container type="Box">3</container>
+            <container type="Folder">44</container>
+            <unittitle>Ames Human Resources Division Publications, </unittitle>
+            <unitdate calendar="gregorian" era="ce">1985-1995</unitdate> 
+          </did>
+        </c02>
+        
+        <c02 level="file" id="c02-1.3.11.4.9" score="1" C-ORDER="117">
+          <did>
+            <container type="Box">3</container>
+            <container type="Folder">45</container>
+            <unittitle>NASA Strategic Plan, </unittitle>
+            <unitdate calendar="gregorian" era="ce">1992</unitdate> 
+          </did>
+        </c02>
+        
+        <c02 level="file" id="c02-1.3.11.4.10" score="1" C-ORDER="118">
+          <did>
+            <container type="Box">3</container>
+            <container type="Folder">46</container>
+            <unittitle>Awards, Length of Service Honors, </unittitle>
+            <unitdate calendar="gregorian" era="ce">1992-1999</unitdate> 
+          </did>
+        </c02>
+        
+        <c02 level="file" id="c02-1.3.11.4.11" score="1" C-ORDER="119">
+          <did>
+            <container type="Box">4</container>
+            <container type="Folder">1</container>
+            <unittitle>Human Resources-Related Publications and Memoranda, </unittitle>
+            <unitdate calendar="gregorian" era="ce">1994-1998</unitdate> 
+          </did>
+        </c02>
+        
+        <c02 level="file" id="c02-1.3.11.4.12" score="1" C-ORDER="120">
+          <did>
+            <container type="Box">4</container>
+            <container type="Folder">2</container>
+            <unittitle>Ames, "State of the Center," </unittitle>
+            <unitdate calendar="gregorian" era="ce">1996</unitdate> 
+          </did>
+        </c02>
+      </c01>
+      
+      <c01 level="series" id="c01-1.3.11.5" score="1" C-ORDER="121">
+        <did>
+          <unittitle>IV: General/Reference Publications, 1961-1999</unittitle>
+        </did>
+        
+        <c02 level="file" id="c02-1.3.11.5.2" score="1" C-ORDER="122">
+          <did>
+            <container type="Box">4</container>
+            <container type="Folder">3</container>
+            <unittitle>Missiles and Rockets: The Missile Space Weekly, November 27, </unittitle>
+            <unitdate calendar="gregorian" era="ce">1961</unitdate> 
+            
+          </did>
+        </c02>
+        
+        
+        <c02 level="file" id="c02-1.3.11.5.3" score="1" C-ORDER="123">
+          <did>
+            <container type="Box">4</container>
+            <container type="Folder">4</container>
+            <unittitle>Reference Publications, </unittitle>
+            <unitdate calendar="gregorian" era="ce">1962-1971 (1 of 5)</unitdate> 
+          </did>
+        </c02>
+        
+        <c02 level="file" id="c02-1.3.11.5.4" score="1" C-ORDER="124">
+          <did>
+            <container type="Box">4</container>
+            <container type="Folder">5</container>
+            <unittitle>Reference Publications, </unittitle>
+            <unitdate calendar="gregorian" era="ce">1962-1971 (2 of 5)</unitdate> 
+          </did>
+        </c02>
+        
+        <c02 level="file" id="c02-1.3.11.5.5" score="1" C-ORDER="125">
+          <did>
+            <container type="Box">4</container>
+            <container type="Folder">6</container>
+            <unittitle>Reference Publications, </unittitle>
+            <unitdate calendar="gregorian" era="ce">1962-1971 (3 of 5)</unitdate> 
+          </did>
+        </c02>
+        
+        <c02 level="file" id="c02-1.3.11.5.6" score="1" C-ORDER="126">
+          <did>
+            <container type="Box">4</container>
+            <container type="Folder">7</container>
+            <unittitle>Reference Publications, </unittitle>
+            <unitdate calendar="gregorian" era="ce">1962-1971 (4 of 5)</unitdate> 
+          </did>
+        </c02>
+        
+        <c02 level="file" id="c02-1.3.11.5.7" score="1" C-ORDER="127">
+          <did>
+            <container type="Box">4</container>
+            <container type="Folder">8</container>
+            <unittitle>Reference Publications, </unittitle>
+            <unitdate calendar="gregorian" era="ce">1962-1971 (5 of 5)</unitdate> 
+          </did>
+        </c02>
+        
+        <c02 level="file" id="c02-1.3.11.5.8" score="1" C-ORDER="128">
+          <did>
+            <container type="Box">4</container>
+            <container type="Folder">9</container>
+            <unittitle>Computer Program Documentation Time Phasing Program (TIPP), </unittitle>
+            <unitdate calendar="gregorian" era="ce">1968</unitdate> 
+          </did>
+        </c02>
+        
+        <c02 level="file" id="c02-1.3.11.5.9" score="1" C-ORDER="129">
+          <did>
+            <container type="Box">4</container>
+            <container type="Folder">10</container>
+            <unittitle>AIAA Journal Subject and Author Indexes, </unittitle>
+            <unitdate calendar="gregorian" era="ce">1968-1971</unitdate> 
+          </did>
+        </c02>
+        
+        <c02 level="file" id="c02-1.3.11.5.10" score="1" C-ORDER="130">
+          <did>
+            <container type="Box">4</container>
+            <container type="Folder">11</container>
+            <unittitle>Iliac IV, </unittitle>
+            <unitdate calendar="gregorian" era="ce">1969-1976</unitdate> 
+          </did>
+        </c02>
+        
+        <c02 level="file" id="c02-1.3.11.5.11" score="1" C-ORDER="131">
+          <did>
+            <container type="Box">4</container>
+            <container type="Folder">12</container>
+            <unittitle>NASA Human Interest Files, </unittitle>
+            <unitdate calendar="gregorian" era="ce">1971</unitdate> 
+          </did>
+        </c02>
+        
+        <c02 level="file" id="c02-1.3.11.5.12" score="1" C-ORDER="132">
+          <did>
+            <container type="Box">4</container>
+            <container type="Folder">13</container>
+            <unittitle>Safe Living with Less Energy, </unittitle>
+            <unitdate calendar="gregorian" era="ce">1974</unitdate> 
+          </did>
+        </c02>
+        
+        <c02 level="file" id="c02-1.3.11.5.13" score="1" C-ORDER="133">
+          <did>
+            <container type="Box">4</container>
+            <container type="Folder">14</container>
+            <unittitle>ARPANET, </unittitle>
+            <unitdate calendar="gregorian" era="ce">1974-1976</unitdate> 
+          </did>
+        </c02>
+        
+        <c02 level="file" id="c02-1.3.11.5.14" score="1" C-ORDER="134">
+          <did>
+            <container type="Box">4</container>
+            <container type="Folder">15</container>
+            <unittitle>Bits  Pieces, The Economics Press, Inc., </unittitle>
+            <unitdate calendar="gregorian" era="ce">1975</unitdate> 
+          </did>
+        </c02>
+        
+        <c02 level="file" id="c02-1.3.11.5.15" score="1" C-ORDER="135">
+          <did>
+            <container type="Box">4</container>
+            <container type="Folder">16</container>
+            <unittitle>Calspan Corporation Annual Report, </unittitle>
+            <unitdate calendar="gregorian" era="ce">1975</unitdate> 
+          </did>
+        </c02>
+        
+        <c02 level="file" id="c02-1.3.11.5.16" score="1" C-ORDER="136">
+          <did>
+            <container type="Box">4</container>
+            <container type="Folder">17</container>
+            <unittitle>CRAY I, </unittitle>
+            <unitdate calendar="gregorian" era="ce">1975</unitdate> 
+          </did>
+        </c02>
+        
+        <c02 level="file" id="c02-1.3.11.5.17" score="1" C-ORDER="137">
+          <did>
+            <container type="Box">4</container>
+            <container type="Folder">18</container>
+            <unittitle>Newsletter: Logist-O-Gram, </unittitle>
+            <unitdate calendar="gregorian" era="ce">1975</unitdate> 
+          </did>
+        </c02>
+        
+        <c02 level="file" id="c02-1.3.11.5.18" score="1" C-ORDER="138">
+          <did>
+            <container type="Box">4</container>
+            <container type="Folder">19</container>
+            <unittitle>Inventories of Irrigated Lands in Southern Idaho Using Various Remote Sensing Techniques, R.C. Heller and K.A. Johnson, </unittitle>
+            <unitdate calendar="gregorian" era="ce">September 30, 1977</unitdate> 
+          </did>
+        </c02>
+        
+        <c02 level="file" id="c02-1.3.11.5.19" score="1" C-ORDER="139">
+          <did>
+            <container type="Box">4</container>
+            <container type="Folder">20</container>
+            <unittitle>Newsletter: Institute for Advanced Computing, </unittitle>
+            <unitdate calendar="gregorian" era="ce">1977</unitdate> 
+          </did>
+        </c02>
+        
+        <c02 level="file" id="c02-1.3.11.5.20" score="1" C-ORDER="140">
+          <did>
+            <container type="Box">4</container>
+            <container type="Folder">21</container>
+            <unittitle>Institute for Advanced Computation, Magnetic Tape (I4) Facility Descriptions, </unittitle>
+            <unitdate calendar="gregorian" era="ce">1977-1978</unitdate> 
+          </did>
+        </c02>
+        
+        <c02 level="file" id="c02-1.3.11.5.21" score="1" C-ORDER="141">
+          <did>
+            <container type="Box">4</container>
+            <container type="Folder">22</container>
+            <unittitle>Institute for Advanced Computation, Unicon File System, </unittitle>
+            <unitdate calendar="gregorian" era="ce">1978</unitdate> 
+          </did>
+        </c02>
+        
+        <c02 level="file" id="c02-1.3.11.5.22" score="1" C-ORDER="142">
+          <did>
+            <container type="Box">4</container>
+            <container type="Folder">23</container>
+            <unittitle>Newsletter: Vax News, </unittitle>
+            <unitdate calendar="gregorian" era="ce">1978-1980</unitdate> 
+          </did>
+        </c02>
+        
+        <c02 level="file" id="c02-1.3.11.5.23" score="1" C-ORDER="143">
+          <did>
+            <container type="Box">4</container>
+            <container type="Folder">24</container>
+            <unittitle>Newsletter: NASA Newsline, </unittitle>
+            <unitdate calendar="gregorian" era="ce">1979</unitdate> 
+          </did>
+        </c02>
+        
+        <c02 level="file" id="c02-1.3.11.5.24" score="1" C-ORDER="144">
+          <did>
+            <container type="Box">4</container>
+            <container type="Folder">25</container>
+            <unittitle>CRAY-IS, Coding Techniques for Vectorization, </unittitle>
+            <unitdate calendar="gregorian" era="ce">1982</unitdate> 
+          </did>
+        </c02>
+        
+        <c02 level="file" id="c02-1.3.11.5.25" score="1" C-ORDER="145">
+          <did>
+            <container type="Box">4</container>
+            <container type="Folder">26</container>
+            <unittitle>Newsletter: CCF (Central Computer Facility) Bulletin, </unittitle>
+            <unitdate calendar="gregorian" era="ce">1982-1993</unitdate> 
+          </did>
+        </c02>
+        
+        <c02 level="file" id="c02-1.3.11.5.26" score="1" C-ORDER="146">
+          <did>
+            <container type="Box">4</container>
+            <container type="Folder">27</container>
+            <unittitle>Newsletter: NSSDC (National Space Science Data Center) News, </unittitle>
+            <unitdate calendar="gregorian" era="ce">1985-1990</unitdate> 
+          </did>
+        </c02>
+        
+        <c02 level="file" id="c02-1.3.11.5.27" score="1" C-ORDER="147">
+          <did>
+            <container type="Box">4</container>
+            <container type="Folder">28</container>
+            <unittitle>Newsletter: Life Lines, </unittitle>
+            <unitdate calendar="gregorian" era="ce">1986</unitdate> 
+          </did>
+        </c02>
+        
+        <c02 level="file" id="c02-1.3.11.5.28" score="1" C-ORDER="148">
+          <did>
+            <container type="Box">4</container>
+            <container type="Folder">29</container>
+            <unittitle>Newsletter: On Line, </unittitle>
+            <unitdate calendar="gregorian" era="ce">1987-1990 (1 of 2)</unitdate> 
+          </did>
+        </c02>
+        
+        <c02 level="file" id="c02-1.3.11.5.29" score="1" C-ORDER="149">
+          <did>
+            <container type="Box">4</container>
+            <container type="Folder">30</container>
+            <unittitle>Newsletter: On Line, </unittitle>
+            <unitdate calendar="gregorian" era="ce">1991 (2 of 2)</unitdate> 
+          </did>
+        </c02>
+        
+        <c02 level="file" id="c02-1.3.11.5.30" score="1" C-ORDER="150">
+          <did>
+            <container type="Box">4</container>
+            <container type="Folder">31</container>
+            <unittitle>Directory of Applications Software for Cray Supercomputers, </unittitle>
+            <unitdate calendar="gregorian" era="ce">1989</unitdate> 
+          </did>
+        </c02>
+        
+        <c02 level="file" id="c02-1.3.11.5.31" score="1" C-ORDER="151">
+          <did>
+            <container type="Box">4</container>
+            <container type="Folder">32</container>
+            <unittitle>Newsletter: On Target, </unittitle>
+            <unitdate calendar="gregorian" era="ce">1989-1991</unitdate> 
+          </did>
+        </c02>
+        
+        <c02 level="file" id="c02-1.3.11.5.32" score="1" C-ORDER="152">
+          <did>
+            <container type="Box">4</container>
+            <container type="Folder">33</container>
+            <unittitle>Newsletter: Interface, </unittitle>
+            <unitdate calendar="gregorian" era="ce">1990-1991</unitdate> 
+          </did>
+        </c02>
+        
+        <c02 level="file" id="c02-1.3.11.5.33" score="1" C-ORDER="153">
+          <did>
+            <container type="Box">4</container>
+            <container type="Folder">34</container>
+            <unittitle>The Importance of "Small" Science, G. Dalrymple, </unittitle>
+            <unitdate calendar="gregorian" era="ce">1991</unitdate> 
+          </did>
+        </c02>
+        
+        <c02 level="file" id="c02-1.3.11.5.34" score="1" C-ORDER="154">
+          <did>
+            <container type="Box">4</container>
+            <container type="Folder">35</container>
+            <unittitle>Newsletter: Sun News, </unittitle>
+            <unitdate calendar="gregorian" era="ce">1991</unitdate> 
+          </did>
+        </c02>
+        
+        <c02 level="file" id="c02-1.3.11.5.35" score="1" C-ORDER="155">
+          <did>
+            <container type="Box">4</container>
+            <container type="Folder">36</container>
+            <unittitle>Newsletter: Moffett Beacon, </unittitle>
+            <unitdate calendar="gregorian" era="ce">September-October 1994</unitdate> 
+          </did>
+        </c02>
+        
+        <c02 level="file" id="c02-1.3.11.5.36" score="1" C-ORDER="156">
+          <did>
+            <container type="Box">4</container>
+            <container type="Folder">37</container>
+            <unittitle>Newsletter: Tae + Bulletin, </unittitle>
+            <unitdate calendar="gregorian" era="ce">1995</unitdate> 
+          </did>
+        </c02>
+        
+        <c02 level="file" id="c02-1.3.11.5.37" score="1" C-ORDER="157">
+          <did>
+            <container type="Box">4</container>
+            <container type="Folder">38</container>
+            <unittitle>Astrobiology Workshop Final Report, </unittitle>
+            <unitdate calendar="gregorian" era="ce">1996</unitdate> 
+          </did>
+        </c02>
+        
+        <c02 level="file" id="c02-1.3.11.5.38" score="1" C-ORDER="158">
+          <did>
+            <container type="Box">4</container>
+            <container type="Folder">39</container>
+            <unittitle>Newsletter: NFFE, </unittitle>
+            <unitdate calendar="gregorian" era="ce">April-May 1996</unitdate> 
+          </did>
+        </c02>
+        
+        <c02 level="file" id="c02-1.3.11.5.39" score="1" C-ORDER="159">
+          <did>
+            <container type="Box">4</container>
+            <container type="Folder">40</container>
+            <unittitle>Y2K Desktop Readiness Initiative, </unittitle>
+            <unitdate calendar="gregorian" era="ce">1999</unitdate> 
+          </did>
+        </c02>
+        
+        <c02 level="file" id="c02-1.3.11.5.40" score="1" C-ORDER="160">
+          <did>
+            <container type="Box">4</container>
+            <container type="Folder">41</container>
+            <unittitle>The Eros Data Center, </unittitle>
+            <unitdate calendar="gregorian" era="ce">undated</unitdate> 
+          </did>
+        </c02>
+        
+        <c02 level="file" id="c02-1.3.11.5.41" score="1" C-ORDER="161">
+          <did>
+            <container type="Box">4</container>
+            <container type="Folder">42</container>
+            <unittitle>Hydrology and Geology of the Chicxulub Structure: A Possible Buried K/T Impact Crater in Yukatan, Mexico, Draft, </unittitle>
+            <unitdate calendar="gregorian" era="ce">undated</unitdate> 
+          </did>
+        </c02>
+        
+        
+        
+      </c01>
+
+                                 
+    </dsc>
+  
+      
+      
+      
+    
+  </archdesc>
+
+</ead>

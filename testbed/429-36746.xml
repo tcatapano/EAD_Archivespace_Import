@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+    <eadid countrycode="US" mainagencycode="US-UPB" publicid="-//L. Tom Perry Special Collections::19th Century Western  Mormon Manuscripts//TEXT(US::US-UPB::MSS SC 131::Smith family letters)//EN" encodinganalog="identifier">UPB_MSSSC131</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper encodinganalog="title">Register of Smith family letters
+                    
+                </titleproper>
+        <titleproper type="filing">Smith family letters</titleproper>
+        <author encodinganalog="creator">Finding aid prepared by Elisa Visick</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher encodinganalog="publisher">L. Tom Perry Special Collections</publisher>
+        <date encodinganalog="date">2010 June 14</date>
+        <address>
+          <addressline>1130 Harold B. Lee Library</addressline>
+          <addressline>Brigham Young University</addressline>
+          <addressline>Provo, Utah 84606</addressline>
+          <addressline>http://sc.lib.byu.edu/</addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2010-10-04T16:50-0600</date>
+            </creation>
+      <langusage>English</langusage>
+      <descrules>Archives, Personal Papers, and Manuscripts</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="file" type="inventory">
+    <did>
+      <unittitle encodinganalog="title">Smith family letters</unittitle>
+      <unitid encodinganalog="identifier">MSS SC 131</unitid>
+      <repository>
+        <corpname encodinganalog="publisher">L. Tom Perry Special Collections</corpname>
+        <subarea encodinganalog="publisher">19th Century Western  Mormon Manuscripts</subarea>
+        <address>
+          <addressline>1130 Harold B. Lee Library</addressline>
+          <addressline>Brigham Young University</addressline>
+          <addressline>Provo, Utah 84606</addressline>
+          <addressline>http://sc.lib.byu.edu/</addressline>
+        </address>
+      </repository>
+      <langmaterial>
+        <language langcode="eng" encodinganalog="language">English</language>
+      </langmaterial>
+      <physdesc>
+        <extent encodinganalog="format">4 items</extent>
+        <extent encodinganalog="format">(0.08 linear ft.)</extent>
+      </physdesc>
+      <unitdate normal="1842/1849" era="ce" calendar="gregorian" datechar="creation" type="bulk" encodinganalog="date">bulk 1842-1849</unitdate>
+      <unitdate normal="1842/1921" era="ce" calendar="gregorian" datechar="creation" type="inclusive" encodinganalog="date">1842-1921 (inclusive), 1842-1849 (bulk)</unitdate>
+      <langmaterial id="ref4">Materials are in English.</langmaterial>
+    </did>
+    <userestrict id="ref1" encodinganalog="rights">
+      <p>It is the responsibility of the researcher to obtain any necessary copyright clearances. Permission to publish material from Smith family letters must be obtained from the Supervisor of Reference Services and/or the L. Tom Perry Special Collections Board of Curators.</p>
+    </userestrict>
+    <accessrestrict id="ref2" encodinganalog="rights">
+      <p>Open for public research.</p>
+    </accessrestrict>
+    <prefercite id="ref3">
+      <p>Initial citation: MSS SC 131; Smith family letters; 19th Century Western and Mormon Manuscripts; L. Tom Perry Special Collections, Harold B. Lee Library, Brigham Young University. Following citations: MSS SC 131, LTPSC.</p>
+    </prefercite>
+    <appraisal id="ref5">
+      <p>Utah and the American West and LDS cultural, social, and religious history (19th century Western and Mormon Manuscripts collection development policy).</p>
+    </appraisal>
+    <scopecontent id="ref6" encodinganalog="description">
+      <p>ALS from Lewis Jones (Independence, Missouri) to Angeline Smith (Talladega, Alabama) informing her of her son, Lafayette's rescue from the Comanche Indians (1842); ALS from Frederick Forney Foscue (Rockford, Alabama) to John Smith (Cuero, Texas) telling of family happenings, with a very critical account of John P. Lee's marriage to a fourteen-year-old girl (1848); ALS from Sarah Meadows (Coosa, Alabama) to Maria Smith (Cuero, Texas) concerning family news, marriages, and deaty (1849); and an ALS from Carrie Smith (Colorado Springs, Colorado) to Mrs. M.B. Smith (Salt Lake City, Utah) regarding Lafayette Smith and family genealogy (1921).</p>
+    </scopecontent>
+    <custodhist id="ref7">
+      <p>Gift of Mrs. Ralph Stewart and June S. Stage, 1974.</p>
+    </custodhist>
+    <acqinfo id="ref8">
+      <p>Donated; 1974.</p>
+    </acqinfo>
+    <controlaccess>
+      <famname source="lcsh" encodinganalog="subject">Smith family</famname>
+      <subject source="lcsh" encodinganalog="subject">Comanche Indians</subject>
+      <subject source="cclanarrow" encodinganalog="subject">Home and Family</subject>
+      <subject source="umanarrow" encodinganalog="subject">Home and Family</subject>
+      <genreform source="lcsh" encodinganalog="type">Letters</genreform>
+      <subject source="cclabroad" encodinganalog="subject">Social Life and Customs</subject>
+      <subject source="umabroad" encodinganalog="subject">Social Life and Customs</subject>
+    </controlaccess>
+  </archdesc>
+</ead>

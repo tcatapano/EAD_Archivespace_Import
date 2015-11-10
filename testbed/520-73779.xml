@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead relatedencoding="MARC21">
+   <eadheader id="a0" audience="internal" findaidstatus="edited-full-draft" langencoding="iso639-2b" repositoryencoding="iso15511" countryencoding="iso3166-1" scriptencoding="iso15924" dateencoding="iso8601">
+      <eadid countrycode="us" mainagencycode="TxU-TH" encodinganalog="852$a">urn:taro:utexas.cah.00165</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>A Guide to the Peggy Sanford Carlin Papers, <date era="ce" calendar="gregorian">1949-1966</date>
+            </titleproper>
+         </titlestmt>
+      </filedesc>
+      <profiledesc>
+         <creation>Text converted and initial EAD tagging done by Kristy Sorensen on <date normal="20021115" era="ce" calendar="gregorian">November 15, 2002</date>
+         </creation>
+         <langusage>Finding aid written in <language>English.</language>
+         </langusage>
+      </profiledesc>
+      <revisiondesc>
+         <change>
+            <date>Tue Jul 22 15:28:24 CDT 2003</date>
+            <item>urn:taro:utexas.cah.00165 converted from EAD 1.0 to 2002 by v1to02.xsl (20030505).</item>
+         </change>
+      </revisiondesc>
+   </eadheader>
+   <archdesc type="inventory" level="collection">
+      <did id="a1">
+         <head>Descriptive Summary</head>
+         <origination label="Creator">
+            <persname encodinganalog="100" source="local">Carlin, Peggy Sanford</persname>
+         </origination>
+         <unittitle encodinganalog="245" label="Title">Carlin (Peggy Sanford) Papers</unittitle>
+         <unitdate encodinganalog="245$f" type="inclusive" normal="1949/1966" era="ce" calendar="gregorian">1949-1966</unitdate>
+         <unitid countrycode="us" repositorycode="TxU-TH" encodinganalog="099" label="Accession No.">2002-235</unitid>
+         <physdesc label="Extent" encodinganalog="300$a">1 ft., 3 in.</physdesc>
+         <repository encodinganalog="852$a" label="Repository">
+            <corpname>
+               <subarea>Dolph Briscoe Center for American History,</subarea>The University of Texas at Austin</corpname>
+         </repository>
+         <abstract label="Abstract" encodinganalog="520$a">Radio scripts written and broadcast in German to Austria by Peggy Sanford for Voice of America focusing on American customs, life, and culture between 1949 and 1966.</abstract>
+         <langmaterial label="Language">
+            <language langcode="ger">German.</language>
+         </langmaterial>
+      </did>
+      <scopecontent id="a3" encodinganalog="520">
+         <head>Scope and Contents</head>
+         <p>Radio scripts written and broadcast in German to Austria by Peggy Sanford for Voice of America focusing on American customs, life, and culture between 1949 and 1966. Programs include "Peggy Sanford Plaudert" ("Peggy Sandford Chats"), "Looking Across the Ocean," "Schauplatz Amerika," "Klatsch und Tratsch aus Amerika," movie columns and women's features.</p>
+      </scopecontent>
+      <accessrestrict id="a14" encodinganalog="506">
+         <head>Access Restrictions</head>
+         <p>Unrestricted access.</p>
+      </accessrestrict>
+      <prefercite id="a18" encodinganalog="524">
+         <head>Preferred Citation</head>
+         <p>Peggy Sanford Carlin Papers, 1949-1966, Dolph Briscoe Center for American History, The University of Texas at Austin</p>
+      </prefercite>
+      <controlaccess id="a12">
+         <head>Index Terms</head>
+         <controlaccess>
+            <head>Subjects</head>
+            <persname encodinganalog="600">Carlin, Peggy Sanford</persname>
+            <corpname encodinganalog="610">Voice of America (organization)</corpname>
+            <subject encodinganalog="650">Radio broadcasting</subject>
+            <subject encodinganalog="650">Radio journalism</subject>
+            <subject encodinganalog="650">Women in radio broadcasting</subject>
+         </controlaccess>
+      </controlaccess>
+      <dsc id="a23" type="in-depth">
+         <head>Detailed Description of the Collection</head>
+         <c01>
+            <did>
+               <unittitle>Voice of America scripts for the Austrian Unit by Peggy Sanford:</unittitle>
+            </did>
+            <c02>
+               <did>
+                  <container type="box">2J20</container>
+                  <unittitle>"Looking Across the Ocean,"</unittitle>
+                  <unitdate era="ce" calendar="gregorian">August 1949</unitdate>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">2J20</container>
+                  <unittitle>"Peggy Sanford Plaudert" ("Peggy Sanford Chats"):</unittitle>
+               </did>
+               <c03>
+                  <did>
+                     <container type="box">2J20</container>
+                     <unittitle>
+                        <unitdate normal="19491008/19510930" era="ce" calendar="gregorian">October 8, 1949-September 30, 1951</unitdate>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="box">2J21</container>
+                     <unittitle>
+                        <unitdate normal="19511005/19530924" era="ce" calendar="gregorian">October 5, 1951-September 24, 1953</unitdate>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="box">2J22</container>
+                     <unittitle>
+                        <unitdate normal="19531115/19550925" era="ce" calendar="gregorian">November 15, 1953-September 25, 1955</unitdate>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="box">2J22</container>
+                     <unittitle>Notes, </unittitle>
+                     <unitdate era="ce" calendar="gregorian">undated</unitdate>
+                  </did>
+               </c03>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">2J22</container>
+                  <unittitle>"Schauplatz Amerika," test scripts<unitdate era="ce" calendar="gregorian">1965</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">2J22</container>
+                  <unittitle>Movie columns by Peggy Sanford, <unitdate normal="1957/1958" era="ce" calendar="gregorian">1957-1958</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">2J22</container>
+                  <unittitle>Women's features by Peggy Sanford, <unitdate normal="1960/1966" era="ce" calendar="gregorian">1960-1966</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">2J22</container>
+                  <unittitle>"Klatsch und Tratsch aus Amerika,"<unitdate era="ce" calendar="gregorian">undated</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+         </c01>
+      </dsc>
+   </archdesc>
+</ead>

@@ -1,0 +1,193 @@
+<?xml version="1.0"?>
+<ead>
+  
+  
+  
+  
+  <eadheader xmlns:cdlpath="http://www.cdlib.org/path/" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" scriptencoding="iso15924" audience="internal" langencoding="iso639-2b" findaidstatus="edited-full-draft"><eadid countrycode="us" identifier="ark:/13030/kt3g5018f2" mainagencycode="CU-SB" publicid="PUBLIC -// University of California, Santa Barbara::Library::Dept. of Special Collections //TEXT (US::CU-SB::Charles H. Johnson Papers::Wyles Mss 36)//EN jonsnw36.sgm" cdlpath:parent="ark:/13030/kt2j49q7f8" cdlpath:grandparent="ark:/13030/tf7779p82v">jonsnw36.xml</eadid><filedesc>
+      <titlestmt>
+        <titleproper>Preliminary Guide to the Charles H. Johnson Papers</titleproper><titleproper type="filing">Johnson (Charles H.) Papers</titleproper>
+        <author>Processed by D. Tambo</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Department of Special Collections</publisher>
+        <address>
+          <addressline>Davidson Library</addressline>
+          <addressline>University of California, Santa Barbara</addressline>
+          <addressline>Santa Barbara, CA 93106</addressline>
+          <addressline>Phone: (805) 893-3062</addressline>
+          <addressline>Fax: (805) 893-5749</addressline>
+          <addressline>Email: special@library.ucsb.edu</addressline>
+          <addressline>URL: http://www.library.ucsb.edu/speccoll/speccoll.html</addressline>
+        </address>
+        <date calendar="gregorian" era="ce"> 2003</date>
+        <p>Regents of the University of California. All rights reserved.</p>
+      </publicationstmt>
+    </filedesc><profiledesc>
+      <creation>Machine-readable finding aid in EAD v. 1.0 derived from MS Word 2000 file by David C. Gartrell. Date of source: <date calendar="gregorian" era="ce">20 October 2003</date>. </creation>
+      <langusage>Description is in <language>English</language>.</langusage>
+    </profiledesc><revisiondesc>
+      <change>
+        <date calendar="gregorian" era="ce" normal="20040323">March 23, 2004</date>
+        <item>PUBLIC "-// University of California, Santa Barbara::Library::Dept. of Special Collections //TEXT (US::CU-SB::Charles H. Johnson Papers::Wyles Mss 36)//EN" "jonsnw36.sgm" converted from EAD 1.0 to 2002 by v1to02.cdl.xsl (2004-09-16).</item>
+      </change>
+    </revisiondesc></eadheader>
+  <frontmatter>
+    <titlepage>
+      <titleproper>Preliminary Guide to the Charles H. Johnson Papers, ca. 1858-1916</titleproper>
+      <num>Collection number: Wyles Mss 36</num>
+      <publisher>Department of Special Collections, Davidson Library, University of California, Santa Barbara<lb/><extptr linktype="simple" entityref="ucseal" show="embed" actuate="onload" inline="true"/></publisher>
+      <list type="simple">
+        <head>Contact Information:</head>
+        <item>Department of Special Collections</item>
+        <item>Davidson Library</item>
+        <item>University of California, Santa Barbara</item>
+        <item>Santa Barbara, CA 93106</item>
+        <item>Phone: (805) 893-3062</item>
+        <item>Fax: (805) 893-5749</item>
+        <item>Email: special@library.ucsb.edu</item>
+        <item>URL: http://www.library.ucsb.edu/speccoll/speccoll.html</item>
+      </list>
+      <list>
+        <defitem>
+          <label>Processed by: </label>
+          <item>D. Tambo</item>
+        </defitem>
+        <defitem>
+          <label>Date Completed: </label>
+          <item>
+            <date calendar="gregorian" era="ce">20 October 2003</date>
+          </item>
+        </defitem>
+        <defitem>
+          <label>Encoded by: </label>
+          <item>David C. Gartrell</item>
+        </defitem>
+      </list>
+      <p> 2003 Regents of the University of California. All rights reserved.</p>
+    </titlepage>
+  </frontmatter>
+  <archdesc xmlns:cdlpath="http://www.cdlib.org/path/" level="collection">
+    <did id="did-1.7.1">
+      <head>Descriptive Summary</head>
+      <unittitle label="Title">Charles H. Johnson Papers, </unittitle><unitdate calendar="gregorian" era="ce" type="inclusive">ca. 1858-1916</unitdate><unitdate calendar="gregorian" era="ce" type="bulk">(bulk 1861-1866)</unitdate>
+      <unitid label="Collection Number" countrycode="US" repositorycode="CUSB">Wyles Mss 36</unitid>
+      <origination label="Creator">
+        <persname source="aacr2">Johnson (Charles F.)</persname>
+      </origination>
+      <physdesc label="Extent">
+        <extent>.4 linear feet </extent>
+        <extent>(1 document box)</extent>
+      </physdesc>
+      <repository label="Repository">
+        <corpname>University of California, Santa Barbara. Library. <subarea>Department of Special Collections</subarea></corpname>
+        <address>
+          <addressline>Santa Barbara, California 93106-9010</addressline>
+        </address>
+      </repository>
+      <physloc label="Physical Location">Del Sur</physloc>
+      <langmaterial label="Language">
+        <language langcode="eng">English.</language>
+      </langmaterial>
+    </did>
+    <descgrp type="admininfo" id="descgrp-1.7.2">
+      <head>Administrative Information</head>
+      <accessrestrict>
+        <head>Access Restrictions</head>
+        <p>None.</p>
+      </accessrestrict>
+      <userestrict>
+        <head>Publication Rights</head>
+        <p>Copyright has not been assigned to the Department of Special Collections, UCSB. All requests for permission to publish or quote from manuscripts must be submitted in writing to the Head of Special Collections. Permission for publication is given on behalf of the Department of Special Collections as the owner of the physical items and is not intended to include or imply permission of the copyright holder, which also must be obtained.</p>
+      </userestrict>
+      <prefercite>
+        <head>Preferred Citation</head>
+        <p>Charles H. Johnson Papers. Wyles Mss 36. Department of Special Collections, Davidson Library, University of California, Santa Barbara.</p>
+      </prefercite>
+      <acqinfo>
+        <head>Acquisition Information</head>
+        <p>Purchase, 1977.</p>
+      </acqinfo>
+    </descgrp>
+    <scopecontent id="scopecontent-1.7.3">
+      <head>Scope and Content of Collection</head>
+      <p>The collection mainly contains correspondence from Charles H. Johnson, a Civil War Union soldier, Michigan Cavalry, 1st Regiment (Vol), Co. M, to his mother, 1858-1866, as well as some later correspondence, a few photographs, and miscellany, including a cookbook with medicinal recipes and Civil War diary entries from 1862.</p>
+    </scopecontent>
+    <dsc type="combined" id="dsc-1.7.4" score="1" C-ORDER="1" MAX-C-ORDER="13">
+      <head>Collection Contents</head>
+      <c01 level="file" id="c01-1.7.4.2" score="1" C-ORDER="2">
+        <did>
+          <container label="Box" type="Box-folder">1: 1</container>
+          <unittitle>1858-1860, <unitdate calendar="gregorian" era="ce">1858 - 1860</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 level="file" id="c01-1.7.4.3" score="1" C-ORDER="3">
+        <did>
+          <container label="Box" type="Box-folder">1: 1 - 9</container>
+          <unittitle>Correspondence (mainly to his mother)</unittitle>
+        </did>
+      </c01>
+      <c01 level="file" id="c01-1.7.4.4" score="1" C-ORDER="4">
+        <did>
+          <container label="Box" type="Box-folder">1: 2</container>
+          <unittitle>1861, <unitdate calendar="gregorian" era="ce">1861</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 level="file" id="c01-1.7.4.5" score="1" C-ORDER="5">
+        <did>
+          <container label="Box" type="Box-folder">1: 3</container>
+          <unittitle>1862, <unitdate calendar="gregorian" era="ce">1862</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 level="file" id="c01-1.7.4.6" score="1" C-ORDER="6">
+        <did>
+          <container label="Box" type="Box-folder">1: 4</container>
+          <unittitle>1863, <unitdate calendar="gregorian" era="ce">1863</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 level="file" id="c01-1.7.4.7" score="1" C-ORDER="7">
+        <did>
+          <container label="Box" type="Box-folder">1: 5</container>
+          <unittitle>1864, <unitdate calendar="gregorian" era="ce">1864</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 level="file" id="c01-1.7.4.8" score="1" C-ORDER="8">
+        <did>
+          <container label="Box" type="Box-folder">1: 6</container>
+          <unittitle>1865, <unitdate calendar="gregorian" era="ce">1865</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 level="file" id="c01-1.7.4.9" score="1" C-ORDER="9">
+        <did>
+          <container label="Box" type="Box-folder">1: 7</container>
+          <unittitle>1866, <unitdate calendar="gregorian" era="ce">1866</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 level="file" id="c01-1.7.4.10" score="1" C-ORDER="10">
+        <did>
+          <container label="Box" type="Box-folder">1: 8</container>
+          <unittitle>1868-1898, <unitdate calendar="gregorian" era="ce">1868 - 1898</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01 level="file" id="c01-1.7.4.11" score="1" C-ORDER="11">
+        <did>
+          <container label="Box" type="Box-folder">1: 9</container>
+          <unittitle>1904, n.d., n.d.</unittitle>
+        </did>
+      </c01>
+      <c01 level="file" id="c01-1.7.4.12" score="1" C-ORDER="12">
+        <did>
+          <container label="Box" type="Box-folder">1: 10</container>
+          <unittitle>Photographs (3 items, incl. 1 tintype, apparently of Johnson), n.d.</unittitle>
+        </did>
+      </c01>
+      <c01 level="file" id="c01-1.7.4.13" score="1" C-ORDER="13">
+        <did>
+          <container label="Box" type="Box-folder">1: 11</container>
+          <unittitle>Miscellany, <unitdate calendar="gregorian" era="ce">ca. 1862 - 1916</unitdate></unittitle>
+          <abstract> [Incl. marriage and death records, clippings, sewing kit, and cookbook [connection to Johnson unknown], which also contains medicinal recipes and 1862 Civil War diary entries]</abstract>
+        </did>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

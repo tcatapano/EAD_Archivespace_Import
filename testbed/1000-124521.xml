@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+  <eadheader langencoding="iso639-2b" scriptencoding="iso15924" relatedencoding="dc" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" id="a0">
+    <eadid countrycode="us" encodinganalog="identifier" mainagencycode="ohy" identifier="80444/xv27917" url="http://nwda.orbiscascade.org/ark:/80444/xv27917">OHY_Accession25127</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper encodinganalog="title">Photographs Of Ship Construction At The Standifer Wood Shipyard Located In Portland, Oregon<date encodinganalog="Date">1917-1918.</date></titleproper>
+        <titleproper type="filing" altrender="nodisplay">Photographs Of Ship Construction At The Standifer Wood Shipyard Located In Portland, Oregon</titleproper>
+        <author encodinganalog="creator">Finding aid prepared by MarcEdit</author>
+      <sponsor>Conversion of this record was made possible by a grant from the National Historic Publications and Records Commission, an agency of the U.S. National Archives and Records Administration.</sponsor></titlestmt>
+      <publicationstmt>
+        <publisher encodinganalog="publisher"> Oregon Historical Society Davies Family Research
+                Library<extptr actuate="onload" show="embed" href="http://ohs.org/images/logo_2.gif"/></publisher>
+        <date encodinganalog="date" type="inclusive" era="ce" calendar="gregorian" normal="2012">2012</date>
+        <address>
+          <addressline>Portland, OR  97205</addressline>
+          <addressline>503-306-5240</addressline>
+          <addressline>http://www.ohs.org/</addressline>
+          <addressline>libreference@ohs.org</addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation encodinganalog="description"> Finding aid encoded by MarcEdit <date era="ce" calendar="gregorian" normal="2012">2012</date></creation>
+      <langusage> Finding aid written in <language langcode="eng" encodinganalog="language" scriptcode="latn">English.</language></langusage>
+      <descrules>Finding aid based on DACS (<title render="italic">Describing Archives: A Content Standard</title>)</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection" type="inventory" relatedencoding="marc21">
+    <did id="a1">
+      <repository>
+        <corpname encodinganalog="852$a"> Oregon Historical Society <subarea encodinganalog="852$b">Research Library</subarea></corpname>
+        <address>
+          <addressline>Oregon Historical Society Davies Family Research Library</addressline>
+          <addressline>Portland, OR  97205</addressline>
+          <addressline>503-306-5240</addressline>
+          <addressline>http://www.ohs.org/</addressline>
+          <addressline>libreference@ohs.org</addressline>
+        </address>
+      </repository>
+      <unitid encodinganalog="099" countrycode="us" repositorycode="orhi">Accession 25127</unitid>
+      <unittitle encodinganalog="245$a" type="collection">Photographs of ship construction at the Standifer Wood Shipyard located in Portland, Oregon</unittitle>
+      <unitdate type="inclusive" era="ce" calendar="gregorian" encodinganalog="245$f" normal="1917/1918">1917-1918</unitdate>
+      <physdesc>
+        <extent encodinganalog="300$a">32</extent>
+        <physfacet encodinganalog="300$b">mounted photographs.</physfacet>
+      </physdesc>
+      <abstract encodinganalog="5203_">Thirty two (32) B  W photoprints of ship construction at the Standifer Wood Shipyard located in Kenton, Portland, Oregon.  </abstract>
+      <langmaterial>
+        <language encodinganalog="546" langcode="Eng">English</language>
+      </langmaterial>
+    </did>
+    <scopecontent encodinganalog="520$a">
+      <p>Thirty two (32) B  W photoprints of ship construction at the Standifer Wood Shipyard located in Kenton, Portland, Oregon.  Contains: nine (9) photos of the construction and launching of the SS Arvonia, Hull no.20, dates range from April to September 1918; fifteen (15) photos of the construction and launching of the SS Belding, Hull no. 19, dates range from October 1917 to November 1918; seven (7) photos of the construction and launching of the SS Montezuma, Hull no. 18, dates range from February to July 1918; one (1) photo of "Miss Vera Saunders" ready to christen the SS Umatilla, Hull no. 17, dated July 13, 1918; three (3) photoprints of the North Portland Yard (Kenton Wood Shipyard) of the G.M. Standifer Construction Company (aka Standifer - Clarkson Shipyard); dates range from January 1917 to July 1918.</p>
+    </scopecontent>
+    <acqinfo encodinganalog="541" id="a19">
+      <p>Acquired from the Port of Vancouver, Washington, April 2003, Library Accession 25127.</p>
+    </acqinfo>
+    <controlaccess id="a12">
+      <controlaccess>
+        <corpname source="lcnaf" rules="aacr2r" role="subject" encodinganalog="610">G. M. Standifer Construction Corporation -- Photographs.</corpname>
+      </controlaccess>
+      <controlaccess>
+        <corpname source="lcnaf" rules="aacr2r" role="subject" encodinganalog="610">Standifer-Clarkson Shipyard, Inc. (Portland, Or.) -- Photographs.</corpname>
+      </controlaccess>
+      <controlaccess>
+        <corpname source="lcnaf" rules="aacr2r" role="subject" encodinganalog="610">Standifer Wood Shipyard (Portland, Or.) -- Photographs.</corpname>
+      </controlaccess>
+      <controlaccess>
+        <subject source="lcsh" encodinganalog="650" rules="scm">Ships -- Oregon -- Portland -- Photographs.</subject>
+      </controlaccess>
+      <controlaccess>
+        <subject source="lcsh" encodinganalog="650" rules="scm">Shipyards -- Oregon -- Portland -- Photographs.</subject>
+      </controlaccess>
+      <controlaccess>
+        <subject source="lcsh" encodinganalog="650" rules="scm">World War, 1914-1918 -- Oregon -- Portland -- Photographs.</subject>
+      </controlaccess>
+      <controlaccess>
+        <genreform source="lcsh" encodinganalog="655">Photographs -- aat</genreform>
+      </controlaccess>
+      <controlaccess>
+        <subject altrender="nodisplay" source="nwda" encodinganalog="690">Oregon</subject>
+      </controlaccess>
+    </controlaccess>
+  </archdesc>
+</ead>

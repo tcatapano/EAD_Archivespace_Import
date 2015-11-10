@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+    <eadid countrycode="US" mainagencycode="US-UPB" publicid="-//L. Tom Perry Special Collections::19th Century Western  Mormon Manuscripts//TEXT(US::US-UPB::MSS 3881::Jeremiah Brown land records)//EN" encodinganalog="identifier">UPB_MSS3881</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper encodinganalog="title">Register of Jeremiah Brown land records, 
+                    <date calendar="gregorian" normal="1828" era="ce" encodinganalog="date" type="inclusive">1828</date>
+                    
+                </titleproper>
+        <titleproper type="filing">Brown (Jeremiah) land records</titleproper>
+        <author encodinganalog="creator">Finding aid prepared by Karen Glenn and H. Christine Broomhead, student processors and John Murphy, curator</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher encodinganalog="publisher">L. Tom Perry Special Collections</publisher>
+        <date encodinganalog="date">2009</date>
+        <address>
+          <addressline>1130 Harold B. Lee Library</addressline>
+          <addressline>Brigham Young University</addressline>
+          <addressline>Provo, Utah 84606</addressline>
+          <addressline>http://sc.lib.byu.edu/</addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2010-10-07T15:36-0600</date>
+            </creation>
+      <langusage>Finding aid written in 
+                <language langcode="eng" encodinganalog="language" scriptcode="Latn">English</language> in Latin script.</langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="item" type="inventory">
+    <did>
+      <unittitle encodinganalog="title">Jeremiah Brown land records</unittitle>
+      <unitid encodinganalog="identifier">MSS 3881</unitid>
+      <repository>
+        <corpname encodinganalog="publisher">L. Tom Perry Special Collections</corpname>
+        <subarea encodinganalog="publisher">19th Century Western  Mormon Manuscripts</subarea>
+        <address>
+          <addressline>1130 Harold B. Lee Library</addressline>
+          <addressline>Brigham Young University</addressline>
+          <addressline>Provo, Utah 84606</addressline>
+          <addressline>http://sc.lib.byu.edu/</addressline>
+        </address>
+      </repository>
+      <langmaterial>
+        <language langcode="eng" encodinganalog="language">English</language>
+      </langmaterial>
+      <physdesc>
+        <extent encodinganalog="format">1 folder</extent>
+        <extent encodinganalog="format">(0.1 linear ft.)</extent>
+      </physdesc>
+      <unitdate normal="1828/1828" era="ce" calendar="gregorian" encodinganalog="date">1828</unitdate>
+      <abstract id="ref1" encodinganalog="description">One piece of paper showing the land holdings of Jeremiah Brown in Ontario County, New York, 1828.</abstract>
+      <origination>
+        <persname source="lcnaf" encodinganalog="creator" role="">Brown, Jeremiah</persname>
+      </origination>
+    </did>
+    <bioghist id="ref2" encodinganalog="description">
+      <head>Biographical History</head>
+      <p>Jeremiah Brown apparently lived part of his life across the town line in Wayne County, and was a prominent Freemason there. It is clear that Brown was a substantial landowner, for the inventory slip preserved here shows that he left 14 2/5 lots (each presumably hundreds of acres) to his heirs. A careful comparison of the lot numbers listed shows that Brown held land scattered throughout the town, including the land immediately adjacent to the Joseph Smith farm (where the future founder of Mormonism would live on Manchester Lot No. 1 with his family and claim his first visionary experiences in the 1820s).</p>
+    </bioghist>
+    <scopecontent id="ref3" encodinganalog="description">
+      <p>Piece of paper, 3 x 8 inches, that says, 
+                <emph render="doublequote">Number of lots belonging to Jeremiah Brown’s Heirs in township of No 11. 3d range of townships in Phelps  Gorham purchase in Ontario County, state of New York now called Farmington,</emph> and listing lot numbers. On the back it says, 
+                <emph render="doublequote">Allen Brown Sent.</emph> From 1800s. Also a photocopied map, 11 x 16.5 inches, showing location of Smith home site in Manchester, New York, 1828.</p>
+    </scopecontent>
+    <odd id="ref4" encodinganalog="description">
+      <p>This unimpressive looking little piece of paper may be the only record that remains of the land left by one of the original dozen men who made the first purchase of property in the Phelps and Gorham Purchase. Enclosed is a photocopy of the relevant area from the 1929 Burr map of Ontario County, on which the lot numbers are indicated, making it possible to spot the precise properties listed on this original document.</p>
+    </odd>
+    <accessrestrict id="ref5" encodinganalog="rights">
+      <p>Open for public research.</p>
+    </accessrestrict>
+    <userestrict id="ref6" encodinganalog="rights">
+      <p>It is the responsibility of the researcher to obtain any necessary copyright clearances. Permission to publish material from the Jeremiah Brown land records must be obtained from the Supervisor of Reference Services and/or the L. Tom Perry Special Collections Board of Curators.</p>
+    </userestrict>
+    <prefercite id="ref7">
+      <p>Initial citation: MSS 3881; Jeremiah Brown land records; 19th Century Western and Mormon Manuscripts; L. Tom Perry Special Collections, Harold B. Lee Library, Brigham Young University.</p>
+      <p>Following citations: MSS 3881, LTPSC.</p>
+    </prefercite>
+    <custodhist id="ref8">
+      <p>Purchased from Rick Grunder in 1991.</p>
+    </custodhist>
+    <acqinfo id="ref9">
+      <p>Purchased; Rick Grunder; 1991.</p>
+    </acqinfo>
+    <processinfo id="ref10">
+      <p>Processed; H. Christine Broomhead; 25 April 2007.</p>
+    </processinfo>
+    <relatedmaterial id="ref11" encodinganalog="relation">
+      <p>Orsamus Turner, 
+                <emph render="italic">History of Pioneer Settlement of Phelps and Gorham’s Purchase</emph> . . . Rochester, 1851.</p>
+    </relatedmaterial>
+    <appraisal id="ref12">
+      <p>LDS cultural, social, and religious history (Collection development policy for 19th Century Western and Mormon Manuscripts, August 2007).</p>
+    </appraisal>
+    <controlaccess>
+      <persname source="lcnaf" encodinganalog="subject">Smith, Joseph, 1805-1844</persname>
+      <subject source="cclanarrow" encodinganalog="subject">Map</subject>
+      <subject source="umanarrow" encodinganalog="subject">Map</subject>
+      <subject source="cclabroad" encodinganalog="subject">Material Types</subject>
+      <subject source="umabroad" encodinganalog="subject">Material Types</subject>
+      <subject source="lcsh" encodinganalog="subject">Mormon Church--New York (State)--Manchester</subject>
+    </controlaccess>
+  </archdesc>
+</ead>

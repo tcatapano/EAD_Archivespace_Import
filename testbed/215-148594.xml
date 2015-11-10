@@ -1,0 +1,151 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead relatedencoding="marc21">
+	<eadheader audience="internal">
+		<eadid countrycode="US" mainagencycode="TxU-TH" encodinganalog="852$a"
+			>urn:taro:utexas.cah.01489</eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper>A Guide to the Woman's Commonwealth Archive, 1760-1991</titleproper>
+			</titlestmt>
+		</filedesc>
+		<profiledesc>
+			<creation>Original EAD encoding by Megan Mummey according to TARO 2 EAD 2002 Editing
+				Instructions. <date>April 2010</date></creation>
+			<langusage>Finding aid written in <language>English.</language></langusage>
+
+		</profiledesc>
+		<revisiondesc>
+			<change>
+				<date>May 2010</date>
+				<item>Revised by Megan Mummey.</item>
+			</change>
+		</revisiondesc>
+	</eadheader>
+	<archdesc type="inventory" level="collection">
+		<did>
+			<head>Descriptive Summary</head>
+			<origination label="Creator:">
+				<corpname encodinganalog="110">Woman's Commonwealth</corpname>
+			</origination>
+			<unittitle encodinganalog="245" label="Title:">Woman's Commonwealth Archive</unittitle>
+			<unitdate type="inclusive" encodinganalog="245" label="Dates:">1760-1991</unitdate>
+			<langmaterial label="Language:">Materials are written in <language langcode="eng"
+					>English.</language></langmaterial>
+			<unitid label="Accession No.:">88-179; 92-204; 95-073; 97-038</unitid>
+			<physdesc label="Extent:" encodinganalog="300$a">4 ft., 10 in.</physdesc>
+
+			<repository label="Repository:" encodinganalog="852$a">
+				<extref href="http://www.cah.utexas.edu" show="new" actuate="onrequest">
+					<corpname><subarea> Dolph Briscoe Center for American History, </subarea>The
+						University of Texas at Austin</corpname></extref></repository>
+			<abstract label="Abstract:" encodinganalog="520$a">Correspondence, ledgers, photographs,
+				journals, company records, newspaper clippings, membership lists, account books,
+				legal documents, financial records, greeting cards, and miscellaneous printed
+				material relating to the history, development, membership, and activities of the
+				Woman’s Commonwealth and to Martha McWhirter, organization president, during its
+				years in Belton, Texas, and Washington, D.C. (ca. 1860s-1920s). </abstract>
+
+		</did>
+		<bioghist encodinganalog="545">
+			<head>Historical Note</head>
+			<p>The Woman’s Commonwealth originated in Belton, Texas, in the 1860s, as the Belton
+				Woman’s Commonwealth, a commune founded on the principles of religious
+				perfectionism, celibacy, and Wesleyan sanctificationism. The Commonwealth was
+				primarily composed of middle-class Protestant women. Martha McWhirter, who founded a
+				Methodist woman’s study and prayer group, had a religious vision and proclaimed that
+				she was sanctified and encouraged other women to seek divine revelations. Many of
+				these women had to deal with controlling husbands prone to drinking and physical
+				abuse. McWhirter counseled these women to complete their domestic duties, but to
+				limit social and sexual interactions with their unsanctified husbands. Eventually an
+				alternative communal life developed, which involved women living apart from their
+				husbands and making a living by selling eggs and dairy products, doing laundry,
+				working as domestic servants, and running a boarding house/hotel. The Commonwealth’s
+				membership averaged around thirty people, mostly women and their children. </p>
+			<p>The Belton Woman’s Commonwealth became administratively and financially independent
+				by the early 1880s. Though initially the Belton community blamed Martha McWhirter
+				for various separations and divorces, the Woman’s Commonwealth became more popular
+				and accepted during the next two decades. In 1899 the women retired from their
+				various business ventures in Belton, and purchased lands in Washington D. C. and
+				Maryland. They incorporated in 1902 as the Woman’s Commonwealth of Washington. When
+				Martha McWhirter died in 1904, Fannie Holtzclaw became the Commonwealth’s leader.
+				The Woman’s Commonwealth endured until 1983 when their last member passed away. </p>
+			<p><emph render="bold">Source: </emph>
+				<emph render="italic">Handbook of Texas Online</emph>, s.v. Belton Woman’s
+				Commonwealth, http://www.tshaonline.org/handbook/online/articles/BB/vib1.html
+				(accessed May 19, 2010).</p>
+
+		</bioghist>
+		<scopecontent encodinganalog="520">
+			<head>Scope and Contents</head>
+			<p>Correspondence, ledgers, photographs, journals, company records, newspaper clippings,
+				membership lists, account books, legal documents, financial records, greeting cards,
+				and miscellaneous printed material compose the Woman’s Commonwealth Archive
+				(1760-1991), which documents the history, development, membership, and activities of
+				the Woman’s Commonwealth during its years in Belton, Texas, and Washington, D.C.
+				(ca. 1860s-1920s). Furthermore, the archive pertains to the Commonwealth’s founder
+				and first president Martha McWhirter. The collection primarily consists of
+				correspondence and records, dealing with the Commonwealth’s economic situation and
+				legal issues. Additionally, the collection contains Martha McWhirter’s
+				correspondence and a small amount of unidentified tintypes and photographs.</p>
+
+		</scopecontent>
+		<accessrestrict encodinganalog="506">
+			<head>Access Restrictions</head>
+			<p>The collection is open for research use.</p>
+		</accessrestrict>
+		<userestrict encodinganalog="540">
+			<head>Use Restrictions</head>
+			<p>Copyright restrictions apply. Some literary rights are restricted. </p>
+		</userestrict>
+		<controlaccess>
+			<head>Index Terms</head>
+			<controlaccess>
+				<head>Subjects (Persons)</head>
+				<persname encodinganalog="600">McWhirter, Martha, 1827-1904--Archives.</persname>
+				<persname encodinganalog="600">Holtzclaw, Fannie--Archives.</persname>
+			</controlaccess>
+			<controlaccess>
+				<head>Subjects (Organizations)</head>
+				<corpname encodinganalog="610">Woman's Commonwealth (Belton,
+					Tex.)--Archives.</corpname>
+				<corpname encodinganalog="610">Woman's Commonwealth (Belton,
+					Tex.)--History</corpname>
+			</controlaccess>
+			<controlaccess>
+				<head>Subjects</head>
+				<subject encodinganalog="650">Collective settlements--United
+					States--History.</subject>
+				<subject encodinganalog="650">Methodists--United States--History. </subject>
+			</controlaccess>
+			<controlaccess>
+				<head>Places</head>
+				<geogname encodinganalog="651" source="lcnaf">Belton (Tex.)--History.</geogname>
+				<geogname encodinganalog="651" source="lcnaf">Washington (D.C.)</geogname>
+				<geogname encodinganalog="651" source="lcnaf">Mount Pleasant (Md.)</geogname>
+
+			</controlaccess>
+		</controlaccess>
+		<prefercite encodinganalog="524">
+			<head>Preferred Citation</head>
+			<p>Woman's Commonwealth Archive, 1760-1991, Dolph Briscoe Center for American History,
+				The University of Texas at Austin.</p>
+		</prefercite>
+		<separatedmaterial>
+			<head>Separated Material</head>
+			<p>Some material has been separated to the Artifact Collection.</p>
+		</separatedmaterial>
+		<processinfo>
+			<head>Processing Information</head>
+			<p>Basic processing and cataloging of this collection was supported with funds from the National Historical Publications and Records Commission (NHPRC) for the Briscoe Center’s <emph render="doublequote">History Revealed: Bringing Collections to Light</emph> project, 2009-2011.</p>
+		</processinfo>
+		<dsc type="in-depth">
+			<head>Detailed Description of the Papers</head>
+			<c01 level="series" id="ser1">
+				<did>
+					<unittitle>Contact repository for inventory</unittitle>
+				</did>
+			</c01>
+		</dsc>
+	</archdesc>
+</ead>

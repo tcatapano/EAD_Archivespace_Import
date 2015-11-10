@@ -1,0 +1,3338 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead relatedencoding="marc21"> 
+<eadheader audience="internal" langencoding="ISO639-2b"> 
+  <eadid countrycode="us" mainagencycode="TxU-TH"
+	encodinganalog="852$a">urn:taro:utexas.cah.00237</eadid> 
+  <filedesc> 
+	 <titlestmt> 
+		<titleproper>A Guide to the Harry Atwood Film Collection,
+		  1949-1995.</titleproper> 
+	 </titlestmt> 
+  </filedesc> 
+  <profiledesc> 
+	 <creation>Edited with XMetal 2 by Cherie Baker and Evan Hocker according to
+		instructions in 
+		<title>TARO 2 EAD 2002 Editing Instructions.</title>
+		<date>20030825</date>.</creation> 
+	 <langusage>Finding aid written in
+		<language>English.</language>.</langusage> 
+  </profiledesc> 
+</eadheader> 
+<archdesc level="collection" type="Inventory"> 
+  <did> 
+	 <head>Descriptive Summary</head>
+	 <origination label="Creator">
+		<persname source="local" encodinganalog="100">Atwood,
+		  Harry</persname></origination>
+	 <unittitle label="Title:" encodinganalog="245">Harry Atwood Film
+		Collection</unittitle> 
+	 <unitdate label="Dates:" type="inclusive"
+	  encodinganalog="245$f">1949-1995</unitdate><langmaterial
+	 label="Language">Materials are in <language
+	 langcode="eng">English.</language></langmaterial>
+	 <physdesc label="Extent:" encodinganalog="300$a">25 ft.</physdesc> 
+	 <repository label="Repository" encodinganalog="852$a">
+		<extref href="http://www.cah.utexas.edu/" show="new" actuate="onrequest">
+		  <corpname><subarea>Dolph Briscoe Center for American History, </subarea>The
+			 University of Texas at Austin</corpname></extref></repository>
+	 <abstract label="Abstract" encodinganalog="520$a">Short documentary films
+		which yield sensory impressions of the visions of the creator.</abstract>
+  </did> 
+  <bioghist encodinganalog="545">
+	 <head>Biographical Note</head><p>Harry Atwood is a graduate of the
+		University of Arizona from which he holds a Bachelors and a Masters in Music
+		and a film graduate from the University of Southern California in Los Angeles.
+		He has made over sixty films, but only calls thirty his own creations or
+		impressions. His focus has shifted from people to nature, because he says it
+		has so much more to say. His films have won blue ribbons from the American Film
+		Festival and Golden Eagle Awards for international non-theatrical events.</p>
+  </bioghist>
+  <scopecontent encodinganalog="520"> 
+	 <head>Scope and Contents</head><p>Short films created by award-winning
+		documentary filmmaker Harry Atwood combine music and sounds of nature with
+		visual images to express his impressions of specific places or events. Films
+		include: 
+	 <title render="doublequote">The Great Unfenced</title> (1963), about a
+	 cattle station in the outback of western Australia; 
+	 <title render="doublequote">Paths in the Wilderness</title> (1976),
+	 concerning the missions of Padre Kino in southern Arizona and northern Mexico;
+	 and 
+	 <title render="doublequote">High on the Wild</title> (1987), impressions of
+	 the Alaska wilderness and its dramatic landscape. The collection also contains
+	 Atwood's notes relating to each film and on-location photographs and sound
+	 recordings.</p> 
+  </scopecontent> 
+  <arrangement encodinganalog="351$">
+	 <head>Arrangement</head><p>The materials are listed by title of film or
+		event filmed.</p><p>The dates given for the films refer to the date of release;
+		filming itself usually occurred one year prior to the date listed.</p>
+  </arrangement>
+  <accessrestrict encodinganalog="506"> 
+	 <head>Access Restriction</head><p>Restricted access to portions of this
+		collection; all copyright restrictions apply. Portions of this collection are
+		stored remotely. Advance notice is required for retrrieval. Contact repository
+		for retrieval.</p> 
+  </accessrestrict>
+  <userestrict encodinganalog="540"> 
+	 <head>Use Restrictions</head><p>Advance notice required for viewing
+		videocassettes. Tapes may be copied for research purposes for a fee.</p> 
+  </userestrict> 
+  <relatedmaterial>
+	 <head>Related Material</head><p>The original master videotape versions of
+		Harry Atwood's films are located in the Consolidated Film Industries laboratory
+		in Los Angeles, California.</p>
+  </relatedmaterial>
+  <prefercite encodinganalog="524"> 
+	 <head>Preferred Citation</head><p>Harry Atwood Film Collection, 1949-1995,
+		Dolph Briscoe Center for American History, The University of Texas at Austin.</p> 
+  </prefercite> 
+  <controlaccess> 
+	 <head>Index Terms</head> 
+	 <controlaccess> 
+		<head>Subjects (Persons)</head> 
+		<persname source="local" encodinganalog="600">Atwood, Harry W., 1927-
+		  --Archives.<?xm-replace_text {persname}?></persname> 
+	 </controlaccess>
+	 <controlaccess>
+		<head>Subjects</head>
+		<subject source="local" encodinganalog="650">Alcoholism.</subject> 
+		<subject encodinganalog="650"
+		 source="local">Architecture--Peru.</subject> 
+		<subject source="local"
+		 encodinganalog="650">Architecture--Mexico.</subject> 
+		<subject encodinganalog="650">Carnival--Brazil.</subject> 
+		<subject encodinganalog="650">Dancing--Africa.</subject> 
+		<subject encodinganalog="650">Graphic arts--United States.</subject> 
+		<subject encodinganalog="650">Motion picture music--United
+		  States.</subject> 
+		<subject encodinganalog="650">Muczynski, Robert, 1929-,
+		  composer.</subject> 
+		<subject encodinganalog="650">Music--Africa.</subject> 
+		<subject encodinganalog="650">Music--Brazil.</subject> 
+		<subject encodinganalog="650">Painting--United States.</subject> 
+		<subject encodinganalog="650">Ranch life--Arizona.</subject> 
+		<subject encodinganalog="650">Ranch life--Australia.</subject> 
+		<subject encodinganalog="650">Storms--Hawaii.</subject> 
+		<subject encodinganalog="650">Volcanoes--Hawaii.</subject> 
+		<subject encodinganalog="650">Volcanoes--Sicily (Italy)</subject> 
+	 </controlaccess> 
+  </controlaccess> 
+  <dsc type="in-depth"> 
+	 <head>Detailed Description</head>
+	 <c01> 
+		<did> <container type="Box">3W117</container> 
+		  <unitid>I.</unitid> 
+		  <unittitle>UNRESTRICTED MATERIALS</unittitle> 
+		</did> 
+		<c02> 
+		  <did> 
+			 <physloc>At Sid Richardson Hall:</physloc> <container
+			 type="Box">3W117</container> 
+			 <unittitle>VIDEOS OF FILMS</unittitle> 
+		  </did> 
+		</c02> 
+		<c02> 
+		  <did> <container type="Box">3W117</container> 
+			 <unittitle>Harry Atwood Film Collection:</unittitle> 
+		  </did> 
+		  <c03> 
+			 <did> <container type="Box">3W117</container> 
+				<unittitle>SEVENTEEN FILMS ON DIGITAL VIDEO DISCS
+				  (DVD):</unittitle> 
+			 </did> 
+			 <c04> 
+				<did> <container type="Box">3W117</container> 
+				  <unittitle>Volume 1:</unittitle> 
+				</did> 
+				<c05> 
+				  <did> <container type="Box">3W117</container> 
+					 <unittitle>
+						<title render="italic">Journey Through
+						  Eden</title></unittitle> 
+				  </did> 
+				</c05> 
+				<c05> 
+				  <did> <container type="Box">3W117</container> 
+					 <unittitle>
+						<title render="italic">The Back of Beyond</title></unittitle>
+					 
+				  </did> 
+				</c05> 
+				<c05> 
+				  <did> <container type="Box">3W117</container> 
+					 <unittitle>
+						<title render="italic">Adagio</title></unittitle> 
+				  </did> 
+				</c05> 
+				<c05> 
+				  <did> <container type="Box">3W117</container> 
+					 <unittitle>
+						<title render="italic">Remembrance</title></unittitle> 
+				  </did> 
+				</c05> 
+			 </c04> 
+			 <c04> 
+				<did> <container type="Box">3W117</container> 
+				  <unittitle>Volume 2:</unittitle> 
+				</did> 
+				<c05> 
+				  <did> <container type="Box">3W117</container> 
+					 <unittitle>
+						<title render="italic">Paths in the
+						  Wilderness</title></unittitle> 
+				  </did> 
+				</c05> 
+				<c05> 
+				  <did> <container type="Box">3W117</container> 
+					 <unittitle>
+						<title render="italic">Fever</title></unittitle> 
+				  </did> 
+				</c05> 
+				<c05> 
+				  <did> <container type="Box">3W117</container> 
+					 <unittitle>
+						<title render="italic">Fantasmas</title></unittitle> 
+				  </did> 
+				</c05> 
+				<c05> 
+				  <did> <container type="Box">3W117</container> 
+					 <unittitle>
+						<title render="italic">Fire on the Sea</title></unittitle> 
+				  </did> 
+				</c05> 
+			 </c04> 
+			 <c04> 
+				<did> <container type="Box">3W117</container> 
+				  <unittitle>Volume 3:</unittitle> 
+				</did> 
+				<c05> 
+				  <did> <container type="Box">3W117</container> 
+					 <unittitle>
+						<title render="italic">The Great Unfenced</title></unittitle>
+					 
+				  </did> 
+				</c05> 
+				<c05> 
+				  <did> <container type="Box">3W117</container> 
+					 <unittitle>
+						<title render="italic">Yankee Painter</title></unittitle> 
+				  </did> 
+				</c05> 
+				<c05> 
+				  <did> <container type="Box">3W117</container> 
+					 <unittitle>
+						<title render="italic">Cajititlan</title></unittitle> 
+				  </did> 
+				</c05> 
+				<c05> 
+				  <did> <container type="Box">3W117</container> 
+					 <unittitle>
+						<title render="italic">Bellota</title></unittitle> 
+				  </did> 
+				</c05> 
+			 </c04> 
+			 <c04> 
+				<did> <container type="Box">3W117</container> 
+				  <unittitle>Volume 4:</unittitle> 
+				</did> 
+				<c05> 
+				  <did> <container type="Box">3W117</container> 
+					 <unittitle>
+						<title render="italic">Tiger by the Tail</title></unittitle> 
+				  </did> 
+				</c05> 
+				<c05> 
+				  <did> <container type="Box">3W117</container> 
+					 <unittitle>
+						<title render="italic">Genesis</title></unittitle> 
+				  </did> 
+				</c05> 
+				<c05> 
+				  <did> <container type="Box">3W117</container> 
+					 <unittitle>
+						<title render="italic">Mokum</title></unittitle> 
+				  </did> 
+				</c05> 
+				<c05> 
+				  <did> <container type="Box">3W117</container> 
+					 <unittitle>
+						<title render="italic">Winter Light</title></unittitle> 
+				  </did> 
+				</c05> 
+				<c05> 
+				  <did> <container type="Box">3W117</container> 
+					 <unittitle>
+						<title render="italic">Sagaland</title></unittitle> 
+				  </did> 
+				</c05> 
+			 </c04> 
+		  </c03> 
+		  <c03> 
+			 <did> <container type="Box">3Y342</container> 
+				<unittitle>1/2 inch VHS videocassettes:</unittitle> 
+			 </did> 
+			 <c04> 
+				<did> <container type="Box">3Y342</container> 
+				  <unittitle>
+					 <title render="italic">*Adagio,</title> impressions of Venice
+					 in winter, 
+					 <unitdate>1984</unitdate> [from first master] (VHS from
+					 <emph render="underline">2nd Master</emph> is best; see pg. 2).</unittitle> 
+				</did> 
+			 </c04> 
+			 <c04> 
+				<did> <container type="Box">3Y342</container> 
+				  <unittitle>
+					 <title render="italic">American Realists,</title> a survey of
+					 realism in American painting from the 18th century into the 20th century, 
+					 <unitdate>1965</unitdate></unittitle> 
+				</did> 
+			 </c04> 
+			 <c04> 
+				<did> <container type="Box">3Y342</container> 
+				  <unittitle>
+					 <title render="italic">Back of Beyond,</title> life in the
+					 Hebridean Islands off the west coast of Scotland, 
+					 <unitdate>1983</unitdate></unittitle> 
+				</did> 
+			 </c04> 
+			 <c04> 
+				<did> <container type="Box">3Y342</container> 
+				  <unittitle>
+					 <title render="italic">Bellota,</title> a month long roundup on
+					 a large cattle ranch in southern Arizona, 
+					 <unitdate>1969</unitdate></unittitle> 
+				</did> 
+			 </c04> 
+			 <c04> 
+				<did> <container type="Box">3Y342</container> 
+				  <unittitle>
+					 <title render="italic">Cajititlan,</title> life in a Mestizo
+					 village in Jalisco, Mexico, 
+					 <unitdate>1965</unitdate></unittitle> 
+				</did> 
+			 </c04> 
+			 <c04> 
+				<did> <container type="Box">3Y342</container> 
+				  <unittitle>
+					 <title render="italic">Charles Burchfield,</title> 
+					 <unitdate>1966</unitdate></unittitle> 
+				</did> 
+			 </c04> 
+			 <c04> 
+				<did> <container type="Box">3Y342</container> 
+				  <unittitle>
+					 <title render="italic">The Clowns Never Laugh,</title> 
+					 <unitdate>1967</unitdate></unittitle> 
+				</did> 
+			 </c04> 
+			 <c04> 
+				<did> <container type="Box">3Y342</container> 
+				  <unittitle>
+					 <title render="italic">Fantasmas,</title> remains of the Inca
+					 Empire in an awesome setting, the Andes of Peru, 
+					 <unitdate>1978</unitdate></unittitle> 
+				</did> 
+			 </c04> 
+			 <c04> 
+				<did> <container type="Box">3Y342</container> 
+				  <unittitle>
+					 <title render="italic">**Fever,</title> Carnival in Bahia,
+					 Brazil, 
+					 <unitdate>1977</unitdate> (best VHS is from
+					 <emph render="underline">extra 3/4″</emph>; see pg. 3)</unittitle> 
+				</did> 
+			 </c04> 
+			 <c04> 
+				<did> <container type="Box">3Y342</container> 
+				  <unittitle>
+					 <title render="italic">Fire on the Sea,</title> the people (and
+					 volcanoes) of the islands of Sicily and Stromboli, 
+					 <unitdate>1980</unitdate></unittitle> 
+				</did> 
+			 </c04> 
+			 <c04> 
+				<did> <container type="Box">3Y342</container> 
+				  <unittitle>
+					 <title render="italic">Genesis,</title> forces of nature filmed
+					 on the islands of Maui and Hawaii: sea, tropical storm and eruption of the
+					 volcano, Kilauea, 
+					 <unitdate>1985</unitdate></unittitle> 
+				</did> 
+			 </c04> 
+			 <c04> 
+				<did> <container type="Box">3Y342</container> 
+				  <unittitle>
+					 <title render="italic">The Great Unfenced,</title> a cattle
+					 station on the Great Western Desert of Australia, 
+					 <unitdate>1963</unitdate></unittitle> 
+				</did> 
+			 </c04> 
+			 <c04> 
+				<did> <container type="Box">3Y343</container> 
+				  <unittitle>
+					 <title render="italic">High on the Wild,</title> some
+					 impressions of Alaska, sea life, glaciers, etc., 
+					 <unitdate>1987</unitdate></unittitle> 
+				</did> 
+			 </c04> 
+			 <c04> 
+				<did> <container type="Box">3Y343</container> 
+				  <unittitle>
+					 <title render="italic">John Marin,</title> the great oils and
+					 watercolors of the brilliant American painter, 
+					 <unitdate>1968</unitdate></unittitle> 
+				</did> 
+			 </c04> 
+			 <c04> 
+				<did> <container type="Box">3Y343</container> 
+				  <unittitle>
+					 <title render="italic">Journey Through Eden,</title> tribal
+					 music and dance, landscape and animals of East Africa, 
+					 <unitdate>1975</unitdate></unittitle> 
+				</did> 
+			 </c04> 
+			 <c04> 
+				<did> <container type="Box">3Y343</container> 
+				  <unittitle>
+					 <title render="italic">Mokum,</title> Amsterdam in autumn,
+					 impressions of a beautiful, unique and lively city, 
+					 <unitdate>1990</unitdate></unittitle> 
+				</did> 
+			 </c04> 
+			 <c04> 
+				<did> <container type="Box">3Y343</container> 
+				  <unittitle>
+					 <title render="italic">Paths in the Wilderness,</title> Padre
+					 Kino and his missions in Sonora, Mexico, and southern Arizona, 
+					 <unitdate>1976</unitdate></unittitle> 
+				</did> 
+			 </c04> 
+			 <c04> 
+				<did> <container type="Box">3Y343</container> 
+				  <unittitle>
+					 <title render="italic">Remembrance,</title> filmed in
+					 Copenhagen, Denmark, 
+					 <unitdate>1992</unitdate></unittitle> 
+				</did> 
+			 </c04> 
+			 <c04> 
+				<did> <container type="Box">3Y343</container> 
+				  <unittitle>
+					 <title render="italic">Sagaland,</title> some impressions of
+					 Iceland, Europe's greatest waterfalls, glacier and fantastic landscapes, 
+					 <unitdate>1989</unitdate></unittitle> 
+				</did> 
+			 </c04> 
+			 <c04> 
+				<did> <container type="Box">3Y343</container> 
+				  <unittitle>
+					 <title render="italic">Tiger by the Tail,</title> a 72-year-old
+					 alcoholic's road to recovery, 
+					 <unitdate>1970</unitdate></unittitle> 
+				</did> 
+			 </c04> 
+			 <c04> 
+				<did> <container type="Box">3Y343</container> 
+				  <unittitle>
+					 <title render="italic">Winter Light,</title> some impressions
+					 of Norway from Oslo to Bergen, 
+					 <unitdate>1991</unitdate></unittitle> 
+				</did> 
+			 </c04> 
+			 <c04> 
+				<did> <container type="Box">3Y343</container> 
+				  <unittitle>
+					 <title render="italic">Yankee Painter,</title> the drawings,
+					 watercolors and oils of Winslow Homer, 
+					 <unitdate>1964</unitdate></unittitle> 
+				</did> 
+			 </c04> 
+			 <c04> 
+				<did> 
+				  <physloc>At the Library Storage Facility:</physloc> 
+				  <container type="Box">2.325/J3 (05301740)</container> 
+				  <unittitle>
+					 <title render="italic">Summer Odyssey,</title> filmed in Europe
+					 and Russia, 
+					 <unitdate>1972</unitdate></unittitle> 
+				</did> 
+			 </c04> 
+			 <c04> 
+				<did> <container type="Box">2.325/J3 (05301740)</container> 
+				  <unittitle>
+					 <title render="italic">Bridge to the East,</title> filmed in
+					 the Orient, 
+					 <unitdate>1973</unitdate></unittitle> 
+				</did> 
+			 </c04> 
+			 <c04> 
+				<did> <container type="Box">95-171/1 (04750024)</container> 
+				  <unittitle>
+					 <title render="italic">*Adagio,</title> 
+					 <unitdate>1984,</unitdate> [<emph render="underline">Best
+					 VHS</emph> copy from better second master]</unittitle> 
+				</did> 
+			 </c04> 
+			 <c04> 
+				<did> <container type="Box">95-171/1 (04750024)</container> 
+				  <unittitle>
+					 <title render="italic">Charles Burchfield</title> 1966/
+					 <title render="italic">Masterpiece of Spanish Painting,</title>
+					 
+					 <unitdate>1961</unitdate></unittitle> 
+				</did> 
+			 </c04> 
+			 <c04> 
+				<did> <container type="Box">95-171/1 (04750024)</container> 
+				  <unittitle>
+					 <title render="italic">Terra Sancta Revisited,</title> filmed
+					 in Israel, 
+					 <unitdate>1968</unitdate> [revised version]</unittitle> 
+				</did> 
+			 </c04> 
+			 <c04> 
+				<did> 
+				  <physloc>At Sid Richardson Hall:</physloc> <container
+				  type="Box">3W117</container> 
+				  <unittitle>
+					 <title render="italic">Journey Thru Eden</title>/
+					 <title render="italic">**Fever,</title> filmed in East Africa
+					 and Brazil [<emph render="underline">extra</emph> VHS copy;
+					 <emph render="underline">best VHS</emph> copy of 
+					 <title render="italic"><emph
+						render="underline">Fever</emph></title>]</unittitle> 
+				</did> 
+			 </c04> 
+			 <c04> 
+				<did> <container type="Box">3W117</container> 
+				  <unittitle>Television interviews of Harry Atwood, 
+					 <unitdate>January 1969, March 1981, February
+						1983</unitdate></unittitle> 
+				</did> 
+			 </c04> 
+		  </c03> 
+		  <c03> 
+			 <did> <container type="Box">3Y341</container> 
+				<unittitle>3/4 inch videocassette sub-masters:</unittitle> 
+				<note><p>(can be used for making VHS dubs for general use. Best
+					 quality VHS or 3/4″ cassette dubs should be made from one inch Sub-Masters or
+					 one inch Masters).</p>
+				</note> 
+			 </did> 
+			 <c04> 
+				<did> <container type="Box">3Y341</container> 
+				  <unittitle>
+					 <title render="italic">*Adagio,</title> 
+					 <unitdate>1984</unitdate> [from first master] (3/4″ from
+					 <emph render="underline">2nd Master</emph> is <emph render="underline">best;
+					 see pg. 4)</emph></unittitle> 
+				</did> 
+			 </c04> 
+			 <c04> 
+				<did> <container type="Box">3Y341</container> 
+				  <unittitle>
+					 <title render="italic">Back of Beyond,</title> 
+					 <unitdate>1983</unitdate></unittitle> 
+				</did> 
+			 </c04> 
+			 <c04> 
+				<did> <container type="Box">3Y341</container> 
+				  <unittitle>
+					 <title render="italic">Bellota,</title> 
+					 <unitdate>1969</unitdate></unittitle> 
+				</did> 
+			 </c04> 
+			 <c04> 
+				<did> <container type="Box">3Y341</container> 
+				  <unittitle>
+					 <title render="italic">Cajititlan,</title> 
+					 <unitdate>1965</unitdate></unittitle> 
+				</did> 
+			 </c04> 
+			 <c04> 
+				<did> <container type="Box">3Y341</container> 
+				  <unittitle>
+					 <title render="italic">Fantasmas,</title> 
+					 <unitdate>1978</unitdate></unittitle> 
+				</did> 
+			 </c04> 
+			 <c04> 
+				<did> <container type="Box">3Y341</container> 
+				  <unittitle>
+					 <title render="italic">**Fever,</title> 
+					 <unitdate>1977</unitdate> (<emph
+					 render="underline">Extra</emph> 3/4 inch cassette is best; see
+					 below).</unittitle> 
+				</did> 
+			 </c04> 
+			 <c04> 
+				<did> <container type="Box">3Y341</container> 
+				  <unittitle>
+					 <title render="italic">Fire on the Sea,</title> 
+					 <unitdate>1980</unitdate></unittitle> 
+				</did> 
+			 </c04> 
+			 <c04> 
+				<did> <container type="Box">3Y341</container> 
+				  <unittitle>
+					 <title render="italic">Genesis,</title> 
+					 <unitdate>1985</unitdate></unittitle> 
+				</did> 
+			 </c04> 
+			 <c04> 
+				<did> <container type="Box">3Y341</container> 
+				  <unittitle>
+					 <title render="italic">The Great Unfenced,</title> 
+					 <unitdate>1963</unitdate></unittitle> 
+				</did> 
+			 </c04> 
+			 <c04> 
+				<did> <container type="Box">3Y341</container> 
+				  <unittitle>
+					 <title render="italic">High on the Wild,</title> 
+					 <unitdate>1987</unitdate></unittitle> 
+				</did> 
+			 </c04> 
+			 <c04> 
+				<did> <container type="Box">3Y341</container> 
+				  <unittitle>
+					 <title render="italic">Journey Through Eden,</title> 
+					 <unitdate>1975</unitdate></unittitle> 
+				</did> 
+			 </c04> 
+			 <c04> 
+				<did> <container type="Box">3Y341</container> 
+				  <unittitle>
+					 <title render="italic">Mokum,</title> 
+					 <unitdate>1990</unitdate></unittitle> 
+				</did> 
+			 </c04> 
+			 <c04> 
+				<did> <container type="Box">3Y341</container> 
+				  <unittitle>
+					 <title render="italic">Paths in the Wilderness,</title> 
+					 <unitdate>1976</unitdate></unittitle> 
+				</did> 
+			 </c04> 
+			 <c04> 
+				<did> <container type="Box">3Y341</container> 
+				  <unittitle>
+					 <title render="italic">Remembrance,</title> 
+					 <unitdate>1993</unitdate></unittitle> 
+				</did> 
+			 </c04> 
+			 <c04> 
+				<did> <container type="Box">3Y341</container> 
+				  <unittitle>
+					 <title render="italic">Sagaland,</title> 
+					 <unitdate>1989</unitdate></unittitle> 
+				</did> 
+			 </c04> 
+			 <c04> 
+				<did> <container type="Box">3Y341</container> 
+				  <unittitle>
+					 <title render="italic">Tiger by the Tail,</title> 
+					 <unitdate>1970</unitdate></unittitle> 
+				</did> 
+			 </c04> 
+			 <c04> 
+				<did> <container type="Box">3Y341</container> 
+				  <unittitle>
+					 <title render="italic">Winter Light,</title> 
+					 <unitdate>1991</unitdate></unittitle> 
+				</did> 
+			 </c04> 
+			 <c04> 
+				<did> <container type="Box">3W117</container> 
+				  <unittitle>
+					 <title render="italic">Journey Through Eden,</title> Africa,
+					 1975/
+					 <title render="italic">**<emph
+						render="underline">Fever</emph></title>, Brazil, 
+					 <unitdate>1977</unitdate> [<emph render="underline">extra 3/4
+					 inch cassette</emph>, <emph render="underline">best 3/4 inch</emph> of 
+					 <title render="italic"><emph
+						render="underline">Fever</emph></title>]</unittitle> 
+				</did> 
+			 </c04> 
+			 <c04> 
+				<did> 
+				  <physloc>At the Library Storage Facility:</physloc> 
+				  <container type="Box">2.325/J3 (05301740)</container> 
+				  <unittitle>
+					 <title render="italic">Summer Odyssey,</title> Europe/Russia, 
+					 <unitdate>1972</unitdate></unittitle> 
+				</did> 
+			 </c04> 
+			 <c04> 
+				<did> <container type="Box">2.325/J3 (05301740)</container> 
+				  <unittitle>
+					 <title render="italic">Bridge to the East,</title> Asia, 
+					 <unitdate>1973</unitdate></unittitle> 
+				</did> 
+			 </c04> 
+			 <c04> 
+				<did> <container type="Box">95-171/1 (04750024)</container> 
+				  <unittitle>
+					 <title render="italic">*Adagio,</title> 
+					 <unitdate>1984</unitdate> [best <emph render="underline">3/4
+					 inch cassette</emph> from better second master]</unittitle> 
+				</did> 
+			 </c04> 
+			 <c04> 
+				<did> <container type="Box">95-171/1 (04750024)</container> 
+				  <unittitle>
+					 <title render="italic">Charles Burchfield,</title> 
+					 <unitdate>1966/</unitdate>
+					 <title render="italic">Masterpiece of Spanish Painting,</title>
+					 
+					 <unitdate>1961</unitdate></unittitle> 
+				</did> 
+			 </c04> 
+			 <c04> 
+				<did> <container type="Box">95-171/1 (04750024)</container> 
+				  <unittitle>
+					 <title render="italic">Terra Sancta Revisited</title> [revised
+					 version of a film photographed in Israel in 
+					 <unitdate>1966</unitdate>]</unittitle> 
+				</did> 
+			 </c04> 
+			 <c04> 
+				<did> 
+				  <physloc>At Sid Richardson Hall:</physloc> <container
+				  type="Box">3Y189.4</container> 
+				  <unittitle>American Painter series:</unittitle> 
+				</did> 
+				<c05> 
+				  <did> <container type="Box">3Y189.4</container> 
+					 <unittitle>
+						<title render="italic">American Realists,</title> parts I and
+						II, 
+						<unitdate>1965</unitdate></unittitle> 
+				  </did> 
+				</c05> 
+				<c05> 
+				  <did> <container type="Box">3Y189.4</container> 
+					 <unittitle>
+						<title render="italic">Charles Burchfield,</title> 
+						<unitdate>1966</unitdate></unittitle> 
+				  </did> 
+				</c05> 
+				<c05> 
+				  <did> <container type="Box">3Y189.4</container> 
+					 <unittitle>
+						<title render="italic">The Clowns Never Laugh,</title> 
+						<unitdate>1967</unitdate></unittitle> 
+				  </did> 
+				</c05> 
+				<c05> 
+				  <did> <container type="Box">3Y189.4</container> 
+					 <unittitle>
+						<title render="italic">John Marin,</title> 
+						<unitdate>1968</unitdate></unittitle> 
+				  </did> 
+				</c05> 
+				<c05> 
+				  <did> <container type="Box">3Y189.4</container> 
+					 <unittitle>
+						<title render="italic">Yankee Painter,</title> 
+						<unitdate>1964</unitdate></unittitle> 
+				  </did> 
+				</c05> 
+			 </c04> 
+		  </c03> 
+		</c02> 
+		<c02> 
+		  <did> 
+			 <physloc>At the Library Storage Facility:</physloc> 
+			 <container type="Box">96-054/1 (04913901)</container> 
+			 <unittitle>PAPERS, ETC.</unittitle> 
+		  </did> 
+		</c02> 
+		<c02> 
+		  <did> <container type="Box">96-054/1 (04913901)</container> 
+			 <unittitle>Journals, 
+				<unitdate type="inclusive">1960-1994</unitdate> [Atwood's thoughts
+				on filming, editing and sound, his films]</unittitle> 
+		  </did> 
+		</c02> 
+		<c02> 
+		  <did> <container type="Box">96-054/1 (04913901)</container> 
+			 <unittitle>Filming abroad correspondence, 
+				<unitdate type="inclusive">1960-1992</unitdate> [letters from
+				abroad concerning filming experiences]</unittitle> 
+		  </did> 
+		</c02> 
+		<c02> 
+		  <did> <container type="Box">96-308/1 (04991847)</container> 
+			 <unittitle>Addenda to journal and filming abroad
+				correspondence:</unittitle> 
+		  </did> 
+		  <c03> 
+			 <did> <container type="Box">96-308/1 (04991847)</container> 
+				<unittitle>Scrapbooks:</unittitle> 
+			 </did> 
+			 <c04> 
+				<did> <container type="Box">96-308/1 (04991847)</container> 
+				  <unittitle>Early life, early films, drawings</unittitle> 
+				</did> 
+			 </c04> 
+			 <c04> 
+				<did> <container type="Box">96-308/1 (04991847)</container> 
+				  <unittitle>Extra correspondence, notes, clippings, mementos
+					 concerning films</unittitle> 
+				</did> 
+			 </c04> 
+			 <c04> 
+				<did> <container type="Box">96-308/1 (04991847)</container> 
+				  <unittitle>Photostats of location photos</unittitle> 
+				</did> 
+			 </c04> 
+			 <c04> 
+				<did> <container type="Box">96-308/1 (04991847)</container> 
+				  <unittitle>Film reviews</unittitle> 
+				</did> 
+			 </c04> 
+			 <c04> 
+				<did> <container type="Box">96-308/1 (04991847)</container> 
+				  <unittitle>Narrative scripts</unittitle> 
+				</did> 
+			 </c04> 
+			 <c04> 
+				<did> <container type="Box">96-308/1 (04991847)</container> 
+				  <unittitle>Ownership, sales and distribution records of films
+					 from 1960s into the 1970s</unittitle> 
+				</did> 
+			 </c04> 
+			 <c04> 
+				<did> <container type="Box">96-308/1 (04991847)</container> 
+				  <unittitle>Additional location photos</unittitle> 
+				</did> 
+			 </c04> 
+			 <c04> 
+				<did> <container type="Box">96-308/1 (04991847)</container> 
+				  <unittitle>ACT Award Night, 
+					 <unitdate>June 5, 1976</unitdate></unittitle> 
+				</did> 
+			 </c04> 
+			 <c04> 
+				<did> <container type="Box">96-308/1 (04991847)</container> 
+				  <unittitle>Lists:</unittitle> 
+				</did> 
+				<c05> 
+				  <did> <container type="Box">96-308/1 (04991847)</container> 
+					 <unittitle>Labs holding video masters</unittitle> 
+				  </did> 
+				</c05> 
+				<c05> 
+				  <did> <container type="Box">96-308/1 (04991847)</container> 
+					 <unittitle>Labs holding film originals</unittitle> 
+				  </did> 
+				</c05> 
+				<c05> 
+				  <did> <container type="Box">96-308/1 (04991847)</container> 
+					 <unittitle>Former distributors of films</unittitle> 
+				  </did> 
+				</c05> 
+				<c05> 
+				  <did> <container type="Box">96-308/1 (04991847)</container> 
+					 <unittitle>Music and recordings used in some of the
+						films</unittitle> 
+				  </did> 
+				</c05> 
+				<c05> 
+				  <did> <container type="Box">96-308/1 (04991847)</container> 
+					 <unittitle>Film awards</unittitle> 
+				  </did> 
+				</c05> 
+				<c05> 
+				  <did> <container type="Box">96-308/1 (04991847)</container> 
+					 <unittitle>Quotes concerning films</unittitle> 
+				  </did> 
+				</c05> 
+			 </c04> 
+		  </c03> 
+		</c02> 
+		<c02> 
+		  <did> <container type="Box">96-308/1 (04991847)</container> 
+			 <unittitle>Location materials [dates refer to year of
+				filming]:</unittitle> 
+		  </did> 
+		  <c03> 
+			 <did> <container type="Box">96-308/1 (04991847)</container> 
+				<unittitle>Editing and music notes:</unittitle> 
+			 </did> 
+			 <c04> 
+				<did> <container type="Box">96-308/1 (04991847)</container> 
+				  <unittitle>
+					 <title render="italic">Remembrance,</title> Copenhagen, 
+					 <unitdate>1992</unitdate></unittitle> 
+				</did> 
+			 </c04> 
+		  </c03> 
+		  <c03> 
+			 <did> <container type="Box">96-308/1 (04991847)</container> 
+				<unittitle>Camera notes:</unittitle> 
+			 </did> 
+			 <c04> 
+				<did> <container type="Box">96-308/1 (04991847)</container> 
+				  <unittitle>
+					 <title render="italic">A Portrait of Europe,</title> 
+					 <unitdate>1959</unitdate></unittitle> 
+				</did> 
+			 </c04> 
+			 <c04> 
+				<did> <container type="Box">96-308/1 (04991847)</container> 
+				  <unittitle>
+					 <title render="italic">The Aged Land,</title> Greece, 
+					 <unitdate>1960</unitdate></unittitle> 
+				</did> 
+			 </c04> 
+			 <c04> 
+				<did> <container type="Box">96-308/1 (04991847)</container> 
+				  <unittitle>
+					 <title render="italic">A Portrait of Mexico,</title> 
+					 <unitdate>1961</unitdate></unittitle> 
+				</did> 
+			 </c04> 
+			 <c04> 
+				<did> <container type="Box">96-308/1 (04991847)</container> 
+				  <unittitle>
+					 <title render="italic">The Great Unfenced,</title> Australia, 
+					 <unitdate>1962</unitdate></unittitle> 
+				</did> 
+			 </c04> 
+			 <c04> 
+				<did> <container type="Box">96-308/1 (04991847)</container> 
+				  <unittitle>
+					 <title render="italic">Cajititlan,</title> Mexico, 
+					 <unitdate>1964</unitdate></unittitle> 
+				</did> 
+			 </c04> 
+			 <c04> 
+				<did> <container type="Box">96-308/1 (04991847)</container> 
+				  <unittitle>
+					 <title render="italic">Terra Sancta,</title> Israel, 
+					 <unitdate>1966</unitdate></unittitle> 
+				</did> 
+			 </c04> 
+			 <c04> 
+				<did> <container type="Box">96-308/1 (04991847)</container> 
+				  <unittitle>
+					 <title render="italic">Summer Odyssey,</title> Europe, Russia, 
+					 <unitdate>1971</unitdate></unittitle> 
+				</did> 
+			 </c04> 
+			 <c04> 
+				<did> <container type="Box">96-308/1 (04991847)</container> 
+				  <unittitle>
+					 <title render="italic">Bridge to the East,</title> South
+					 Pacific, Orient, 
+					 <unitdate>1972</unitdate></unittitle> 
+				</did> 
+			 </c04> 
+			 <c04> 
+				<did> <container type="Box">96-308/1 (04991847)</container> 
+				  <unittitle>
+					 <title render="italic">Journey Through Eden,</title> East
+					 Africa, 
+					 <unitdate>1973</unitdate></unittitle> 
+				</did> 
+			 </c04> 
+			 <c04> 
+				<did> <container type="Box">96-308/1 (04991847)</container> 
+				  <unittitle>
+					 <title render="italic">Fever,</title> Rio and Bahia Brazil, 
+					 <unitdate>1976</unitdate></unittitle> 
+				</did> 
+			 </c04> 
+			 <c04> 
+				<did> <container type="Box">96-308/1 (04991847)</container> 
+				  <unittitle>
+					 <title render="italic">Fantasmas,</title> Peru, 
+					 <unitdate>1977</unitdate></unittitle> 
+				</did> 
+			 </c04> 
+			 <c04> 
+				<did> <container type="Box">96-308/1 (04991847)</container> 
+				  <unittitle>
+					 <title render="italic">Fire on the Sea,</title> Sicily,
+					 Stromboli, 
+					 <unitdate>1978</unitdate></unittitle> 
+				</did> 
+			 </c04> 
+			 <c04> 
+				<did> <container type="Box">96-308/1 (04991847)</container> 
+				  <unittitle>
+					 <title render="italic">The Back of Beyond,</title> Scotland, 
+					 <unitdate>1982</unitdate></unittitle> 
+				</did> 
+			 </c04> 
+			 <c04> 
+				<did> <container type="Box">96-308/1 (04991847)</container> 
+				  <unittitle>
+					 <title render="italic">Adagio,</title> Venice, Italy, 
+					 <unitdate>1983</unitdate></unittitle> 
+				</did> 
+			 </c04> 
+			 <c04> 
+				<did> <container type="Box">96-308/1 (04991847)</container> 
+				  <unittitle>
+					 <title render="italic">Genesis,</title> Hawaii, 
+					 <unitdate>1985</unitdate></unittitle> 
+				</did> 
+			 </c04> 
+			 <c04> 
+				<did> <container type="Box">96-308/1 (04991847)</container> 
+				  <unittitle>
+					 <title render="italic">High on the Wild,</title> Alaska, 
+					 <unitdate>1986</unitdate></unittitle> 
+				</did> 
+			 </c04> 
+			 <c04> 
+				<did> <container type="Box">96-308/1 (04991847)</container> 
+				  <unittitle>
+					 <title render="italic">Sagaland,</title> Iceland, 
+					 <unitdate>1988</unitdate></unittitle> 
+				</did> 
+			 </c04> 
+			 <c04> 
+				<did> <container type="Box">96-308/1 (04991847)</container> 
+				  <unittitle>
+					 <title render="italic">Mokum,</title> Amsterdam, 
+					 <unitdate>1989</unitdate></unittitle> 
+				</did> 
+			 </c04> 
+			 <c04> 
+				<did> <container type="Box">96-308/1 (04991847)</container> 
+				  <unittitle>
+					 <title render="italic">Winter Light,</title> Norway, 
+					 <unitdate>1991</unitdate></unittitle> 
+				</did> 
+			 </c04> 
+			 <c04> 
+				<did> <container type="Box">96-308/1 (04991847)</container> 
+				  <unittitle>
+					 <title render="italic">Remembrance,</title> Copenhagen, 
+					 <unitdate>1992</unitdate></unittitle> 
+				</did> 
+			 </c04> 
+		  </c03> 
+		  <c03> 
+			 <did> <container type="Box">96-308/1 (04991847)</container> 
+				<unittitle>
+				  <title render="doublequote">Lago Cajititlan,</title> photocopy of
+				  background material on village of Cajititlan, Mexico, for film script, 
+				  <unitdate>ca. 1960</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		</c02> 
+		<c02> 
+		  <did> 
+			 <physloc>At Sid Richardson Hall:</physloc> <container
+			 type="Box">3W117</container> 
+			 <unittitle>Library of Congress card catalog cards describing 20 of
+				Harry Atwood's films</unittitle> 
+		  </did> 
+		</c02> 
+		<c02> 
+		  <did> <container type="Box">3W117</container> 
+			 <unittitle>
+				<title render="italic">The Atwood DVD Film Collection,</title>
+				brochures</unittitle> 
+		  </did> 
+		</c02> 
+		<c02> 
+		  <did> <container type="Box">96-308/2 (04991698)</container> 
+			 <unittitle>PHOTOGRAPHS:</unittitle> 
+		  </did> 
+		  <c03> 
+			 <did> <container type="Box">96-308/2 (04991698)</container> 
+				<unittitle>Photographic slides, color:</unittitle> 
+			 </did> 
+			 <c04> 
+				<did> <container type="Box">96-308/2 (04991698)</container> 
+				  <unittitle>Mexico, filming with Connie Helmericks, 
+					 <unitdate>summer, 1957</unitdate></unittitle> 
+				</did> 
+			 </c04> 
+		  </c03> 
+		  <c03> 
+			 <did> <container type="Box">96-308/2 (04991698)</container> 
+				<unittitle>Photographic prints, color:</unittitle> 
+			 </did> 
+			 <c04> 
+				<did> <container type="Box">96-308/2 (04991698)</container> 
+				  <unittitle>The Hebrides, Scotland, photographs by N. Shelton and
+					 Steve Burns, 
+					 <unitdate>1982</unitdate></unittitle> 
+				</did> 
+			 </c04> 
+			 <c04> 
+				<did> <container type="Box">96-308/2 (0491698)</container> 
+				  <unittitle>Greece, 
+					 <unitdate>1960</unitdate></unittitle> 
+				</did> 
+			 </c04> 
+			 <c04> 
+				<did> <container type="Box">96-308/2 (04991698)</container> 
+				  <unittitle>Australia, 
+					 <unitdate>1962</unitdate></unittitle> 
+				</did> 
+			 </c04> 
+			 <c04> 
+				<did> <container type="Box">96-308/2 (04991698)</container> 
+				  <unittitle>Early photographs, 
+					 <unitdate>1950s</unitdate></unittitle> 
+				</did> 
+			 </c04> 
+		  </c03> 
+		  <c03> 
+			 <did> 
+				<physloc>At Sid Richardson Hall:</physloc> <container
+				type="Box">3S49.3</container> 
+				<unittitle>Photographs from Atwood's twenty filming
+				  trips:</unittitle> 
+			 </did> 
+			 <c04> 
+				<did> <container type="Box">3S49.3</container> 
+				  <unittitle>249 35mm slides</unittitle> 
+				</did> 
+			 </c04> 
+			 <c04> 
+				<did> <container type="Box">3S49.3</container> 
+				  <unittitle>1,104 35mm negatives</unittitle> 
+				</did> 
+			 </c04> 
+			 <c04> 
+				<did> <container type="Box">3S49.3</container> 
+				  <unittitle>225 color and black  white photographic
+					 prints</unittitle> 
+				</did> 
+			 </c04> 
+		  </c03> 
+		  <c03> 
+			 <did> <container type="Box">3S49.3</container> 
+				<unittitle>Newspaper photographs</unittitle> 
+			 </did> 
+		  </c03> 
+		</c02> 
+		<c02> 
+		  <did> <container type="Box">3S49.3</container> 
+			 <unittitle>Brochures for all films</unittitle> 
+		  </did> 
+		</c02> 
+		<c02> 
+		  <did> <container type="Box">3S49.3</container> 
+			 <unittitle>Atwood art film catalog</unittitle> 
+		  </did> 
+		</c02> 
+		<c02> 
+		  <did> <container type="Box">3S49.3</container> 
+			 <unittitle>Act Award night, 
+				<unitdate>1976</unitdate> [celluloid strip in cardboard
+				cylinder]</unittitle> 
+		  </did> 
+		</c02> 
+		<c02> 
+		  <did> 
+			 <physloc>At the Library Storage Facility:</physloc> 
+			 <container type="Box">95-273/2 (04913923)</container> 
+			 <unittitle>Brochures:</unittitle> 
+		  </did> 
+		  <c03> 
+			 <did> <container type="Box">95-273/2 (04913923)</container> 
+				<unittitle>
+				  <title render="italic">A Portrait of Mexico</title></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03> 
+			 <did> <container type="Box">95-273/2 (04913923)</container> 
+				<unittitle>
+				  <title render="italic">De Grazia</title></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03> 
+			 <did> <container type="Box">95-273/2 (04913923)</container> 
+				<unittitle>
+				  <title render="italic">The Last Wagon</title></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03> 
+			 <did> <container type="Box">95-273/2 (04913923)</container> 
+				<unittitle>
+				  <title render="italic">Terra Sancta</title></unittitle> 
+			 </did> 
+		  </c03> 
+		</c02> 
+		<c02> 
+		  <did> 
+			 <physloc>At Sid Richardson Hall:</physloc> <container
+			 type="Box">2.325/R51</container> 
+			 <unittitle>SOUND RECORDINGS [1/4 inch phonotapes and
+				audiocassettes]:</unittitle> 
+		  </did> 
+		  <c03> 
+			 <did> <container type="Box">2.325/R51</container> 
+				<unittitle>Location recordings for films [phonotape]:</unittitle> 
+			 </did> 
+			 <c04> 
+				<did> <container type="Box">2.325/R51</container> 
+				  <unittitle>
+					 <title render="italic">Fever,</title> Brazil, 
+					 <unitdate>1976,</unitdate> reels I and II</unittitle> 
+				</did> 
+			 </c04> 
+			 <c04> 
+				<did> <container type="Box">2.325/R51</container> 
+				  <unittitle>Copenhagen, 
+					 <unitdate>1992</unitdate></unittitle> 
+				</did> 
+			 </c04> 
+			 <c04> 
+				<did> <container type="Box">2.325/R51</container> 
+				  <unittitle>
+					 <title render="italic">Journey Through Eden,</title> East
+					 Africa, 
+					 <unitdate>1973:</unitdate></unittitle> 
+				</did> 
+				<c05> 
+				  <did> <container type="Box">2.325/R51</container> 
+					 <unittitle>Tapes I-III</unittitle> 
+				  </did> 
+				</c05> 
+				<c05> 
+				  <did> <container type="Box">2.325/R51</container> 
+					 <unittitle>Tapes IV-VI</unittitle> 
+				  </did> 
+				</c05> 
+				<c05> 
+				  <did> <container type="Box">2.325/R51</container> 
+					 <unittitle>Tapes VII-IX</unittitle> 
+				  </did> 
+				</c05> 
+				<c05> 
+				  <did> <container type="Box">2.325/R51</container> 
+					 <unittitle>Tapes X-XI</unittitle> 
+				  </did> 
+				</c05> 
+				<c05> 
+				  <did> <container type="Box">2.325/R51</container> 
+					 <unittitle>Reels I and II</unittitle> 
+				  </did> 
+				</c05> 
+			 </c04> 
+			 <c04> 
+				<did> <container type="Box">2.325/R51</container> 
+				  <unittitle>
+					 <title render="italic">Fire on the Sea,</title> Sicily and
+					 Egypt, 
+					 <unitdate>October through November, 1978</unitdate></unittitle>
+				  
+				</did> 
+			 </c04> 
+			 <c04> 
+				<did> <container type="Box">2.325/R51</container> 
+				  <unittitle>Sicily and Stromboli, 
+					 <unitdate>1978,</unitdate> reels I and II</unittitle> 
+				</did> 
+			 </c04> 
+			 <c04> 
+				<did> <container type="Box">2.325/R51</container> 
+				  <unittitle>Venice, Italy, 
+					 <unitdate>1983</unitdate></unittitle> 
+				</did> 
+			 </c04> 
+			 <c04> 
+				<did> <container type="Box">2.325/R51</container> 
+				  <unittitle>Amsterdam, 
+					 <unitdate>1989</unitdate></unittitle> 
+				</did> 
+			 </c04> 
+			 <c04> 
+				<did> <container type="Box">2.325/R51</container> 
+				  <unittitle>Israel, 
+					 <unitdate>1966,</unitdate> reels I and II</unittitle> 
+				</did> 
+			 </c04> 
+			 <c04> 
+				<did> <container type="Box">2.325/R51</container> 
+				  <unittitle>Peru, 
+					 <unitdate>1977</unitdate></unittitle> 
+				</did> 
+			 </c04> 
+			 <c04> 
+				<did> <container type="Box">2.325/R51</container> 
+				  <unittitle>Scotland, 
+					 <unitdate>1982,</unitdate> reels I and II</unittitle> 
+				</did> 
+			 </c04> 
+			 <c04> 
+				<did> <container type="Box">2.325/R51</container> 
+				  <unittitle>Bellota Ranch, Arizona, 
+					 <unitdate>1967</unitdate></unittitle> 
+				</did> 
+			 </c04> 
+			 <c04> 
+				<did> <container type="Box">2.325/R51</container> 
+				  <unittitle>Cajititlan, Mexico, 
+					 <unitdate>1964</unitdate></unittitle> 
+				</did> 
+			 </c04> 
+			 <c04> 
+				<did> <container type="Box">2.325/R51</container> 
+				  <unittitle>South Pacific, Orient, 
+					 <unitdate>1972,</unitdate> reels I and II</unittitle> 
+				</did> 
+			 </c04> 
+			 <c04> 
+				<did> <container type="Box">2.325/R51</container> 
+				  <unittitle>Europe, Russia, 
+					 <unitdate>1971,</unitdate> reels I, II and III</unittitle> 
+				</did> 
+			 </c04> 
+		  </c03> 
+		  <c03> 
+			 <did> <container type="Box">2.325/R51</container> 
+				<unittitle>Music scores, by Robert Muczynski:</unittitle> 
+			 </did> 
+			 <c04> 
+				<did> <container type="Box">2.325/R51</container> 
+				  <unittitle>
+					 <title render="italic">The Great Unfenced,</title> 
+					 <unitdate>1963</unitdate></unittitle> 
+				</did> 
+			 </c04> 
+			 <c04> 
+				<did> <container type="Box">2.325/R51</container> 
+				  <unittitle>
+					 <title render="italic">Yankee Painter,</title> 
+					 <unitdate>1964</unitdate></unittitle> 
+				</did> 
+			 </c04> 
+			 <c04> 
+				<did> <container type="Box">2.325/R51</container> 
+				  <unittitle>
+					 <title render="italic">American Realists,</title> 
+					 <unitdate>1965</unitdate></unittitle> 
+				</did> 
+			 </c04> 
+			 <c04> 
+				<did> <container type="Box">2.325/R51</container> 
+				  <unittitle>
+					 <title render="italic">Charles Burchfield,</title> 
+					 <unitdate>1966</unitdate></unittitle> 
+				</did> 
+			 </c04> 
+			 <c04> 
+				<did> <container type="Box">2.325/R51</container> 
+				  <unittitle>
+					 <title render="italic">The Clowns Never Laugh,</title> 
+					 <unitdate>1967</unitdate></unittitle> 
+				</did> 
+			 </c04> 
+			 <c04> 
+				<did> <container type="Box">2.325/R51</container> 
+				  <unittitle>
+					 <title render="italic">Terra Sancta,</title> 
+					 <unitdate>1968</unitdate></unittitle> 
+				</did> 
+			 </c04> 
+			 <c04> 
+				<did> <container type="Box">2.325/R51</container> 
+				  <unittitle>
+					 <title render="italic">Bellota,</title> 
+					 <unitdate>1969</unitdate></unittitle> 
+				</did> 
+			 </c04> 
+			 <c04> 
+				<did> <container type="Box">2.325/R51</container> 
+				  <unittitle>
+					 <title render="italic">Journey Through Eden,</title> 
+					 <unitdate>1975</unitdate></unittitle> 
+				</did> 
+			 </c04> 
+			 <c04> 
+				<did> 
+				  <physloc>At the Library Storage Facility:</physloc> 
+				  <container type="Box">95-273/2 (04913923)</container> 
+				  <unittitle>
+					 <title render="italic">Cajititlan,</title> 
+					 <unitdate>1965</unitdate></unittitle> 
+				</did> 
+			 </c04> 
+		  </c03> 
+		  <c03> 
+			 <did> <container type="Box">95-273/2 (04913923)</container> 
+				<unittitle>Atwood's master piano recital broadcast, 
+				  <unitdate>1954</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03> 
+			 <did> 
+				<physloc>At Sid Richardson Hall:</physloc> <container
+				type="Box">2.325/R51</container> 
+				<unittitle>Some interviews, 
+				  <title render="italic">Tiger by the Tail,</title> 
+				  <unitdate>1970,</unitdate> I-V</unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03> 
+			 <did> <container type="Box">2.325/R51</container> 
+				<unittitle>Some sacred music, 
+				  <title render="italic">Paths in the Wilderness,</title> 
+				  <unitdate>1976,</unitdate> I-III</unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03> 
+			 <did> <container type="Box">2.325/R51</container> 
+				<unittitle>Music for Three Films, Robert Muczynski
+				  [phonodisk]</unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03> 
+			 <did> <container type="Box">2.325/R51</container> 
+				<unittitle>Music of Robert Muczynski: Five Film Scores [compact
+				  disc]</unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03> 
+			 <did> <container type="Box">2.325/R51</container> 
+				<unittitle>Music of Robert Muczynski: Two Orchestral Works, Two
+				  Film Scores [compact disc]</unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03> 
+			 <did> <container type="Box">3w118d</container> 
+				<unittitle>AUDIOCASSETTES:</unittitle> 
+			 </did> 
+			 <c04> 
+				<did> <container type="Box">3w118d</container> 
+				  <unittitle>Journal, 
+					 <unitdate type="inclusive">1962-1992</unitdate> [Atwood reads
+					 from his journal]:</unittitle> 
+				</did> 
+				<c05> 
+				  <did> <container type="Box">3w118d</container> 
+					 <unittitle>Introduction</unittitle> 
+				  </did> 
+				</c05> 
+				<c05> 
+				  <did> <container type="Box">3w118d</container> 
+					 <unittitle>
+						<title render="italic">Great Unfenced</title> and 
+						<title render="italic">Yankee Painter</title>/
+						<title render="italic">Cajititlan</title> and 
+						<title render="italic">Terra Sancta</title></unittitle> 
+				  </did> 
+				</c05> 
+				<c05> 
+				  <did> <container type="Box">3w118d</container> 
+					 <unittitle>
+						<title render="italic">Bellota,</title> 
+						<title render="italic">Tiger By The Tail,</title> 
+						<title render="italic">Summer Odyssey</title>/
+						<title render="italic">Bridge to the East,</title> 
+						<title render="italic">Journey Thru Eden</title>
+						[beginning]</unittitle> 
+				  </did> 
+				</c05> 
+				<c05> 
+				  <did> <container type="Box">3w118d</container> 
+					 <unittitle>
+						<title render="italic">Journey Thru Eden</title>
+						[conclusion], 
+						<title render="italic">Fever</title> [beginning]/
+						<title render="italic">Paths in the Wilderness,</title> 
+						<title render="italic">Fantasmas</title></unittitle> 
+				  </did> 
+				</c05> 
+				<c05> 
+				  <did> <container type="Box">3w118d</container> 
+					 <unittitle>
+						<title render="italic">Fire on the Sea,</title> 
+						<title render="italic">Back of Beyond</title>/
+						<title render="italic">Adagio,</title> 
+						<title render="italic">Genesis,</title> 
+						<title render="italic">High on the Wild</title></unittitle> 
+				  </did> 
+				</c05> 
+				<c05> 
+				  <did> <container type="Box">3w118d</container> 
+					 <unittitle>
+						<title render="italic">Sagaland,</title> 
+						<title render="italic">Mokum</title>/
+						<title render="italic">Winter Light,</title> 
+						<title render="italic">Remembrance</title></unittitle> 
+				  </did> 
+				</c05> 
+				<c05> 
+				  <did> <container type="Box">3w118d</container> 
+					 <unittitle>Filming abroad [Atwood reads from
+						letters]:</unittitle> 
+				  </did> 
+				  <c06> 
+					 <did> <container type="Box">3w118d</container> 
+						<unittitle>Australia, 
+						  <unitdate>June 19, July 8, 23, 30, August 14,
+							 1962</unitdate></unittitle> 
+					 </did> 
+				  </c06> 
+				  <c06> 
+					 <did> <container type="Box">3w118d</container> 
+						<unittitle>Greece, 
+						  <unitdate type="inclusive">June-July 1960,</unitdate>
+						  Mexico, 
+						  <unitdate type="inclusive">July-August 1964</unitdate>
+						  [beginning]</unittitle> 
+					 </did> 
+				  </c06> 
+				  <c06> 
+					 <did> <container type="Box">3w118d</container> 
+						<unittitle>Mexico, 
+						  <unitdate type="inclusive">July-August 1964</unitdate>
+						  [conclusion], Israel, 
+						  <unitdate type="inclusive">July-August
+							 1966</unitdate></unittitle> 
+					 </did> 
+				  </c06> 
+				  <c06> 
+					 <did> <container type="Box">3w118d</container> 
+						<unittitle>Russia/Europe, 
+						  <unitdate type="inclusive">June-July
+							 1971</unitdate></unittitle> 
+					 </did> 
+				  </c06> 
+				  <c06> 
+					 <did> <container type="Box">3w118d</container> 
+						<unittitle>The Orient/South Pacific, 
+						  <unitdate type="inclusive">July-August
+							 1972</unitdate></unittitle> 
+					 </did> 
+				  </c06> 
+				  <c06> 
+					 <did> <container type="Box">3w118d</container> 
+						<unittitle>East Africa, 
+						  <unitdate type="inclusive">July-August
+							 1973</unitdate></unittitle> 
+					 </did> 
+				  </c06> 
+				  <c06> 
+					 <did> <container type="Box">3w118d</container> 
+						<unittitle>Brazil, 
+						  <unitdate type="inclusive">March-April
+							 1976</unitdate></unittitle> 
+					 </did> 
+				  </c06> 
+				  <c06> 
+					 <did> <container type="Box">3w118d</container> 
+						<unittitle>Letter from Peru, 
+						  <unitdate>March 1976,</unitdate> end of Brazil trip,
+						  Sicily, 
+						  <unitdate type="inclusive">October-November
+							 1978</unitdate></unittitle> 
+					 </did> 
+				  </c06> 
+				  <c06> 
+					 <did> <container type="Box">3w118d</container> 
+						<unittitle>Sicily/Egypt 
+						  <unitdate>November 1978,</unitdate> Scotland, 
+						  <unitdate type="inclusive">June-July
+							 1982</unitdate></unittitle> 
+					 </did> 
+				  </c06> 
+				</c05> 
+			 </c04> 
+			 <c04> 
+				<did> <container type="Box">3w118d</container> 
+				  <unittitle>Location recordings on audiocassette [extra and more
+					 complete copies]:</unittitle> 
+				</did> 
+				<c05> 
+				  <did> <container type="Box">3w118d</container> 
+					 <unittitle>Mexico (
+						<title render="italic">Cajititlan</title>), 
+						<unitdate>1964</unitdate></unittitle> 
+				  </did> 
+				</c05> 
+				<c05> 
+				  <did> <container type="Box">3w118d</container> 
+					 <unittitle>Israel [excerpts], 
+						<unitdate>1966</unitdate></unittitle> 
+				  </did> 
+				</c05> 
+				<c05> 
+				  <did> <container type="Box">3w118d</container> 
+					 <unittitle>East Africa, 
+						<unitdate>1973</unitdate></unittitle> 
+				  </did> 
+				</c05> 
+				<c05> 
+				  <did> <container type="Box">3w118d</container> 
+					 <unittitle>Brazil, 
+						<unitdate>February and March 1976</unitdate></unittitle> 
+				  </did> 
+				</c05> 
+				<c05> 
+				  <did> <container type="Box">3w118d</container> 
+					 <unittitle>Sicily and Egypt [excerpts], 
+						<unitdate type="inclusive">October-November
+						  1978</unitdate></unittitle> 
+				  </did> 
+				</c05> 
+				<c05> 
+				  <did> <container type="Box">3w118d</container> 
+					 <unittitle>Scotland, 
+						<unitdate>1982</unitdate></unittitle> 
+				  </did> 
+				</c05> 
+				<c05> 
+				  <did> <container type="Box">3w118d</container> 
+					 <unittitle>Venice, 
+						<unitdate>December 1983</unitdate></unittitle> 
+				  </did> 
+				</c05> 
+				<c05> 
+				  <did> <container type="Box">3w118d</container> 
+					 <unittitle>Amsterdam, 
+						<unitdate>October 1989</unitdate></unittitle> 
+				  </did> 
+				</c05> 
+			 </c04> 
+			 <c04> 
+				<did> 
+				  <physloc>At the Library Storage Facility:</physloc> 
+				  <container type="Box">95-273/2 (04913923)</container> 
+				  <unittitle>Audio cassette, music from early films, 
+					 <unitdate type="inclusive">1960-1972</unitdate></unittitle> 
+				</did> 
+			 </c04> 
+		  </c03> 
+		</c02> 
+	 </c01> 
+	 <c01> 
+		<did> <container type="Box">2000-97/1 (07993190)</container> 
+		  <unitid>II.</unitid> 
+		  <unittitle>RESTRICTED MATERIALS</unittitle> 
+		  <note><p><emph render="bold">FOR PRESERVATION ONLY, not for Public
+				Use:</emph></p>
+		  </note> 
+		</did> 
+		<c02> 
+		  <did> 
+			 <physloc>At the Library Storage Facility:</physloc> 
+			 <container type="Box">2000-97/1 (07993190)</container> 
+			 <unittitle>SEVENTEEN FILMS ON DIGITAL VIDEO DISCS (DVD):</unittitle> 
+		  </did> 
+		  <c03> 
+			 <did> <container type="Box">2000-97/1 (07993190)</container> 
+				<unittitle>Sub-masters:</unittitle> 
+			 </did> 
+			 <c04> 
+				<did> <container type="Box">2000-97/1 (07993190)</container> 
+				  <unittitle>3/4 in. cassettes, NTSC digital betacam sub-masters
+					 (for DVD):</unittitle> 
+				</did> 
+			 </c04> 
+			 <c04> 
+				<did> <container type="Box">2000-97/1 (07993190)</container> 
+				  <unittitle>Sub-master #1:</unittitle> 
+				</did> 
+				<c05> 
+				  <did> <container type="Box">2000-97/1 (07993190)</container> 
+					 <unittitle>
+						<title render="italic">Journey Through
+						  Eden</title></unittitle> 
+				  </did> 
+				</c05> 
+				<c05> 
+				  <did> <container type="Box">2000-97/1 (07993190)</container> 
+					 <unittitle>
+						<title render="italic">The Back of Beyond</title></unittitle>
+					 
+				  </did> 
+				</c05> 
+				<c05> 
+				  <did> <container type="Box">2000-97/1 (07993190)</container> 
+					 <unittitle>
+						<title render="italic">Adagio</title></unittitle> 
+				  </did> 
+				</c05> 
+				<c05> 
+				  <did> <container type="Box">2000-97/1 (07993190)</container> 
+					 <unittitle>
+						<title render="italic">Remembrance</title></unittitle> 
+				  </did> 
+				</c05> 
+			 </c04> 
+			 <c04> 
+				<did> <container type="Box">2000-97/1 (07993190)</container> 
+				  <unittitle>Sub-master #2:</unittitle> 
+				</did> 
+				<c05> 
+				  <did> <container type="Box">2000-97/1 (07993190)</container> 
+					 <unittitle>
+						<title render="italic">Paths in the
+						  Wilderness</title></unittitle> 
+				  </did> 
+				</c05> 
+				<c05> 
+				  <did> <container type="Box">2000-97/1 (07993190)</container> 
+					 <unittitle>
+						<title render="italic">Fever</title></unittitle> 
+				  </did> 
+				</c05> 
+				<c05> 
+				  <did> <container type="Box">2000-97/1 (07993190)</container> 
+					 <unittitle>
+						<title render="italic">Fantasmas</title></unittitle> 
+				  </did> 
+				</c05> 
+				<c05> 
+				  <did> <container type="Box">2000-97/1 (07993190)</container> 
+					 <unittitle>
+						<title render="italic">Fire on the Sea</title></unittitle> 
+				  </did> 
+				</c05> 
+			 </c04> 
+			 <c04> 
+				<did> <container type="Box">2000-97/1 (07993190)</container> 
+				  <unittitle>Sub-master #3:</unittitle> 
+				</did> 
+				<c05> 
+				  <did> <container type="Box">2000-97/1 (07993190)</container> 
+					 <unittitle>
+						<title render="italic">The Great Unfenced</title></unittitle>
+					 
+				  </did> 
+				</c05> 
+				<c05> 
+				  <did> <container type="Box">2000-97/1 (07993190)</container> 
+					 <unittitle>
+						<title render="italic">Yankee Painter</title></unittitle> 
+				  </did> 
+				</c05> 
+				<c05> 
+				  <did> <container type="Box">2000-97/1 (07993190)</container> 
+					 <unittitle>
+						<title render="italic">Cajititlan</title></unittitle> 
+				  </did> 
+				</c05> 
+				<c05> 
+				  <did> <container type="Box">2000-97/1 (07993190)</container> 
+					 <unittitle>
+						<title render="italic">Bellota</title></unittitle> 
+				  </did> 
+				</c05> 
+			 </c04> 
+			 <c04> 
+				<did> <container type="Box">2000-97/1 (07993190)</container> 
+				  <unittitle>Sub-master #4:</unittitle> 
+				</did> 
+				<c05> 
+				  <did> <container type="Box">2000-97/1 (07993190)</container> 
+					 <unittitle>
+						<title render="italic">Tiger by the Tail</title></unittitle> 
+				  </did> 
+				</c05> 
+				<c05> 
+				  <did> <container type="Box">2000-97/1 (07993190)</container> 
+					 <unittitle>
+						<title render="italic">Genesis</title></unittitle> 
+				  </did> 
+				</c05> 
+				<c05> 
+				  <did> <container type="Box">2000-97/1 (07993190)</container> 
+					 <unittitle>
+						<title render="italic">Mokum</title></unittitle> 
+				  </did> 
+				</c05> 
+				<c05> 
+				  <did> <container type="Box">2000-97/1 (07993190)</container> 
+					 <unittitle>
+						<title render="italic">Winter Light</title></unittitle> 
+				  </did> 
+				</c05> 
+				<c05> 
+				  <did> <container type="Box">2000-97/1 (07993190)</container> 
+					 <unittitle>
+						<title render="italic">Sagaland</title></unittitle> 
+				  </did> 
+				</c05> 
+			 </c04> 
+		  </c03> 
+		  <c03> 
+			 <did> <container type="Box">2000-97/1 (07993190)</container> 
+				<unittitle>DVDs:</unittitle> 
+			 </did> 
+			 <c04> 
+				<did> <container type="Box">2000-97/1 (07993190)</container> 
+				  <unittitle>Volume 1:</unittitle> 
+				</did> 
+				<c05> 
+				  <did> <container type="Box">2000-97/1 (07993190)</container> 
+					 <unittitle>
+						<title render="italic">Journey Through
+						  Eden</title></unittitle> 
+				  </did> 
+				</c05> 
+				<c05> 
+				  <did> <container type="Box">2000-97/1 (07993190)</container> 
+					 <unittitle>
+						<title render="italic">The Back of Beyond</title></unittitle>
+					 
+				  </did> 
+				</c05> 
+				<c05> 
+				  <did> <container type="Box">2000-97/1 (07993190)</container> 
+					 <unittitle>
+						<title render="italic">Adagio</title></unittitle> 
+				  </did> 
+				</c05> 
+				<c05> 
+				  <did> <container type="Box">2000-97/1 (07993190)</container> 
+					 <unittitle>
+						<title render="italic">Remembrance</title></unittitle> 
+				  </did> 
+				</c05> 
+			 </c04> 
+			 <c04> 
+				<did> <container type="Box">2000-97/1 (07993190)</container> 
+				  <unittitle>Volume 2:</unittitle> 
+				</did> 
+				<c05> 
+				  <did> <container type="Box">2000-97/1 (07993190)</container> 
+					 <unittitle>
+						<title render="italic">Paths in the
+						  Wilderness</title></unittitle> 
+				  </did> 
+				</c05> 
+				<c05> 
+				  <did> <container type="Box">2000-97/1 (07993190)</container> 
+					 <unittitle>
+						<title render="italic">Fever</title></unittitle> 
+				  </did> 
+				</c05> 
+				<c05> 
+				  <did> <container type="Box">2000-97/1 (07993190)</container> 
+					 <unittitle>
+						<title render="italic">Fantasmas</title></unittitle> 
+				  </did> 
+				</c05> 
+				<c05> 
+				  <did> <container type="Box">2000-97/1 (07993190)</container> 
+					 <unittitle>
+						<title render="italic">Fire on the Sea</title></unittitle> 
+				  </did> 
+				</c05> 
+			 </c04> 
+			 <c04> 
+				<did> <container type="Box">2000-97/1 (07993190)</container> 
+				  <unittitle>Volume 3:</unittitle> 
+				</did> 
+				<c05> 
+				  <did> <container type="Box">2000-97/1 (07993190)</container> 
+					 <unittitle>
+						<title render="italic">The Great Unfenced</title></unittitle>
+					 
+				  </did> 
+				</c05> 
+				<c05> 
+				  <did> <container type="Box">2000-97/1 (07993190)</container> 
+					 <unittitle>
+						<title render="italic">Yankee Painter</title></unittitle> 
+				  </did> 
+				</c05> 
+				<c05> 
+				  <did> <container type="Box">2000-97/1 (07993190)</container> 
+					 <unittitle>
+						<title render="italic">Cajititlan</title></unittitle> 
+				  </did> 
+				</c05> 
+				<c05> 
+				  <did> <container type="Box">2000-97/1 (07993190)</container> 
+					 <unittitle>
+						<title render="italic">Bellota</title></unittitle> 
+				  </did> 
+				</c05> 
+			 </c04> 
+			 <c04> 
+				<did> <container type="Box">2000-97/1 (07993190)</container> 
+				  <unittitle>Volume 4:</unittitle> 
+				</did> 
+				<c05> 
+				  <did> <container type="Box">2000-97/1 (07993190)</container> 
+					 <unittitle>
+						<title render="italic">Tiger by the Tail</title></unittitle> 
+				  </did> 
+				</c05> 
+				<c05> 
+				  <did> <container type="Box">2000-97/1 (07993190)</container> 
+					 <unittitle>
+						<title render="italic">Genesis</title></unittitle> 
+				  </did> 
+				</c05> 
+				<c05> 
+				  <did> <container type="Box">2000-97/1 (07993190)</container> 
+					 <unittitle>
+						<title render="italic">Mokum</title></unittitle> 
+				  </did> 
+				</c05> 
+				<c05> 
+				  <did> <container type="Box">2000-97/1 (07993190)</container> 
+					 <unittitle>
+						<title render="italic">Winter Light</title></unittitle> 
+				  </did> 
+				</c05> 
+				<c05> 
+				  <did> <container type="Box">2000-97/1 (07993190)</container> 
+					 <unittitle>
+						<title render="italic">Sagaland</title></unittitle> 
+					 <note><p><emph render="bold">FOR PRESERVATION ONLY, not for
+						  Public Use: (use only in case of broadcast or for making best quality 3/4 inch
+						  and 1/2 inch videocassette dubs)</emph></p> 
+						<p><emph render="bold">(These are the
+						  <emph render="underline">best</emph> quality other than the ones still retained
+						  in studios in California.).</emph></p> 
+						<p><emph render="bold">(Most important to the
+						  Collection).</emph></p>
+					 </note> 
+				  </did> 
+				</c05> 
+			 </c04> 
+		  </c03> 
+		  <c03> 
+			 <did> <container type="Box">94-310/1 (05298770)</container> 
+				<unittitle>One inch video sub-masters:</unittitle> 
+			 </did> 
+			 <c04> 
+				<did> <container type="Box">94-310/1 (05298770)</container> 
+				  <unittitle>
+					 <title render="italic">The Great Unfenced</title></unittitle> 
+				</did> 
+			 </c04> 
+			 <c04> 
+				<did> <container type="Box">94-310/1 (05298770)</container> 
+				  <unittitle>
+					 <title render="italic">Yankee Painter</title></unittitle> 
+				</did> 
+			 </c04> 
+			 <c04> 
+				<did> <container type="Box">94-310/1 (05298770)</container> 
+				  <unittitle>
+					 <title render="italic">American Realist</title></unittitle> 
+				</did> 
+			 </c04> 
+			 <c04> 
+				<did> <container type="Box">94-310/1 (05298770)</container> 
+				  <unittitle>
+					 <title render="italic">Cajititlan</title> [condensed 29 minute
+					 version]</unittitle> 
+				</did> 
+			 </c04> 
+			 <c04> 
+				<did> <container type="Box">94-310/1 (05298770)</container> 
+				  <unittitle>
+					 <title render="italic">Charles Burchfield and The Clowns Never
+						Laugh</title></unittitle> 
+				</did> 
+			 </c04> 
+			 <c04> 
+				<did> <container type="Box">94-310/1 (05298770)</container> 
+				  <unittitle>
+					 <title render="italic">John Marin</title></unittitle> 
+				</did> 
+			 </c04> 
+			 <c04> 
+				<did> <container type="Box">94-310/1 (05298770)</container> 
+				  <unittitle>
+					 <title render="italic">Bellota</title></unittitle> 
+				</did> 
+			 </c04> 
+			 <c04> 
+				<did> <container type="Box">94-310/1 (05298770)</container> 
+				  <unittitle>
+					 <title render="italic">Tiger by the Tail</title></unittitle> 
+				  <note><p><emph render="bold">FOR PRESERVATION ONLY, not for
+						Public Use:</emph></p>
+				  </note> 
+				</did> 
+			 </c04> 
+			 <c04> 
+				<did> <container type="Box">94-310/2 (05298759)</container> 
+				  <unittitle>
+					 <title render="italic">Journey Through Eden</title></unittitle>
+				  
+				</did> 
+			 </c04> 
+			 <c04> 
+				<did> <container type="Box">94-310/2 (05298759)</container> 
+				  <unittitle>
+					 <title render="italic">Paths in the
+						Wilderness</title></unittitle> 
+				</did> 
+			 </c04> 
+			 <c04> 
+				<did> <container type="Box">94-310/2 (05298759)</container> 
+				  <unittitle>
+					 <title render="italic">Fever</title></unittitle> 
+				</did> 
+			 </c04> 
+			 <c04> 
+				<did> <container type="Box">94-310/2 (05298759)</container> 
+				  <unittitle>
+					 <title render="italic">Fantasmas</title></unittitle> 
+				</did> 
+			 </c04> 
+			 <c04> 
+				<did> <container type="Box">94-310/2 (05298759)</container> 
+				  <unittitle>
+					 <title render="italic">Fire on the Sea</title></unittitle> 
+				</did> 
+			 </c04> 
+			 <c04> 
+				<did> <container type="Box">94-310/2 (05298759)</container> 
+				  <unittitle>
+					 <title render="italic">The Back of Beyond</title></unittitle> 
+				</did> 
+			 </c04> 
+			 <c04> 
+				<did> <container type="Box">94-310/2 (05298759)</container> 
+				  <unittitle>
+					 <title render="italic">Adagio [from first
+						master]</title></unittitle> 
+				</did> 
+			 </c04> 
+			 <c04> 
+				<did> <container type="Box">94-310/2 (05298759)</container> 
+				  <unittitle>
+					 <title render="italic">Genesis</title></unittitle> 
+				  <note><p><emph render="bold">FOR PRESERVATION ONLY, not for
+						Public Use:</emph></p>
+				  </note> 
+				</did> 
+			 </c04> 
+			 <c04> 
+				<did> <container type="Box">94-310/3 (05299015)</container> 
+				  <unittitle>
+					 <title render="italic">High on the Wild</title></unittitle> 
+				</did> 
+			 </c04> 
+			 <c04> 
+				<did> <container type="Box">94-310/3 (05299015)</container> 
+				  <unittitle>
+					 <title render="italic">Sagaland</title></unittitle> 
+				</did> 
+			 </c04> 
+			 <c04> 
+				<did> <container type="Box">94-310/3 (05299015)</container> 
+				  <unittitle>
+					 <title render="italic">Mokum</title></unittitle> 
+				</did> 
+			 </c04> 
+			 <c04> 
+				<did> <container type="Box">94-310/3 (05299015)</container> 
+				  <unittitle>
+					 <title render="italic">Winter Light</title></unittitle> 
+				</did> 
+			 </c04> 
+			 <c04> 
+				<did> <container type="Box">94-310/3 (05299015)</container> 
+				  <unittitle>
+					 <title render="italic">Remembrance</title></unittitle> 
+				  <note><p><emph render="bold">FOR PRESERVATION ONLY, not for
+						Public Use:</emph></p>
+				  </note> 
+				</did> 
+			 </c04> 
+			 <c04> 
+				<did> <container type="Box">95-304/1 (04913898)</container> 
+				  <unittitle>
+					 <title render="italic">Adagio,</title> 
+					 <unitdate>1984</unitdate> [copied from better second
+					 master]</unittitle> 
+				</did> 
+			 </c04> 
+			 <c04> 
+				<did> <container type="Box">95-304/1 (04913898)</container> 
+				  <unittitle>
+					 <title render="italic">Terra Sancta
+						Revisited</title></unittitle> 
+				  <note><p><emph render="bold">FOR PRESERVATION ONLY, not for
+						Public Use:</emph></p>
+				  </note> 
+				</did> 
+			 </c04> 
+			 <c04> 
+				<did> <container type="Box">97-037/3 (6196380)</container> 
+				  <unittitle>
+					 <title render="italic">Bridge to the East</title></unittitle> 
+				  <note><p><emph render="bold">FOR PRESERVATION ONLY, not for
+						Public Use:</emph></p>
+				  </note> 
+				</did> 
+			 </c04> 
+			 <c04> 
+				<did> <container type="Box">97-037/4 (6196379)</container> 
+				  <unittitle>
+					 <title render="italic">Cajititlan</title> [original 41 minute
+					 version]</unittitle> 
+				  <note><p><emph render="bold">FOR PRESERVATION ONLY, not for
+						Public Use:</emph></p>
+				  </note> 
+				</did> 
+			 </c04> 
+			 <c04> 
+				<did> <container type="Box">97-037/9 (6195059)</container> 
+				  <unittitle>
+					 <title render="italic">Summer Odyssey</title></unittitle> 
+				  <note><p><emph render="bold">FOR PRESERVATION ONLY, not for
+						Public Use:</emph></p>
+				  </note> 
+				</did> 
+			 </c04> 
+		  </c03> 
+		</c02> 
+		<c02> 
+		  <did> <container type="Box">94-082/1 (03120585)</container> 
+			 <unittitle>16mm sound film prints:</unittitle> 
+		  </did> 
+		  <c03> 
+			 <did> <container type="Box">94-082/1 (03120585)</container> 
+				<unittitle>
+				  <title render="italic">Charles Burchfield,</title> print #2, 
+				  <unitdate>1966</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03> 
+			 <did> <container type="Box">94-082/1 (03120585)</container> 
+				<unittitle>
+				  <title render="italic">Genesis,</title> print #3 (7399), 
+				  <unitdate>1985</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03> 
+			 <did> <container type="Box">94-082/1 (03120585)</container> 
+				<unittitle>
+				  <title render="italic">Sagaland,</title> 3rd positive print, 
+				  <unitdate>1989</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03> 
+			 <did> <container type="Box">94-082/1 (03120585)</container> 
+				<unittitle>
+				  <title render="italic">Fantasmas,</title> print #3, 
+				  <unitdate>1978</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03> 
+			 <did> <container type="Box">94-082/1 (03120585)</container> 
+				<unittitle>
+				  <title render="italic">Winter Light,</title> 1st positive trial, 
+				  <unitdate>1991</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03> 
+			 <did> <container type="Box">94-082/1 (03120585)</container> 
+				<unittitle>
+				  <title render="italic">High on the Wild,</title> print #4, 
+				  <unitdate>1987</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03> 
+			 <did> <container type="Box">94-082/1 (03120585)</container> 
+				<unittitle>
+				  <title render="italic">Remembrance,</title> print #3, 
+				  <unitdate>1993</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03> 
+			 <did> <container type="Box">94-082/1 (03120585)</container> 
+				<unittitle>
+				  <title render="italic">American Realists, part 1, XVIII-XIX
+					 Centuries,</title> print #4, 
+				  <unitdate>1965</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03> 
+			 <did> <container type="Box">94-082/1 (03120585)</container> 
+				<unittitle>
+				  <title render="italic">American Realists, part 2, XX
+					 Centuries,</title> extra print #1, 
+				  <unitdate>1965</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03> 
+			 <did> <container type="Box">94-082/1 (03120585)</container> 
+				<unittitle>
+				  <title render="italic">Paths in the Wilderness,</title> print #4,
+				  
+				  <unitdate>1976</unitdate></unittitle> 
+				<note><p><emph render="bold">FOR PRESERVATION ONLY, not for Public
+					 Use:</emph></p>
+				</note> 
+			 </did> 
+		  </c03> 
+		  <c03> 
+			 <did> <container type="Box">94-082/2 (03120461)</container> 
+				<unittitle>
+				  <title render="italic">Yankee Painter: The Work of Winslow
+					 Homer,</title> extra print, 
+				  <unitdate>1964</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03> 
+			 <did> <container type="Box">94-082/2 (03120461)</container> 
+				<unittitle>
+				  <title render="italic">The Great Unfenced,</title> print #2
+				  (revised), 
+				  <unitdate>1963</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03> 
+			 <did> <container type="Box">94-082/2 (03120461)</container> 
+				<unittitle>
+				  <title render="italic">Tiger by the Tail,</title> extra print, 
+				  <unitdate>1970</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03> 
+			 <did> <container type="Box">94-082/2 (03120461)</container> 
+				<unittitle>
+				  <title render="italic">Fever,</title> print #4, 
+				  <unitdate>1977</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03> 
+			 <did> <container type="Box">94-082/2 (03120461)</container> 
+				<unittitle>
+				  <title render="italic">Mokum: Amsterdam in Autumn,</title> print
+				  #2, 
+				  <unitdate>1990</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03> 
+			 <did> <container type="Box">94-082/2 (03120461)</container> 
+				<unittitle>
+				  <title render="italic">Bellota: A Story of Roundup,</title> extra
+				  print, 
+				  <unitdate>1969</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03> 
+			 <did> <container type="Box">94-082/2 (03120461)</container> 
+				<unittitle>
+				  <title render="italic">Adagio: Venice in Winter,</title> print
+				  #1, 
+				  <unitdate>1984</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03> 
+			 <did> <container type="Box">94-082/2 (03120461)</container> 
+				<unittitle>
+				  <title render="italic">Journey Through Eden,</title> print #2, 
+				  <unitdate>1975</unitdate></unittitle> 
+				<note><p><emph render="bold">FOR PRESERVATION ONLY, not for Public
+					 Use:</emph></p>
+				</note> 
+			 </did> 
+		  </c03> 
+		  <c03> 
+			 <did> <container type="Box">94-082/3 (03120596)</container> 
+				<unittitle>
+				  <title render="italic">Fire on the Sea,</title> print #2, 
+				  <unitdate>1980</unitdate></unittitle> 
+				<note><p><emph render="bold">FOR PRESERVATION ONLY, not for Public
+					 Use:</emph></p>
+				</note> 
+			 </did> 
+		  </c03> 
+		  <c03> 
+			 <did> <container type="Box">95-304/1 (04913898)</container> 
+				<unittitle>
+				  <title render="italic">Terra Sancta Revisited,</title> 16mm color
+				  sound print of original 1968 version</unittitle> 
+				<note><p><emph render="bold">FOR PRESERVATION ONLY, not for Public
+					 Use:</emph></p>
+				</note> 
+			 </did> 
+		  </c03> 
+		  <c03> 
+			 <did> <container type="Box">94-310/4 (05298748)</container> 
+				<unittitle>
+				  <title render="italic">The Clowns Never Laugh</title> [print
+				  number 1, 
+				  <unitdate>1967</unitdate>]</unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03> 
+			 <did> <container type="Box">94-310/4 (05298748)</container> 
+				<unittitle>
+				  <title render="italic">John Marin</title> [print number 1, 
+				  <unitdate>1968</unitdate>]</unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03> 
+			 <did> <container type="Box">94-310/4 (05298748)</container> 
+				<unittitle>
+				  <title render="italic">A Masterpiece of Spanish Printing</title>
+				  [print number 10, 
+				  <unitdate>1961</unitdate>]</unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03> 
+			 <did> <container type="Box">94-310/4 (05298748)</container> 
+				<unittitle>
+				  <title render="italic">Bridge of the East</title> [print number
+				  2, 
+				  <unitdate>1973</unitdate>]</unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03> 
+			 <did> <container type="Box">94-310/4 (05298748)</container> 
+				<unittitle>
+				  <title render="italic">Summer Odyssey</title> [print number 4, 
+				  <unitdate>1972</unitdate>]</unittitle> 
+				<note><p><emph render="bold">FOR PRESERVATION ONLY, not for Public
+					 Use:</emph></p>
+				</note> 
+			 </did> 
+		  </c03> 
+		  <c03> 
+			 <did> <container type="Box">97-261/1 (06195060)</container> 
+				<unittitle>
+				  <title render="italic">Cajititlan,</title> 16mm color, full
+				  length 41 minute version, 
+				  <unitdate>1965</unitdate></unittitle> 
+				<note><p><emph render="bold">FOR PRESERVATION ONLY, not for Public
+					 Use:</emph></p>
+				</note> 
+			 </did> 
+		  </c03> 
+		  <c03> 
+			 <did> <container type="Box">95-273/1 (04913912)</container> 
+				<unittitle>
+				  <title render="italic">A Portrait of Mexico,</title> 
+				  <unitdate type="inclusive">1961-1962</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03> 
+			 <did> <container type="Box">95-273/1 (04913912)</container> 
+				<unittitle>
+				  <title render="italic">De Grazia,</title> 
+				  <unitdate>1967</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03> 
+			 <did> <container type="Box">95-273/1 (04913912)</container> 
+				<unittitle>
+				  <title render="italic">The Last Wagon,</title> 
+				  <unitdate>1970</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03> 
+			 <did> <container type="Box">95-273/1 (04913912)</container> 
+				<unittitle>
+				  <title render="italic">The Aged Land,</title> 
+				  <unitdate>1961</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03> 
+			 <did> <container type="Box">95-273/1 (04913912)</container> 
+				<unittitle>
+				  <title render="italic">Christmas of the Southwest,</title>
+				  revised, 
+				  <unitdate>1955,</unitdate> b and w, sound</unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03> 
+			 <did> <container type="Box">95-273/1 (04913912)</container> 
+				<unittitle>
+				  <title render="italic">University of Symphony Orchestra,</title> 
+				  <unitdate>1957</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03> 
+			 <did> <container type="Box">95-273/1 (04913912)</container> 
+				<unittitle>
+				  <title render="italic">The Kress Collection,</title> revised, 
+				  <unitdate>1957,</unitdate> color, sound</unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03> 
+			 <did> <container type="Box">95-273/1 (04913912)</container> 
+				<unittitle>
+				  <title render="italic">A Portrait of Europe,</title> 
+				  <unitdate>1959,</unitdate> Kodachrome composite</unittitle> 
+				<note><p><emph render="bold">FOR PRESERVATION ONLY, not for Public
+					 Use:</emph></p>
+				</note> 
+			 </did> 
+		  </c03> 
+		</c02> 
+		<c02> 
+		  <did> <container type="Box">94-124/2 (05228844)</container> 
+			 <unittitle>EARLY FILMS: VARIOUS FORMATS</unittitle> 
+		  </did> 
+		</c02> 
+		<c02> 
+		  <did> <container type="Box">94-124/2 (05228844)</container> 
+			 <unittitle>VIDEO VHS AND 3/4 INCH: :</unittitle> 
+		  </did> 
+		  <c03> 
+			 <did> <container type="Box">94-124/2 (05228844)</container> 
+				<unittitle>
+				  <title render="italic">A Portrait of Mexico,</title> 
+				  <unitdate>1962</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03> 
+			 <did> <container type="Box">94-124/2 (05228844)</container> 
+				<unittitle>
+				  <title render="italic">The Aged Land,</title> 
+				  <unitdate>1961</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03> 
+			 <did> <container type="Box">94-124/2 (05228844)</container> 
+				<unittitle>
+				  <title render="italic">Christmas Music of the Southwest,</title> 
+				  <unitdate>1955</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03> 
+			 <did> <container type="Box">94-124/2 (05228844)</container> 
+				<unittitle>
+				  <title render="italic">The Great Unfenced,</title> 
+				  <unitdate>1963</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03> 
+			 <did> <container type="Box">94-124/2 (05228844)</container> 
+				<unittitle>Home movies, 
+				  <unitdate type="inclusive">1962-1992</unitdate> [From 16mm
+				  film]</unittitle> 
+				<note><p><emph render="bold">FOR PRESERVATION ONLY, not for Public
+					 Use:</emph></p>
+				</note> 
+			 </did> 
+		  </c03> 
+		</c02> 
+		<c02> 
+		  <did> <container type="Box">95-273/2 (04913923)</container> 
+			 <unittitle>Video VHS and 3/4 inch:</unittitle> 
+		  </did> 
+		  <c03> 
+			 <did> <container type="Box">95-273/2 (04913923)</container> 
+				<unittitle>
+				  <title render="italic">De Grazia</title></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03> 
+			 <did> <container type="Box">95-273/2 (04913923)</container> 
+				<unittitle>
+				  <title render="italic">The Last Wagon</title></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03> 
+			 <did> <container type="Box">95-273/2 (04913923)</container> 
+				<unittitle>
+				  <title render="italic">Terra Sancta</title></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03> 
+			 <did> <container type="Box">95-273/2 (04913923)</container> 
+				<unittitle>On one VHS and one 3/4 inch videocassette:</unittitle> 
+			 </did> 
+			 <c04> 
+				<did> <container type="Box">95-273/2 (04913923)</container> 
+				  <unittitle>
+					 <title render="italic">University of Symphony
+						Orchestra,</title> 
+					 <unitdate>1957</unitdate></unittitle> 
+				</did> 
+			 </c04> 
+			 <c04> 
+				<did> <container type="Box">95-273/2 (04913923)</container> 
+				  <unittitle>
+					 <title render="italic">The Kress Collection,</title> 
+					 <unitdate>1957</unitdate></unittitle> 
+				</did> 
+			 </c04> 
+			 <c04> 
+				<did> <container type="Box">95-273/2 (04913923)</container> 
+				  <unittitle>
+					 <title render="italic">A Portrait of Europe,</title> 
+					 <unitdate>1960</unitdate></unittitle> 
+				  <note><p><emph render="bold">FOR PRESERVATION ONLY, not for
+						Public Use:</emph></p>
+				  </note> 
+				</did> 
+			 </c04> 
+		  </c03> 
+		</c02> 
+		<c02> 
+		  <did> <container type="Box">96-308/2 (04991698)</container> 
+			 <unittitle>
+				<title render="underline">VHS videocassette
+				  tape:</title></unittitle> 
+		  </did> 
+		  <c03> 
+			 <did> <container type="Box">96-308/2 (04991698)</container> 
+				<unittitle>Transferred from 8mm film:</unittitle> 
+			 </did> 
+			 <c04> 
+				<did> <container type="Box">96-308/2 (04991698)</container> 
+				  <unittitle>
+					 <title render="italic">To Build A Fire,</title> 
+					 <unitdate>1953</unitdate></unittitle> 
+				</did> 
+			 </c04> 
+			 <c04> 
+				<did> <container type="Box">96-308/2 (04991698)</container> 
+				  <unittitle>
+					 <title render="italic">The Telephone Call,</title> 
+					 <unitdate>1954</unitdate></unittitle> 
+				</did> 
+			 </c04> 
+		  </c03> 
+		</c02> 
+		<c02> 
+		  <did> <container type="Box">96-308/2 (04991698)</container> 
+			 <unittitle>
+				<title render="underline">Audio cassette tapes:</title></unittitle>
+			 
+		  </did> 
+		  <c03> 
+			 <did> <container type="Box">96-308/2 (04991698)</container> 
+				<unittitle>Finished tracks:</unittitle> 
+			 </did> 
+			 <c04> 
+				<did> <container type="Box">96-308/2 (04991698)</container> 
+				  <unittitle>
+					 <title render="italic">To Build a Fire,</title> 
+					 <unitdate>1953</unitdate></unittitle> 
+				</did> 
+			 </c04> 
+			 <c04> 
+				<did> <container type="Box">96-308/2 (04991698)</container> 
+				  <unittitle>
+					 <title render="italic">The Telephone Call,</title> 
+					 <unitdate>1954</unitdate></unittitle> 
+				</did> 
+			 </c04> 
+		  </c03> 
+		</c02> 
+		<c02> 
+		  <did> <container type="Box">96-308/2 (04991698)</container> 
+			 <unittitle>
+				<title render="underline">3/4 inch videocassette
+				  tape:</title></unittitle> 
+		  </did> 
+		  <c03> 
+			 <did> <container type="Box">96-308/2 (04991698)</container> 
+				<unittitle>Transferred from 8mm film:</unittitle> 
+			 </did> 
+			 <c04> 
+				<did> <container type="Box">96-308/2 (04991698)</container> 
+				  <unittitle>
+					 <title render="italic">Outpost,</title> 
+					 <unitdate>1949</unitdate></unittitle> 
+				</did> 
+			 </c04> 
+			 <c04> 
+				<did> <container type="Box">96-308/2 (04991698)</container> 
+				  <unittitle>
+					 <title render="italic">The Carabi Incident,</title> 
+					 <unitdate>1951</unitdate></unittitle> 
+				</did> 
+			 </c04> 
+			 <c04> 
+				<did> <container type="Box">96-308/2 (04991698)</container> 
+				  <unittitle>
+					 <title render="italic">Through the Valley,</title> 
+					 <unitdate>1946</unitdate></unittitle> 
+				</did> 
+			 </c04> 
+			 <c04> 
+				<did> <container type="Box">96-308/2 (04991698)</container> 
+				  <unittitle>
+					 <title render="italic">Family Album,</title> 
+					 <unitdate>1941</unitdate></unittitle> 
+				</did> 
+			 </c04> 
+		  </c03> 
+		</c02> 
+		<c02> 
+		  <did> <container type="Box">96-308/2 (04991698)</container> 
+			 <unittitle>
+				<title render="underline">8mm film originals:</title></unittitle> 
+		  </did> 
+		  <c03> 
+			 <did> <container type="Box">96-308/2 (04991698)</container> 
+				<unittitle>
+				  <title render="italic">Outpost,</title> 
+				  <unitdate>1949</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03> 
+			 <did> <container type="Box">96-308/2 (04991698)</container> 
+				<unittitle>
+				  <title render="italic">The Carabi Incident,</title> 
+				  <unitdate>1951</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03> 
+			 <did> <container type="Box">96-308/2 (04991698)</container> 
+				<unittitle>
+				  <title render="italic">Through the Valley,</title> 
+				  <unitdate>1946</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		</c02> 
+		<c02> 
+		  <did> <container type="Box">96-308/2 (04991698)</container> 
+			 <unittitle>Two Original 1/4″ Phonotapes:</unittitle> 
+		  </did> 
+		  <c03> 
+			 <did> <container type="Box">96-308/2 (04991698)</container> 
+				<unittitle>
+				  <title render="italic">Atwood's Master's Recital,</title> 
+				  <unitdate>1954</unitdate></unittitle> 
+				<note><p><emph render="bold">FOR PRESERVATION ONLY, not for Public
+					 Use:</emph></p>
+				</note> 
+			 </did> 
+		  </c03> 
+		</c02> 
+		<c02> 
+		  <did> <container type="Box">94-124/1 (05228414)</container> 
+			 <unittitle>16mm film [originals]:</unittitle> 
+		  </did> 
+		  <c03> 
+			 <did> <container type="Box">94-124/1 (05228414)</container> 
+				<unittitle>
+				  <title render="italic">Adagio,</title> H-586, A and B rolls,
+				  ECO</unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03> 
+			 <did> <container type="Box">94-124/1 (05228414)</container> 
+				<unittitle>
+				  <title render="italic">Genesis,</title> I-226, A and B rolls,
+				  ECO</unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03> 
+			 <did> <container type="Box">94-124/1 (05228414)</container> 
+				<unittitle>
+				  <title render="italic">High on the Wild,</title> A/WIND I.
+				  R.</unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03> 
+			 <did> <container type="Box">94-124/1 (05228414)</container> 
+				<unittitle>
+				  <title render="italic">Alaska,</title> R1-36, B49598, 
+				  <unitdate>July 29, 1986</unitdate></unittitle> 
+				<note><p><emph render="bold">FOR PRESERVATION ONLY, not for Public
+					 Use:</emph></p>
+				</note> 
+			 </did> 
+		  </c03> 
+		  <c03> 
+			 <did> <container type="Box">94-124/2 (05228844)</container> 
+				<unittitle>
+				  <title render="italic">High on the Wild,</title> A and B rolls,
+				  ECN, J-105</unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03> 
+			 <did> <container type="Box">94-124/2 (05228844)</container> 
+				<unittitle>
+				  <title render="italic">Back of Beyond,</title> A and B rolls,
+				  Rev. 972'</unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03> 
+			 <did> <container type="Box">94-124/2 (05228844)</container> 
+				<unittitle>
+				  <title render="italic">High on the Wild,</title> B/WIND, 35/32,
+				  So213, D33532</unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03> 
+			 <did> <container type="Box">94-124/2 (05228844)</container> 
+				<unittitle>
+				  <title render="italic">High on the Wild,</title> work
+				  print</unittitle> 
+				<note><p><emph render="bold">FOR PRESERVATION ONLY, not for Public
+					 Use:</emph></p>
+				</note> 
+			 </did> 
+		  </c03> 
+		  <c03> 
+			 <did> <container type="Box">97-037/1 (6196255)</container> 
+				<unittitle>
+				  <title render="italic">Cajititlan,</title> 
+				  <unitdate>September 18, 1978</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03> 
+			 <did> <container type="Box">97-037/1 (6196255)</container> 
+				<unittitle>
+				  <title render="italic">Fantasmas,</title> 
+				  <unitdate>July 25, 1978</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03> 
+			 <did> <container type="Box">97-037/1 (6196255)</container> 
+				<unittitle>
+				  <title render="italic">Fire on the Sea</title></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03> 
+			 <did> <container type="Box">97-037/1 (6196255)</container> 
+				<unittitle>
+				  <title render="italic">Fire on the Sea,</title> 
+				  <unitdate>May 13, 1980</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03> 
+			 <did> <container type="Box">97-037/1 (6196255)</container> 
+				<unittitle>
+				  <title render="italic">Fire on the Sea,</title> 
+				  <unitdate>May 9, 1980</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03> 
+			 <did> <container type="Box">97-037/1 (6196255)</container> 
+				<unittitle>
+				  <title render="italic">Christmas Music of the
+					 Southwest</title></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03> 
+			 <did> <container type="Box">97-037/1 (6196255)</container> 
+				<unittitle>
+				  <title render="italic">Portrait of Europe</title></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03> 
+			 <did> <container type="Box">97-037/1 (6196255)</container> 
+				<unittitle>
+				  <title render="italic">Fever,</title> 
+				  <unitdate>July 28, 1977</unitdate></unittitle> 
+				<note><p><emph render="bold">FOR PRESERVATION ONLY, not for Public
+					 Use:</emph></p>
+				</note> 
+			 </did> 
+		  </c03> 
+		  <c03> 
+			 <did> <container type="Box">97-037/2 (6196404)</container> 
+				<unittitle>
+				  <title render="italic">Fever,</title> 
+				  <unitdate>July 28, 1977</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03> 
+			 <did> <container type="Box">97-037/2 (6196404)</container> 
+				<unittitle>
+				  <title render="italic">The Clowns Never Laugh,</title> C-roll, 
+				  <unitdate>April 11, 1967</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03> 
+			 <did> <container type="Box">97-037/2 (6196404)</container> 
+				<unittitle>
+				  <title render="italic">The Clowns Never Laugh,</title> A and B
+				  roll, 
+				  <unitdate>April 11, 1967</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03> 
+			 <did> <container type="Box">97-037/2 (6196404)</container> 
+				<unittitle>
+				  <title render="italic">A Portrait of Europe,</title> Roll I-C
+				  titles</unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03> 
+			 <did> <container type="Box">97-037/2 (6196404)</container> 
+				<unittitle>
+				  <title render="italic">The Clowns Never Laugh,</title> magnetic
+				  track, 
+				  <unitdate>April 11, 1967</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03> 
+			 <did> <container type="Box">97-037/2 (6196404)</container> 
+				<unittitle>
+				  <title render="italic">Yankee Painter,</title> C-roll</unittitle>
+				
+			 </did> 
+		  </c03> 
+		  <c03> 
+			 <did> <container type="Box">97-037/2 (6196404)</container> 
+				<unittitle>
+				  <title render="italic">Fire on the Sea</title></unittitle> 
+				<note><p><emph render="bold">FOR PRESERVATION ONLY, not for Public
+					 Use:</emph></p>
+				</note> 
+			 </did> 
+		  </c03> 
+		  <c03> 
+			 <did> <container type="Box">97-037/3 (6196380)</container> 
+				<unittitle>
+				  <title render="italic">Paths in the Wilderness,</title> 
+				  <unitdate>August 4, 1976</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03> 
+			 <did> <container type="Box">97-037/3 (6196380)</container> 
+				<unittitle>
+				  <title render="italic">Paths in the Wilderness,</title> 
+				  <unitdate>August 4, 1976</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03> 
+			 <did> <container type="Box">97-037/3 (6196380)</container> 
+				<unittitle>
+				  <title render="italic">Paths in the Wilderness,</title> 
+				  <title render="doublequote">B,</title> 
+				  <unitdate>August 4, 1976</unitdate> wind</unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03> 
+			 <did> <container type="Box">97-037/3 (6196380)</container> 
+				<unittitle>
+				  <title render="italic">Paths in the Wilderness,</title> 
+				  <unitdate>August 4, 1976</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03> 
+			 <did> <container type="Box">97-037/3 (6196380)</container> 
+				<unittitle>
+				  <title render="italic">Fantasmas,</title> 
+				  <unitdate>September 5, 1978</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03> 
+			 <did> <container type="Box">97-037/3 (6196380)</container> 
+				<unittitle>
+				  <title render="italic">A Masterpiece of Spanish Painting,</title>
+				  original, C-roll</unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03> 
+			 <did> <container type="Box">97-037/3 (6196380)</container> 
+				<unittitle>
+				  <title render="italic">A Masterpiece of Spanish Painting,</title>
+				  master, C-roll</unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03> 
+			 <did> <container type="Box">97-037/3 (6196380)</container> 
+				<unittitle>
+				  <title render="italic">Aged Land,</title> original</unittitle> 
+				<note><p><emph render="bold">FOR PRESERVATION ONLY, not for Public
+					 Use:</emph></p>
+				</note> 
+			 </did> 
+		  </c03> 
+		  <c03> 
+			 <did> <container type="Box">97-037/4 (6196379)</container> 
+				<unittitle>
+				  <title render="italic">Bridge to the East,</title> negative
+				  #2</unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03> 
+			 <did> <container type="Box">97-037/4 (6196379)</container> 
+				<unittitle>
+				  <title render="italic">Paths in the
+					 Wilderness</title></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03> 
+			 <did> <container type="Box">97-037/4 (6196379)</container> 
+				<unittitle>
+				  <title render="italic">Bridge to the East</title></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03> 
+			 <did> <container type="Box">97-037/4 (6196379)</container> 
+				<unittitle>
+				  <title render="italic">Journey Thru Eden,</title> Jack West
+				  associates</unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03> 
+			 <did> <container type="Box">97-037/4 (6196379)</container> 
+				<unittitle>
+				  <title render="italic">Fantasmas,</title> "B" Wind, 
+				  <unitdate>July 25, 1978</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03> 
+			 <did> <container type="Box">97-037/4 (6196379)</container> 
+				<unittitle>
+				  <title render="italic">Cajititlan</title></unittitle> 
+				<note><p><emph render="bold">FOR PRESERVATION ONLY, not for Public
+					 Use:</emph></p>
+				</note> 
+			 </did> 
+		  </c03> 
+		  <c03> 
+			 <did> <container type="Box">97-037/5 (6196390)</container> 
+				<unittitle>
+				  <title render="italic">Cajititlan</title></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03> 
+			 <did> <container type="Box">97-037/5 (6196390)</container> 
+				<unittitle>
+				  <title render="italic">Cajititlan,</title> 
+				  <unitdate>December 8, 1977</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03> 
+			 <did> <container type="Box">97-037/5 (6196390)</container> 
+				<unittitle>
+				  <title render="italic">Journey Thru Eden,</title> Jack West
+				  associates</unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03> 
+			 <did> <container type="Box">97-037/5 (6196390)</container> 
+				<unittitle>
+				  <title render="italic">Fever</title></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03> 
+			 <did> <container type="Box">97-037/5 (6196390)</container> 
+				<unittitle>
+				  <title render="italic">Fantasmas</title></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03> 
+			 <did> <container type="Box">97-037/5 (6196390)</container> 
+				<unittitle>
+				  <title render="italic">Portrait of Mexico</title></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03> 
+			 <did> <container type="Box">97-037/5 (6196390)</container> 
+				<unittitle>
+				  <title render="italic">Christmas Music of the Southwest,</title>
+				  magnetic track</unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03> 
+			 <did> <container type="Box">97-037/5 (6196390)</container> 
+				<unittitle>
+				  <title render="italic">Christmas Music of the Southwest,</title>
+				  "B" wind</unittitle> 
+				<note><p><emph render="bold">FOR PRESERVATION ONLY, not for Public
+					 Use:</emph></p>
+				</note> 
+			 </did> 
+		  </c03> 
+		  <c03> 
+			 <did> <container type="Box">97-037/6 (6196266)</container> 
+				<unittitle>
+				  <title render="italic">Fever,</title> "B" wind</unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03> 
+			 <did> <container type="Box">97-037/6 (6196266)</container> 
+				<unittitle>
+				  <title render="italic">Journey Thru Eden,</title> Jack West
+				  associates</unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03> 
+			 <did> <container type="Box">97-037/6 (6196266)</container> 
+				<unittitle>
+				  <title render="italic">A Masterpiece of Spanish Painting,</title>
+				  original</unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03> 
+			 <did> <container type="Box">97-037/6 (6196266)</container> 
+				<unittitle>
+				  <title render="italic">Portrait of Europe,</title>
+				  original</unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03> 
+			 <did> <container type="Box">97-037/6 (6196266)</container> 
+				<unittitle>
+				  <title render="italic">Portrait of Europe,</title> "B" wind
+				  negative</unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03> 
+			 <did> <container type="Box">97-037/7 (6196583)</container> 
+				<unittitle>
+				  <title render="italic">Portrait of Mexico,</title> "B" wind
+				  negative</unittitle> 
+				<note><p><emph render="bold">FOR PRESERVATION ONLY, not for Public
+					 Use:</emph></p>
+				</note> 
+			 </did> 
+		  </c03> 
+		  <c03> 
+			 <did> <container type="Box">97-037/7 (6196583)</container> 
+				<unittitle>
+				  <title render="italic">Portrait of Mexico</title></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03> 
+			 <did> <container type="Box">97-037/7 (6196583)</container> 
+				<unittitle>
+				  <title render="italic">Tiger by the Tail</title></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03> 
+			 <did> <container type="Box">97-037/7 (6196583)</container> 
+				<unittitle>
+				  <title render="italic">Terra Sancta,</title> 
+				  <unitdate>May 7, 1968</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03> 
+			 <did> <container type="Box">97-037/7 (6196583)</container> 
+				<unittitle>
+				  <title render="italic">Charles Burchfield,</title> 
+				  <unitdate>June 21, 1966</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03> 
+			 <did> <container type="Box">97-037/7 (6196583)</container> 
+				<unittitle>
+				  <title render="italic">Bellota,</title> 
+				  <unitdate>May 1, 1969</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03> 
+			 <did> <container type="Box">97-037/7 (6196583)</container> 
+				<unittitle>
+				  <title render="italic">Terra Sancta,</title> 
+				  <unitdate>May 9, 1968</unitdate></unittitle> 
+				<note><p><emph render="bold">FOR PRESERVATION ONLY, not for Public
+					 Use:</emph></p>
+				</note> 
+			 </did> 
+		  </c03> 
+		  <c03> 
+			 <did> <container type="Box">97-037/8 (6196211)</container> 
+				<unittitle>
+				  <title render="italic">Tiger by the Tail,</title> 
+				  <unitdate>December 21, 1971</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03> 
+			 <did> <container type="Box">97-037/8 (6196211)</container> 
+				<unittitle>
+				  <title render="italic">Tiger by the Tail,</title>
+				  recut</unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03> 
+			 <did> <container type="Box">97-037/8 (6196211)</container> 
+				<unittitle>
+				  <title render="italic">John Marin,</title> 
+				  <unitdate>March 12, 1968</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03> 
+			 <did> <container type="Box">97-037/8 (6196211)</container> 
+				<unittitle>
+				  <title render="italic">John Marin,</title> 
+				  <unitdate>June 7, 1968</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03> 
+			 <did> <container type="Box">97-037/8 (6196211)</container> 
+				<unittitle>
+				  <title render="italic">John Marin,</title> 
+				  <unitdate>March 14, 1968</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03> 
+			 <did> <container type="Box">97-037/8 (6196211)</container> 
+				<unittitle>
+				  <title render="italic">John Marin,</title> 
+				  <unitdate>August 6, 1968</unitdate></unittitle> 
+				<note><p><emph render="bold">FOR PRESERVATION ONLY, not for Public
+					 Use:</emph></p>
+				</note> 
+			 </did> 
+		  </c03> 
+		  <c03> 
+			 <did> <container type="Box">97-037/9 (6195059)</container> 
+				<unittitle>
+				  <title render="italic">The Clowns Never Laugh,</title> 
+				  <unitdate>April 19, 1967</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03> 
+			 <did> <container type="Box">97-037/9 (6195059)</container> 
+				<unittitle>
+				  <title render="italic">Charles Burchfield, Fifty Years of His
+					 Art,</title> 
+				  <unitdate>June 21, 1966</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03> 
+			 <did> <container type="Box">97-037/9 (6195059)</container> 
+				<unittitle>
+				  <title render="italic">Charles Burchfield, Fifty Years of His
+					 Art,</title> 
+				  <unitdate>June 23, 1966</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03> 
+			 <did> <container type="Box">97-037/9 (6195059)</container> 
+				<unittitle>
+				  <title render="italic">Tiger by the Tail,</title> 
+				  <unitdate>December 21, 1971</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03> 
+			 <did> <container type="Box">97-037/9 (6195059)</container> 
+				<unittitle>
+				  <title render="italic">Tiger by the Tail</title></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03> 
+			 <did> <container type="Box">97-037/9 (6195059)</container> 
+				<unittitle>
+				  <title render="italic">Bellota,</title> 
+				  <unitdate>May 23, 1969</unitdate></unittitle> 
+				<note><p><emph render="bold">FOR PRESERVATION ONLY, not for Public
+					 Use:</emph></p>
+				</note> 
+			 </did> 
+		  </c03> 
+		  <c03> 
+			 <did> <container type="Box">97-037/10 (6196222)</container> 
+				<unittitle>
+				  <title render="italic">A Masterpiece of Spanish
+					 Painting</title></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03> 
+			 <did> <container type="Box">97-037/10 (6196222)</container> 
+				<unittitle>
+				  <title render="italic">Aged Land,</title> magnetic
+				  track</unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03> 
+			 <did> <container type="Box">97-037/10 (6196222)</container> 
+				<unittitle>
+				  <title render="italic">Aged Land,</title> original</unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03> 
+			 <did> <container type="Box">97-037/10 (6196222)</container> 
+				<unittitle>
+				  <title render="italic">John Marin,</title> 
+				  <unitdate>March 12, 1968</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03> 
+			 <did> <container type="Box">97-037/10 (6196222)</container> 
+				<unittitle>
+				  <title render="italic">The Last Wagon,</title> 
+				  <unitdate>February 2, 1971</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03> 
+			 <did> <container type="Box">97-037/10 (6196222)</container> 
+				<unittitle>
+				  <title render="italic">The Last Wagon,</title> 
+				  <unitdate>February 17, 1971</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03> 
+			 <did> <container type="Box">97-037/10 (6196222)</container> 
+				<unittitle>
+				  <title render="italic">A Masterpiece of Spanish Painting,</title>
+				  work print</unittitle> 
+				<note><p><emph render="bold">FOR PRESERVATION ONLY, not for Public
+					 Use:</emph></p>
+				</note> 
+			 </did> 
+		  </c03> 
+		  <c03> 
+			 <did> <container type="Box">97-037/11 (6195048)</container> 
+				<unittitle>
+				  <title render="italic">Bridge to the East,</title> Jack West
+				  associates</unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03> 
+			 <did> <container type="Box">97-037/11 (6195048)</container> 
+				<unittitle>
+				  <title render="italic">Bridge to the East,</title> Jack West
+				  associates</unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03> 
+			 <did> <container type="Box">97-037/11 (6195048)</container> 
+				<unittitle>
+				  <title render="italic">The Great Unfenced,</title> B-roll
+				  original</unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03> 
+			 <did> <container type="Box">97-037/11 (6195048)</container> 
+				<unittitle>
+				  <title render="italic">The Great Unfenced,</title>
+				  inter-negative</unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03> 
+			 <did> <container type="Box">97-037/11 (6195048)</container> 
+				<unittitle>
+				  <title render="italic">The Great Unfenced,</title> B wind,
+				  negative</unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03> 
+			 <did> <container type="Box">97-037/11 (6195048)</container> 
+				<unittitle>
+				  <title render="italic">Bellota,</title> 
+				  <unitdate>May 16, 1969</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03> 
+			 <did> <container type="Box">97-037/11 (6195048)</container> 
+				<unittitle>
+				  <title render="italic">Aged Land,</title> A wind
+				  negative</unittitle> 
+				<note><p><emph render="bold">FOR PRESERVATION ONLY, not for Public
+					 Use:</emph></p>
+				</note> 
+			 </did> 
+		  </c03> 
+		  <c03> 
+			 <did> <container type="Box">97-037/12 (6196244)</container> 
+				<unittitle>
+				  <title render="italic">Bridge to the East,</title> Jack West
+				  associates, B wind, magnetic track</unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03> 
+			 <did> <container type="Box">97-037/12 (6196244)</container> 
+				<unittitle>
+				  <title render="italic">The Great Unfenced,</title> A and C
+				  originals</unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03> 
+			 <did> <container type="Box">97-037/12 (6196244)</container> 
+				<unittitle>
+				  <title render="italic">Terra Sancta,</title> final magnetic
+				  track</unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03> 
+			 <did> <container type="Box">97-037/12 (6196244)</container> 
+				<unittitle>
+				  <title render="italic">A Portrait of Mexico,</title> final
+				  magnetic track, 
+				  <unitdate>May 24, 1976</unitdate></unittitle> 
+			 </did> 
+		  </c03> 
+		  <c03> 
+			 <did> <container type="Box">97-037/12 (6196244)</container> 
+				<unittitle>
+				  <title render="italic">Christmas Music of the Southwest,</title>
+				  work print</unittitle> 
+				<note><p><emph render="bold">ORIGINAL MATERIALS RESTRICTED. NEED
+					 DONOR PERMISSION:</emph></p>
+				</note> 
+			 </did> 
+		  </c03> 
+		  <c03> 
+			 <did> <container type="Box">94-200/1 (05228822)</container> 
+				<unittitle>
+				  <title render="italic">American Realists,</title> GFL-075412, 
+				  <unitdate>1965</unitdate></unittitle> 
+			 </did> 
+			 <c04> 
+				<did> <container type="Box">94-200/1 (05228822)</container> 
+				  <unittitle>Part 1:</unittitle> 
+				</did> 
+				<c05> 
+				  <did> <container type="Box">94-200/1 (05228822)</container> 
+					 <unittitle>A-C rolls</unittitle> 
+				  </did> 
+				</c05> 
+				<c05> 
+				  <did> <container type="Box">94-200/1 (05228822)</container> 
+					 <unittitle>Mag. track</unittitle> 
+				  </did> 
+				</c05> 
+				<c05> 
+				  <did> <container type="Box">94-200/1 (05228822)</container> 
+					 <unittitle>B-Wind, neg. track</unittitle> 
+				  </did> 
+				</c05> 
+			 </c04> 
+			 <c04> 
+				<did> <container type="Box">94-200/1 (05228822)</container> 
+				  <unittitle>Part 2:</unittitle> 
+				</did> 
+				<c05> 
+				  <did> <container type="Box">94-200/1 (05228822)</container> 
+					 <unittitle>A-B rolls</unittitle> 
+					 <note><p><emph render="bold">ORIGINAL MATERIALS RESTRICTED.
+						  NEED DONOR PERMISSION:</emph></p>
+					 </note> 
+				  </did> 
+				</c05> 
+				<c05> 
+				  <did> <container type="Box">94-200/2 (05228833)</container> 
+					 <unittitle>C rolls</unittitle> 
+				  </did> 
+				</c05> 
+				<c05> 
+				  <did> <container type="Box">94-200/2 (05228833)</container> 
+					 <unittitle>B-Wind, neg. track</unittitle> 
+				  </did> 
+				</c05> 
+			 </c04> 
+		  </c03> 
+		  <c03> 
+			 <did> <container type="Box">94-200/2 (05228833)</container> 
+				<unittitle>
+				  <title render="italic">Summer Odyssey,</title> DEL-148017, 
+				  <unitdate>1972</unitdate></unittitle> 
+			 </did> 
+			 <c04> 
+				<did> <container type="Box">94-200/2 (05228833)</container> 
+				  <unittitle>16 mm, A and B rolls</unittitle> 
+				</did> 
+			 </c04> 
+			 <c04> 
+				<did> <container type="Box">94-200/2 (05228833)</container> 
+				  <unittitle>Neg. track</unittitle> 
+				</did> 
+			 </c04> 
+			 <c04> 
+				<did> <container type="Box">94-200/2 (05228833)</container> 
+				  <unittitle>Mag. track</unittitle> 
+				</did> 
+			 </c04> 
+		  </c03> 
+		</c02> 
+	 </c01> 
+  </dsc> 
+</archdesc> </ead> 

@@ -1,0 +1,567 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="webead.xsl"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead audience="external"> 
+  <eadheader audience="internal" scriptencoding="iso15924" dateencoding="iso8601" countryencoding="iso3166-1" repositoryencoding="iso15511" langencoding="iso639-2"> 
+	 <eadid countrycode="us" mainagencycode="MnHi">00511</eadid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper>GERALD J. O'DONNELL: </titleproper> 
+		  <subtitle>An Inventory of His Papers at the Minnesota Historical
+			 Society</subtitle> 
+		  <author>Finding aid prepared by Lara D. Friedman-Shedlov</author> 
+		</titlestmt><publicationstmt><publisher encodinganalog="Publisher">Minnesota Historical Society</publisher><address><addressline>St. Paul MN.</addressline></address></publicationstmt> 
+		 
+	              <seriesstmt><p>Manuscripts Collection</p></seriesstmt>         </filedesc> 
+	 <profiledesc> 
+		<creation>Finding aid encoded by Lyda Morehouse, 
+		  <date era="ce" calendar="gregorian">July 9, 2001.</date></creation><langusage>Finding aid written in<language langcode="eng">English</language></langusage> 
+	 </profiledesc> 
+  <revisiondesc><change><date>August 2008</date><item>Converted from EAD Version 1.0 to Version 2002 by Monica Manny Ralston, Daniel Sher, and Joyce Chapman.</item></change></revisiondesc></eadheader> 
+  <archdesc relatedencoding="MARC" level="collection" type="inventory"> 
+	 <did> 
+		<head id="a1">OVERVIEW</head> 
+		<repository label="Label:"> 
+		  <corpname>Minnesota Historical Society</corpname></repository> 
+		
+	 	<origination label="Creator:" encodinganalog="100">
+	 		<persname role="creator" encodinganalog="100"
+	 			>O'Donnell, Gerald J.</persname>
+	 		
+	 	</origination>
+	 	
+		<unittitle label="Title:" encodinganalog="245$a">Gerald J. O'Donnell
+		  papers.</unittitle> 
+	 	<unitdate label="Date:" encodinganalog="245$f" era="ce" calendar="gregorian" normal="1921/1985">1921-1985.</unitdate> 
+		<abstract label="Abstract:">Biographical information, correspondence,
+		  subject files, desk diaries, and photographs documenting O'Donnell's career as
+		  a Minnesota labor and DFL Party leader.</abstract> 
+		<physdesc label="Quantity:" encodinganalog="300">5.3 cu. ft. (7
+		  boxes).</physdesc> 
+		<physloc label="Location:">See <ref target="a9">Detailed Description</ref> for shelf
+		  locations.</physloc> 
+	 </did> 
+	 <bioghist encodinganalog="545"> 
+		<head altrender="biography" id="a2">BIOGRAPHY OF GERALD J.
+		  O'DONNELL</head> 
+		<p>Gerald James O'Donnell was born November 24, 1898, the fifth of eight
+		  children born to Pat and Ellen O'Donnell. O'Donnell lived his entire life in
+		  St. Paul, Minnesota, growing up in a home located at 373 Harrison Avenue (now
+		  torn down to make way for Interstate 35E) and residing most of his adult life
+		  at 1875 Worcester Avenue. O'Donnell attended the Cretin School through the
+		  eighth grade and worked several years as a clerk and a driver before beginning
+		  his career in steamfitting. In 1917 he met his future wife, Evelyn Simon, on
+		  the corner of St. Clair and West Seventh. The couple were married in 1921 and
+		  later had two daughters, Lois and Geraldine. </p> 
+		<p>O'Donnell's lifelong association with the labor movement began in 1918
+		  when he started an apprenticeship in the steamfitting-pipefitting trade through
+		  the United Association local No. 455, AFL. He became a journeyman in 1925. With
+		  the exception of a few years during the depression when he didn't have enough
+		  money to pay dues, O'Donnell was an active member of the Steamfitters Local 455
+		  for the next sixty years of his life, serving as vice chairman, chairman, on
+		  the executive board, and as business manager for thirty years. One of his
+		  proudest achievements was the institution of an apprenticeship program in Local
+		  455, the first such training program for young pipefitters in the area.</p> 
+		<p>In addition to his work for the local, he served in many offices in
+		  the labor movement at the state and national level, including twenty years as
+		  vice president of the Minnesota State Federation of Labor and eighteen years on
+		  the United Association Industrial Relations Council for the plumbing and
+		  pipefitting industry (he was elected vice chairman of the council in 1961). He
+		  was a member of numerous union trades councils and served as president of the
+		  St. Paul Trades and Labor Assembly central body for nine years and as president
+		  of the Minnesota Pipe Trades Association for twenty years. In later years, he
+		  founded the retiree's chapter of Local 455 and was chairman of the St. Paul
+		  Trades and Labor Assembly's retirees' chapter. In the words of his daughter,
+		  Geraldine O'Donnell O'Keefe, "his overriding love was for the union -- the
+		  union -- the union. He ate union and slept union and breathed union. He had it
+		  in his blood." </p> 
+		<p> O'Donnell was active in St. Paul civic affairs and in the DFL party.
+		  He was chairman of the 4th District DFL for six years and served on the state
+		  central and Democratic National committees as well as various campaign
+		  committees. </p> 
+		<p>Gerald O'Donnell died on November 22nd, 1985, just days before his
+		  eighty-seventh birthday. He was preceded in death by his wife Evelyn, who
+		  passed away in 1958. </p> 
+		<p>Biographical information was taken from published obituaries and
+		  materials in the collection.</p> 
+	 </bioghist> 
+	 <scopecontent encodinganalog="520"> 
+		<head id="a3">SCOPE AND CONTENTS</head> 
+		<p>Biographical information, personal and union correspondence, subject
+		  files, desk diaries, and photographs documenting O'Donnell's career as a
+		  Minnesota labor and DFL Party leader.</p> 
+		<p>The papers document his career in organized labor as a member (1918- )
+		  and business agent (1937-1966) of St. Paul Local 455 of the Steam Pipe Fitters
+		  union, chairman of the St. Paul Trades and Labor Assembly (1940-1949),
+		  president of the Minnesota State Pipe Trades Association, member of the
+		  Industrial Relations Council for the Plumbing and Pipe Fitting Trades, and vice
+		  president of the Minnesota AFL-CIO. They document his work on behalf of many
+		  St. Paul civic organizations, including the Community Chest, and as an active
+		  member of the Democratic-Farmer-Labor Party, including his chairmanship of the
+		  Ramsey County-Fourth District DFL organization (1950s), his service on the
+		  state central committee and various campaign committees, and his participation
+		  in Democratic National Committee programs.</p> 
+	 </scopecontent> 
+	 <arrangement encodinganalog="351$a"> 
+		<head id="a4">ARRANGEMENT</head> 
+		<p>These documents are organized into the following sections:</p> 
+		<list> 
+		  <item>Memorabilia, Photographs, Diaries, and Correspondence.</item> 
+		  <item>Subject Files.</item> 
+		  <item>Chronological Papers.</item> 
+		</list> 
+	 </arrangement> 
+	 <controlaccess> 
+		<head id="a7">CATALOG HEADINGS</head> 
+		<p><emph render="italic">This collection is indexed under the following headings in the catalog of the Minnesota Historical Society. Researchers desiring materials about related topics, persons or places should <extref linktype="simple" show="new" href="http://mnhs.mnpals.net">search the catalog</extref> using these headings.</emph></p> 
+		<controlaccess> 
+		  <head>Topics:</head> 
+		  <subject encodinganalog="650">World War, 1939-1945 -- War work --
+			 Minnesota.</subject> 
+		  <subject encodinganalog="650">Politics, Practical --
+			 Minnesota.</subject> 
+		  <subject encodinganalog="650">Political participation --
+			 Minnesota.</subject> 
+		  <subject encodinganalog="650">Apprentices -- Minnesota.</subject> 
+		  <subject encodinganalog="650">Collective labor agreements.</subject> 
+		  <subject encodinganalog="650">Community leadership -- Minnesota --
+			 Saint Paul.</subject> 
+		  <subject encodinganalog="650">Elections -- Minnesota.</subject> 
+		  <subject encodinganalog="650">Labor and laboring classes --
+			 Minnesota.</subject> 
+		  <subject encodinganalog="650">Labor contracts -- Minnesota.</subject> 
+		  <subject encodinganalog="650">Pipe-fitting -- Vocational
+			 guidance.</subject> 
+		  <subject encodinganalog="650">Working class -- Congresses --
+			 Minnesota.</subject> 
+		  <subject encodinganalog="650">Working class -- Congresses -- United
+			 States.</subject> 
+		  <subject encodinganalog="650">Labor unions -- Minnesota --
+			 Plumbers.</subject> 
+		  <subject encodinganalog="650">Labor unions -- Minnesota -- Officials
+			 and employees.</subject> 
+		</controlaccess> 
+		<controlaccess> 
+		  <head>Organizations:</head> 
+		  <corpname role="subject" encodinganalog="610">AFL-CIO. </corpname> 
+		  <corpname role="subject" encodinganalog="610">Americans for Democratic
+			 Action. </corpname> 
+		  <corpname role="subject" encodinganalog="610">Democratic-Farmer-Labor
+			 Party. </corpname> 
+		  <corpname role="subject" encodinganalog="610">Democratic National
+			 Committee (U.S.). </corpname> 
+		  <corpname role="subject" encodinganalog="610">Industrial Relations
+			 Council for the Plumbing and Pipe Fitting Industry. </corpname> 
+		  <corpname role="subject" encodinganalog="610">Minnesota AFL-CIO
+			 Federation of Labor. </corpname> 
+		  <corpname role="subject" encodinganalog="610">Minnesota State Pipe
+			 Fitters Association. </corpname> 
+		  <corpname role="subject" encodinganalog="610">Ramsey County Democratic
+			 Farmer Labor Party (Minn.). </corpname> 
+		  <corpname role="subject" encodinganalog="610">St. Paul Trades and Labor
+			 Assembly. </corpname> 
+		  <corpname role="subject" encodinganalog="610">United Association of
+			 Journeymen Plumbers and Steam Fitters of the United States and Canada.
+			 </corpname> 
+		  <corpname role="subject" encodinganalog="610">United Way of the Saint
+			 Paul Area (Minn.). </corpname> 
+		</controlaccess> 
+		<controlaccess> 
+		  <head>Places:</head> 
+		  <geogname encodinganalog="651">Saint Paul (Minn.) -- Civil
+			 defense.</geogname> 
+		  <geogname encodinganalog="651">Saint Paul (Minn.).</geogname> 
+		  <geogname encodinganalog="651">Ramsey County (Minn.).</geogname> 
+		</controlaccess> 
+		<controlaccess> 
+		  <head>Document Types:</head> 
+		  <genreform encodinganalog="655">Diaries.</genreform> 
+		</controlaccess> 
+		<controlaccess> 
+		  <head>Occupations:</head> 
+		  <occupation encodinganalog="656">Plumbers.</occupation> 
+		</controlaccess> 
+	 </controlaccess> 
+	 <descgrp type="admininfo"> 
+		<head id="a8">ADMINISTRATIVE INFORMATION</head> 
+		<prefercite> 
+		  <head>Preferred Citation:</head> 
+		  <p><emph render="italic">[Indicate the cited item and/or series
+			 here].</emph> Gerald J. O'Donnell Papers. Minnesota Historical Society.</p> 
+		  <p><emph render="italic">See the Chicago Manual of Style for additional
+			 examples</emph></p> 
+		</prefercite> 
+		<acqinfo> 
+		  <head>Accession Information:</head> 
+		  <p>Accession numbers: 14,494; 15,597; 15,683</p> 
+		</acqinfo> 
+		<processinfo> 
+		  <head>Processing Information:</head> 
+		  <p>Processed by: Katherine Johnson, January 1991; Lara
+			 Friedman-Shedlov, May 2001</p> 
+		  <p>Catalog ID number: 09-00022185 </p> 
+		</processinfo> 
+	 </descgrp> 
+	 <dsc type="combined" audience="external"> 
+		<head id="a9">DETAILED DESCRIPTION</head> 
+		 
+		<c01 level="series"> 
+		  <did> 
+			 <unittitle>Memorabilia, Photographs, Diaries, and
+				Correspondence</unittitle> 
+		  </did> 
+		  <c02> 
+			 <did> 
+				<physloc>149.E.11.8F</physloc> 
+				<container>1</container> 
+				<unittitle>Biographical information.</unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02> 
+			 <did> 
+				<unittitle>Personal and union correspondence and related papers,
+				  </unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1941-1976. </unitdate> 
+				<physdesc>8 folders. </physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02> 
+			 <did> 
+				<physloc>159.E.12.1B</physloc> 
+				<container>4</container> 
+				<unittitle>Photographs, </unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">[1940s]-1966. </unitdate> 
+				<physdesc>2 folders, containing 23 photographs.</physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Photographs depict O'Donnell's activities in civic events, the
+				  Industrial Relations Council, the Minnesota State Pipe Trades Association, and
+				  the United Association of Journeymen Plumbers and Steam Fitters.</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02> 
+			 <did> 
+				<unittitle>Desk calendars and diaries, </unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1943-1969. </unitdate> 
+				<physdesc>26 items. </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Desk diaries illustrate O'Donnell's daily activities and
+				  contacts.</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02> 
+			 <did> 
+				<physloc>P2436</physloc> 
+				<container>5</container> 
+				<unittitle>Desk calendars and diaries, </unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1976-1985. </unitdate> 
+				<physdesc>11 items.</physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Desk diaries illustrate O'Donnell's daily activities and
+				  contacts.</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02> 
+			 <did> 
+				<unittitle>Union dues books, </unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1929-1952, 1957-1961, 1965-1967,
+				  1971-1977. </unitdate> 
+				<physdesc>11 volumes.</physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02> 
+			 <did> 
+				<unittitle>Membership, identification, and business cards,
+				  </unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1937-1984. </unitdate> 
+				<physdesc>10 envelopes including 97 items.</physdesc> 
+			 </did> 
+		  </c02> 
+		</c01> 
+		<c01 level="series"> 
+		  <did> 
+			 <unittitle>Subject Files</unittitle> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Subject files detail O'Donnell's varied activities (especially in
+				the DFL and the state pipe trades association) and contain correspondence,
+				minutes, printed materials, convention data, and legislative files, as well as
+				agreements and contracts for the Minnesota State Pipe Trades Association. Files
+				on the wartime civic activities (1941-1951) of the St. Paul Trades and Labor
+				Assembly contain information on civilian defense programs, war bond drives, and
+				other U.S. government civilian activities during World War II.</p> 
+		  </scopecontent> 
+		   
+			  
+				 
+				 
+			  
+		   
+		  <c02> 
+			 <did> 
+				<physloc>149.E.11.8F</physloc> 
+				<container>1</container> 
+				<unittitle>American Federation of Labor national convention (St.
+				  Paul), </unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">October 1949.</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02> 
+			 <did> 
+				<unittitle>Democratic-Farmer-Labor Party, </unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1941-1977. </unitdate> 
+				<physdesc>11 folders.</physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Includes some Farmer-Labor and Democratic National Committee
+				  materials. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02> 
+			 <did> 
+				<physloc>149.E.11.9B</physloc> 
+				<container>2</container> 
+				<unittitle>Employer-employee education program, </unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1950-1953. </unitdate> 
+				<physdesc>2 folders.</physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02> 
+			 <did> 
+				<unittitle>Greater St. Paul Community Chest (and successors),
+				  </unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1941-1953. </unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02> 
+			 <did> 
+				<unittitle>Industrial Relations Council for the Plumbing and Pipe
+				  Fitting Industry, </unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1950-1971. </unitdate> 
+				<physdesc>6 folders. </physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02> 
+			 <did> 
+				<unittitle>Labor School, </unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1953. </unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02> 
+			 <did> 
+				<unittitle>Minnesota Federation of Labor, </unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1943-1979. </unitdate> 
+				<physdesc>4 folders. </physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Includes convention materials. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02> 
+			 <did> 
+				<unittitle><emph render="bold">Minnesota State Pipe Trades
+				  Association: </emph></unittitle> 
+			 </did> 
+			 <c03> 
+				<did> 
+				  <unittitle>Background information on Local No. 455 (St. Paul) and
+					 the United Association.</unittitle> 
+				</did> 
+			 </c03> 
+			 <c03> 
+				<did> 
+				  <unittitle>Correspondence and related papers, </unittitle> 
+				  <unitdate type="inclusive" era="ce" calendar="gregorian">1938-1979. </unitdate> 
+				  <physdesc>9 folders. </physdesc> 
+				</did> 
+			 </c03> 
+			 <c03> 
+				<did> 
+				  <physloc>149.E.11.10F</physloc> 
+				  <container>3</container> 
+				  <unittitle>Agreements and contracts, </unittitle> 
+				  <unitdate type="inclusive" era="ce" calendar="gregorian">1939-1984. </unitdate> 
+				  <physdesc>3 folders. </physdesc> 
+				</did> 
+			 </c03> 
+			 <c03> 
+				<did> 
+				  <unittitle>Business agents, </unittitle> 
+				  <unitdate type="inclusive" era="ce" calendar="gregorian">1962-1970. </unitdate> 
+				  <physdesc>3 folders. </physdesc> 
+				</did> 
+			 </c03> 
+			 <c03> 
+				<did> 
+				  <unittitle>Conventions (Minnesota), </unittitle> 
+				  <unitdate type="inclusive" era="ce" calendar="gregorian">1930-1977. </unitdate> 
+				  <physdesc>4 folders. </physdesc> 
+				</did> 
+			 </c03> 
+			 <c03> 
+				<did> 
+				  <unittitle>Legislative committee, </unittitle> 
+				  <unitdate type="inclusive" era="ce" calendar="gregorian">1949-1967. </unitdate> 
+				  <physdesc>2 folders. </physdesc> 
+				</did> 
+			 </c03> 
+			 <c03> 
+				<did> 
+				  <unittitle>Lists, </unittitle> 
+				  <unitdate type="inclusive" era="ce" calendar="gregorian">1942-1946. </unitdate> 
+				</did> 
+			 </c03> 
+			 <c03> 
+				<did> 
+				  <unittitle>Pipe Fitters Local No. 455 (St. Paul), </unittitle> 
+				  <unitdate type="inclusive" era="ce" calendar="gregorian">1940-1964. </unitdate> 
+				</did> 
+			 </c03> 
+			 <c03> 
+				<did> 
+				  <unittitle>St. Paul Plumbing and Pipe Fitting Joint
+					 Apprenticeship Committee: Minutes and correspondence, </unittitle> 
+				  <unitdate type="inclusive" era="ce" calendar="gregorian">1939-1976. </unitdate> 
+				  <physdesc>2 folders. </physdesc> 
+				</did> 
+			 </c03> 
+			 <c03> 
+				<did> 
+				  <unittitle>Work diary sheets, </unittitle> 
+				  <unitdate type="inclusive" era="ce" calendar="gregorian">1959-1965. </unitdate> 
+				  <physdesc>2 folders. </physdesc> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		  <c02> 
+			 <did> 
+				<unittitle>Public housing, </unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1951. </unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02> 
+			 <did> 
+				<physloc>149.E.12.1B</physloc> 
+				<container>4</container> 
+				<unittitle><emph render="bold">St. Paul Trades and Labor Assembly:
+				  </emph></unittitle> 
+			 </did> 
+			 <c03> 
+				<did> 
+				  <unittitle>Correspondence and related papers, </unittitle> 
+				  <unitdate type="inclusive" era="ce" calendar="gregorian">1941-1971. </unitdate> 
+				  <physdesc>2 folders. </physdesc> 
+				</did> 
+			 </c03> 
+			 <c03> 
+				<did> 
+				  <unittitle>Civil defense and other wartime organizations,
+					 </unittitle> 
+				  <unitdate type="inclusive" era="ce" calendar="gregorian">1941-1951. </unitdate> 
+				  <physdesc>2 folders. </physdesc> 
+				</did> 
+			 </c03> 
+			 <c03> 
+				<did> 
+				  <unittitle>AFL-CIO retiree chapter, </unittitle> 
+				  <unitdate type="inclusive" era="ce" calendar="gregorian">1976-1978. </unitdate> 
+				  <physdesc>2 folders. </physdesc> 
+				</did> 
+			 </c03> 
+			 <c03> 
+				<did> 
+				  <unittitle>St. Paul Zoning Board, </unittitle> 
+				  <unitdate type="inclusive" era="ce" calendar="gregorian">1950-1954. </unitdate> 
+				  <physdesc>2 folders. </physdesc> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		</c01> 
+		<c01 level="series"> 
+		  <did> 
+			 <unittitle>Chronological Papers</unittitle> 
+		  </did> 
+		  <scopecontent> 
+			 <p>A primarily chronological series of papers covering the period
+				1921 to 1985 contains correspondence, news clippings, photographs, membership
+				cards, memorabilia, and other materials compiled by O'Donnell's daughter,
+				Geraldine O'Donnell O'Keefe, in nine volumes. In some cases O'Keefe has
+				provided explanations, interpretations, and other contextual information about
+				the materials she compiled. Correspondence from certain particularly prominent
+				individuals, mostly related to O'Donnell's work with the DFL party, are in
+				separate notebooks and are displayed with news clippings providing additional
+				background on that correspondent. </p> 
+			 <p>Note that in some cases additional related material may be found
+				in the other portions of the collection. </p> 
+		  </scopecontent> 
+		  <c02> 
+			 <did> 
+				<physloc>152.C.18.3B</physloc> 
+				<container>6</container> 
+				<unittitle>Book 1, </unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1921-1947. </unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02> 
+			 <did> 
+				<unittitle>Book 2, </unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1948-1950. </unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02> 
+			 <did> 
+				<unittitle>Book 3, </unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1951-1953. </unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02> 
+			 <did> 
+				<unittitle>Book 4, </unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1954-1961. </unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02> 
+			 <did> 
+				<unittitle>Book 5: Father Gilligan, newspaper clippings,
+				  </unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1940s-1970s.</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02> 
+			 <did> 
+				<unittitle>Book 6: Truman, Kennedy, Stevenson, Harriman, Kefauver,
+				  </unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1940s-1950s. </unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02> 
+			 <did> 
+				<physloc>152.C.18.4F</physloc> 
+				<container>7</container> 
+				<unittitle>Book 7: Hubert Humphrey, </unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1948-1967, 1976. </unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02> 
+			 <did> 
+				<unittitle>Book 8: Eugene McCarthy, Governor Freeman, Walter
+				  Mondale, </unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1940s-1970s. </unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02> 
+			 <did> 
+				<unittitle>Book 9: Retirement, </unittitle> 
+				<unitdate type="inclusive" era="ce" calendar="gregorian">1966-1985. </unitdate> 
+			 </did> 
+			 <scopecontent> 
+				<p>Includes obituaries and the program and address from O'Donnell's
+				  funeral on November 25th, 1985. </p> 
+			 </scopecontent> 
+		  </c02> 
+		</c01> 
+	 </dsc> 
+  </archdesc>
+</ead>

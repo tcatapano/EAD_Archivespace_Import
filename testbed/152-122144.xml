@@ -1,0 +1,115 @@
+<?xml version="1.0"?>
+<ead>
+  
+  
+  
+  
+  
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" scriptencoding="iso15924" audience="internal" repositoryencoding="iso15511" findaidstatus="unverified-full-draft" langencoding="iso639-2b"><eadid xmlns:cdlpath="http://www.cdlib.org/path/" identifier="ark:/13030/kt967nb5t2" mainagencycode="CU-I" countrycode="us" publicid="PUBLIC -//University of California, Irvine::Library::Special Collections and Archives//TEXT (US::CU-I::MS-P39::Collection of European Women's Fashion Drawings)//EN p39.xml" cdlpath:parent="ark:/13030/tf1p3008cx" cdlpath:grandparent="ark:/13030/tf3f59p4sv">p39.xml</eadid><filedesc>
+      <titlestmt>
+        <titleproper>Guide to the Collection of European Women's Fashion Drawings, <date calendar="gregorian" era="ce">circa 1940s</date></titleproper><titleproper type="filing">European Women's Fashion Drawings, Collection of </titleproper>
+        <author>Processed by Andre Ambrus.</author>
+      </titlestmt>
+      <publicationstmt>
+        <date calendar="gregorian" era="ce"> 2003</date>
+        <p>The Regents of the University of California. All rights reserved.</p>
+      </publicationstmt>
+    </filedesc><profiledesc>
+      <creation>Machine-readable finding aid created by Andre Ambrus.
+Date of source: <date calendar="gregorian" era="ce">2002.</date></creation>
+      <langusage>Description is in <language>English.</language></langusage>
+    </profiledesc><revisiondesc>
+      <change>
+        <date calendar="gregorian" era="ce" normal="20040323">March 23, 2004</date>
+        <item>PUBLIC "-//University of California, Irvine::Library::Special Collections and Archives//TEXT (US::CU-I::MS-P39::Collection of European Women's Fashion Drawings)//EN" "p39.xml"
+ converted from EAD 1.0 to 2002 by v1to02.cdl.xsl (2004-09-16).</item>
+      </change>
+    </revisiondesc></eadheader>
+  <frontmatter>
+    <titlepage>
+      <titleproper>Guide to the Collection of European Women's Fashion Drawings, <date calendar="gregorian" era="ce">circa 1940s</date></titleproper>
+      <num>Collection number: MS-P39</num>
+      <publisher>Special Collections and Archives
+<lb/>The UCI Libraries
+<lb/>extptr actuate="auto" show="embed" entityref="ucseal/"
+<lb/>University of California
+<lb/>Irvine, California</publisher>
+      <list type="deflist">
+        <defitem>
+          <label>Processed by: </label>
+          <item>Andre Ambrus</item>
+        </defitem>
+        <defitem>
+          <label>Date Completed: </label>
+          <item>2002</item>
+        </defitem>
+        <defitem>
+          <label>Encoded by: </label>
+          <item>Andre Ambrus</item>
+        </defitem>
+      </list>
+      <p> 2003 The Regents of the University of California. All rights reserved.</p>
+    </titlepage>
+  </frontmatter>
+  <archdesc level="collection" id="archdesc-1.3">
+    <did id="did-1.8.1">
+      <head>Descriptive Summary</head>
+      <unittitle label="Title">Collection of European women's fashion drawings, </unittitle><unitdate calendar="gregorian" era="ce" type="inclusive">circa 1940s</unitdate>
+      <unitid label="Collection number" repositorycode="CUI" countrycode="US">MS-P039</unitid>
+      <origination label="Collector">
+        <corpname rules="aacr2" role="collector">University of California, Irvine. Library. Dept. of Special Collections and Archives.</corpname>
+      </origination>
+      <physdesc label="Extent">
+        <extent>1 linear foot (1 box) </extent>
+      </physdesc>
+      <repository label="Repository">
+        <corpname source="lcnaf">University of California, Irvine. Library.
+<subarea>Special Collections and Archives.</subarea></corpname>
+        <address>
+          <addressline>Irvine, California 92623-9557</addressline>
+        </address>
+      </repository>
+      <abstract label="Abstract">This collection comprises a bound volume of 91 drawings of European women's fashion from the 1940s. The names of the dresses are handwritten on the drawings, in pencil. Languages include French, German, and English.</abstract>
+      <langmaterial label="Language">
+        <language langcode="eng">English.</language>
+      </langmaterial>
+    </did>
+    <descgrp id="descgrp-1.8.2" type="admininfo">
+      <head>Administrative Information</head>
+      <accessrestrict>
+        <head>Access</head>
+        <p>Collection is open for research.</p>
+      </accessrestrict>
+      <userestrict>
+        <head>Publication Rights</head>
+        <p>Property rights reside with the University of California. Literary rights are retained by the creators of the records and their heirs. For permissions to reproduce or to publish, please contact the Head of Special Collections and University Archives.</p>
+      </userestrict>
+      <prefercite>
+        <head>Preferred Citation</head>
+        <p>Collection of European Women's Fashion Drawings. MS-P39. Special Collections and Archives, The UC Irvine Libraries, Irvine, California.</p>
+      </prefercite>
+      <acqinfo>
+        <head>Acquisition Information</head>
+        <p>Acquired, 2000.</p>
+      </acqinfo>
+      <processinfo>
+        <head>Processing History</head>
+        <p>Processed by Andre Ambrus, 2002.</p>
+      </processinfo>
+    </descgrp>
+    <scopecontent id="scopecontent-1.8.3">
+      <head>Collection Scope and Content Summary</head>
+      <p>This collection comprises a bound volume of 91 drawings of European women's fashion from the 1940s. The names of the dresses are handwritten on the drawings in pencil. Languages include French, German, and English.</p>
+      <p>Each drawing measures approximately 8 x 11 inches. Every page is hand-painted on onion-skin paper by a single artist employing the same style. The album measures 12 x 15 inches and bears the title Modelle on the front page.</p>
+    </scopecontent>
+    <dsc id="dsc-1.8.4" type="combined" score="1" C-ORDER="1" MAX-C-ORDER="2">
+      <head>Collection Contents</head>
+      <c01 id="c01-1.8.4.2" level="file" score="1" C-ORDER="2">
+        <did>
+          <container type="Box-folder" label="Box:">1 : 1</container>
+          <unittitle>Fashion plates,<unitdate calendar="gregorian" era="ce" normal="1940/1965">circa 1940</unitdate></unittitle>
+        </did>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

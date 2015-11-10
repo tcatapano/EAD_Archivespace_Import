@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead relatedencoding="MARC21"> 
+<eadheader id="a0" audience="internal" findaidstatus="edited-full-draft"
+ langencoding="iso639-2b" repositoryencoding="iso15511"
+ countryencoding="iso3166-1" scriptencoding="iso15924" dateencoding="iso8601"> 
+  <eadid countrycode="us" mainagencycode="TxU-TH"
+	encodinganalog="852$a">urn:taro:utexas.cah.00199</eadid> 
+  <filedesc> 
+	 <titlestmt> 
+		<titleproper>A Guide to the Gordon Thomas Whyburn Papers,
+		  1926-1929</titleproper> 
+	 </titlestmt> 
+  </filedesc> 
+  <profiledesc> 
+	 <creation>Text converted and initial EAD tagging done by Traci JoLeigh
+		Drummond on 
+		<date era="ce" calendar="gregorian">05/15/2003</date> </creation> 
+	 <langusage>Finding aid written in <language>English.</language>
+		</langusage> 
+  </profiledesc> 
+  <revisiondesc> 
+	 <change> 
+		<date>Tue Jul 22 15:29:11 CDT 2003</date> 
+		<item>urn:taro:utexas.cah.00199 converted from EAD 1.0 to 2002 by
+		  v1to02.xsl (20030505).</item> 
+	 </change> 
+  </revisiondesc> 
+</eadheader> 
+<archdesc type="inventory" level="collection"> 
+  <did id="a1"> 
+	 <head>Descriptive Summary</head> 
+	 <origination label="Creator"> 
+		<persname encodinganalog="100" source="lcnaf">Whyburn, Gordon Thomas,
+		  1904-</persname> </origination> 
+	 <unittitle encodinganalog="245" label="Title">Gordon Thomas Whyburn
+		Papers</unittitle> 
+	 <unitdate encodinganalog="245$f" type="inclusive" normal="1926/1929"
+	  era="ce" calendar="gregorian">1926-1929</unitdate> 
+	 <unitid countrycode="us" repositorycode="TxU-TH"
+	  encodinganalog="099" label="Accession No.">98-082</unitid> 
+	 <physdesc label="Extent" encodinganalog="300$a">1 inch</physdesc> 
+	 <repository encodinganalog="852$a" label="Repository"> 
+		<corpname> <subarea>Dolph Briscoe Center for American History,</subarea>The University
+		  of Texas at Austin</corpname> </repository> 
+	 <abstract label="Abstract" encodinganalog="520$a">The Whyburn (Gordon
+		Thomas) Papers consist of 17 off-prints (bound copies of articles published in
+		journals) of Whyburn's contributions to scientific and mathematical journals
+		between 1926 and 1929. </abstract> <langmaterial label="Language">
+	 <language langcode="eng">English.</language> </langmaterial> 
+  </did> 
+  <bioghist encodinganalog="545" id="a2"> 
+	 <head>Biographical Note</head> 
+	 <p>Gordon Thomas Whyburn (1904-1969) attended the University of Texas at
+		Austin, obtaining Bachelors and Masters Degrees from the Department of
+		Chemistry. He earned his Ph. D. in Mathematics in 1927 and became adjunct
+		professor of mathematics from 1927 to 1929. Whyburn studied in Europe with Hans
+		Hahn, Kazimerz Kuratowski, and Waclaw Sierpinski before being appointed
+		associate professor of mathematics at Johns Hopkins University in 1930. In
+		1934, he accepted appointment as professor and chairman of the Department of
+		Mathematics at the University of Virginia, where he stayed for the remainder of
+		his career. He researched topology, cyclic elements, the structure of continua,
+		homology theory, and examined different notions of convergents in the space of
+		all subsets of a compact metric space.</p> 
+  </bioghist> 
+  <scopecontent id="a3" encodinganalog="520"> 
+	 <head>Scope and Contents</head> 
+	 <p>The Whyburn (Gordon Thomas) Papers consist of 17 off-prints (bound
+		copies of articles published in journals) of Whyburn's contributions to
+		scientific and mathematical journals between 1926 and 1929.</p> 
+	 <p>Forms part of the Archives of American Mathematics</p> 
+  </scopecontent> 
+  <accessrestrict id="a14" encodinganalog="506"> 
+	 <head>Access Restrictions</head> 
+	 <p>Unrestricted access</p> 
+  </accessrestrict> 
+  <prefercite id="a18" encodinganalog="524"> 
+	 <head>Preferred Citation</head> 
+	 <p>Gordon Thomas Whyburn Papers, 1926-1929, Archives of American
+		Mathematics, Dolph Briscoe Center for American History, The University of Texas at Austin</p>
+	 
+  </prefercite> 
+  <controlaccess id="a12"> 
+	 <head>Index Terms</head> 
+	 <controlaccess> 
+		<head>Subjects</head> 
+		<persname encodinganalog="700" source="lcnaf">Whyburn, Gordon Thomas,
+		  1904-</persname> 
+		<corpname encodinganalog="610" source="local">University of Texas at
+		  Austin. Dept. of Mathematics</corpname> 
+		<subject encodinganalog="600" source="lcsh">Continuum
+		  (mathematics)</subject> 
+		<subject encodinganalog="650" source="lcsh">Convergence</subject> 
+		<subject encodinganalog="650" source="lcsh">Homology Theory</subject> 
+		<subject encodinganalog="650" source="lcsh">Mathematics -
+		  Periodicals</subject> 
+		<subject encodinganalog="650" source="lcsh">Mathematics - Study and
+		  teaching - United States</subject> 
+		<subject encodinganalog="650" source="lcsh">Topology</subject> 
+	 </controlaccess> 
+  </controlaccess> 
+  <dsc id="a23" type="in-depth"> 
+	 <head>Detailed Description of the Collection</head> 
+	 <c01> 
+		<did> 
+		  <unittitle>Literary productions of Gordon T. Whyburn:</unittitle> 
+		</did> 
+		<c02> 
+		  <did> <container type="Box">2.325/A101</container> 
+			 <unittitle>"Two-Way Continuous Curves," Bulletin of the American
+				Mathematical Society, </unittitle> 
+			 <unitdate era="ce" calendar="gregorian">November-December,
+				1926.</unitdate> 
+		  </did> 
+		</c02> 
+		<c02> 
+		  <did> <container type="Box">2.325/A101</container> 
+			 <unittitle>"Concerning Certain Types of Continuous Curves,"
+				Proceedings of the National Academy of Sciences, vol. 12, no. 12,</unittitle> 
+			 <unitdate era="ce" calendar="gregorian"> December 1926.</unitdate> 
+		  </did> 
+		</c02> 
+		<c02> 
+		  <did> <container type="Box">2.325/A101</container> 
+			 <unittitle>"Cyclicly Connected Continuous Curves," Proceedings of the
+				National Academy of Sciences, vol. 13, no. 2,</unittitle> 
+			 <unitdate era="ce" calendar="gregorian"> February 1927.</unitdate> 
+		  </did> 
+		</c02> 
+		<c02> 
+		  <did> <container type="Box">2.325/A101</container> 
+			 <unittitle>"The Most General Closed Point Set Over Which Continuous
+				Function May be Defined By Certain Properties," Bulletin of the American
+				Mathematical Society, </unittitle> 
+			 <unitdate era="ce" calendar="gregorian">March-April 1927.</unitdate> 
+		  </did> 
+		</c02> 
+		<c02> 
+		  <did> <container type="Box">2.325/A101</container> 
+			 <unittitle>"Concerning Continua in the Plane" (Doctoral
+				Dissertation), Transactions of the American Mathematical Society, vol. 29, no.
+				2,</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">April 1927.</unitdate> 
+		  </did> 
+		</c02> 
+		<c02> 
+		  <did> <container type="Box">2.325/A101</container> 
+			 <unittitle>"Some Properties of Continuous Curves," Bulletin of the
+				American Mathematical Society, </unittitle> 
+			 <unitdate era="ce" calendar="gregorian">May-June 1927.</unitdate> 
+		  </did> 
+		</c02> 
+		<c02> 
+		  <did> <container type="Box">2.325/A101</container> 
+			 <unittitle>"Concerning the Open Subsets of a Plane Continuous Curve,"
+				Proceedings of the National Academy of Sciences, vol. 13, no. 9,</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">September 1927.</unitdate> 
+		  </did> 
+		</c02> 
+		<c02> 
+		  <did> <container type="Box">2.325/A101</container> 
+			 <unittitle>"Concerning Point Sets Which Can Be Made Connected by the
+				Addition of a Simple Continuous Arc," Transactions of the American Mathematical
+				Society, vol. 29, no. 4,</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">October 1927.</unitdate> 
+		  </did> 
+		</c02> 
+		<c02> 
+		  <did> <container type="Box">2.325/A101</container> 
+			 <unittitle>"Concerning Regular and Connected Point Sets," Bulletin of
+				the American Mathematical Society, </unittitle> 
+			 <unitdate era="ce" calendar="gregorian">November-December
+				1927.</unitdate> 
+		  </did> 
+		</c02> 
+		<c02> 
+		  <did> <container type="Box">2.325/A101</container> 
+			 <unittitle>"On Continuous Curves in n Dimensions," Bulletin of the
+				American Mathematical Society, </unittitle> 
+			 <unitdate era="ce" calendar="gregorian">May-June 1928.</unitdate> 
+		  </did> 
+		</c02> 
+		<c02> 
+		  <did> <container type="Box">2.325/A101</container> 
+			 <unittitle>"Concerning the Structure of a Continuous Curve," American
+				Journal of Mathematics, vol. 50, no.2, </unittitle> 
+			 <unitdate era="ce" calendar="gregorian">April 1928.</unitdate> 
+		  </did> 
+		</c02> 
+		<c02> 
+		  <did> <container type="Box">2.325/A101</container> 
+			 <unittitle>"Concerning the Cut Points of Continua," Transactions of
+				the American Mathematical Society, vol. 30, no. 3</unittitle> 
+			 <unitdate era="ce" calendar="gregorian"> July 1928.</unitdate> 
+		  </did> 
+		</c02> 
+		<c02> 
+		  <did> <container type="Box">2.325/A101</container> 
+			 <unittitle>"Concerning the Complementary Domains of Continua," Annals
+				of Mathematics, vol. 29, no.4,</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">November 1928.</unitdate> 
+		  </did> 
+		</c02> 
+		<c02> 
+		  <did> <container type="Box">2.325/A101</container> 
+			 <unittitle>"On Certain Accessible Points of Plane Continua,"
+				Monatshefte fur Mathematik und Physik, vol.35,</unittitle> 
+			 <unitdate era="ce" calendar="gregorian"> 1928.</unitdate> 
+		  </did> 
+		</c02> 
+		<c02> 
+		  <did> <container type="Box">2.325/A101</container> 
+			 <unittitle>"On a Problem of W. L. Ayres," Fundamenta Mathematicae,
+				vol. 11,</unittitle> 
+			 <unitdate era="ce" calendar="gregorian">1928.</unitdate> 
+		  </did> 
+		</c02> 
+		<c02> 
+		  <did> <container type="Box">2.325/A101</container> 
+			 <unittitle>"Concerning Menger Regular Curves," Fundamenta
+				Mathematicae, vol. 12, </unittitle> 
+			 <unitdate era="ce" calendar="gregorian">1928.</unitdate> 
+		  </did> 
+		</c02> 
+		<c02> 
+		  <did> <container type="Box">2.325/A101</container> 
+			 <unittitle>"On Regular Points of Continua and Regular Curves of at
+				Most Order n," Bulletin of the American Mathematical Society, </unittitle> 
+			 <unitdate era="ce" calendar="gregorian">March-April 1929.</unitdate> 
+		  </did> 
+		</c02> 
+	 </c01> 
+  </dsc> 
+</archdesc>
+</ead>

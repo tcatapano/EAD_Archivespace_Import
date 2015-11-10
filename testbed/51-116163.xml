@@ -1,0 +1,775 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead
+  PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd"
+
+>
+
+<ead>
+
+
+<eadheader audience="internal" langencoding="iso639-2b" findaidstatus="unverified-partial-draft" repositoryencoding="iso15511" scriptencoding="iso15924" dateencoding="iso8601" countryencoding="iso3166-1">
+<eadid publicid="PUBLIC -//National Library of Medicine::History of Medicine Division//TEXT
+(US::DNLM::MS C 28::Victor Robinson Papers)//EN robinson028" countrycode="us" mainagencycode="DNLM">robinson028</eadid>
+<filedesc><titlestmt><titleproper>Finding Aid to the Victor Robinson Papers, <date era="ce" calendar="gregorian">1898-1947</date></titleproper><author>Archives and Modern Manuscripts Program, History of Medicine Division</author>
+</titlestmt>
+<editionstmt>
+<edition>1.0</edition>
+</editionstmt>
+<publicationstmt>
+<publisher>History of Medicine Division, National Library of Medicine.</publisher>
+<address><addressline>8600 Rockville Pike</addressline>
+<addressline>Bethesda, Maryland, 20894</addressline>
+<addressline>USA</addressline>
+<addressline>Phone: (301) 402-8878 (Reference Desk)</addressline>
+<addressline>Fax: (301) 402-0872</addressline>
+<addressline>Email: hmdref@nlm.nih.gov</addressline>
+</address>
+</publicationstmt></filedesc>
+<profiledesc>
+<creation>Machine-readable finding aid encoded by Jim Labosier</creation>
+<langusage>Finding aid is written in <language>English.</language></langusage>
+</profiledesc></eadheader>
+
+
+<frontmatter>
+<titlepage>
+<titleproper>Finding Aid to the Victor Robinson Papers<date era="ce" calendar="gregorian">1898-1947</date></titleproper>
+
+<num>MS C 28</num>
+<author>Archives and Modern Manuscripts Program, History of Medicine Division</author>
+<publisher>National Library of Medicine<lb/>
+</publisher>
+<date type="publication" era="ce" calendar="gregorian">2002</date>
+<edition>1.0</edition>
+<list type="simple"><head>Contact Information</head>
+<item>History of Medicine Division</item>
+<item>National Library of Medicine</item>
+<item>8600 Rockville Pike</item>
+<item>Bethesda, Maryland</item>
+<item>USA</item>
+<item>Phone: (301) 402-8878 (Reference Desk)</item>
+<item>Fax: (301) 402-0872</item>
+<item>Email: hmdref@nlm.nih.gov</item>
+</list>
+
+<list type="deflist">
+<defitem>
+<label>Processed by </label>
+<item>HMD Staff; Jim Labosier</item>
+</defitem>
+<defitem>
+<label>Re-Processing Completed </label>
+<item>2002</item>
+</defitem>
+<defitem><label>Encoded by </label><item>Jim Labosier</item></defitem></list>
+</titlepage>
+
+</frontmatter>
+
+<archdesc relatedencoding="marc21" level="collection">
+
+
+
+
+<did>
+<head>Descriptive Summary</head><origination label="Creator:"><persname encodinganalog="100">Robinson, Victor, 1886-1947</persname></origination>
+<unittitle label="Title:" encodinganalog="245">Victor Robinson Papers
+<unitdate type="inclusive" era="ce" calendar="gregorian">1898-1947</unitdate>
+</unittitle>
+<physdesc label="Extent:" encodinganalog="300">2.94 linear feet</physdesc>
+<unitid label="Collection number:" encodinganalog="060">MS C 28</unitid>
+<repository label="Repository:" encodinganalog="852">
+<corpname>History of Medicine Division. National Library of Medicine</corpname>
+</repository>
+<langmaterial label="Language:">Collection materials primarily in 
+<language langcode="eng">English.</language>
+</langmaterial>
+<abstract label="Abstract:">Victor Robinson founded the journal Medical life, the first in the English language on the history of medicine, and helped organize the History of Science Society in 1924. The collection contains correspondence, original typescripts, unpublished monographs, articles, notes, and biographical data.</abstract>
+</did>
+
+
+<descgrp type="admininfo">
+<acqinfo encodinganalog="541"><head>Provenance</head>
+<p>Gift from S.R. Shapiro, 1955.</p>
+</acqinfo>
+
+<accessrestrict encodinganalog="506"><head>Restrictions</head>
+<p>Collection is not restricted. Contact the Reference Staff for information regarding access.</p>
+</accessrestrict>
+
+<userestrict encodinganalog="540">
+<head>Copyright</head>
+<p>Copyright was transferred to the public domain. Contact the Reference Staff for details regarding rights.</p>
+</userestrict>
+ 
+<prefercite encodinganalog="524"><head>Preferred Citation</head>
+<p>Robinson, Victor. Victor Robinson Papers. 1898-1947. Located in: Modern Manuscripts Collection, History of Medicine Division, National Library of Medicine, Bethesda, MD; MS C 28.</p>
+</prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<head>Biographical Note</head>
+<p>Victor Robinson (1886-1947), son of a Russian physician, was born in the Ukraine. He studied pharmacy at New York University and the New York College of Pharmacy and law at Columbia University. Robinson received his doctor of medicine degree from the Chicago College of Medicine and Surgery (now Loyola University) in 1917.</p>
+<p>
+He founded <title>Medical life</title>, the first English language journal on the history of medicine, and helped organize the History of Science Society in 1924. In 1932 he photographed and studied archaeological sites of medico-historical interest in Crete, Greece and Italy. In addition to editing Medical life, Robinson also wrote and edited many works on the history of medicine. He was the subject of Victor Robinson, a romantic medical historian (1959) by George Rosen. </p>
+<p>
+Among his own writings are <title>Essay on hasheesh: including observations and experiments</title> (1912, 1925), <title>Pathfinders in medicine</title> (1912,1929), <title>Don Quixote of psychiatry</title> (1919), <title>Pioneers of birth control in England and America</title> (1919), <title>Life of Jacob Henle</title> (1921), <title>Story of medicine</title> (1931), <title>Dr. Jad; the way of life of a physician</title> (1941), <title>Morals in wartime</title> (1943), <title>White Caps; the story of nursing</title> (1946) and <title>Victory over pain; a history of anesthesia</title> (1946). He served as editor for <title>Encyclopedia sexualis; a comprehensive dictionary-encyclopaedia of the sexual sciences</title> (1936), <title>Modern home physician; an encyclopedia of medical knowledge</title> (1938) and <title>New peoples physician; the concise encyclopedia of health</title> (1941).
+</p>
+</bioghist>
+
+<scopecontent encodinganalog="520">
+<head>Collection Summary</head>
+<p>The collection contains correspondence, original typescripts, unpublished monographs, articles, notes, and biographical data. Correspondence consists of general correspondence and that pertaining to Encyclopedia sexualis (1933-36). Biographical data relates to contributors to the encyclopedia, and to Chicago otologists. Monographs, articles and drafts include "The price of prudery"; "Riddle of the underworld" (1921) by Ralph Werther; "History of aviation medicine" by Claude Bernard; "Prostitution in France" by Gabriel Giroud; "Sisters in calamity" by Thomas De Quincey; and "Recollections of a prison physician" by Leon Clement Bizard. Contains original typescripts of "Victory over pain: a history of anesthesia"; and "White caps: the story of nursing" (1945). Correspondents are extensive. The Fielding Garrison correspondence (1915-33, ca. 135 items) and drafts of articles by Garrison are arranged separately.</p>
+</scopecontent>
+      <controlaccess>
+         <head>Index Terms</head>
+         <p>These terms are indexed in the National Library of Medicine's online catalog LocatorPlus. Researchers wishing to find related materials should search the catalog using these terms.</p>
+         <controlaccess>
+            <head>MeSH Subjects</head>
+            <subject source="mesh" encodinganalog="650">Otolaryngology</subject>
+            <subject source="mesh" encodinganalog="650">Sex</subject>
+            <subject source="mesh" encodinganalog="650">Sexually Transmitted Diseases</subject>
+         </controlaccess>
+         <controlaccess>
+            <head>Personal Names</head>
+            <persname encodinganalog="700">Garrison, Fielding H. (Fielding Hudson), 1870-1935</persname>
+            <persname encodinganalog="600">Henle, Jacob, 1809-1885</persname>
+         </controlaccess>
+      </controlaccess>
+<dsc type="combined">
+<head>Series Descriptions</head>
+<!-- Insert EAD box list below -->
+<!--NEW Box/folder list printed 12/9/2004
+ Collection ID = MS C 28. -->
+
+
+
+<c01 level="series"><did><unittitle>
+Series I: Correspondence, 
+<unitdate era="ce" calendar="gregorian">1898-1947</unitdate></unittitle><physdesc> </physdesc></did><scopecontent><p></p></scopecontent>
+
+
+<c02><did><container type="box">1</container><container type="folder">1</container><unittitle>
+A-B, 
+<unitdate era="ce" calendar="gregorian">1910-1946</unitdate></unittitle></did></c02>
+
+
+<c02><did><container type="box">1</container><container type="folder">2</container><unittitle>
+C-D, 
+<unitdate era="ce" calendar="gregorian">1916-1946</unitdate></unittitle></did></c02>
+
+
+<c02><did><container type="box">1</container><container type="folder">3</container><unittitle>
+E-F, 
+<unitdate era="ce" calendar="gregorian">1905-1946</unitdate></unittitle></did></c02>
+
+
+<c02><did><container type="box">1</container><container type="folder">4</container><unittitle>
+G, 
+<unitdate era="ce" calendar="gregorian">1927-1946</unitdate></unittitle></did></c02>
+
+
+<c02><did><container type="box">1</container><container type="folder">5</container><unittitle>
+H-J, 
+<unitdate era="ce" calendar="gregorian">1913-1944</unitdate></unittitle></did></c02>
+
+
+<c02><did><container type="box">1</container><container type="folder">6</container><unittitle>
+K, 
+<unitdate era="ce" calendar="gregorian">1904-1947</unitdate></unittitle></did></c02>
+
+
+<c02><did><container type="box">1</container><container type="folder">7</container><unittitle>
+L, 
+<unitdate era="ce" calendar="gregorian">1912-1946</unitdate></unittitle></did></c02>
+
+
+<c02><did><container type="box">1</container><container type="folder">8</container><unittitle>
+M, 
+<unitdate era="ce" calendar="gregorian">1909-1945</unitdate></unittitle></did></c02>
+
+
+<c02><did><container type="box">1</container><container type="folder">9</container><unittitle>
+N-Q, 
+<unitdate era="ce" calendar="gregorian">1913-1945</unitdate></unittitle></did></c02>
+
+
+<c02><did><container type="box">1</container><container type="folder">10</container><unittitle>
+R, 
+<unitdate era="ce" calendar="gregorian">1911-1948</unitdate></unittitle></did></c02>
+
+
+<c02><did><container type="box">1</container><container type="folder">11</container><unittitle>
+S, 
+<unitdate era="ce" calendar="gregorian">1912-1946</unitdate></unittitle></did></c02>
+
+
+<c02><did><container type="box">1</container><container type="folder">12</container><unittitle>
+T-V, 
+<unitdate era="ce" calendar="gregorian">1913-1946</unitdate></unittitle></did></c02>
+
+
+<c02><did><container type="box">1</container><container type="folder">13</container><unittitle>
+W-Z, 
+<unitdate era="ce" calendar="gregorian">1912-1946</unitdate></unittitle></did></c02>
+
+
+<c02><did><container type="box">1</container><container type="folder">14</container><unittitle>
+Castiglioni, 
+<unitdate era="ce" calendar="gregorian">1898-1926</unitdate></unittitle></did></c02>
+
+
+<c02><did><container type="box">1</container><container type="folder">15</container><unittitle>
+Castiglioni festschrift, 
+<unitdate era="ce" calendar="gregorian">1922-1934</unitdate></unittitle></did></c02>
+
+
+<c02><did><container type="box">1</container><container type="folder">16</container><unittitle>
+Ebstein, 
+<unitdate era="ce" calendar="gregorian">1922-1923</unitdate></unittitle></did></c02>
+
+
+<c02><did><container type="box">1</container><container type="folder">17</container><unittitle>
+Haberling, 
+<unitdate era="ce" calendar="gregorian">1928-1930</unitdate></unittitle></did></c02>
+
+
+<c02><did><container type="box">1</container><container type="folder">18</container><unittitle>
+McDonough, 
+<unitdate era="ce" calendar="gregorian">1940-1945</unitdate></unittitle></did></c02>
+
+
+<c02><did><container type="box">1</container><container type="folder">19</container><unittitle>
+Neuberger, 
+<unitdate era="ce" calendar="gregorian">1921-1934</unitdate></unittitle></did></c02>
+
+
+<c02><did><container type="box">1</container><container type="folder">20</container><unittitle>
+Sigerist, 
+<unitdate era="ce" calendar="gregorian">1923-1944</unitdate></unittitle></did></c02>
+
+
+<c02><did><container type="box">1</container><container type="folder">21</container><unittitle>
+Singer, 
+<unitdate era="ce" calendar="gregorian">1921-1934</unitdate></unittitle></did></c02>
+
+
+<c02><did><container type="box">1</container><container type="folder">22</container><unittitle>
+Sudhoff, 
+<unitdate era="ce" calendar="gregorian">1921-1929</unitdate></unittitle></did></c02>
+
+
+</c01><c01 level="series"><did><unittitle>
+Series II: Fielding Garrison Correspondence, 
+<unitdate era="ce" calendar="gregorian">1915-1933</unitdate></unittitle><physdesc> </physdesc></did><scopecontent><p></p></scopecontent>
+
+
+<c02><did><container type="box">7</container><container type="folder">15</container><unittitle>
+1915-19, 
+<unitdate era="ce" calendar="gregorian">1915-1919</unitdate></unittitle></did></c02>
+
+
+<c02><did><container type="box">7</container><container type="folder">16</container><unittitle>
+1920, 
+<unitdate era="ce" calendar="gregorian">1920</unitdate></unittitle></did></c02>
+
+
+<c02><did><container type="box">7</container><container type="folder">17</container><unittitle>
+January-August, 
+<unitdate era="ce" calendar="gregorian">1921</unitdate></unittitle></did></c02>
+
+
+<c02><did><container type="box">7</container><container type="folder">18</container><unittitle>
+October-December, 
+<unitdate era="ce" calendar="gregorian">1921</unitdate></unittitle></did></c02>
+
+
+<c02><did><container type="box">7</container><container type="folder">19</container><unittitle>
+1922, 
+<unitdate era="ce" calendar="gregorian">1922</unitdate></unittitle></did></c02>
+
+
+<c02><did><container type="box">7</container><container type="folder">20</container><unittitle>
+1923-24, 
+<unitdate era="ce" calendar="gregorian">1923-1924</unitdate></unittitle></did></c02>
+
+
+<c02><did><container type="box">7</container><container type="folder">21</container><unittitle>
+January-June, 
+<unitdate era="ce" calendar="gregorian">1925</unitdate></unittitle></did></c02>
+
+
+<c02><did><container type="box">7</container><container type="folder">22</container><unittitle>
+July-September, 
+<unitdate era="ce" calendar="gregorian">1925</unitdate></unittitle></did></c02>
+
+
+<c02><did><container type="box">7</container><container type="folder">23</container><unittitle>
+January-June, 
+<unitdate era="ce" calendar="gregorian">1926</unitdate></unittitle></did></c02>
+
+
+<c02><did><container type="box">7</container><container type="folder">24</container><unittitle>
+September-November, 
+<unitdate era="ce" calendar="gregorian">1926</unitdate></unittitle></did></c02>
+
+
+<c02><did><container type="box">7</container><container type="folder">25</container><unittitle>
+1927, 
+<unitdate era="ce" calendar="gregorian">1927</unitdate></unittitle></did></c02>
+
+
+<c02><did><container type="box">7</container><container type="folder">26</container><unittitle>
+1928, 
+<unitdate era="ce" calendar="gregorian">1928</unitdate></unittitle></did></c02>
+
+
+<c02><did><container type="box">7</container><container type="folder">27</container><unittitle>
+1929, 
+<unitdate era="ce" calendar="gregorian">1929</unitdate></unittitle></did></c02>
+
+
+<c02><did><container type="box">7</container><container type="folder">28</container><unittitle>
+1930, 
+<unitdate era="ce" calendar="gregorian">1930</unitdate></unittitle></did></c02>
+
+
+<c02><did><container type="box">7</container><container type="folder">29</container><unittitle>
+1931-33, 
+<unitdate era="ce" calendar="gregorian">1931-1933</unitdate></unittitle></did></c02>
+
+
+<c02><did><container type="box">7</container><container type="folder">30-32</container><unittitle>
+Drafts of papers sent to Dr. Robinson by Fielding Garrison, 
+<unitdate era="ce" calendar="gregorian">1919-1921</unitdate></unittitle></did></c02>
+
+
+</c01><c01 level="series"><did><unittitle>
+Series III: Encyclopedia Sexualis, 
+<unitdate era="ce" calendar="gregorian">1930-1936</unitdate></unittitle><physdesc> </physdesc></did><scopecontent><p></p></scopecontent>
+
+
+<c02><did><container type="box">1</container><container type="folder">23</container><unittitle>
+Biographical data on Encyclopedia Sexualis contributors, 
+<unitdate era="ce" calendar="gregorian">1930-1935</unitdate></unittitle></did></c02>
+
+
+<c02><did><container type="box">3</container><container type="folder">20</container><unittitle>
+Encyclopedia Sexualis, I-V</unittitle></did></c02>
+
+
+<c02><did><container type="box">3</container><container type="folder">21</container><unittitle>
+Encyclopedia Sexualis, VI-X</unittitle></did></c02>
+
+
+<c02 level="subseries"><did><container type="box">2</container><unittitle>
+Correspondence, 
+<unitdate era="ce" calendar="gregorian">1933-1936</unitdate></unittitle><physdesc> </physdesc></did><scopecontent><p></p></scopecontent>
+
+
+<c03><did><container type="box">2</container><container type="folder">1</container><unittitle>
+A, 
+<unitdate era="ce" calendar="gregorian">1933-1935</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">2</container><container type="folder">2-3</container><unittitle>
+B, 
+<unitdate era="ce" calendar="gregorian">1933-1935</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">2</container><container type="folder">4</container><unittitle>
+C, 
+<unitdate era="ce" calendar="gregorian">1934-1935</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">2</container><container type="folder">5-7</container><unittitle>
+D, 
+<unitdate era="ce" calendar="gregorian">1934-1936</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">2</container><container type="folder">8</container><unittitle>
+E, 
+<unitdate era="ce" calendar="gregorian">1934-1935</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">2</container><container type="folder">9-10</container><unittitle>
+F, 
+<unitdate era="ce" calendar="gregorian">1934-1935</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">2</container><container type="folder">11-12</container><unittitle>
+G, 
+<unitdate era="ce" calendar="gregorian">1934-1936</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">2</container><container type="folder">13-16</container><unittitle>
+H, 
+<unitdate era="ce" calendar="gregorian">1933-1936</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">2</container><container type="folder">17</container><unittitle>
+I-J, 
+<unitdate era="ce" calendar="gregorian">1934-1936</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">2</container><container type="folder">18-19</container><unittitle>
+K, 
+<unitdate era="ce" calendar="gregorian">1934-1936</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">3</container><container type="folder">1-2</container><unittitle>
+L, 
+<unitdate era="ce" calendar="gregorian">1934-1936</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">3</container><container type="folder">3-5</container><unittitle>
+M, 
+<unitdate era="ce" calendar="gregorian">1934-1936</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">3</container><container type="folder">6</container><unittitle>
+N-O, 
+<unitdate era="ce" calendar="gregorian">1934-1935</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">3</container><container type="folder">7-9</container><unittitle>
+P-Q, 
+<unitdate era="ce" calendar="gregorian">1934-1935</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">3</container><container type="folder">10-11</container><unittitle>
+R, 
+<unitdate era="ce" calendar="gregorian">1934-1936</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">3</container><container type="folder">12-14</container><unittitle>
+S, 
+<unitdate era="ce" calendar="gregorian">1933-1936</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">3</container><container type="folder">15</container><unittitle>
+T, 
+<unitdate era="ce" calendar="gregorian">1934-1935</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">3</container><container type="folder">16</container><unittitle>
+U-V, 
+<unitdate era="ce" calendar="gregorian">1933-1935</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">3</container><container type="folder">17-18</container><unittitle>
+W, 
+<unitdate era="ce" calendar="gregorian">1934-1935</unitdate></unittitle></did></c03>
+
+
+<c03><did><container type="box">3</container><container type="folder">19</container><unittitle>
+X-Y-Z, 
+<unitdate era="ce" calendar="gregorian">1934-1935</unitdate></unittitle></did></c03>
+
+
+</c02></c01><c01 level="series"><did><unittitle>
+Series IV: A History of Nursing, 
+<unitdate era="ce" calendar="gregorian">1945</unitdate></unittitle><physdesc> </physdesc></did><scopecontent><p></p></scopecontent>
+
+
+<c02><did><container type="box">4</container><container type="folder">1</container><unittitle>
+Introduction, 
+<unitdate era="ce" calendar="gregorian">1945</unitdate></unittitle></did></c02>
+
+
+<c02><did><container type="box">4</container><container type="folder">2</container><unittitle>
+Chapter I</unittitle></did></c02>
+
+
+<c02><did><container type="box">4</container><container type="folder">3</container><unittitle>
+Chapter III</unittitle></did></c02>
+
+
+<c02><did><container type="box">4</container><container type="folder">4</container><unittitle>
+Chapter IV</unittitle></did></c02>
+
+
+<c02><did><container type="box">4</container><container type="folder">5</container><unittitle>
+Chapter V</unittitle></did></c02>
+
+
+<c02><did><container type="box">4</container><container type="folder">6</container><unittitle>
+Chapter VI</unittitle></did></c02>
+
+
+<c02><did><container type="box">4</container><container type="folder">7</container><unittitle>
+Chapter VII</unittitle></did></c02>
+
+
+<c02><did><container type="box">4</container><container type="folder">8</container><unittitle>
+Chapter VIII</unittitle></did></c02>
+
+
+<c02><did><container type="box">4</container><container type="folder">9</container><unittitle>
+Chapter IX</unittitle></did></c02>
+
+
+<c02><did><container type="box">4</container><container type="folder">10</container><unittitle>
+Chapter X</unittitle></did></c02>
+
+
+<c02><did><container type="box">4</container><container type="folder">11</container><unittitle>
+Chapter XI</unittitle></did></c02>
+
+
+<c02><did><container type="box">4</container><container type="folder">12</container><unittitle>
+Chapter XII</unittitle></did></c02>
+
+
+<c02><did><container type="box">4</container><container type="folder">13</container><unittitle>
+Chapter XIII</unittitle></did></c02>
+
+
+<c02><did><container type="box">4</container><container type="folder">14</container><unittitle>
+Chapter XIV</unittitle></did></c02>
+
+
+<c02><did><container type="box">4</container><container type="folder">15</container><unittitle>
+Chapter XV</unittitle></did></c02>
+
+
+<c02><did><container type="box">4</container><container type="folder">16</container><unittitle>
+Chapter XVI</unittitle></did></c02>
+
+
+<c02><did><container type="box">4</container><container type="folder">17</container><unittitle>
+Chapter XVII</unittitle></did></c02>
+
+
+<c02><did><container type="box">4</container><container type="folder">18</container><unittitle>
+Chapter XVIII</unittitle></did></c02>
+
+
+</c01><c01 level="series"><did><unittitle>
+Series V: History of Otology</unittitle><physdesc> </physdesc></did><scopecontent><p></p></scopecontent>
+
+
+<c02><did><container type="box">5</container><container type="folder">1</container><unittitle>
+Chapter 1</unittitle></did></c02>
+
+
+<c02><did><container type="box">5</container><container type="folder">2</container><unittitle>
+Chapter 2</unittitle></did></c02>
+
+
+<c02><did><container type="box">5</container><container type="folder">3</container><unittitle>
+Chapter 3</unittitle></did></c02>
+
+
+<c02><did><container type="box">5</container><container type="folder">4</container><unittitle>
+Chapter 4</unittitle></did></c02>
+
+
+<c02><did><container type="box">5</container><container type="folder">5</container><unittitle>
+Chapter 5</unittitle></did></c02>
+
+
+<c02><did><container type="box">5</container><container type="folder">6</container><unittitle>
+Chapter 6</unittitle></did></c02>
+
+
+<c02><did><container type="box">5</container><container type="folder">7</container><unittitle>
+Chapter 7</unittitle></did></c02>
+
+
+<c02><did><container type="box">5</container><container type="folder">8</container><unittitle>
+Chapter 8</unittitle></did></c02>
+
+
+<c02><did><container type="box">5</container><container type="folder">9</container><unittitle>
+Chicago otologists</unittitle></did></c02>
+
+
+<c02><did><container type="box">5</container><container type="folder">10</container><unittitle>
+Baltimore otologists</unittitle></did></c02>
+
+
+<c02><did><container type="box">5</container><container type="folder">11</container><unittitle>
+Notes-miscellaneous data</unittitle></did></c02>
+
+
+<c02><did><container type="box">5</container><container type="folder">12</container><unittitle>
+Notes</unittitle></did></c02>
+
+
+<c02><did><container type="box">5</container><container type="folder">13</container><unittitle>
+Notes, 
+<unitdate era="ce" calendar="gregorian">1910-1913</unitdate></unittitle></did></c02>
+
+
+<c02><did><container type="box">5</container><container type="folder">14</container><unittitle>
+Notes, 
+<unitdate era="ce" calendar="gregorian">1933</unitdate></unittitle></did></c02>
+
+
+</c01><c01 level="series"><did><unittitle>
+Series VI: History of Aviation Medicine</unittitle><physdesc> </physdesc></did><scopecontent><p></p></scopecontent>
+
+
+<c02><did><container type="box">6</container><container type="folder">1</container><unittitle>
+Chapter I</unittitle></did></c02>
+
+
+<c02><did><container type="box">6</container><container type="folder">2</container><unittitle>
+Chapter II</unittitle></did></c02>
+
+
+<c02><did><container type="box">6</container><container type="folder">3-4</container><unittitle>
+Chapter III ( preservation copy)</unittitle></did></c02>
+
+
+<c02><did><container type="box">6</container><container type="folder">5</container><unittitle>
+Chapter V</unittitle></did></c02>
+
+
+<c02><did><container type="box">6</container><container type="folder">6-7</container><unittitle>
+Chapter VI ( preservation copy)</unittitle></did></c02>
+
+
+<c02><did><container type="box">6</container><container type="folder">8-9</container><unittitle>
+Chapter VIII ( preservation copy)</unittitle></did></c02>
+
+
+<c02><did><container type="box">6</container><container type="folder">10-11</container><unittitle>
+Chapter IX ( preservation copy)</unittitle></did></c02>
+
+
+<c02><did><container type="box">6</container><container type="folder">12-13</container><unittitle>
+Chapter X ( preservation copy)</unittitle></did></c02>
+
+
+<c02 level="subseries"><did><unittitle>
+Dictionary</unittitle><physdesc> </physdesc></did><scopecontent><p></p></scopecontent>
+
+
+<c03><did><container type="box">6</container><container type="folder">14-15</container><unittitle>
+A-J ( preservation copy)</unittitle></did></c03>
+
+
+<c03><did><container type="box">6</container><container type="folder">16-17</container><unittitle>
+K-Z ( preservation copy)</unittitle></did></c03>
+
+
+<c03><did><container type="box">6</container><container type="folder">18-19</container><unittitle>
+Notes ( preservation copy)</unittitle></did></c03>
+
+
+</c02></c01><c01 level="series"><did><unittitle>
+Series VII: Recollections of a Prison Physician, by Leon Bizard</unittitle><physdesc> </physdesc></did><scopecontent><p></p></scopecontent>
+
+
+<c02><did><container type="box">6</container><container type="folder">26-27</container><unittitle>
+pp. 1-31 ( preservation copy)</unittitle></did></c02>
+
+
+<c02><did><container type="box">6</container><container type="folder">28-29</container><unittitle>
+pp. 32-85 ( preservation copy)</unittitle></did></c02>
+
+
+<c02><did><container type="box">6</container><container type="folder">30</container><unittitle>
+pp. 86-122</unittitle></did></c02>
+
+
+<c02><did><container type="box">7</container><container type="folder">1</container><unittitle>
+pp. 86-122 (preservation copy)</unittitle></did></c02>
+
+
+<c02><did><container type="box">7</container><container type="folder">2-3</container><unittitle>
+pp. 123-170 ( preservation copy)</unittitle></did></c02>
+
+
+</c01><c01 level="series"><did><unittitle>
+Series VIII: Victory over Pain</unittitle><physdesc> </physdesc></did><scopecontent><p></p></scopecontent>
+
+
+<c02><did><container type="box">7</container><container type="folder">6</container><unittitle>
+Chapter 1</unittitle></did></c02>
+
+
+<c02><did><container type="box">7</container><container type="folder">7</container><unittitle>
+Chapter 2</unittitle></did></c02>
+
+
+<c02><did><container type="box">7</container><container type="folder">8</container><unittitle>
+Chapter 3</unittitle></did></c02>
+
+
+<c02><did><container type="box">7</container><container type="folder">9</container><unittitle>
+Chapter 4</unittitle></did></c02>
+
+
+<c02><did><container type="box">7</container><container type="folder">10</container><unittitle>
+Chapter 5</unittitle></did></c02>
+
+
+<c02><did><container type="box">7</container><container type="folder">11</container><unittitle>
+Chapter 6</unittitle></did></c02>
+
+
+<c02><did><container type="box">7</container><container type="folder">12</container><unittitle>
+Chapter 7</unittitle></did></c02>
+
+
+<c02><did><container type="box">7</container><container type="folder">13</container><unittitle>
+Chapter 8</unittitle></did></c02>
+
+
+<c02><did><container type="box">7</container><container type="folder">14</container><unittitle>
+Chapter 9</unittitle></did></c02>
+
+
+</c01><c01 level="series"><did><unittitle>
+Series IX: Miscellaneous Articles</unittitle><physdesc> </physdesc></did><scopecontent><p></p></scopecontent>
+
+
+<c02><did><container type="box">5</container><container type="folder">15</container><unittitle>
+Notes on syphilis and gonorrhea</unittitle></did></c02>
+
+
+<c02><did><container type="box">6</container><container type="folder">20</container><unittitle>
+"Prostitution in France," by Gabriel Giroud</unittitle></did></c02>
+
+
+<c02><did><container type="box">6</container><container type="folder">21</container><unittitle>
+"The life of Jacob Henle," pp. 1-18</unittitle></did></c02>
+
+
+<c02><did><container type="box">6</container><container type="folder">22</container><unittitle>
+"The life of Jacob Henle," pp. 19-52</unittitle></did></c02>
+
+
+<c02><did><container type="box">6</container><container type="folder">23</container><unittitle>
+"The price of prudery," Victor Robinson</unittitle></did></c02>
+
+
+<c02><did><container type="box">6</container><container type="folder">24</container><unittitle>
+"The riddle of the underworld," Ralph Werther [preservation photocopy], 
+<unitdate era="ce" calendar="gregorian">1921</unitdate></unittitle></did></c02>
+
+
+<c02><did><container type="box">6</container><container type="folder">25</container><unittitle>
+"The riddle of the underworld," Ralph Werther [includes publisher's contract; ORIGINAL FRAGILE, DO NOT USE], 
+<unitdate era="ce" calendar="gregorian">1921</unitdate></unittitle></did></c02>
+
+
+<c02><did><container type="box">7</container><container type="folder">4</container><unittitle>
+"Claude Bernard"</unittitle></did></c02>
+
+
+<c02><did><container type="box">7</container><container type="folder">5</container><unittitle>
+"Sisters in calamity," by Thomas DeQuincey</unittitle></did></c02>
+
+
+</c01>
+
+
+
+</dsc>                                                                                                     
+
+</archdesc>
+</ead>

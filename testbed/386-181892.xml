@@ -1,0 +1,116 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="cbistyle.xsl" type="text/xsl"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead audience="external"> 
+  <eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" scriptencoding="iso15924" dateencoding="iso8601" countryencoding="iso3166-1" relatedencoding="Dublin Core"> 
+	 <eadid countrycode="mnu" mainagencycode="MnU" publicid="-//University of Minnesota, Twin Cities::Charles Babbage Institute//TEXT    us::MNU::cbi00059.xml::George Ledin, Jr. ALGOL, Vol. 1: A Reference Source Book//EN">cbi00059</eadid>
+	 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper>George Ledin, Jr. <emph render="italic">ALGOL, Vol. 1: A
+			 Reference Source Book</emph>, 1974. Finding Aid. </titleproper> 
+		  <author>Prepared by Pat Hennessy.</author> 
+		</titlestmt> 
+		<publicationstmt> 
+		  <publisher encodinganalog="Publisher">University of Minnesota
+			 Libraries</publisher> 
+		  <date encodinganalog="Date">2004</date> 
+		  <address> 
+			 <addressline>University of Minnesota Libraries</addressline> 
+			 <addressline>Minneapolis, MN 55455</addressline> 
+		  </address> 
+		</publicationstmt> 
+	 </filedesc> 
+	 <profiledesc> 
+		<creation>Text converted and initial EAD tagging provided by Apex Data
+		  Services, April 2000; updated by Leslie Czechowski, March 2004.</creation> 
+		<langusage><language encodinganalog="Language" langcode="eng">English</language></langusage> 
+	 </profiledesc> 
+  </eadheader> 
+  <archdesc level="collection"> 
+	 <did> <langmaterial encodinganalog="546" label="Language: ">
+		<language encodinganalog="041" langcode="eng">English</language></langmaterial>
+		
+		<unittitle label="Title:">George Ledin, Jr. <emph render="italic">ALGOL,
+		  Vol. 1: A Reference Source Book</emph></unittitle> 
+		<origination label="Creator:"> 
+		  <persname source="lcnaf" rules="aacr2" role="creator" encodinganalog="100">Ledin, George</persname> </origination>
+		<unitdate label="Date:" normal="1974">1974</unitdate> 
+		<unitid label="Collection Number:">CBI 59</unitid> 
+		<physdesc label="Quantity:"><extent encodinganalog="300">1 box (0.75
+		  cubic feet)</extent></physdesc> 
+		<abstract label="Abstract:"><emph render="italic">ALGOL: Volume 1: A
+		  Reference Source Book</emph>, is the manuscript for the first of a proposed
+		  three volume set on the ALGOL programming language which apparently remains
+		  unpublished. In this volume, which appears to have been the only completed
+		  volume, Ledin presents ALGOL reports, ALGOL variant charts, extensive
+		  literature bibliographies, and biographies of 232 prominent ALGOL scholars.
+		  Chapters are preceded by an historical overview.</abstract> 
+		<repository label="Repository:">University of Minnesota Libraries.
+		  <subarea>Charles Babbage Institute. [cbi]</subarea> </repository> 
+	 </did> 
+	 <bioghist> 
+		<head>Biographical Note</head> 
+		<p>George Ledin, Jr., was a computer science professor at University of
+		  San Francisco and Sonoma State University. He co-authored <emph render="italic">The Programmer's Book of Rules </emph>(1979) with Victor Ledin.
+		  In 1982 he wrote <emph render="italic">PASCAL.</emph></p> 
+	 </bioghist> 
+	 <scopecontent> 
+		<head>Scope and Content Note</head> 
+		<p><emph render="italic">ALGOL, Vol. 1: A Reference Source Book </emph>is
+		  the manuscript for the first volume in a proposed three volume set on the ALGOL
+		  programming language. In this volume, Ledin presents ALGOL reports, ALGOL
+		  variant charts, extensive literature bibliographies, and biographies or 232
+		  prominent ALGOL scholars. The chapters are preceded by an historical
+		  overview.</p> 
+	 </scopecontent> 
+	 <controlaccess> 
+		<head>Index Terms</head> 
+		<p>This collection is indexed under the following headings in the catalog
+		  of the University of Minnesota Libraries. Researchers desiring materials about
+		  related topics, persons, or places should search the catalog using these
+		  headings.</p> 
+		<persname source="lcnaf" rules="aacr2" role="creator" encodinganalog="700 1">Ledin, George</persname>
+		<subject source="lcsh" encodinganalog="650"> ALGOL (Computer program
+		  language)--History--Sources </subject> 
+		<subject source="lcsh" encodinganalog="650"> Computer programming
+		  </subject> 
+		<title encodinganalog="630"><emph render="italic">ALGOL, Vol. 1: A
+		  Reference Source Book</emph></title>
+	 </controlaccess> <descgrp> 
+	 <head>Administrative Information</head> 
+	 <acqinfo> 
+		<head>Acquisition: </head> 
+		<p>The manuscript was given to the Charles Babbage Institute by George
+		  Ledin, Jr.</p> 
+	 </acqinfo> 
+	 <accessrestrict> 
+		<head>Access to materials: </head> 
+		<p>Access to the collection is unrestricted.</p> 
+	 </accessrestrict> 
+	 <userestrict> 
+		<head>Copyright: </head> 
+		<p>The author, George Ledin, retains the copyright to the manuscript.
+		  Researchers may quote from the collection under the fair use provisions of the
+		  copyright law (Title 17, U.S. Code).</p> 
+	 </userestrict> 
+	 <prefercite> 
+		<head>Preferred Citation: </head> 
+		<p>George Ledin, Jr. <emph render="italic">ALGOL, Vol. 1: A Reference
+		  Source Book </emph>(CBI 59), Charles Babbage Institute, University of
+		  Minnesota, Minneapolis.</p> 
+	 </prefercite></descgrp> 
+	 <dsc type="in-depth"> 
+		<head>Box and Folder List</head> 
+		<p>The following section contains a detailed listing of the materials in
+		  the collection.</p> 
+		<c01 level="file"> 
+		  <did> 
+			 <unittitle><emph render="italic">ALGOL, Vol. 1: A Reference Source
+				Book </emph>manuscript, </unittitle> 
+			 <unitdate>1974.</unitdate>
+		  </did> 
+		</c01> 
+	 </dsc> 
+  </archdesc> 
+</ead>

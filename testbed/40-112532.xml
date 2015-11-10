@@ -1,0 +1,432 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="webead.xsl"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead audience="external">
+	<eadheader audience="internal" scriptencoding="iso15924" dateencoding="iso8601"
+		countryencoding="iso3166-1" repositoryencoding="iso15511" langencoding="iso639-2">
+		<eadid countrycode="us" mainagencycode="MnHi">00018</eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper>WILLIAM L. CARSS:</titleproper>
+				<subtitle>An Inventory of His Papers at the Minnesota Historical Society</subtitle>
+				<author>Finding aid prepared by Kathryn A. Johnson</author>
+			</titlestmt>
+			<publicationstmt>
+				<publisher encodinganalog="Publisher">Minnesota Historical Society</publisher>
+				<address><addressline>St. Paul MN.</addressline></address>
+			</publicationstmt>
+
+			<seriesstmt>
+				<p>Manuscripts Collection</p>
+			</seriesstmt>
+		</filedesc>
+		<profiledesc>
+			<creation>Finding aid encoded by Dennis Meissner <date era="ce" calendar="gregorian"
+					>December 18, 2003</date></creation>
+			<langusage>Finding aid written in<language langcode="eng">English</language></langusage>
+		</profiledesc>
+		<revisiondesc>
+			<change>
+				<date>August 2008</date>
+				<item>Converted from EAD Version 1.0 to Version 2002 by Monica Manny Ralston, Daniel
+					Sher, and Joyce Chapman.</item>
+			</change>
+		</revisiondesc>
+	</eadheader>
+	<archdesc relatedencoding="MARC" level="collection" type="inventory">
+		<did>
+			<head id="a1">OVERVIEW</head>
+			<repository label="Label:">
+				<corpname>Minnesota Historical Society</corpname>
+			</repository>
+
+
+			<origination label="Creator:" encodinganalog="100/110/111">
+				<persname role="creator" encodinganalog="100">Carss, William L. (William Leighton),
+					1865-1931. </persname>
+
+			</origination>
+
+			<unittitle label="Title:" encodinganalog="245$a">William L. Carss papers. </unittitle>
+			<unitdate label="Date:" encodinganalog="245$f" era="ce" normal="1918/1929"
+				calendar="gregorian">1918-1929.</unitdate>
+			<abstract label="Abstract:">Correspondence, invitations, newsletters, printed materials,
+				and related papers regarding Carss' activities as a (Farmer-Labor) U.S.
+				representative from Minnesota's Eighth Congressional District (1919-1921,
+				1925-1929).</abstract>
+			<physdesc label="Quantity:" encodinganalog="300">3.0 cu. ft. (3 boxes).</physdesc>
+			<physloc label="Location:">See <ref target="a9">Detailed Description</ref> for shelf
+				locations.</physloc>
+		</did>
+		<bioghist>
+			<head altrender="biography" id="a2">BIOGRAPHICAL NOTE</head>
+			<p>Carss was born in Pella, Iowa (February 15, 1865) and was educated as a civil
+				engineer. He moved to Proctor (Minn.) in 1893 and became a locomotive engineer. He
+				was elected to Congress in 1918 on the Union-Labor ticket, but was defeated in 1920
+				and 1922. He was reelected in 1924 on the Farmer-Labor ticket for four years, being
+				defeated again in 1928 and 1930. In 1929 Carss returned to locomotive engineering,
+				and died in Duluth on May 31, 1931.</p>
+		</bioghist>
+		<scopecontent encodinganalog="520">
+			<head id="a3">SCOPE AND CONTENTS</head>
+			<p>Correspondence, invitations, newsletters, printed materials, and related papers
+				regarding Carss' activities as a (Farmer-Labor) U.S. representative from Minnesota's
+				Eighth Congressional District (1919-1921, 1925-1929).</p>
+			<p>The collection consists largely of legislative issue files documenting Carss' efforts
+				for his constituents, especially those in St. Louis, Lake, and Cook counties. There
+				is information on the construction of the Duluth aerial lift bridge and harbor
+				improvements; agitation for a Coast Guard station in Grand Marais; information on
+				the progress of St. Lawrence Seaway proposals; the establishment of the Superior
+				National Forest; individual immigration cases; and petitions to repeal wartime
+				liquor prohibition laws (1919). Files of major significance include civil service
+				appointments relating to federal employment in the district; military pensions for
+				Civil War, Spanish-American War, and World War I veterans; and postmaster
+				appointments and the construction of new post office buildings.</p>
+			<p>There are also political correspondence files containing letters from prominent
+				Minnesota and national political figures, relating especially to the campaigns of
+				1924, 1926, and 1928, with a few items concerning the 1918 campaign. Also included
+				in these files are correspondence, resolutions, and other papers from various labor
+				organizations. A small collection of Washington office personal files contain
+				correspondence between Carss and two of his Washington office staff: Helen Rawlings
+				and Therese Pierson, with information on routine constituent matters and
+				miscellaneous correspondence, including invitations. At the end of the collection is
+				a small group of Carss' newsletters (1926-1928).</p>
+		</scopecontent>
+		<otherfindaid>
+			<head id="a6">OTHER FINDING AIDS</head>
+			<p>A print version of this finding aid is available in the repository; filed in ALPHA
+				notebooks under the heading: Carss, William L.</p>
+		</otherfindaid>
+		<controlaccess>
+			<head id="a7">CATALOG HEADINGS</head>
+			<p>This collection is indexed under the following headings in the catalog of the
+				Minnesota Historical Society. Researchers desiring materials about related topics,
+				persons or places should <extref linktype="simple" show="new"
+					href="http://mnhs.mnpals.net">search the catalog</extref> using these
+				headings.</p>
+			<controlaccess>
+				<head>Topics:</head>
+				<subject encodinganalog="650">Bridges -- Minnesota -- Duluth.</subject>
+
+				<subject encodinganalog="650">Bridges -- Minnesota -- Itasca County.</subject>
+				<subject encodinganalog="650">Civil service -- Minnesota.</subject>
+				<subject encodinganalog="650">Conservation of natural resources --
+					Minnesota.</subject>
+				<subject encodinganalog="650">Forest reserves -- Minnesota.</subject>
+				<subject encodinganalog="650">Harbors -- Minnesota -- Duluth.</subject>
+
+				<subject encodinganalog="650">Immigrants -- Minnesota.</subject>
+				<subject encodinganalog="650">Patronage, Political -- Minnesota.</subject>
+				<subject encodinganalog="650">Military pensions -- Minnesota.</subject>
+
+				<subject encodinganalog="650">Politics, Practical -- Minnesota.</subject>
+				<subject encodinganalog="650">Postal service -- Minnesota -- Buildings.</subject>
+				<subject encodinganalog="650">Postal service -- Minnesota -- Postmasters.</subject>
+				<subject encodinganalog="650">Prohibition -- Minnesota.</subject>
+				<subject encodinganalog="650">Indians of North America -- Minnesota -- Government
+					relations.</subject>
+				<subject encodinganalog="650">Labor movement -- Minnesota.</subject>
+				<subject encodinganalog="650">Political campaigns -- Minnesota.</subject>
+			</controlaccess>
+			<controlaccess>
+				<head>Organizations:</head>
+				<corpname role="subject" encodinganalog="610">Democratic Party (U.S.). </corpname>
+				<corpname role="subject" encodinganalog="610">Farmer-Labor Party (Minn.). </corpname>
+				<corpname role="subject" encodinganalog="610">Great Lakes-St. Lawrence Tidewater
+					Association. </corpname>
+				<corpname role="subject" encodinganalog="610">United States. Coast Guard.</corpname>
+			</controlaccess>
+			<controlaccess>
+				<head>Places:</head>
+				<geogname encodinganalog="651">Saint Lawrence Seaway.</geogname>
+				<geogname encodinganalog="651">Superior National Forest (Minn.).</geogname>
+				<geogname encodinganalog="651">Arrowhead Region (Minn.).</geogname>
+				<geogname encodinganalog="651">Cook County (Minn.).</geogname>
+				<geogname encodinganalog="651">Duluth (Minn.).</geogname>
+				<geogname encodinganalog="651">Grand Marais (Minn.).</geogname>
+				<geogname encodinganalog="651">Lake County (Minn.).</geogname>
+				<geogname encodinganalog="651">Saint Louis County (Minn.).</geogname>
+			</controlaccess>
+			<controlaccess>
+				<head>Occupations:</head>
+				<occupation encodinganalog="656">Politicians.</occupation>
+			</controlaccess>
+		</controlaccess>
+		<descgrp type="admininfo">
+			<head id="a8">ADMINISTRATIVE INFORMATION</head>
+			<prefercite>
+				<head>Preferred Citation:</head>
+				<p><emph render="italic">[Indicate the cited item and/or series here]</emph>.
+					William L. Carss Papers. Minnesota Historical Society.</p>
+				<p>
+					<emph render="italic">See the Chicago Manual of Style for additional
+						examples</emph>
+				</p>
+			</prefercite>
+			<acqinfo>
+				<head>Accession Information:</head>
+				<p>Accession number: 14,818</p>
+			</acqinfo>
+			<processinfo>
+				<head>Processing Information:</head>
+				<p>Processed by: Kathryn A. Johnson, 1992</p>
+				<p>Catalog ID number: 09-00038076 </p>
+			</processinfo>
+		</descgrp>
+		<dsc type="combined">
+			<head id="a9">DETAILED DESCRIPTION</head>
+
+			<c01>
+				<did>
+					<physloc>143.A.10.1B</physloc>
+					<container>1</container>
+					<unittitle>Biographical Information.</unittitle>
+					<unitdate era="ce" calendar="gregorian"
+						><?xm-replace_text {unitdate}?></unitdate>
+				</did>
+			</c01>
+			<c01>
+				<did>
+					<unittitle>Legislative Subject Files, </unittitle>
+					<unitdate era="ce" calendar="gregorian">1919-1929: </unitdate>
+				</did>
+				<c02>
+					<did>
+						<unittitle>American Legion.</unittitle>
+						<unitdate era="ce" calendar="gregorian"
+							><?xm-replace_text {unitdate}?></unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Civil Service appointments. </unittitle>
+						<unitdate era="ce" calendar="gregorian"> </unitdate>
+						<physdesc>2 folders.</physdesc>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle> Curling stones, Tariff on.</unittitle>
+						<unitdate era="ce" calendar="gregorian"
+							><?xm-replace_text {unitdate}?></unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle><?xm-replace_text {unittitle}?></unittitle>
+						<unitdate era="ce" calendar="gregorian"
+							><?xm-replace_text {unitdate}?></unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Duluth Aerial Lift Bridge.</unittitle>
+						<unitdate era="ce" calendar="gregorian"
+							><?xm-replace_text {unitdate}?></unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Duluth-Superior harbor improvements.</unittitle>
+						<unitdate era="ce" calendar="gregorian"
+							><?xm-replace_text {unitdate}?></unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Fish fry: Licenses request. </unittitle>
+						<physdesc>2 folders.</physdesc>
+						<unitdate era="ce" calendar="gregorian"
+							><?xm-replace_text {unitdate}?></unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Grand Marais Coast Guard Station. </unittitle>
+						<physdesc>2 folders.</physdesc>
+						<unitdate era="ce" calendar="gregorian"
+							><?xm-replace_text {unitdate}?></unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle> Great Lakes-St. Lawrence Tidewater Association. </unittitle>
+						<physdesc>4 folders.</physdesc>
+						<unitdate era="ce" calendar="gregorian"
+							><?xm-replace_text {unitdate}?></unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle> Immigration cases; Passports and visas. </unittitle>
+						<physdesc>2 folders.</physdesc>
+						<unitdate era="ce" calendar="gregorian"
+							><?xm-replace_text {unitdate}?></unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle> Indian affairs.</unittitle>
+						<unitdate era="ce" calendar="gregorian"
+							><?xm-replace_text {unitdate}?></unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle> Irish Republic, Recognition of.</unittitle>
+						<unitdate era="ce" calendar="gregorian"
+							><?xm-replace_text {unitdate}?></unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Itasca County bridge.</unittitle>
+						<unitdate era="ce" calendar="gregorian"
+							><?xm-replace_text {unitdate}?></unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Parole requests.</unittitle>
+						<unitdate era="ce" calendar="gregorian"
+							><?xm-replace_text {unitdate}?></unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle> Pensions, military (by individual, A-Z), </unittitle>
+						<unitdate era="ce" calendar="gregorian">1925-1929. </unitdate>
+						<physdesc>9 folders.</physdesc>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>143.A.10.2F</physloc>
+						<container>2</container>
+						<unittitle>Pensions, military (larger files):</unittitle>
+						<unitdate era="ce" calendar="gregorian"
+							><?xm-replace_text {unitdate}?></unitdate>
+					</did>
+					<c03>
+						<did>
+							<unittitle> Ashford, Charles N., </unittitle>
+							<unitdate era="ce" calendar="gregorian">1926-1928. </unitdate>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unittitle> Davison, James R., </unittitle>
+							<unitdate era="ce" calendar="gregorian">1927-1929.</unitdate>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unittitle> Hanford, Addie, </unittitle>
+							<unitdate era="ce" calendar="gregorian">1925-1927.</unitdate>
+						</did>
+					</c03>
+				</c02>
+				<c02>
+					<did>
+						<unittitle> Pensions, military: Civil War (filed by date), </unittitle>
+						<unitdate era="ce" calendar="gregorian">1925-1928. </unitdate>
+						<physdesc>2 folders.</physdesc>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle> Pensions, Military: Civil War (by individual, A-S), </unittitle>
+						<unitdate era="ce" calendar="gregorian">1921-1928. </unitdate>
+						<physdesc>2 folders.</physdesc>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle> Post offices and postmasters (by city, A-Z), </unittitle>
+						<unitdate era="ce" calendar="gregorian">1920-1928. </unitdate>
+						<physdesc>19 folders.</physdesc>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Prohibition and liquor matters, including repeal of wartime
+							liquor laws, </unittitle>
+						<unitdate era="ce" calendar="gregorian">1919-1929. </unitdate>
+						<physdesc>2 folders. </physdesc>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle> Railroads: Esch-Cummins Act, </unittitle>
+						<unitdate era="ce" calendar="gregorian">1919-1920. </unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle> Service academy appointments (filed by applicant's name), </unittitle>
+						<unitdate era="ce" calendar="gregorian">1920-1928. </unitdate>
+						<physdesc>3 folders.</physdesc>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle> Superior National Forest, </unittitle>
+						<unitdate era="ce" calendar="gregorian">1926-1929. </unitdate>
+						<physdesc>2 folders.</physdesc>
+					</did>
+				</c02>
+			</c01>
+			<c01>
+				<did>
+					<physloc>143.A.10.3B</physloc>
+					<container>3</container>
+					<unittitle>Legislative Files (alphabetical, A-Y), </unittitle>
+					<unitdate era="ce" calendar="gregorian">1925-1928. </unitdate>
+					<physdesc>9 folders. </physdesc>
+				</did>
+			</c01>
+			<c01>
+				<did>
+					<unittitle>Washington Office. Personal Files:</unittitle>
+					<unitdate era="ce" calendar="gregorian"
+						><?xm-replace_text {unitdate}?></unitdate>
+				</did>
+				<c02>
+					<did>
+						<unittitle>Helen Rawlings correspondence, </unittitle>
+						<unitdate era="ce" calendar="gregorian">1920, 1924.</unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Therese M. Pierson correspondence, </unittitle>
+						<unitdate era="ce" calendar="gregorian">1925-1928. </unitdate>
+						<physdesc>2 folders.</physdesc>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle> Miscellaneous correspondence (including invitations), </unittitle>
+						<unitdate era="ce" calendar="gregorian">1918-1929. </unitdate>
+						<physdesc>3 folders.</physdesc>
+					</did>
+				</c02>
+			</c01>
+			<c01>
+				<did>
+					<unittitle>Correspondence and other papers regarding political activities
+						(including labor organizations), </unittitle>
+					<unitdate era="ce" calendar="gregorian">1918-1929. </unitdate>
+					<physdesc>10 folders.</physdesc>
+				</did>
+			</c01>
+			<c01>
+				<did>
+					<unittitle>Newsletters (1926-1928) and Speeches (1920, 1926).</unittitle>
+					<unitdate era="ce" calendar="gregorian"
+						><?xm-replace_text {unitdate}?></unitdate>
+				</did>
+			</c01>
+		</dsc>
+	</archdesc>
+</ead>

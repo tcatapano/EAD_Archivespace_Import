@@ -1,0 +1,161 @@
+<?xml version="1.0" standalone="no"?>
+
+<!-- ======== DO NOT MODIFY THIS INFORMATION!!! =======  -->
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<?xml-stylesheet type="text/xsl" href="webead.xsl"?>
+<!-- =============================================== -->
+
+
+
+<ead audience="external" relatedencoding="MARC">
+	<eadheader audience="internal" countryencoding="iso3166-1" dateencoding="iso8601"
+		langencoding="iso639-2" repositoryencoding="iso15511" scriptencoding="iso15924">
+		<eadid countrycode="us" mainagencycode="MnHi"
+			>01025.xml</eadid>
+
+		<filedesc>
+			<titlestmt>
+				<titleproper>NORTHERN PACIFIC RAILWAY COMPANY. PASSENGER AND STATION ACCOUNTING DEPT.: </titleproper>
+				<subtitle>An Inventory of Its
+					Records at the Minnesota Historical Society</subtitle>
+				<author>Finding aid prepared by staff.</author>
+				<sponsor>Funded by grants from the Northwest Area Foundation, the Grotto Foundation, and the Jerome
+					Foundation, 2011-June 2012.</sponsor>
+			</titlestmt>
+
+			<publicationstmt>
+				<publisher encodinganalog="Publisher">Minnesota Historical Society</publisher>
+				<address><addressline>St. Paul, MN.</addressline></address>
+			</publicationstmt>
+			
+		
+			<seriesstmt><p>Manuscripts Collection</p></seriesstmt>
+
+		</filedesc>
+
+		<profiledesc>
+			<creation>Finding aid encoded by Meagan Kellom,
+					<date>November 2011.</date>
+			</creation>
+
+			<langusage>Finding aid written in <language langcode="eng">English</language>
+			</langusage>
+
+		</profiledesc>
+
+		<!-- OPTIONAL TAG: REVISION STATEMENT. use only if revising EAD-encoded finding aid. Erase opening and closing comment tags, as well as these instructions, to use.
+		<revisiondesc>
+  		<change>
+  		<date>Date of change</date>
+  		<item>Updated by ? because of ?</item>
+  		</change>
+  		</revisiondesc>
+  	-->
+
+	</eadheader>
+
+	
+	<archdesc level="subgrp" type="inventory" relatedencoding="MARC">
+		<did>
+			<head id="a1">OVERVIEW</head>
+			<unitid countrycode="US" repositorycode="MnHi"> </unitid>
+
+			<repository label="Repository:">Minnesota Historical Society</repository>
+
+			
+			<origination label="Creator:" encodinganalog="100/110/111">
+				
+				<corpname encodinganalog="110/111" role="creator">
+					Northern Pacific Railway Company. Passenger and Station Accounting Dept.</corpname>
+			</origination>
+
+			<unittitle label="Title:" encodinganalog="245$a"
+				>Passenger and Station Accounting Dept. records. <extref href="01010.xml" actuate="onrequest" audience="external" show="new"
+					linktype="simple">Northern Pacific Railway Company records</extref>.</unittitle>
+
+			
+			<unitdate label="Date:" encodinganalog="245$f" normal="1898/1941" type="inclusive"
+				>1898-1941.</unitdate>
+
+			
+			<langmaterial label="Language of Materials">Materials in <language langcode="eng"
+					>English.</language>
+			</langmaterial>
+
+			<abstract label="Abstract:">
+				<extptr altrender="right" audience="external"
+				href="01010/images/01010-00029.jpg"
+				title="Advertising proof, 1920s"/>Annual passenger earning statements of the Passenger and Station Accounting Department of the Nothern Pacific Railway Company.</abstract>
+
+			<physdesc label="Quantity:" encodinganalog="300">
+				1.0 cubic foot (1 box). </physdesc>
+
+			
+			<physloc label="Location:">See <ref target="a9">Detailed Description</ref> for
+				shelf locations.</physloc>
+		</did>
+
+		
+		
+		
+
+
+		<descgrp type="admininfo">
+			<head id="a8">ADMINISTRATIVE INFORMATION</head>
+
+			
+			<prefercite encodinganalog="524">
+				<head>Preferred Citation:</head>
+				<p><emph render="italic">[Indicate the cited item and/or series here]</emph>.
+					Passenger and Station Accounting Dept. Northern Pacific Railway Company records. Minnesota Historical Society.</p>
+				<p>
+					<emph render="italic">See the Chicago Manual of Style for additional
+						examples.</emph>
+				</p>
+			</prefercite>
+
+			
+
+			
+
+			<acqinfo>
+				<head>Accession Information:</head>
+				<p>Accession number: 6359</p>
+			</acqinfo>
+
+			<processinfo>
+				<head>Processing Information:</head>
+				<p>Catalog ID number:  7540038</p>
+				<p>Work on the Northern Pacific Railway Company records was supported with funds granted by the Northwest Area Foundation, the Grotto Foundation, and the Jerome Foundation. </p>
+			</processinfo>
+
+			
+		</descgrp>
+
+		<controlaccess>
+			<head id="a7">CATALOG HEADINGS</head>
+			<p>This collection is indexed under the following headings in the catalog of the
+				Minnesota Historical Society. Researchers desiring materials about related topics,
+				persons or places should <extref linktype="simple" show="new"
+					href="http://mnhs.mnpals.net"> search the catalog</extref> using these
+				headings.</p>
+			<controlaccess><head>Topics:</head><subject encodinganalog="650">Railroads -- Northwestern States -- Passenger traffic.</subject></controlaccess>
+			<controlaccess>
+				<head>Organizations:</head>
+				
+				<corpname encodinganalog="710">Northern Pacific Railway Company.</corpname></controlaccess></controlaccess>
+		
+		
+		
+
+		
+
+		
+		<dsc type="combined">
+			<head id="a9">DETAILED DESCRIPTION</head>
+		<c01>
+			<did><physloc>132.I.9.8F</physloc><unittitle>Passenger Earning Statements, </unittitle><unitdate>1898-1941.</unitdate><physdesc>9 folders.</physdesc></did><scopecontent><p>Annual passenger earning statements subdivided by state.</p></scopecontent>
+		</c01>
+		</dsc>
+	</archdesc>
+</ead>

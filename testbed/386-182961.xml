@@ -1,0 +1,110 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="uarcstyle.xsl"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead audience="external"> 
+  <eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" scriptencoding="iso15924" dateencoding="iso8601" countryencoding="iso3166-1" relatedencoding="Dublin Core"> 
+	 <eadid countrycode="mnu" mainagencycode="MnU" publicid="-//us::University of Minnesota, Twin Cities::University Archives//TEXT us::MnU::uarc00379.xml::Ralph E. Montonna papers//EN">
+		uarc00379</eadid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper encodinganalog="Title"> Ralph E. Montonna papers, circa
+			 1920s-1930s</titleproper> 
+		  <author encodinganalog="Contributor">Karen Spilman</author> 
+		</titlestmt> 
+		<publicationstmt> 
+		  <publisher encodinganalog="Publisher">University of Minnesota
+			 Libraries</publisher> 
+		  <date>May 2005</date> 
+		  <address> 
+			 <addressline>University of Minnesota Libraries</addressline> 
+			 <addressline>Minneapolis, MN 55455</addressline> 
+		  </address> 
+		</publicationstmt> 
+	 </filedesc> 
+	 <profiledesc> 
+		<creation>EAD encoding by Karen Spilman 
+		  <date>May 2005</date></creation> 
+		<langusage> <language encodinganalog="Language" langcode="eng">English</language></langusage> 
+	 </profiledesc> 
+  </eadheader> 
+  <archdesc level="collection" relatedencoding="MARC21"> 
+	 <did> 
+		<repository encodinganalog="852$a" label="Repository: ">University of
+		  Minnesota Libraries. <subarea>University Archives [uarc]</subarea></repository> 
+		<origination label="Creator: " encodinganalog="100"> 
+		  <persname source="lcnaf" rules="aacr2" encodinganalog="100" role="creator">Montonna, Ralph Eugene, 1894-</persname></origination> 
+		<unittitle encodinganalog="245$a" label="Title: ">Ralph E. Montonna
+		  papers</unittitle> 
+		<unitdate normal="1920/1939" encodinganalog="245$f" type="inclusive" label="Dates: ">circa 1920s-1930s</unitdate> 
+		<physdesc label="Quantity: "> <extent>1 box </extent><extent>(1.3 linear
+		  feet)</extent></physdesc> 
+		<abstract encodinganalog="520" label="Abstract: ">Collection contains the
+		  papers of Ralph E. Montanna, professor of chemical engineering, assistant dean
+		  of the graduate school and director of the engineering experiment station at
+		  the University of Minnesota. </abstract> 
+		<unitid encodinganalog="099" countrycode="mnu" repositorycode="MnU" label="Collection Number: ">379</unitid>
+		<langmaterial encodinganalog="546" label="Language">
+		<language encodinganalog="041" langcode="eng">English</language>
+		</langmaterial> 
+	 </did> <descgrp> 
+	 <head>Administrative Information</head> 
+	 <accessrestrict encodinganalog="506"> 
+		<head>Use of Materials</head> 
+		<p>Items in this collection do not circulate and may be used in-house
+		  only. </p> 
+	 </accessrestrict> 
+	 <userestrict encodinganalog="540"> 
+		<head>Copyright</head> 
+		<p>Requests for permission to quote from the Ralph E. Montonna papers
+		  should be arranged with the University of Minnesota Archives head. </p> 
+	 </userestrict> 
+	 <prefercite> 
+		<head>Preferred citation</head> 
+		<p>Ralph E. Montonna papers, University of Minnesota Archives. </p> 
+	 </prefercite> 
+	 <acqinfo> 
+		<head>Source of acquisition</head> 
+		<p>The collection was donated to University Archives by Mrs. Montonna on
+		  May 11, 1958 and September 4, 1962. </p> 
+	 </acqinfo> 
+	 <processinfo> 
+		<head>Processing Information</head> 
+		<p>Collection has not been processed. </p> 
+	 </processinfo></descgrp> 
+	 <scopecontent encodinganalog="520"> 
+		<head>Scope and Content</head> 
+		<p>The collection contains reports, reprints and course materials,
+		  including lecture notes from Dr. Montonna's tenure as professor of chemical
+		  engineering at the University of Minnesota.</p> 
+	 </scopecontent> 
+	 <bioghist encodinganalog="545"> 
+		<head>Biographical Sketch of Ralph E. Montonna (1894-1952)</head> 
+		<p>Ralph Eugene Montonna was born in Cape Vincent, New York in 1894. He
+		  earned his B.S. degree from Syracuse University in 1916 and his Ph.D. from Yale
+		  University in 1924. Dr. Montonna joined the faculty at the University of
+		  Minnesota in 1924 as an assistant professor of chemical engineering; he was
+		  promoted to associate professor 1933 and professor in 1936. In 1945, he was
+		  appointed as assistant dean of the graduate school. Dr. Montonna resigned from
+		  the University of Minnesota in 1946 to become director of research at Syracuse
+		  University. He returned to the University of Minnesota in 1950 to accept the
+		  position of director of the engineering experiment station in the University's
+		  Institute of Technology. Ralph Montonna died on January 7, 1952. </p> 
+	 </bioghist> 
+	 <relatedmaterial> 
+		<head>Related Materials in University of Minnesota Archives</head> 
+		<p>University of Minnesota. School of Chemistry papers</p> 
+	 </relatedmaterial> 
+	 <controlaccess> 
+		<head>Index Terms</head> 
+		<p>This collection is indexed under the following headings in the catalog
+		  of the University of Minnesota Libraries. Researchers desiring materials about
+		  related topics, persons or places should search the catalog using these
+		  headings. </p> 
+		<persname encodinganalog="700 1" source="lcnaf" rules="aacr2">Montonna,
+		  Ralph Eugene, 1894- -- Archives</persname> 
+		<corpname encodinganalog="610" source="lcnaf" rules="aacr2">University of
+		  Minnesota. Dept. of Chemical Engineering</corpname> 
+		<subject encodinganalog="650" source="lcsh">Cellulose</subject> 
+	 </controlaccess> 
+  </archdesc> 
+</ead>

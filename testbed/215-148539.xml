@@ -1,0 +1,79 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead relatedencoding="marc21">
+  <eadheader audience="internal"> 
+	 <eadid countrycode="US" mainagencycode="TxU-TH"
+	  encodinganalog="852$a">urn:taro:utexas.cah.00491</eadid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper>A Guide to the Solomon Van Etten Papers</titleproper> 
+		</titlestmt> 
+	 </filedesc> 
+	 <profiledesc> 
+		<creation>Original EAD encoding by Evan Hocker according to TARO 2 EAD
+		  2002 Editing Instructions. 
+		  <date>April 2008</date></creation> 
+		<langusage>Finding aid written in
+		  <language>English.</language></langusage> 
+	 </profiledesc>
+  </eadheader>
+  <archdesc type="inventory" level="collection"> 
+	 <did> 
+		<head>Descriptive Summary</head> 
+		<origination label="Creator:"> 
+		  <persname encodinganalog="100">Van Etten, Solomon</persname>
+		  </origination> 
+		<unittitle encodinganalog="245" label="Title:">Solomon Van Etten
+		  Papers</unittitle> 
+		<langmaterial label="Language:">Materials are written in
+		  <language langcode="eng">English.</language></langmaterial> 
+		<physdesc label="Extent:" encodinganalog="300$a"><extent>6
+		  in.</extent></physdesc> 
+		<repository label="Repository:" encodinganalog="852$a"> 
+		  <extref href="http://www.cah.utexas.edu" show="new"
+			actuate="onrequest"> 
+			 <corpname><subarea> Dolph Briscoe Center for American History, </subarea>The
+				University of Texas at Austin</corpname></extref></repository> 
+		<abstract label="Abstract:" encodinganalog="520$a"> Letters and order
+		  book of Solomon Van Etten, a surgeon in the Union army during the Civil War.
+		  </abstract> 
+	 </did> 
+	 <bioghist encodinganalog="545"> 
+		<head>Biographical Note</head><p> Van Etten mustered into the 56th New
+		  York Volunteers in Sept. 1861 and mustered out in Sept. 1864 at the expiration
+		  of his term of service. He traveled with the 56th New York to Washington, DC,
+		  through Virginia, and ended up in the Sea Islands near Charleston, South
+		  Carolina.</p> 
+	 </bioghist> 
+	 <scopecontent encodinganalog="520"> 
+		<head>Scope and Contents</head><p> Letters and order book of Solomon Van
+		  Etten, a surgeon in the Union army. </p> 
+		<p>Letters to his brother Levi in late 1861 and 1862 cover Van Etten's
+		  time in Washington and Virginia. Later letters, and the order book, document
+		  his time and work in South Carolina in 1863-1864.</p><p>The order book contains
+		  copies of all orders and circulars given and received by Van Etten, and
+		  documents personnel issues, supplies (medical and otherwise), reporting and
+		  documentation, and living and sanitation conditions and issues.</p>
+	 </scopecontent> 
+	 <accessrestrict encodinganalog="506"> 
+		<head>Access Restrictions</head><p>Unrestricted access.</p> 
+	 </accessrestrict> 
+	 <prefercite encodinganalog="524"> 
+		<head>Preferred Citation</head><p>Solomon Van Etten Papers, Center for
+		  American History, The University of Texas at Austin.</p> 
+	 </prefercite> 
+	 <dsc type="in-depth"> 
+		<head>Detailed Description of the Papers</head> 
+		<c01 level="series" id="ser1"> 
+		  <did> 
+			 <unittitle>Inventory</unittitle> 
+		  </did> 
+		  <c02> 
+			 <did>
+				<container type="box">2.325/B41</container> 
+				<unittitle>Solomon Van Etten Papers </unittitle> 
+			 </did> 
+		  </c02> 
+		</c01></dsc>
+  </archdesc>
+</ead>

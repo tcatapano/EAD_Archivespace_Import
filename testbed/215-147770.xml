@@ -1,0 +1,571 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead relatedencoding="marc21"> 
+  <eadheader audience="internal"> 
+  <!--Change the last five numbers to the five number collection number from TARO log and name and save file as that five digit number.-->
+	 <eadid countrycode="US" mainagencycode="TxU-TH"
+	  encodinganalog="852$a">urn:taro:utexas.cah.01314</eadid> 
+	 <filedesc> 
+		<titlestmt> 
+		<!--Type the title just as you would say it and use type (e.g. Papers, Collection, Archive) as appropriate. Follow with dates. Example: John Doe Papers, 1910-1920-->
+		  <titleproper>A Guide to the Charles Ramsdell Papers,
+			 1844-1942.</titleproper> 
+		</titlestmt> 
+	 </filedesc> 
+	 <profiledesc> 
+	 <!--Add your name and the date (format: January 2008) of encoding below.-->
+		<creation>Original EAD encoding by Emily Rapoport according to TARO 2 EAD
+		  2002 Editing Instructions. 
+		  <date>September 2009.</date></creation> 
+		<langusage>Finding aid written in
+		  <language>English.</language></langusage> 
+	 </profiledesc> 
+	 <revisiondesc> 
+		<change> 
+		  <date>September 2010</date> 
+		  <item>Updated and uploaded by Laurel Rozema.</item> 
+		</change> 
+	 </revisiondesc> 
+  </eadheader> 
+  <archdesc type="inventory" level="collection"> 
+	 <did> 
+		<head>Descriptive Summary</head> 
+		<origination label="Creator:"><!--Select the appropriate tag depending on if the creator is an individual (name: LAST, FIRST, YEAR OF BIRTH-YEAR OF DEATH), 
+family (name: LAST Family, add individual name and dates in parentheses if desired), or entity. Delete the other tags you don't use.-->
+		  <persname encodinganalog="100">Ramsdell, Charles W. (Charles William),
+			 1877-1942.</persname> </origination>
+	 
+	 
+	 <!--Type the unittitle just as you would say it and use type (e.g. Papers, Collection, Archive) as appropriate. Example: John Doe Papers-->
+		<unittitle encodinganalog="245" label="Title:">Charles Ramsdell
+		  Papers</unittitle> 
+		<unitdate type="inclusive" encodinganalog="245"
+		label="Dates:">1844-1942</unitdate>
+	 <!--Modify the language of material if appropriate and update 3 letter langcode in the upper-right table.-->
+		<langmaterial label="Language:">Materials are written in
+		  <language langcode="eng">English.</language></langmaterial> 
+	 <!--This is the accession number(s) or other applicable indentifier.-->
+		<unitid label="OCLC No.:">23175416</unitid><!--This is the extent. For example: 4 ft., 10 in.-->
+		<physdesc label="Extent:" encodinganalog="300$a">14 ft., 1 in.</physdesc>
+		
+		<repository label="Repository:" encodinganalog="852$a"> 
+		  <extref href="http://www.cah.utexas.edu" show="new"
+		  actuate="onrequest"> 
+			 <corpname><subarea> Dolph Briscoe Center for American
+				History,</subarea> The University of Texas at
+				Austin</corpname></extref></repository> 
+	 <!--This is typically the first sentences from scope and content note, as appropriate.-->
+		<abstract label="Abstract:" encodinganalog="520$a">Papers concern the
+		  career of Ramsdell and include materials relating to his teaching
+		  responsibilities; documents concerning his activities with historical
+		  organizations; correspondence and other materials relating to his research and
+		  writing. </abstract> 
+	 </did> 
+	 <bioghist encodinganalog="545"> 
+	 <!--If an individual, heading should read Biographical Note; for an organization or subject, it should read Historical Note.-->
+		<head>Biographical Note</head><p>Charles William Ramsdell, Sr.
+		  (1877-1942) was born at Salado, Bell County, Texas. His entire career was
+		  associated with the University of Texas (UT), which he entered as a student in
+		  1900. He received B. A. and M. A. degrees from UT in 1903 and 1904,
+		  respectively, and a Ph. D from Columbia University in 1910. On August 26, 1906,
+		  he married Susan Griffith, and the couple had two children, Dr. Mary Alice R.
+		  Dye and Charles William Ramsdell, Jr. From 1906 until his death on July 3,
+		  1942, Ramsdell taught for the history department at UT, although he held
+		  visiting lectureships in the state universities of Illinois and at Columbia,
+		  Northwestern, Western Reserve, and Duke Universities. Although classroom
+		  teaching was his primary interest, Ramsdell wrote widely. A bibliography of his
+		  publications includes three books, several edited works, numerous articles and
+		  monographs, as well as many contributions to reviews. His books include
+		  <emph render="italic">Reconstruction in Texas, A School History of Texas</emph>
+		  (in collaboration with Eugene C. Barker and C. S. Potts) and
+		  <emph render="italic">Behind the Lines in the Southwestern Confederacy</emph>
+		  (published posthumously).</p> 
+		<p></p><p>The several historical associations in which Ramsdell was
+		  active recognized his eminency. He served as president of the Mississippi
+		  Valley Historical Association, 1928-1929, and of the Southwestern Historical
+		  Association, 1936. He was a member of the executive council of the American
+		  Historical Association from 1931 to 1934. The Texas State Historical
+		  Association elected him treasurer annually from 1907 until his death, and he
+		  was an associate editor of its <emph render="italic">Quarterly</emph> from 1910
+		  to 1938.</p> 
+		<p>Recognized as the dean of Southern historians, Dr. Ramsdell held the
+		  distinction of being the most distinguished scholar and teacher in the field of
+		  Southern history.</p> 
+	 </bioghist> 
+	 <scopecontent>
+		<head>Scope and Contents Note</head><p>The Charles Ramsdell Papers,
+		  1844-1942, concern the career of Ramsdell and include materials relating to his
+		  teaching responsibilities; documents concerning his activities with historical
+		  organizations; correspondence and other materials relating to his research and
+		  writing. Also included is an inventory of his library, which was donated to the
+		  University of Texas, and an 1844 letter concerning a Mississippi Whig's
+		  opposition to the annexation of Texas. The library also holds an extensive
+		  collection of microfilmed documents concerning Southern history, which were
+		  collected by Ramsdell. There is a separate index to the microfilm
+		  collection.</p> 
+	 </scopecontent> 
+   
+   
+	 <!--Select appropriate statement(s) and delete those tags that are not applicable.-->
+	 <accessrestrict> 
+		<head>Access Restrictions</head><p>Use of photographic negatives requires
+		  an appointment; please contact the photos archivist for more information.</p> 
+	 </accessrestrict> 
+	 <controlaccess> 
+	 <!--Delete this section(s) as appropriate depending on the presence of  index terms.-->
+		<head>Index Terms</head> 
+		<controlaccess> 
+		  <head>Subjects (Persons)</head> 
+		  <persname encodinganalog="600">Ramsdell, Charles W. (Charles William),
+			 1877-1942 -- Archives.</persname> 
+		  <persname encodinganalog="700" source="lcnaf">Ramsdell, Charles W.
+			 (Charles William), 1877-1942--Photographs.</persname> 
+		  <persname encodinganalog="700" source="lcnaf">Ramsden
+			 family--Photographs.</persname> 
+		</controlaccess> 
+		<controlaccess> 
+		  <head>Subjects</head> 
+		  <subject encodinganalog="650">Books.</subject> 
+		  <subject encodinganalog="650" source="lcsh">Frontier and pioneer
+			 life.</subject> 
+		  <subject encodinganalog="650" source="lcsh">History--Study and
+			 teaching</subject> 
+		</controlaccess> 
+		<controlaccess> 
+		  <head>Places</head> 
+		  <geogname encodinganalog="651" source="lcnaf">Texas--Annexation to the
+			 United States.</geogname> 
+		  <geogname>Confederate States of America--History--Sources.</geogname>
+		</controlaccess> 
+	 </controlaccess> 
+	 <prefercite encodinganalog="524"> 
+		<head>Preferred Citation</head><p>Charles William Ramsdell Papers,
+		  1844-1942, Dolph Briscoe Center for American History, The University of Texas
+		  at Austin.</p> 
+	 </prefercite> 
+	 <processinfo><!--Delete processinfo if not known.-->
+		<head>Processing Information</head><!--Add additional revisions by adding a semi-colon and NAME, DATE. Remove sentence about revisions if none were made or sentence about original processor if unknown.--><p>This
+		  collection was processed by Angela R. Olivera, January 1986. </p> 
+	 </processinfo><dsc type="in-depth"> 
+		<head>Detailed Description of the Papers</head> 
+		<c01 level="series" id="ser1"> 
+		  <did> 
+			 <unittitle>Inventory</unittitle><!--For c01 unititle, if inventory is basically a container list type Inventory, if it is a series, type the series title for each c01. Delete Folder Tags.-->
+		  </did> 
+		  <c02> 
+			 <did> 
+				<container type="box">2F445</container> 
+				<unittitle>Students Papers, 
+				  <unitdate>1924</unitdate></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02> 
+			 <did> 
+				<unittitle>Notes, 
+				  <unitdate>1924</unitdate></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02> 
+			 <did> 
+				<container type="box">2J186</container> 
+				<unittitle>Notes.</unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02> 
+			 <did> 
+				<unittitle>Grade books.</unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02> 
+			 <did> 
+				<unittitle>Literary Productions.</unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02> 
+			 <did> 
+				<container type="box">2L461</container> 
+				<unittitle>General Correspondence:</unittitle> 
+			 </did> 
+			 <c03> 
+				<did> 
+				  <unittitle> 
+					 <unitdate>1908-1912.</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03> 
+				<did> 
+				  <container type="box">2L462</container> 
+				  <unittitle> 
+					 <unitdate>1913-1914.</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03> 
+				<did> 
+				  <container type="box">2L463</container> 
+				  <unittitle> 
+					 <unitdate>1915-1918.</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03> 
+				<did> 
+				  <container type="box">2L464</container> 
+				  <unittitle> 
+					 <unitdate>1919-1920.</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03> 
+				<did> 
+				  <container type="box">2L465</container> 
+				  <unittitle> 
+					 <unitdate>1921-1922.</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03> 
+				<did> 
+				  <container type="box">2L466</container> 
+				  <unittitle> 
+					 <unitdate>1923-1926.</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		  <c02> 
+			 <did> 
+				<container type="box">2L467</container> 
+				<unittitle>Relating to Southwestern Intercollegiate Material
+				  Relating to Teaching Responsibilities Material Relating to Historical
+				  Associations Correspondence Relating to Organizations of College History
+				  Teachers, 
+				  <unitdate>1922</unitdate></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02> 
+			 <did> 
+				<unittitle>Financial Records, 
+				  <unitdate>1911-1925</unitdate></unittitle> 
+			 </did> 
+			 <c03> 
+				<did> 
+				  <unittitle>Receipts, Check Stubs, 
+					 <unitdate>1911-1914.</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03> 
+				<did> 
+				  <container type="box">2L468</container> 
+				  <unittitle>Receipts, Cancelled checks, Bills, 
+					 <unitdate>1907-1925 and undated</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03> 
+				<did> 
+				  <unittitle>Check Books, Deposit slips, Miscellany, 
+					 <unitdate>1911-1914.</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		  <c02> 
+			 <did> 
+				<container type="box">2L469</container> 
+				<unittitle>Printed Material, 
+				  <unitdate>1910-1923</unitdate></unittitle> 
+			 </did> 
+			 <c03> 
+				<did> 
+				  <unittitle>Newspaper clippings, handbooks, 
+					 <unitdate>1910-1923.</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		  <c02> 
+			 <did> 
+				<unittitle>Miscellany, 
+				  <unitdate>1922-1942.</unitdate></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02> 
+			 <did> 
+				<container type="box">2R157</container> 
+				<unittitle>Inventory of the Library of Dr. C. W. Ramsdell, 
+				  <unitdate>1942.</unitdate></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02> 
+			 <did> 
+				<unittitle>Copies of Letters Sent to C. W. Ramsdell.</unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02> 
+			 <did> 
+				<unittitle>Correspondence of C. W. Ramsdell, 
+				  <unitdate>1922-1941.</unitdate></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02> 
+			 <did> 
+				<container type="box">3N290</container> 
+				<unittitle>Correspondence:</unittitle> 
+			 </did> 
+			 <c03> 
+				<did> 
+				  <unittitle>A-M, 
+					 <unitdate>1932-1938.</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03> 
+				<did> 
+				  <container type="box">3N292</container> 
+				  <unittitle>N-Z, 
+					 <unitdate>1932-1938.</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03> 
+				<did> 
+				  <unittitle>A-Z, 
+					 <unitdate>1937-1938.</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03> 
+				<did> 
+				  <container type="box">3N293</container> 
+				  <unittitle>A-Z, 
+					 <unitdate>1930-1936.</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03> 
+				<did> 
+				  <unittitle>A-B, 
+					 <unitdate>1934-1935.</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03> 
+				<did> 
+				  <container type="box">3N294</container> 
+				  <unittitle>C-Z, 
+					 <unitdate>1934-1935.</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03> 
+				<did> 
+				  <unittitle>A-Z, 
+					 <unitdate>1931-1934.</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03> 
+				<did> 
+				  <container type="box">3N295</container> 
+				  <unittitle>A-Z, 
+					 <unitdate>1931-1934.</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03> 
+				<did> 
+				  <unittitle>A-Z, 
+					 <unitdate>1932-1935.</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03> 
+				<did> 
+				  <container type="box">3N296</container> 
+				  <unittitle>A-Z, 
+					 <unitdate>1926-1934.</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03> 
+				<did> 
+				  <unittitle>A-C, 
+					 <unitdate>1928-1932.</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03> 
+				<did> 
+				  <container type="box">3N297</container> 
+				  <unittitle>D-Z, 
+					 <unitdate>1928-1932.</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03> 
+				<did> 
+				  <unittitle>D-Z, [no order,] 
+					 <unitdate>1931-1932.</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03> 
+				<did> 
+				  <container type="box">3N298</container> 
+				  <unittitle>D-Z, [no order,] 
+					 <unitdate>1931-1932.</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03> 
+				<did> 
+				  <unittitle>A-Z, 
+					 <unitdate>1933-1936.</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03> 
+				<did> 
+				  <unittitle>A-P, 
+					 <unitdate>1916-1922.</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03> 
+				<did> 
+				  <container type="box">3N299</container> 
+				  <unittitle>R-Z, 
+					 <unitdate>1916-1922.</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03> 
+				<did> 
+				  <unittitle>A-Z, 
+					 <unitdate>1922-1923.</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03> 
+				<did> 
+				  <container type="box">3N300</container> 
+				  <unittitle>A-Z, 
+					 <unitdate>1925-1926</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03> 
+				<did> 
+				  <unittitle>A-Z, 
+					 <unitdate>1924-1925.</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03> 
+				<did> 
+				  <container type="box">3N301</container> 
+				  <unittitle>A-Z, [no order,] 
+					 <unitdate>1928-1929</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03> 
+				<did> 
+				  <unittitle>A-Z, 
+					 <unitdate>1928-1940.</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03> 
+				<did> 
+				  <unittitle>A-Z, 
+					 <unitdate>1930-1931.</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03> 
+				<did> 
+				  <container type="box">3N302</container> 
+				  <unittitle>A-Z, 
+					 <unitdate>1929-1932.</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03> 
+				<did> 
+				  <unittitle>A-R, 
+					 <unitdate>1934-1937.</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03> 
+				<did> 
+				  <container type="box">3N303</container> 
+				  <unittitle>S-Z, 
+					 <unitdate>1934-1937.</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03> 
+				<did> 
+				  <unittitle>A-Z, 
+					 <unitdate>1938-1939.</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03> 
+				<did> 
+				  <container type="box">3N304</container> 
+				  <unittitle>A-Z, 
+					 <unitdate>May-November, 1939.</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03> 
+				<did> 
+				  <unittitle>A-J, 
+					 <unitdate>November 1939-May 1940.</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03> 
+				<did> 
+				  <container type="box">3N305</container> 
+				  <unittitle>K-Z, 
+					 <unitdate>November 1939-May 1940.</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03> 
+				<did> 
+				  <unittitle>A-Z, 
+					 <unitdate>June-November 1940.</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03> 
+				<did> 
+				  <container type="box">3N306</container> 
+				  <unittitle>A-Z, 
+					 <unitdate>January-October 1941.</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03> 
+				<did> 
+				  <unittitle>A-C, 
+					 <unitdate>November 1941-1942.</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03> 
+				<did> 
+				  <container type="box">3N307</container> 
+				  <unittitle>D-Z, 
+					 <unitdate>November 1941-1942.</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03> 
+				<did> 
+				  <unittitle>D-Z, 
+					 <unitdate>1941-1942, no order</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03> 
+				<did> 
+				  <unittitle>Annexation Letter, 
+					 <unitdate>1844.</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		  <c02> 
+			 <did> 
+				<container type="box">3N308</container> 
+				<unittitle>Notecards and Exam Questions for Courses Taught, 
+				  <unitdate>1941.</unitdate></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02> 
+			 <did> 
+				<container type="box">3N309</container> 
+				<unittitle>Notecards and Exam Questions for Courses Taught, 
+				  <unitdate>1941.</unitdate></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02> 
+			 <did> 
+				<container type="box">3N310</container> 
+				<unittitle>Notecards and Exam Questions for Courses Taught, 
+				  <unitdate>1941.</unitdate></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02> 
+			 <did> 
+				<container type="box">3S20</container> 
+				<unittitle>Photographs, 
+				  <unitdate>undated.</unitdate></unittitle> 
+			 </did> 
+		  </c02> 
+		</c01></dsc> 
+  </archdesc>
+</ead>

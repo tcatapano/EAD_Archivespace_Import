@@ -1,0 +1,3930 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead audience="external" relatedencoding="MARC21">
+  <eadheader langencoding="iso639-2b" audience="internal" countryencoding="iso3166-1"
+    dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924"
+    relatedencoding="MARC21">
+    <eadid mainagencycode="DSI-AI" countrycode="us"
+      identifier="http://siarchives.si.edu/findingaids/FARU0221.xml" encodinganalog="856$u">
+      http://siarchives.si.edu/findingaids/FARU0221.xml</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper encodinganalog="245$a">Records, <date>1886-1928 and undated</date></titleproper>
+        <author encodinganalog="245$c">Finding aid prepared by Smithsonian Institution
+          Archives</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher encodinganalog="260$b">Smithsonian Institution Archives </publisher>
+        <address>
+          <addressline>Washington, D.C. </addressline>
+          <addressline>Contact us at <emph render="italic">osiaref@si.edu</emph></addressline>
+        </address>
+        <date type="publication"/>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>Finding aid encoded on <date normal="2000-01-01">6-11-2012</date></creation>
+      <langusage encodinganalog="546"> Finding aid written in <language encodinganalog="041"
+          langcode="eng">English</language>
+      </langusage>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection" type="inventory" relatedencoding="MARC21">
+    <did>
+      <head>Collection Overview</head>
+      <repository label="Repository:" encodinganalog="852$a">
+        <corpname encodinganalog="110">Smithsonian Institution Archives, </corpname>
+        <address>
+          <addressline>Washington, D.C., </addressline>
+          <addressline><emph render="italic">osiaref@si.edu</emph></addressline>
+        </address>
+      </repository>
+      <origination label="Creator:">
+        <persname encodinganalog="100">United States National Museum, Division of Plants</persname>
+      </origination>
+      <note>
+        <p>SI Records</p>
+      </note>
+      <unittitle label="Title:" encodinganalog="245$a">Records</unittitle>
+      <unitdate label="Dates:" encodinganalog="245$f" normal="1971/2004">1886-1928 and undated</unitdate>
+      <physdesc label="Quantity:" encodinganalog="300$a">
+        <extent>6.4 linear meters.</extent>
+      </physdesc>
+      <unitid encodinganalog="099" label="Collection:" countrycode="iso3166-1"
+        repositorycode="DSI-AI">Record Unit 221</unitid>
+      <langmaterial encodinganalog="546" label="Language of Materials:">
+        <language encodinganalog="041" langcode="eng">English</language>
+      </langmaterial>
+    </did>
+    <prefercite encodinganalog="510">
+      <head>Preferred Citation</head>
+      <p>Smithsonian Institution Archives, Record Unit 221, United States National Museum, Division of Plants, Records</p>
+    </prefercite>
+    
+    <bioghist encodinganalog="545$a">
+    <head>Historical Note</head>
+     <p>Joseph Nelson Rose, botanist, was born on a farm near Liberty, Indiana, on January 11, 1862. In 1881 he entered Wabash College, graduating with an A.B. in 1885. Rose 
+    stayed on at Wabash College as its first postgraduate student, receiving his A.M. in 1887 and his Ph.D. in 1889. During his last two years he acted as an assistant in botany 
+    under John M. Coulter, who was to have an influence on his later career.</p> 
+     
+     <p>Rose was appointed as an assistant botanist in the United States Department of Agriculture under George Vasey, working in the United States National Herbarium (USNH), in 
+    August 1888. (For a history of the USNH and George Vasey, see the description for the Hunt Institute collection 105.)</p> 
+     
+     <p>When the USNH was moved back to the Smithsonian in 1896, Rose transferred to the United States National Museum as an assistant curator, Division of Plants. In 1905 he was 
+    made associate curator.</p> 
+     
+     <p>Though Frederick Vernon Coville was honorary curator, USNH and the Division of Plants, in the United States National Museum (while at the same time chief botanist of the 
+    Plant Industry, USDA), it appears that Rose was directly in charge of the National Herbarium. Outgoing letterpress correspondence within these records contains copies of the 
+    USNH report for the Smithsonian Annual Report being transmitted by Coville through Rose and Rose's report on the Division of Plants for the Annual Report being sent to Coville. 
+    At times, Rose signed outgoing correspondence over the title, acting curator. Coville remained Rose's supervisor, however, with correspondence regarding Rose's collecting 
+    activities being transmitted between Smithsonian administrative officers and Coville.</p> 
+     
+     <p>In 1912, Rose transferred from the United States National Museum (USNM) to the Carnegie Institution of Washington as a research associate in order to prepare a monograph 
+    with Nathaniel Lord Britton on Cactaceae of the world. This work was jointly supported by the Carnegie Institution, the New York Botanical Garden, and the USDA. Rose was relieved 
+    of his administrative duties with the Smithsonian. Nonetheless, he retained an office in the Smithsonian and was allowed the use of Smithsonian franking privileges for all 
+    correspondence regarding his project, while retaining the title of custodian of "Cactaceae, Crassulaceae, and Miscellaneous Mexican Collections" in the National Herbarium.</p> 
+     
+     
+     <p>Rose officially returned to the Smithsonian as associate curator, Division of Plants, in 1917, retaining that position until his death on May 4, 1928.</p> 
+     
+     <p>Rose's collecting activities and botanical studies began with the flora, fungi, and pine of Indiana and the Umbelliferae of North America. He was assigned the Mexican collections 
+    gathered by Edward Palmer while assistant botanist at the USDA. This led to 20 years of study of the flora of Mexico and numerous publications, including his "Studies of Mexican 
+    and Central America Plants," published in <emph render="italic">Contributions from the United States National Herbarium</emph> (1897-1911). His important study on Cactaceae of the world with Nathaniel 
+    Lord Britton resulted in the publication of four volumes titled <emph render="italic">The Cactaceae</emph> (1919-1923). Overall, Rose published almost 200 articles and monographs by himself and 
+    in collaboration with other botanists. Besides his own collecting explorations, Rose was instrumental in bringing to the Smithsonian one of its most important gifts, the large 
+    private herbarium and botanical library belonging to John Donnell Smith of Baltimore.</p> 
+     
+     <p>In reward for his botanical investigations and publications, Rose received an LL.D. from Wabash College in 1925. His remarks made during the ceremonies are included in 
+    this collection.</p> </bioghist> 
+     
+ 
+    
+    <scopecontent>
+    <head>Introduction</head>
+     <p>This finding aid was digitized with funds generously provided by the Smithsonian Institution Women's Committee.</p> </scopecontent> 
+     
+    <scopecontent>
+    <head>Descriptive Entry</head>
+     <p>These papers include official records that document the history of the USNH while Joseph Nelson Rose was assistant botanist at the United States Department of Agriculture 
+    (1888-1896), assistant and associate curator, USNH, United States National Museum (1896-1911), and the Division of Plants, USNM (1917-1928); also personal and official papers 
+    documenting Rose's professional career, including incoming and occasional loose outgoing correspondence after 1910 (watermarks on 1910 and 1911 outgoing loose correspondence 
+    along with virtually nonexistent outgoing letterpress correspondence after 1909 are a result of water damage to the records) with leading foreign and United States botanists; 
+    colleagues; herbarium and nursery curators; florists; agrostologists; field agents; amateur plant collectors; United States Department of Agriculture administrative officers; 
+    Smithsonian Institution administrative officers; agricultural experiment stations; editors; and friends. Correspondence regards examination, identification, and reports on 
+    botanical specimens; identification of specimens for publications; transfer of specimens to the USNH; exchange of specimens; requests to Rose regarding information on the 
+    flora of Texas and Mexico; requests for bulbs, seeds, and plants; purchasing of cacti collections; research and collecting expeditions; authorization for expeditions; nomenclature; 
+    illustrations for journals; collaboration over collecting specimens and publishing; requests for jobs; requests to recommend colleagues to systematize cultivated plants; proposals 
+    for a building to house the USNH in order to expand the collection; meetings of scientific societies; requests for <emph render="italic">Who's Who</emph> autobiographical information; outgoing 
+    letterpress correspondence (1894-1909, 1911-1912) regarding the above; also manuscripts and correspondence pertaining to the joint Cactaceae project with Nathaniel Lord Britton; 
+    manuscripts and correspondence about the joint project with John Donnell Smith regarding Hauyeae; reviews; and occasional newspaper clippings pertaining to botanists whose 
+    letters are located in the correspondence folders.</p> </scopecontent> 
+     
+ 
+    
+    
+    
+    
+        
+      <controlaccess id="a12">
+      <head>Index Terms</head>
+      <p>This collection is indexed under the following access terms. These are links to collections
+      with related topics, persons or places.</p>
+        
+         <controlaccess>
+           <head>Name</head>
+           <famname encodinganalog="600" source="local">Britton, Nathaniel Lord, 1859-1934</famname>
+           <famname encodinganalog="600" source="local">Smith, John Donnell.</famname>
+           <famname encodinganalog="600" source="local">Rose, J. N. (Joseph Nelson), 1862-1928</famname>
+           <famname encodinganalog="600" source="local">United States Department of Agriculture. Division of Plants (USNM)</famname>
+           <famname encodinganalog="600" source="local">United States National Herbarium. Division of Plants (USNM)</famname>
+           <famname encodinganalog="600" source="local">United States National Herbarium. Department of Botany</famname>
+           <famname encodinganalog="600" source="local">Division of Botany (USDA)</famname>
+           <famname encodinganalog="600" source="local">Division of Plants (USNM). United States Department of Agriculture</famname>
+           <famname encodinganalog="600" source="local">Division of Plants (USNM). United States National Herbarium</famname>
+         </controlaccess>
+        
+        
+         <controlaccess>
+           <head>Subject</head>
+           <subject encodinganalog="650" source="local">Botany</subject>
+         </controlaccess>
+        
+        
+        
+        
+         <controlaccess>
+           <head>Physical Characteristics of Materials in the Collection</head>
+           <genreform encodinganalog="655$a" source="aat">Scientific illustrations</genreform>
+         </controlaccess>
+        
+      
+      </controlaccess>
+    <dsc type="combined" id="a23">
+      
+      <c01 level="series">
+        <did>
+          <unitid>Series 1</unitid>
+          <unittitle>Incoming and Occasional Outgoing Correspondence (after 1910), 1886-1928. Arranged alphabetically and in most instances chronologically thereunder.</unittitle>
+        </did>
+        <scopecontent>
+         <p>Incoming correspondence, 1886-1928. For description of general contents see descriptive entry at the beginning of the finding aid.</p> </scopecontent> 
+      <c02 level="file">
+        <did>
+          <unittitle>Box 1</unittitle>
+        </did>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 1 of 44</container>
+            <unittitle>A</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 1 of 44</container>
+            <unittitle>Abrams, LeRoy P. (1902-1927)</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 1 of 44</container>
+            <unittitle>Alcocer, G. V. (in Spanish)</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 1 of 44</container>
+            <unittitle>Alfaro, Anastasio</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 1 of 44</container>
+            <unittitle>Allaire, C. B.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 1 of 44</container>
+            <unittitle>Allen, John A. (1892-1893). Includes address to the president and overseers of Harvard University, by Allen, concerning their neglect of the Botanic Garden at Harvard (1893).</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 1 of 44</container>
+            <unittitle>Allen, O. D.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 1 of 44</container>
+            <unittitle>Altamirano, Fernando (1905-1907) (in Spanish)</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 1 of 44</container>
+            <unittitle>Ames, Oakes (1903-1910)</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 1 of 44</container>
+            <unittitle>Anderson, J. R.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 1 of 44</container>
+            <unittitle>Anderson, R. W.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 1 of 44</container>
+            <unittitle>Ba-Bk</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 1 of 44</container>
+            <unittitle>Bl-Bu</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 1 of 44</container>
+            <unittitle>Bailey, Liberty Hyde (1894-1927). Includes correspondence with Bailey and Wilhelm Miller regarding the <emph render="italic">Cyclopedia of American Horticulture</emph> (1898-1899).</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 1 of 44</container>
+            <unittitle>Bailey, Vernon Orlando</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 1 of 44</container>
+            <unittitle>Baker, Carl F. (1890-1908)</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 1 of 44</container>
+            <unittitle>Baker, Edmund G. (1890-1903)</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 1 of 44</container>
+            <unittitle>Ball, Carleton R. (1900-1910)</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 1 of 44</container>
+            <unittitle>Barnhart, John Hendley</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 1 of 44</container>
+            <unittitle>Barnes, Charles Reid</unittitle>
+          </did>
+        </c03>
+      </c02>
+      <c02 level="file">
+        <did>
+          <unittitle>Box 2</unittitle>
+        </did>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 2 of 44</container>
+            <unittitle>Bartram, Edwin B.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 2 of 44</container>
+            <unittitle>Beadle, Chauncey D. (1896-1911)</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 2 of 44</container>
+            <unittitle>Beal, W. J.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 2 of 44</container>
+            <unittitle>Bearss, J. T. (1908-1911)</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 2 of 44</container>
+            <unittitle>Beattie, Rolla Kent</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 2 of 44</container>
+            <unittitle>Beauverd, George</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 2 of 44</container>
+            <unittitle>Bebb, Michael Schuck (1891-1895)</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 2 of 44</container>
+            <unittitle>Berger, Alwin (1904-1927)</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 2 of 44</container>
+            <unittitle>Berner, Glenn</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 2 of 44</container>
+            <unittitle>Berry, W. A.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 2 of 44</container>
+            <unittitle>Bessey, Charles Edwin (1898-1910)</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 2 of 44</container>
+            <unittitle>Bessey, Ernst A.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 2 of 44</container>
+            <unittitle>Bethel, E.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 2 of 44</container>
+            <unittitle>Bickwell, Eugene P.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 2 of 44</container>
+            <unittitle>Bisset, Peter</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 2 of 44</container>
+            <unittitle>Blankinship, J. W. (1896-1908)</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 2 of 44</container>
+            <unittitle>Blumer, J. C.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 2 of 44</container>
+            <unittitle>Bodeker, Father</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 2 of 44</container>
+            <unittitle>Bogert, M. T.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 2 of 44</container>
+            <unittitle>Bonati, G.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 2 of 44</container>
+            <unittitle>Botanical Curiosities</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 2 of 44</container>
+            <unittitle>Boyd, H. R.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 2 of 44</container>
+            <unittitle>Brainerd, Ezra</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 2 of 44</container>
+            <unittitle>Brandegee, Katharine (1891-1909)</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 2 of 44</container>
+            <unittitle>Brandegee, T. S. (1892-1911)</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 2 of 44</container>
+            <unittitle>Brannon, Meluin A.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 2 of 44</container>
+            <unittitle>Braunton, Ernest B. (1902-1908)</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 2 of 44</container>
+            <unittitle>Bray, William L. (1898-1908)</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 2 of 44</container>
+            <unittitle>Briquet, John I.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 2 of 44</container>
+            <unittitle>Britton, Elizabeth Gertrude (1895-1911)</unittitle>
+          </did>
+        </c03>
+      </c02>
+      <c02 level="file">
+        <did>
+          <unittitle>Box 3</unittitle>
+        </did>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 3 of 44</container>
+            <unittitle>Britton, Nathaniel Lord (1890-1922). Includes correspondence regarding botanical nomenclature. (8 folders)</unittitle>
+          </did>
+        </c03>
+      </c02>
+      <c02 level="file">
+        <did>
+          <unittitle>Box 4</unittitle>
+        </did>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 4 of 44</container>
+            <unittitle>Britton, Nathaniel Lord (1913-1918) (6 folders)</unittitle>
+          </did>
+        </c03>
+      </c02>
+      <c02 level="file">
+        <did>
+          <unittitle>Box 5</unittitle>
+        </did>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 5 of 44</container>
+            <unittitle>Britton, Nathaniel Lord (1919-1922) (6 folders)</unittitle>
+          </did>
+        </c03>
+      </c02>
+      <c02 level="file">
+        <did>
+          <unittitle>Box 6</unittitle>
+        </did>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 6 of 44</container>
+            <unittitle>Britton, Nathaniel Lord (1923-1928) (4 folders)</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 6 of 44</container>
+            <unittitle>Broadway, W. E.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 6 of 44</container>
+            <unittitle>Brockway, William</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 6 of 44</container>
+            <unittitle>Brown, H. E.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 6 of 44</container>
+            <unittitle>Brown, Stewardson</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 6 of 44</container>
+            <unittitle>Buiford, Joanna Mary</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 6 of 44</container>
+            <unittitle>Burbank, Luther</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 6 of 44</container>
+            <unittitle>Burnham, Stewart H.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 6 of 44</container>
+            <unittitle>Buscalioni, Luigi</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 6 of 44</container>
+            <unittitle>Bush, B. F.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 6 of 44</container>
+            <unittitle>C</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 6 of 44</container>
+            <unittitle>Canby, William M. (1890-1903)</unittitle>
+          </did>
+        </c03>
+      </c02>
+      <c02 level="file">
+        <did>
+          <unittitle>Box 7</unittitle>
+        </did>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 7 of 44</container>
+            <unittitle>Candolle, Casimir de</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 7 of 44</container>
+            <unittitle>Cannon, W. A.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 7 of 44</container>
+            <unittitle>Case, A. B.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 7 of 44</container>
+            <unittitle>Chaffey, Elswood (1910-1911)</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 7 of 44</container>
+            <unittitle>Chamberlain, Edward B.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 7 of 44</container>
+            <unittitle>Chandler, Harley P.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 7 of 44</container>
+            <unittitle>Chapman, A. W.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 7 of 44</container>
+            <unittitle>Chesnut, V. K.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 7 of 44</container>
+            <unittitle>Chisolm, Frederic F.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 7 of 44</container>
+            <unittitle>Clark, H. Walton</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 7 of 44</container>
+            <unittitle>Clemens, Joseph C.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 7 of 44</container>
+            <unittitle>Clements, Frederic E.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 7 of 44</container>
+            <unittitle>Cleveland, Daniel</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 7 of 44</container>
+            <unittitle>Clute, Willard N.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 7 of 44</container>
+            <unittitle>Cockerell, Theodore D. A. (1896-1909)</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 7 of 44</container>
+            <unittitle>Cogniaux, A. (1890-1896) (in French)</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 7 of 44</container>
+            <unittitle>Collins, Frank S.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 7 of 44</container>
+            <unittitle>Collins, J. Franklin</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 7 of 44</container>
+            <unittitle>Collom, Rose E. (Mrs.)</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 7 of 44</container>
+            <unittitle>Commons, Albert</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 7 of 44</container>
+            <unittitle>Conard, Henry Shoemaker (1904-1908)</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 7 of 44</container>
+            <unittitle>Conzatti, Cassiano (1900-1927) (in Spanish)</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 7 of 44</container>
+            <unittitle>Cook, Mel T.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 7 of 44</container>
+            <unittitle>Cook, Orator Fuller</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 7 of 44</container>
+            <unittitle>Cooley, Grace E.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 7 of 44</container>
+            <unittitle>Coulter, John Merle (1891-1927)</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 7 of 44</container>
+            <unittitle>Coulter and Rose. Contains letters and reviews concerning <emph render="italic">A Monograph of North American Umbelliferae.</emph></unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 7 of 44</container>
+            <unittitle>Coulter, Stanley</unittitle>
+          </did>
+        </c03>
+      </c02>
+      <c02 level="file">
+        <did>
+          <unittitle>Box 8</unittitle>
+        </did>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 8 of 44</container>
+            <unittitle>Coville, Frederick Vernon (1893-1927). Includes rough draft regarding the USNH collections; Rose letter regarding absence from administrative duties with the USNH (1912); outlining problems and accomplishments at the time (1912); in regard to having a new building to house the USNH in order to expand the collections (1927).</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 8 of 44</container>
+            <unittitle>Crandall, Charles S.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 8 of 44</container>
+            <unittitle>Crawford, Joseph</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 8 of 44</container>
+            <unittitle>Crider, Franklin J.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 8 of 44</container>
+            <unittitle>Cummings, Clara Eaton (1893-1905)</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 8 of 44</container>
+            <unittitle>Curtiss, A. H.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 8 of 44</container>
+            <unittitle>Cusick, William C.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 8 of 44</container>
+            <unittitle>D. Includes postcard from Domin to Rose (1911?) with photograph of Domin that was placed in the photo archives of the Hunt Institute.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 8 of 44</container>
+            <unittitle>Davenport, George E. (1892-1900)</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 8 of 44</container>
+            <unittitle>Davidson, A.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 8 of 44</container>
+            <unittitle>Davies, D. C.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 8 of 44</container>
+            <unittitle>Davison, Wilfred P.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 8 of 44</container>
+            <unittitle>Davy, Joseph Burtt</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 8 of 44</container>
+            <unittitle>Day, Mary Alice</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 8 of 44</container>
+            <unittitle>Deam, Charles Clemon (1902-1925)</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 8 of 44</container>
+            <unittitle>Deane, Walter (1891-1927) (2 folders)</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 8 of 44</container>
+            <unittitle>DeLaet, Frantz</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 8 of 44</container>
+            <unittitle>Dewey, Lyster Hoxie (1893-1911)</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 8 of 44</container>
+            <unittitle>Dodd, Alan P.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 8 of 44</container>
+            <unittitle>Dodge, Charles K.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 8 of 44</container>
+            <unittitle>Dorsett, P. H.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 8 of 44</container>
+            <unittitle>Dousa, B. C.</unittitle>
+          </did>
+        </c03>
+      </c02>
+      <c02 level="file">
+        <did>
+          <unittitle>Box 9</unittitle>
+        </did>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 9 of 44</container>
+            <unittitle>Dowell, Philip (1902-1911)</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 9 of 44</container>
+            <unittitle>Drude, Oscar</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 9 of 44</container>
+            <unittitle>Duges, Alfred</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 9 of 44</container>
+            <unittitle>Dyer, W. T. Thiselton (should be Thiselton-Dyer, William Turner)</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 9 of 44</container>
+            <unittitle>Dyott, G. M.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 9 of 44</container>
+            <unittitle>E</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 9 of 44</container>
+            <unittitle>Earle, F. S.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 9 of 44</container>
+            <unittitle>Eastwood, Alice (1892-1927)</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 9 of 44</container>
+            <unittitle>Eaton, A. A.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 9 of 44</container>
+            <unittitle>Edison, Thomas Alva. Rubber Exploration (1927)</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 9 of 44</container>
+            <unittitle>Edson, William L. G.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 9 of 44</container>
+            <unittitle>Eggleston, W. W.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 9 of 44</container>
+            <unittitle>Eichlam, Federico (1908-1912) (In German)</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 9 of 44</container>
+            <unittitle>Ekman, Erik L.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 9 of 44</container>
+            <unittitle>Elizalde, Rafael H.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 9 of 44</container>
+            <unittitle>Elmer, A. D. E.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 9 of 44</container>
+            <unittitle>Engler, Adolphe</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 9 of 44</container>
+            <unittitle>Ericksson, Jakob</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 9 of 44</container>
+            <unittitle>Evermann, Barton Warren (1893-1923)</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 9 of 44</container>
+            <unittitle>F</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 9 of 44</container>
+            <unittitle>Fairchild, David G. (1903-1911)</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 9 of 44</container>
+            <unittitle>Farlow, W. G.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 9 of 44</container>
+            <unittitle>Farwell, O. Atkins</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 9 of 44</container>
+            <unittitle>Fawcett, William</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 9 of 44</container>
+            <unittitle>Faxon, Charles Edward (1891-1897)</unittitle>
+          </did>
+        </c03>
+      </c02>
+      <c02 level="file">
+        <did>
+          <unittitle>Box 10</unittitle>
+        </did>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 10 of 44</container>
+            <unittitle>Fedde, Friedrich</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 10 of 44</container>
+            <unittitle>Ferguson, A. M.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 10 of 44</container>
+            <unittitle>Fernald, Merritt Lyndon (1893-1911)</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 10 of 44</container>
+            <unittitle>Ferriss, James H.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 10 of 44</container>
+            <unittitle>Field, Marshall Jr.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 10 of 44</container>
+            <unittitle>Fink, Bruce (1907-1912)</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 10 of 44</container>
+            <unittitle>Fisher, Elmon M.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 10 of 44</container>
+            <unittitle>Flores, Leopoldo (1904). Includes drawings by Thomas T. Reed.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 10 of 44</container>
+            <unittitle>Foex, Felix</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 10 of 44</container>
+            <unittitle>Foraker, C. T.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 10 of 44</container>
+            <unittitle>Franceschi, Emanuel Francesco (1895-1903)</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 10 of 44</container>
+            <unittitle>Francis, W. H.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 10 of 44</container>
+            <unittitle>Franck, Harry</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 10 of 44</container>
+            <unittitle>Freeman, George F.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 10 of 44</container>
+            <unittitle>Fric, A. V. (1923-1927) (in German with translations)</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 10 of 44</container>
+            <unittitle>Friedlander, R.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 10 of 44</container>
+            <unittitle>Frye, Theodore Christian (1903-1910)</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 10 of 44</container>
+            <unittitle>G</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 10 of 44</container>
+            <unittitle>Gaillard, D. D.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 10 of 44</container>
+            <unittitle>Gaillard, Katherine D.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 10 of 44</container>
+            <unittitle>Gallaher, Philip M.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 10 of 44</container>
+            <unittitle>Galloway, B. T.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 10 of 44</container>
+            <unittitle>Gandoger, Michel</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 10 of 44</container>
+            <unittitle>Garman, H.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 10 of 44</container>
+            <unittitle>Garrett, A. O.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 10 of 44</container>
+            <unittitle>Gaumer, George F.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 10 of 44</container>
+            <unittitle>Glatfelder, N. M.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 10 of 44</container>
+            <unittitle>Goldman, Edward Alphonso (1897-1911). Expedition reports from Mexico and California.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 10 of 44</container>
+            <unittitle>Goodwin, Irving A.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 10 of 44</container>
+            <unittitle>Gray, Asa</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 10 of 44</container>
+            <unittitle>Greene, Edward L. (1889-1904)</unittitle>
+          </did>
+        </c03>
+      </c02>
+      <c02 level="file">
+        <did>
+          <unittitle>Box 11</unittitle>
+        </did>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 11 of 44</container>
+            <unittitle>Greenman, Jesse More (1895-1911)</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 11 of 44</container>
+            <unittitle>Griffiths, David</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 11 of 44</container>
+            <unittitle>Griggs, Robert F.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 11 of 44</container>
+            <unittitle>Grout, A. J.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 11 of 44</container>
+            <unittitle>Guayule Bush</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 11 of 44</container>
+            <unittitle>Guzman, David J.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 11 of 44</container>
+            <unittitle>H</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 11 of 44</container>
+            <unittitle>Haines, Alfred S.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 11 of 44</container>
+            <unittitle>Hall, Fred H.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 11 of 44</container>
+            <unittitle>Hall, Harvey Monroe (1902-1912)</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 11 of 44</container>
+            <unittitle>Hamet, Raymond</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 11 of 44</container>
+            <unittitle>Hammond, Charles</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 11 of 44</container>
+            <unittitle>Harms, H.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 11 of 44</container>
+            <unittitle>Harned, Joseph E.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 11 of 44</container>
+            <unittitle>Harper, Roland M. (1900-1911)</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 11 of 44</container>
+            <unittitle>Harris, Edward</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 11 of 44</container>
+            <unittitle>Harshberger, John William (1903, 1910)</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 11 of 44</container>
+            <unittitle>Hasse, Hermann Edward (1891-1912)</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 11 of 44</container>
+            <unittitle>Heimerl, Anton (in German)</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 11 of 44</container>
+            <unittitle>Heller, A. A. (1892-1911)</unittitle>
+          </did>
+        </c03>
+      </c02>
+      <c02 level="file">
+        <did>
+          <unittitle>Box 12</unittitle>
+        </did>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 12 of 44</container>
+            <unittitle>Hemsley, W. Botting (1890-1910)</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 12 of 44</container>
+            <unittitle>Henderson, Louis Forniquet (c. 1893-1900). Contains SI Registrar stamped correspondence.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 12 of 44</container>
+            <unittitle>Henderson, Peter (1892-1898)</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 12 of 44</container>
+            <unittitle>Henry, Augustine</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 12 of 44</container>
+            <unittitle>Herre, Albert C. (1907-1912)</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 12 of 44</container>
+            <unittitle>Herrera, Alfonso L.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 12 of 44</container>
+            <unittitle>Herrera, Fortunato L.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 12 of 44</container>
+            <unittitle>Hertrich, William (1927)</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 12 of 44</container>
+            <unittitle>Hill, Arthur W.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 12 of 44</container>
+            <unittitle>Hill, E. J.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 12 of 44</container>
+            <unittitle>Hitchcock, Albert Spear (1901-1912)</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 12 of 44</container>
+            <unittitle>Hochderffer, George</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 12 of 44</container>
+            <unittitle>Hoffmann, O.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 12 of 44</container>
+            <unittitle>Holm, Theodore</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 12 of 44</container>
+            <unittitle>Holway, E. W. D.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 12 of 44</container>
+            <unittitle>Holzinger, John M. (1893-1911)</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 12 of 44</container>
+            <unittitle>Hope, C. W.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 12 of 44</container>
+            <unittitle>Hough, Romeyn Beck</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 12 of 44</container>
+            <unittitle>Hough, Walter L.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 12 of 44</container>
+            <unittitle>House, Homer D.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 12 of 44</container>
+            <unittitle>Howard, L. O.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 12 of 44</container>
+            <unittitle>Howe, Marshall Avery (1899-1909)</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 12 of 44</container>
+            <unittitle>Howe, Reginald Heber Jr. (1909-1911)</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 12 of 44</container>
+            <unittitle>Howell, Thomas Jefferson (1896-1902)</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 12 of 44</container>
+            <unittitle>Hunter, J. S.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 12 of 44</container>
+            <unittitle>Ingraham, Rhoby A.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 12 of 44</container>
+            <unittitle>Irish, H. C.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 12 of 44</container>
+            <unittitle>J</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 12 of 44</container>
+            <unittitle>Jackson, B. Daydon</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 12 of 44</container>
+            <unittitle>Jaeger, Edmund C.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 12 of 44</container>
+            <unittitle>Jansen, Thomas</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 12 of 44</container>
+            <unittitle>Jepson, Willis Linn (1897-1911)</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 12 of 44</container>
+            <unittitle>Jermy, Julius</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 12 of 44</container>
+            <unittitle>Johnson, Duncan S.</unittitle>
+          </did>
+        </c03>
+      </c02>
+      <c02 level="file">
+        <did>
+          <unittitle>Box 13</unittitle>
+        </did>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 13 of 44</container>
+            <unittitle>Johnston, Ivan Murray (1922-1926)</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 13 of 44</container>
+            <unittitle>Jones, Marcus E. (1893-1923)</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 13 of 44</container>
+            <unittitle>K</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 13 of 44</container>
+            <unittitle>Kearney, Thomas Henry Jr. (1899-1900)</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 13 of 44</container>
+            <unittitle>Kellerman, William Ashbrook (1905-1908)</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 13 of 44</container>
+            <unittitle>Kelsey, Harlan P. (1892-1894)</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 13 of 44</container>
+            <unittitle>Kelsey, F. D.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 13 of 44</container>
+            <unittitle>Knapp, Abbie R.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 13 of 44</container>
+            <unittitle>Koehne, E.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 13 of 44</container>
+            <unittitle>Krieger, Louis C. C.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 13 of 44</container>
+            <unittitle>Kuester, Arthur</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 13 of 44</container>
+            <unittitle>Kunze, Richard Ernest (1902-1911)</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 13 of 44</container>
+            <unittitle>L</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 13 of 44</container>
+            <unittitle>Lamb, Frank H.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 13 of 44</container>
+            <unittitle>Lamson-Scribner, F.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 13 of 44</container>
+            <unittitle>Leavitt, Robert G.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 13 of 44</container>
+            <unittitle>Leiberg, John B. (1894-1910)</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 13 of 44</container>
+            <unittitle>Lemmon, John Gill (1889-1904)</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 13 of 44</container>
+            <unittitle>Letts, Arthur</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 13 of 44</container>
+            <unittitle>Lloyd, Francis Ernest (1907-1910)</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 13 of 44</container>
+            <unittitle>Lloyd Library and Lloyd Brothers</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 13 of 44</container>
+            <unittitle>Locke, Otto</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 13 of 44</container>
+            <unittitle>Loesener, Thomas</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 13 of 44</container>
+            <unittitle>Lumholtz, Carl</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 13 of 44</container>
+            <unittitle>Lunell, J.</unittitle>
+          </did>
+        </c03>
+      </c02>
+      <c02 level="file">
+        <did>
+          <unittitle>Box 14</unittitle>
+        </did>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 14 of 44</container>
+            <unittitle>M (includes Clinton Hart Merriam correspondence)</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 14 of 44</container>
+            <unittitle>Macbride, J. Francis</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 14 of 44</container>
+            <unittitle>MacDougal, Daniel Trembly (1892-1927) (3 folders)</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 14 of 44</container>
+            <unittitle>MacElwee, Alexander</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 14 of 44</container>
+            <unittitle>Macfarlane, John M. (1904-1908)</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 14 of 44</container>
+            <unittitle>Mackensen, Bernard (1909-1911)</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 14 of 44</container>
+            <unittitle>Mackenzie, Kenneth K.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 14 of 44</container>
+            <unittitle>Macoun, James M. (1887-1906)</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 14 of 44</container>
+            <unittitle>Maiden, Joseph Henry (1900). Frederick Vernon Coville to Maiden stating that all specimens received by the USDA are eventually transferred to the USNH, even those originally kept out for economic investigations (July 12, 1900).</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 14 of 44</container>
+            <unittitle>Mason, S. C.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 14 of 44</container>
+            <unittitle>Masters, Maxwell T.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 14 of 44</container>
+            <unittitle>Maximowicz, C. J.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 14 of 44</container>
+            <unittitle>Maxon, William Ralph (1899-1911). Copy of appointment in cryptoganic botany (1899); mostly regarding Maxon's collecting expeditions written from the field; also Rose correspondence when the latter was out collecting in Arizona and Mexico (1910). (2 folders)</unittitle>
+          </did>
+        </c03>
+      </c02>
+      <c02 level="file">
+        <did>
+          <unittitle>Box 15</unittitle>
+        </did>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 15 of 44</container>
+            <unittitle>McAtee, Waldo Lee</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 15 of 44</container>
+            <unittitle>MaCalla, W. C.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 15 of 44</container>
+            <unittitle>McGregor, Ernest A.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 15 of 44</container>
+            <unittitle>Mearns, Edgar Alexander (1896-1909)</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 15 of 44</container>
+            <unittitle>Medsger, O. P.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 15 of 44</container>
+            <unittitle>Meehan, Thomas and Sons</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 15 of 44</container>
+            <unittitle>Mell, C. D.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 15 of 44</container>
+            <unittitle>Merriam, Clinton Hart</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 15 of 44</container>
+            <unittitle>Merriam, John Campbell</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 15 of 44</container>
+            <unittitle>Merrill, Elmer Drew (1900-1927)</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 15 of 44</container>
+            <unittitle>Metcalfe, O. B.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 15 of 44</container>
+            <unittitle>Meyer, W. F.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 15 of 44</container>
+            <unittitle>Michelli, M.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 15 of 44</container>
+            <unittitle>Miller, Gerrit Smith Jr. (1901-1904)</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 15 of 44</container>
+            <unittitle>Miller, H. M. A.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 15 of 44</container>
+            <unittitle>Miller, O. O.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 15 of 44</container>
+            <unittitle>Miller, Wilhelm (see also Liberty Hyde Bailey)</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 15 of 44</container>
+            <unittitle>Mills, William Webster</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 15 of 44</container>
+            <unittitle>Millspaugh, Charles Frederick (1891-1923)</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 15 of 44</container>
+            <unittitle>Moeller, Arturo F.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 15 of 44</container>
+            <unittitle>Mohr, Charles Theodore (1892-1901)</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 15 of 44</container>
+            <unittitle>Mooney, James (1898-1904)</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 15 of 44</container>
+            <unittitle>Moore, Albert Hanford</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 15 of 44</container>
+            <unittitle>Moore, George T.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 15 of 44</container>
+            <unittitle>Morris, D.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 15 of 44</container>
+            <unittitle>Morris, E. L.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 15 of 44</container>
+            <unittitle>Moseley, E. L.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 15 of 44</container>
+            <unittitle>Muller, Willy</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 15 of 44</container>
+            <unittitle>Mundt, Walter</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 15 of 44</container>
+            <unittitle>Munson, T. V.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 15 of 44</container>
+            <unittitle>Murrill, William Alphonso (1923)</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 15 of 44</container>
+            <unittitle>N</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 15 of 44</container>
+            <unittitle>Nakai, T</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 15 of 44</container>
+            <unittitle>Nash, George V.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 15 of 44</container>
+            <unittitle>Nelson, Aven (1896-1926)</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 15 of 44</container>
+            <unittitle>Nelson, Edward W. (1894-1909)</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 15 of 44</container>
+            <unittitle>Nieuwland, J. A.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 15 of 44</container>
+            <unittitle>Nichols, George E.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 15 of 44</container>
+            <unittitle>Norton, J. B. S.</unittitle>
+          </did>
+        </c03>
+      </c02>
+      <c02 level="file">
+        <did>
+          <unittitle>Box 16</unittitle>
+        </did>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 16 of 44</container>
+            <unittitle>O</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 16 of 44</container>
+            <unittitle>Oliver, G. W.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 16 of 44</container>
+            <unittitle>Olsson-Seffer, Pehr</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 16 of 44</container>
+            <unittitle>Orcutt, Charles Russell (1898-1927) (2 folders)</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 16 of 44</container>
+            <unittitle>Ortega, Jesus Gonzalez</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 16 of 44</container>
+            <unittitle>Osterhout, George E.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 16 of 44</container>
+            <unittitle>P</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 16 of 44</container>
+            <unittitle>Pachano, Abelardo</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 16 of 44</container>
+            <unittitle>Painter, Joseph Hannum</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 16 of 44</container>
+            <unittitle>Palmer, William</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 16 of 44</container>
+            <unittitle>Pammel, L. H.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 16 of 44</container>
+            <unittitle>Pampanini, Renato</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 16 of 44</container>
+            <unittitle>Parish, Samuel B. (1893-1923)</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 16 of 44</container>
+            <unittitle>Patten, Juliet C.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 16 of 44</container>
+            <unittitle>Paul, Oglesby</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 16 of 44</container>
+            <unittitle>Pearson, G. A.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 16 of 44</container>
+            <unittitle>Pearson, William H.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 16 of 44</container>
+            <unittitle>Pennell, Francis Whittier (1909-1924)</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 16 of 44</container>
+            <unittitle>Perkins, I.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 16 of 44</container>
+            <unittitle>Perredes, P. E. F.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 16 of 44</container>
+            <unittitle>Pieters, A. J.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 16 of 44</container>
+            <unittitle>Pilger, R.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 16 of 44</container>
+            <unittitle>Piper, Charles Vancouver (1897-1924)</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 16 of 44</container>
+            <unittitle>Pittier, Henri (1897-1925)</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 16 of 44</container>
+            <unittitle>Plank, E. N.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 16 of 44</container>
+            <unittitle>Pollard, Charles Louis (1896-1908)</unittitle>
+          </did>
+        </c03>
+      </c02>
+      <c02 level="file">
+        <did>
+          <unittitle>Box 17</unittitle>
+        </did>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 17 of 44</container>
+            <unittitle>Pond, Mrs. Thomas G.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 17 of 44</container>
+            <unittitle>Prain, D.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 17 of 44</container>
+            <unittitle>Pringle, Clyde Guernsey (1891-1911) (2 folders)</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 17 of 44</container>
+            <unittitle>Purpus, Carl A. (1899-1927) (3 folders)</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 17 of 44</container>
+            <unittitle>Purpus, J. A.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 17 of 44</container>
+            <unittitle>Q</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 17 of 44</container>
+            <unittitle>Quehl, Leopold (1907-1911) (in German with translations)</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 17 of 44</container>
+            <unittitle>R</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 17 of 44</container>
+            <unittitle>Radlkofer, L.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 17 of 44</container>
+            <unittitle>Ramirez, Jose</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 17 of 44</container>
+            <unittitle>Rathbun, Richard (1908-1911). Includes letter to Rose regarding the use of USNM facilities, having franking privileges for official correspondence that is to be kept part of USNM files, and an aid, while working with Carnegie Institution of Washington (December 11, 1911).</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 17 of 44</container>
+            <unittitle>Ravenel, William deC. (1924-1927)</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 17 of 44</container>
+            <unittitle>Record, Samuel J.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 17 of 44</container>
+            <unittitle>Rehder, Alfred (1902-1904)</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 17 of 44</container>
+            <unittitle>Reko, Blas P.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 17 of 44</container>
+            <unittitle>Reverchon, J. (1896-1907)</unittitle>
+          </did>
+        </c03>
+      </c02>
+      <c02 level="file">
+        <did>
+          <unittitle>Box 18</unittitle>
+        </did>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 18 of 44</container>
+            <unittitle>Reynolds, Ernest Shaw</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 18 of 44</container>
+            <unittitle>Rhoads, S. A.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 18 of 44</container>
+            <unittitle>Ricker, Perry LeRoy (1902-1909)</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 18 of 44</container>
+            <unittitle>Robinson, Benjamin Lincoln (1890-1924) (3 folders)</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 18 of 44</container>
+            <unittitle>Robinson, Charles Budd (1902-1907)</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 18 of 44</container>
+            <unittitle>Robinson, J. H.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 18 of 44</container>
+            <unittitle>Roland-Gosselin, R.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 18 of 44</container>
+            <unittitle>Rolfs, P. H.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 18 of 44</container>
+            <unittitle>Rose, Joseph Nelson (1888-1913). Includes proposed investigations and authorization for expeditions; appointments to the USDA; report, notebook of expenses, and other material regarding trip to Mexico (1897).</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 18 of 44</container>
+            <unittitle>Rose, Joseph Nelson (1912). Material regarding Kansas trip.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 18 of 44</container>
+            <unittitle>Rose, Joseph Nelson (1897-1908, 1918). Contains itinerary and journal for Rose's expeditions to Ecuador and Mexico (see also Coulter and Rose). (2 folders)</unittitle>
+          </did>
+        </c03>
+      </c02>
+      <c02 level="file">
+        <did>
+          <unittitle>Box 19</unittitle>
+        </did>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 19 of 44</container>
+            <unittitle>Rose, Joseph Nelson. Untitled article written in Spanish - "Botanical Field Expedition in the State of Queretaro"; miscellaneous materials.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 19 of 44</container>
+            <unittitle>Rose, Joseph Nelson (1908 and undated). Includes notes, lists and Excerpts concerning the administration and space needs of the National Herbarium.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 19 of 44</container>
+            <unittitle>Rosendahl, C. O.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 19 of 44</container>
+            <unittitle>Rost, E. C.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 19 of 44</container>
+            <unittitle>Rothert, W.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 19 of 44</container>
+            <unittitle>Runyon, Robert</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 19 of 44</container>
+            <unittitle>Rusby, Henry Hurd (1893-1927)</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 19 of 44</container>
+            <unittitle>Russell, Paul G.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 19 of 44</container>
+            <unittitle>Ruth, Albert</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 19 of 44</container>
+            <unittitle>Rydberg, Per Axel (1894-1919)</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 19 of 44</container>
+            <unittitle>S</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 19 of 44</container>
+            <unittitle>Safford, William Edwin (c. 1910-1918)</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 19 of 44</container>
+            <unittitle>Sandberg, J. H.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 19 of 44</container>
+            <unittitle>Sargent, Charles Sprague (1892-1911)</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 19 of 44</container>
+            <unittitle>Sargent, Oswald H.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 19 of 44</container>
+            <unittitle>Saur, Belden C.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 19 of 44</container>
+            <unittitle>Scheuber, Emma W.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 19 of 44</container>
+            <unittitle>Schoolcraft, Mrs.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 19 of 44</container>
+            <unittitle>Schumann, K.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 19 of 44</container>
+            <unittitle>Schutze, Dr.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 19 of 44</container>
+            <unittitle>Schwarz, Theodore</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 19 of 44</container>
+            <unittitle>Seaton, Henry E. (1891-1893)</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 19 of 44</container>
+            <unittitle>Setchell, William A.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 19 of 44</container>
+            <unittitle>Shantz, H. L.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 19 of 44</container>
+            <unittitle>Shaw, Charles H.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 19 of 44</container>
+            <unittitle>Shaw, George R.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 19 of 44</container>
+            <unittitle>Sheldon, Edmund P.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 19 of 44</container>
+            <unittitle>Shepard, C. Antoinette</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 19 of 44</container>
+            <unittitle>Short, Charles Wilkins (1883). Includes a biography on Short and the portion of his will consigning his collection of dried plants to the Smithsonian.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 19 of 44</container>
+            <unittitle>Short, John W.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 19 of 44</container>
+            <unittitle>Shreve, Forrest (1907-1924)</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 19 of 44</container>
+            <unittitle>Shriver, Howard</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 19 of 44</container>
+            <unittitle>Shull, George Harrison (1902-1910)</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 19 of 44</container>
+            <unittitle>Shull, J. Marion</unittitle>
+          </did>
+        </c03>
+      </c02>
+      <c02 level="file">
+        <did>
+          <unittitle>Box 20</unittitle>
+        </did>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 20 of 44</container>
+            <unittitle>Simpson, J. H. (1898-1911) (brother of Charles Torrey Simpson)</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 20 of 44</container>
+            <unittitle>Slater, Elsie McElroy</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 20 of 44</container>
+            <unittitle>Small, John Kunkel (1893-1912, 1927)</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 20 of 44</container>
+            <unittitle>Smith, Benjamin H.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 20 of 44</container>
+            <unittitle>Smith, Charles L.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 20 of 44</container>
+            <unittitle>Smith, Herbert H.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 20 of 44</container>
+            <unittitle>Smith, Jared G.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 20 of 44</container>
+            <unittitle>Smith, John Donnell (1891-1906) (4 folders)</unittitle>
+          </did>
+        </c03>
+      </c02>
+      <c02 level="file">
+        <did>
+          <unittitle>Box 21</unittitle>
+        </did>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 21 of 44</container>
+            <unittitle>Smith, John Donnell (1907-1927) (2 folders)</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 21 of 44</container>
+            <unittitle>Smith, William Wright</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 21 of 44</container>
+            <unittitle>Somes, M. P.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 21 of 44</container>
+            <unittitle>Sonne, C. F.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 21 of 44</container>
+            <unittitle>Sornberger, J. D.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 21 of 44</container>
+            <unittitle>Spalding, V. M.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 21 of 44</container>
+            <unittitle>Sprague, T. A. (1926)</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 21 of 44</container>
+            <unittitle>Sprenger, Carlo</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 21 of 44</container>
+            <unittitle>Standley, Paul Carpenter (1907-1911)</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 21 of 44</container>
+            <unittitle>Stanton, T. W.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 21 of 44</container>
+            <unittitle>Stearns, Elmer (1904-1912)</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 21 of 44</container>
+            <unittitle>Steele, E. S.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 21 of 44</container>
+            <unittitle>Steele, W. C.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 21 of 44</container>
+            <unittitle>Stevens, F. L.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 21 of 44</container>
+            <unittitle>Stevenson, E. D.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 21 of 44</container>
+            <unittitle>Stevenson, Matilda Coxe. Contains SI Registrar office material (1897).</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 21 of 44</container>
+            <unittitle>Stiles, W. A.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 21 of 44</container>
+            <unittitle>Stivers, Lena H.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 21 of 44</container>
+            <unittitle>Stockberger, W. W.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 21 of 44</container>
+            <unittitle>Stokes, Susan G.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 21 of 44</container>
+            <unittitle>Sudworth, George B.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 21 of 44</container>
+            <unittitle>Suksdorf, Wilhelm N.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 21 of 44</container>
+            <unittitle>Sutton and Sons</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 21 of 44</container>
+            <unittitle>Swingle, Walter Tennyson (1905-1923)</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 21 of 44</container>
+            <unittitle>Sydow, P.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 21 of 44</container>
+            <unittitle>T</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 21 of 44</container>
+            <unittitle>Taubert, P.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 21 of 44</container>
+            <unittitle>Taylor, Elfreda Bennett</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 21 of 44</container>
+            <unittitle>Taylor, Norman</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 21 of 44</container>
+            <unittitle>Tays, Eugene A. H.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 21 of 44</container>
+            <unittitle>Thackery, Frank A.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 21 of 44</container>
+            <unittitle>Tharp, B. C.</unittitle>
+          </did>
+        </c03>
+      </c02>
+      <c02 level="file">
+        <did>
+          <unittitle>Box 22</unittitle>
+        </did>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 22 of 44</container>
+            <unittitle>Thomas-Duris, G. (1913-1924)</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 22 of 44</container>
+            <unittitle>Thompson, Charles Henry (1903-1911)</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 22 of 44</container>
+            <unittitle>Thornber, J. J.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 22 of 44</container>
+            <unittitle>Thurow, F. W.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 22 of 44</container>
+            <unittitle>Tidestrom, Ivan</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 22 of 44</container>
+            <unittitle>Tilden, Josephine E.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 22 of 44</container>
+            <unittitle>Tonduz, Ad.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 22 of 44</container>
+            <unittitle>Toumey, J. W.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 22 of 44</container>
+            <unittitle>Townsend, Charles H. Tyler</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 22 of 44</container>
+            <unittitle>Tracy, S. M.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 22 of 44</container>
+            <unittitle>Tradescantia correspondence (1897)</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 22 of 44</container>
+            <unittitle>Trask, Blanche</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 22 of 44</container>
+            <unittitle>Trelease, William (1891, 1895-1912, 1924) (2 folders)</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 22 of 44</container>
+            <unittitle>True, Rodney H.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 22 of 44</container>
+            <unittitle>Tschermak, E. von</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 22 of 44</container>
+            <unittitle>Turckheim, H. von</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 22 of 44</container>
+            <unittitle>Tweedy, Frank</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 22 of 44</container>
+            <unittitle>U</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 22 of 44</container>
+            <unittitle>Ule, E.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 22 of 44</container>
+            <unittitle>Uline, Edwin B.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 22 of 44</container>
+            <unittitle>Umbach, L. M.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 22 of 44</container>
+            <unittitle>Underwood, Lucien M. (1892-1906)</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 22 of 44</container>
+            <unittitle>Urban, Ignatius (1886-1927)</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 22 of 44</container>
+            <unittitle>Urbina, Manuel</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 22 of 44</container>
+            <unittitle>V</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 22 of 44</container>
+            <unittitle>Vail, Anna Murray</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 22 of 44</container>
+            <unittitle>Van Dyk, A.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 22 of 44</container>
+            <unittitle>Vaupel, F.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 22 of 44</container>
+            <unittitle>Very, C. F.</unittitle>
+          </did>
+        </c03>
+      </c02>
+      <c02 level="file">
+        <did>
+          <unittitle>Box 23</unittitle>
+        </did>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 23 of 44</container>
+            <unittitle>W</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 23 of 44</container>
+            <unittitle>Wabash College Honorary Degree (1925). Includes Rose's speech regarding the class of 1885.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 23 of 44</container>
+            <unittitle>Walcott, Charles D. (1911-1927)</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 23 of 44</container>
+            <unittitle>Warner, Marjorie F.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 23 of 44</container>
+            <unittitle>Watson, Sereno (1889-1890)</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 23 of 44</container>
+            <unittitle>Webber, Herbert John (1900-1902)</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 23 of 44</container>
+            <unittitle>Weberbauer, A.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 23 of 44</container>
+            <unittitle>Weeks, George F.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 23 of 44</container>
+            <unittitle>Weigel, Theodor Oswald</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 23 of 44</container>
+            <unittitle>Weinberg, Frank (1903-1911)</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 23 of 44</container>
+            <unittitle>Weingart, Wilhelm (1923-1924) (in German)</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 23 of 44</container>
+            <unittitle>Werckle, C.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 23 of 44</container>
+            <unittitle>Wetmore, Alexander (1926). In regard to having Rose ship specimens to Nathaniel Lord Britton through administrative channels; William Ralph Maxon appears to handle administrative tasks.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 23 of 44</container>
+            <unittitle>Whorf, Edward H.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 23 of 44</container>
+            <unittitle>Wibbe, J. Herman</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 23 of 44</container>
+            <unittitle>Wight, W. F.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 23 of 44</container>
+            <unittitle>Wilcox, G. B.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 23 of 44</container>
+            <unittitle>Wilcox, Timothy E.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 23 of 44</container>
+            <unittitle>Willey, Henry (1899-1901)</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 23 of 44</container>
+            <unittitle>Williams, R. O.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 23 of 44</container>
+            <unittitle>Walcott, Henrietta L. T.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 23 of 44</container>
+            <unittitle>Wolthuys, J. J. Verbeek</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 23 of 44</container>
+            <unittitle>Wood, J. Medley</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 23 of 44</container>
+            <unittitle>Woodward, Robert S.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 23 of 44</container>
+            <unittitle>Wooton, Elmer O. (1898-1911)</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 23 of 44</container>
+            <unittitle>Wurzlow, H.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 23 of 44</container>
+            <unittitle>Young, R. A.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 23 of 44</container>
+            <unittitle>York, Harlan H.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 23 of 44</container>
+            <unittitle>Y-Z</unittitle>
+          </did>
+        </c03>
+      </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unitid>Series 2</unitid>
+          <unittitle>Official Outgoing Correspondence, Joseph Nelson Rose, 1894-1909, 1911-1912. Bound and indexed.</unittitle>
+        </did>
+        <scopecontent>
+         <p>Outgoing letterpress correspondence, January 1, 1894-December 30, 1909; July 18, 1911-May 30, 1912. Indexed. 28 volumes. Volumes 1-4 contain correspondence from 
+        Joseph Nelson Rose's years with the United States Department of Agriculture. Volumes 5-27, and 30, cover Rose's work with the United States National Herbarium, United States 
+        National Museum, Division of Plants. Correspondence includes National Herbarium reports and letters and memoranda from Frederick Vernon Coville, honorary curator, USNH, and 
+        William Ralph Maxon, assistant curator, Division of Plants. For general contents regarding the material, see the descriptive entry at the beginning of the finding aid. Letterpress 
+        correspondence corresponds to the incoming correspondence, series 1.</p> </scopecontent> 
+      <c02 level="file">
+        <did>
+          <unittitle>Box 24</unittitle>
+        </did>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 24 of 44</container>
+            <unittitle>January 1, 1894-April 18, 1896 (3 volumes)</unittitle>
+          </did>
+        </c03>
+      </c02>
+      <c02 level="file">
+        <did>
+          <unittitle>Box 25</unittitle>
+        </did>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 25 of 44</container>
+            <unittitle>April 20, 1896-December 30, 1897 (3 volumes)</unittitle>
+          </did>
+        </c03>
+      </c02>
+      <c02 level="file">
+        <did>
+          <unittitle>Box 26</unittitle>
+        </did>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 26 of 44</container>
+            <unittitle>January 4, 1898-December 22, 1899 (3 volumes)</unittitle>
+          </did>
+        </c03>
+      </c02>
+      <c02 level="file">
+        <did>
+          <unittitle>Box 27</unittitle>
+        </did>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 27 of 44</container>
+            <unittitle>December 22, 1899-December 30, 1902 (3 volumes)</unittitle>
+          </did>
+        </c03>
+      </c02>
+      <c02 level="file">
+        <did>
+          <unittitle>Box 28</unittitle>
+        </did>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 28 of 44</container>
+            <unittitle>January 1, 1902-July 1903 (3 volumes)</unittitle>
+          </did>
+        </c03>
+      </c02>
+      <c02 level="file">
+        <did>
+          <unittitle>Box 29</unittitle>
+        </did>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 29 of 44</container>
+            <unittitle>July 1, 1903-October 10, 1904 (3 volumes)</unittitle>
+          </did>
+        </c03>
+      </c02>
+      <c02 level="file">
+        <did>
+          <unittitle>Box 30</unittitle>
+        </did>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 30 of 44</container>
+            <unittitle>October 11, 1904-March 5, 1906 (3 volumes)</unittitle>
+          </did>
+        </c03>
+      </c02>
+      <c02 level="file">
+        <did>
+          <unittitle>Box 31</unittitle>
+        </did>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 31 of 44</container>
+            <unittitle>March 5, 1906-November 6, 1907 (3 volumes)</unittitle>
+          </did>
+        </c03>
+      </c02>
+      <c02 level="file">
+        <did>
+          <unittitle>Box 32</unittitle>
+        </did>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 32 of 44</container>
+            <unittitle>July 30, 1908-December 30, 1909; July 18, 1911-May 30, 1912 (not inclusive) (3 volumes)</unittitle>
+          </did>
+        </c03>
+      </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unitid>Series 3</unitid>
+          <unittitle>Miscellaneous Outgoing Correspondence, 1894-1919 and undated.</unittitle>
+        </did>
+      <c02 level="file">
+        <did>
+          <unittitle>Box 33</unittitle>
+        </did>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 33 of 44</container>
+            <unittitle>Miscellaneous Contributions to USNH (c. 1903-1908)</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 33 of 44</container>
+            <unittitle>Letters salvaged from water soaked letterpress</unittitle>
+          </did>
+        </c03>
+      </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unitid>Series 4</unitid>
+          <unittitle>Manuscripts and Correspondence Related to Joseph Nelson Rose and John Donnell Smith Research Project on the Hauya, 1911-1912.</unittitle>
+        </did>
+        <scopecontent>
+         <p>This series includes the Joseph Nelson Rose and John Donnell Smith manuscript, "A Monograph of the Hauyeae and Gongylocarpeae Tribes of the Onagraceae," which was 
+        published in 1913. There are also letters (1911) and other material between Rose and Smith regarding their project, including a Smith letter to Rose (January 20, 1912) showing 
+        his interest in Rose's suggestion that they collaborate on a revision of the genus Hauya. Also included is correspondence between Rose, Richard Rathbun, and William deC. Ravenel 
+        of the USNM regarding the project and correspondence with Smith and a manuscript concerning Burragea (1911-1912).</p> </scopecontent> 
+      <c02 level="file">
+        <did>
+          <unittitle>Box 33</unittitle>
+        </did>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 33 of 44</container>
+            <unittitle>Joseph Nelson Rose and John Donnell Smith. Hauya manuscript.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 33 of 44</container>
+            <unittitle>Joseph Nelson Rose and John Donnell Smith. Hauya correspondence.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 33 of 44</container>
+            <unittitle>Joseph Nelson Rose and John Donnell Smith. Burragea items.</unittitle>
+          </did>
+        </c03>
+      </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unitid>Series 5</unitid>
+          <unittitle>Joseph Nelson Rose and Nathaniel Lord Britton Project on Cactaceae, 1919-1923; Rose's Work on Cacti, 1903-1922.</unittitle>
+        </did>
+        <scopecontent>
+         <p>This series includes correspondence and memoranda of Rose regarding the four-volume publication <emph render="italic">The Cactaceae</emph> by Rose and Britton along with preparation and 
+        publication of the work, reviews, and receipt of the publication by various persons. Also included are passports enabling Rose to go on expeditions for his projects and the 
+        text of a speech by Rose, "The Cactus and Its Environmental Relations," 1922. Correspondents include William Barnum, Alwin Berger, Nathaniel Lord Britton, John Merle Coulter, 
+        A. L. Herrera, G. L. Machintach, Daniel Trembly MacDougal, John C. Merriam, John Donnell Smith, W. Gilman Thompson, F. Vaupel, Charles D. Walcott, and Robert S. Woodward.</p> </scopecontent> 
+      <c02 level="file">
+        <did>
+          <unittitle>Box 33</unittitle>
+        </did>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 33 of 44</container>
+            <unittitle>A-Z</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 33 of 44</container>
+            <unittitle>Barnum, William</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 33 of 44</container>
+            <unittitle>Berger, Alwin</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 33 of 44</container>
+            <unittitle>Britton, Nathaniel Lord</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 33 of 44</container>
+            <unittitle>Carnegie Institution</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 33 of 44</container>
+            <unittitle>Coulter, John Merle</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 33 of 44</container>
+            <unittitle>Herrera, Alfonso L.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 33 of 44</container>
+            <unittitle>MacDougal, Daniel Trembly</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 33 of 44</container>
+            <unittitle>Mackintosh, G. L.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 33 of 44</container>
+            <unittitle>Merriam, John Campbell</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 33 of 44</container>
+            <unittitle>Rose, Joseph Nelson</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 33 of 44</container>
+            <unittitle>Smith, John Donnell</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 33 of 44</container>
+            <unittitle>Thompson, W. Gilman</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 33 of 44</container>
+            <unittitle>Vaupel, F.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 33 of 44</container>
+            <unittitle>Wabash College</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 33 of 44</container>
+            <unittitle>Walcott, Charles D.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 33 of 44</container>
+            <unittitle>Woodward, Robert S.</unittitle>
+          </did>
+        </c03>
+      </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unitid>Series 6</unitid>
+          <unittitle>Miscellaneous Correspondence and Memoranda, Expenditures and Liabilities, Manuscripts and Notes, and Annual Reports, 1896-1969.</unittitle>
+        </did>
+      <c02 level="file">
+        <did>
+          <unittitle>Box 34</unittitle>
+        </did>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 34 of 44</container>
+            <unittitle>Expenditures and Liabilities (1898-1910) (2 folders)</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 34 of 44</container>
+            <unittitle>Correspondence</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 34 of 44</container>
+            <unittitle>Correspondence B-W</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 34 of 44</container>
+            <unittitle>Memoranda and Correspondence</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 34 of 44</container>
+            <unittitle>Correspondence B-UV</unittitle>
+          </did>
+        </c03>
+      </c02>
+      <c02 level="file">
+        <did>
+          <unittitle>Box 35</unittitle>
+        </did>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 35 of 44</container>
+            <unittitle>Field Photographs</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 35 of 44</container>
+            <unittitle>Miscellaneous Correspondence A-R (1940-1955) (6 folders)</unittitle>
+          </did>
+        </c03>
+      </c02>
+      <c02 level="file">
+        <did>
+          <unittitle>Box 36</unittitle>
+        </did>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 36 of 44</container>
+            <unittitle>Miscellaneous Correspondence S-Z, (1940-1955) (4 folders)</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 36 of 44</container>
+            <unittitle>Correspondence</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 36 of 44</container>
+            <unittitle>Expenditures and Liabilities (1904-1907) (2 folders)</unittitle>
+          </did>
+        </c03>
+      </c02>
+      <c02 level="file">
+        <did>
+          <unittitle>Box 37</unittitle>
+        </did>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 37 of 44</container>
+            <unittitle>Expenditures and Liabilities B-W (1904-1907)</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 37 of 44</container>
+            <unittitle>Committee of the Botanical Society of America (1898-1902)</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 37 of 44</container>
+            <unittitle>Annual Reports - Department of Botany (1950-1958)</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 37 of 44</container>
+            <unittitle>Annual Statement of Exchange Accounts, United States National Herbarium (1933-1946)</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 37 of 44</container>
+            <unittitle>Reading File - Department of Botany (1968-1969)</unittitle>
+          </did>
+        </c03>
+      </c02>
+      <c02 level="file">
+        <did>
+          <unittitle>Box 38</unittitle>
+        </did>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 38 of 44</container>
+            <unittitle>Administrative Assistant, Expenditures and Liabilities (1902-1904)</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 38 of 44</container>
+            <unittitle>Rose, Joseph Nelson. Letters of the National Museum B-L (1902-1904).</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 38 of 44</container>
+            <unittitle>Rose, Joseph Nelson. Letters of the National Museum M-W (1902-1904).</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 38 of 44</container>
+            <unittitle>Miscellaneous Items</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 38 of 44</container>
+            <unittitle>Annual Reports (1922-1929) (1 volume)</unittitle>
+          </did>
+        </c03>
+      </c02>
+      <c02 level="file">
+        <did>
+          <unittitle>Box 39</unittitle>
+        </did>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 39 of 44</container>
+            <unittitle>Miscellaneous Notes of George Vasey (1884)</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 39 of 44</container>
+            <unittitle>George Vasey. <emph render="italic">Botanical Gazette</emph>: volume 9 (1884), volume 11 (1886), volume 16 (1891); <emph render="italic">Bulletin of the Torrey Botanical Club</emph>: volume 11 (1884), volume 13 (1886), volume 14 (1887), volume 15 (1888)</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 39 of 44</container>
+            <unittitle>Walker, E. H. Correspondence (1929-1933, 1940-1943, 1949, 1953)</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 39 of 44</container>
+            <unittitle>Maxon, William R. Notes and reports (1931-1935). (2 folders)</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 39 of 44</container>
+            <unittitle>Maxon, William R. Division of Plants, personal correspondence.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 39 of 44</container>
+            <unittitle>Leonard, Emery C. (1922-1928) (1 volume)</unittitle>
+          </did>
+        </c03>
+      </c02>
+      <c02 level="file">
+        <did>
+          <unittitle>Box 40</unittitle>
+        </did>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 40 of 44</container>
+            <unittitle>Maxon, William R. Correspondence on the destruction of imperfect specimens (1899, 1901, 1912-1915).</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 40 of 44</container>
+            <unittitle>List of numbers of plants from the Herbarium of the East India Company</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 40 of 44</container>
+            <unittitle>Chickering, John W. Jr. Herbarium (1944).</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 40 of 44</container>
+            <unittitle>Maxon, William R. Request for herbarium cases to accommodate bamboo material (1944).</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 40 of 44</container>
+            <unittitle>Furniture and Equipment Requests (1916-1946)</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 40 of 44</container>
+            <unittitle>Maxon, William R. Correspondence on Conzatti Herbarium (1931-1932).</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 40 of 44</container>
+            <unittitle>Maxon, William R. Correspondence on Greene Herbarium (1914-1915).</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 40 of 44</container>
+            <unittitle>Maxon, William R. Correspondence on Buchtien Herbarium (1921-1922).</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 40 of 44</container>
+            <unittitle>Maxon, William R. Correspondence on Philippine Herbarium (most of the papers are with Mr. Coville) (1914-1927).</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 40 of 44</container>
+            <unittitle>Thornber, J. J. Acknowledgment for gifts given to the National Museum; R. Rathbun (1906).</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 40 of 44</container>
+            <unittitle>Exchanges - Chicago Natural History and National Museum of Natural History (1960).</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 40 of 44</container>
+            <unittitle>Smith, A. C. Answering letters about Yoco (1950-1951).</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 40 of 44</container>
+            <unittitle>Smith, A. C. and E. P. Killip. Loans recalled (1938-1956).</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 40 of 44</container>
+            <unittitle>Miscellaneous Articles on Various Plants (1943, 1967, 1971)</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 40 of 44</container>
+            <unittitle>Killip, E. P. Berlin loans (1930-1939).</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 40 of 44</container>
+            <unittitle>Llano, G. A. Annual report data and work plans for year (1948-1950).</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 40 of 44</container>
+            <unittitle>Llano, G. A. Algae.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 40 of 44</container>
+            <unittitle>Llano, G. A. Hepatics.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 40 of 44</container>
+            <unittitle>Llano, G. A. Lichens.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 40 of 44</container>
+            <unittitle>Llano, G. A. Data in regard to specimens of the cryptogamic collections.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 40 of 44</container>
+            <unittitle>Llano, G. A. Exchanges with individuals: listing species (1949).</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 40 of 44</container>
+            <unittitle>Examination and Reports</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 40 of 44</container>
+            <unittitle>Llano, G. A. Instructions for collecting lichens and diatoms.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 40 of 44</container>
+            <unittitle>Loans to SI (1948-1949)</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 40 of 44</container>
+            <unittitle>Interdepartmental Loans (1948-1949)</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 40 of 44</container>
+            <unittitle>Maxon, William R. and E. P. Killip. Memoranda on determined and undetermined specimens (1945-1950)</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 40 of 44</container>
+            <unittitle>Llano, G. A. Radio appearances, news releases, and popular lectures.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 40 of 44</container>
+            <unittitle>Llano, G. A. Scientific papers in manuscript.</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 40 of 44</container>
+            <unittitle>Maxon, William R. Herbarium protection during World War II (1941-1943).</unittitle>
+          </did>
+        </c03>
+      </c02>
+      <c02 level="file">
+        <did>
+          <unittitle>Box 41</unittitle>
+        </did>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 41 of 44</container>
+            <unittitle>Manuscripts and Notes (4 volumes)</unittitle>
+          </did>
+        </c03>
+      </c02>
+      <c02 level="file">
+        <did>
+          <unittitle>Box 42</unittitle>
+        </did>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 42 of 44</container>
+            <unittitle>Memoranda - Administrative (1897-1930) (4 volumes)</unittitle>
+          </did>
+        </c03>
+      </c02>
+      <c02 level="file">
+        <did>
+          <unittitle>Box 43</unittitle>
+        </did>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 43 of 44</container>
+            <unittitle>Memoranda- Administrative (1931-1938) (3 volumes)</unittitle>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 43 of 44</container>
+            <unittitle>Annual Reports (1913-1921) (1 volume)</unittitle>
+          </did>
+        </c03>
+      </c02>
+      <c02 level="file">
+        <did>
+          <unittitle>Box 44</unittitle>
+        </did>
+        <c03 level="file">
+          <did>
+            <container label="Box">Box 44 of 44</container>
+            <unittitle>Rose's Research Notes (15 folders)</unittitle>
+          </did>
+        </c03>
+      </c02>
+      <c02 level="file">
+        <did>
+          <unittitle>Oversize</unittitle>
+        </did>
+        <c03 level="file">
+          <did>
+            <container label="Box">Oversize</container>
+            <unittitle>Map of the south of Peru and part of Bolivia showing the Peruvian railway extending into Bolivia, 1913 (Accession 12-357)</unittitle>
+          </did>
+        </c03>
+      </c02>
+      
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

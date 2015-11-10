@@ -1,0 +1,106 @@
+<?xml version="1.0"?>
+<ead>
+<eadheader id="a0" langencoding="iso639-2b" countryencoding="iso3166-1" repositoryencoding="iso15511" dateencoding="iso8601" scriptencoding="iso15924">
+<eadid xmlns:cdlpath="http://www.cdlib.org/path/" countrycode="us" mainagencycode="CSt-H" publicid="PUBLIC -//Stanford University::Hoover Institution Archives//TEXT(US::CSt-H::2001C101::Gamal Abdel Nasser speeches//EN 2001C101.xml" identifier="ark:/13030/kt7q2nf4cv" cdlpath:parent="ark:/13030/tf4m3nb8sq">2001C101.xml</eadid>
+<filedesc>
+	<titlestmt>
+	<titleproper>Overview of the Gamal Abdel Nasser speeches</titleproper>
+	<titleproper type="filing">Nasser (Gamal Abdel) speeches</titleproper>
+<author>Processed by Hoover Institution Archives Staff. </author>
+</titlestmt>
+	<publicationstmt>
+	<publisher id="Cst-H">Hoover Institution Archives</publisher> 
+	<address> 
+<addressline>Stanford University</addressline> 
+	<addressline>Stanford, California 94305-6010</addressline>
+ 	<addressline>Phone: (650) 723-3563</addressline>
+ 	<addressline>Fax: (650) 725-3445</addressline>
+ 	<addressline>Email: archives@hoover.stanford.edu</addressline>
+ 	</address>
+<date type="Publication" normal="2009"> 2009</date><p>Hoover Institution Archives. All rights reserved.</p>
+</publicationstmt>
+</filedesc> 
+<profiledesc>
+<creation>Machine-readable finding aid derived from MARC record by Elizabeth Konzak. <date normal="2009">Date of source: 2009</date></creation>
+<langusage>Finding aid is written in <language langcode="eng" scriptcode="latn">English</language></langusage>
+</profiledesc>
+</eadheader>
+<frontmatter>
+<titlepage>
+<titleproper>Overview of the Gamal Abdel Nasser speeches</titleproper>
+<publisher>Hoover Institution Archives<lb/>Stanford University<lb/>Stanford, California</publisher>
+<list type="deflist">
+<defitem>
+<label>Processed by: </label>
+<item>Hoover Institution Archives Staff</item>
+</defitem>
+<defitem>
+<label>Date Completed: </label>
+<item>2009</item>
+</defitem>
+<defitem>
+<label>Encoded by: </label>
+<item>Machine-readable finding aid derived from MARC record by Elizabeth Konzak.</item>
+</defitem>
+</list>
+<p> 2009 Hoover Institution Archives. All rights reserved.</p>
+</titlepage>
+</frontmatter>
+<archdesc level="collection" id="a19" type="inventory">
+<did id="P2">
+<head>Collection Summary</head>
+	<unittitle label="Title" encodinganalog="245$a">Gamal Abdel Nasser speeches </unittitle><unitdate label="Dates" type="inclusive" normal="1956/1962" encodinganalog="245$f">1956-1962</unitdate>
+	<unitid label="Collection Number" countrycode="us" repositorycode="CSt-H" encodinganalog="099">2001C101</unitid>
+<origination label="Creator"><persname source="lcnaf" rules="aacr2">Nasser, Gamal Abdel, 1918-1970.</persname></origination>
+<physdesc label="Collection Size" encodinganalog="300$a">
+	<extent>1 manuscript box </extent>
+	<extent>(0.4 linear feet)</extent>
+</physdesc>
+<repository label="Repository">
+	<corpname>Hoover Institution Archives </corpname> <address> <addressline>Stanford, California 94305-6010</addressline> </address></repository>
+<abstract label="Abstract" encodinganalog="520$a">Sound recordings of speeches, relating to nationalization of the Suez Canal, and to other aspects of Egyptian politics and foreign policy.</abstract>
+<physloc label="Physical Location">Hoover Institution Archives</physloc>
+<langmaterial label="Languages" encodinganalog="546$a">
+	<language langcode="ara">Arabic </language>
+</langmaterial>
+</did>
+<descgrp type="admininfo" id="descgrp-1.3.2">
+<head>Administrative Information</head>
+<accessrestrict encodinganalog="506">
+<head>Access</head>
+<p>Collection is open for research. </p>
+<p>Access to sound recordings, video recordings, or motion picture material requires at least two weeks advance notice. Please contact the Hoover Institution Archives for further information.</p></accessrestrict>
+<userestrict encodinganalog="540">
+<head>Publication Rights</head>
+<p>For copyright status, please contact the Hoover Institution Archives. </p>
+</userestrict>
+<prefercite encodinganalog="524">
+<head>Preferred Citation</head>
+<p>[Identification of item], Gamal Abdel Nasser speeches, [Box number], Hoover Institution Archives.</p>
+</prefercite>
+<acqinfo encodinganalog="541">
+ <head>Acquisition Information</head>
+ <p>Acquired by the Hoover Institution Archives in 2001.</p>
+</acqinfo>
+<accruals encodinganalog="525"><head>Accruals</head>
+<p>Materials may have been added to the collection since this finding aid was prepared. To determine if this has occurred, find the collection in Stanford University's online catalog Socrates at <extref linktype="simple" href="http://library.stanford.edu/webcat" actuate="onrequest" show="new"> http://library.stanford.edu/webcat</extref>. Materials have been added to the collection if the number of boxes listed in Socrates is larger than the number of boxes listed in this finding aid.</p>
+</accruals>
+</descgrp>
+<bioghist id="a2" encodinganalog="545">
+<head>Biographical/Historical Note</head> 
+<p>President of Egypt, 1952-1970.</p>
+</bioghist>
+<scopecontent id="a3" encodinganalog="520">
+<head>Scope and Content of Collection</head>
+<p>Sound recordings of speeches, relating to nationalization of the Suez Canal, and to other aspects of Egyptian politics and foreign policy.</p>
+</scopecontent>
+<controlaccess id="controlaccess-1.3.5">
+<head>Indexing Terms</head> 
+<p>The following terms have been used to index the description of this collection in the library's online public access catalog.</p> 
+<subject encodinganalog="650" source="lcsh">Suez Canal (Egypt)</subject>
+<geogname encodinganalog="651" source="lcsh">Egypt--Politics and government--1952-1970.</geogname>
+<geogname encodinganalog="651" source="lcsh">Egypt--Foreign relations.</geogname>
+<genreform encodinganalog="655" source="lcsh">Phonotapes</genreform>
+</controlaccess>
+</archdesc>
+</ead>

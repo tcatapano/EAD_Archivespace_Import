@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+    <eadid countrycode="US" mainagencycode="US-UPB" publicid="-//L. Tom Perry Special Collections::19th Century Western  Mormon Manuscripts//TEXT(US::US-UPB::MSS SC 414::Lake County (Ohio) legal documents)//EN" encodinganalog="identifier">UPB_MSSSC414</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper encodinganalog="title">Register of Lake County (Ohio) legal documents
+                    
+                </titleproper>
+        <titleproper type="filing">Lake County (Ohio) legal documents</titleproper>
+        <author encodinganalog="creator">Finding aid prepared by Elisa Visick</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher encodinganalog="publisher">L. Tom Perry Special Collections</publisher>
+        <date encodinganalog="date">2010 July 2</date>
+        <address>
+          <addressline>1130 Harold B. Lee Library</addressline>
+          <addressline>Brigham Young University</addressline>
+          <addressline>Provo, Utah 84606</addressline>
+          <addressline>http://sc.lib.byu.edu/</addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2010-10-05T08:31-0600</date>
+            </creation>
+      <langusage>English</langusage>
+      <descrules>Archives, Personal Papers, and Manuscripts</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection" type="inventory">
+    <did>
+      <unittitle encodinganalog="title">Lake County (Ohio) legal documents</unittitle>
+      <unitid encodinganalog="identifier">MSS SC 414</unitid>
+      <repository>
+        <corpname encodinganalog="publisher">L. Tom Perry Special Collections</corpname>
+        <subarea encodinganalog="publisher">19th Century Western  Mormon Manuscripts</subarea>
+        <address>
+          <addressline>1130 Harold B. Lee Library</addressline>
+          <addressline>Brigham Young University</addressline>
+          <addressline>Provo, Utah 84606</addressline>
+          <addressline>http://sc.lib.byu.edu/</addressline>
+        </address>
+      </repository>
+      <langmaterial>
+        <language langcode="eng" encodinganalog="language">English</language>
+      </langmaterial>
+      <physdesc>
+        <extent encodinganalog="format">26 items</extent>
+        <extent encodinganalog="format">(26 p.)</extent>
+      </physdesc>
+      <unitdate normal="1830/1850" era="ce" calendar="gregorian" datechar="creation" type="inclusive" encodinganalog="date">1830-1850</unitdate>
+      <langmaterial id="ref6">Materials are in English.</langmaterial>
+      <origination>
+        <corpname source="lcnaf" encodinganalog="creator" role="">Lake County (Ohio)</corpname>
+      </origination>
+    </did>
+    <scopecontent id="ref1" encodinganalog="description">
+      <p>Handwritten legal documents relating to numous issues in Lake County, Ohio.</p>
+    </scopecontent>
+    <bioghist id="ref2" encodinganalog="description">
+      <head>Biographical History</head>
+      <p>County in Ohio.</p>
+    </bioghist>
+    <appraisal id="ref3">
+      <p>Utah and the American West and LDS cultural, social, and religious history (19th century Western and Mormon Manuscripts collection development policy).</p>
+    </appraisal>
+    <accessrestrict id="ref4" encodinganalog="rights">
+      <p>Open for public research.</p>
+    </accessrestrict>
+    <userestrict id="ref5" encodinganalog="rights">
+      <p>It is the responsibility of the researcher to obtain any necessary copyright clearances. Permission to publish material from Lake County (Ohio) legal documents must be obtained from the Supervisor of Reference Services and/or the L. Tom Perry Special Collections Board of Curators.</p>
+    </userestrict>
+    <prefercite id="ref7">
+      <p>Initial citation: MSS SC 414; Lake County (Ohio) legal documents; 19th Century Western and Mormon Manuscripts; L. Tom Perry Special Collections, Harold B. Lee Library, Brigham Young University. Following citations: MSS SC 414, LTPSC.</p>
+    </prefercite>
+    <custodhist id="ref8">
+      <p>Donated.</p>
+    </custodhist>
+    <acqinfo id="ref9">
+      <p>Donated.</p>
+    </acqinfo>
+    <controlaccess>
+      <genreform source="lcsh" encodinganalog="type">Affidavits</genreform>
+      <subject source="cclanarrow" encodinganalog="subject">Civil Procedure and Courts</subject>
+      <subject source="umanarrow" encodinganalog="subject">Civil Procedure and Courts</subject>
+      <geogname source="lcsh" encodinganalog="coverage">Lake County (Ohio)--History--Sources</geogname>
+      <genreform source="lcsh" encodinganalog="type">Legal documents</genreform>
+      <subject source="cclabroad" encodinganalog="subject">Politics, Government, and Law</subject>
+      <subject source="umabroad" encodinganalog="subject">Politics, Government, and Law</subject>
+    </controlaccess>
+  </archdesc>
+</ead>

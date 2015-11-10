@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead relatedencoding="marc21">
+	<eadheader audience="internal">
+		<eadid countrycode="US" mainagencycode="TxU-TH" encodinganalog="852$a"
+			>urn:taro:utexas.cah.02104</eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper>A Guide to the John Felloseby Letter, 1836</titleproper>
+			</titlestmt>
+		</filedesc>
+		<profiledesc>
+			<creation>Original EAD encoding by Laurel Rozema according to TARO 2 EAD 2002 Editing
+				Instructions. <date>November 2010</date></creation>
+			<langusage>Finding aid written in <language>English.</language></langusage>
+		</profiledesc>
+	</eadheader>
+	<archdesc type="inventory" level="collection">
+		<did>
+			<head>Descriptive Summary</head>
+			<origination label="Creator:">
+				<persname encodinganalog="100">Felloseby, John </persname>
+			</origination>
+			<unittitle encodinganalog="245" label="Title:">Felloseby, John, letter</unittitle>
+			<unitdate type="inclusive" encodinganalog="245" label="Dates:">1836</unitdate>
+			<!--Modify the language of material if appropriate and update 3 letter langcode in the upper-right table. 
+				Add multiple languages with most commonly used listed first, if necessary. 
+				Example: <language langcode="eng">English</language> and <language langcode="spa">Spanish.</language> -->
+			<langmaterial label="Language:">Materials are written in <language langcode="eng"
+					>English.</language></langmaterial>
+			<physdesc label="Extent:" encodinganalog="300$a">1 item</physdesc>
+			<repository label="Repository:" encodinganalog="852$a">
+				<extref href="http://www.cah.utexas.edu" show="new" actuate="onrequest">
+					<corpname><subarea>Dolph Briscoe Center for American History, </subarea>The
+						University of Texas at Austin</corpname></extref></repository>
+			<abstract label="Abstract:" encodinganalog="520$a">The John Felloseby Letter, 1836,
+				consists of a photocopy of a letter written by Felloseby to his daughter Mary Anna
+				[Moseley?] during his trip to Texas on March 26 and 27, 1836. </abstract>
+		</did>
+		<bioghist encodinganalog="545">
+			<head>Biographical Note</head>
+			<p>John Felloseby was the father of Mary Anna [Moseley?] and other children. A supporter
+				of Texas independence, he traveled to Texas in 1836 upon the steamship Caspian
+				through Alexandria and Natchitoches, Louisiana, to buy land for himself and others.
+			</p>
+		</bioghist>
+		<scopecontent encodinganalog="520">
+			<!--This explains the collection. Include the title, dates, subjects, and material types in complete sentences.-->
+			<head>Scope and Contents</head>
+			<p>The John Felloseby Letter, 1836, consists of a photocopy of a letter written by
+				Felloseby to his daughter Mary Anna [Moseley?] during his trip to Texas on the
+				steamship <emph render="italic">Caspian</emph> through Alexandria and at
+				Natchitoches, Louisiana, on March 26 and 27, 1836. Felloseby discusses his sadness
+				upon hearing of the fall of the Alamo, his interest in the Texas Declaration of
+				Independence, and the prospect of buying land in Texas for himself and on behalf of
+				others.</p>
+		</scopecontent>
+		<accessrestrict encodinganalog="506">
+			<!-- Select the appropriate tag(s) and delete others. You may need to modify an existing 
+				description or create a new one. The SAA Glossary defines access restrictions as such:
+				"Access restrictions may be defined by a period of time or by a class of individual 
+				allowed or denied access. They may be designed to protect national security (classification), 
+				personal privacy, or to preserve materials." -->
+			<head>Access Restrictions</head>
+			<p>This collection is open for research use.</p>
+		</accessrestrict>
+		<controlaccess>
+			<head>Index Terms</head>
+			<controlaccess>
+				<head>Subjects (Persons)</head>
+				<persname encodinganalog="600">Felloseby, John -- Archives.</persname>
+				<persname encodinganalog="600">Moseley, Mary Anna </persname>
+			</controlaccess>
+			<controlaccess>
+				<head>Subjects (Organizations)</head>
+				<corpname encodinganalog="610">Alamo (San Antonio, Tex.) -- Siege, 1836.</corpname>
+				<corpname encodinganalog="610">Texas. Declaration of Independence.</corpname>
+			</controlaccess>
+			<controlaccess>
+				<head>Subjects</head>
+				<subject encodinganalog="650">Land -- Texas.</subject>
+			</controlaccess>
+			<controlaccess>
+				<head>Places</head>
+				<geogname encodinganalog="651" source="lcnaf">Texas -- History -- Revolution,
+					1835-1836.</geogname>
+				<geogname encodinganalog="651" source="lcnaf">Natchitoches (La.) -- History -- 19th
+					century.</geogname>
+			</controlaccess>
+		</controlaccess>
+		<prefercite encodinganalog="524">
+			<head>Preferred Citation</head>
+			<p>John Felloseby Letter, 1836, Dolph Briscoe Center for American History, The
+				University of Texas at Austin.</p>
+		</prefercite>
+		<dsc type="in-depth">
+			<head>Detailed Description of the Papers</head>
+			<c01 level="series" id="ser1">
+				<did>
+					<unittitle>Inventory</unittitle>
+				</did>
+				<c02>
+					<did>
+						<container type="box">2N232</container>
+						<unittitle>Letter by John Felloseby, <unitdate>March 26-27, 1836
+							</unitdate></unittitle>
+					</did>
+				</c02>
+			</c01>
+		</dsc>
+	</archdesc>
+</ead>

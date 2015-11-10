@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead relatedencoding="marc21">
+	<eadheader audience="internal">
+		<eadid countrycode="US" mainagencycode="TxU-TH" encodinganalog="852$a"
+			>urn:taro:utexas.cah.01550</eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper>A Guide to the John W. Lawrence Papers, 1834-1933</titleproper>
+			</titlestmt>
+		</filedesc>
+		<profiledesc>
+			<creation>Original EAD encoding by Jessi Fishman according to TARO 2 EAD 2002 Editing
+				Instructions. <date>May 2010</date></creation>
+			<langusage>Finding aid written in <language>English.</language></langusage>
+
+		</profiledesc>
+	</eadheader>
+	<archdesc type="inventory" level="collection">
+		<did>
+			<head>Descriptive Summary</head>
+			<origination label="Creator:">
+				<persname encodinganalog="100">Lawrence, John W.</persname>
+			</origination>
+			<unittitle encodinganalog="245" label="Title:">Lawrence, John W. Papers</unittitle>
+			<unitdate type="inclusive" encodinganalog="245" label="Dates:">1834-1933</unitdate>
+			<langmaterial label="Language:">Materials are written in <language langcode="eng"
+					>English.</language></langmaterial>
+
+			<physdesc label="Extent:" encodinganalog="300$a">16 ft.</physdesc>
+
+			<repository label="Repository:" encodinganalog="852$a">
+				<extref href="http://www.cah.utexas.edu" show="new" actuate="onrequest">
+					<corpname><subarea> Dolph Briscoe Center for American History, </subarea>The
+						University of Texas at Austin</corpname></extref></repository>
+			<abstract label="Abstract:" encodinganalog="520$a">John William Blount Lawrence
+				(1815–1909) was a lawyer, soldier, land agent, and notary public. Papers include
+				letterpresses of Lawrence, Lawrence and Clarke, Lawrence and Edwards, Lawrence and
+				Son; tax book; correspondence; and legal and business documents relating to
+				Lawrence's career activities.</abstract>
+
+		</did>
+		<bioghist encodinganalog="545">
+			<head>Biographical Sketch</head>
+			<p>John William Blount Lawrence (1815–1909), lawyer, soldier, land agent, and notary
+				public, was born in North Carolina. In 1837 he and his family moved to Florida where
+				Lawrence had an unsuccessful career as a cotton speculator. After moving to Houston
+				in 1841, Lawrence served in a Milam County volunteer army during the Rafael Vásquez
+				invasion before attending law school. He voted for annexation in 1845 while
+				practicing law in Matagorda. In 1847 he moved back to Houston to work for land agent
+				Jacob de Cordova and later for James Morgan in the investigation of land titles.</p>
+			<p>During the Civil War, Lawrence served as captain of a company of Harris County home
+				guards and worked to commission Texas troops across the state line in Louisiana. In
+				1866 Lawrence acted for a short time as assistant assessor of internal revenue for
+				Harris County but soon resigned and went back to his land business. </p>
+			<p>Lawrence partnered in the law firms of Lawrence  Clarke, Lawrence 
+				Edwards, and Lawrence  Son.  He married Louisa J. (Mrs. William Milton) Tyron, and they had one son, John R.
+				Lawrence.</p>
+			<p><emph render="bold">Source</emph>: <emph render="italic">Handbook of Texas
+					Online</emph>, s.v. <emph render="doublequote">Lawrence, John W.,</emph>
+				http://www.tshaonline.org/handbook/online/articles/LL/fla55.html (accessed May 27,
+				2010).</p>
+
+		</bioghist>
+		<scopecontent encodinganalog="520">
+			<head>Scope and Contents</head>
+			<p>The John W. Lawrence Papers, 1834-1933, consist of correspondence, letterpresses,
+				legal and business documents, account papers, land papers, tax book, literary
+				productions, photographs, and printed material. The collection pertains to Lawrence's
+				activities as a lawyer and land agent in the firms of Lawrence  Clarke
+				(1870-1873), Lawrence  Edwards (1880-1883), and Lawrence  Son (1884-1909),
+				all of which specialized in the purchase and sale of lands. Papers also relate to
+				the payment of taxes for nonresidents, litigation of land titles, settlement of
+				estates, and searches for lost lands for owners or heirs. Also included are the
+				papers of John R. Lawrence, who continued the firm of Lawrence  Son after his
+				father's death. Papers of both father and son relate to agriculture, commerce,
+				cultural and social affairs.</p>
+
+		</scopecontent>
+
+		<accessrestrict encodinganalog="506">
+			<head>Access Restrictions</head>
+			<p>The collection is open for research.</p>
+
+		</accessrestrict>
+		
+		<controlaccess>
+			<head>Index Terms</head>
+			<controlaccess>
+				<head>Subjects (Persons)</head>
+				<persname encodinganalog="600">Lawrence, John W., 1815–1909--Archives.</persname>
+				<persname encodinganalog="600">Lawrence, John R., 1860–1936--Archives.</persname>
+				<persname encodinganalog="600">Adriance, John Sabin, 1861-</persname>
+				<persname encodinganalog="600">Clarke, W. H.</persname>
+				<persname encodinganalog="600">Clarke, William F., 1883-1961</persname>
+				<persname encodinganalog="600">Cope, Charles West, 1811-1890</persname>
+				<persname encodinganalog="600">De Cordova, Jacob, 1808-1868</persname>
+				<persname encodinganalog="600">Jones, C. Anson (Cromwell Anson), b. 1850</persname>
+				<persname encodinganalog="600">Nelson, Aaron Alma, 1878-1946</persname>
+				<persname encodinganalog="600">Waggaman, George Augustus, 1790-1843</persname>
+				<persname encodinganalog="600">Wells, James B., 1850-1923</persname>
+
+			</controlaccess>
+			<controlaccess> 
+				<head>Subjects (Organizations)</head> 
+				<corpname encodinganalog="610"> Lawrence  Clarke</corpname> 
+				<corpname encodinganalog="610"> Lawrence  Edwards</corpname> 
+				<corpname encodinganalog="610"> Lawrence  Son</corpname> 
+			</controlaccess> 
+			<controlaccess>
+				<head>Subjects</head>
+				<subject encodinganalog="650">Lawyers--United States</subject>
+				<subject encodinganalog="650">Real estate investment--Texas</subject>
+				<subject encodinganalog="650">Land use--Texas</subject>
+				<subject encodinganalog="650">Real estate business--Texas</subject>
+				<subject encodinganalog="650">Land titles--Texas</subject>
+				<subject encodinganalog="650">Estate planning--Texas</subject>
+				<subject encodinganalog="650">Inheritance and succession--Texas</subject>
+
+			</controlaccess>
+			<controlaccess>
+				<head>Places</head>
+				<geogname encodinganalog="651" source="lcnaf">Raleigh (N.C.)</geogname>
+				<geogname encodinganalog="651" source="lcnaf">Austin (Tex.)</geogname>
+				<geogname encodinganalog="651" source="lcnaf">Harris County (Tex.)</geogname>
+				<geogname encodinganalog="651" source="lcnaf">Houston (Tex.)</geogname>
+				<geogname encodinganalog="651" source="lcnaf">Matagorda (Tex.)</geogname>
+				<geogname encodinganalog="651" source="lcnaf">Travis County (Tex.)</geogname>
+
+
+			</controlaccess>
+		</controlaccess>
+		<relatedmaterial>
+			<head>Related Material</head>
+			<p>See also: <extref show="new" actuate="onrequest"
+				href="http://www.lib.utexas.edu/taro/utcah/01612/cah-01612.html">Jones (Cromwell Anson) Papers, 1837-1926</extref></p>
+			<p>See also: <extref show="new" actuate="onrequest"
+					href="http://www.lib.utexas.edu/taro/utcah/00027/cah-00027.html">Wells (James
+					B.) Papers, 1837-1926</extref></p>
+		</relatedmaterial>
+		<prefercite encodinganalog="524">
+			<head>Preferred Citation</head>
+			<p>John W. Lawrence Papers, 1834-1933, Dolph Briscoe Center for American History, The
+				University of Texas at Austin.</p>
+		</prefercite>
+
+		<dsc type="in-depth">
+			<head>Detailed Description of the Papers</head>
+			<c01 level="series" id="ser1">
+				<did>
+					<unittitle>Inventory</unittitle>
+				</did>
+				<c02>
+					<did>
+
+						<unittitle>Contact repository for more information.</unittitle>
+					</did>
+				</c02>
+			</c01>
+		</dsc>
+	</archdesc>
+</ead>

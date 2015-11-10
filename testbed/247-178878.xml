@@ -1,0 +1,179 @@
+<?xml version="1.0"?>
+<!-- wiarchives version:2012-09-20 -->
+<ead id="uw-whs-ser00118">
+  <eadheader langencoding="iso639-2b" scriptencoding="iso15924" dateencoding="iso8601" countryencoding="iso3166-1" repositoryencoding="iso15511">
+    <eadid countrycode="US" mainagencycode="whi">uw-whs-ser00118</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Register of the Wisconsin. Governor: Governors' Messages to the Legislature, 1848-1856, 1868-1921</titleproper>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Wisconsin Historical Society</publisher>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>Text converted and initial EAD tagging provided by Apex Data Services, <date era="ce" calendar="gregorian" type="publication" normal="2000-12">December 2000.</date></creation>
+      <langusage>
+        <language langcode="eng">English</language>
+      </langusage>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <unittitle>Wisconsin. Governor: Governors' Messages to the Legislature, <unitdate type="inclusive" era="ce" calendar="gregorian" certainty="y" normal="1848/1921">1848-1856, 1868-1921</unitdate></unittitle>
+      <origination label="Creator">
+        <corpname>Wisconsin. Governor</corpname>
+      </origination>
+      <unitid label="Call Number">Series 118</unitid>
+      <physdesc label="Quantity">2.0 c.f. (1 record center carton, 2 archives boxes, and 2 volumes)</physdesc>
+      <repository label="Repository">
+        <extptr entityref="whslogo" show="embed" actuate="onload" altrender="center" title="Wisconsin Historical Society logo" role="logoimage"/>
+        <extref linktype="simple" href="http://digital.library.wisc.edu/1711.dl/whsead.contact">Wisconsin Historical Society, Library-Archives Division</extref>
+      </repository>
+      <physloc>
+        <extref linktype="simple" href="http://digital.library.wisc.edu/1711.dl/whsead.catalog?repl1=rlin+%22wihv118-a%22" role="handle" title="Persistent catalog URL">See the catalog entry for information on possible additional materials and shelf locations.</extref>
+      </physloc>
+      <physloc type="locationcode" audience="internal">whi</physloc>
+      <abstract label="Abstract">Outgoing handwritten and typed letters to the Legislature, including letters concerning prisoners paroled, lists of signed bills deposited with the Secretary of State, veto messages, and nominations. The years from 1857 to 1867 are missing. The text of some formal messages to the Legislature and veto messages is included, but the bulk of material is much more routine. Volumes 4, 5, and 9-12 are indexed alphabetically by subject.</abstract>
+      <langmaterial label="Language">
+        <language langcode="eng">English</language>
+      </langmaterial>
+    </did>
+    <descgrp type="admininfo">
+      <head>Administrative/Restriction Information</head>
+      <acqinfo>
+        <p>Volume 14 was added from Series 141.</p>
+      </acqinfo>
+    </descgrp>
+    <dsc type="in-depth">
+      <head>Contents List</head>
+      <c01>
+        <did>
+          <unitid>Series 118</unitid>
+          <container/>
+          <container label="Volume" type="volume">1</container>
+          <unittitle>
+            <unitdate era="ce" calendar="gregorian">1848-1856</unitdate>
+          </unittitle>
+        </did>
+      </c01>
+      <c01>
+        <did>
+          <container type="box" label="Box">1</container>
+          <container label="Volume" type="volume">2</container>
+          <unittitle>
+            <unitdate era="ce" calendar="gregorian">1868 January 15-1870 March 14</unitdate>
+          </unittitle>
+        </did>
+      </c01>
+      <c01>
+        <did>
+          <container label="Box" type="box">1</container>
+          <container label="Volume" type="volume">3</container>
+          <unittitle>
+            <unitdate era="ce" calendar="gregorian">1870 March 15-1873 March 18</unitdate>
+          </unittitle>
+        </did>
+      </c01>
+      <c01>
+        <did>
+          <container label="Box" type="box">1</container>
+          <container label="Volume" type="volume">4</container>
+          <unittitle>
+            <unitdate era="ce" calendar="gregorian">1873 March 19-1878 June 7</unitdate>
+          </unittitle>
+        </did>
+      </c01>
+      <c01>
+        <did>
+          <container label="Box" type="box">1</container>
+          <container label="Volume" type="volume">5</container>
+          <unittitle>
+            <unitdate era="ce" calendar="gregorian">1879 January 21-1887 April 7</unitdate>
+          </unittitle>
+        </did>
+      </c01>
+      <c01>
+        <did>
+          <container label="Box" type="box">1</container>
+          <container label="Volume" type="volume">6</container>
+          <unittitle>
+            <unitdate era="ce" calendar="gregorian">1887 April 5-1891 April 23</unitdate>
+          </unittitle>
+        </did>
+      </c01>
+      <c01>
+        <did>
+          <container label="Box" type="box">1</container>
+          <container label="Volume" type="volume">7</container>
+          <unittitle>
+            <unitdate era="ce" calendar="gregorian">1891 April 23-1893 April 21</unitdate>
+          </unittitle>
+        </did>
+      </c01>
+      <c01>
+        <did>
+          <container label="Box" type="box">1</container>
+          <container label="Volume" type="volume">8</container>
+          <unittitle>
+            <unitdate era="ce" calendar="gregorian">1895 January 17-1896 February 28</unitdate>
+          </unittitle>
+        </did>
+      </c01>
+      <c01>
+        <did>
+          <container type="box" label="Box">1</container>
+          <container label="Volume" type="volume">9</container>
+          <unittitle>
+            <unitdate era="ce" calendar="gregorian">1897 January 25-August 20</unitdate>
+          </unittitle>
+        </did>
+      </c01>
+      <c01>
+        <did>
+          <container/>
+          <container label="Volume" type="volume">10</container>
+          <unittitle>
+            <unitdate era="ce" calendar="gregorian">1899 January 20-1905 June 9</unitdate>
+          </unittitle>
+        </did>
+      </c01>
+      <c01>
+        <did>
+          <container type="box" label="Box">1</container>
+          <container label="Volume" type="volume">11</container>
+          <unittitle>
+            <unitdate era="ce" calendar="gregorian">1905 June 21-1911 January 1</unitdate>
+          </unittitle>
+        </did>
+      </c01>
+      <c01>
+        <did>
+          <container type="box" label="Box">2</container>
+          <container label="Volume" type="volume">12</container>
+          <unittitle>
+            <unitdate era="ce" calendar="gregorian">1911 January 12-1915 January 4</unitdate>
+          </unittitle>
+        </did>
+      </c01>
+      <c01>
+        <did>
+          <container type="box" label="Box">2</container>
+          <container label="Volume" type="volume">13</container>
+          <unittitle>
+            <unitdate era="ce" calendar="gregorian">1915 January 14-1920 December 31</unitdate>
+          </unittitle>
+        </did>
+      </c01>
+      <c01>
+        <did>
+          <container type="box" label="Box">3</container>
+          <container label="Volume" type="volume">14</container>
+          <unittitle>
+            <unitdate era="ce" calendar="gregorian">1921 January 18-July 14</unitdate>
+          </unittitle>
+        </did>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

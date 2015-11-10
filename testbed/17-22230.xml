@@ -1,0 +1,2563 @@
+<?xml version="1.0"?>
+<ead>
+ 
+ 
+ 
+ 
+ 
+ <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" scriptencoding="iso15924" audience="internal" langencoding="iso639-2b" findaidstatus="edited-full-draft"><eadid xmlns:cdlpath="http://www.cdlib.org/path/" countrycode="us" identifier="ark:/13030/tf0489n6jv" mainagencycode="CLU-SC" publicid="PUBLIC -//University of California, LosAngeles::Library::Dept. of Special Collections//TEXT(US::CLU::467::Nan Britton Papers)//EN britt467.sgm" cdlpath:parent="ark:/13030/tf129008pn" cdlpath:grandparent="ark:/13030/tf8z09p95s">britt467.xml</eadid><filedesc>
+ <titlestmt>
+ <titleproper>Finding Aid for the Nan Britton Papers, 1902-1966</titleproper><titleproper type="filing">Britton (Nan) Papers</titleproper>
+ <author>Processed by Manuscripts Division staff; machine-readable finding aid created by Caroline Cub</author>
+ </titlestmt>
+ <publicationstmt>
+ <publisher>UCLA Library, Department of Special Collections</publisher>
+ <address>
+ <addressline>Manuscripts Division</addressline>
+ <addressline>Room A1713, Charles E. Young Research Library</addressline>
+ <addressline>Box 951575</addressline>
+ <addressline>Los Angeles, CA 90095-1575</addressline>
+ <addressline>Email: spec-coll@library.ucla.edu</addressline>
+ <addressline>URL: http://www.library.ucla.edu/libraries/special/scweb/</addressline>
+ </address>
+ <date calendar="gregorian" era="ce"> 2000</date>
+ <p>The Regents of the University of California. All rights reserved.</p>
+ </publicationstmt>
+ </filedesc><profiledesc>
+ <creation>Machine-readable finding aid derived from database containing
+container list structure and data, encoding added via MS Access or other database program, <date calendar="gregorian" era="ce">January 2000</date>. Frontmatter gathered from MARC record. Supplementary encoding and revision supplied by Caroline Cub.</creation>
+ <langusage>Description is in <language>English.</language></langusage>
+ </profiledesc><revisiondesc>
+ <change>
+ <date calendar="gregorian" era="ce" normal="20040323">March 23, 2004</date>
+ <item>PUBLIC "-//University of California, Los
+Angeles::Library::Dept. of Special Collections//TEXT
+(US::CLU::467::Nan Britton Papers)//EN" "britt467.sgm" converted from EAD 1.0 to 2002 by v1to02.cdl.xsl (2004-09-16).</item>
+ </change>
+ </revisiondesc></eadheader>
+ <frontmatter>
+ <titlepage>
+ <titleproper>Finding Aid for the Nan Britton Papers, 1902-1966</titleproper>
+ <num>Collection number: 467</num>
+ <publisher>UCLA Library, Department of Special Collections
+<lb/>Manuscripts Division
+<lb/><extptr linktype="simple" show="embed" actuate="onload"/><lb/>Los Angeles, CA</publisher>
+ <list type="simple">
+ <head>Contact Information</head>
+ <item>Manuscripts Division</item>
+ <item>UCLA Library, Department of Special Collections</item>
+ <item>Room A1713, Charles E. Young Research Library</item>
+ <item>Box 951575</item>
+ <item>Los Angeles, CA 90095-1575</item>
+ <item>Telephone: 310/825-4988 (10:00 a.m. - 4:45 p.m., Pacific 
+Time)</item>
+ <item>Email: spec-coll@library.ucla.edu</item>
+ <item>URL: http://www.library.ucla.edu/libraries/special/scweb/</item>
+ </list>
+ <list type="deflist">
+ <defitem>
+ <label>Processed by:</label>
+ <item>Manuscripts Division staff, January 2000</item>
+ </defitem>
+ <defitem>
+ <label>Encoded by: </label>
+ <item>Caroline Cub</item>
+ </defitem>
+ <defitem>
+ <label>Online finding aid edited by:</label>
+ <item>Josh Fiala, May 2002</item>
+ </defitem>
+ </list>
+ <p> 2000 The Regents of the University of California. All rights reserved.</p>
+ </titlepage>
+ </frontmatter>
+ <archdesc level="collection" id="archdesc-1.3">
+ <did id="did-1.8.1">
+ <head>Descriptive Summary</head>
+ <unittitle label="Title">Nan Britton Papers, </unittitle>
+<unitdate calendar="gregorian" era="ce" type="inclusive">1902-1966</unitdate>
+ <unitid label="Collection number" countrycode="US" repositorycode="CLUS">467</unitid>
+ <origination label="Creator">Britton, Nan, 1896- </origination>
+ <physdesc label="Extent"><extent>13 boxes (6.5 linear ft.) </extent>
+<extent>1 oversize box</extent></physdesc>
+ <repository label="Repository">
+ <corpname>University of California, Los Angeles. Library. <subarea>Department of Special Collections.</subarea></corpname>
+ <address>
+ <addressline>Los Angeles, California 90095-1575</addressline>
+ </address>
+ </repository>
+ <physloc label="Physical location">Stored off-site at SRLF. Advance notice is required for access to the collection. Please contact the UCLA Library, Department of Special Collections Reference Desk for paging information.</physloc>
+ <langmaterial label="Language">
+ <language langcode="eng">English.</language>
+ </langmaterial>
+ </did>
+ <descgrp type="admininfo" id="descgrp-1.8.2">
+ <head>Administrative Information</head>
+ <userestrict>
+ <head>Restrictions on Use and Reproduction</head>
+ <p>Property rights to the physical object belong to the UCLA Library,
+Department of Special Collections. Literary rights, including copyright,
+are retained by the creators and their heirs. It is the responsibility of
+the researcher to determine who holds the copyright and pursue the
+copyright owner or his or her heir for permission to publish where The UC
+Regents do not hold the copyright.</p>
+ </userestrict>
+ <accessrestrict>
+ <head>Restrictions on Access</head>
+ <p>PARTIALLY PROCESSED COLLECTION UNAVAILABLE FOR USE: Inquiries regarding these materials should be directed, in writing, to the Manuscripts Librarian, UCLA Department of Special Collections.</p>
+ <p>COLLECTION STORED OFF-SITE AT SRLF: Advance notice required for access.</p>
+ </accessrestrict>
+ <altformavail>
+ <head>Additional Physical Form Available</head>
+ <p>A copy of the original version of this online finding aid is available at the UCLA Department of Special Collections for in-house consultation and may be obtained for a fee. Please contact:</p>
+ <p>
+ <list type="simple">
+ <item>Public Services Division</item>
+ <item>UCLA Library, Department of Special Collections</item>
+ <item>Room A1713, Charles E. Young Research Library</item>
+ <item>Box 951575</item>
+ <item>Los Angeles, CA 90095-1575</item>
+ <item>Telephone: 310/825-4988 (10:00 a.m. - 4:45 p.m., Pacific 
+Time)</item>
+ <item>Email: spec-coll@library.ucla.edu</item>
+ </list>
+ </p>
+ </altformavail>
+ <prefercite>
+ <head>Preferred Citation</head>
+ <p>[Identification of item], Nan Britton Papers (Collection 467). Department of Special Collections, Charles E. Young Research Library, University of California, Los Angeles.</p>
+ </prefercite>
+ </descgrp>
+ <scopecontent id="scopecontent-1.8.3">
+ <head>Scope and Content</head>
+ <p>Collection consists of correspondence, manuscripts, clippings, photographs, and memorabilia.</p>
+ </scopecontent>
+ <controlaccess id="controlaccess-1.8.4">
+ <head>Indexing Terms</head>
+ <p>The following terms have been used to index the description of this collection in the library's online public access catalog.</p>
+ <persname encodinganalog="600" role="subject">Britton, Nan, b. 1896--Archives.</persname>
+ <persname encodinganalog="600" role="subject">Harding, Warren G. (Warren Gamaliel), 1865-1923.</persname>
+ <subject source="lcsh" encodinganalog="650">Women authors, American--Archival resources.</subject>
+ <genreform source="aat" encodinganalog="655">Manuscripts for publication.</genreform>
+ </controlaccess>
+ <dsc type="in-depth" id="dsc-1.8.5" score="1" C-ORDER="1" MAX-C-ORDER="263">
+ <head>Container List</head>
+ <c01 level="series" id="c01-1.8.5.2" score="1" C-ORDER="2">
+ <did>
+ <unittitle>Books </unittitle>
+ </did>
+ <c02 level="file" id="c02-1.8.5.2.2" score="1" C-ORDER="3">
+ <did>
+ <container label="Box" type="Box">16</container>
+ <container label="Folder" type="Folder">1</container>
+ <unittitle>Murphy, James W. <title linktype="simple">Last Speeches of President Warren G. Harding</title>, <unitdate calendar="gregorian" era="ce">1923.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.2.3" score="1" C-ORDER="4">
+ <did>
+ <container label="Box" type="Box">16</container>
+ <container label="Folder" type="Folder">2</container>
+ <unittitle>Johnson, Willis Fletcher. <title linktype="simple">The Life of Warren G. Harding</title>, <unitdate calendar="gregorian" era="ce">1923.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.2.4" score="1" C-ORDER="5">
+ <did>
+ <container label="Box" type="Box">16</container>
+ <container label="Folder" type="Folder">3</container>
+ <unittitle>Asher, Carl. <title linktype="simple">He Was Just Folks</title>, <unitdate calendar="gregorian" era="ce">1923.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.2.5" score="1" C-ORDER="6">
+ <did>
+ <container label="Box" type="Box">16</container>
+ <container label="Folder" type="Folder">4</container>
+ <unittitle><title linktype="simple">In Memoriam - Warren G. Harding</title>, <unitdate calendar="gregorian" era="ce">1924.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.2.6" score="1" C-ORDER="7">
+ <did>
+ <container label="Box" type="Box">16</container>
+ <container label="Folder" type="Folder">5</container>
+ <unittitle>Blythe, Samuel G. <title linktype="simple">A Calm Review of a Calm Man</title>, <unitdate calendar="gregorian" era="ce">1923.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.2.7" score="1" C-ORDER="8">
+ <did>
+ <container label="Box" type="Box">16</container>
+ <container label="Folder" type="Folder">5</container>
+ <unittitle>Means, Gaston. <title linktype="simple">The Strange Death of President Harding</title>, <unitdate calendar="gregorian" era="ce">1930.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.2.8" score="1" C-ORDER="9">
+ <did>
+ <container label="Box" type="Box">16</container>
+ <container label="Folder" type="Folder">6</container>
+ <unittitle>Jenks, Anton Shrewsbury. <title linktype="simple">A Dead President Makes Answer to The President's Daughter</title>, <unitdate calendar="gregorian" era="ce">1928.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.2.9" score="1" C-ORDER="10">
+ <did>
+ <container label="Box" type="Box">16</container>
+ <container label="Folder" type="Folder">7</container>
+ <unittitle>DeBarthe, Joseph. <title linktype="simple">The Answer</title>, <unitdate calendar="gregorian" era="ce">1928.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.2.10" score="1" C-ORDER="11">
+ <did>
+ <container label="Box" type="Box">16</container>
+ <container label="Folder" type="Folder">8</container>
+ <unittitle>Sytton, Dan. <title linktype="simple">The Vice President's Son</title>, <unitdate calendar="gregorian" era="ce">1928.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.2.11" score="1" C-ORDER="12">
+ <did>
+ <container label="Box" type="Box">16</container>
+ <container label="Folder" type="Folder">9</container>
+ <unittitle>Smith, Ina R.T. <title linktype="simple">Dear Mr. President</title>, <unitdate calendar="gregorian" era="ce">1949.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.2.12" score="1" C-ORDER="13">
+ <did>
+ <container label="Box" type="Box">17</container>
+ <container label="Folder" type="Folder">1</container>
+ <unittitle><title linktype="simple">Our Common Country</title>, speeches of Warren G. Harding <unitdate calendar="gregorian" era="ce">1921.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.2.13" score="1" C-ORDER="14">
+ <did>
+ <container label="Box" type="Box">17</container>
+ <container label="Folder" type="Folder">2</container>
+ <unittitle><title linktype="simple">The Mirrors of Washington</title>, <unitdate calendar="gregorian" era="ce">1921.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.2.14" score="1" C-ORDER="15">
+ <did>
+ <container label="Box" type="Box">17</container>
+ <container label="Folder" type="Folder">3</container>
+ <unittitle>Allen, Frederic Lewis. <title linktype="simple">Only Yesterday</title>, <unitdate calendar="gregorian" era="ce">1931.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.2.15" score="1" C-ORDER="16">
+ <did>
+ <container label="Box" type="Box">17</container>
+ <container label="Folder" type="Folder">4</container>
+ <unittitle>Britton, Nan. <title linktype="simple">The President's Daughter</title>, <unitdate calendar="gregorian" era="ce">1930.</unitdate></unittitle>
+ <note>
+ <p>With First Edition attached to flyleaf. </p>
+ </note>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.2.16" score="1" C-ORDER="17">
+ <did>
+ <container label="Box" type="Box">17</container>
+ <container label="Folder" type="Folder">5</container>
+ <unittitle>Britton, Nan. <title linktype="simple">Honesty or Politics</title>, <unitdate calendar="gregorian" era="ce">1932.</unitdate></unittitle>
+ <note>
+ <p>With photocopy of dustjacket. </p>
+ </note>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.2.17" score="1" C-ORDER="18">
+ <did>
+ <container label="Box" type="Box">17</container>
+ <container label="Folder" type="Folder">6</container>
+ <unittitle>Britton, Nan. <title linktype="simple">Mes Amours Avec Le President Harding</title>, <unitdate calendar="gregorian" era="ce">1931.</unitdate></unittitle>
+ </did>
+ </c02>
+ </c01>
+ <c01 level="series" id="c01-1.8.5.3" score="1" C-ORDER="19">
+ <did>
+ <unittitle>Correspondence </unittitle>
+ </did>
+ <c02 level="file" id="c02-1.8.5.3.2" score="1" C-ORDER="20">
+ <did>
+ <container label="Box" type="Box">8</container>
+ <container label="Folders" type="Folder">15-16</container>
+ <unittitle>Charles E. Kelley (Nan Britton's New York attorney), <unitdate calendar="gregorian" era="ce">1928.</unitdate></unittitle>
+ <note>
+ <p>Folders 1 and 2 of 5. </p>
+ </note>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.3.3" score="1" C-ORDER="21">
+ <did>
+ <container label="Box" type="Box">8</container>
+ <container label="Folder" type="Folder">18</container>
+ <unittitle>Charles E. Kelley (Nan Britton's New York attorney) <unitdate calendar="gregorian" era="ce">1930-1931.</unitdate></unittitle>
+ <note>
+ <p>Folder 4 of 5. </p>
+ </note>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.3.4" score="1" C-ORDER="22">
+ <did>
+ <container label="Box" type="Box">8</container>
+ <container label="Folder" type="Folder">17</container>
+ <unittitle>Charles E. Kelley (Nan Britton's New York attorney), <unitdate calendar="gregorian" era="ce">1928-1930.</unitdate></unittitle>
+ <note>
+ <p>Folder 3 of 5. </p>
+ </note>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.3.5" score="1" C-ORDER="23">
+ <did>
+ <container label="Box" type="Box">8</container>
+ <container label="Folder" type="Folder">19</container>
+ <unittitle>Charles E. Kelley (Nan Britton's New York attorney), <unitdate calendar="gregorian" era="ce">1932-1936.</unitdate></unittitle>
+ <note>
+ <p>Folder 5 of 5. </p>
+ </note>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.3.6" score="1" C-ORDER="24">
+ <did>
+ <container label="Box" type="Box">9</container>
+ <container label="Folder" type="Folder">1</container>
+ <unittitle>Nathan Loeser (one of Nan Britton's attorneys in Cleveland), <unitdate calendar="gregorian" era="ce">1928.</unitdate></unittitle>
+ <note>
+ <p>Folder 1 of 5. </p>
+ </note>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.3.7" score="1" C-ORDER="25">
+ <did>
+ <container label="Box" type="Box">9</container>
+ <container label="Folder" type="Folder">2</container>
+ <unittitle>Nathan Loeser (one of Nan Britton's attorneys in Cleveland), <unitdate calendar="gregorian" era="ce">1928-1929.</unitdate></unittitle>
+ <note>
+ <p>Folder 2 of 5. </p>
+ </note>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.3.8" score="1" C-ORDER="26">
+ <did>
+ <container label="Box" type="Box">9</container>
+ <container label="Folder" type="Folder">3</container>
+ <unittitle>Nathan Loeser (one of Nan Britton's attorneys in Cleveland), <unitdate calendar="gregorian" era="ce">1929-1930.</unitdate></unittitle>
+ <note>
+ <p>Folder 3 of 5. </p>
+ </note>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.3.9" score="1" C-ORDER="27">
+ <did>
+ <container label="Box" type="Box">9</container>
+ <container label="Folder" type="Folder">4</container>
+ <unittitle>Nathan Loeser (one of Nan Britton's attorneys in Cleveland), <unitdate calendar="gregorian" era="ce">1930.</unitdate></unittitle>
+ <note>
+ <p>Folder 4 of 5. </p>
+ </note>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.3.10" score="1" C-ORDER="28">
+ <did>
+ <container label="Box" type="Box">9</container>
+ <container label="Folder" type="Folder">5</container>
+ <unittitle>Nathan Loeser (one of Nan Britton's attorneys in Cleveland), <unitdate calendar="gregorian" era="ce">1930-1931.</unitdate></unittitle>
+ <note>
+ <p>Folder 5 of 5. </p>
+ </note>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.3.11" score="1" C-ORDER="29">
+ <did>
+ <container label="Box" type="Box">9</container>
+ <container label="Folder" type="Folder">6</container>
+ <unittitle>William F. Marsteller and Seavey Moor, <unitdate calendar="gregorian" era="ce">1927.</unitdate></unittitle>
+ <note>
+ <p>Folder 1 of 9. Labelled The situation in Cleveland. </p>
+ </note>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.3.12" score="1" C-ORDER="30">
+ <did>
+ <container label="Box" type="Box">9</container>
+ <container label="Folder" type="Folder">7</container>
+ <unittitle>William F. Marsteller and Seavey Moor, <unitdate calendar="gregorian" era="ce">1931.</unitdate></unittitle>
+ <note>
+ <p>Folder 2 of 9. Samples of letters and orders received concerning the DeBarthe book,
+ and replies thereto. </p>
+ </note>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.3.13" score="1" C-ORDER="31">
+ <did>
+ <container label="Box" type="Box">9</container>
+ <container label="Folder" type="Folder">8</container>
+ <unittitle>William F. Marsteller and Seavey Moor, <unitdate calendar="gregorian" era="ce">1928-1930.</unitdate></unittitle>
+ <note>
+ <p>Folder 3 of 9. <emph render="italic">re</emph> Mr. Fryefield. </p>
+ </note>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.3.14" score="1" C-ORDER="32">
+ <did>
+ <container label="Box" type="Box">9</container>
+ <container label="Folder" type="Folder">9</container>
+ <unittitle>William F. Marsteller and Seavey Moor, <unitdate calendar="gregorian" era="ce">1929-1930.</unitdate></unittitle>
+ <note>
+ <p>Folder 4 of 9. </p>
+ </note>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.3.15" score="1" C-ORDER="33">
+ <did>
+ <container label="Box" type="Box">9</container>
+ <container label="Folder" type="Folder">10</container>
+ <unittitle>William F. Marsteller and Seavey Moor, <unitdate calendar="gregorian" era="ce">1931.</unitdate></unittitle>
+ <note>
+ <p>Folder 5 of 9. </p>
+ </note>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.3.16" score="1" C-ORDER="34">
+ <did>
+ <container label="Box" type="Box">9</container>
+ <container label="Folders" type="Folder">11-12</container>
+ <container label="Box" type="Box">10</container>
+ <container label="Folder" type="Folder">1</container>
+ <unittitle>William F. Marsteller and Seavey Moor, <unitdate calendar="gregorian" era="ce">1931.</unitdate></unittitle>
+ <note>
+ <p>Folders 6 through 8 of 9. </p>
+ </note>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.3.17" score="1" C-ORDER="35">
+ <did>
+ <container label="Box" type="Box">10</container>
+ <container label="Folder" type="Folder">2</container>
+ <unittitle>William F. Marsteller and Seavey Moor, <unitdate calendar="gregorian" era="ce">1932.</unitdate></unittitle>
+ <note>
+ <p>Folder 9 of 9. </p>
+ </note>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.3.18" score="1" C-ORDER="36">
+ <did>
+ <container label="Box" type="Box">10</container>
+ <container label="Folder" type="Folder">3</container>
+ <unittitle>William F. Marsteller and Mrs. Britton (Nan's mother) <emph render="italic">re</emph> McDowell sisters, <unitdate calendar="gregorian" era="ce">1928-1931.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.3.19" score="1" C-ORDER="37">
+ <did>
+ <container label="Box" type="Box">10</container>
+ <container label="Folder" type="Folder">4</container>
+ <unittitle>Frank Vincent and George Landy, <unitdate calendar="gregorian" era="ce">1930.</unitdate></unittitle>
+ <note>
+ <p><emph render="italic">re</emph> proposed film of <emph render="italic">The President's Daughter</emph>. </p>
+ </note>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.3.20" score="1" C-ORDER="38">
+ <did>
+ <container label="Box" type="Box">10</container>
+ <container label="Folder" type="Folder">5</container>
+ <unittitle>Elizabeth Ann Guild, Incorporated - miscellaneous, <unitdate calendar="gregorian" era="ce">1927-1933.</unitdate></unittitle>
+ <note>
+ <p>Folder 1 of 2. </p>
+ </note>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.3.21" score="1" C-ORDER="39">
+ <did>
+ <container label="Box" type="Box">10</container>
+ <container label="Folder" type="Folder">6</container>
+ <unittitle>Elizabeth Ann Guild, Incorporated - miscellaneous, <unitdate calendar="gregorian" era="ce">1927-1933.</unitdate></unittitle>
+ <note>
+ <p>Folder 2 of 2. Includes financial reports for 1927. </p>
+ </note>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.3.22" score="1" C-ORDER="40">
+ <did>
+ <container label="Box" type="Box">10</container>
+ <container label="Folder" type="Folder">7</container>
+ <unittitle>Elizabeth Ann Guild, Incorporated - sheets from minute book and other papers, <unitdate calendar="gregorian" era="ce">1927-1928.</unitdate></unittitle>
+ <note>
+ <p>Folder 1 of 4. </p>
+ </note>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.3.23" score="1" C-ORDER="41">
+ <did>
+ <container label="Box" type="Box">10</container>
+ <container label="Folder" type="Folder">8</container>
+ <unittitle>Elizabeth Ann Guild, Incorporated - sheets from minute book and other papers, <unitdate calendar="gregorian" era="ce">1928-1932.</unitdate></unittitle>
+ <note>
+ <p>Folder 2 of 4. </p>
+ </note>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.3.24" score="1" C-ORDER="42">
+ <did>
+ <container label="Box" type="Box">10</container>
+ <container label="Folder" type="Folder">9</container>
+ <unittitle>Elizabeth Ann Guild, Incorporated - sheets from minute book and other papers, <unitdate calendar="gregorian" era="ce">1927-1932.</unitdate></unittitle>
+ <note>
+ <p>Folder 3 of 4. </p>
+ </note>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.3.25" score="1" C-ORDER="43">
+ <did>
+ <container label="Box" type="Box">10</container>
+ <container label="Folder" type="Folder">10</container>
+ <unittitle>Elizabeth Ann Guild, Incorporated - sheets from minute book and other papers, <unitdate calendar="gregorian" era="ce">1929-1931.</unitdate></unittitle>
+ <note>
+ <p>Folder 4 of 4. Includes material <emph render="italic">re</emph> the Golden Rule Foundation. </p>
+ </note>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.3.26" score="1" C-ORDER="44">
+ <did>
+ <container label="Box" type="Box">10</container>
+ <container label="Folder" type="Folder">11</container>
+ <unittitle>Elizabeth Ann Guild, Incorporated - general - Toussaint Dubois, <unitdate calendar="gregorian" era="ce">1927-1928.</unitdate></unittitle>
+ <note>
+ <p>Folder 1 of 7. </p>
+ </note>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.3.27" score="1" C-ORDER="45">
+ <did>
+ <container label="Box" type="Box">10</container>
+ <container label="Folder" type="Folder">12</container>
+ <unittitle>Elizabeth Ann Guild, Incorporated - general - Gordon Lathrop, <unitdate calendar="gregorian" era="ce">1927-1928.</unitdate></unittitle>
+ <note>
+ <p>Folder 2 of 7. </p>
+ </note>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.3.28" score="1" C-ORDER="46">
+ <did>
+ <container label="Box" type="Box">11</container>
+ <container label="Folder" type="Folder">1</container>
+ <unittitle>Elizabeth Ann Guild, Incorporated - general - Harold West and Rev. and Mrs. Cyril Wyche, <unitdate calendar="gregorian" era="ce">1928-1929.</unitdate></unittitle>
+ <note>
+ <p>Folder 3 of 7. </p>
+ </note>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.3.29" score="1" C-ORDER="47">
+ <did>
+ <container label="Box" type="Box">11</container>
+ <container label="Folder" type="Folder">2</container>
+ <unittitle>Elizabeth Ann Guild, Incorporated - general - John Haynes Holmes, <unitdate calendar="gregorian" era="ce">1927-1928.</unitdate></unittitle>
+ <note>
+ <p>Folder 4 of 7. </p>
+ </note>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.3.30" score="1" C-ORDER="48">
+ <did>
+ <container label="Box" type="Box">11</container>
+ <container label="Folder" type="Folder">3</container>
+ <unittitle>Elizabeth Ann Guild, Incorporated - general, <unitdate calendar="gregorian" era="ce">1927-1932.</unitdate></unittitle>
+ <note>
+ <p>Folder 5 of 7. </p>
+ </note>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.3.31" score="1" C-ORDER="49">
+ <did>
+ <container label="Box" type="Box">11</container>
+ <container label="Folder" type="Folder">4</container>
+ <unittitle>Elizabeth Ann Guild, Incorporated - general, <unitdate calendar="gregorian" era="ce">1928.</unitdate></unittitle>
+ <note>
+ <p>Folder 6 of 7. </p>
+ </note>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.3.32" score="1" C-ORDER="50">
+ <did>
+ <container label="Box" type="Box">11</container>
+ <container label="Folder" type="Folder">5</container>
+ <unittitle>Elizabeth Ann Guild, Incorporated--general, <unitdate calendar="gregorian" era="ce">1927-1928.</unitdate></unittitle>
+ <note>
+ <p>Folder 7 of 7. With mockup of brochure for Elizabeth Ann League. </p>
+ </note>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.3.33" score="1" C-ORDER="51">
+ <did>
+ <container label="Box" type="Box">11</container>
+ <container label="Folder" type="Folder">6</container>
+ <unittitle>Elizabeth Ann Guild, Incorporated--memberships, <unitdate calendar="gregorian" era="ce">1927-1928.</unitdate></unittitle>
+ <note>
+ <p>Folder 1 of 3. </p>
+ </note>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.3.34" score="1" C-ORDER="52">
+ <did>
+ <container label="Box" type="Box">11</container>
+ <container label="Folder" type="Folder">7</container>
+ <unittitle>Elizabeth Ann Guild, Incorporated--memberships, <unitdate calendar="gregorian" era="ce">1928-1929.</unitdate></unittitle>
+ <note>
+ <p>Folder 2 of 3. </p>
+ </note>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.3.35" score="1" C-ORDER="53">
+ <did>
+ <container label="Box" type="Box">11</container>
+ <container label="Folder" type="Folder">8</container>
+ <unittitle>Elizabeth Ann Guild, Incorporated--memberships, <unitdate calendar="gregorian" era="ce">1928-1932.</unitdate></unittitle>
+ <note>
+ <p>Folder 3 of 3. </p>
+ </note>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.3.36" score="1" C-ORDER="54">
+ <did>
+ <container label="Box" type="Box">11</container>
+ <container label="Folders" type="Folder">9-10</container>
+ <container label="Box" type="Box">12</container>
+ <container label="Folder" type="Folder">1</container>
+ <unittitle>Elizabeth Ann Guild, Incorporated--requests for illegitimacy statistics, <unitdate calendar="gregorian" era="ce">1927-1928.</unitdate></unittitle>
+ <physdesc>  3 folders. </physdesc>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.3.37" score="1" C-ORDER="55">
+ <did>
+ <container label="Box" type="Box">12</container>
+ <container label="Folders" type="Folder">2-3</container>
+ <unittitle>Elizabeth Ann Guild, Incorporated--letters from friends, <unitdate calendar="gregorian" era="ce">1927-1929.</unitdate></unittitle>
+ <note>
+ <p>Folders 1 and 2 of 4. </p>
+ </note>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.3.38" score="1" C-ORDER="56">
+ <did>
+ <container label="Box" type="Box">12</container>
+ <container label="Folder" type="Folder">4</container>
+ <unittitle>Elizabeth Ann Guild, Incorporated--letters from friends, <unitdate calendar="gregorian" era="ce">1928-1931.</unitdate></unittitle>
+ <note>
+ <p>Folder 3 of 4. </p>
+ </note>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.3.39" score="1" C-ORDER="57">
+ <did>
+ <container label="Box" type="Box">12</container>
+ <container label="Folder" type="Folder">5</container>
+ <unittitle>Elizabeth Ann Guild, Incorporated--letters from friends, <unitdate calendar="gregorian" era="ce">1931.</unitdate></unittitle>
+ <note>
+ <p>Folder 4 of 4. </p>
+ </note>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.3.40" score="1" C-ORDER="58">
+ <did>
+ <container label="Box" type="Box">12</container>
+ <container label="Folder" type="Folder">6</container>
+ <unittitle>Letters from readers of <title linktype="simple">The President's Daughter</title> answered by Nan Britton, her sister or current secretary, <unitdate calendar="gregorian" era="ce">1927-1931.</unitdate></unittitle>
+ <note>
+ <p>Folder 1 of 5. </p>
+ </note>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.3.41" score="1" C-ORDER="59">
+ <did>
+ <container label="Box" type="Box">13</container>
+ <container label="Folders" type="Folder">1, 3-5</container>
+ <unittitle>Letters from readers of <title linktype="simple">The President's Daughter</title> answered by Nan Britton, her sister or current secretary, <unitdate calendar="gregorian" era="ce">1928-1931.</unitdate></unittitle>
+ <note>
+ <p>Folders 2, 4 and 5 of 5. </p>
+ </note>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.3.42" score="1" C-ORDER="60">
+ <did>
+ <container label="Box" type="Box">13</container>
+ <container label="Folder" type="Folder">2</container>
+ <unittitle>Letters from readers of <title linktype="simple">The President's Daughter</title> answered by Nan Britton, her sister or 
+current secretary, <unitdate calendar="gregorian" era="ce">1926-1931.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.3.43" score="1" C-ORDER="61">
+ <did>
+ <container label="Box" type="Box">13</container>
+ <container label="Folders" type="Folder">5-8</container>
+ <container label="Box" type="Box">14</container>
+ <container label="Folders" type="Folder">1-2</container>
+ <unittitle>Letters from readers of <title linktype="simple">The President's Daughter</title> regarding the League's work, <unitdate calendar="gregorian" era="ce">1928-1931.</unitdate></unittitle>
+ <note>
+ <p>6 folders. </p>
+ </note>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.3.44" score="1" C-ORDER="62">
+ <did>
+ <container label="Box" type="Box">14</container>
+ <container label="Folder" type="Folder">3</container>
+ <unittitle>Richard Wightman, <unitdate calendar="gregorian" era="ce">1926-1928.</unitdate></unittitle>
+ <note>
+ <p>Folder 1 of 3. See <emph render="italic">Honesty or Politics</emph>, ch. 6, 7, 9, 11, 15. </p>
+ </note>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.3.45" score="1" C-ORDER="63">
+ <did>
+ <container label="Box" type="Box">14</container>
+ <container label="Folders" type="Folder">4-5</container>
+ <unittitle>Richard Wightman, <unitdate calendar="gregorian" era="ce">1926-1928.</unitdate></unittitle>
+ <note>
+ <p>Folder 2 and 3 of 3. </p>
+ </note>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.3.46" score="1" C-ORDER="64">
+ <did>
+ <container label="Box" type="Box">14</container>
+ <container label="Folder" type="Folder">6</container>
+ <unittitle>Nicholas Paul Perry, C. Michael Morssen, Matrujillo, Mr. Winston, Paramount 
+Pictures and others, <unitdate calendar="gregorian" era="ce">1931-1933, 1947, 1951.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.3.47" score="1" C-ORDER="65">
+ <did>
+ <container label="Box" type="Box">14</container>
+ <container label="Folder" type="Folder">7</container>
+ <unittitle>Louis Postif, Clifton Fadiman, Curtis Brown, Limited, A.  C. Boni, Incorporated and others, <unitdate calendar="gregorian" era="ce">1930-1935.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.3.48" score="1" C-ORDER="66">
+ <did>
+ <container label="Box" type="Box">14</container>
+ <container label="Folder" type="Folder">8</container>
+ <unittitle>Requests for interviews with Nan Britton following the publicity <emph render="italic">re</emph> the Phillips 
+letters. <unitdate calendar="gregorian" era="ce">1964-1965.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.3.49" score="1" C-ORDER="67">
+ <did>
+ <container label="Box" type="Box">14</container>
+ <container label="Folder" type="Folder">9</container>
+ <unittitle>Randolph C. Downes, University of Toledo, <unitdate calendar="gregorian" era="ce">1960-1965.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.3.50" score="1" C-ORDER="68">
+ <did>
+ <container label="Box" type="Box">14</container>
+ <container label="Folder" type="Folder">10</container>
+ <unittitle>Dean Albertson, Brooklyn College, <unitdate calendar="gregorian" era="ce">1936-1964.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.3.51" score="1" C-ORDER="69">
+ <did>
+ <container label="Box" type="Box">15</container>
+ <container label="Folder" type="Folder">1</container>
+ <unittitle>W.F. Shelton, Francis Russell, Warren Boroson (<title linktype="simple">Fact Magazine</title>), <unitdate calendar="gregorian" era="ce">1963-1964.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.3.52" score="1" C-ORDER="70">
+ <did>
+ <container label="Box" type="Box">15</container>
+ <container label="Folder" type="Folder">2</container>
+ <unittitle>Edwin K. Gross, <unitdate calendar="gregorian" era="ce">1964-1965.</unitdate></unittitle>
+ </did>
+ </c02>
+ </c01>
+ <c01 level="series" id="c01-1.8.5.4" score="1" C-ORDER="71">
+ <did>
+ <unittitle>Documentary Files </unittitle>
+ </did>
+ <c02 level="file" id="c02-1.8.5.4.2" score="1" C-ORDER="72">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <container label="Folder" type="Folder">1</container>
+ <unittitle>Letter from Warren G. Harding to Nan Britton, <unitdate calendar="gregorian" era="ce">[1917] May 9.</unitdate></unittitle>
+ <note>
+ <p>Written on U.S. Senate stationery (with envelope). 3pp. </p>
+ </note>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.4.3" score="1" C-ORDER="73">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <container label="Folder" type="Folder">2</container>
+ <unittitle>Letter from Warren G. Harding to Nan Britton, <unitdate calendar="gregorian" era="ce">May 15, 1917.</unitdate></unittitle>
+ <note>
+ <p>Written on Senate Chamber stationery, 4pp. (2 leaves). </p>
+ </note>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.4.4" score="1" C-ORDER="74">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <container label="Folder" type="Folder">3</container>
+ <unittitle>Letter from Warren G. Harding to Nan Britton, <unitdate calendar="gregorian" era="ce">August 11, 1917.</unitdate></unittitle>
+ <note>
+ <p>Written on U.S. Senate stationery, 1 leaf. </p>
+ </note>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.4.5" score="1" C-ORDER="75">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <container label="Folder" type="Folder">4</container>
+ <unittitle>Letter from Warren G. Harding to Nan Britton, <unitdate calendar="gregorian" era="ce">May 25, 1918.</unitdate></unittitle>
+ <note>
+ <p>Written on U.S. Senate, Committee on Commerce stationery, 2pp. with franked 
+envelope. </p>
+ </note>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.4.6" score="1" C-ORDER="76">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <container label="Folder" type="Folder">5</container>
+ <unittitle>Letter from Warren G. Harding to Nan Britton, <unitdate calendar="gregorian" era="ce">December 5, 1918.</unitdate></unittitle>
+ <note>
+ <p>Written on U.S. Senate, Committee on Commerce stationery, 1-1/2 pages, no envelope. </p>
+ </note>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.4.7" score="1" C-ORDER="77">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <container label="Folder" type="Folder">6</container>
+ <unittitle>Letter from Warren G. Harding to Dr. Frank T. Spaulding, Superintendent of Public 
+Schools, Cleveland , Ohio, <unitdate calendar="gregorian" era="ce">May 25, 1918.</unitdate></unittitle>
+ <note>
+ <p>Regarding my mother's changing her position as teacher. Letter of May 25, 1918 (above) sent to me same date. </p>
+ </note>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.4.8" score="1" C-ORDER="78">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <container label="Folder" type="Folder">7</container>
+ <unittitle>Carbon copy of letter from Nan Britton to Warren G. Harding, <unitdate calendar="gregorian" era="ce">May 7, 1917.</unitdate></unittitle>
+ <note>
+ <p>Sent to him at Washington, D.C., to which he replied under date of May 9. Attached ia copy of carbon re-typed for clarity. </p>
+ </note>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.4.9" score="1" C-ORDER="79">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <container label="Folder" type="Folder">8</container>
+ <unittitle>Carbon copy of letter from Nan Britton to Warren G. Harding, <unitdate calendar="gregorian" era="ce">May 11, 1917.</unitdate></unittitle>
+ <note>
+ <p>... in reply to his letter of me of May 9; also re-typed for clarity. </p>
+ </note>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.4.10" score="1" C-ORDER="80">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <container label="Folder" type="Folder">9</container>
+ <unittitle>Letter to Nan Britton from her mother <unitdate calendar="gregorian" era="ce">November 1, 1926.</unitdate></unittitle>
+ <note>
+ <p>... regarding the latter's misplacement of a letter written by Senator Harding to Mark
+ Thompson, who was also with the Cleveland Public Schools as President of the Board of 
+Education.... With envelope. </p>
+ </note>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.4.11" score="1" C-ORDER="81">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <container label="Folder" type="Folder">10</container>
+ <unittitle>Letter from Abigail V. Harding to S.A. Willits and Miss Nan Britton, <unitdate calendar="gregorian" era="ce">February 2, 1920.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.4.12" score="1" C-ORDER="82">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <container label="Folder" type="Folder">11</container>
+ <unittitle>Letter from Abigail V. Harding to Elizabeth and Nan Britton, <unitdate calendar="gregorian" era="ce">June 1, 1920</unitdate> (probably). </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.4.13" score="1" C-ORDER="83">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <container label="Folder" type="Folder">12</container>
+ <unittitle>Letter from Abigail V. Harding to Nan Britton, <unitdate calendar="gregorian" era="ce">July 24, 1920.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.4.14" score="1" C-ORDER="84">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <container label="Folder" type="Folder">13</container>
+ <unittitle>Letter from Abigail V. Harding to Nan Britton <unitdate calendar="gregorian" era="ce">October 6, 1920.</unitdate></unittitle>
+ <note>
+ <p>With envelope. </p>
+ </note>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.4.15" score="1" C-ORDER="85">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <container label="Folder" type="Folder">14</container>
+ <unittitle>Letter from Abigail V. Harding to Nan Britton, <unitdate calendar="gregorian" era="ce">October 15, 1921.</unitdate></unittitle>
+ <note>
+ <p>With envelope. </p>
+ </note>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.4.16" score="1" C-ORDER="86">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <container label="Folder" type="Folder">15</container>
+ <unittitle>Letter from Abigail V. Harding to Nan Britton, <unitdate calendar="gregorian" era="ce">January 30, 1922.</unitdate></unittitle>
+ <note>
+ <p>Dated per envelope. </p>
+ </note>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.4.17" score="1" C-ORDER="87">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <container label="Folder" type="Folder">16</container>
+ <unittitle>Letter from Abigail V. Harding to Nan Britton, <unitdate calendar="gregorian" era="ce">July 1, 1922.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.4.18" score="1" C-ORDER="88">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <container label="Folder" type="Folder">17</container>
+ <unittitle>Letter from Abigail V. Harding to Nan Britton, <unitdate calendar="gregorian" era="ce">July 26, 1922.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.4.19" score="1" C-ORDER="89">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <container label="Folder" type="Folder">18</container>
+ <unittitle>Letter from Abigail V. Harding to Elizabeth and Nan Britton, <unitdate calendar="gregorian" era="ce">October 7, 1922.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.4.20" score="1" C-ORDER="90">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <container label="Folder" type="Folder">19</container>
+ <unittitle>Letter from Abigail V. Harding to Nan Britton, <unitdate calendar="gregorian" era="ce">May 14, 1923.</unitdate></unittitle>
+ <note>
+ <p>Dated per envelope. </p>
+ </note>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.4.21" score="1" C-ORDER="91">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <container label="Folder" type="Folder">20</container>
+ <unittitle>Letter from Abigail V. Harding to Mrs. Magnus Ericksen (Nan Britton), <unitdate calendar="gregorian" era="ce">February 2, 1924.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.4.22" score="1" C-ORDER="92">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <container label="Folder" type="Folder">21</container>
+ <unittitle>Letter from Abigail V. Harding to Mrs. Magnus Ericksen (Nan Britton), <unitdate calendar="gregorian" era="ce">May 27, 1924.</unitdate></unittitle>
+ <note>
+ <p>Dated per envelope. </p>
+ </note>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.4.23" score="1" C-ORDER="93">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <container label="Folder" type="Folder">22</container>
+ <unittitle>Letter from Abigail V. Harding to Mrs. Magnus Ericksen (Nan Britton) 
+<unitdate calendar="gregorian" era="ce">December 24, 1924.</unitdate></unittitle>
+ <note>
+ <p>... written Christmas Eve, 1924, after her marriage to Ralph T. Lewis, from the Princess Hotel in Bermuda where they were honeymooning - I did not keep the envelope. </p>
+ </note>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.4.24" score="1" C-ORDER="94">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <container label="Folder" type="Folder">23</container>
+ <unittitle>Letter from Ralph T. Lewis to Mrs. Magnus Ericksen (Nan Britton), <unitdate calendar="gregorian" era="ce">December 26, 1924.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.4.25" score="1" C-ORDER="95">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <container label="Folder" type="Folder">24</container>
+ <unittitle>Letter from Abigail V. Harding to Nan Britton, <unitdate calendar="gregorian" era="ce">n.d. (Saturday the 7th).</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.4.26" score="1" C-ORDER="96">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <container label="Folder" type="Folder">25</container>
+ <unittitle>Abigail V. Harding to Nan Britton Ericksen, <unitdate calendar="gregorian" era="ce">May 18, 1925.</unitdate></unittitle>
+ <note>
+ <p>Dated per envelope. </p>
+ </note>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.4.27" score="1" C-ORDER="97">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <container label="Folder" type="Folder">26</container>
+ <unittitle>Letter from Abigail V. Harding to Nan Britton Ericksen, <unitdate calendar="gregorian" era="ce">May 25, 1925.</unitdate></unittitle>
+ <note>
+ <p>Dated per envelope. </p>
+ </note>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.4.28" score="1" C-ORDER="98">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <container label="Folder" type="Folder">27</container>
+ <unittitle>Letter from Abigail V. Harding to Nan Britton Ericksen, <unitdate calendar="gregorian" era="ce">September 8, 1925.</unitdate></unittitle>
+ <note>
+ <p>Dated per envelope. </p>
+ </note>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.4.29" score="1" C-ORDER="99">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <container label="Folder" type="Folder">28</container>
+ <unittitle>Letter from Nan Britton to Abigail V. Harding (carbon copy), <unitdate calendar="gregorian" era="ce">September 23, 1925.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.4.30" score="1" C-ORDER="100">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <container label="Folder" type="Folder">29</container>
+ <unittitle>Letter from Nan Britton to Abigail V. Harding (carbon copy), <unitdate calendar="gregorian" era="ce">October 5, 1925.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.4.31" score="1" C-ORDER="101">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <container label="Folder" type="Folder">30</container>
+ <unittitle>Letter Nan Britton to Mrs. Carolyn H. Votaw (carbon copy), <unitdate calendar="gregorian" era="ce">September 23, 1925.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.4.32" score="1" C-ORDER="102">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <container label="Folder" type="Folder">31</container>
+ <unittitle>Letter from Mrs. Carolyn H. Votaw to Mrs. Nan B. Ericksen, <unitdate calendar="gregorian" era="ce">September 25, 1925.</unitdate></unittitle>
+ <note>
+ <p>With envelope. </p>
+ </note>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.4.33" score="1" C-ORDER="103">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <container label="Folder" type="Folder">32</container>
+ <unittitle>Telegram from Mrs. A.A. Stuart (assumed name of Abigail v. Harding) to Nan B. 
+Ericksen, <unitdate calendar="gregorian" era="ce">October 7, 1925.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.4.34" score="1" C-ORDER="104">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <container label="Folder" type="Folder">33</container>
+ <unittitle>Letter from Nan Britton to Abigail V. Harding (carbon copy) <unitdate calendar="gregorian" era="ce">October 8, 1925.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.4.35" score="1" C-ORDER="105">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <container label="Folder" type="Folder">34</container>
+ <unittitle>Letter from Abigail V. Harding to Nan B. Ericksen, <unitdate calendar="gregorian" era="ce">October 13 (?), 1925.</unitdate></unittitle>
+ <note>
+ <p>Mr. Wightman wrote on the envelope 'main admissions - important and I wrote 'Talks 
+of effect my letter had on Mr.  Mrs. Votaw.' </p>
+ </note>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.4.36" score="1" C-ORDER="106">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <container label="Folder" type="Folder">35</container>
+ <unittitle>Letter from Nan Britton to Abigail V. Harding (carbon copy), <unitdate calendar="gregorian" era="ce">October 16, 1925.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.4.37" score="1" C-ORDER="107">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <container label="Folder" type="Folder">36</container>
+ <unittitle>Letter from Nan Britton to Abigail V. Harding (carbon copy), <unitdate calendar="gregorian" era="ce">November 12, 1925.</unitdate></unittitle>
+ <note>
+ <p>Mr. Votaw had returned to me my 'Action to Annual a Marriage' which I had sent him 
+to view, but he sent it back without any comment or note. </p>
+ </note>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.4.38" score="1" C-ORDER="108">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <container label="Folder" type="Folder">37</container>
+ <unittitle>Letter from Nan Britton to Mr. And Mrs. Votaw (carbon copy) with return receipt 
+attached, <unitdate calendar="gregorian" era="ce">October 18, 1925.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.4.39" score="1" C-ORDER="109">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <container label="Folder" type="Folder">38</container>
+ <unittitle>Letter from Nan Britton to Abigail V. Harding, <unitdate calendar="gregorian" era="ce">October 19, 1925.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.4.40" score="1" C-ORDER="110">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <container label="Folder" type="Folder">39</container>
+ <unittitle>Letter from Nan Britton to Abigail V. Harding (carbon copy), <unitdate calendar="gregorian" era="ce">October 22, 1925.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.4.41" score="1" C-ORDER="111">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <container label="Folder" type="Folder">40</container>
+ <unittitle>Letter from Abigail V. Harding to Nan B. Ericksen, <unitdate calendar="gregorian" era="ce">October 20, 1925.</unitdate></unittitle>
+ <note>
+ <p>Dated per envelope. </p>
+ </note>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.4.42" score="1" C-ORDER="112">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <container label="Folder" type="Folder">41</container>
+ <unittitle>Letter from Nan Britton to Abigail V. Harding (carbon copy), <unitdate calendar="gregorian" era="ce">November 2, 1925.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.4.43" score="1" C-ORDER="113">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <container label="Folder" type="Folder">42</container>
+ <unittitle>Letter from Abigail V. Harding to Nan B. Ericksen, <unitdate calendar="gregorian" era="ce">November 5, 1925.</unitdate></unittitle>
+ <note>
+ <p>Dated per envelope. </p>
+ </note>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.4.44" score="1" C-ORDER="114">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <container label="Folder" type="Folder">43</container>
+ <unittitle>Letter from Abigail V. Harding to Nan B. Ericksen, <unitdate calendar="gregorian" era="ce">n.d.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.4.45" score="1" C-ORDER="115">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <container label="Folder" type="Folder">44</container>
+ <unittitle>Letter to Abigail V. Harding from Nan Britton (carbon copy) with bills for 
+purchases for Elizabeth Ann attached, <unitdate calendar="gregorian" era="ce">November 1, 1925.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.4.46" score="1" C-ORDER="116">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <container label="Folder" type="Folder">45</container>
+ <unittitle>Letter from Abigail V. Harding to Nan B. Ericksen, <unitdate calendar="gregorian" era="ce">December 9, 1925.</unitdate></unittitle>
+ <note>
+ <p>Dated per envelope. </p>
+ </note>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.4.47" score="1" C-ORDER="117">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <container label="Folder" type="Folder">46</container>
+ <unittitle>Letter from Nan Britton to Abigail V. Harding (carbon copy), <unitdate calendar="gregorian" era="ce">December 11, 1925.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.4.48" score="1" C-ORDER="118">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <container label="Folder" type="Folder">47</container>
+ <unittitle>Letter from Nan Britton to Heber Herbert Votaw (carbon copy), <unitdate calendar="gregorian" era="ce">January 27, 1926.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.4.49" score="1" C-ORDER="119">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <container label="Folder" type="Folder">48</container>
+ <unittitle>Letter from H.H. Votaw to Nan Britton, <unitdate calendar="gregorian" era="ce">January 29, 1926.</unitdate></unittitle>
+ <note>
+ <p>With envelope. </p>
+ </note>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.4.50" score="1" C-ORDER="120">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <container label="Folder" type="Folder">49</container>
+ <unittitle>Letter to H.H. Votaw from Nan Britton (carbon copy), <unitdate calendar="gregorian" era="ce">January 28, 1926.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.4.51" score="1" C-ORDER="121">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <container label="Folder" type="Folder">50</container>
+ <unittitle>Letter from Nan Britton to H.H. Votaw (carbon copy) with registration receipt, <unitdate calendar="gregorian" era="ce">January 30, 1926.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.4.52" score="1" C-ORDER="122">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <container label="Folder" type="Folder">51</container>
+ <unittitle>Letter from Abigail V.Harding (Lewis) to Nan B. Ericksen, <unitdate calendar="gregorian" era="ce">February 10, 1926.</unitdate></unittitle>
+ <note>
+ <p>Dated per envelope. </p>
+ </note>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.4.53" score="1" C-ORDER="123">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <container label="Folder" type="Folder">52</container>
+ <unittitle>Telegram from Abigail V. Harding to Nan B. Ericksen, <unitdate calendar="gregorian" era="ce">February 5, 1926.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.4.54" score="1" C-ORDER="124">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <container label="Folder" type="Folder">53</container>
+ <unittitle>Telegram from Abigail V. Harding to Nan B. Britton, <unitdate calendar="gregorian" era="ce">February 6, 1926.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.4.55" score="1" C-ORDER="125">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <container label="Folder" type="Folder">54</container>
+ <unittitle>Letter from Nan Britton to Abigail V. Harding (carbon copy), <unitdate calendar="gregorian" era="ce">February 1926.</unitdate></unittitle>
+ <note>
+ <p>Saturday, 10:00 p.m. </p>
+ </note>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.4.56" score="1" C-ORDER="126">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <container label="Folder" type="Folder">55</container>
+ <unittitle>Letter from Nan Britton to Mr. And Mrs. Votaw (carbon copy), <unitdate calendar="gregorian" era="ce">February 1926.</unitdate></unittitle>
+ <note>
+ <p>Saturday evening. </p>
+ </note>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.4.57" score="1" C-ORDER="127">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <container label="Folder" type="Folder">56</container>
+ <unittitle>Text of telegram from Nan Britton to Abigail V. Harding (carbon copy), <unitdate calendar="gregorian" era="ce">February 5, 1926.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.4.58" score="1" C-ORDER="128">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <container label="Folder" type="Folder">57</container>
+ <unittitle>Letter from Nan Britton to Abigail V. Harding (carbon copy) with registration 
+receipt attached, <unitdate calendar="gregorian" era="ce">February 5, 1926.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.4.59" score="1" C-ORDER="129">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <container label="Folder" type="Folder">58</container>
+ <unittitle>Letter from Nan Britton to Abigail V. Harding (carbon copy), <unitdate calendar="gregorian" era="ce">February 12, 1926.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.4.60" score="1" C-ORDER="130">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <container label="Folder" type="Folder">59</container>
+ <unittitle>Letter from Abigail V. Harding to Nan Britton, <unitdate calendar="gregorian" era="ce">February 24, 1926.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.4.61" score="1" C-ORDER="131">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <container label="Folder" type="Folder">60</container>
+ <unittitle>Letter from Nan Britton to Abigail V. Harding (carbon copy), <unitdate calendar="gregorian" era="ce">March 7, 1926.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.4.62" score="1" C-ORDER="132">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <container label="Folder" type="Folder">61</container>
+ <unittitle>Letter from Nan Britton to Abigail V. Harding (carbon copy), <unitdate calendar="gregorian" era="ce">March 14, 1926.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.4.63" score="1" C-ORDER="133">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <container label="Folder" type="Folder">62</container>
+ <unittitle>Letter from Abigail V. Harding to Nan B. Ericksen, <unitdate calendar="gregorian" era="ce">March 20, 1926.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.4.64" score="1" C-ORDER="134">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <container label="Folder" type="Folder">63</container>
+ <unittitle>Letter from Nan Britton to Abigail V. Harding, <unitdate calendar="gregorian" era="ce">March 24, 1926.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.4.65" score="1" C-ORDER="135">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <container label="Folder" type="Folder">64</container>
+ <unittitle>Letter from Abigail V. Harding to Nan B. Ericksen, <unitdate calendar="gregorian" era="ce">March 25, 1926.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.4.66" score="1" C-ORDER="136">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <container label="Folder" type="Folder">65</container>
+ <unittitle>Letter from Nan Britton to Abigail V. Harding (carbon copy), <unitdate calendar="gregorian" era="ce">April 4, 1926.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.4.67" score="1" C-ORDER="137">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <container label="Folder" type="Folder">66</container>
+ <unittitle>Letter from Nan Britton to Dr. Harding, brother of Warren Harding (carbon copy), <unitdate calendar="gregorian" era="ce">April 4, 1926.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.4.68" score="1" C-ORDER="138">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <container label="Folder" type="Folder">67</container>
+ <unittitle>Letter from Nan Britton to Abigail V. Harding (carbon copy), <unitdate calendar="gregorian" era="ce">April 30, 1926.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.4.69" score="1" C-ORDER="139">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <container label="Folder" type="Folder">68</container>
+ <unittitle>Facsimile of bank draft from Abigail V. Harding to Nan Britton for $40.00, <unitdate calendar="gregorian" era="ce">July 2, 1926.</unitdate></unittitle>
+ <note>
+ <p>Marion County Bank Company, no.A16827. With envelope. </p>
+ </note>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.4.70" score="1" C-ORDER="140">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <container label="Folder" type="Folder">69</container>
+ <unittitle>Letter from Nan Britton to Abigail V. Harding (carbon copy), <unitdate calendar="gregorian" era="ce">July 7, 1926.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.4.71" score="1" C-ORDER="141">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <container label="Folder" type="Folder">70</container>
+ <unittitle>Letter from Abigail v. Harding enclosing money orde, with facsimile of the money order, <unitdate calendar="gregorian" era="ce">June 4, 1926.</unitdate></unittitle>
+ <note>
+ <p>Written from Troy, Ohio, but postmarked Hillsboro. </p>
+ </note>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.4.72" score="1" C-ORDER="142">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <container label="Folder" type="Folder">71</container>
+ <unittitle>Letter from Nan Britton to Abigail V. Harding (carbon copy) <unitdate calendar="gregorian" era="ce">June 17, 1926.</unitdate></unittitle>
+ <note>
+ <p>With envelope. </p>
+ </note>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.4.73" score="1" C-ORDER="143">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <container label="Folder" type="Folder">72</container>
+ <unittitle>Letter from Abigail V. Harding to Nan Britton, <unitdate calendar="gregorian" era="ce">July 16, 1926.</unitdate></unittitle>
+ <note>
+ <p>With envelope. </p>
+ </note>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.4.74" score="1" C-ORDER="144">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <container label="Folder" type="Folder">73</container>
+ <unittitle>Letter from Nan Britton to Abigail V. Harding (carbon copy), <unitdate calendar="gregorian" era="ce">July 22, 1926.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.4.75" score="1" C-ORDER="145">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <container label="Folder" type="Folder">74</container>
+ <unittitle>Letter from Abigail V. Harding to Nan Britton, <unitdate calendar="gregorian" era="ce">August 7, 1926.</unitdate></unittitle>
+ <note>
+ <p>Dated per envelope. With Nan Britton's note, This was the last letter received from Miss H.
+ </p>
+ </note>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.4.76" score="1" C-ORDER="146">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <container label="Folder" type="Folder">75</container>
+ <unittitle>Christmas card from Abigail V. Harding to Nan Britton , unsigned, <unitdate calendar="gregorian" era="ce">December 21, 1926.</unitdate></unittitle>
+ <note>
+ <p>With envelope. Nan Britton's note: containing a cashier's check for $25.00. </p>
+ </note>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.4.77" score="1" C-ORDER="147">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <container label="Folder" type="Folder">76</container>
+ <unittitle>Letter from Abigail V. Harding to Nan Britton's sister, Elizabeth, <unitdate calendar="gregorian" era="ce">1924</unitdate>(?). </unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.4.78" score="1" C-ORDER="148">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <container label="Folder" type="Folder">77</container>
+ <unittitle>Calling card for Abigail Victoria Harding, <unitdate calendar="gregorian" era="ce">1911.</unitdate></unittitle>
+ <note>
+ <p>Nan Britton's note: ... accompanied a little gift to me back in my high school days ... </p>
+ </note>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.4.79" score="1" C-ORDER="149">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <container label="Folder" type="Folder">78</container>
+ <unittitle>Calling card for Heber Herbert Votaw, <unitdate calendar="gregorian" era="ce">n.d.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.4.80" score="1" C-ORDER="150">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <container label="Folder" type="Folder">79</container>
+ <unittitle>Calling card for Harry W. Perrin, <unitdate calendar="gregorian" era="ce">n.d.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.4.81" score="1" C-ORDER="151">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <container label="Folder" type="Folder">80</container>
+ <unittitle>Letter from Nan Britton to Jim Sloan (carbon copy) with return receipt, <unitdate calendar="gregorian" era="ce">February 5, 1926.</unitdate></unittitle>
+ <note>
+ <p>Return receipt dated February 5, 1926. </p>
+ </note>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.4.82" score="1" C-ORDER="152">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <container label="Folder" type="Folder">81</container>
+ <unittitle>Text of telegram from Nan Britton to Jim Sloan (carbon copy), <unitdate calendar="gregorian" era="ce">February 1926.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.4.83" score="1" C-ORDER="153">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <container label="Folder" type="Folder">82</container>
+ <unittitle>Letter from Jim Sloan to Nan Britton, <unitdate calendar="gregorian" era="ce">March 19, 1926.</unitdate></unittitle>
+ <note>
+ <p>With envelope. </p>
+ </note>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.4.84" score="1" C-ORDER="154">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <container label="Folder" type="Folder">83</container>
+ <unittitle>Letter from Nan Britton to Jim Sloan (carbon copy), <unitdate calendar="gregorian" era="ce">March 20, 1926.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.4.85" score="1" C-ORDER="155">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <container label="Folder" type="Folder">84</container>
+ <unittitle>Letter from Nan Britton to Jim Sloan (carbon copy), <unitdate calendar="gregorian" era="ce">March 24, 1926.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.4.86" score="1" C-ORDER="156">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <container label="Folder" type="Folder">85</container>
+ <unittitle>Note from Jim Sloan to Nan Britton, <unitdate calendar="gregorian" era="ce">May 18, 1926.</unitdate></unittitle>
+ <note>
+ <p>With envelope. </p>
+ </note>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.4.87" score="1" C-ORDER="157">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <container label="Folder" type="Folder">86</container>
+ <unittitle>Letter from Nan Britton to Harding Memorial Association (carbon copy), <unitdate calendar="gregorian" era="ce">May 19, 1926.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.4.88" score="1" C-ORDER="158">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <container label="Folder" type="Folder">87</container>
+ <unittitle>Letter from Nan Britton to Jim Sloan (carbon copy), <unitdate calendar="gregorian" era="ce">May 20, 1926.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.4.89" score="1" C-ORDER="159">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <container label="Folder" type="Folder">88</container>
+ <unittitle>Letter from Nan Britton to Jim Sloan (carbon copy), <unitdate calendar="gregorian" era="ce">May 25, 1926.</unitdate></unittitle>
+ <note>
+ <p>With program from laying of the cornerstone for the Harding Memorial. </p>
+ </note>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.4.90" score="1" C-ORDER="160">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <container label="Folder" type="Folder">89</container>
+ <unittitle>Letter from Jim Sloan to Nan Britton, <unitdate calendar="gregorian" era="ce">November 8, 1926.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.4.91" score="1" C-ORDER="161">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <container label="Folder" type="Folder">90</container>
+ <unittitle>Letter from Jim Sloan to Nan Britton, <unitdate calendar="gregorian" era="ce">January 18, 1927.</unitdate></unittitle>
+ <note>
+ <p>Sent to Nan Britton in care of a friend. </p>
+ </note>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.4.92" score="1" C-ORDER="162">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <container label="Folder" type="Folder">91</container>
+ <unittitle>Letter from Pris to Nan Britton, <unitdate calendar="gregorian" era="ce">March 16, 1927.</unitdate></unittitle>
+ <note>
+ <p>With envelope. </p>
+ </note>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.4.93" score="1" C-ORDER="163">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <container label="Folder" type="Folder">92</container>
+ <unittitle>Letter from Nan Britton to Gen. Charles E. Dawes (carbon copy), <unitdate calendar="gregorian" era="ce">May 15, 1926.</unitdate></unittitle>
+ <note>
+ <p>Nan Britton's note: See <title linktype="simple">The President's Daughter</title>, episode no.166, p.379 <emph render="italic">re</emph> this. </p>
+ </note>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.4.94" score="1" C-ORDER="164">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <container label="Folder" type="Folder">93</container>
+ <unittitle>Photograph of Warren G. Harding inscribed To Miss Nan Britton ... Sincerely, 
+Warren G. Harding. <unitdate calendar="gregorian" era="ce">n.d.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.4.95" score="1" C-ORDER="165">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <container label="Folder" type="Folder">94</container>
+ <unittitle>Photograph of Miss Abigail Victoria Harding (later Mrs. Ralph T. Lewis) inscribed: 
+ Most sincerely yours, Abigail Victoria Harding. <unitdate calendar="gregorian" era="ce">n.d.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.4.96" score="1" C-ORDER="166">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <container label="Folder" type="Folder">95</container>
+ <unittitle>Photograph of Carolyn Harding (Mrs. Heber Herbert Votaw, inscribed: Yours truly, 
+Carolyn Votaw. <unitdate calendar="gregorian" era="ce">n.d.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.4.97" score="1" C-ORDER="167">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <container label="Folder" type="Folder">96</container>
+ <unittitle>Photograph of Dr. George Tryon Harding, father fo Warren G. Harding, Victoria and Carolyn Harding, inscribed: Yours truly, G.T. Harding. <unitdate calendar="gregorian" era="ce">n.d.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.4.98" score="1" C-ORDER="168">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <container label="Folder" type="Folder">97</container>
+ <unittitle>Photograph of Lila Wesener, inscribed : To Miss Nan Britton -- / With and all 
+good wishes from / her admiring friend, ' Lila Wesener. <unitdate calendar="gregorian" era="ce">n.d.</unitdate></unittitle>
+ <note>
+ <p>Nan Britton's note The latter inscription was cut from the photograph because I wanted to frame the latter 'close-up' but I kept the inscription. Lila Wesener was a cousin of the Harding sisters and brothers. </p>
+ </note>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.4.99" score="1" C-ORDER="169">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <container label="Folder" type="Folder">98</container>
+ <unittitle>Wallet of Warren G. Harding, <unitdate calendar="gregorian" era="ce">n.d.</unitdate></unittitle>
+ <note>
+ <p>Nan Britton's note: ... (his name imprinted in gold), given to me by Carrie Votaw when I was a guest in their home in Tacoma Park, Washington, D.C. (see p.308, <emph render="italic">The President's
+Daughter</emph>). </p>
+ </note>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.4.100" score="1" C-ORDER="170">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <container label="Folder" type="Folder">99</container>
+ <unittitle>Notarized statement of Mrs. Mary Lee Britton (Nan Britton's mother) regarding a visit of 
+Elizabeth Britton Willits (Nan Brittons sister) to Mr. Harding at Marion, Ohio, after the election, <unitdate calendar="gregorian" era="ce">August 4, 1928.</unitdate></unittitle>
+ <note>
+ <p>15pp. Holograph. </p>
+ </note>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.4.101" score="1" C-ORDER="171">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <container label="Folder" type="Folder">100</container>
+ <unittitle>Statement from Nan Britton's sister, Elizabeth Britton Willits, regarding her 
+knowledge of Nan Britton's receipt of letters from Mr. Harding, <unitdate calendar="gregorian" era="ce">January 4, 1960.</unitdate></unittitle>
+ <note>
+ <p>Notarized. </p>
+ </note>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.4.102" score="1" C-ORDER="172">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <container label="Folder" type="Folder">101</container>
+ <unittitle>Letter from Mrs. Jack (Mary) Pusey regarding her suspicions of Mr. Harding's 
+paternity and Nan Britton's reply (carbon copy), <unitdate calendar="gregorian" era="ce">December 31, 1931 and January 2, 1932.</unitdate></unittitle>
+ <note>
+ <p>Dated per envelope. Mrs. Pusey called Mrs. P.J. Johnson in <title linktype="simple">The President's Daughter</title>.
+ Nan Britton's note: I resided in the home (apartment) of the Puseys for two years during which time
+ I was seeing Mr. Harding. </p>
+ </note>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.4.103" score="1" C-ORDER="173">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <container label="Folder" type="Folder">102</container>
+ <unittitle>Snapshot of Warren G. Harding which Nan Britton loved and carried for years. <unitdate calendar="gregorian" era="ce">n.d.</unitdate></unittitle>
+ <note>
+ <p>Nan Britton's additional note: This one is in <title linktype="simple">The President's Daughter</title>, opposite p.60. 
+(Snapshot sent to me by Warren G. Harding). </p>
+ </note>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.4.104" score="1" C-ORDER="174">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <container label="Folder" type="Folder">103</container>
+ <unittitle>Another Snapshot of Warren G. Harding which Nan Britton loved and carried almost as long as the one 
+above. <unitdate calendar="gregorian" era="ce">n.d.</unitdate></unittitle>
+ <note>
+ <p>Nan Britton's note: (This one acquired I don't recall how. It appears to have been taken at 
+the White House). </p>
+ </note>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.4.105" score="1" C-ORDER="175">
+ <did>
+ <container label="Box" type="Box">1</container>
+ <container label="Folder" type="Folder">104</container>
+ <unittitle>Snapshot of Nan Britton, Harding booster in the pre-election days of <unitdate calendar="gregorian" era="ce">1920.</unitdate> 
+<unitdate calendar="gregorian" era="ce">1920.</unitdate></unittitle>
+ <note>
+ <p>Taken on Labor Day. </p>
+ </note>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.4.106" score="1" C-ORDER="176">
+ <did>
+ <container label="Box" type="Box">2</container>
+ <container label="Folder" type="Folder">1</container>
+ <unittitle>Photograph of Mr. Harding taken at Edmonston Studio, Washington, D.C, <unitdate calendar="gregorian" era="ce">n.d.</unitdate></unittitle>
+ <note>
+ <p>Nan Britton's note: This was the first photograph Mr. Harding sent me - when I lived at 412 E. 58th St., New York City, with my father's college classmate's family (Mr.  Mrs. Grove D. Curtis and daughter Anna), in the spring of 1917. </p>
+ </note>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.4.107" score="1" C-ORDER="177">
+ <did>
+ <container label="Box" type="Box">2</container>
+ <container label="Folder" type="Folder">2</container>
+ <unittitle>Newspaper picture of Abigail and Carolyn, <unitdate calendar="gregorian" era="ce">1920.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.4.108" score="1" C-ORDER="178">
+ <did>
+ <container label="Box" type="Box">2</container>
+ <container label="Folder" type="Folder">3</container>
+ <unittitle>Photograph of Warren G. Harding by Pach, <unitdate calendar="gregorian" era="ce">1920.</unitdate></unittitle>
+ <note>
+ <p>Nan Britton's note: ... displayed in the Pach Fifth Avenue window in August of 1923. Returning from France on learning of Mr. Harding's death, I chanced to see it and bought this copy. </p>
+ </note>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.4.109" score="1" C-ORDER="179">
+ <did>
+ <container label="Box" type="Box">2</container>
+ <container label="Folder" type="Folder">4</container>
+ <unittitle>Letter from the Ithaca Conservatory of Music to Scott Willits (Nan Britton's 
+brother-in-law), part of letter from Elizabeth Willits and Nan Britton's note <emph render="italic">re</emph> this letter, <unitdate calendar="gregorian" era="ce">December 18, 1920.</unitdate></unittitle>
+ <note>
+ <p>Nan Britton's note: I took this letter with me when I met Mr. Harding at the Statler Hotel 
+in Cleveland ... , see p.143 - Ep. 58, <title linktype="simple">The President's Daughter</title>. </p>
+ </note>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.4.110" score="1" C-ORDER="180">
+ <did>
+ <container label="Box" type="Box">2</container>
+ <container label="Folder" type="Folder">5</container>
+ <unittitle>Letter from Governor James M. Cox of Ohio to Nan Britton, <unitdate calendar="gregorian" era="ce">June 28, 1918.</unitdate></unittitle>
+ <note>
+ <p>Nan Brittons note: ... offering to assist my brother find a suitable position. My brother 
+never used the letter ... see p.161, episode 64 in <title linktype="simple">The President's Daughter</title>. </p>
+ </note>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.4.111" score="1" C-ORDER="181">
+ <did>
+ <container label="Box" type="Box">2</container>
+ <container label="Folder" type="Folder">6</container>
+ <unittitle>Glossy print of a photograph of President Harding and full-length snapshot of 
+Elizabeth Ann Harding - The Likeness. <unitdate calendar="gregorian" era="ce">n.d.</unitdate></unittitle>
+ <note>
+ <p>See p.197, <title linktype="simple">The President's Daughter</title>. </p>
+ </note>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.4.112" score="1" C-ORDER="182">
+ <did>
+ <container label="Box" type="Box">2</container>
+ <container label="Folder" type="Folder">7</container>
+ <unittitle>Photo of Elizabeth Ann with her Harding book. <unitdate calendar="gregorian" era="ce">June 1921.</unitdate></unittitle>
+ <note>
+ <p>Nan Britton's note: ... taken in back yard of my sister E's apartment on La Fayette Parkway, Chgo ... </p>
+ </note>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.4.113" score="1" C-ORDER="183">
+ <did>
+ <container label="Box" type="Box">2</container>
+ <container label="Folder" type="Folder">8</container>
+ <unittitle>Photo of Nan Britton holding Elizabeth Ann, <unitdate calendar="gregorian" era="ce">September 1920.</unitdate></unittitle>
+ <note>
+ <p>Nan Britton's note: Taken in front of apt. house where lived the nurse who took care of E.A. for over a year. </p>
+ </note>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.4.114" score="1" C-ORDER="184">
+ <did>
+ <container label="Box" type="Box">2</container>
+ <container label="Folder" type="Folder">9</container>
+ <unittitle>Pressed flower from President Harding's desk in the White House, <unitdate calendar="gregorian" era="ce">June 1921.</unitdate></unittitle>
+ <note>
+ <p>Nan Britton's note: See episode 62, p.156 [<title linktype="simple">The President's Daughter</title>]. </p>
+ </note>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.4.115" score="1" C-ORDER="185">
+ <did>
+ <container label="Box" type="Box">2</container>
+ <container label="Folder" type="Folder">10</container>
+ <unittitle>Page from The Marion Daily Star containing a photograph of Nan Britton at age 5, <unitdate calendar="gregorian" era="ce">February 1, 1902.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.4.116" score="1" C-ORDER="186">
+ <did>
+ <container label="Box" type="Box">2</container>
+ <container label="Folder" type="Folder">11</container>
+ <unittitle>Remaining empty pages of diary kept by Nan Britton, <unitdate calendar="gregorian" era="ce">n.d.</unitdate></unittitle>
+ <note>
+ <p>Nan Britton's note: ... the written pages torn out and destroyed at the request of Mr. Harding to my sister Elizabeth who confided to him that I was keeping the diary. </p>
+ </note>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.4.117" score="1" C-ORDER="187">
+ <did>
+ <container label="Box" type="Box">2</container>
+ <container label="Folder" type="Folder">12</container>
+ <unittitle>Facsimile of registration of G.H. Harvey  wife, Cleveland, at the Imperial Hotel, 
+New York, <unitdate calendar="gregorian" era="ce">n.d.</unitdate></unittitle>
+ <note>
+ <p>Nan Britton's note: ... facsimile of Mr. Harding's registering of us ... </p>
+ </note>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.4.118" score="1" C-ORDER="188">
+ <did>
+ <container label="Box" type="Box">2</container>
+ <container label="Folder" type="Folder">13</container>
+ <unittitle>Draft of <title linktype="simple">The President's Daughter</title>, with editorial markings, <unitdate calendar="gregorian" era="ce">n.d.</unitdate></unittitle>
+ <note>
+ <p>Nan Britton's note: ... My carbon copy was subsequently destroyed by me. Also, because of 
+very personal allusions in my statement for Mr. Ashley, the original 'legal' manuscript, 
+writeen for the attorney, was destroyed by me. </p>
+ </note>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.4.119" score="1" C-ORDER="189">
+ <did>
+ <container label="Box" type="Box">2</container>
+ <container label="Folder" type="Folder">14</container>
+ <unittitle>Draft of <title linktype="simple">Honesty or Politics</title> (original title Stony Limits), <unitdate calendar="gregorian" era="ce">n.d.</unitdate></unittitle>
+ <note>
+ <p>Nan Britton's note: ... many passages were cut out at the suggestion of the critic who viewed
+ it. (Clifton Fadiman) </p>
+ </note>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.4.120" score="1" C-ORDER="190">
+ <did>
+ <container label="Box" type="Box">2</container>
+ <container label="Folder" type="Folder">15</container>
+ <unittitle>Letter from Lillian Knell to Nan Britton with clippings <emph render="italic">re</emph> Warren G. Harding, <unitdate calendar="gregorian" era="ce">June 19, 1926.</unitdate></unittitle>
+ <note>
+ <p>Lillian Knell was the niece of Mrs. Jack (Mary) Pusey. </p>
+ </note>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.4.121" score="1" C-ORDER="191">
+ <did>
+ <container label="Box" type="Box">2</container>
+ <container label="Folder" type="Folder">16</container>
+ <unittitle>School report of Elizabeth Ann Harding (Willits) which appears in <title linktype="simple">The President's Daughter</title>, opposite p.280, <unitdate calendar="gregorian" era="ce">June 4, 1925.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.4.122" score="1" C-ORDER="192">
+ <did>
+ <container label="Box" type="Box">2</container>
+ <container label="Folder" type="Folder">17</container>
+ <unittitle>Letter (carbon copy) from Nan Britton to the New York Times <emph render="italic">re</emph> permission to use 
+Nan Britton's poem The child's eyes in a forthcoming book and their reply, <unitdate calendar="gregorian" era="ce">January 20, January 26, 1920.</unitdate></unittitle>
+ <note>
+ <p>With facsimile of Nan Britton's first check received for the sale of any writing and a 
+clipping of <emph render="italic">The Times</emph>, August 30, 1926 with the printed poem. </p>
+ </note>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.4.123" score="1" C-ORDER="193">
+ <did>
+ <container label="Box" type="Box">3</container>
+ <container label="Folder" type="Folder">1</container>
+ <unittitle>Letter from Helen Evans to Nan Britton and Nan Britton's reply (carbon copy), <unitdate calendar="gregorian" era="ce">November 3  November 5, 1927.</unitdate></unittitle>
+ <note>
+ <p>Helen Evans was Nan Britton's nurse at the time Elizabeth Ann was born. </p>
+ </note>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.4.124" score="1" C-ORDER="194">
+ <did>
+ <container label="Box" type="Box">3</container>
+ <container label="Folder" type="Folder">2</container>
+ <unittitle>Telegram from Nan Britton to Mrs. Elizabeth Willits <emph render="italic">re</emph> President Harding's death, <unitdate calendar="gregorian" era="ce">August 3, 1923.</unitdate></unittitle>
+ <note>
+ <p>Nan Britton's note: Elizabeth, her husband and Elizabeth Ann we<emph render="italic">re</emph> visiting Scott Willits' 
+mother and father at the time, at their country home near Keithsburg, Illinois. </p>
+ </note>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.4.125" score="1" C-ORDER="195">
+ <did>
+ <container label="Box" type="Box">3</container>
+ <container label="Folder" type="Folder">3</container>
+ <unittitle>Postcards of The Claypool Hotel, McFarland Hotel, and Witherill Hotel 
+<unitdate calendar="gregorian" era="ce">n.d.</unitdate></unittitle>
+ <note>
+ <p>Nan Britton's note: See <title linktype="simple">The President's Daughter</title>, pp.37-39 and 57-60 where these are 
+mentioned. </p>
+ </note>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.4.126" score="1" C-ORDER="196">
+ <did>
+ <container label="Box" type="Box">3</container>
+ <container label="Folder" type="Folder">4</container>
+ <unittitle>Bankbooks. 4 items, <unitdate calendar="gregorian" era="ce">1919-1921.</unitdate></unittitle>
+ <note>
+ <p>Nan Britton's note: ... monies given to me by Mr. Harding ... </p>
+ </note>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.4.127" score="1" C-ORDER="197">
+ <did>
+ <container label="Box" type="Box">3</container>
+ <container label="Folder" type="Folder">5</container>
+ <unittitle>Campaign poster likeness of President Harding which hung on Nan Britton's bedroom 
+wall, <unitdate calendar="gregorian" era="ce">n.d.</unitdate></unittitle>
+ <note>
+ <p>Reproduced in <title linktype="simple">The President's Daughter</title>, p.12. </p>
+ </note>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.4.128" score="1" C-ORDER="198">
+ <did>
+ <container label="Box" type="Box">3</container>
+ <container label="Folder" type="Folder">6</container>
+ <unittitle>Letter from Elizabeth Ann to her mother Nan Britton, <unitdate calendar="gregorian" era="ce">1926.</unitdate></unittitle>
+ <note>
+ <p>Nan Britton's note: ... (written when she was in 2nd grade ina a Chicago public school). 
+Reproduced in <title linktype="simple">The President's Daughter</title>, p.372. </p>
+ </note>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.4.129" score="1" C-ORDER="199">
+ <did>
+ <container label="Box" type="Box">3</container>
+ <container label="Folder" type="Folder">7</container>
+ <unittitle>High school senior oration by Nan Britton, notations by Abigail Harding, <unitdate calendar="gregorian" era="ce">1914.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.4.130" score="1" C-ORDER="200">
+ <did>
+ <container label="Box" type="Box">3</container>
+ <container label="Folder" type="Folder">8</container>
+ <unittitle>The autobiography of me by Nan Britton, <unitdate calendar="gregorian" era="ce">1921.</unitdate></unittitle>
+ <note>
+ <p>Written for a class assignment at Columbia University. </p>
+ </note>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.4.131" score="1" C-ORDER="201">
+ <did>
+ <container label="Box" type="Box">3</container>
+ <container label="Folder" type="Folder">9</container>
+ <unittitle>Today's Health, with A day with Papa by Nan Britton, pp.30-33, 90-91, <unitdate calendar="gregorian" era="ce">February 1966.</unitdate></unittitle>
+ <note>
+ <p>Based on a brief sketch in The autobiography of me. </p>
+ </note>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.4.132" score="1" C-ORDER="202">
+ <did>
+ <container label="Box" type="Box">3</container>
+ <container label="Folder" type="Folder">10</container>
+ <unittitle>At the keyhole of the Cabinet Room, <title linktype="simple">New York Times</title>, <unitdate calendar="gregorian" era="ce">June 5, 1921.</unitdate></unittitle>
+ <note>
+ <p>With photocopy. Nan Britton's note: See p.155, 1st paragraph, <title linktype="simple">The President's Daughter</title>. </p>
+ </note>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.4.133" score="1" C-ORDER="203">
+ <did>
+ <container label="Box" type="Box">3</container>
+ <container label="Folder" type="Folder">11</container>
+ <unittitle>Photograph of Nan Britton holding Elizabeth Ann, <unitdate calendar="gregorian" era="ce">1921.</unitdate></unittitle>
+ <note>
+ <p>See p.164, <title linktype="simple">The President's Daughter</title>. </p>
+ </note>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.4.134" score="1" C-ORDER="204">
+ <did>
+ <container label="Box" type="Box">3</container>
+ <container label="Folder" type="Folder">12</container>
+ <unittitle>Photographs of Warren G. Harding. 2 items, <unitdate calendar="gregorian" era="ce">n.d.</unitdate></unittitle>
+ <note>
+ <p>Photographs by Harris  Ewing See opposite 164, <title linktype="simple">The President's Daughter</title>. </p>
+ </note>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.4.135" score="1" C-ORDER="205">
+ <did>
+ <container label="Box" type="Box">3</container>
+ <container label="Folder" type="Folder">13</container>
+ <unittitle>Photograph of Warren G. Harding, <unitdate calendar="gregorian" era="ce">n.d.</unitdate></unittitle>
+ <note>
+ <p>See opposite p. 173, <title linktype="simple">The President's Daughter</title>. </p>
+ </note>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.4.136" score="1" C-ORDER="206">
+ <did>
+ <container label="Box" type="Box">3</container>
+ <container label="Folder" type="Folder">14</container>
+ <unittitle>Photograph of the White House, <unitdate calendar="gregorian" era="ce">n.d.</unitdate></unittitle>
+ <note>
+ <p>Photo copyright by Ernest L. Crandall. See p. 156, <title linktype="simple">The President's Daughter</title>. </p>
+ </note>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.4.137" score="1" C-ORDER="207">
+ <did>
+ <container label="Box" type="Box">3</container>
+ <container label="Folder" type="Folder">15</container>
+ <unittitle>Photographs of the White House. 2 items, <unitdate calendar="gregorian" era="ce">n.d.</unitdate></unittitle>
+ <note>
+ <p>Copyright by Ernest L. Crandall. See opposite p. 189, <title linktype="simple">The President's Daughter</title>. </p>
+ </note>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.4.138" score="1" C-ORDER="208">
+ <did>
+ <container label="Box" type="Box">3</container>
+ <container label="Folder" type="Folder">16</container>
+ <unittitle>Photograph of Warren G. Harding, <unitdate calendar="gregorian" era="ce">n.d.</unitdate></unittitle>
+ <note>
+ <p>Copyright by Edmonston Studio, Washington, D.C. Note by Nan Britton: Reprints of other 
+photos or pictures appearing opposite pp.129, 134, 160, 180, 204 in <title linktype="simple">The President's Daughter</title>
+ are in my 'Harding scrapbook.' </p>
+ </note>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.4.139" score="1" C-ORDER="209">
+ <did>
+ <container label="Box" type="Box">3</container>
+ <container label="Folder" type="Folder">17</container>
+ <unittitle>Manuscript for French translation by Louis Postif of <title linktype="simple">The President's Daughter</title>, <unitdate calendar="gregorian" era="ce">n.d.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.4.140" score="1" C-ORDER="210">
+ <did>
+ <container label="Box" type="Box">3</container>
+ <container label="Folder" type="Folder">18</container>
+ <unittitle>Letter from Harry Winfield Saxton to the Editor of the Boston Post, <unitdate calendar="gregorian" era="ce">October 29, 1927.</unitdate></unittitle>
+ <note>
+ <p>Saxton was a member of the Armstrong tour, the group Nan Britton traveled with to 
+Dijon in the summer of 1923. See episode 103, pp.248-249 in <title linktype="simple">The President's Daughter</title>. </p>
+ </note>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.4.141" score="1" C-ORDER="211">
+ <did>
+ <container label="Box" type="Box">3</container>
+ <container label="Folder" type="Folder">19</container>
+ <unittitle>Letter from Elizabeth Ann to her mother, Nan Britton, <unitdate calendar="gregorian" era="ce">September 21, 1927.</unitdate></unittitle>
+ <note>
+ <p>See opposite p. 340 in <title linktype="simple">The President's Daughter</title>. </p>
+ </note>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.4.142" score="1" C-ORDER="212">
+ <did>
+ <container label="Box" type="Box">3</container>
+ <container label="Folder" type="Folder">20</container>
+ <unittitle>Correspondence of Addison B. Colvin, <unitdate calendar="gregorian" era="ce">1930-1931.</unitdate></unittitle>
+ <note>
+ <p>Re the Harding Memorial Association. </p>
+ </note>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.4.143" score="1" C-ORDER="213">
+ <did>
+ <container label="Box" type="Box">3</container>
+ <container label="Folder" type="Folder">21</container>
+ <unittitle>Letters <emph render="italic">re</emph> opening of Nan Britton's mail by the Post Office, <unitdate calendar="gregorian" era="ce">1930, 1932, 1933.</unitdate></unittitle>
+ <note>
+ <p>Letter from William Marsteller, November 1, 1930, Nan Britton, October 30, 1930, Nathan Loeser, October 31, 1930, Jessie Conley, March 17, 1932 and Nan Britton's reply, May 3, 1932. 2 letters from Nan Britton's mother, February 1, 1930 and Fall 1930. </p>
+ </note>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.4.144" score="1" C-ORDER="214">
+ <did>
+ <container label="Box" type="Box">3</container>
+ <container label="Folder" type="Folder">22</container>
+ <unittitle>Letter from office of F.E. Scobey to Nan Britton and Nan Britton's reply and related 
+clipping, <unitdate calendar="gregorian" era="ce">September 8  12, 1924.</unitdate></unittitle>
+ <note>
+ <p>Clipping is about the death of Frank E. Scobey, 1931. </p>
+ </note>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.4.145" score="1" C-ORDER="215">
+ <did>
+ <container label="Box" type="Box">4</container>
+ <container label="Folder" type="Folder">1</container>
+ <unittitle>Affidavit of Mrs. Marietta Tonnesen, <unitdate calendar="gregorian" era="ce">November 16, 1926.</unitdate></unittitle>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.4.146" score="1" C-ORDER="216">
+ <did>
+ <container label="Box" type="Box">4</container>
+ <container label="Folder" type="Folder">2</container>
+ <unittitle>Affidavit of Helen J. Evans and statement by Nan Britton, <unitdate calendar="gregorian" era="ce">October 22, 1919; October 27, 1926.</unitdate></unittitle>
+ <note>
+ <p>Helen J. Evans was nurse to Nan Britton when Elizabeth Ann was born. </p>
+ </note>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.4.147" score="1" C-ORDER="217">
+ <did>
+ <container label="Box" type="Box">4</container>
+ <container label="Folder" type="Folder">3</container>
+ <unittitle>Letter from Nan Britton to Judge Louis B. McNeal and copy of Warren Harding's last 
+will and testament, <unitdate calendar="gregorian" era="ce">January 5, 7, 9, 1928.</unitdate></unittitle>
+ <note>
+ <p>Nan Britton's note: Figures on attached legal-size yellow paper must be those of my 
+attorney, Mr. Kelley. </p>
+ </note>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.4.148" score="1" C-ORDER="218">
+ <did>
+ <container label="Box" type="Box">4</container>
+ <container label="Folders" type="Folder">4-16</container>
+ <unittitle>Adverse and semi-adverse reviews and comments, some humorous, on <title linktype="simple">The President's Daughter</title>. <unitdate calendar="gregorian" era="ce">1927-1928.</unitdate></unittitle>
+ <note>
+ <p>13 folders. Clippings and preservation photocopies. Duplicates. </p>
+ </note>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.4.149" score="1" C-ORDER="219">
+ <did>
+ <container label="Box" type="Box">4</container>
+ <container label="Folders" type="Folder">17-18</container>
+ <unittitle>Favorable and semi-favorable reviews and comments on <title linktype="simple">The President's Daughter</title>, <unitdate calendar="gregorian" era="ce">1927-1928.</unitdate></unittitle>
+ <note>
+ <p>2 folders. Clippings and preservation photocopies. </p>
+ </note>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.4.150" score="1" C-ORDER="220">
+ <did>
+ <container label="Box" type="Box">4</container>
+ <container label="Folder" type="Folder">19</container>
+ <unittitle>Establishment of paternity avoided in Toledo trial (Nan Britton vs. Charles A. 
+Klunk), <unitdate calendar="gregorian" era="ce">1931.</unitdate></unittitle>
+ <note>
+ <p>Clippings and preservation photocopies. </p>
+ </note>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.4.151" score="1" C-ORDER="221">
+ <did>
+ <container label="Box" type="Box">4</container>
+ <container label="Folder" type="Folder">20</container>
+ <unittitle>Notices <emph render="italic">re</emph> personal appearance and talk at 55th St. Theatre (with showing of motion
+ picture Children of No Importance]. <unitdate calendar="gregorian" era="ce">1928.</unitdate></unittitle>
+ <note>
+ <p>Clippings and preservation photocopies. </p>
+ </note>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.4.152" score="1" C-ORDER="222">
+ <did>
+ <container label="Box" type="Box">4</container>
+ <container label="Folders" type="Folder">21-28</container>
+ <unittitle>Notices of bestsellers which included <title linktype="simple">The President's Daughter</title> - Author  
+daughter in pose (photograph only), <unitdate calendar="gregorian" era="ce">1927-1929.</unitdate></unittitle>
+ <note>
+ <p>8 folders. Clippings and preservation photocopies. </p>
+ </note>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.4.153" score="1" C-ORDER="223">
+ <did>
+ <container label="Box" type="Box">5</container>
+ <container label="Folder" type="Folder">1</container>
+ <unittitle>Material <emph render="italic">re</emph> Nan Britton vs. Charles A. Klunk, <unitdate calendar="gregorian" era="ce">1928-1931.</unitdate></unittitle>
+ <note>
+ <p>Folder 1 of 7. Clippings and preservation copies. Includes letters from Nan 
+Britton to the <emph render="italic">St. Louis Post Dispatch</emph>, August 6, 1928 and to the <emph render="italic">Buffalo Times</emph>, August 7, 1928. </p>
+ </note>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.4.154" score="1" C-ORDER="224">
+ <did>
+ <container label="Box" type="Box">5</container>
+ <container label="Folders" type="Folder">2-7</container>
+ <unittitle>Material <emph render="italic">re</emph> Nan Britton vs. Charles A. Klunk, <unitdate calendar="gregorian" era="ce">1928-1931.</unitdate></unittitle>
+ <note>
+ <p>Folders 2 through 7 of 7. Clippings and preservation photocopies. </p>
+ </note>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.4.155" score="1" C-ORDER="225">
+ <did>
+ <container label="Box" type="Box">5</container>
+ <container label="Folders" type="Folder">8-16</container>
+ <unittitle>Publicity acquired by Judge Grant E. Mouser, <unitdate calendar="gregorian" era="ce">1927-1928.</unitdate></unittitle>
+ <note>
+ <p>9 folders. Clippings and preservation photocopies. </p>
+ </note>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.4.156" score="1" C-ORDER="226">
+ <did>
+ <container label="Box" type="Box">5</container>
+ <container label="Folder" type="Folder">17</container>
+ <unittitle>Reviews of A Dead President Makes Answer, <unitdate calendar="gregorian" era="ce">1928.</unitdate></unittitle>
+ <note>
+ <p>Clippings and preservation photocopies. </p>
+ </note>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.4.157" score="1" C-ORDER="227">
+ <did>
+ <container label="Box" type="Box">5</container>
+ <container label="Folders" type="Folder">18-21</container>
+ <unittitle>Correspondence <emph render="italic">re</emph> Wightman suit, including copy of statement by Richard Wightman, <unitdate calendar="gregorian" era="ce">1927-1928.</unitdate></unittitle>
+ <physdesc>  4 folders. </physdesc>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.4.158" score="1" C-ORDER="228">
+ <did>
+ <container label="Box" type="Box">6</container>
+ <container label="Folders" type="Folder">1-4</container>
+ <unittitle>Material relating to Warren G. Harding's inauguration and death, <unitdate calendar="gregorian" era="ce">1921-1930.</unitdate></unittitle>
+ <note>
+ <p>4 folders. Clippings and preservation photocopies. </p>
+ </note>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.4.159" score="1" C-ORDER="229">
+ <did>
+ <container label="Box" type="Box">6</container>
+ <container label="Folder" type="Folder">5</container>
+ <unittitle><title linktype="simple">Marion Daily Star</title>, <unitdate calendar="gregorian" era="ce">July 6, 1920.</unitdate></unittitle>
+ <note>
+ <p>Preservation photocopy. </p>
+ </note>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.4.160" score="1" C-ORDER="230">
+ <did>
+ <container label="Box" type="Box">6</container>
+ <container label="Folder" type="Folder">6</container>
+ <unittitle><title linktype="simple">Marion Daily Star</title>, <unitdate calendar="gregorian" era="ce">July 6, 1920.</unitdate></unittitle>
+ <note>
+ <p>Original issue. </p>
+ </note>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.4.161" score="1" C-ORDER="231">
+ <did>
+ <container label="Box" type="Box">6</container>
+ <container label="Folder" type="Folder">7</container>
+ <unittitle><title linktype="simple">Marion Daily Star</title>, <unitdate calendar="gregorian" era="ce">July 22, 1920.</unitdate></unittitle>
+ <note>
+ <p>Preservation photocopy. </p>
+ </note>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.4.162" score="1" C-ORDER="232">
+ <did>
+ <container label="Box" type="Box">6</container>
+ <container label="Folder" type="Folder">8</container>
+ <unittitle><title linktype="simple">Marion Daily Star</title>, <unitdate calendar="gregorian" era="ce">July 22, 1920.</unitdate></unittitle>
+ <note>
+ <p>Original issue. </p>
+ </note>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.4.163" score="1" C-ORDER="233">
+ <did>
+ <container label="Box" type="Box">6</container>
+ <container label="Folder" type="Folder">9</container>
+ <unittitle><title linktype="simple">New York Herald Tribune</title>, <unitdate calendar="gregorian" era="ce">February 15, 1931.</unitdate></unittitle>
+ <note>
+ <p>Preservation photocopy. </p>
+ </note>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.4.164" score="1" C-ORDER="234">
+ <did>
+ <container label="Box" type="Box">6</container>
+ <container label="Folder" type="Folder">10</container>
+ <unittitle><title linktype="simple">New York Herald Tribune</title>, <unitdate calendar="gregorian" era="ce">February 15, 1931.</unitdate></unittitle>
+ <note>
+ <p>Original issue. </p>
+ </note>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.4.165" score="1" C-ORDER="235">
+ <did>
+ <container label="Box" type="Box">6</container>
+ <container label="Folder" type="Folder">11</container>
+ <unittitle><title linktype="simple">Standard Star</title>, New Rochelle, <unitdate calendar="gregorian" era="ce">November 21, 1931.</unitdate></unittitle>
+ <note>
+ <p>Preservation photocoopy. </p>
+ </note>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.4.166" score="1" C-ORDER="236">
+ <did>
+ <container label="Box" type="Box">6</container>
+ <container label="Folder" type="Folder">12</container>
+ <unittitle><title linktype="simple">Standard Star</title>, New Rochelle, <unitdate calendar="gregorian" era="ce">November 21, 1931.</unitdate></unittitle>
+ <note>
+ <p>Original issue. </p>
+ </note>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.4.167" score="1" C-ORDER="237">
+ <did>
+ <container label="Box" type="Box">6</container>
+ <container label="Folder" type="Folder">13</container>
+ <unittitle><title linktype="simple">Review of Reviews</title>, <unitdate calendar="gregorian" era="ce">September 1923.</unitdate></unittitle>
+ <note>
+ <p>Containing Harding, Man and President by Judson C. Welliver. </p>
+ </note>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.4.168" score="1" C-ORDER="238">
+ <did>
+ <container label="Box" type="Box">6</container>
+ <container label="Folder" type="Folder">13</container>
+ <unittitle><title linktype="simple">Beautiful Ohio</title>, vol.2 no.3, <unitdate calendar="gregorian" era="ce">1960.</unitdate></unittitle>
+ <note>
+ <p><emph render="italic">re</emph> Marion, Ohio. </p>
+ </note>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.4.169" score="1" C-ORDER="239">
+ <did>
+ <container label="Box" type="Box">6</container>
+ <container label="Folder" type="Folder">13</container>
+ <unittitle><title linktype="simple">The Bystander</title>, no.1396 vol.107, <unitdate calendar="gregorian" era="ce">September 17, 1930.</unitdate></unittitle>
+ <note>
+ <p><emph render="italic">re</emph><title linktype="simple">The President's Daughter</title>. </p>
+ </note>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.4.170" score="1" C-ORDER="240">
+ <did>
+ <container label="Box" type="Box">6</container>
+ <container label="Folder" type="Folder">13</container>
+ <unittitle><title linktype="simple">Nation-Wide Review</title>, <unitdate calendar="gregorian" era="ce"> December 1927.</unitdate></unittitle>
+ <note>
+ <p><emph render="italic">re</emph> Nan Britton. </p>
+ </note>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.4.171" score="1" C-ORDER="241">
+ <did>
+ <container label="Box" type="Box">6</container>
+ <container label="Folder" type="Folder">14</container>
+ <unittitle><title linktype="simple">The New Yorker</title>, <unitdate calendar="gregorian" era="ce">October 22, 1927.</unitdate></unittitle>
+ <note>
+ <p>See pp.14 and 102. </p>
+ </note>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.4.172" score="1" C-ORDER="242">
+ <did>
+ <container label="Box" type="Box">6</container>
+ <container label="Folder" type="Folder">14</container>
+ <unittitle><title linktype="simple">Confidential Love Secrets</title>, <unitdate calendar="gregorian" era="ce">January-February 1956.</unitdate></unittitle>
+ <note>
+ <p><emph render="italic">re</emph> President Harding's Tragic Love Affair by Kit Carroll. </p>
+ </note>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.4.173" score="1" C-ORDER="243">
+ <did>
+ <container label="Box" type="Box">6</container>
+ <container label="Folder" type="Folder">14</container>
+ <unittitle><title linktype="simple">The Junior League Magazine</title>, <unitdate calendar="gregorian" era="ce">October 1927.</unitdate></unittitle>
+ <note>
+ <p><emph render="italic">re</emph><emph render="italic">The President's Daughter</emph>. </p>
+ </note>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.4.174" score="1" C-ORDER="244">
+ <did>
+ <container label="Box" type="Box">6</container>
+ <container label="Folder" type="Folder">14</container>
+ <unittitle><title linktype="simple">Haldeman-Julius Monthly</title>, <unitdate calendar="gregorian" era="ce">June 1928.</unitdate></unittitle>
+ <note>
+ <p>Interview with Nan Britton and Elizabeth Ann Harding. </p>
+ </note>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.4.175" score="1" C-ORDER="245">
+ <did>
+ <container label="Box" type="Box">6</container>
+ <container label="Folder" type="Folder">14</container>
+ <unittitle><title linktype="simple">The New Republic</title>, <unitdate calendar="gregorian" era="ce">September 28, 1927.</unitdate></unittitle>
+ <note>
+ <p>Review of <emph render="italic">The President's Daughter</emph>. </p>
+ </note>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.4.176" score="1" C-ORDER="246">
+ <did>
+ <container label="Box" type="Box">6</container>
+ <container label="Folders" type="Folder">15-17</container>
+ <unittitle>Newspaper articles relating to the dedication of the Harding Memorial, <unitdate calendar="gregorian" era="ce">1931.</unitdate></unittitle>
+ <note>
+ <p>3 folders. Clippings and preservation photocopies. </p>
+ </note>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.4.177" score="1" C-ORDER="247">
+ <did>
+ <container label="Box" type="Box">6</container>
+ <container label="Folder" type="Folder">18</container>
+ <unittitle>Material <emph render="italic">re</emph> Charles Forbes after his release from Leavenworth penitentiary, <unitdate calendar="gregorian" era="ce">1927.</unitdate></unittitle>
+ <note>
+ <p>Clippings and preservation photocopies. </p>
+ </note>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.4.178" score="1" C-ORDER="248">
+ <did>
+ <container label="Box" type="Box">6</container>
+ <container label="Folder" type="Folder">19</container>
+ <unittitle>Material <emph render="italic">re</emph> John S. Sumner raid to seize printing plates for <title linktype="simple">The President's Daughter</title>, <unitdate calendar="gregorian" era="ce">1927.</unitdate></unittitle>
+ <note>
+ <p>Clippings and preservation photocopies. </p>
+ </note>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.4.179" score="1" C-ORDER="249">
+ <did>
+ <container label="Box" type="Box">6</container>
+ <container label="Folder" type="Folder">20</container>
+ <unittitle>Material <emph render="italic">re</emph> U.S. Post Office and Department of Justice Investigations into Elizabeth Ann League, <unitdate calendar="gregorian" era="ce">1927.</unitdate></unittitle>
+ <note>
+ <p>Clippings and preservation photocopies. </p>
+ </note>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.4.180" score="1" C-ORDER="250">
+ <did>
+ <container label="Box" type="Box">6</container>
+ <container label="Folder" type="Folder">21</container>
+ <unittitle>Material <emph render="italic">re</emph> proposed libel bill and Nan Britton's position, <unitdate calendar="gregorian" era="ce">1927-1928.</unitdate></unittitle>
+ <note>
+ <p>Clippings and preservation photocopies. </p>
+ </note>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.4.181" score="1" C-ORDER="251">
+ <did>
+ <container label="Box" type="Box">6</container>
+ <container label="Folder" type="Folder">22</container>
+ <unittitle>Material <emph render="italic">re</emph> Representative John N. Tillman's characterization of <title linktype="simple">The President's Daughter</title> before Congress, <unitdate calendar="gregorian" era="ce">1928.</unitdate></unittitle>
+ <note>
+ <p>Clippings and preservation copies. </p>
+ </note>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.4.182" score="1" C-ORDER="252">
+ <did>
+ <container label="Box" type="Box">7</container>
+ <container label="Folders" type="Folder">1-4</container>
+ <unittitle><title linktype="simple">Marion Daily Star</title>, <unitdate calendar="gregorian" era="ce">July 5, 1922.</unitdate></unittitle>
+ <note>
+ <p>4 folders. Centennial issue. Box 7 is an oversize flat box, 15  19. </p>
+ </note>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.4.183" score="1" C-ORDER="253">
+ <did>
+ <container label="Box" type="Box">7</container>
+ <container label="Folders" type="Folder">5-6</container>
+ <unittitle>Various newspapers regarding the death of President Harding, <unitdate calendar="gregorian" era="ce">1923.</unitdate></unittitle>
+ <note>
+ <p>2 folders. Clippings and preservation photocopies. </p>
+ </note>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.4.184" score="1" C-ORDER="254">
+ <did>
+ <container label="Box" type="Box">8</container>
+ <container label="Folder" type="Folder">1</container>
+ <unittitle>Material <emph render="italic">re</emph> screen rights to <title linktype="simple">The President's Daughter</title>, <unitdate calendar="gregorian" era="ce">1927-1928.</unitdate></unittitle>
+ <note>
+ <p>Clippings and preservation photocopies. </p>
+ </note>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.4.185" score="1" C-ORDER="255">
+ <did>
+ <container label="Box" type="Box">8</container>
+ <container label="Folder" type="Folder">2</container>
+ <unittitle>Clippings <emph render="italic">re</emph> 3 books about Harding, <unitdate calendar="gregorian" era="ce">1927-1929.</unitdate></unittitle>
+ <note>
+ <p><emph render="italic">The Inside Story of the Harding Tragedy</emph>, by Harry M. Daugherty, <emph render="italic">Revelry</emph>, by Samuel H. 
+Adams, <emph render="italic">The Whispering Gallery</emph>, by an English Ex-Diplomat. With preservation photocopies. </p>
+ </note>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.4.186" score="1" C-ORDER="256">
+ <did>
+ <container label="Box" type="Box">8</container>
+ <container label="Folder" type="Folder">3</container>
+ <unittitle>Humorous (?) clippings <emph render="italic">re</emph><title linktype="simple">The President's Daughter</title>. <unitdate calendar="gregorian" era="ce">1928.</unitdate></unittitle>
+ <note>
+ <p>Clippings and preservation photocopies. </p>
+ </note>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.4.187" score="1" C-ORDER="257">
+ <did>
+ <container label="Box" type="Box">8</container>
+ <container label="Folders" type="Folder">4-6</container>
+ <unittitle>Material <emph render="italic">re</emph><title linktype="simple">The Strange Death of President Harding</title>, by May Dixon Thacker, <unitdate calendar="gregorian" era="ce">1930-1931.</unitdate></unittitle>
+ <note>
+ <p>3 folders. Clippings and preservation photocopies. </p>
+ </note>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.4.188" score="1" C-ORDER="258">
+ <did>
+ <container label="Box" type="Box">8</container>
+ <container label="Folder" type="Folder">7</container>
+ <unittitle>Material <emph render="italic">re</emph> Teapot Dome, <unitdate calendar="gregorian" era="ce">1928, 1964.</unitdate></unittitle>
+ <note>
+ <p>Clippings and preservation photocopies. </p>
+ </note>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.4.189" score="1" C-ORDER="259">
+ <did>
+ <container label="Box" type="Box">8</container>
+ <container label="Folder" type="Folder">8</container>
+ <unittitle>Publicity resulting from the discovery of the Phillips letters. 
+<unitdate calendar="gregorian" era="ce">1931, 1946, 1964.</unitdate></unittitle>
+ <note>
+ <p>Clippings with preservation photocopies. </p>
+ </note>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.4.190" score="1" C-ORDER="260">
+ <did>
+ <container label="Box" type="Box">8</container>
+ <container label="Folders" type="Folder">9-11</container>
+ <unittitle>Reviews and comments on <title linktype="simple">Honesty or Politics</title> by Nan Britton, <unitdate calendar="gregorian" era="ce">1932.</unitdate></unittitle>
+ <note>
+ <p>3 folders. Clippings and preservation photocopies. </p>
+ </note>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.4.191" score="1" C-ORDER="261">
+ <did>
+ <container label="Box" type="Box">8</container>
+ <container label="Folder" type="Folder">12</container>
+ <unittitle>Suits brought against the Elizabeth Ann Guild, <unitdate calendar="gregorian" era="ce">1927.</unitdate></unittitle>
+ <note>
+ <p>Clippings and preservation photocopies. </p>
+ </note>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.4.192" score="1" C-ORDER="262">
+ <did>
+ <container label="Box" type="Box">8</container>
+ <container label="Folders" type="Folder">13-14</container>
+ <unittitle>Miscellaneous clippings <unitdate calendar="gregorian" era="ce">v.d.</unitdate></unittitle>
+ <note>
+ <p>2 folders. With preservation photocopies. </p>
+ </note>
+ </did>
+ </c02>
+ <c02 level="file" id="c02-1.8.5.4.193" score="1" C-ORDER="263">
+ <did>
+ <container label="Box" type="Box">18</container>
+ <container label="Folder" type="Folder">1</container>
+ <unittitle>Nan Britton's Harding scrapbook <unitdate calendar="gregorian" era="ce">1920-1923.</unitdate></unittitle>
+ <note>
+ <p>With photographs, clippings, campaign literature, campaign buttons. Fragile. Box 18
+ is an oversize flat box, 15.5  19.5. </p>
+ </note>
+ </did>
+ </c02>
+ </c01>
+ </dsc>
+ </archdesc>
+</ead>

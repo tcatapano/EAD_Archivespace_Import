@@ -1,0 +1,404 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "../ead_dtd/ead.dtd" [
+<!ENTITY scrc_name SYSTEM "scrc_name.txt">
+<!ENTITY su_address SYSTEM "su_address.txt">
+<!ENTITY su_name SYSTEM "su_name.txt">
+<!ENTITY subjindex SYSTEM "subjindex.txt">
+<!ENTITY summitref SYSTEM "summit_ref.txt">
+]>
+
+<!-- TEMPLATE VERSION 1.11, 17 Oct 2008-->
+<!--Revised standard blurb for related material -->
+
+<ead relatedencoding="MARC21">
+  <!--All items are required unless marked OPT.  Any optional items 
+not used should be commented out so that they don't appear in the viewable
+ document.-->
+
+<eadheader audience="internal" langencoding="iso639-2b" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924" relatedencoding="DC">
+     <eadid countrycode="US" mainagencycode="NSyU" identifier="mullin_w">mullin_w</eadid>
+     <filedesc>
+        <titlestmt>
+           <titleproper encodinganalog="Title">Willard Mullin Cartoons</titleproper>
+           <subtitle>An  inventory of his cartoons at Syracuse University</subtitle>
+        <author encodinganalog="Creator">--</author></titlestmt>
+        <publicationstmt>
+           <publisher encodinganalog="Publisher"><lb/></publisher>
+            
+           <date normal="1968" encodinganalog="Date">1968</date>
+        </publicationstmt>
+     </filedesc>
+     <profiledesc>
+        <creation>MD
+           <date normal="2008-12-03">3 Dec 2008</date>
+        </creation>
+        <langusage>
+           <language langcode="eng" encodinganalog="Language">English</language>
+        </langusage>
+     </profiledesc>
+     <!--Enter revisions in the format "## date - ## change (## initials)"--><revisiondesc>
+        <list>
+           <item>3 Dec 2008 - converted to EAD (MD)</item><item>3 Mar 2009 - revised (MD)</item><item>2 Jul 2012 - addition M12-071 (MRC)</item>
+        </list>
+     </revisiondesc>
+  </eadheader>
+  <archdesc level="collection" type="inventory" relatedencoding="MARC21">
+     <did>
+        <head>Overview of the Collection</head>
+        <repository encodinganalog="852$a" label="Repository: ">
+         <lb/> 
+        </repository>
+        <origination label="Creator: ">
+           <persname encodinganalog="100">Mullin, Willard, 1902-1978</persname>
+        </origination>
+        <unittitle encodinganalog="245$a" label="Title: ">Willard Mullin Cartoons</unittitle>
+        <unitdate encodinganalog="245$f" normal="1961/1966" type="inclusive" label="Inclusive Dates: ">1961-1966</unitdate>
+           <physdesc encodinganalog="300$a" label="Quantity: "><extent>2.5 linear ft.</extent></physdesc>
+        <abstract encodinganalog="520$a" label="Abstract: ">240 original sports cartoons.</abstract>
+        <unitid encodinganalog="099" label="Identification: " countrycode="US" repositorycode="NSyU">2651144</unitid>
+        <langmaterial label="Language: " encodinganalog="546">
+           <language langcode="eng">English</language>
+        </langmaterial>
+     </did>
+            
+     <bioghist encodinganalog="545">
+        <head>Biographical History</head>
+         
+     <p>Willard Harlan Mullin (1902-1978) was an American sports cartoonist and illustrator.</p><p>Though born in the mid-west, Willard Mullin spent his formative years in Los Angeles, California, and it was there that he  broke into the newspaper business as a staff artist for the <emph render="italic">Los Angeles Herald</emph> in 1923. In 1934, after brief stints with papers in Ft.
+Worth and San Antonio, Mullin landed with the <emph render="italic">New York World-Telegram and Sun</emph> where he would remain as sports cartoonist for the bulk of his career.
+Mullin was highly influential and is often cited as a major influence on many of the great sports cartoonists of the following generation, including Karl Hubenthal and Gene Basset.  Mullin's career spanned a legendary era in New York sports history, and his images of the great Yankees teams, the Brooklyn Dodgers, the New York Giants and Mets are iconic. Possibly, Mullin's most famous creation was  the "Brooklyn Bum"—a colorful Dodger fanatic who later followed the franchise west—but he was also noted for his "Mets kid" and "St. Louis Swifty" characters, as well as and his skillful renderings of animals and other team mascots. When the <emph render="italic">World-Telegram and Sun</emph> folded in 1966, Mullin continued doing freelance work, publishing sports illustrations and cartoons in <emph render="italic">The Sporting News</emph>, the <emph render="italic">Saturday Evening Post</emph>and <emph render="italic">Life</emph>, among many others.
+Willard Mullin received the National Cartoonist Society's prestigious Reuben Award in 1954 and the NCS award for Sports Cartoons eight times (1957-1962, 1964, 1965).
+In 1971, the NCS named him "Sports Cartoonist of the Century".</p></bioghist>
+      
+     <scopecontent encodinganalog="520">
+        <head>Scope and Contents of the Collection</head>
+        <p>The <emph render="bold">Willard Mullin Cartoons</emph> collection contains 240 original sports cartoons from the early to mid 1960s. Most of the cartoons deal with New York sports topics including Yankees baseball, Giants and Jets football, the Mets, Madison Square Garden events  and horse racing. There are a substantial number of cartoons dealing with boxing, especially the Cassius Clay/Sonny Liston fights of 1964 and 1965. The many New York Yankees cartoons in the collection are particularly representative of the team's 1964 campaign with Yogi Berra as manager, usually noted as the end of the great Yankees dynasty. There are many appearances of the Brooklyn Bum, the Mets kid, the St. Louis Swifty, and many other stock characters and animal mascots.</p><p> As the cartoons are not specifically dated, dates listed in inventory are derived from context. Original cartoon: traces of graphite, crayon, zipatone, brush, pen and ink on illustration board, approx. 15 x 22 in.</p>
+     </scopecontent>
+      
+     <arrangement encodinganalog="351$a">
+        <head>Arrangement of the Collection</head>
+        <p>Cartoons are  arranged by sport and sorted in alphabetical order by title (or prominent caption, if untitled).</p>
+     </arrangement>
+      
+     <relatedmaterial encodinganalog="544 1">
+        <head>Related Material</head>
+        <p> has collections of over one hundred cartoonists.  Please refer to  for a complete listing.</p>
+     </relatedmaterial>
+      
+     <!--Use archref, not extref, to link to related collections.--><!--<separatedmaterial encodinganalog="544 0">
+        <head>Separated Material</head>
+        <p>## OPT (MARC 544 0)</p>
+     </separatedmaterial>-->
+      
+     <!--<otherfindaid encodinganalog="555">
+        <head>Other Related Finding Aids</head>
+        <p>## OPT (MARC 555)</p>
+     </otherfindaid>-->
+      
+     <controlaccess>
+        <head>Subject and Genre Headings</head>
+        <!--For each, include source if possible (aat, lcsh, local, etc). Some have 
+defaults set in the template.-->
+        <persname encodinganalog="600" source="lcnaf">Mullin, Willard, 1902-1978.</persname>
+         
+         
+         
+			<title encodinganalog="630" source="lcsh">New York world-telegram and the sun.</title><subject encodinganalog="650" source="local">Art -- Cartoonists.</subject>			
+        <subject encodinganalog="650" source="lcsh">American wit and humor, Pictorial.</subject><subject encodinganalog="650" source="lcsh">Caricatures and cartoons -- 
+
+United States.</subject><subject encodinganalog="650" source="lcsh">Cartoonists -- United States.</subject><subject encodinganalog="650" source="lcsh">New York Yankees (Baseball team) -- History -- Pictorial works.</subject><subject encodinganalog="650" source="lcsh">Sports -- Caricatures and cartoons.</subject>
+        <geogname encodinganalog="651" source="lcsh">United States -- Caricatures and cartoons.</geogname>
+        <genreform encodinganalog="655" source="aat">Cartoons (humorous images)
+</genreform>
+        <occupation encodinganalog="656" source="lcsh">Cartoonists.</occupation>
+        </controlaccess>
+      
+     <accessrestrict encodinganalog="506">
+        <head>Access Restrictions</head>
+        <p>There are no access restrictions on this material.</p>
+     </accessrestrict>
+      
+     <userestrict encodinganalog="540">
+        <head>Use Restrictions</head>
+        <p>Written permission must be obtained from SCRC and 
+all relevant rights holders before publishing quotations, excerpts or images from any 
+materials in this collection.</p>
+     </userestrict>
+      
+     <prefercite encodinganalog="524">
+        <head>Preferred Citation</head>
+        <p>Preferred citation for this material is as follows:</p>
+        <p> Willard Mullin Cartoons,<lb/> </p>
+     </prefercite>
+      
+     <acqinfo encodinganalog="541">
+        <head>Acquisition Information</head>
+        <p>M12-071 ("...And with three straight Giants losses..."), purchase, 2012.</p>
+     </acqinfo>
+      
+     <!--<appraisal encodinganalog="583">
+        <head>Appraisal Information</head>
+        <p>## OPT (MARC 583)</p>
+     </appraisal>-->
+      
+     <!--<accruals encodinganalog="584">
+        <head>Accruals</head>
+        <p>## OPT (MARC 584)</p>
+     </accruals>-->
+      
+     <dsc type="combined">
+        <head>Inventory</head>
+        <note><p><emph render="italic">*text in brackets taken from prominent caption.</emph></p></note><!--C01 @LEVEL must be set to 'series' to show up in TOC.-->
+        <c01 level="series"><did><unittitle>Baseball cartoons</unittitle><physdesc><extent>84</extent></physdesc></did>               
+<c02><did><unittitle><emph render="doublequote">Advice From The Lovelorn</emph></unittitle><unitdate normal=" 1961/1966 " type="inclusive">1961-1966</unitdate><abstract>key words: Mets, Casey Stengel, Mets kid, Mets fans</abstract><container type="Box">1</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">[A.L. Pitching Averages…]</emph></unittitle><unitdate normal=" 1961/1966 " type="inclusive">1961-1966</unitdate><abstract>key words: Yankees, Twins</abstract><container type="Box">1</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">All The Answers</emph></unittitle><unitdate normal=" 1961/1966 " type="inclusive">1961-1966</unitdate><abstract>key words: Yankees, George Weiss</abstract><container type="Box">1</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">Allegro</emph></unittitle><unitdate normal=" 1961/1966 " type="inclusive">1961-1966</unitdate><abstract>key words: Mets, Phillies, Mets kid</abstract><container type="Box">1</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">Among The Missing</emph></unittitle><unitdate normal=" 1966 " type="inclusive">1966</unitdate><abstract>key words: Yankees, Red Sox, Mickey Mantle</abstract><container type="Box">1</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">Anchors Aweigh</emph></unittitle><unitdate normal=" 1965 " type="inclusive">1965</unitdate><abstract>key words: Yankees, White Sox</abstract><container type="Box">1</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">…And So To Baltimore</emph></unittitle><unitdate normal=" 1966 " type="inclusive">1966</unitdate><abstract>key words: Dodgers, Orioles, Brooklyn Bum, oriole, 1966 World Series</abstract><container type="Box">1</container></did></c02><c02><did><unittitle><emph render="doublequote">…And With Three Straight Giants Losses...</emph></unittitle><abstract>key words: Giants, New York, barbershop, Sam Maglie</abstract><container type="Box">1</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">The Antidote?</emph></unittitle><unitdate normal=" 1961/1966 " type="inclusive">1961-1966</unitdate><abstract>key words: Yankees, Athletics, Kansas City, "kissing cousin"</abstract><container type="Box">1</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">Balk!</emph></unittitle><unitdate normal=" 1961/1966 " type="inclusive">1961-1966</unitdate><abstract>key words: Ford Frick, umpires, balk rule, Warren Giles, National League</abstract><container type="Box">1</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">The Best Team I Ever Had'</emph></unittitle><unitdate normal=" 1965 " type="inclusive">1965</unitdate><abstract>key words: Yankees, Johnny Keane, Cardinals, St. Louis Swifty, 1965 season</abstract><container type="Box">1</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">Betsy Ross; Circa 1964</emph></unittitle><unitdate normal=" 1964 " type="inclusive">1964</unitdate><abstract>key words: Yankees, Yogi Berra, Ralph Hauk, 1964 season</abstract><container type="Box">1</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">Big Boy Now</emph></unittitle><unitdate normal=" 1961/1966 " type="inclusive">1961-1966</unitdate><abstract>key words: Phillies, Bob Carpenter</abstract><container type="Box">1</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">[The Big Hearted N.L. Has A New Plan…]</emph></unittitle><unitdate normal=" 1961/1966 " type="inclusive">1961-1966</unitdate><abstract>key words: National League, Warren Giles, labor issues, Mets kid, Colt .45s cowboy, Yankee player</abstract><container type="Box">1</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">Bird Watcher</emph></unittitle><unitdate normal=" 1961/1966 " type="inclusive">1961-1966</unitdate><abstract>key words: Yankees, Orioles, oriole</abstract><container type="Box">1</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">A Bit Warm For A Blanket</emph></unittitle><unitdate normal=" 1961/1966 " type="inclusive">1961-1966</unitdate><abstract>key words: Yankees, White Sox, Red Sox, Orioles, Kansas City Athletics, A.L. 1st division</abstract><container type="Box">1</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">Bombs Away</emph></unittitle><unitdate normal=" 1964 " type="inclusive">1964</unitdate><abstract>key words: Yankees, Yogi Berra, Ralph Hauk, 1964 season</abstract><container type="Box">1</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">[By A Strange Coincidence The Kansas City Athletics…]</emph></unittitle><unitdate normal=" 1961/1966 " type="inclusive">1961-1966</unitdate><abstract>key words: Charles O. Finley, Athletics, Kansas City</abstract><container type="Box">1</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">Cinderella….</emph></unittitle><unitdate normal=" 1961/1966 " type="inclusive">1961-1966</unitdate><abstract>key words: Mets, Wes Westrum, Dick Stuart, Marv Throneberry, Mets kid</abstract><container type="Box">1</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">The Compact Job</emph></unittitle><unitdate normal=" 1964 " type="inclusive">1964</unitdate><abstract>key words: Yankees, Yogi Berra, 1964 season</abstract><container type="Box">1</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">The Company He Keeps</emph></unittitle><unitdate normal=" 1961/1966 " type="inclusive">1961-1966</unitdate><abstract>key words: Mets, Giants, Dodgers, Brooklyn Bum, Mets kid</abstract><container type="Box">1</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">Easter Egg Hunt</emph></unittitle><unitdate normal=" 1961/1966 " type="inclusive">1961-1966</unitdate><abstract>key words: Al Lopez, White Sox, Yankees</abstract><container type="Box">1</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">Enter The Patsy</emph></unittitle><unitdate normal=" 1961/1966 " type="inclusive">1961-1966</unitdate><abstract>key words: Mets, Giants, Mets kid</abstract><container type="Box">1</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">Even Split</emph></unittitle><unitdate normal="1964" type="inclusive">1964</unitdate><abstract>key words: Yankees, Cardinals, St. Louis Swifty, 1964 World Series</abstract><container type="Box">1</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">Flagpole?</emph></unittitle><unitdate normal=" 1961/1966 " type="inclusive">1961-1966</unitdate><abstract>key words: Frank Robinson, Orioles</abstract><container type="Box">1</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">Gilled!</emph></unittitle><unitdate normal=" 1961/1966 " type="inclusive">1961-1966</unitdate><abstract>key words: Gil Hodges, Senators, Yankees</abstract><container type="Box">1</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">Goin' My Way?</emph></unittitle><unitdate normal=" 1964 " type="inclusive">1964</unitdate><abstract>key words: Yankees, Mets, Mets kid, spring training</abstract><container type="Box">1</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">Good Enough Ain't Enough</emph></unittitle><unitdate normal=" 1961/1966 " type="inclusive">1961-1966</unitdate><abstract>key words: Mets, Pirates, Don Cardwell, Mets kid, pirate, "5 errors"</abstract><container type="Box">1</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">Hold That Tiger</emph></unittitle><unitdate normal=" 1963 " type="inclusive">1963</unitdate><abstract>key words: Yankees, Tigers, tiger</abstract><container type="Box">1</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">Home Is The Hero</emph></unittitle><unitdate normal=" 1964 " type="inclusive">1964</unitdate><abstract>key words: Yankees, cab ride</abstract><container type="Box">1</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">Home Coming</emph></unittitle><unitdate normal=" 1965 " type="inclusive">1965</unitdate><abstract>key words: Yankees, Johnny Keane, Twins</abstract><container type="Box">1</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">The Homefires</emph></unittitle><unitdate normal=" 1961/1966 " type="inclusive">1961-1966</unitdate><abstract>key words: Mets fans, radio</abstract><container type="Box">1</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">How-Do, Again…</emph></unittitle><unitdate normal=" 1965 " type="inclusive">1965</unitdate><abstract>key words: Dodgers, Twins, Brooklyn Bum, Willard Mullin, 1965 World Series </abstract><container type="Box">1</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">[It Would Be Our Guess That Old Adage…]</emph></unittitle><unitdate normal=" 1961/1966 " type="inclusive">1961-1966</unitdate><abstract>key words: American League playoff picture</abstract><container type="Box">1</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">Jingle Bells</emph></unittitle><unitdate normal=" 1961/1966 " type="inclusive">1961-1966</unitdate><abstract>key words: Yankees, Twins, snowball</abstract><container type="Box">1</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">Manna From Heaven</emph></unittitle><unitdate normal=" 1961/1966 " type="inclusive">1961-1966</unitdate><abstract>key words: Fred Reichardt, Angels, Yankees</abstract><container type="Box">1</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">[The Mets Went Into The Pirates' Den…]</emph></unittitle><unitdate normal=" 1961/1966 " type="inclusive">1961-1966</unitdate><abstract>key words: Mets, Pirates, Mets kid, pirate</abstract><container type="Box">1</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">[The Mets Will Never Forget Their Finest Hour…]</emph></unittitle><unitdate normal=" 1961/1966 " type="inclusive">1961-1966</unitdate><abstract>key words: Billy Williams, Mets, Cubs, Mets kid</abstract><container type="Box">1</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">Monkey Business</emph></unittitle><unitdate normal=" 1961/1966 " type="inclusive">1961-1966</unitdate><abstract>key words: Dodgers, Brooklyn Bum, Walter O'Malley, Walt Alston, Buzz Bavasi, Charlie Dressen, Leo Durocher</abstract><container type="Box">1</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">Nail Everything Down!</emph></unittitle><unitdate normal=" 1961/1966 " type="inclusive">1961-1966</unitdate><abstract>key words: Mets, Braves, Native American figure, Mets kid</abstract><container type="Box">1</container></did></c02><c02><did><unittitle><emph render="doublequote">The 'New Breed'?</emph></unittitle><unitdate normal=" 1961/1966 " type="inclusive">1961-1966</unitdate><abstract>key words: Mets, Braves, Native American figure, Mets kid, "Boston-Milwaukee-Atlanta-wither-so-ever Braves"</abstract><container type="Box">1</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">Next Course!</emph></unittitle><unitdate normal=" 1966 " type="inclusive">1966</unitdate><abstract>key words: Mets, Reds, Opening Day 1966</abstract><container type="Box">1</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">Non-Objective Painting</emph></unittitle><unitdate normal=" 1961/1966 " type="inclusive">1961-1966</unitdate><abstract>key words: Charles O. Finley, Athletics, Kansas City, American League</abstract><container type="Box">1</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">Not His Dish</emph></unittitle><unitdate normal=" 1961/1966 " type="inclusive">1961-1966</unitdate><abstract>key words: Yankees, spring training, Grapefruit League</abstract><container type="Box">1</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">[Now Is The Time For The General Managers…]</emph></unittitle><unitdate normal=" 1961/1966 " type="inclusive">1961-1966</unitdate><abstract>key words: N.L. and A.L. presidents</abstract><container type="Box">1</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">Off And Running…But Not Very Fast…</emph></unittitle><unitdate normal=" 1966 " type="inclusive">1966</unitdate><abstract>key words: Mets, Reds, Yankees, Tigers, Mets kid, tiger, Opening Day 1966</abstract><container type="Box">1</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">Oh, Say Can You See</emph></unittitle><unitdate normal=" 1961/1966 " type="inclusive">1961-1966</unitdate><abstract>key words: Yankees, Mets, Mets kid</abstract><container type="Box">1</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">Ole!</emph></unittitle><unitdate normal=" 1961/1966 " type="inclusive">1961-1966</unitdate><abstract>key words: Yankees, White Sox, wild bull</abstract><container type="Box">1</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">On The Beam…</emph></unittitle><unitdate normal=" 1965 " type="inclusive">1965</unitdate><abstract>key words: Dodgers, Brooklyn Bum, 1965 World Series</abstract><container type="Box">1</container></did></c02>
+
+<c02><did><unittitle><emph render="doublequote">Onward And Upward</emph></unittitle><unitdate normal=" 1965 " type="inclusive">1965</unitdate><abstract>key words: Yankees, Angels, angel</abstract><container type="Box">1</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">[Orioles 4 …]</emph></unittitle><unitdate normal=" 1961/1966 " type="inclusive">1961-1966</unitdate><abstract>key words: Yankee players looking up at A.L. results on scoreboard</abstract><container type="Box">1</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">[Our Little Guy Must Be Growing Up…]</emph></unittitle><unitdate normal=" 1961/1966 " type="inclusive">1961-1966</unitdate><abstract>key words: Mets, Mets kid, "Miss N.L. pennant"</abstract><container type="Box">1</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">The Pasty Eater</emph></unittitle><unitdate normal=" 1961/1966 " type="inclusive">1961-1966</unitdate><abstract>key words: Phillies, Colt .45s (Houston), Cubs, Mets, Giants, colt, bear cub</abstract><container type="Box">1</container></did></c02><c02><did><unittitle><emph render="doublequote">Play-Mates</emph></unittitle><unitdate normal=" 1961/1966 " type="inclusive">1961-1966</unitdate><abstract>key words: Mets, Astros, Mets kid, Colt .45s cowboy</abstract><container type="Box">1</container></did></c02><c02><did><unittitle><emph render="doublequote">Playmates</emph></unittitle><unitdate normal=" 1961/1966 " type="inclusive">1961-1966</unitdate><abstract>key words: Phillies, Giants, "Carpenter's kids"</abstract><container type="Box">1</container></did></c02>
+
+<c02><did><unittitle><emph render="doublequote">Portrait Of A Self-Satisfied Gent</emph></unittitle><unitdate normal=" 1963 " type="inclusive">1963</unitdate><abstract>key words: Mickey Mantle, Joe Pepitone, All-Star Game</abstract><container type="Box">1</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">Put Out More Flags</emph></unittitle><unitdate normal=" 1961/1966 " type="inclusive">1961-1966</unitdate><abstract>key words: Yankees, Mets, Mets kid</abstract><container type="Box">1</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">Quiz Program</emph></unittitle><unitdate normal=" 1961/1966 " type="inclusive">1961-1966</unitdate><abstract>key words: Alfonso Ramon Lopez, White Sox, Indians, Yankees</abstract><container type="Box">1</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">Recording Secretary</emph></unittitle><unitdate normal=" 1964 " type="inclusive">1964</unitdate><abstract>key words: Jim Bunning, Mets, Phillies, Mets kid</abstract><container type="Box">1</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">Reunion In Cooperstown</emph></unittitle><unitdate normal=" 1966 " type="inclusive">1966</unitdate><abstract>key words: Casey Stengel, Baseball Hall of Fame, Babe Ruth, Ty Cobb, Lou Gehrig, Mel Ott, Walter Johnson</abstract><container type="Box">1</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">A Run On Sox</emph></unittitle><unitdate normal=" 1961/1966 " type="inclusive">1961-1966</unitdate><abstract>key words: Yankees, White Sox</abstract><container type="Box">1</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">Show-Down</emph></unittitle><unitdate normal=" 1961/1966 " type="inclusive">1961-1966</unitdate><abstract>key words: Yankees, Orioles, White Sox</abstract><container type="Box">1</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">[Since The Yankee Season Started…]</emph></unittitle><unitdate normal=" 1961/1966 " type="inclusive">1961-1966</unitdate><abstract>key words: Yankees, rain out</abstract><container type="Box">1</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">Stee-e-rike!</emph></unittitle><unitdate normal=" 1961/1966 " type="inclusive">1961-1966</unitdate><abstract>key words: National League umpires</abstract><container type="Box">1</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">Stormy Weather</emph></unittitle><unitdate normal=" 1966 " type="inclusive">1966</unitdate><abstract>key words: Yankees, Tigers, Mets, Reds, Mets kid, Opening Day 1966</abstract><container type="Box">1</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">[That The Yankees Win By Clobbering The Pretenders…]</emph></unittitle><unitdate normal=" 1964 " type="inclusive">1964</unitdate><abstract>key words: Yankees, Orioles, Yogi Berra, 1964 season</abstract><container type="Box">1</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">There Are Some He'd Like To Skip</emph></unittitle><unitdate normal=" 1961/1966 " type="inclusive">1961-1966</unitdate><abstract>key words: Mets, Mets kid</abstract><container type="Box">1</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">They Went That Way?</emph></unittitle><unitdate normal=" 1961/1966 " type="inclusive">1961-1966</unitdate><abstract>key words: Yankees, 6th place</abstract><container type="Box">1</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">Tim-b-e-r-r-r</emph></unittitle><unitdate normal=" 1961/1966 " type="inclusive">1961-1966</unitdate><abstract>key words: Harmon Killebrew, Twins, Yankees</abstract><container type="Box">1</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">To The Rescue!</emph></unittitle><unitdate normal=" 1964 " type="inclusive">1964</unitdate><abstract>key words: Mets, Phillies, Mets kid, Phillies 1964 collapse</abstract><container type="Box">1</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">The Trophy</emph></unittitle><unitdate normal=" 1966 " type="inclusive">1966</unitdate><abstract>key words: Yankees, Mets, Mets kid, Mayor's Trophy Game 1966, Mayor Robert F. Wagner, Jr.</abstract><container type="Box">1</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">[Two New Boys With Different Problems]</emph></unittitle><unitdate normal=" 1964 " type="inclusive">1964</unitdate><abstract>key words: Yogi Berra, Hank Bauer, Yankees, Orioles, 1964 season</abstract><container type="Box">1</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">Two-Week Vacation</emph></unittitle><unitdate normal=" 1961/1966 " type="inclusive">1961-1966</unitdate><abstract>key words: Yankees, travel agent</abstract><container type="Box">1</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">Up To His Old Tricks</emph></unittitle><unitdate normal=" 1961/1966 " type="inclusive">1961-1966</unitdate><abstract>key words: Mets, Cardinals, Mets kid, St. Louis Swifty</abstract><container type="Box">1</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">Watch The Birdie</emph></unittitle><unitdate normal=" 1961/1966 " type="inclusive">1961-1966</unitdate><abstract>key words: Yankees, Orioles, oriole</abstract><container type="Box">1</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">What Agenda?</emph></unittitle><unitdate normal=" 1961/1966 " type="inclusive">1961-1966</unitdate><abstract>key words: N.L. and A.L. presidents, Joint Major League Baseball Meetings</abstract><container type="Box">1</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">[When The Yankees Left Home  Ten Days Ago…]</emph></unittitle><unitdate normal=" 1964 " type="inclusive">1964</unitdate><abstract>key words: Yankees, Yogi Berra, flying carpet, 1964 season</abstract><container type="Box">1</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">Wins Are Where You Find 'Em</emph></unittitle><unitdate normal=" 1961/1966 " type="inclusive">1961-1966</unitdate><abstract>key words: Yankees, White Sox</abstract><container type="Box">1</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">[With The First All-Star Thing In The Books…]</emph></unittitle><unitdate normal=" 1961/1966 " type="inclusive">1961-1966</unitdate><abstract>key words: Yankees, Angels, angel</abstract><container type="Box">1</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">[The Yankees And Dodgers Have Taken Off…]</emph></unittitle><unitdate normal=" 1961/1966 " type="inclusive">1961-1966</unitdate><abstract>key words: Dodgers, Yankees, Brooklyn Bum</abstract><container type="Box">1</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">[The Yankees Were In First Place When…]</emph></unittitle><unitdate normal=" 1961/1966 " type="inclusive">1961-1966</unitdate><abstract>key words: Yankees, White Sox</abstract><container type="Box">1</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">[Yankees, With a 4 Game Winning String…]</emph></unittitle><unitdate normal=" 1961/1966 " type="inclusive">1961-1966</unitdate><abstract>key words: Yankees, Angels</abstract><container type="Box">1</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">You Can't Prove It In L.A.</emph></unittitle><unitdate normal=" 1961/1966 " type="inclusive">1961-1966</unitdate><abstract>key words: Mets, Cubs, Leo Durocher, bear cub</abstract><container type="Box">1</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">Young Man's Burden</emph></unittitle><unitdate normal=" 1961/1966 " type="inclusive">1961-1966</unitdate><abstract>key words: Bobby Murcer, Yankees</abstract><container type="Box">1</container></did></c02></c01>
+<c01 level="series"><did><unittitle>Basketball cartoons</unittitle><physdesc><extent>4</extent></physdesc></did>
+<c02><did><unittitle><emph render="doublequote">Dan Cupid In Spades</emph></unittitle><unitdate normal=" 1961/1966 " type="inclusive">1961-1966</unitdate><abstract>key words: Knicks, Celtics, Ned Irish</abstract><container type="Box">2</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">Metropolitan Standoff…</emph></unittitle><unitdate normal=" 1961/1966 " type="inclusive">1961-1966</unitdate><abstract>key words: NYU, Fordham, St. Francis, Manhattan, Pa Knickerbocker</abstract><container type="Box">2</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">Neighborhood Rumble</emph></unittitle><unitdate normal=" 1961/1966 " type="inclusive">1961-1966</unitdate><abstract>key words: NYU, Fordham, St. Francis, Manhattan, Pa Knickerbocker</abstract><container type="Box">2</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">Not Enough To Go 'Round</emph></unittitle><unitdate normal=" 1961/1966 " type="inclusive">1961-1966</unitdate><abstract>key words: NIT, NCAA Tournament</abstract><container type="Box">2</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">[Pre-Season Predictions…]</emph></unittitle><unitdate normal=" 1961/1966 " type="inclusive">1961-1966</unitdate><abstract>key words: NYU, Syracuse, Lou Rossini, NIT</abstract><container type="Box">2</container></did></c02>
+</c01>
+<c01 level="series"><did><unittitle>Boxing cartoons</unittitle><physdesc><extent>19</extent></physdesc></did>
+<c02><did><unittitle><emph render="doublequote">As Maine Goes…</emph></unittitle><unitdate normal="1965" type="inclusive">1965</unitdate><abstract>key words: Cassius Clay, Sonny Liston, Lewiston (Maine)</abstract><container type="Box">2</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">Awsk 'Ennery</emph></unittitle><unitdate normal="1964" type="inclusive">1964</unitdate><abstract>key words: Henry Cooper, Cassius Clay, Sonny Liston, Miami</abstract><container type="Box">2</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">[Everyone Within 400 Miles…]</emph></unittitle><unitdate normal="1965" type="inclusive">1965</unitdate><abstract>key words: Cassius Clay, Sonny Liston, Lewiston (Maine), Willard Mullin</abstract><container type="Box">2</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">Feet Of Clay</emph></unittitle><unitdate normal="1961/1966" type="inclusive">1961-1966</unitdate><abstract>key words: Cassius Clay (Muhammad Ali), crumbled statue</abstract><container type="Box">2</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">The Foundling</emph></unittitle><unitdate normal="1965" type="inclusive">1965</unitdate><abstract>key words: Lewiston (Maine), Cassius Clay, Sonny Liston</abstract><container type="Box">2</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">Hands Up!</emph></unittitle><unitdate normal="1966" type="inclusive">1966</unitdate><abstract>key words: Cassius Clay, Ernie Terrell, Houston (Texas)</abstract><container type="Box">2</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">The Hat Trick</emph></unittitle><unitdate normal="1966" type="inclusive">1966</unitdate><abstract>key words: Emile Griffith, Joey Archer, Dick Tiger</abstract><container type="Box">2</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">Hot Air</emph></unittitle><unitdate normal="1964" type="inclusive">1964</unitdate><abstract>key words: Cassius Clay, Sonny Liston, Miami</abstract><container type="Box">2</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">The Kid Brother</emph></unittitle><unitdate normal="1961" type="inclusive">1961</unitdate><abstract>key words: Floyd Patterson, Ingemar Johansson, Raymond Patterson</abstract><container type="Box">2</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">[The Only Thing We Really Don't Know…]</emph></unittitle><unitdate normal="1966" type="inclusive">1966</unitdate><abstract>key words: Cassius Clay, Cleveland Williams, Houston (Texas)</abstract><container type="Box">2</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">Q And A</emph></unittitle><unitdate normal="1965" type="inclusive">1965</unitdate><abstract>key words: Cassius Clay, Sonny Liston, Lewiston (Maine), Willard Mullin</abstract><container type="Box">2</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">[Richard Ihetu Is A Personable Young Man…]</emph></unittitle><unitdate normal="1963" type="inclusive">1963</unitdate><abstract>key words: Dick Tiger (Richard Ihetu), Joey Giardello, tiger</abstract><container type="Box">2</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">Shadow Boxers</emph></unittitle><unitdate normal="1965" type="inclusive">1965</unitdate><abstract>key words: Zora Folley, Oscar Bonavena</abstract><container type="Box">2</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">Situation Normal</emph></unittitle><unitdate normal="1963" type="inclusive">1963</unitdate><abstract>key words: Luis Rodriguez, Skeeter McClure, Knicks, Rangers, Madison Square Garden</abstract><container type="Box">2</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">Sonny Side Of The Street</emph></unittitle><unitdate normal="1963" type="inclusive">1963</unitdate><abstract>key words: Floyd Patterson, Sonny Liston, Cassius Clay, Henry Cooper, Billy Daniels, Doug Jones</abstract><container type="Box">2</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">Target For Tonight</emph></unittitle><unitdate normal="1966" type="inclusive">1966</unitdate><abstract>key words: Joey Archer, Emile Giffith</abstract><container type="Box">2</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">What'll Ya Bet?</emph></unittitle><unitdate normal="1963" type="inclusive">1963</unitdate><abstract>key words: Floyd Patterson, Sonny Liston</abstract><container type="Box">2</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">Who's Fighting Whom?</emph></unittitle><unitdate normal="1964" type="inclusive">1964</unitdate><abstract>key words: Cassius Clay</abstract><container type="Box">2</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">Who's Who</emph></unittitle><unitdate normal="1961/1966" type="inclusive">1961-1966</unitdate><abstract>key words: Willie Pastrano, Joey Giradello, Emile Griffith, Carlos Ortiz, Ultimino Ramos, Eder Jofre, Pone Kingpetch, Willard Mullin</abstract><container type="Box">2</container></did></c02></c01>
+<c01 level="series"><did><unittitle>Football (College) cartoons</unittitle><physdesc><extent>26</extent></physdesc></did>
+<c02><did><unittitle><emph render="doublequote">All For One</emph></unittitle><unitdate normal="1966" type="inclusive">1966</unitdate><abstract>key words: Notre Dame, Michigan State</abstract><container type="Box">2</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">Book Learnin'</emph></unittitle><unitdate normal="1964" type="inclusive">1964</unitdate><abstract>key words: Roger Staubach, Navy, Penn State</abstract><container type="Box">2</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">Bull In The China Shop</emph></unittitle><unitdate normal="1961/1966" type="inclusive">1961-1966</unitdate><abstract>key words: College bowl schedule</abstract><container type="Box">2</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">Cat Expert</emph></unittitle><unitdate normal="1961/1966" type="inclusive">1961-1966</unitdate><abstract>key words: Harvard, Yale, Ivy League</abstract><container type="Box">2</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">The Chosen Few</emph></unittitle><unitdate normal="1963" type="inclusive">1963</unitdate><abstract>key words: Roger Staubach, Dick Butkus, Bob Brown, Scott Appleton, All-America team selections</abstract><container type="Box">2</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">For The "Tie"</emph></unittitle><unitdate normal="1964" type="inclusive">1964</unitdate><abstract>key words: Army, Navy, Roger Staubach, Wayne Hardin</abstract><container type="Box">2</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">Gotham Bowl</emph></unittitle><unitdate normal="1961" type="inclusive">1961</unitdate><abstract>key words: Ron Bull, Merlin Olsen, Utah State, Baylor, Gotham Bowl</abstract><container type="Box">2</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">Imagined…Or For Real?</emph></unittitle><unitdate normal="1963" type="inclusive">1963</unitdate><abstract>key words: Navy, Duke, Roger Staubach, devil, mid-shipmen</abstract><container type="Box">2</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">[The Ivy League This Year…]</emph></unittitle><unitdate normal="1964" type="inclusive">1964</unitdate><abstract>key words: Princeton, Ivy League, tiger</abstract><container type="Box">2</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">The Jolly Roger</emph></unittitle><unitdate normal="1961/1966" type="inclusive">1961-1966</unitdate><abstract>key words: Roger Staubach, Navy, Army</abstract><container type="Box">2</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">Kipling Was Right</emph></unittitle><unitdate normal="1966" type="inclusive">1966</unitdate><abstract>key words: UCLA, Penn State, Syracuse, Pittsburgh</abstract><container type="Box">2</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">Lucullan Fare</emph></unittitle><unitdate normal="1961/1966" type="inclusive">1961-1966</unitdate><abstract>key words: Pro Football Draft</abstract><container type="Box">2</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">The Missing Pieces</emph></unittitle><unitdate normal="1964" type="inclusive">1964</unitdate><abstract>key words: Syracuse, Army, Yankee Stadium, Willard Mullin</abstract><container type="Box">2</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">[Oh, Sure We Know…]</emph></unittitle><unitdate normal="1963" type="inclusive">1963</unitdate><abstract>key words: West Virginia, Pittsburgh, mountaineer, panther</abstract><container type="Box">2</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">The Old Army Game</emph></unittitle><unitdate normal="1966" type="inclusive">1966</unitdate><abstract>key words: Army, Navy, Willard Mullin</abstract><container type="Box">2</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">[The Only Common Opponent…]</emph></unittitle><unitdate normal="1963" type="inclusive">1963</unitdate><abstract>key words: Pittsburgh, Army, panther</abstract><container type="Box">2</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">Operation Fountain Pen</emph></unittitle><unitdate normal="1961/1966" type="inclusive">1961-1966</unitdate><abstract>key words: College stars, NBC, CBS, Pro Football Draft</abstract><container type="Box">2</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">Pall Over Pasadena</emph></unittitle><unitdate normal="1966" type="inclusive">1966</unitdate><abstract>key words: Notre Dame, Purdue, USC, Rose Bowl</abstract><container type="Box">2</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">Peregrine V. Pedestrian</emph></unittitle><unitdate normal="1961/1966" type="inclusive">1961-1966</unitdate><abstract>key words: Army, Air Force, falcon</abstract><container type="Box">2</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">Private Fight</emph></unittitle><unitdate normal="1963" type="inclusive">1963</unitdate><abstract>key words: Illinois, Big Ten</abstract><container type="Box">2</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">Re-Run</emph></unittitle><unitdate normal="1964" type="inclusive">1964</unitdate><abstract>key words: Roger Staubach, Carl Stichweh, North-South Game</abstract><container type="Box">2</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">R.I.P.</emph></unittitle><unitdate normal="1965" type="inclusive">1965</unitdate><abstract>key words: Army, Paul Dietzel, free substitution rule</abstract><container type="Box">2</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">[Saturday You Can Tune In…]</emph></unittitle><unitdate normal="1964" type="inclusive">1964</unitdate><abstract>key words: Utah, West Virginia, Liberty Bowl</abstract><container type="Box">2</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">Stone-Age Bunyan</emph></unittitle><unitdate normal="1965" type="inclusive">1965</unitdate><abstract>key words: WAC, two platoon football, free substitution</abstract><container type="Box">2</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">Swing It</emph></unittitle><unitdate normal="1963" type="inclusive">1963</unitdate><abstract>key words: Army, Navy, Cotton Bowl</abstract><container type="Box">2</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">The Vision Of Early Fall</emph></unittitle><unitdate normal="1963" type="inclusive">1963</unitdate><abstract>key words: College All-Star Game</abstract><container type="Box">2</container></did></c02></c01>
+<c01 level="series"><did><unittitle>Football (Pro) cartoons</unittitle><physdesc><extent>36</extent></physdesc></did>
+<c02><did><unittitle><emph render="doublequote">Added Starters</emph></unittitle><unitdate normal="1966" type="inclusive">1966</unitdate><abstract>key words: Cardinals, Bears, Halloween</abstract><container type="Box">2</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">All Right! All Right!</emph></unittitle><unitdate normal="1961/1966" type="inclusive">1961-1966</unitdate><abstract>key words: Giants, Cardinals, Jets</abstract><container type="Box">2</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">Animal Husbandry</emph></unittitle><unitdate normal="1963" type="inclusive">1963</unitdate><abstract>key words: Giants, Packers, Bears, Lions, Colts, bear, lion, colt</abstract><container type="Box">2</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">Ashes To Ashes…</emph></unittitle><unitdate normal="1964" type="inclusive">1964</unitdate><abstract>key words: Giants, Browns</abstract><container type="Box">2</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">Bone Of Contention</emph></unittitle><unitdate normal="1964" type="inclusive">1964</unitdate><abstract>key words: Giants, Steelers</abstract><container type="Box">2</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">A Day With The Patsies</emph></unittitle><unitdate normal="1966" type="inclusive">1966</unitdate><abstract>key words: Giants, Jets</abstract><container type="Box">2</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">Don't Ask</emph></unittitle><unitdate normal="1966" type="inclusive">1966</unitdate><abstract>key words: Giants, Cardinals</abstract><container type="Box">2</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">Double Feature</emph></unittitle><unitdate normal="1965" type="inclusive">1965</unitdate><abstract>key words: Giants, Jets, Cowboys, Bills, gun fighter, Buffalo Bill</abstract><container type="Box">2</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">Enter Pro-Football</emph></unittitle><unitdate normal="1964" type="inclusive">1964</unitdate><abstract>key words: Giants, Jets, Eagles, Mets kid</abstract><container type="Box">2</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">Fall Speed Ahead</emph></unittitle><unitdate normal="1961/1966" type="inclusive">1961-1966</unitdate><abstract>key words: Giants, training camp</abstract><container type="Box">2</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">Final-Final</emph></unittitle><unitdate normal="1963" type="inclusive">1963</unitdate><abstract>key words: NFL/AFL All-Star games</abstract><container type="Box">2</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">Halp!</emph></unittitle><unitdate normal="1963" type="inclusive">1963</unitdate><abstract>key words: Giants, Eagles, Steelers</abstract><container type="Box">2</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">Heavy, Heay…</emph></unittitle><unitdate normal="1961/1966" type="inclusive">1961-1966</unitdate><abstract>key words: Giants, Browns, Jim Brown</abstract><container type="Box">2</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">Home, Sweat Home</emph></unittitle><unitdate normal="1961/1966" type="inclusive">1961-1966</unitdate><abstract>key words: Jets</abstract><container type="Box">2</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">Homecoming</emph></unittitle><unitdate normal="1964" type="inclusive">1964</unitdate><abstract>key words: Giants, Redskins, Sam Huff, Davis Cup, Dennis Ralston, Chuck McKinley, tennis</abstract><container type="Box">2</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">In His Hair</emph></unittitle><unitdate normal="1963" type="inclusive">1963</unitdate><abstract>key words: Giants, Jets, Packers, Allie Sherman, Weeb Ewbank</abstract><container type="Box">2</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">Just Can't Wait</emph></unittitle><unitdate normal="1966" type="inclusive">1966</unitdate><abstract>key words: Pro Football schedule</abstract><container type="Box">2</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">…Meanwhile Back At The Wrench</emph></unittitle><unitdate normal="1965" type="inclusive">1965</unitdate><abstract>key words: Giants, Jets</abstract><container type="Box">2</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">Next!</emph></unittitle><unitdate normal="1966" type="inclusive">1966</unitdate><abstract>key words: Giants, Redskins, Native American</abstract><container type="Box">2</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">Not Much Of A Santa Claus</emph></unittitle><unitdate normal="1966" type="inclusive">1966</unitdate><abstract>key words: Giants, Cardinals, Santa Claus</abstract><container type="Box">2</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">O! What A Fall Was There…</emph></unittitle><unitdate normal="1966" type="inclusive">1966</unitdate><abstract>key words: Giants, Steelers</abstract><container type="Box">2</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">Pigskin Diet</emph></unittitle><unitdate normal="1961/1966" type="inclusive">1961-1966</unitdate><abstract>key words: Jets, Bills, Joe Namath, buffalo</abstract><container type="Box">2</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">Poor Timing</emph></unittitle><unitdate normal="1961/1966" type="inclusive">1961-1966</unitdate><abstract>key words: Bears, Packers, 49'ers</abstract><container type="Box">2</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">Pur-r-r-r-r-r-r</emph></unittitle><unitdate normal="1963" type="inclusive">1963</unitdate><abstract>key words: Giants, Eagles, Y.A. Tittle, Allie Sherman, eagle</abstract><container type="Box">2</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">The Raw Material</emph></unittitle><unitdate normal="1965" type="inclusive">1965</unitdate><abstract>key words: Giants, Jets, Allie Sherman, Weeb Ewbank</abstract><container type="Box">2</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">Reward In Miami</emph></unittitle><unitdate normal="1961/1966" type="inclusive">1961-1966</unitdate><abstract>key words: Giants</abstract><container type="Box">2</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">Santa Claws!</emph></unittitle><unitdate normal="1963" type="inclusive">1963</unitdate><abstract>key words: Giants, Bears, Y.A. Tittle, bear, NFL Championship</abstract><container type="Box">2</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">Season's Greetings</emph></unittitle><unitdate normal="1961/1966" type="inclusive">1961-1966</unitdate><abstract>key words: 4th Annual American Football Coaches All-American Game</abstract><container type="Box">2</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">Short Summer - Hot, But Short</emph></unittitle><unitdate normal="1961/1966" type="inclusive">1961-1966</unitdate><abstract>key words: Giants, Jets, exhibition season opens (Giants/Bears in Ithaca)</abstract><container type="Box">2</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">Silver-Lining Department</emph></unittitle><unitdate normal="1961/1966" type="inclusive">1961-1966</unitdate><abstract>key words: Giants, Jets</abstract><container type="Box">2</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">Super Bowl ($1,200,000.00 )</emph></unittitle><unitdate normal="1966" type="inclusive">1966</unitdate><abstract>key words: Packers, Chiefs, Native American, Super Bowl</abstract><container type="Box">2</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">[Tell Me Not In Mournful Numbers…]</emph></unittitle><unitdate normal="1961/1966" type="inclusive">1961-1966</unitdate><abstract>key words: Giants</abstract><container type="Box">2</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">Top Hand</emph></unittitle><unitdate normal="1961/1966" type="inclusive">1961-1966</unitdate><abstract>key words: Jets, Chargers, horse</abstract><container type="Box">2</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">Wheeling and Dealing</emph></unittitle><unitdate normal="1964" type="inclusive">1964</unitdate><abstract>key words: Giants, Cardinals, St. Louis Swifty</abstract><container type="Box">2</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">The Wrecker</emph></unittitle><unitdate normal="1963" type="inclusive">1963</unitdate><abstract>key words: Steelers, Giants, Bears</abstract><container type="Box">2</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">You Explain It</emph></unittitle><unitdate normal="1964" type="inclusive">1964</unitdate><abstract>key words: Giants, Redskins, Cowboys, Cardinals, Jets</abstract><container type="Box">2</container></did></c02>
+</c01>
+<c01 level="series"><did><unittitle>Golf cartoons</unittitle><physdesc><extent>6</extent></physdesc></did><c02><did><unittitle><emph render="doublequote">Bugged</emph></unittitle><unitdate normal="1963" type="inclusive">1963</unitdate><abstract>key words: Sam Snead</abstract><container type="Box">3</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">The Congressional</emph></unittitle><unitdate normal="1961/1966" type="inclusive">1961-1966</unitdate><abstract>key words: The Congressional, tiger</abstract><container type="Box">3</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">Deep Drain The Cup</emph></unittitle><unitdate normal="1964" type="inclusive">1964</unitdate><abstract>key words: Tony Lema</abstract><container type="Box">3</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">Deep Fill The Cup…</emph></unittitle><unitdate normal="1965" type="inclusive">1965</unitdate><abstract>key words: Tony Lema, British Open</abstract><container type="Box">3</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">…The Gang's All Here</emph></unittitle><unitdate normal="1961/1966" type="inclusive">1961-1966</unitdate><abstract>key words: The Thunderbird, Pa Knickerbocker, Willard Mullin</abstract><container type="Box">3</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">I'm In The Rough</emph></unittitle><unitdate normal="1961/1966" type="inclusive">1961-1966</unitdate><abstract>key words: U.S. Open</abstract><container type="Box">3</container></did></c02></c01>
+<c01 level="series"><did><unittitle>Hockey cartoons</unittitle><physdesc><extent>6</extent></physdesc></did>
+<c02><did><unittitle><emph render="doublequote">The Art Critic</emph></unittitle><unitdate normal="1961/1966" type="inclusive">1961-1966</unitdate><abstract>key words: Rangers, Willard Mullin</abstract><container type="Box">3</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">Brothers Under The Skin</emph></unittitle><unitdate normal="1961/1966" type="inclusive">1961-1966</unitdate><abstract>key words: Rangers, hockey fans, The New Breed (Mets fan)</abstract><container type="Box">3</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">A Good Round Figure</emph></unittitle><unitdate normal="1961/1966" type="inclusive">1961-1966</unitdate><abstract>key words: Rangers</abstract><container type="Box">3</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">Hottest Thing On Ice</emph></unittitle><unitdate normal="1961/1966" type="inclusive">1961-1966</unitdate><abstract>key words: Rangers</abstract><container type="Box">3</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">Our Heroes</emph></unittitle><unitdate normal="1961/1966" type="inclusive">1961-1966</unitdate><abstract>key words: Rangers, sports writers</abstract><container type="Box">3</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">The Well Dressed Man</emph></unittitle><unitdate normal="1961/1966" type="inclusive">1961-1966</unitdate><abstract>key words: Rangers, Maple Leafs</abstract><container type="Box">3</container></did></c02></c01>
+<c01 level="series"><did><unittitle>Horse Racing cartoons</unittitle><physdesc><extent>37</extent></physdesc></did>
+<c02><did><unittitle><emph render="doublequote">Art Critics</emph></unittitle><unitdate normal="1961/1966" type="inclusive">1961-1966</unitdate><abstract>key words: Speedy Scot, Realization Stakes, Frederick van Lennep, Ralph Baldwin, Willard Mullin</abstract><container type="Box">3</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">The Big Apple</emph></unittitle><unitdate normal="1961/1966" type="inclusive">1961-1966</unitdate><abstract>key words: Aqueduct, last race of the season</abstract><container type="Box">3</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">The Bird Watchers</emph></unittitle><unitdate normal="1961/1966" type="inclusive">1961-1966</unitdate><abstract>key words: Flamingo Stakes, Roman Brother, Northern Dancer, flamingo</abstract><container type="Box">3</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">Birds Of A Feather</emph></unittitle><unitdate normal="1961/1966" type="inclusive">1961-1966</unitdate><abstract>key words: Flamingo Stakes, Hail to All, Native Charger, Johnny Sellers</abstract><container type="Box">3</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">Bon Voyage</emph></unittitle><unitdate normal="1961/1966" type="inclusive">1961-1966</unitdate><abstract>key words: Kentucky Derby, No Robbery, John Graver</abstract><container type="Box">3</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">Cotton-Batting Candidates</emph></unittitle><unitdate normal="1961/1966" type="inclusive">1961-1966</unitdate><abstract>key words: Sadair, Bold Lad, Bill Winfrey, Willard Mullin</abstract><container type="Box">3</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">Don't Bet On It</emph></unittitle><unitdate normal="1961/1966" type="inclusive">1961-1966</unitdate><abstract>key words: Kentucky Derby, Damascus, Willie Shoemaker, Willard Mullin</abstract><container type="Box">3</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">Good Samaritan</emph></unittitle><unitdate normal="1961/1966" type="inclusive">1961-1966</unitdate><abstract>key words: Aqueduct takes its annual break</abstract><container type="Box">3</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">The Horse's Mouth</emph></unittitle><unitdate normal="1961/1966" type="inclusive">1961-1966</unitdate><abstract>key words: Bret Hanover, Richard Downing, Futurity Stakes, Willard Mullin</abstract><container type="Box">3</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">It Must Be Hay!</emph></unittitle><unitdate normal="1961/1966" type="inclusive">1961-1966</unitdate><abstract>key words: Aqueduct, Nelson Rockefeller, Bob Wagner</abstract><container type="Box">3</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">A Little Piece Of Real Estate…</emph></unittitle><unitdate normal="1961/1966" type="inclusive">1961-1966</unitdate><abstract>key words: Dapper Dan, Belmont Stakes</abstract><container type="Box">3</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">The Lock</emph></unittitle><unitdate normal="1961/1966" type="inclusive">1961-1966</unitdate><abstract>key words: Bret Hanover, Adios, Commodore Stakes, Willard Mullin</abstract><container type="Box">3</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">Meeting Themselves Coming Back</emph></unittitle><unitdate normal="1961/1966" type="inclusive">1961-1966</unitdate><abstract>key words: Yonkers Raceway, harness racing</abstract><container type="Box">3</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">[Northern Dancer]</emph></unittitle><unitdate normal="1961/1966" type="inclusive">1961-1966</unitdate><abstract>key words: Northern Dancer, Willard Mullin</abstract><container type="Box">3</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">[The NYRA Hangs Up An Extra...]</emph></unittitle><unitdate normal="1961/1966" type="inclusive">1961-1966</unitdate><abstract>key words: Bob Ussery, Smart Deb, NYRA</abstract><container type="Box">3</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">…Off Whose Noose?</emph></unittitle><unitdate normal="1961/1966" type="inclusive">1961-1966</unitdate><abstract>key words: Cardigan Bay, International Stakes, Yonkers Raceway</abstract><container type="Box">3</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">[Old Timers Around Any Sports Beat…]</emph></unittitle><unitdate normal="1961/1966" type="inclusive">1961-1966</unitdate><abstract>key words: Overtrick, Realization Stakes</abstract><container type="Box">3</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">Only Money</emph></unittitle><unitdate normal="1961/1966" type="inclusive">1961-1966</unitdate><abstract>key words: unclaimed winnings</abstract><container type="Box">3</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">Owner And Prop</emph></unittitle><unitdate normal="1961/1966" type="inclusive">1961-1966</unitdate><abstract>key words: Jaipur, Manuel Ycaza, Donut King, Gotham Stakes</abstract><container type="Box">3</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">Pegged Out</emph></unittitle><unitdate normal="1961/1966" type="inclusive">1961-1966</unitdate><abstract>key words: Manuel Ycaza, Iron Peg</abstract><container type="Box">3</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">Picture Horse</emph></unittitle><unitdate normal="1961/1966" type="inclusive">1961-1966</unitdate><abstract>key words: Kelso, Suburban Stakes</abstract><container type="Box">3</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">Right From The Horse's Mouth…</emph></unittitle><unitdate normal="1961/1966" type="inclusive">1961-1966</unitdate><abstract>key words: Kentucky Derby prospects, Willard Mullin</abstract><container type="Box">3</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">Rolling Home…</emph></unittitle><unitdate normal="1961/1966" type="inclusive">1961-1966</unitdate><abstract>key words: Kelso, Brooklyn Stakes</abstract><container type="Box">3</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">Roosevelt Raceway</emph></unittitle><unitdate normal="1961/1966" type="inclusive">1961-1966</unitdate><abstract>key words: Roosevelt Raceway, Yonkers Raceway, Willard Mullin</abstract><container type="Box">3</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">The Runt</emph></unittitle><unitdate normal="1961/1966" type="inclusive">1961-1966</unitdate><abstract>key words: Roman Brother</abstract><container type="Box">3</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">A Salute</emph></unittitle><unitdate normal="1961/1966" type="inclusive">1961-1966</unitdate><abstract>key words: Flag Raiser, Bob Ussery, Preakness Stakes</abstract><container type="Box">3</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">Same Old Story</emph></unittitle><unitdate normal="1961/1966" type="inclusive">1961-1966</unitdate><abstract>key words: Off Track Betting, New York State government</abstract><container type="Box">3</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">The Shoe Fits</emph></unittitle><unitdate normal="1961/1966" type="inclusive">1961-1966</unitdate><abstract>key words: Willie Shoemaker, Bonjour, Kentucky Derby</abstract><container type="Box">3</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">[Something Just Might Shake Out…]</emph></unittitle><unitdate normal="1961/1966" type="inclusive">1961-1966</unitdate><abstract>key words: Wood Memorial Stakes</abstract><container type="Box">3</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">Tempus Fugit</emph></unittitle><unitdate normal="1961/1966" type="inclusive">1961-1966</unitdate><abstract>key words: Bowie Race Track (Maryland) season opens</abstract><container type="Box">3</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">[This Is The Day…]</emph></unittitle><unitdate normal="1961/1966" type="inclusive">1961-1966</unitdate><abstract>key words: Roosevelt Raceway season opens</abstract><container type="Box">3</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">[This Week N.Y. Thoroughbreds…]</emph></unittitle><unitdate normal="1961/1966" type="inclusive">1961-1966</unitdate><abstract>key words: Speedy Scot, Ralph Baldwin</abstract><container type="Box">3</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">Uniform Of The Day</emph></unittitle><unitdate normal="1961/1966" type="inclusive">1961-1966</unitdate><abstract>key words: end of the racing season</abstract><container type="Box">3</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">Voodoo a-la-Louisville</emph></unittitle><unitdate normal="1961/1966" type="inclusive">1961-1966</unitdate><abstract>key words: Damascus, Ruken, Kentucky Derby</abstract><container type="Box">3</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">Who Ya Throwin' At?</emph></unittitle><unitdate normal="1961/1966" type="inclusive">1961-1966</unitdate><abstract>key words: Candy Spots, No Robbery, Never Bend, Kentucky Derby</abstract><container type="Box">3</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">The Will And The Way</emph></unittitle><unitdate normal="1961/1966" type="inclusive">1961-1966</unitdate><abstract>key words: Bill Hartack, Bold Lad, Kentucky Derby</abstract><container type="Box">3</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">[The Winningest Horse Now Active…]</emph></unittitle><unitdate normal="1961/1966" type="inclusive">1961-1966</unitdate><abstract>key words: Theo Messidor, Willem Geersen, International Trot</abstract><container type="Box">3</container></did></c02></c01>
+<c01 level="series"><did><unittitle>Track and Field cartoons</unittitle><physdesc><extent>9</extent></physdesc></did>
+<c02><did><unittitle><emph render="doublequote">The Badger Game</emph></unittitle><unitdate normal="1961/1966" type="inclusive">1961-1966</unitdate><abstract>key words: Bob Hayes, Sam Perry, Fordham, NYAC Meet</abstract><container type="Box">3</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">The Cat And His Canary</emph></unittitle><unitdate normal="1961/1966" type="inclusive">1961-1966</unitdate><abstract>key words: ICAAAA (IC4A) Indoor Meet, Harvard, Navy, Villanova, wildcat</abstract><container type="Box">3</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">[Despite The Royal Ukase…]</emph></unittitle><unitdate normal="1961/1966" type="inclusive">1961-1966</unitdate><abstract>key words: AAU Championships, NCAA, sanctioned competition</abstract><container type="Box">3</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">The Heavy Artillery</emph></unittitle><unitdate normal="1961/1966" type="inclusive">1961-1966</unitdate><abstract>key words: Randy Matson, shot put, Texas A and M, Drake Relays</abstract><container type="Box">3</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">In The Clear</emph></unittitle><unitdate normal="1961/1966" type="inclusive">1961-1966</unitdate><abstract>key words: Bob Seagren, pole vault, Millrose Games</abstract><container type="Box">3</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">The Natural</emph></unittitle><unitdate normal="1961/1966" type="inclusive">1961-1966</unitdate><abstract>key words: Valery Brumel, high jump, NYAC Meet</abstract><container type="Box">3</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">On Your Mark…</emph></unittitle><unitdate normal="1961/1966" type="inclusive">1961-1966</unitdate><abstract>key words: AAU, NCAA, sanctioning authority</abstract><container type="Box">3</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">One For The Money</emph></unittitle><unitdate normal="1964" type="inclusive">1964</unitdate><abstract>key words: long jump, AAU National Meet, 1964 Olympic team</abstract><container type="Box">3</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">[That Catapult They Use…]</emph></unittitle><unitdate normal="1961/1966" type="inclusive">1961-1966</unitdate><abstract>key words: John Pennel, pole vault</abstract><container type="Box">3</container></did></c02></c01>
+<c01 level="series"><did><unittitle>Misc. Sports cartoons</unittitle><physdesc><extent>13</extent></physdesc></did>
+<c02><did><unittitle><emph render="doublequote">Agenda For 1964</emph></unittitle><unitdate normal="1964" type="inclusive">1964</unitdate><abstract>key words: artist as infant reading list</abstract><container type="Box">3</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">…And, Among Other Things</emph></unittitle><unitdate normal="1964" type="inclusive">1964</unitdate><abstract>key words: 81st National Horse Show, LBJ, Goldwater</abstract><container type="Box">3</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">Drawing Board Re-Visited</emph></unittitle><unitdate normal="1961/1966" type="inclusive">1961-1966</unitdate><abstract>key words: various New York sports figures, Willard Mullin returning from vacation</abstract><container type="Box">3</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">Go! I Said</emph></unittitle><unitdate normal="1961/1966" type="inclusive">1961-1966</unitdate><abstract>key words: Mets, New York horse racing, the New Breed</abstract><container type="Box">3</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">The Groaning Board</emph></unittitle><unitdate normal="1961/1966" type="inclusive">1961-1966</unitdate><abstract>key words: Yankees, Rangers, Jets, Giants, Knicks, Mets, Pa Knickerbocker</abstract><container type="Box">3</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">A Jolly Trio</emph></unittitle><unitdate normal="1961/1966" type="inclusive">1961-1966</unitdate><abstract>key words: Rangers, Knicks, boxer, Willard Mullin</abstract><container type="Box">3</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">[Last Year Chuck McKinley…]</emph></unittitle><unitdate normal="1964" type="inclusive">1964</unitdate><abstract>key words: Chuck McKinley, Wimbledon, Tennis</abstract><container type="Box">3</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">Objective Tokyo</emph></unittitle><unitdate normal="1963" type="inclusive">1963</unitdate><abstract>key words: 80th National Horse Show, Mary Mairs, Tokyo Olympics</abstract><container type="Box">3</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">Panning Out Pretty Good</emph></unittitle><unitdate normal="1964" type="inclusive">1964</unitdate><abstract>key words: Uncle Sam, Mt. Fujiyama, Tokyo Olympics</abstract><container type="Box">3</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">Pot-Pourri</emph></unittitle><unitdate normal="1964" type="inclusive">1964</unitdate><abstract>key words: Yankees, Mets, Giants, Jets, and misc. NY sports figures, Willard Mullin</abstract><container type="Box">3</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">That Commodity Called Youth</emph></unittitle><unitdate normal="1964" type="inclusive">1964</unitdate><abstract>key words: Scott Ethan Allen, Men's figure skating</abstract><container type="Box">3</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">To Each His Own…</emph></unittitle><unitdate normal="1961/1966" type="inclusive">1961-1966</unitdate><abstract>key words: various sports, horses, camel racing, horseshoes, figure skating</abstract><container type="Box">3</container></did></c02>
+<c02><did><unittitle><emph render="doublequote">Voice From Astern</emph></unittitle><unitdate normal="1961/1966" type="inclusive">1961-1966</unitdate><abstract>key words: Constellation, yachting</abstract><container type="Box">3</container></did></c02>
+</c01>   
+  </dsc></archdesc>
+</ead>

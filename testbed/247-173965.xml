@@ -1,0 +1,191 @@
+<?xml version="1.0"?>
+<!-- wiarchives version:2012-09-20 -->
+<ead id="uw-whs-rock0040">
+  <eadheader langencoding="iso639-2b" scriptencoding="iso15924" dateencoding="iso8601" countryencoding="iso3166-1" repositoryencoding="iso15511">
+    <eadid countrycode="US" mainagencycode="whi">uw-whs-rock0040</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Register of the Edgerton Public Schools Records, 1921-1976</titleproper>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Wisconsin Historical Society</publisher>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>Text converted and initial EAD tagging done with an in-house web form, <date era="ce" calendar="gregorian" type="publication" normal="2006-03">March, 2006.</date></creation>
+      <langusage>
+        <language langcode="eng">English</language>
+      </langusage>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <unittitle label="Title">Edgerton Public Schools Records, <unitdate type="inclusive" era="ce" calendar="gregorian" certainty="y" normal="1921/1976">1921-1976</unitdate></unittitle>
+      <origination label="Creator">
+        <corpname>Edgerton Public Schools (Wis.)</corpname>
+      </origination>
+      <unitid label="Call Number">Rock Series 40</unitid>
+      <physdesc label="Quantity">2.0 c.f. (5 archives boxes)</physdesc>
+      <repository label="Repository"><extptr entityref="whslogo" show="embed" actuate="onload" altrender="center" title="Wisconsin Historical Society logo" role="logoimage"/>
+Housed at the <extref linktype="simple" href="http://library.uww.edu/archives/">University Archives  Area Research Center, Harold Andersen Library, University of Wisconsin-Whitewater</extref>; owned by the <extref linktype="simple" href="http://digital.library.wisc.edu/1711.dl/whsead.contact">Wisconsin Historical Society, Library-Archives Division</extref></repository>
+      <physloc>
+        <extref linktype="simple" href="http://digital.library.wisc.edu/1711.dl/whsead.catalog?repl1=rlin+%22wihv95-a491%22" role="handle" title="Persistent catalog URL">See the catalog entry for information on possible additional materials and shelf locations.</extref>
+      </physloc>
+      <physloc type="locationcode" audience="internal">wwhiwu</physloc>
+      <abstract>Minutes of the school board, 1921-1976; clerk's record, 1930-1942; and annual reports of the school district plus some rural school districts consolidated into the Edgerton system, 1922-1971. The clerk's record book contains primarily financial information with some correspondence. The annual reports usually list financial information, number of pupils, and name and number of teachers. Schools are located in Rock County unless otherwise noted.</abstract>
+      <langmaterial label="Language">
+        <language langcode="eng">English</language>
+      </langmaterial>
+    </did>
+    <arrangement>
+      <p>Minutes are chronological. Annual reports are grouped by township, or if a joint district, are by district number after the others.</p>
+    </arrangement>
+    <dsc type="in-depth">
+      <head>Contents List</head>
+      <c01>
+        <did>
+          <unittitle>Minutes, <unitdate era="ce" calendar="gregorian">1921-1976</unitdate></unittitle>
+        </did>
+        <c02>
+          <did>
+            <container label="Box" type="box">1</container>
+            <unittitle>
+              <unitdate era="ce" calendar="gregorian">1921-1947</unitdate>
+            </unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container label="Box" type="box">2</container>
+            <unittitle>
+              <unitdate era="ce" calendar="gregorian">1947-1958</unitdate>
+            </unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container label="Box" type="box">3</container>
+            <unittitle>
+              <unitdate era="ce" calendar="gregorian">1958-1969</unitdate>
+            </unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container label="Box" type="box">4</container>
+            <unittitle>
+              <unitdate era="ce" calendar="gregorian">1970-1976</unitdate>
+            </unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01>
+        <did>
+          <container label="Box" type="box">1</container>
+          <unittitle>Clerk's Record, <unitdate era="ce" calendar="gregorian">1930-1942</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01>
+        <did>
+          <unittitle>Annual Reports, <unitdate era="ce" calendar="gregorian">1922-1971</unitdate></unittitle>
+        </did>
+        <c02>
+          <did>
+            <container label="Box" type="box">5</container>
+            <unittitle>Albion, District No. 2, Albion State Graded School, <unitdate era="ce" calendar="gregorian">1959-1960</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container label="Box" type="box">5</container>
+            <unittitle>Albion, District No. 6, Red Brick School, <unitdate era="ce" calendar="gregorian">1933-1953</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container label="Box" type="box">5</container>
+            <unittitle>Edgerton, Common and High School, <unitdate era="ce" calendar="gregorian">1922-1952</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container label="Box" type="box">2</container>
+            <unittitle>Fulton, District No. 2, Cox School, <unitdate era="ce" calendar="gregorian">1948-1961</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container label="Box" type="box">5</container>
+            <unittitle>Fulton, District No. 4, Indian Ford School, <unitdate era="ce" calendar="gregorian">1927-1961</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container label="Box" type="box">5</container>
+            <unittitle>Fulton, District No. 8, <unitdate era="ce" calendar="gregorian">1944, 1954</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container label="Box" type="box">5</container>
+            <unittitle>Porter, District No. 3, Eagle School, <unitdate era="ce" calendar="gregorian">1959</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container label="Box" type="box">5</container>
+            <unittitle>Porter, District No. 6, Lienau School, <unitdate era="ce" calendar="gregorian">1959</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container label="Box" type="box">5</container>
+            <unittitle>Joint District No. 1, Towns of Porter, Center, and Dunkirk (Dane County), <unitdate era="ce" calendar="gregorian">1959-1961</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container label="Box" type="box">5</container>
+            <unittitle>Joint District No. 1, Towns of Sumner (Jefferson County) and Albion (Dane County), Busseyville School, <unitdate era="ce" calendar="gregorian">1960-1961</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container label="Box" type="box">2</container>
+            <unittitle>Joint District No. 2, Towns of Albion (Dane County) and Sumner (Jefferson County), Gravel Store School, <unitdate era="ce" calendar="gregorian">1947-1954</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container label="Box" type="box">5</container>
+            <unittitle>Joint District No. 3, Towns of Fulton, Center, Porter, and Janesville, Fulton School, <unitdate era="ce" calendar="gregorian">1953-1956</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container label="Box" type="box">5</container>
+            <unittitle>Joint District No. 7, Towns of Porter and Center, Stevens School, <unitdate era="ce" calendar="gregorian">1959</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container label="Box" type="box">2</container>
+            <unittitle>Joint District No. 7, Towns of Fulton and Milton, Newville School, <unitdate era="ce" calendar="gregorian">1925-1960</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container label="Box" type="box">5</container>
+            <unittitle>Joint District No. 8, Towns of Porter and Dunkirk (Dane County), <unitdate era="ce" calendar="gregorian">1958-1959</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container label="Box" type="box">5</container>
+            <unittitle>Joint District No. 8, City of Edgerton and Towns of Fulton, Porter, Center, Janesville, and Milton (Rock County); Towns of Albion and Dunkirk (Dane County), and Town of Sumner (Jefferson County), Miscellaneous Reports, <unitdate era="ce" calendar="gregorian">1940-1952</unitdate> and Annual Reports, <unitdate era="ce" calendar="gregorian">1953-1971</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

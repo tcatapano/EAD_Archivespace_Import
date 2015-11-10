@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+    <eadheader findaidstatus="uo_export_me" repositoryencoding="iso15511"
+              countryencoding="iso3166-1"
+              dateencoding="iso8601"
+              langencoding="iso639-2b"
+              id="a0"
+              relatedencoding="dc"
+              scriptencoding="iso15924">
+        <eadid countrycode="us" mainagencycode="oru"
+             url="http://nwda.orbiscascade.org/ark:/80444/xv63110"
+             encodinganalog="identifier"
+             identifier="80444/xv63110">ORU_A293.xml</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper encodinganalog="title">Guide to the Lura McLane Smith Collection of Korean Missionary Materials
+                    
+                <date encodinganalog="date" normal="1952/1973" type="inclusive">1952-1973</date>
+            </titleproper>
+                <titleproper type="filing" altrender="nodisplay">Smith (Lura McLane) collection of Korean missionary materials</titleproper>
+                <author encodinganalog="creator">Finding aid prepared by Finding aid prepared by University of Oregon Libraries, Archivists' Toolkit Project Team and Cassie Schmitt</author>
+                <sponsor>Funding for production of this finding aid was provided through a grant awarded by the National Historical Publications and Records Commission (NHPRC).</sponsor>
+            </titlestmt>
+            <publicationstmt>
+                <publisher encodinganalog="publisher">Special Collections and University Archives, University of Oregon Libraries</publisher>
+                <address>
+                    <addressline>1299 University of Oregon</addressline>
+                    <addressline>Eugene, Oregon, 97403-1299</addressline>
+                    <addressline>(541) 346-3068</addressline>
+                    <addressline>spcarref@uoregon.edu</addressline>
+                </address>
+                <date encodinganalog="date" calendar="gregorian" era="ce" normal="2011">2011</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date calendar="gregorian" era="ce" normal="20120512">2012-05-12</date>
+            </creation>
+            <langusage>Finding aid written in 
+                <language langcode="eng" encodinganalog="language" scriptcode="latn">English</language>.</langusage>
+            <descrules>Finding aid based on DACS (<title render="italic">Describing Archives: A Content Standard</title>).</descrules>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection" relatedencoding="marc21" type="inventory">
+        <did id="a1">
+            <unittitle encodinganalog="245$a">Lura McLane Smith collection of Korean missionary materials</unittitle>
+            <unitid encodinganalog="099" countrycode="us" repositorycode="oru">A 293</unitid>
+            <repository>
+                <corpname encodinganalog="852$a">Special Collections and University Archives, University of Oregon Libraries</corpname>
+            <address>
+                    <addressline>1299 University of Oregon</addressline>
+                    <addressline>Eugene, Oregon, 97403-1299</addressline>
+                    <addressline>(541) 346-3068</addressline>
+                    <addressline>spcarref@uoregon.edu</addressline>
+                </address>
+         </repository>
+            <langmaterial>Collection materials are in <language langcode="eng" encodinganalog="546">English</language>.</langmaterial>
+            <container type="box">1</container>
+            <physdesc>
+                <extent encodinganalog="300$a">0.5 linear feet</extent>
+                <extent encodinganalog="300$a">1 container</extent>
+            </physdesc>
+            <unitdate normal="1952/1973" type="inclusive" encodinganalog="245$f">1952-1973</unitdate>
+            <physdesc id="ref1">1 manuscript box</physdesc>
+            <abstract id="ref9" encodinganalog="5203_">Lura McLane Smith's (1885-1979) husband, Roy K. Smith (1885-1958), was a Presbyterian medical missionary in Korea, in Seoul and Mason. The collection contains booklets, pamphlets, newspaper and magazine clippings related to Smith’s missionary work in Korea.</abstract>
+            <origination label="creator">
+                <persname source="lcnaf" encodinganalog="100">Smith, Lura Wilma McLane, 1885-1979</persname>
+            </origination>
+        </did>
+        <accessrestrict id="a14" encodinganalog="506">
+            
+            <p>Collection is open to the public.</p>
+            <p>Collection must be used in Special Collections  University Archives Reading Room.</p>
+        </accessrestrict>
+        <userestrict id="a15" encodinganalog="540">
+            
+            <p>Property rights reside with Special Collections  University Archives, University of Oregon Libraries. Copyright resides with the creators of the documents or their heirs. All requests for permission to publish collection materials must be submitted to Special Collections  University Archives. The reader must also obtain permission of the copyright holder.</p>
+            <p>Archival may contain materials with sensitive or confidential information that is protected under federal and/or state right to privacy laws and other regulations.</p>
+            <p>Researchers are advised that the disclosure of certain information pertaining to identifiable living individuals represented in this collection without the consent of those individuals may have legal ramifications (e.g. a cause of action for invasion of privacy may arise if facts concerning an individual's private life are published that would be deemed highly offensive to a reasonable person) for which the University of Oregon assumes no responsibility.</p>
+            <p>If a researcher finds sensitive personal information in a collection, please bring it to the attention of the reading room staff.</p>
+        </userestrict>
+        <prefercite id="a18" encodinganalog="524">
+            
+            <p>[Identification of item], Lura McLane Smith collection of Korean missionary materials, A 293, Special Collections  University Archives, University of Oregon Libraries, Eugene, Oregon.</p>
+        </prefercite>
+        <processinfo id="a20" encodinganalog="583">
+            
+            <p>Collection processed by David Young, October 2005.</p>
+            <p>This finding aid may be updated periodically to account for new acquisitions to the collection and/or revisions in arrangement and description.</p>
+        </processinfo>
+        <bioghist id="a2" encodinganalog="545">
+            <head>Biographical/Historical note</head>
+            <p>Little is known about the life of Lura McLane Smith (1885-1979). Her husband’s missionary service took her to Korea in the 1940s. She kept a record of missionary activities (from reports to newspaper articles) on the activities of other missionaries in the western Pacific. Her husband, Roy K. Smith (1885-1958) was a Presbyterian medical missionary in Korea, in Seoul and Mason.</p>
+        </bioghist>
+        <scopecontent id="a3" encodinganalog="5202_">
+            
+            <p>The collection is divided into three series. Correspondence includes incoming correspondence from Allen D. Clark, Harry and Mary Hill, and Howard and Delle Moffet. Reports, Obituaries, and Anecdotes contains reports by Harry and Mary Hill of the Korea Mission, Chung Ju Station, and Chongju’s Home-School for Blind Children. The third series contains booklets, scrapbooks, pamphlets, clippings, and magazines, which are arranged by date. The pamphlets, clippings, and magazines were collected over a period of decades, from 1946 – 1973.</p>
+        </scopecontent>
+        <arrangement id="a4" encodinganalog="351">
+            
+            <p>Collection is organized into the following series: Series I: Correspondence Series II: Reports, Obituaries, and Anecdotes Series III: Pamphlets, Clippings, Booklets, and Miscellaneous</p>
+        </arrangement>
+        <otherfindaid id="a8" encodinganalog="555">
+            
+            <p>Paper finding aid with additional information is available in Special Collections  University Archives.</p>
+        </otherfindaid>
+        <relatedmaterial id="a6" encodinganalog="5441_">
+            
+            <p>Other collections relating to Roy K. Smith and Lura McLane Smith at Special Collections and University Archives include: Roy K. Smith and Lura McLane Smith letters from Korea, A 206; Roy K. Smith and Lura McLane Smith collection of Korean missionary materials, Ax 706</p>
+            <p>Special Collections and University Archives hold related collections on missionaries.</p>
+        </relatedmaterial>
+        <controlaccess id="a12">
+         <controlaccess>
+            <persname source="lcnaf" encodinganalog="600">Smith, Lura Wilma McLane, 1885-1979</persname>
+         </controlaccess>
+         <controlaccess>
+            <subject source="lcsh" encodinganalog="650">Missionaries, Medical--Korea</subject>
+            <subject source="lcsh" encodinganalog="650">Missionaries, Medical--Korea--Correspondence</subject>
+            <subject source="lcsh" encodinganalog="650">Presbyterian Church--Missions--Korea</subject>
+         </controlaccess>
+         <controlaccess>
+            <subject source="nwda" encodinganalog="690" altrender="nodisplay">Missionaries</subject>
+         </controlaccess>
+         <controlaccess>
+            <genreform source="aat" encodinganalog="655">Correspondence</genreform>
+         </controlaccess>
+      </controlaccess>
+        
+    </archdesc>
+</ead>

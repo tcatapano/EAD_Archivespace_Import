@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "./dtds/ead.dtd">
+<ead><eadheader audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2" repositoryencoding="iso15511">
+
+<eadid countrycode="us" mainagencycode="ndd" publicid="-//David M. Rubenstein Rare Book  Manuscript Library//TEXT (US::ndd::John C. Ridlon Papers, 1846-1936)//EN" url="http://library.duke.edu/rubenstein/findingaids/ridlonjohn/">ridlonjohn</eadid>
+<filedesc>
+	<titlestmt>
+		<titleproper>Inventory of the John C. Ridlon Papers,
+			<date normal="1846/1936">1846-1936 and undated</date>
+		</titleproper>
+		<author>Processed by: Willeke Sandler; machine-readable finding aid created by: Willeke Sandler</author>
+	</titlestmt>
+
+	<publicationstmt>
+	<publisher><lb/>David M. Rubenstein Rare Book  Manuscript Library <lb/> Duke University <lb/> Durham, N.C., USA </publisher>
+		<p><date normal="2012" encodinganalog="date">(C) 2012</date> Duke University. All Rights Reserved.</p>
+	</publicationstmt>
+
+	<notestmt>
+<note><p>Aleph Number: <num type="aleph">001694849</num></p></note>
+	</notestmt>
+</filedesc>
+
+<profiledesc>
+	<creation>Machine-readable finding aid derived from XML authoring program.<lb/>
+		<date>Date of source: April 2012</date><lb/>Processed by Willeke Sandler, April 2012; finding aid encoded by Willeke Sandler, David M. Rubenstein Rare Book  Manuscript Library, Duke University, <date>April 2012</date></creation>
+
+	<langusage>Description is in <language langcode="eng">English</language></langusage>
+
+	<descrules>Finding aid was prepared using <title>DACS</title> and local <title>Style Guide</title></descrules>
+
+</profiledesc>
+<!-- Location of <revisiondesc> if needed -->
+</eadheader>
+
+<frontmatter>
+<titlepage>
+<titleproper>Inventory of the John C. Ridlon Papers, <date type="span">1846-1936</date> and undated</titleproper>
+<publisher>David M. Rubenstein Rare Book  Manuscript Library <lb/> Duke University <lb/> Durham, North Carolina 27708-0185 USA </publisher>
+<p><date normal="2012">(C) 2012</date> Duke University. All Rights Reserved.</p>
+</titlepage>
+</frontmatter>
+
+<archdesc level="collection" relatedencoding="MARC">
+<did>
+<head>Descriptive Summary</head>
+<repository label="Repository">
+<corpname>David M. Rubenstein Rare Book  Manuscript Library, Duke University</corpname></repository>
+<origination label="Creator"><persname encodinganalog="100">Ridlon, John C., 1852-1936.</persname></origination>
+<unittitle label="Title" encodinganalog="245">John C. Ridlon Papers, <unitdate normal="1846/1936" type="inclusive">1846-1936 and undated</unitdate></unittitle>
+
+<langmaterial label="Language of Material" encodinganalog="546">Material in <language langcode="eng"> English</language>
+</langmaterial>
+
+<physdesc label="Extent">
+<extent unit="linear feet" encodinganalog="300">4.1 Linear Feet</extent><lb/>
+<extent unit="items">Approx. 3250 Items</extent>
+</physdesc>
+
+<physloc label="Location">For current information on the location of these materials, please consult the Library's online catalog.</physloc>
+
+
+<abstract label="Abstract" encodinganalog="545">Physician and surgeon specializing in orthopedic medicine practicing in Chicago, Illinois.</abstract>
+
+<abstract encodinganalog="520">Collection consists of both loose and bound manuscripts as well as correspondence, photographs, and illustrations relating to John Ridlon's extensive research and writings on orthopedics. Bound volumes comprise: six casebooks (1889-1892); four letterbooks (1873-1903); an autograph manuscript, <title render="doublequote">Some comments on the principles and practice of Hugh Owen Thomas</title> (undated); a scrapbook of figures and illustrations (undated); three volumes composed of reprint clippings and manuscript notes (undated); and a bound volume of reprints (1888-1923). Also included are 85 additional reprints dating from 1888 to 1935, photographs and illustrations of orthopedic deformities and treatments, and fourteen diplomas from various educational institutions. Correspondents include: R. Osgood, A. Steindler, P. D. Wilson, R. K. Ghormley, J. E. Goldthwait, A. B. Judson, R. W. Lovett, H. W. Orr, S. W. Mitchell, and H. Cushing. Letters also document Ridlon's involvement with two charitable institutions: the Home for Destitute Crippled Children and the Country Home for Convalescent Children. Acquired as part of the History of Medicine Collections at Duke University.
+</abstract>
+
+</did>
+
+<descgrp type="admininfo">
+<head>Administrative Information</head>
+
+<accessrestrict encodinganalog="506">
+<head>Access Restrictions</head><p>Collection is open for research.</p>
+<p>However, collection may contain materials to which the Acknowledgment of Legal Responsibilities and Privacy Rights form applies. Patrons must sign this form before using this collection.</p>
+<p>Individuals using this collection are reminded that personally-identifiable medical information is subject to privacy laws.</p>
+<p>All or portions of this collection may be housed off-site in Duke University's Library Service Center. Consequently, there may be a 24-hour delay in obtaining these materials.</p>
+<p>Please contact Research Services staff before visiting the David M. Rubenstein Rare Book  Manuscript Library to use this collection.</p>
+</accessrestrict>
+
+<userestrict encodinganalog="540">
+<head>Copyright Notice</head>
+<p>The copyright interests in this collection have not been transferred to Duke University. For more information, consult the copyright section of the Regulations and Procedures of the David M. Rubenstein Rare Book  Manuscript Library.</p>
+</userestrict>
+
+<prefercite>
+		  <head>Preferred Citation</head>
+		  <p>[Identification of item], John C. Ridlon Papers, David M. Rubenstein Rare Book  Manuscript Library, Duke University.</p>
+		</prefercite>
+
+<acqinfo encodinganalog="541">
+<head>Provenance</head>
+<p>The John C. Ridlon Papers were transferred to the David M. Rubenstein Rare Book  Manuscript Library from the Medical Center Library in 2011.</p>
+</acqinfo>
+
+
+<processinfo>
+<head>Processing Information</head>
+<p>Processed by Willeke Sandler, April 2012</p>
+<p>Encoded by Willeke Sandler, April 2012</p>
+<p>Descriptive sources and standards used to create this inventory: <title render="italic">DACS,</title> EAD, NCEAD guidelines, and local <title render="italic">Style Guide.</title></p>
+<p>This finding aid is NCEAD compliant.</p>
+</processinfo>
+</descgrp>
+
+<bioghist>
+<head>Biographical Note</head>
+
+<p>John C. Ridlon (1852-1936) was a physician and surgeon specializing in orthopedic medicine practicing in Chicago, Illinois.</p>
+
+<!-- Use Chronlist Tags clip here for Chronology -->
+
+</bioghist>
+
+<scopecontent>
+<head>Collection Overview</head>
+
+<p>This material, which documents Ridlon's life and work, consists of both loose and bound manuscripts as well as correspondence, photographs, and illustrations relating to Ridlon's writings on orthopedics. Bound volumes comprise: six casebooks (1889-1892); four letterbooks (1873-1903); an autograph manuscript, <title render="doublequote">Some comments on the principles and practice of Hugh Owen Thomas</title> (undated); a scrapbook of figures and illustrations (undated); three volumes composed of reprint clippings and manuscript notes (undated); and a bound volume of reprints (1888-1923). Also included are 85 additional reprints dating from 1888 to 1935, photographs and illustrations of orthopedic deformities and treatments, and fourteen diplomas from various educational institutions. Correspondents include: R. Osgood, A. Steindler, P. D. Wilson, R. K. Ghormley, J. E. Goldthwait, A. B. Judson, R. W. Lovett, H. W. Orr, S. W. Mitchell, H. Cushing. Letters also document Ridlon's involvement with two charitable institutions: the Home for Destitute Crippled Children and the Country Home for Convalescent Children.</p>
+<p>Acquired as part of the History of Medicine Collections at Duke University.</p>
+
+<!-- OPTIONAL: Use Arrangement clip here for Collection Arrangement section -->
+
+</scopecontent>
+<controlaccess>
+<head>Subject Headings</head>
+<p>These are searchable subject entries for this collection. Performing a search on these subjects in the Duke University Libraries online catalog will bring up other related research materials.</p>
+<list type="simple">
+<item><persname source="lcsh" encodinganalog="600">Ridlon, John, 1852-1936.</persname></item>
+<item><persname source="lcsh" encodinganalog="600">Osgood, Robert Bayley, 1873-1956.</persname></item>
+<item><persname source="lcsh" encodinganalog="600">Steindler, Arthur, b. 1878.</persname></item>
+<item><persname source="lcsh" encodinganalog="600">Wilson, Philip (Philip Duncan), b. 1886.</persname></item>
+<item><persname source="lcsh" encodinganalog="600">Ghormley, Ralph K. (Ralph Kalb), 1893-1959</persname></item>
+<item><persname source="lcsh" encodinganalog="600">Goldthwait, Joel Ernest, b. 1866.</persname></item>
+<item><persname source="lcsh" encodinganalog="600">Judson, Adoniram Brown, 1837-1916.</persname></item>
+<item><persname source="lcsh" encodinganalog="600">Lovett, Robert W. (Robert Williamson), 1859-1924.</persname></item>
+<item><persname source="lcsh" encodinganalog="600">Orr, H. Winnett (Hiram Winnett), 1877-1956.</persname></item>
+<item><persname source="lcsh" encodinganalog="600">Mitchell, S. Weir (Silas Weir), 1829-1914.</persname></item>
+<item><persname source="lcsh" encodinganalog="600">Cushing, Harvey, 1869-1939.</persname></item>
+<item><persname source="lcsh" encodinganalog="600">Lorenz, Adolf, 1854-1946.</persname></item>
+<item><subject source="lcsh" encodinganalog="650">Orthopedics--United States--History.</subject></item>
+<item><subject source="lcsh" encodinganalog="650">Orthopedic surgery--United States--History.</subject></item>
+<item><subject source="lcsh" encodinganalog="650">Orthopedists--Correspondence.</subject></item>
+<item><subject source="lcsh" encodinganalog="650">Ankylosing spondylitis.</subject></item>
+<item><corpname source="lcsh" encodinganalog="610">History of Medicine Collections (Duke University)</corpname></item>
+</list>
+</controlaccess>
+
+
+<dsc type="combined">
+
+<head>Contents of Collection</head>
+<!-- Enter Container List Here -->
+
+<c01 level="series"><did>
+<unittitle id="s1">Casebooks Series, <unitdate type="inclusive" normal="1889/1892">1889-1892</unitdate></unittitle>
+<physdesc><extent>(2 boxes)</extent></physdesc>
+</did>
+<scopecontent>
+<p>Bound holograph manuscripts containing case notes on orthopedic patients with a variety of complaints, including descriptions of each case and often personal details of patients such as the date the case began, name, age, sex, address, diagnosis, and treatment for each case.  Includes several one-page manuscripts laid in as well as outlines made of patient body parts showing measurements of the actual curvature and size of affected areas.</p>
+</scopecontent>
+<userestrict>
+<p>Individuals using this collection are reminded that personally-identifiable medical information is subject to privacy laws.</p>
+</userestrict>
+
+<c02><did><container type="box">11</container><unittitle>Vol. 1, 1889, Aug.-1891, Aug.</unittitle></did></c02>
+
+<c02><did><container type="box">11</container><unittitle>Vol. 2, 1889-1892</unittitle></did></c02>
+
+<c02><did><container type="box">11</container><unittitle>Vol. 3, 1890, Jan.-Sept.</unittitle></did></c02>
+
+<c02><did><container type="box">11</container><unittitle>Vol. 4, 1890, Sept.-1891, May</unittitle></did></c02>
+
+<c02><did><container type="box">12</container><unittitle>Vol. 5, 1891, May-Dec.</unittitle></did></c02>
+
+<c02><did><container type="box">12</container><unittitle>Vol. 6, 1891-1892</unittitle></did></c02>
+
+</c01>
+
+<c01 level="series">
+<did>
+<unittitle id="s2">Correspondence Series, <unitdate type="inclusive" normal="1873/1936">1873-1936</unitdate></unittitle>
+<physdesc><extent>(10 boxes)</extent></physdesc>
+</did>
+<scopecontent>
+<p>Contains correspondence, as well as a few account sheets, contracts, meeting minutes, deeds, loan agreements, bylaws, printed material, bills and receipts, reports, some photographs, reprints, clippings, and typed manuscripts. Correspondents include: R. Osgood, A. Steindler, P. D. Wilson, R. K. Ghormley, J. E. Goldthwait, A. B. Judson, R. W. Lovett, H. W. Orr, S. W. Mitchell, H. Cushing. Letters also document Ridlon's involvement with two charitable institutions: the Home for Destitute Crippled Children and the Country Home for Convalescent Children.</p>
+</scopecontent>
+
+<c02><did><container type="box">1</container><unittitle>Correspondence, A-B</unittitle></did></c02>
+
+<c02><did><container type="box">2</container><unittitle>Correspondence, C-E</unittitle></did></c02>
+
+<c02><did><container type="box">3</container><unittitle>Correspondence, F-H</unittitle></did></c02>
+
+<c02><did><container type="box">4</container><unittitle>Correspondence, H-K</unittitle></did></c02>
+
+<c02><did><container type="box">5</container><unittitle>Correspondence, L-M</unittitle></did></c02>
+
+<c02><did><container type="box">6</container><unittitle>Correspondence, M-P</unittitle></did></c02>
+
+<c02><did><container type="box">7</container><unittitle>Correspondence, Q-T</unittitle></did></c02>
+
+<c02><did><container type="box">8</container><unittitle>Correspondence, U-Z</unittitle></did></c02>
+
+<c02><did><container type="box">14</container><unittitle>Letterbooks, 1873-1880, 1895</unittitle><physdesc><extent>(2 vols.)</extent></physdesc></did><scopecontent>
+<p>Bound correspondence written in both typed and holograph scripts containing transcriptions correspondence concerning financial matters, professional concerns, by John Ridlon to various correspondents.</p>
+</scopecontent>
+</c02>
+
+<c02><did><container type="box">15</container><unittitle>Letterbooks, 1895-1896, 1896-1903</unittitle><physdesc><extent>(2 vols.)</extent></physdesc></did><scopecontent>
+<p>Bound correspondence written in both typed and holograph scripts containing transcriptions correspondence concerning financial matters, professional concerns, by John Ridlon to various correspondents.</p>
+</scopecontent>
+</c02>
+
+</c01>
+
+
+<c01 level="series">
+<did>
+<unittitle id="s3">Medical Images Series, <unitdate type="inclusive" normal="1888/1904">1888-1904 and undated</unitdate></unittitle>
+<physdesc><extent>(3 boxes)</extent></physdesc>
+</did>
+<scopecontent>
+<p>Contains photographs and proofs of images and illustrations relating to Ridlon's writings on orthopedics.</p>
+</scopecontent>
+
+<c02><did><container type="box">8</container><unittitle><title render="doublequote">A Collection of Orthopedic Illustrations</title></unittitle></did></c02>
+
+<c02><did><container type="box">8</container><unittitle>Photographs:</unittitle></did>
+
+<c03><did><container type="box">8</container><unittitle>Spinal deformities and treatments, undated</unittitle></did></c03>
+
+<c03><did><container type="box">10</container><unittitle>Congenital dislocations of the hip paper, 1888-1904</unittitle><physdesc><extent>(5 folders)</extent></physdesc></did></c03>
+
+<c03><did><container type="box">10</container><unittitle>Pseudo hypertrophied paralysis and curves, undated</unittitle></did></c03>
+
+</c02>
+
+<c02><did><container type="box">16</container><unittitle>Scrapbook of figures and illustrations, circa 1900</unittitle><physdesc><extent>(24 cm. 70 leaves)</extent></physdesc></did><scopecontent>
+<p>Bound scrapbook containing illustrations of braces and other tools for treating patients with orthopedic complaints, diagrams illustrating the use of these tools, and photographs and drawings of affected persons. Images were probably used in Ridlon's published writings.</p>
+</scopecontent>
+</c02>
+
+</c01>
+
+<c01 level="series"><did>
+<unittitle id="s4">Writings Series, <unitdate type="inclusive" normal="1900/1900">circa 1900 and undated</unitdate></unittitle>
+<physdesc><extent>(3 boxes)</extent></physdesc>
+</did>
+
+<c02><did><container type="box">9</container><unittitle><title render="doublequote">Some Comments on the Principles and Practice of Hugh Owen Thomas, by John Ridlon,</title> undated</unittitle><physdesc><extent>(2 folders)</extent></physdesc></did><scopecontent>
+<p>Handwritten manuscript (on the reverse of <title render="doublequote">Principles and Practice of Orthopaedic Surgery,</title> by Philip Lewin). Hugh Owen Thomas was a Welsh surgeon considered the father of orthopaedic surgery in Britain. Typed versions of the manuscript can be found in the Correspondence Series.</p>
+</scopecontent>
+</c02>
+
+<c02><did><container type="box">12</container><unittitle><title render="doublequote">Club-foot,</title> circa 1900</unittitle><physdesc><extent>(10 cm. 22 leaves)</extent></physdesc></did><scopecontent>
+<p>Bound typescript manuscript. Pages of text are mounted on to the manuscript, which is an essay by J.R. on the congenital disorder <emph render="italic">talipes</emph>, vernacularly known as clubfoot, including illustrations of presentations of the disorder, possible treatments, and photographs of patients with the disorder printed in the text.</p>
+</scopecontent>
+</c02>
+
+<c02><did><container type="box">12</container><unittitle><title render="doublequote">General Principles,</title> circa 1900</unittitle><physdesc><extent>(10 cm. 31 leaves)</extent></physdesc></did><scopecontent>
+<p>Bound typescript manuscript with holograph notes containing writings on the general practice of orthopedics as well as diagnosis and treatment of spondylitis and scoliosis.</p>
+</scopecontent>
+</c02>
+
+<c02><did><container type="box">12</container><unittitle><title render="doublequote">Spondylitis,</title> circa 1900</unittitle><physdesc><extent>(10 cm. 72 p)</extent></physdesc></did><scopecontent>
+<p>Bound notebook written in holograph script containing writings and collected research on cases of spondylitis including causes and cures, as well as clippings pasted in,  illustrated notes laid in showing spinal curvature of patients with J.R.'s notes, and two photographs of a dissection of a patient with the disorder. Includes multiple pages of both holograph and typescript notes laid in.</p>
+</scopecontent>
+</c02>
+
+<c02><did><container type="box">13</container><unittitle><title render="doublequote">Reprints: Collected Papers of Dr. John Ridlon, Orthopedic Surgery, 1888-1923</title></unittitle><physdesc><extent>(1 vol.)</extent></physdesc></did></c02>
+
+</c01>
+
+
+<c01 level="series"><did>
+<unittitle id="s5">Oversize Materials, <unitdate type="inclusive" normal="1846/1924">1846-1924</unitdate></unittitle>
+<physdesc><extent>(1 folder)</extent></physdesc>
+</did>
+<scopecontent>
+<p>A variety of diplomas from educational institutions.</p>
+</scopecontent>
+
+<c02><did><container type="opaperfolder">1</container><unittitle>Diplomas, 1846-1924</unittitle><physdesc><extent>(14 items)</extent></physdesc></did></c02>
+
+
+
+</c01>
+
+</dsc>
+</archdesc>
+</ead>

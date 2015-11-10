@@ -1,0 +1,104 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "http://lcweb2.loc.gov/xmlcommon/dtds/ead2002/ead.dtd">
+<ead>
+<eadheader relatedencoding="Dublin Core" findaidstatus="edited-full-draft" langencoding="iso639-2b" scriptencoding="iso15924" audience="internal" id="a0">
+<eadid encodinganalog="identifier" url="http://hdl.handle.net/10407/0955631411" identifier="10407/0955631411">ksrl.ua.padenwilliam</eadid>
+<filedesc>
+<titlestmt>
+<titleproper encodinganalog="title">Guide to the William D. Paden Collection </titleproper>
+<subtitle>Personal Papers of William D. Paden, 1935-1973</subtitle>
+<author encodinganalog="creator">Finding aid prepared by ad, 2005</author>
+
+</titlestmt>
+<publicationstmt>
+<publisher encodinganalog="publisher">University of Kansas</publisher>
+<address><addressline>1450 Poplar Lane, Lawrence, KS 66045-7616</addressline><addressline>Phone: (785)864-4334</addressline><addressline>Fax: (785)864-5803</addressline><addressline>URL: http://spencer.lib.ku.edu</addressline></address>
+<date encodinganalog="date">2005</date>
+</publicationstmt>
+</filedesc>
+<profiledesc>
+<creation>Finding aid encoded by ad, 
+<date>2005</date>
+</creation>
+<langusage>Finding aid written in<language encodinganalog="language">English.</language></langusage>
+</profiledesc>
+</eadheader>
+
+<archdesc relatedencoding="MARC21" level="collection" type="inventory">
+<did id="a1">
+<head>COLLECTION SUMMARY</head>
+<repository label="Repository:" encodinganalog="852$a"><corpname>University of Kansas<subarea>Kenneth Spencer Research Library</subarea> <subarea>University Archives</subarea></corpname><address><addressline>1450 Poplar Lane, Lawrence, KS 66045-7616</addressline><addressline>Phone: (785)864-4334</addressline><addressline>Fax: (785)864-5803</addressline><addressline>URL: http://spencer.lib.ku.edu</addressline></address></repository>
+
+<origination label="Creator:"><persname encodinganalog="100">Paden, William Doremus, 1903- </persname></origination>
+
+<unittitle label="Title:" encodinganalog="245$a">Personal Papers of William D. Paden</unittitle>
+
+<unitdate type="inclusive" encodinganalog="245$f" label="Dates:">1935-1973</unitdate>
+       <physdesc>
+<extent label="Quantity:" encodinganalog="300$a">.25 linear ft (1 box)</extent>
+
+</physdesc><abstract encodinganalog="520$a" label="Abstract:">Paden taught English at the University of Kansas from 1935-1973. This collection consists of congratulatory letters about his retirement in 1973.</abstract>
+
+<unitid encodinganalog="099" type="call#" label="Identification:" countrycode="US" repositorycode="KFS">PP 169</unitid>
+
+</did>
+
+
+
+
+<!-- Top Level Metadata Goes Here: -->
+
+<bioghist altrender="biography" encodinganalog="545" id="a2">
+<head>BIOGRAPHY of <emph>William D. Paden</emph></head>
+<p>Paden received his A.M. in 1921, his Ph.B. in 1925, and his Ph.D. in 1935, all from Yale. He joined the faculty of the Department of English of KU in 1935. He reached full Professor status in 1951. He retired in 1973 and died in 1979.</p> 
+</bioghist>
+<relatedmaterial encodinganalog="544 1" id="a6">
+<head>RELATED MATERIAL</head>
+<p>Consult library staff regarding the availability of related photographs, biographical files, and scrapbooks.</p>
+
+</relatedmaterial>
+	<!-- Arrangement/Series Info Goes Here: -->
+
+
+	<!-- End Arrangement/Series Info -->
+
+<!-- End Top Level Metadata -->
+
+<!-- Controlled Access Terms Go Here: -->
+
+<!-- End Controlled Access Terms -->
+<!-- Administrative Information Goes Here: -->
+<acqinfo encodinganalog="541" id="a19">
+<head>Acquisition Information</head>
+<p>Unknown</p>
+</acqinfo>
+
+<userestrict encodinganalog="540" id="a15">
+<head>Restrictions on Use</head>
+<p/>
+<p>Spencer Library staff may determine use restrictions dependent on the physical condition of manuscript materials.</p>
+</userestrict>
+<accessrestrict id="a14" encodinganalog="506">
+<head>Restrictions on Access</head>
+<p>None</p>
+</accessrestrict>
+
+
+<prefercite encodinganalog="524" id="a18">
+<head>Preferred Citation</head>
+<p>William D. Paden Collection,  University Archives, PP 169, Kenneth Spencer Research Library, University of Kansas Libraries</p>
+</prefercite>
+
+
+<!-- End Administrative Information -->
+
+
+
+<!-- Start Description of Subordinate Components-->
+
+
+
+<!-- End Description of Subordinate Components-->
+
+</archdesc>
+</ead>

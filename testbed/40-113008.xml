@@ -1,0 +1,400 @@
+<?xml version="1.0" standalone="no"?>
+
+<!-- ======== DO NOT MODIFY THIS INFORMATION!!! =======  -->
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<?xml-stylesheet type="text/xsl" href="webead.xsl"?>
+<!-- =============================================== -->
+
+<ead audience="external" relatedencoding="MARC">
+	<eadheader audience="internal" countryencoding="iso3166-1" dateencoding="iso8601"
+		langencoding="iso639-2" repositoryencoding="iso15511" scriptencoding="iso15924">
+		<eadid countrycode="us" mainagencycode="MnHi">00803.xml</eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper>Elijah Evan Edwards: </titleproper>
+				<subtitle>An Inventory of His Civil War Journals at the Minnesota Historical
+					Society</subtitle>
+				<author>Finding aid prepared by Dennis Meissner.</author>
+				<sponsor>Minnesota Arts and Cultural Heritage Fund</sponsor>
+			</titlestmt>
+			<publicationstmt>
+				<publisher encodinganalog="Publisher">Minnesota Historical Society</publisher>
+				<address><addressline>St. Paul, MN.</addressline></address>
+			</publicationstmt>
+		             <seriesstmt><p>Manuscripts Collection</p></seriesstmt>         </filedesc>
+		<profiledesc>
+			<creation>Finding aid encoded by Christopher G. Welter, <date>November 2010.</date>
+			</creation>
+			<langusage>Finding aid written in <language langcode="eng">English</language>
+			</langusage>
+		</profiledesc>
+		<!-- OPTIONAL TAG: REVISION STATEMENT. use only if revising EAD-encoded finding aid. Erase opening and closing comment tags, as well as these instructions, to use.
+		<revisiondesc>
+  		<change>
+  		<date>Date of change</date>
+  		<item>Updated by ? because of ?</item>
+  		</change>
+  		</revisiondesc>
+  	-->
+	</eadheader>
+	<archdesc level="collection" type="inventory" relatedencoding="MARC">
+		<did>
+			<head id="a1">OVERVIEW</head>
+			<unitid countrycode="US" repositorycode="MnHi"> </unitid>
+			<repository label="Repository:">Minnesota Historical Society</repository>
+			<origination label="Creator:" encodinganalog="100/110/111">
+				<persname role="creator" encodinganalog="100">Edwards, Elijah Evan,
+					1831-1915.</persname>
+			</origination>
+			<unittitle label="Title:" encodinganalog="245$a">Elijah E. Edwards Civil War
+				journals.</unittitle>
+			<unitdate label="Date:" encodinganalog="245$f" normal="1864/1910" type="inclusive"
+				>1864-1865, 1906, 1910.</unitdate>
+			<langmaterial label="Language of Materials">Materials in <language langcode="eng"
+					>English.</language>
+			</langmaterial>
+			<abstract label="Abstract:">Three-volume set of journals (typescript compilation and two
+				volumes of photocopied originals) kept by Edwards, chaplain of the 7th Minnesota
+				Infantry during the Civil War. The journals contain observant and articulate
+				descriptions of scenery, towns and villages, people, and the war in Missouri,
+				Arkansas, Tennessee, Mississippi, Louisiana, and Alabama. Edwards documents camp
+				life and marches, as well as the Battles of Tupelo (July 14-15, 1864), Nashville
+				(December 12-13, 1864), and Mobile Bay (April 1865). He also comments on the
+				attitudes, behavior, and morality of the people involved in the conflict.</abstract>
+			<physdesc label="Quantity:" encodinganalog="300"> 0.75 cubic feet (1 box, containing 2
+				volumes and 2 folders; 1 box in Reserve, containing 1 volume).</physdesc>
+			<physloc label="Location:">See <ref target="a9">Detailed Description</ref> for shelf
+				locations.</physloc>
+		</did>
+		<bioghist encodinganalog="545">
+			<head altrender="biography" id="a2">BIOGRAPHICAL NOTE</head>
+			<p>Elijah Edwards was a teacher, professor, or administrator in several schools,
+				colleges, and universities; a clergyman in two protestant denominations; a writer,
+				poet, speaker, and artist; and chaplain of the Seventh Minnesota Infantry Regiment,
+				1864-1865, serving in several southern states. Following is a skeletal chronology of
+				his life:</p>
+			<bioghist>
+				<head>
+					<emph render="bold">Chronology</emph>
+				</head>
+				<chronlist>
+					<listhead>
+						<head01>Date</head01>
+						<head02>Event</head02>
+					</listhead>
+					<chronitem>
+						<date>1831</date>
+						<event>Born in Delaware, Ohio; family later moved to Indiana.</event>
+					</chronitem>
+					<chronitem>
+						<date>1853</date>
+						<event>Graduated from Indiana Asbury (DePauw University).</event>
+					</chronitem>
+					<chronitem>
+						<date>1853-1856</date>
+						<event>Professor, Brookville (Indiana) College.</event>
+					</chronitem>
+					<chronitem>
+						<date>1856</date>
+						<event>Master of Arts, Indiana Asbury.</event>
+					</chronitem>
+					<chronitem>
+						<date>1856-1857</date>
+						<event>Educational administrator in Indiana.</event>
+					</chronitem>
+					<chronitem>
+						<date>1857-1858</date>
+						<event>Professor, Hamline University, Red Wing, Minnesota.</event>
+					</chronitem>
+					<chronitem>
+						<date>1860-1863</date>
+						<event>Methodist minister, Minnesota and Wisconsin.</event>
+					</chronitem>
+					<chronitem>
+						<date>1864-1865</date>
+						<event>Chaplain, 7th Minnesota Infantry.</event>
+					</chronitem>
+					<chronitem>
+						<date>1866-1871</date>
+						<event>Assistant editor, Central Christian Advocate, St. Louis.</event>
+					</chronitem>
+					<chronitem>
+						<date>1871-1879</date>
+						<event>Professor, McKendree College, Lebanon, Illinois.</event>
+					</chronitem>
+					<chronitem>
+						<date>1879-1882</date>
+						<event>First president, Colorado Agricultural College, Fort Collins (now
+							Colorado State University).</event>
+					</chronitem>
+					<chronitem>
+						<date>1888-1905</date>
+						<event>Episcopal minister.</event>
+					</chronitem>
+					<chronitem>
+						<date>1915</date>
+						<event>Died in LaBelle, Florida.</event>
+					</chronitem>
+				</chronlist>
+			</bioghist>
+		</bioghist>
+		<scopecontent encodinganalog="520">
+			<head id="a3">SCOPE AND CONTENTS</head>
+			<p>The collection consists principally of three volumes: Volume 1 is a 1910 typed
+				compilation based on Edwards’ diaries and other sources detailing his Civil War
+				experiences (June 29-November 30, 1864); volumes 2 and 3 are photocopies of his
+				handwritten journal (December 1, 1864-October 6, 1865).</p>
+			<p>According to Edwards' own introductory note, volume 1 "is based on the brief
+				pencilings of a pocket diary, from descriptive letters sent home . . . or from
+				letters published in the home papers," and its accuracy of dates and locations
+				depended upon his original diaries. An 1865 diary went missing prior to the 1910
+				typescript, so "Many of these missing dates have been verified or corrected by the
+				aid of small pocket diary written by Sergeant D. E. Williams of Co. K, kindly loaned
+				me for the purpose."</p>
+			<p>Volume 1's couple dozen sketches (in pencil or ink, some embellished with color)
+				"were taken in generally from hasty outlines finished from memory when I had
+				leisure." These generally skillful drawings illustrate the countryside, buildings,
+				people, and military activities described in the text. Volume 1 also contains tables
+				of contents for illustrations and text, as well as Captain Theodore G. Carter's
+				explanatory note on and account of the Battle of Tupelo.</p>
+			<p>While the formats differ between volume 1 and volumes 2-3, subject content and
+				writing style remain consistent throughout them. Observant and articulate
+				descriptions of the life and war surrounding Edwards fill each volume. Much
+				commentary is devoted to the natural scenery, cities and villages, buildings, and
+				industries found in the South; portions of Missouri, Arkansas, Tennessee,
+				Mississippi, Louisiana, and Alabama are variously described. Edwards also pictures
+				army camp life and marches, recounts news and rumors, and provides descriptions of
+				some of his comrades.</p>
+			<p>Edwards’ duties as chaplain are not related in any detail; there is more data
+				regarding military and civilian religious services he attended as a visitor. There
+				is also information concerning his auxiliary service on ambulance and burial
+				details. Edwards saw few battles, but his removal from the center of conflict at
+				such times permitted him to set down observant accounts of the activity. Included
+				are descriptions of the Battles of Tupelo, Mississippi (July 14-15, 1864);
+				Nashville, Tennessee (December 12-13, 1864); Mobile Bay, Alabama (April 1865); and a
+				few incidental skirmishes throughout the period. Edwards also spent two months in
+				military hospitals with malaria and other climate-related diseases
+				(September-October 1864; March 1865).</p>
+			<p>The journals also contain Edwards’ observations on the attitudes, behavior, and
+				morality of the people involved in the war: Union and Confederate soldiers, southern
+				white civilians (including clergy), and southern Blacks. The journals contain many
+				reflections on the ugliness and brutality resulting from the war, especially burning
+				and plundering by Union soldiers, atrocities committed by southern whites upon Black
+				freedmen, and the hate and anarchy pervading the southern citizenry.</p>
+			<p>In a separate folder is a photocopy of an article by an unidentified author entitled
+				“McArthur’s Division at Nashville as Seen by a Regimental Commander,” February 4,
+				1906. The article is incomplete and consists of the first four pages of the
+				original.</p>
+		</scopecontent>
+		<descgrp type="admininfo">
+			<head id="a8">ADMINISTRATIVE INFORMATION</head>
+			<accessrestrict encodinganalog="506">
+				<head>Access Restrictions:</head>
+				<p>Access to volume 1 shelved in Reserve requires the curator's permission.</p>
+			</accessrestrict>
+			<userestrict encodinganalog="540">
+				<head>Use Restrictions:</head>
+				<p>The Minnesota Historical Society does not hold copyright to the collection's
+					material.</p>
+				<p>Permission to copy, quote, or publish from volumes 2-3 must be obtained from
+					Depauw University Archives, Roy O. West Library, Greencastle, Indiana 46135.</p>
+			</userestrict>
+			<prefercite encodinganalog="524">
+				<head>Preferred Citation:</head>
+				<p><emph render="italic">[Indicate the cited item and/or series here]</emph>. Elijah
+					E. Edwards Civil War Journals. Minnesota Historical Society.</p>
+				<p>
+					<emph render="italic">See the Chicago Manual of Style for additional
+						examples.</emph>
+				</p>
+			</prefercite>
+			<originalsloc encodinganalog="535">
+				<head>Location of Originals:</head>
+				<p>Volumes 2-3 Depauw University Archives, Roy O. West Library; Greencastle, IN
+					46135</p>
+			</originalsloc>
+			<acqinfo>
+				<head>Accession Information:</head>
+				<p>Accession numbers: 1781J; 11,979; 13,506 </p>
+			</acqinfo>
+			<processinfo>
+				<head>Processing Information:</head>
+				<p><extptr show="embed" altrender="right" title="Legacy Amendment logo"
+					href="images/legacylogo_thumb.jpg"/></p>
+				<p>Processed by: Dennis E. Meissner, January 1977; Rich Arpi, April 2007</p>
+				<p>Digitized by: Christopher G. Welter, November 2010.</p>
+				<p>Digitization of reserve material was made possible by the Arts and Cultural
+					Heritage Fund through the vote of Minnesotans on November 4, 2008.</p>
+				<p>Catalog ID number: 001715416</p>
+			</processinfo>
+		</descgrp>
+		<controlaccess>
+			<head id="a7">CATALOG HEADINGS</head>
+			<p>This collection is indexed under the following headings in the catalog of the
+				Minnesota Historical Society. Researchers desiring materials about related topics,
+				persons or places should <extref linktype="simple" show="new"
+					href="http://mnhs.mnpals.net"> search the catalog</extref> using these
+				headings.</p>
+			<controlaccess>
+				<head>Topics:</head>
+				<subject encodinganalog="650">Military chaplains.</subject>
+				<subject encodinganalog="650">Soldiers -- United States.</subject>
+			</controlaccess>
+			<controlaccess>
+				<head>Persons:</head>
+				<persname encodinganalog="700">Carter, Theodore George, 1832-1914.</persname>
+				<persname encodinganalog="600">Edwards, Elijah Evan, 1831-1915 -- Notebooks,
+					sketchbooks, etc.</persname>
+			</controlaccess>
+			<controlaccess>
+				<head>Organizations:</head>
+				<corpname encodinganalog="610">United States. Army. Minnesota Infantry Regiment, 7th
+					(1864-1965).</corpname>
+			</controlaccess>
+			<controlaccess>
+				<head>Places:</head>
+				<geogname encodinganalog="651">Southern States -- Description and travel.</geogname>
+				<geogname encodinganalog="651">United States -- History -- Civil War, 1861-1865 --
+					Campaigns.</geogname>
+				<geogname encodinganalog="651">United States -- History -- Civil War, 1861-1865 --
+					Hospitals.</geogname>
+				<geogname encodinganalog="651">United States -- History -- Civil War, 1861-1865 --
+					Personal narratives.</geogname>
+			</controlaccess>
+			<controlaccess>
+				<head>Document Types:</head>
+				<genreform encodinganalog="655">Journals.</genreform>
+				<genreform encodinganalog="655">Sketches.</genreform>
+			</controlaccess>
+		</controlaccess>
+		<dsc type="combined">
+			<head id="a9">DETAILED DESCRIPTION</head>
+			<c01>
+				<did>
+					<physloc>P470</physloc>
+					<unittitle>Volume 1, </unittitle>
+					<unitdate>August 1910.</unitdate>
+					<physdesc>1 folder. Photocopy.</physdesc>
+				</did>
+				<scopecontent>
+					<p>Edwards' compilation covering June 29-November 30, 1864.</p>
+				</scopecontent>
+			</c01>
+			<c01>
+				<did>
+					<unittitle>Volume 2, </unittitle>
+					<unitdate>December 1, 1864-February 22, 1865.</unitdate>
+					<physdesc>1 volume. Photocopy.</physdesc>
+				</did>
+				<scopecontent>
+					<p>Pages 1-70 and some at the end are missing; contains pages 71-218.</p>
+				</scopecontent>
+			</c01>
+			<c01>
+				<did>
+					<unittitle>Volume 3, </unittitle>
+					<unitdate>March 10-October 6, 1865.</unitdate>
+					<physdesc>1 volume. Photocopy.</physdesc>
+				</did>
+				<scopecontent>
+					<p>Contains pages 219-372.</p>
+				</scopecontent>
+			</c01>
+			<c01>
+				<did>
+					<unittitle>"McArthur's Division at Nashville . . . ,"</unittitle>
+					<unitdate>February 1, 1906.</unitdate>
+					<physdesc>1 folder. Photocopy.</physdesc>
+				</did>
+				<scopecontent>
+					<p>Incomplete typescript by unknown author.</p>
+				</scopecontent>
+			</c01>
+			<c01>
+				<did>
+					<physloc>Reserve 88</physloc>
+					<unittitle>Volume 1, </unittitle>
+					<unitdate>August 1910.</unitdate>
+				</did>
+				<accessrestrict>
+					<p><emph render="bold">Access Restricted.</emph></p>
+				</accessrestrict>
+				<scopecontent>
+					<p>Original of Edwards' compilation covering June 29-November 30, 1864.</p>
+				</scopecontent>
+				<daogrp>
+					<daodesc>
+						<p>Digital version, part 1</p>
+					</daodesc>
+					<daoloc role="reference" href="00803/pdf/00803-000001-1.pdf"/>
+					<daoloc altrender="left" role="thumbnail"
+						href="00803/images/mhsfap0470004_thumb.jpg"
+						title="Elijah Edwards Civil War journal, volume 1."/>
+				</daogrp>
+				<daogrp>
+					<daodesc>
+						<p>Digital version, part 2</p>
+					</daodesc>
+					<daoloc role="reference" href="00803/pdf/00803-000001-2.pdf"/>
+					<daoloc altrender="left" role="thumbnail"
+						href="00803/images/mhsfap0470021_thumb.jpg"
+						title="Elijah Edwards Civil War journal, volume 1."/>
+				</daogrp>
+				<daogrp>
+					<daodesc>
+						<p>Digital version, part 3</p>
+					</daodesc>
+					<daoloc role="reference" href="00803/pdf/00803-000001-3.pdf"/>
+					<daoloc altrender="left" role="thumbnail"
+						href="00803/images/mhsfap0470041_thumb.jpg"
+						title="Elijah Edwards Civil War journal, volume 1."/>
+				</daogrp>
+				<daogrp>
+					<daodesc>
+						<p>Digital version, part 4</p>
+					</daodesc>
+					<daoloc role="reference" href="00803/pdf/00803-000001-4.pdf"/>
+					<daoloc altrender="left" role="thumbnail"
+						href="00803/images/mhsfap0470061_thumb.jpg"
+						title="Elijah Edwards Civil War journal, volume 1."/>
+				</daogrp>
+				<daogrp>
+					<daodesc>
+						<p>Digital version, part 5</p>
+					</daodesc>
+					<daoloc role="reference" href="00803/pdf/00803-000001-5.pdf"/>
+					<daoloc altrender="left" role="thumbnail"
+						href="00803/images/mhsfap0470081_thumb.jpg"
+						title="Elijah Edwards Civil War journal, volume 1."/>
+				</daogrp>
+				<daogrp>
+					<daodesc>
+						<p>Digital version, part 6</p>
+					</daodesc>
+					<daoloc role="reference" href="00803/pdf/00803-000001-6.pdf"/>
+					<daoloc altrender="left" role="thumbnail"
+						href="00803/images/mhsfap0470102_thumb.jpg"
+						title="Elijah Edwards Civil War journal, volume 1."/>
+				</daogrp>
+				<daogrp>
+					<daodesc>
+						<p>Digital version, part 7</p>
+					</daodesc>
+					<daoloc role="reference" href="00803/pdf/00803-000001-7.pdf"/>
+					<daoloc altrender="left" role="thumbnail"
+						href="00803/images/mhsfap0470123_thumb.jpg"
+						title="Elijah Edwards Civil War journal, volume 1."/>
+				</daogrp>
+				<daogrp>
+					<daodesc>
+						<p>Digital version, part 8</p>
+					</daodesc>
+					<daoloc role="reference" href="00803/pdf/00803-000001-8.pdf"/>
+					<daoloc altrender="left" role="thumbnail"
+						href="00803/images/mhsfap0470144_thumb.jpg"
+						title="Elijah Edwards Civil War journal, volume 1."/>
+				</daogrp>
+			</c01>
+		</dsc>
+	</archdesc>
+</ead>

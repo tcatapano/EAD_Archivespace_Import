@@ -1,0 +1,214 @@
+<?xml version="1.0"?>
+<!-- <!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "http://lcweb2.loc.gov/xmlcommon/dtds/ead2002/ead.dtd">-->
+<!-- wiarchives version:2012-08-03 -->
+<ead id="uw-mil-uwmmss0073" relatedencoding="MARC21">
+  <eadheader langencoding="iso639-2b" audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924" relatedencoding="MARC21">
+    <eadid countrycode="US" mainagencycode="wimiugma" url="http://digital.library.wisc.edu/1711.dl/wiarchives.uw-mil-uwmmss0073" encodinganalog="856$u">uw-mil-uwmmss0073</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper encodinganalog="245$a">Finding Aid of the Milton Potter Papers, 1890-1924</titleproper>
+      </titlestmt>
+      <publicationstmt>
+        <publisher encodinganalog="260$b">University of Wisconsin-Milwaukee Libraries, Archives Department</publisher>
+        <address>
+          <addressline>University of Wisconsin-Milwaukee</addressline>
+          <addressline>UWM Libraries</addressline>
+          <addressline>Archives Department</addressline>
+          <addressline>P.O. Box 604</addressline>
+          <addressline>Milwaukee, Wisconsin 53201-0604</addressline>
+          <addressline>URL: www.uwm.edu/Libraries/arch/index.html<extptr href="http://www.uwm.edu/Libraries/arch/index.html"/></addressline>
+        </address>
+        <date encodinganalog="260$c" type="publication" normal="2007">Copyright  2007 University of Wisconsin Board of Regents</date>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation encodinganalog="500">Finding aid encoded by Dan Vinson</creation>
+      <langusage encodinganalog="546">Finding aid written in <language encodinganalog="041" langcode="eng" scriptcode="Latn">English.</language></langusage>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection" relatedencoding="MARC21">
+    <did>
+      <physloc type="locationcode" audience="internal">wimiugma</physloc>
+      <unittitle encodinganalog="245$a">Milton Potter Papers, <unitdate type="inclusive" encodinganalog="245$f" normal="1890/1924">1890-1924</unitdate></unittitle>
+      <origination label="Creator">
+        <persname encodinganalog="100">Potter, Milton, 1873-</persname>
+      </origination>
+      <unitid label="Call Number" encodinganalog="099" repositorycode="us-wimiugma" countrycode="US">UWM Manuscript Collection 73</unitid>
+      <physdesc label="Quantity">
+        <extent encodinganalog="300">1.2 cubic ft. (3 boxes)</extent>
+      </physdesc>
+      <repository encodinganalog="852">
+        <extptr entityref="uwmlogo" show="embed" actuate="onload" altrender="center" title="University of Wisconsin-Milwaukee Logo." role="logoimage"/>
+        <extref href="http://www.uwm.edu/Libraries/arch/index.html">
+          <corpname>University of Wisconsin-Milwaukee Libraries, Archives Department</corpname>
+        </extref>
+      </repository>
+      <abstract encodinganalog="520">Miscellaneous papers of a superintendent of schools in Pueblo, Colorado; St. Paul, Minnesota; and Milwaukee, Wisconsin. Consists largely of Potter's professional correspondence concerning support for educational programs and his views on the quality of various school texts. There is almost no information on Potter's administration of the schools. Contains some correspondence with his parents, usually concerning routine family matters, family pictures, and some of Potter's awards. Also includes extensive correspondence (1904-1905) between Potter and his future wife, Camilla (ne Barbara), written during their courtship.</abstract>
+      <langmaterial encodinganalog="546" label="Language">
+        <language encodinganalog="041" langcode="eng">English</language>
+      </langmaterial>
+    </did>
+    <arrangement encodinganalog="351">
+      <p>The files are organized alphabetically by personal name or by subject, then chronologically.</p>
+    </arrangement>
+    <prefercite encodinganalog="524">
+      <p>
+        <extref href="http://www.uwm.edu/Libraries/arch/services/citations.html">Citation Guide for Primary Sources</extref>
+      </p>
+    </prefercite>
+    <descgrp type="admininfo">
+      <head>Administrative/Restriction Information</head>
+      <accessrestrict encodinganalog="506">
+        <p>There are no access restrictions on the materials, and the collection is open to all members of the public in accordance with state law.</p>
+      </accessrestrict>
+      <userestrict encodinganalog="540">
+        <p>The researcher assumes full responsibility for conforming with the laws of libel, privacy, and copyright which may be involved in the use of this collection (Wisconsin Statutes 19.21-19.39).</p>
+      </userestrict>
+      <acqinfo encodinganalog="541">
+        <p>An unknown donor gave the collection to the Milwaukee Public Library at an unknown date. The Library transferred the collection to the Archives in the spring 1991 (accession 1995-049).</p>
+      </acqinfo>
+      <processinfo encodinganalog="583">
+        <p>Mark A. Vargas processed the collection at the Archives in August 1992.</p>
+      </processinfo>
+    </descgrp>
+    <dsc type="in-depth">
+      <head>Contents List</head>
+      <c01>
+        <did>
+          <unittitle>Account Book, 1905-1906</unittitle>
+          <container type="box" label="Box">1</container>
+          <container type="folder" label="Folder">1</container>
+        </did>
+      </c01>
+      <c01>
+        <did>
+          <unittitle>American Book Company, 1911-1918</unittitle>
+          <container type="box" label="Box">1</container>
+          <container type="folder" label="Folder">2</container>
+        </did>
+      </c01>
+      <c01>
+        <did>
+          <unittitle>Appointment Book, 1923</unittitle>
+          <container type="box" label="Box">1</container>
+          <container type="folder" label="Folder">3</container>
+        </did>
+      </c01>
+      <c01>
+        <did>
+          <unittitle>Barbara, Camilla</unittitle>
+        </did>
+        <c02>
+          <did>
+            <unittitle>Letters from, 1904-1905</unittitle>
+            <container type="box" label="Box">1</container>
+            <container type="folder" label="Folder">4</container>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Letters to, 1904-1905</unittitle>
+            <container type="box" label="Box">1</container>
+            <container type="folder" label="Folder">5-8</container>
+          </did>
+        </c02>
+      </c01>
+      <c01>
+        <did>
+          <unittitle>Correspondence</unittitle>
+        </did>
+        <c02>
+          <did>
+            <unittitle>1903-1912</unittitle>
+            <container type="box" label="Box">2</container>
+            <container type="folder" label="Folder">1</container>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>1913</unittitle>
+            <container type="box" label="Box">2</container>
+            <container type="folder" label="Folder">2</container>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>1913-1914</unittitle>
+            <container type="box" label="Box">2</container>
+            <container type="folder" label="Folder">3</container>
+          </did>
+        </c02>
+      </c01>
+      <c01>
+        <did>
+          <unittitle>Dugan, P.J., 1912-1913</unittitle>
+          <container type="box" label="Box">2</container>
+          <container type="folder" label="Folder">4</container>
+        </did>
+      </c01>
+      <c01>
+        <did>
+          <unittitle>Ginn and Company, 1911-1916</unittitle>
+          <container type="box" label="Box">2</container>
+          <container type="folder" label="Folder">5</container>
+        </did>
+      </c01>
+      <c01>
+        <did>
+          <unittitle>Letters of Recommendation, 1908-1913</unittitle>
+          <container type="box" label="Box">2</container>
+          <container type="folder" label="Folder">6</container>
+        </did>
+      </c01>
+      <c01>
+        <did>
+          <unittitle>Milwaukee, Wisconsin, Superintendent of Schools, 1918-1924</unittitle>
+          <container type="box" label="Box">2</container>
+          <container type="folder" label="Folder">7</container>
+        </did>
+      </c01>
+      <c01>
+        <did>
+          <unittitle>Personal Correspondence, 1905-1919</unittitle>
+          <container type="box" label="Box">2</container>
+          <container type="folder" label="Folder">8</container>
+        </did>
+      </c01>
+      <c01>
+        <did>
+          <unittitle>Potter Family, Photographs and Records, 1896-1914, undated</unittitle>
+          <container type="box" label="Box">3</container>
+          <container type="folder" label="Folder">1</container>
+        </did>
+      </c01>
+      <c01>
+        <did>
+          <unittitle>Pueblo, Colorado, Superintendent of Schools, 1912</unittitle>
+          <container type="box" label="Box">3</container>
+          <container type="folder" label="Folder">2</container>
+        </did>
+      </c01>
+      <c01>
+        <did>
+          <unittitle>The Society of the Sons of the Revolution, 1890-1913</unittitle>
+          <container type="box" label="Box">3</container>
+          <container type="folder" label="Folder">3</container>
+        </did>
+      </c01>
+      <c01>
+        <did>
+          <unittitle>St. Paul, Minnesota, Superintendent of Schools, 1913-1914</unittitle>
+          <container type="box" label="Box">3</container>
+          <container type="folder" label="Folder">4-5</container>
+        </did>
+      </c01>
+      <c01>
+        <did>
+          <unittitle>Writings, 1917</unittitle>
+          <container type="box" label="Box">3</container>
+          <container type="folder" label="Folder">6</container>
+        </did>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

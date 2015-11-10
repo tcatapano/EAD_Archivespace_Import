@@ -1,0 +1,144 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead relatedencoding="marc21"> 
+  <eadheader audience="internal"> 
+    <eadid countrycode="US" mainagencycode="TxSaU" encodinganalog="852$a">urn:taro:utsa.00299</eadid> 
+    <filedesc> 
+      <titlestmt> 
+        <titleproper>Inventory of the Eugenio Cortez Collection, <date normal="/" type="inclusive">1893-1900, 1914-1918 and undated</date></titleproper> 
+      </titlestmt> 
+    </filedesc> 
+    <profiledesc> 
+      <creation> 
+        <date normal="">August 5, 2011</date>Encoded in XMetal Author by Nikki Lynn Thomas according to instructions in 
+        <title>TARO 2 EAD 2002 Editing Instructions.</title></creation> 
+<langusage>Finding aid is in
+      <language encodinganalog="language" langcode="eng">English</language>
+      </langusage>        
+    </profiledesc> 
+  </eadheader> 
+
+ <archdesc type="inventory" level="collection"> 
+    <did> 
+      <head>Descriptive Summary</head> 
+      <origination label="Creator:"><persname>Cortez, Eugenio. </persname> 		          
+        </origination>                     
+      <unittitle encodinganalog="245" label="Title:">Eugenio Cortez Collection</unittitle>      
+      <unitdate type="inclusive" encodinganalog="245$f" label="Dates:"></unitdate><langmaterial label="Language:">Materials are in <language langcode="eng">English</language> and <language langcode="spa">Spanish</language>.</langmaterial> 
+      <unitid label="Identification:">MS 356</unitid> 
+      <physdesc label="Extent:" encodinganalog="300$a">2 linear feet</physdesc>
+      
+      <repository label="Repository:" encodinganalog="852$a"> 
+        <extref href="http://www.lib.utsa.edu/Archives/" show="new" actuate="onrequest"> 
+          <corpname encodinganalog="852$a"> The University of
+            Texas at San Antonio Libraries <subarea>Special
+            Collections</subarea>.</corpname></extref></repository> 
+      
+      
+      <abstract encodinganalog="545$a" label="Creator Abstract:">The Cortez family moved from San Diego, Texas to San Antonio, Texas.</abstract><abstract label="Content Abstract:" encodinganalog="520$a">The collection consists of 30 photographs documenting landmarks in San Diego, TX and San Antonio, TX as well as Eugenio Cortez's family members.</abstract>
+      
+    </did>
+  <bioghist encodinganalog="545"> 
+    <head>Biographical Note</head><p>The Cortez family moved from San Diego, Texas to San Antonio, Texas.</p>
+    
+  </bioghist> 
+  <scopecontent encodinganalog="520"> 
+    <head>Scope and Content Note</head><p>The collection consists of 30 photographs documenting landmarks in San Diego, TX and San Antonio, TX as well as Eugenio Cortez's family members.</p>
+    
+  </scopecontent> 
+   
+  <accessrestrict encodinganalog="506"> 
+    <head>Access Restrictions</head> 
+    <p>This collection is housed at UTSA's Main Campus and must be accessed via the John Peace Library Special Collections reading room. To request access, please use the <extref actuate="onrequest" show="new" href="http://lib.utsa.edu/planning-a-visit/request-off-site-collection/">Collections Request Form.</extref></p> 
+  </accessrestrict> 
+  <userestrict> 
+    <head>Usage Restrictions</head> 
+    <p>The researcher assumes full responsibility for observing all copyright,
+      property, and libel laws as they apply.</p> 
+  </userestrict> 
+  <relatedmaterial encodinganalog="544 1"> 
+    <head>Related Materials</head> 
+   <p>There are no known other archival collections created by Eugenio Cortez at the date of
+      accessioning.</p> 
+  </relatedmaterial> 
+  <acqinfo encodinganalog="541"> 
+    <head>Acquisition Information</head> 
+    <p>Donated in July 2011 (2011-030).</p> 
+  </acqinfo> 
+  <processinfo> 
+    <head>Processing Information</head> 
+   <p>Collection encoded by Nikki Lynn Thomas, Manuscripts Curator.</p> 
+  </processinfo> 
+ <prefercite encodinganalog="524"> 
+    <head>Preferred Citation</head> 
+   <p>[Identification of item], Eugenio Cortez collection, MS 356, University of Texas at San Antonio Libraries Special Collections.</p> 
+  </prefercite>   
+ <controlaccess> 
+      <head>Index Terms</head> 
+      <controlaccess> 
+        <head>Personal Names</head> 
+        <persname encodinganalog="600" source="lcnaf">Cortez, Eugenio</persname> 
+      </controlaccess> 
+       
+       
+      <controlaccess> 
+        <head>Locations</head> 
+        <geogname encodinganalog="651" source="lcsh">San Antonio (Tex.)</geogname> 
+      <geogname encodinganalog="651" source="lcsh">San Diego (Tex.)</geogname></controlaccess> 
+      <controlaccess> 
+        <head>Genres/Formats</head> 
+        <genreform encodinganalog="655" source="aat">Photographs.</genreform> 
+      </controlaccess> 
+    <controlaccess> 
+        <head>Local Subjects</head> 
+         
+      <subject encodinganalog="653" source="local">Photographs/Photography
+</subject><subject encodinganalog="653" source="local">San Antonio History
+</subject></controlaccess></controlaccess>   
+   <dsc type="othertype"> 
+      <head></head> 
+      <c01 level="otherlevel" otherlevel="accession"> 
+         <did> 
+            <unittitle>Eugenio Cortez collection</unittitle> 
+            
+         </did> 
+          
+
+
+<c02><did><container type="Box">OM1</container><unittitle>	Autograph album (San Diego, Texas), <unitdate>1893-1894</unitdate></unittitle></did></c02>
+<c02><did><container type="Box">OM1</container><unittitle>	"Humor" scrapbook of comics, undated</unittitle></did></c02>
+<c02><did><container type="Box">OM1</container><unittitle>	Archie Gunn "If Wishes Came True" postcard, undated</unittitle></did></c02>
+<c02><did><container type="Box">OM1</container><unittitle>	Photograph, ["Maggie and Ona", "San Pedro Park for a day's outing"], <unitdate>February 22, 1900</unitdate></unittitle></did></c02>
+<c02><did><container type="Box">OM1</container><unittitle>	Photograph postcard [note from Mercedes Resendez to Cesilia Garza de Gonzales, pictured: Mercedes Resendez], <unitdate>August 29, 1914</unitdate></unittitle></did></c02>
+<c02><did><container type="Box">OM1</container><unittitle>	Photograph postcard [pictured: Jose Garza Jimenez, 32 years, Maria de los Angeles 4 years, San Antonio], <unitdate>July 14, 1914</unitdate></unittitle></did></c02>
+<c02><did><container type="Box">OM1</container><unittitle>	Photograph postcard, unidentified couple [2 copies, 1 addressed to Cecilia G. de Garza and signed by Micaela G. de Jimenez, the other addressed to Maria Gonzalez and signed by Micaela G. de Jimenez], undated</unittitle></did></c02>
+<c02><did><container type="Box">OM1</container><unittitle>	Photograph postcard [from Maria Queroga to Jose G. Jimenez, pictured: 13 year old daughter of Maria Queroga],<unitdate> May 15, 1917</unitdate></unittitle></did></c02>
+<c02><did><container type="Box">OM1</container><unittitle>	Photograph postcard [pictured: Virginia, daughter of Jose and Virginia , 21 months], <unitdate>April 22, 1918</unitdate></unittitle></did></c02>
+<c02><did><container type="Box">OM1</container><unittitle>	Photograph postcard[pictured: Roberto de los Santos y Esposato, 2 years 1 month], undated</unittitle></did></c02>
+<c02><did><container type="Box">OM1</container><unittitle>	Tinted photograph [pictured: Carolina Peña], undated</unittitle></did></c02>
+<c02><did><container type="Box">OM1</container><unittitle>	Unidentified family photograph [2 adults, 4 children], undated</unittitle></did></c02>
+<c02><did><container type="Box">OM1</container><unittitle>	Unidentified family photograph, undated</unittitle></did></c02>
+<c02><did><container type="Box">OM1</container><unittitle>	Unidentified work room photograph [Cream Meal packaging], undated</unittitle></did></c02>
+<c02><did><container type="Box">OM1</container><unittitle>	Unidentified female portrait, undated</unittitle></did></c02>
+<c02><did><container type="Box">OM1</container><unittitle>	Unidentified photograph [water tower in background], undated</unittitle></did></c02>
+<c02><did><container type="Box">OM1</container><unittitle>	Photograph postcard, unidentified woman, undated</unittitle></did></c02>
+<c02><did><container type="Box">OM1</container><unittitle>	Photograph postcard, unidentified adolescent girl, undated</unittitle></did></c02>
+<c02><did><container type="Box">OM1</container><unittitle>	Photograph postcard, unidentified man, undated</unittitle></did></c02>
+<c02><did><container type="Box">OM1</container><unittitle>	Photograph postcard, unidentified man, undated</unittitle></did></c02>
+<c02><did><container type="Box">OM1</container><unittitle>	Photograph postcard, unidentified man, undated</unittitle></did></c02>
+<c02><did><container type="Box">OM1</container><unittitle>	Photograph postcard, two unidentified children, undated</unittitle></did></c02>
+<c02><did><container type="Box">OM1</container><unittitle>	Photograph postcard, unidentified infant, undated</unittitle></did></c02>
+<c02><did><container type="Box">OM1</container><unittitle>	Photograph postcard, unidentified house [20 adults posed on porch and balcony], undated</unittitle></did></c02>
+<c02><did><container type="Box">OM1</container><unittitle>	Unidentified men shaking hands under tree, undated</unittitle></did></c02>
+<c02><did><container type="Box">OM1</container><unittitle>	Unidentified toddler, undated</unittitle></did></c02>
+<c02><did><container type="Box">OM1</container><unittitle>	Unidentified toddler, undated</unittitle></did></c02>
+<c02><did><container type="Drawer">70</container><unittitle>	Unidentified family portrait, undated</unittitle></did></c02>
+<c02><did><container type="Drawer">70</container><unittitle>	Unidentified church photograph [possibly San Diego, TX]</unittitle></did></c02>
+<c02><did><container type="Drawer">70</container><unittitle>	Southern Cement Products Company photograph [hand-tinted panoramic of work or stock yard]</unittitle></did></c02>
+          
+ 
+</c01> 
+       
+      
+   </dsc> 
+</archdesc> </ead> 

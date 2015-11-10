@@ -1,0 +1,385 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="../shared/styles/ead.xsl"?>
+<!DOCTYPE ead SYSTEM "../shared/ead/ead.dtd" [
+  <!ENTITY jhulogo SYSTEM "file:///C|/Workshop/Documents/images/jhulogo.gif" NDATA gif>
+]>
+<ead> <?xm-replace_text ?>
+  <eadheader> 
+	 <eadid countrycode="us" mainagencycode="MdBJ">rg.07.110</eadid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper>Records of the School of Advanced International Studies,
+			 Asian Studies 
+			 <date normal="1968/1982">1968-1982</date> 
+			 <num>07.110</num></titleproper> 
+		  <author>Katrina Tautz</author> 
+		</titlestmt> 
+		<publicationstmt> 
+		  <publisher>The Ferdinand Hamburger Archives, The Milton S. Eisenhower
+			 Library, The Johns Hopkins University </publisher> 
+		  <address> 
+			 <addressline>3400 N. Charles Street</addressline> 
+			 <addressline>Baltimore, MD</addressline> 
+			 <addressline>21218</addressline> 
+			 <addressline>USA</addressline> 
+			 <addressline>Phone: (410) 516-8323</addressline> 
+		  </address> 
+		</publicationstmt> 
+	 </filedesc> 
+	 <profiledesc> 
+		<creation>Machine-readable finding aid encoded by Marius Stan</creation> 
+		<langusage>Finding aid written in <language
+		  langcode="eng">English</language></langusage> 
+	 </profiledesc> 
+  </eadheader> 
+  <frontmatter> 
+	 <titlepage> 
+		<titleproper>Records of the School of Advanced International Studies,
+		  Asian Studies 
+		  <date normal="1968/1982">1968-1982</date> </titleproper> 
+		<num>Record Group Number 07.110</num> 
+		<publisher>The Ferdinand Hamburger Archives<lb/>The Milton S. Eisenhower
+		  Library<lb/> The Johns Hopkins University</publisher> 
+		<date></date> 
+		<list type="simple"> 
+		  <head>Contact Information</head> 
+		  <item>The Ferdinand Hamburger Archives</item> 
+		  <item>The Milton S. Eisenhower Library</item> 
+		  <item>The Johns Hopkins University</item> 
+		  <item>3400 North Charles Street</item> 
+		  <item>Baltimore, MD 21218</item> 
+		  <item>(410) 516-8323</item> 
+		</list> 
+		<list type="deflist"> 
+		  <defitem> 
+			 <label>Processed by:</label> 
+			 <item>Katrina Tautz</item> 
+		  </defitem> 
+		  <defitem> 
+			 <label>Encoded by:</label> 
+			 <item>Marius Stan</item> 
+		  </defitem> 
+		</list> 
+		<p>©2005 The Johns Hopkins University</p> 
+	 </titlepage> 
+  </frontmatter> 
+  <archdesc level="collection"> 
+	 <did> 
+		<head>Descriptive Summary</head> 
+		<unitid label="Record Group No."> Record Group Number 07.110</unitid> 
+		<unittitle label="Title">Records of the School of Advanced International
+		  Studies, Asian Studies 
+		  <unitdate>1968-1982</unitdate></unittitle> 
+		<origination label="Creator"> 
+		  <corpname>Department of Asian Studies, School of Advanced International
+			 Studies, The Johns Hopkins University</corpname></origination> 
+		<repository label="Repository"> 
+		  <corpname
+			normal="Johns Hopkins University. Special Collections" source="lcnaf">The
+			 Ferdinand Hamburger Archives, The Milton S. Eisenhower Library, The Johns
+			 Hopkins University</corpname></repository> 
+		<physdesc label="Extent">0.5 cubic foot (1.5 document cases)</physdesc> 
+		<langmaterial label="Languages Represented"><language
+		  langcode="eng">English</language></langmaterial> 
+		<abstract label="Scope and Content Note">The records of the Asian Studies
+		  curriculum are very limited in scope. They are contained in two series: (1)
+		  Correspondence, 1974-1982, and (2) Student Records, 1968-1977. Although they
+		  range in date from 1968 to 1982, the bulk of the records, the chronological
+		  correspondence of Nathaniel Thayer, spans only the period 1977 to 1982. The
+		  records highlight the duties and interests of a faculty member in the field of
+		  Asian Studies. In the correspondence, Thayer discusses his travel, research,
+		  professional colleagues, international political figures, current international
+		  situations and his professional work in Asia. </abstract> 
+	 </did> 
+	 <descgrp> 
+		<head>Administrative Information</head> 
+		<acqinfo> 
+		  <head>Provenance</head> 
+		  <p>These records were transferred to the Archives by Veronica Barker,
+			 the Administrative Assistant for Economics and Asian Studies.</p> 
+		</acqinfo> 
+		<processinfo> 
+		  <head>Accession Number</head> 
+		  <p>84.35</p> 
+		</processinfo> 
+		<userestrict> 
+		  <head>Use Restrictions</head> 
+		  <p>Administrative records in series 1 are restricted for twenty-five
+			 years from their date of creation. Education records in series 2, as defined by
+			 the Family Educational Rights and Privacy Act, are also restricted. For
+			 details, see Regulations Governing Access to Restricted Records, at the front
+			 of each binder. </p> 
+		</userestrict> 
+		<prefercite> 
+		  <head>Preferred Citation</head> 
+		  <p>The Ferdinand Hamburger Archives of The Johns Hopkins University,
+			 Record Group Number 07.110, School of Advanced International Studies, Asian
+			 Studies, series number and title, file title and inclusive dates. </p> 
+		</prefercite> 
+		<bioghist> 
+		  <head>History</head> 
+		  <p>Asian Studies has been a part of the SAIS curriculum since SAIS was
+			 incorporated into the Johns Hopkins University in 1950. The original faculty
+			 position in this field was Professor of Asiatic Politics and was augmented by
+			 and eventually replaced by the position of Professor of Asian Studies. Like all
+			 other departments at SAIS, Asian Studies is able to offer a wide variety of
+			 courses on China, Japan and Southeast Asia through the use of Professorial
+			 Lecturers. The course offerings reflect an emphasis on politics, international
+			 relations and international economics. </p> 
+		</bioghist> 
+	 </descgrp> 
+	 <dsc> 
+		<head>Description of Series/Container List</head> 
+		<c01 level="series" tpattern="container:container:description"><?xm-replace_text (no subseries, box/folder/contents)?>
+		  <head>Correspondence</head> 
+		  <did> 
+			 <unittitle>Correspondence, 
+				<unitdate type="inclusive"
+				 normal="1974/1982">1974-1982</unitdate></unittitle> 
+			 <physdesc><?xm-replace_text {number of boxes, etx.}?></physdesc> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Series 1, correspondence, is the chronological correspondence
+				files of Nathaniel Thayer, the Director of Asian Studies. Dating from 1974 to
+				1982, the records consist almost entirely of outgoing carbon copies, with few
+				incoming letters, and include correspondence with colleagues, both in the U.S.
+				and abroad and correspondence regarding teaching and curriculum. The records
+				are filed chronologically and within files in reverse chronological order. </p>
+			 
+		  </scopecontent> 
+		  <thead> 
+			 <row> 
+				<entry>Box</entry> 
+				<entry>Folder</entry> 
+				<entry>Contents</entry> 
+			 </row> 
+		  </thead> 
+		  <c02>
+			 <did>
+				<container type="box">1</container>
+				<container type="folder">1</container>
+				<unittitle> Chronological Correspondence, 1974-1975</unittitle>
+			 </did>
+		  </c02> 
+		  <c02>
+			 <did>
+				<container type="box">1</container>
+				<container type="folder"> 2</container>
+				<unittitle> Chronological Correspondence, January-June,
+				  1976</unittitle>
+			 </did>
+		  </c02> 
+		  <c02>
+			 <did>
+				<container type="box">1</container>
+				<container type="folder"> 3</container>
+				<unittitle> Chronological Correspondence, July-December,
+				  1976</unittitle>
+			 </did>
+		  </c02> 
+		  <c02>
+			 <did>
+				<container type="box">1</container>
+				<container type="folder"> 4</container>
+				<unittitle> Chronological Correspondence, 1975-1976
+				  (Confidential)</unittitle>
+			 </did>
+		  </c02> 
+		  <c02>
+			 <did>
+				<container type="box">1</container>
+				<container type="folder"> 5</container>
+				<unittitle> Chronological Correspondence, January-May,
+				  1977</unittitle>
+			 </did>
+		  </c02> 
+		  <c02>
+			 <did>
+				<container type="box">1</container>
+				<container type="folder"> 6</container>
+				<unittitle> Chronological Correspondence, June-December,
+				  1977</unittitle>
+			 </did>
+		  </c02> 
+		  <c02>
+			 <did>
+				<container type="box">1</container>
+				<container type="folder"> 7</container>
+				<unittitle> Chronological Correspondence, 1977
+				  (Confidential)</unittitle>
+			 </did>
+		  </c02> 
+		  <c02>
+			 <did>
+				<container type="box">1</container>
+				<container type="folder"> 8</container>
+				<unittitle> Chronological Correspondence, January-December,
+				  1978</unittitle>
+			 </did>
+		  </c02> 
+		  <c02>
+			 <did>
+				<container type="box">1</container>
+				<container type="folder"> 9</container>
+				<unittitle> Chronological Correspondence, January-December,
+				  1979</unittitle>
+			 </did>
+		  </c02> 
+		  <c02>
+			 <did>
+				<container type="box">1</container>
+				<container type="folder">10</container>
+				<unittitle> Chronological Correspondence, 1978-1979
+				  (Confidential)</unittitle>
+			 </did>
+		  </c02> 
+		  <c02>
+			 <did>
+				<container type="box">1</container>
+				<container type="folder">11</container>
+				<unittitle> Chronological Correspondence, January-June,
+				  1980</unittitle>
+			 </did>
+		  </c02> 
+		  <c02>
+			 <did>
+				<container type="box">1</container>
+				<container type="folder"> 12</container>
+				<unittitle> Chronological Correspondence, July-December,
+				  1980</unittitle>
+			 </did>
+		  </c02> 
+		  <c02>
+			 <did>
+				<container type="box">1</container>
+				<container type="folder"> 13</container>
+				<unittitle> Chronological Correspondence, 1980
+				  (Confidential)</unittitle>
+			 </did>
+		  </c02> 
+		  <c02>
+			 <did>
+				<container type="box">1</container>
+				<container type="folder"> 14</container>
+				<unittitle> Chronological Correspondence, January-June,
+				  1981</unittitle>
+			 </did>
+		  </c02> 
+		  <c02>
+			 <did>
+				<container type="box">1</container>
+				<container type="folder"> 15</container>
+				<unittitle> Chronological Correspondence, July 1981 - June
+				  1982</unittitle>
+			 </did>
+		  </c02> 
+		  <c02>
+			 <did>
+				<container type="box">1</container>
+				<container type="folder"> 16</container>
+				<unittitle> Chronological Correspondence, September-December,
+				  1982</unittitle>
+			 </did>
+		  </c02> 
+		  <c02>
+			 <did>
+				<container type="box">2</container>
+				<container type="folder">1</container>
+				<unittitle> Chronological Correspondence, 1981-1982
+				  (Confidential)</unittitle>
+			 </did>
+		  </c02>
+		</c01> 
+		<c01 level="series" tpattern="container:container:description"><?xm-replace_text (no subseries, box/folder/contents)?>
+		  <head>Student Records</head> 
+		  <did> 
+			 <unittitle>Student Records, 
+				<unitdate type="inclusive"
+				 normal="1968/1977">1968-1977</unitdate></unittitle> 
+			 <physdesc><?xm-replace_text {number of boxes, etx.}?></physdesc> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Series 2, student records, consists of files on Ph.D. candidates
+				from 1968 to 1977. They are few in number and are often records of students who
+				began studying at SAIS before Thayer's tenure began. The records are made up of
+				correspondence and student work, such as dissertation proposals and research
+				papers. The series is filed in alphabetical order by last name of the
+				individual and, within files, in reverse chronological order. </p> 
+		  </scopecontent> 
+		  <thead> 
+			 <row> 
+				<entry>Box</entry> 
+				<entry>Folder</entry> 
+				<entry>Contents</entry> 
+			 </row> 
+		  </thead> 
+		  <c02>
+			 <did>
+				<container type="box">1</container>
+				<container type="folder">1</container>
+				<unittitle> Ph.D. Candidates: Robert Bruce, 1970-1977</unittitle>
+			 </did>
+		  </c02> 
+		  <c02>
+			 <did>
+				<container type="box">1</container>
+				<container type="folder"> 2</container>
+				<unittitle> Ph.D. Candidates: Kylin Chhor, 1972 </unittitle>
+			 </did>
+		  </c02> 
+		  <c02>
+			 <did>
+				<container type="box">1</container>
+				<container type="folder"> 3</container>
+				<unittitle> Ph.D. Candidates: Matthew Gardner,
+				  1970-1975</unittitle>
+			 </did>
+		  </c02> 
+		  <c02>
+			 <did>
+				<container type="box">1</container>
+				<container type="folder"> 4</container>
+				<unittitle> Ph.D. Candidates: Kent Harrington, 1973</unittitle>
+			 </did>
+		  </c02> 
+		  <c02>
+			 <did>
+				<container type="box">1</container>
+				<container type="folder"> 5</container>
+				<unittitle> Ph.D. Candidates: Odell Lee, 1977</unittitle>
+			 </did>
+		  </c02> 
+		  <c02>
+			 <did>
+				<container type="box">1</container>
+				<container type="folder"> 6</container>
+				<unittitle> Ph.D. Candidates: Charles Morrison,
+				  1968-1976</unittitle>
+			 </did>
+		  </c02> 
+		  <c02>
+			 <did>
+				<container type="box">1</container>
+				<container type="folder">7</container>
+				<unittitle> Ph.D. Candidates: Ronald Myers, 1971</unittitle>
+			 </did>
+		  </c02> 
+		  <c02>
+			 <did>
+				<container type="box">1</container>
+				<container type="folder"> 8</container>
+				<unittitle> Ph.D. Candidates: John Katsuro Sakoh, c.
+				  1971</unittitle>
+			 </did>
+		  </c02> 
+		  <c02>
+			 <did>
+				<container type="box">1</container>
+				<container type="folder"> 9</container>
+				<unittitle> Ph.D. Candidates: Edward Windsor, 1970-1975</unittitle>
+			 </did>
+		  </c02> 
+		</c01> 
+	 </dsc> 
+  </archdesc> 
+</ead> 

@@ -1,0 +1,90 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead relatedencoding="marc21"> 
+  <eadheader audience="internal" langencoding="ISO639-2b"> 
+	 <eadid countrycode="us" mainagencycode="TxU-TH"
+	  encodinganalog="852$a">urn:taro:utexas.cah.xxxxx</eadid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper>Sunder (John E.) Texas Slide Collection,
+			 1956-1974</titleproper> 
+		</titlestmt> 
+	 </filedesc> 
+	 <profiledesc> 
+		<langusage>Finding aid written in
+		  <language>English.</language></langusage> 
+	 </profiledesc> 
+	 <revisiondesc> 
+		<change> 
+		  <date normal="20041220">1/7/08</date> 
+		  <item>Encoded with XMetal 3 by Linda Peterson according to 
+			 <title render="italic">TARO 2 EAD 2002 Editing
+				Instructions</title></item> 
+		</change> 
+	 </revisiondesc> 
+  </eadheader> 
+  <archdesc level="collection" type="inventory"> 
+	 <did> 
+		<head>Descriptive Summary</head> 
+		<origination label="Creator"> 
+		  <persname encodinganalog="700" source="lcnaf">Sunder (John
+			 E.)</persname></origination> 
+		<unittitle label="Title:" encodinganalog="245">Sunder (John E.) Texas
+		  Slide Collection</unittitle> 
+		<unitdate label="Dates:" type="inclusive" encodinganalog="245$f"
+		 normal="1949/1998"> 1956-1974</unitdate> 
+		<langmaterial label="Language">Materials are in
+		  <language encodinganalog="eng">English.</language></langmaterial> 
+		<unitid label="Accession No.:">2007-155</unitid> 
+		<physdesc label="Extent:" encodinganalog="300$a"><extent>167 35 mm color
+		  transparencies</extent></physdesc> 
+		<repository label="Repository" encodinganalog="852$a"> 
+		  <extref href="http://www.cah.utexas.edu" show="new"
+			actuate="onrequest"> 
+			 <corpname><subarea>Dolph Briscoe Center for American History,</subarea>The
+				University of Texas at Austin</corpname></extref></repository> 
+	 </did> 
+	 <accessrestrict> 
+		<head>Access Restrictions:</head><p>Restricted due to format. Please
+		  contact repository for more information.</p> 
+	 </accessrestrict> 
+	 <prefercite encodinganalog="524"> 
+		<head>Preferred Citation:</head><p>Sunder (John E.) Texas Photograph
+		  Collection, the Dolph Briscoe Center for American History, University of Texas at Austin.</p>
+		
+	 </prefercite> 
+	 <bioghist> 
+		<head>Creator Sketch:</head><p>John E. Sunder, Ph.D., is a professor
+		  emeritus in the Department of History at the University of Texas at Austin.
+		  </p> 
+	 </bioghist> 
+	 <scopecontent encodinganalog="520"> 
+		<head>Scope and Contents:</head><p>Collection consists of 167 35 mm color
+		  slides of Texas subjects including San Antonio Hemisfair, Alamo and missions,
+		  Big Bend, LBJ boyhood home in Johnson City, Port Isabel, Port Aransas,
+		  Washington-on-the-Brazos, Fort McKavett, McDonald Observatory, Big Thicket,
+		  Fort Richardson State Historic Site, Winedale, Goliad and La Bahia Chapel,
+		  Pecos River Bridge, Fort Concho, Sam Houston House in Huntsville, Fort Griffin
+		  State Park, Fort Parker, Nacogdoches, and various other monuments and historic
+		  sites in Texas. Dates range from 1956-1974 and were donated by Professor Sunder
+		  in 2007.</p> 
+		<p> </p> 
+	 </scopecontent> 
+	 <custodhist> 
+		<p>Donated by John E. Sunder.</p> 
+	 </custodhist> 
+	 <dsc type="in-depth"> 
+		<head>Detailed Description of the Collection</head> 
+		<c01 level="series"> 
+		  <did> 
+			 <unittitle>Inventory</unittitle> 
+		  </did> 
+		  <c02> 
+			 <did>
+				<container type="box">3U4</container> 
+				<unittitle>Slides</unittitle> 
+			 </did> 
+		  </c02> 
+		</c01></dsc> 
+  </archdesc> 
+</ead> 

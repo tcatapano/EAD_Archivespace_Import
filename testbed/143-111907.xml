@@ -1,0 +1,347 @@
+<?xml version="1.0"?>
+<ead>
+    <eadheader scriptencoding="iso15924" repositoryencoding="iso15511" relatedencoding="marc" countryencoding="iso3166-1" audience="internal" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid xmlns:cdlpath="http://www.cdlib.org/path/" identifier="ark:/13030/tf7p3006ct" mainagencycode="CU-BANC" publicid="-//University of California, Berkeley::Bancroft Library//TEXT (US::CU-BANC::BANC MSS M-A 5:2::Documents concerning government affairs in Mexico : typescript)//EN" countrycode="us" cdlpath:parent="ark:/13030/tf7r29p8s0" cdlpath:grandparent="ark:/13030/tf0p3009mq">PUBLIC "-//University of California, Berkeley::Bancroft Library//TEXT (US::CU-BANC::BANC
+            MSS M-A 5:2::Documents concerning government affairs in Mexico : typescript)//EN" "mma5_2_cubanc.xml"</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Finding Aid to the Documents Concerning Government Affairs in Mexico,
+                    <date>1535-1597</date></titleproper>
+                <titleproper type="filing">Documents Concerning Government Affairs in Mexico</titleproper>
+                <author>Processed by The Bancroft Library staff</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>The Bancroft Library.</publisher>
+                <address>
+<addressline>University of California, Berkeley</addressline>
+<addressline>Berkeley, California, 94720-6000</addressline>
+<addressline>Phone: (510) 642-6481</addressline>
+<addressline>Fax: (510) 642-7589</addressline>
+<addressline>Email: bancref@library.berkeley.edu</addressline>
+<addressline>URL: http://bancroft.berkeley.edu</addressline>
+</address>
+                <date> 1998</date>
+                <p>The Regents of the University of California. All rights reserved.</p>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>Machine-readable finding aid derived from typescript by rekeying; finding aid encoded by Brooke
+                Dykman Dockter. Date of source: <date>Unknown.</date>
+            </creation>
+            <langusage>Description is in <language langcode="eng" scriptcode="latn">English.</language></langusage>
+        </profiledesc>
+        <revisiondesc>
+            <change>
+                <date>January 8, 2005</date>
+                <item>EAD v1.0 finding aid converted to EAD 2002 using UC Berkeley's eadv1to2002.pl perl script.</item>
+            </change>
+            <change>
+                <date>January 28, 2005</date>
+                <item>EAD v2002 finding aid upgraded to OAC BPG 2.0 using UC Berkeley's bpgifier.pl perl script.</item>
+                <item>Significant changes include:</item>
+                <item>Replaced all instances of @entityref with @href</item>
+                <item>Reordered many top-level elements for consistency, grouping several into two new descgrp elements</item>
+                <item>Changed many top-level element heads for consistency</item>
+            </change>
+        </revisiondesc>
+    </eadheader>
+    <frontmatter>
+        <titlepage>
+            <titleproper>Finding Aid to the Documents Concerning Government Affairs in Mexico, <date>1535-1597</date></titleproper>
+            <num>Collection number: BANC MSS M-A 5:2</num>
+            <publisher>The Bancroft Library<lb/>
+                <extptr show="embed" actuate="onload" href="http://digitalassets.lib.berkeley.edu/findingaids/ucb/images/ucseal.gif"/><lb/> University of
+                California, Berkeley<lb/> Berkeley, California</publisher>
+            <list type="simple">
+                <head>Contact Information:</head>
+                <item>The Bancroft Library.</item>
+                <item>University of California, Berkeley</item>
+                <item>Berkeley, California, 94720-6000</item>
+                <item>Phone: (510) 642-6481</item>
+                <item>Fax: (510) 642-7589</item>
+                <item>Email: <extref href="mailto:bancref@library.berkeley.edu">bancref@library.berkeley.edu</extref></item>
+                <item>URL: <extref href="http://bancroft.berkeley.edu">http://bancroft.berkeley.edu</extref></item>
+            </list>
+            <list type="deflist">
+                <defitem>
+                    <label>Processed by:</label>
+                    <item>The Bancroft Library staff</item>
+                </defitem>
+                <defitem>
+                    <label>Encoded by:</label>
+                    <item>Brooke Dykman Dockter</item>
+                </defitem>
+            </list>
+            <p> 1998 The Regents of the University of California. All rights reserved.</p>
+        </titlepage>
+    </frontmatter>
+    <archdesc level="collection" id="archdesc-1.3">
+        <did id="did-1.3.1">
+            <head>Collection Summary</head>
+            <unittitle label="Collection Title">Documents Concerning Government Affairs in Mexico, </unittitle>
+            <unitdate type="inclusive">1535-1597</unitdate>
+            <unitid repositorycode="CU-BANC" label="Collection Number" countrycode="us">BANC MSS M-A 5:2</unitid>
+            <physdesc label="Extent">
+                <extent>Number of containers: 8 folders</extent>
+            </physdesc>
+            <repository label="Repository">The <corpname>Bancroft Library.</corpname>
+                <address>
+<addressline>Berkeley, California 94720-6000</addressline>
+</address>
+            </repository>
+            <physloc label="Physical Location">For current information on the location of these materials, please
+                consult the Library's online catalog.</physloc>
+            <langmaterial label="Languages Represented">Collection materials are in <language langcode="spa">Spanish</language>
+            </langmaterial>
+        </did>
+        <descgrp id="descgrp-1.3.2">
+            <head>Information for Researchers</head>
+            <accessrestrict>
+                <head>Access</head>
+                <p>Collection is open for research.</p>
+            </accessrestrict>
+            <userestrict>
+                <head>Publication Rights</head>
+                <p>Copyright has not been assigned to The Bancroft Library. All requests for permission to publish or
+                    quote from manuscripts must be submitted in writing to the Head of Public Services. Permission for
+                    publication is given on behalf of The Bancroft Library as the owner of the physical items and is not
+                    intended to include or imply permission of the copyright holder, which must also be obtained by the
+                    reader.</p>
+            </userestrict>
+            <prefercite>
+                <head>Preferred Citation</head>
+                <p>[Identification of item], Documents concerning government affairs in Mexico, BANC MSS M-A 5:2, The
+                    Bancroft Library, University of California, Berkeley.</p>
+            </prefercite>
+        </descgrp>
+        <scopecontent id="scopecontent-1.3.3">
+            <head>Scope and Content</head>
+            <p>The record prints in this collection are of a miscellaneous nature and relate to such topics as Indian
+                affairs, prohibition of pulque, clerical affairs, shipping from Mexican ports, and making beer in
+                Mexico.</p>
+            <p>The last five folders contain copies of documents in various sections of the Archivo General de Indias in
+                Sevilla. These copies were made for F. P. Tronocoso.</p>
+            <p>The folder numbers should be used in requesting these documents, as well as the archival citations.</p>
+        </scopecontent>
+        <dsc type="in-depth" id="dsc-1.3.4" score="1" C-ORDER="1" MAX-C-ORDER="35">
+            <head>Key to Arrangement</head>
+            <c01 level="series" id="c000001" score="2" C-ORDER="2">
+                <did>
+                    <unittitle>Documents concerning government affairs in Mexico, 1535-1597</unittitle>
+                </did>
+                <odd>
+                    <p>(record prints)</p>
+                </odd>
+                <c02 id="c000002" score="1" C-ORDER="4">
+                    <did>
+                        <container type="folder">Folder 1</container>
+                        <unittitle>Doc. 1: <unitdate>1567, June 9 </unitdate>Mxico</unittitle>
+                    </did>
+                    <c03 id="c000003" score="1" C-ORDER="5">
+                        <did>
+                            <unittitle>Instruccin del Virrey Marqus de Falces a Juan del Hierro,
+                                alcalde mayor de la provincia y puerto de Acapulco. (Ff. 1-2v)</unittitle>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="c000004" score="1" C-ORDER="6">
+                    <did>
+                        <container type="folder">Folder 1</container>
+                        <unittitle>Doc. 3: <unitdate>1565, Oct. 11 </unitdate>Mxico</unittitle>
+                    </did>
+                    <c03 id="c000005" score="1" C-ORDER="7">
+                        <did>
+                            <unittitle>Peticin del arzobispo de Mxico y de los obispos de
+                                Chiapa, Tlaxcala, Oaxaca, Nueva Galicia, Yucatn a la Audiencia de Nueva
+                                Espaa y lo decretado sobre ella. (Ff. 5-8v)</unittitle>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="c000006" score="1" C-ORDER="8">
+                    <did>
+                        <container type="folder">Folder 1</container>
+                        <unittitle>Doc. 4: <unitdate>1586</unitdate></unittitle>
+                    </did>
+                    <c03 id="c000007" score="1" C-ORDER="9">
+                        <did>
+                            <unittitle>Averiguacin hecha por orden del Virrey Marqus de
+                                Villamanrique sobre la sujecin de los indios de Tlaquiltenango al comisario
+                                de Franciscanos de Cuernavaca. (Ff. 9-12v)</unittitle>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="c000008" score="1" C-ORDER="10">
+                    <did>
+                        <container type="folder">Folder 1</container>
+                        <unittitle>Doc. 11: <unitdate>1583, July 27 </unitdate>Mxico</unittitle>
+                    </did>
+                    <c03 id="c000009" score="1" C-ORDER="11">
+                        <did>
+                            <unittitle>Auto de la Audiencia de Nueva Espaa sobre la Hermita de San
+                                Sebastin de Mxico. (Ff. 33-34v)</unittitle>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="c000010" score="1" C-ORDER="12">
+                    <did>
+                        <container type="folder">Folder 1</container>
+                        <unittitle>Doc. ?: [?]</unittitle>
+                    </did>
+                    <c03 id="c000011" score="1" C-ORDER="13">
+                        <did>
+                            <unittitle> La orden que se tiene en las iglesias catedrales con los religiosos,
+                                as en el coro como en las procesiones. (Ff. 120-121)</unittitle>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="c000012" score="1" C-ORDER="14">
+                    <did>
+                        <container type="folder">Folder 1</container>
+                        <unittitle>Doc. ?: <unitdate>1586</unitdate></unittitle>
+                    </did>
+                    <c03 id="c000013" score="1" C-ORDER="15">
+                        <did>
+                            <unittitle>Traslado de unos autos de la Real Audencia de la Nueva Espaa en la
+                                causa con los clrigos y frailes. (Ff. 142-143)</unittitle>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="c000014" score="1" C-ORDER="16">
+                    <did>
+                        <container type="folder">Folder 2</container>
+                        <unittitle>Doc. 12: <unitdate>1571, Mar. 31 </unitdate>Mxico</unittitle>
+                    </did>
+                    <c03 id="c000015" score="1" C-ORDER="17">
+                        <did>
+                            <unittitle>Ordenanza del pulque hecha por el Virrey D. Martn
+                                Enrquez.</unittitle>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="c000016" score="1" C-ORDER="18">
+                    <did>
+                        <container type="folder">Folder 2</container>
+                        <unittitle>Doc. 12: <unitdate>1571, Dec. 20 </unitdate>Mxico</unittitle>
+                    </did>
+                    <c03 id="c000017" score="1" C-ORDER="19">
+                        <did>
+                            <unittitle>Traslado del mandamiento del Virrey D. Martn Enrquez que
+                                revoca las ordenanzas del pulque contra indios y que solamente se entiende con ellos la
+                                declaracin aqu contenida.</unittitle>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="c000018" score="1" C-ORDER="20">
+                    <did>
+                        <container type="folder">Folder 2</container>
+                        <unittitle>Doc. 12: <unitdate>1597, June 10 </unitdate>Mxico</unittitle>
+                    </did>
+                    <c03 id="c000019" score="1" C-ORDER="21">
+                        <did>
+                            <unittitle>Traslado de la aprobacin por el Virrey Conde de Monterrey de la
+                                ordenanza que prohibe hacerse el pulque y tratarse y contratarse la raz de
+                                l.</unittitle>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="c000020" score="1" C-ORDER="22">
+                    <did>
+                        <container type="folder">Folder 3</container>
+                        <unittitle>Doc. 12: <unitdate>1536. </unitdate>(Amended 1577. Copy dated 1723.)</unittitle>
+                    </did>
+                    <c03 id="c000021" score="1" C-ORDER="23">
+                        <did>
+                            <unittitle>Tralado de las ordenanzas de las tierras y lo que se debe observar en medirlas,
+                                sacado de su original traslado, y alfin la norma que se ha de observar la persona a
+                                quien fueren cometidas dichas medidas. (transcript and record prints)</unittitle>
+                        </did>
+                    </c03>
+                </c02>
+            </c01>
+            <c01 level="series" id="c000022" score="2" C-ORDER="24">
+                <did>
+                    <unittitle>Papeles de Nueva Espaa</unittitle>
+                </did>
+                <odd>
+                    <p>(Copias de don J. J. Gmez, direccin den Francisco Paco y Trancoso)<lb/>
+                        [Copied from documents in Archivo General de Indias, Sevilla]</p>
+                </odd>
+                <c02 id="c000023" score="1" C-ORDER="26">
+                    <did>
+                        <container type="folder">Folder 4</container>
+                        <unittitle>Nm. 192: <unitdate>1539, Aug. 24 </unitdate>Mxico</unittitle>
+                    </did>
+                    <c03 id="c000024" score="1" C-ORDER="27">
+                        <did>
+                            <unittitle>Mandamiento de Don Antonio de Mendoza Virrey de Nueva Espaa para
+                                todos los navos que salen de los puertos de la mar del sur hacen registros
+                                ante las justicias de dichos puertos de los pasajeros y mercaderas que
+                                llevan. (AGI, Audiencia de Santo Domingo ___ [old designation: Audiencia de
+                                Mxico Virrenato, Est. 86, Caja 6, Leg. 2])</unittitle>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="c000025" score="1" C-ORDER="28">
+                    <did>
+                        <container type="folder">Folder 5</container>
+                        <unittitle>Nm. 222: <unitdate>1544, May 15 </unitdate>Mxico</unittitle>
+                    </did>
+                    <c03 id="c000026" score="1" C-ORDER="29">
+                        <did>
+                            <unittitle>Carta al Rey de Alonso de Herrera diciendo que en cumplimiento del asiento que
+                                tena hecho haba establecido en Mxico una
+                                fbrica de cerveza que beban bien los espaoles y los
+                                naturales; y que tenan mucho porvenir tanto esa industria como la del
+                                pastel. (AGI, Audiencia de Mxico 95 [old designation: Papeles de Simancas,
+                                Est. 58, Caja 6, Leg. 9])</unittitle>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="c000027" score="1" C-ORDER="30">
+                    <did>
+                        <container type="folder">Folder 6</container>
+                        <unittitle>Nm. 226: <unitdate>1544, June 1 </unitdate>Mxico</unittitle>
+                    </did>
+                    <c03 id="c000028" score="1" C-ORDER="31">
+                        <did>
+                            <unittitle>Carta al Rey del licenciado Cristbal de Benavente, fiscal de la
+                                Audiencia de Mxico, dando informe sobre el estado de la Nueva
+                                Espaa y expresando su opinin sobre asuntos de la
+                                gobernacin de la misma. (AGI, Audiencia de Mxico 1 [old
+                                designation: Papeles de Simancas, Est. 58, Caja 2, Leg. 18])</unittitle>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="c000029" score="1" C-ORDER="32">
+                    <did>
+                        <container type="folder">Folder 7</container>
+                        <unittitle>Nm. 231: <unitdate>1544, June 25 </unitdate>Los Angeles</unittitle>
+                    </did>
+                    <c03 id="c000030" score="1" C-ORDER="33">
+                        <did>
+                            <unittitle>Instruccin en siete captulos que la cuidad de los Angeles
+                                envi a Sebastin Rodrguez, procurador del Consjeo de
+                                Indias, de las cosas que deba pedir y suplicar en nombre de dicha ciudad.
+                                (AGI, Audiencia de Mxico 1832 [old designation: Papeles de Simancas, Est.
+                                91, Caja 2, Leg. 18])</unittitle>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="c000031" score="1" C-ORDER="34">
+                    <did>
+                        <container type="folder">Folder 8</container>
+                        <unittitle>Nm. 233: <unitdate>1544</unitdate></unittitle>
+                    </did>
+                    <c03 id="c000032" score="1" C-ORDER="35">
+                        <did>
+                            <unittitle>Relacin de Bartolom de Zrate, vecino y
+                                regidor de Mxico, sobre historia y gobierno de Nueva Espaa.
+                                (AGI, Patronato ___ [old designation: Papeles de Simancas, Patronato Real, Est. 2, Caja
+                                2])</unittitle>
+                        </did>
+                    </c03>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

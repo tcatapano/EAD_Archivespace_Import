@@ -1,0 +1,171 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead audience="external" relatedencoding="MARC21">
+  <eadheader langencoding="iso639-2b" audience="internal" countryencoding="iso3166-1"
+    dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924"
+    relatedencoding="MARC21">
+    <eadid mainagencycode="DSI-AI" countrycode="us"
+      identifier="http://siarchives.si.edu/findingaids/FARU0117.xml" encodinganalog="856$u">
+      http://siarchives.si.edu/findingaids/FARU0117.xml</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper encodinganalog="245$a">Correspondence and Memoranda, <date>1884-1939</date></titleproper>
+        <author encodinganalog="245$c">Finding aid prepared by Smithsonian Institution
+          Archives</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher encodinganalog="260$b">Smithsonian Institution Archives </publisher>
+        <address>
+          <addressline>Washington, D.C. </addressline>
+          <addressline>Contact us at <emph render="italic">osiaref@si.edu</emph></addressline>
+        </address>
+        <date type="publication"/>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>Finding aid encoded on <date normal="2000-01-01">7-11-2011</date></creation>
+      <langusage encodinganalog="546"> Finding aid written in <language encodinganalog="041"
+          langcode="eng">English</language>
+      </langusage>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection" type="inventory" relatedencoding="MARC21">
+    <did>
+      <head>Collection Overview</head>
+      <repository label="Repository:" encodinganalog="852$a">
+        <corpname encodinganalog="110">Smithsonian Institution Archives, </corpname>
+        <address>
+          <addressline>Washington, D.C., </addressline>
+          <addressline><emph render="italic">osiaref@si.edu</emph></addressline>
+        </address>
+      </repository>
+      <origination label="Creator:">
+        <persname encodinganalog="100">Smithsonian Institution, Assistant Secretary in charge of the United States National Museum</persname>
+      </origination>
+      <note>
+        <p>SI Records</p>
+      </note>
+      <unittitle label="Title:" encodinganalog="245$a">Correspondence and Memoranda</unittitle>
+      <unitdate label="Dates:" encodinganalog="245$f" normal="1971/2004">1884-1939</unitdate>
+      <physdesc label="Quantity:" encodinganalog="300$a">
+        <extent>0.5 linear meter.</extent>
+      </physdesc>
+      <unitid encodinganalog="099" label="Collection:" countrycode="iso3166-1"
+        repositorycode="DSI-AI">Record Unit 117</unitid>
+      <langmaterial encodinganalog="546" label="Language of Materials:">
+        <language encodinganalog="041" langcode="eng">English</language>
+      </langmaterial>
+    </did>
+    <prefercite encodinganalog="510">
+      <head>Preferred Citation</head>
+      <p>Smithsonian Institution Archives, Record Unit 117, Smithsonian Institution, Assistant Secretary in charge of the United States National Museum, Correspondence and Memoranda</p>
+    </prefercite>
+    
+ 
+    
+    <scopecontent>
+    <head>Introduction</head>
+     <p>This finding aid was digitized with funds generously provided by the Smithsonian Institution Women's Committee.</p> </scopecontent> 
+     
+    <scopecontent>
+    <head>Descriptive Entry</head>
+     <p>These records consist of copies of telegrams, official reports, memoranda, and correspondence between administrators of the Museum, other divisions of the Smithsonian, 
+    and government officials and other persons outside the Smithsonian.</p> </scopecontent> 
+     
+ 
+    
+      <accessrestrict>
+        <head>Access Restriction</head>
+        <p>Record unit available on microfilm.</p>
+      </accessrestrict>
+    
+    
+    
+        
+      <controlaccess id="a12">
+      <head>Index Terms</head>
+      <p>This collection is indexed under the following access terms. These are links to collections
+      with related topics, persons or places.</p>
+        
+         <controlaccess>
+           <head>Name</head>
+           <famname encodinganalog="600" source="local">Assistant Secretary in Charge of the United States National Museum</famname>
+           <famname encodinganalog="600" source="local">Assistant Secretary in charge of the United States National Museum. United States National Museum, Director</famname>
+           <famname encodinganalog="600" source="local">United States National Museum, Executive Curator</famname>
+         </controlaccess>
+        
+        
+         <controlaccess>
+           <head>Subject</head>
+           <subject encodinganalog="650" source="local">Museums -- Administration.</subject>
+         </controlaccess>
+        
+        
+         <controlaccess>
+           <head>Co-Creator</head>
+           <persname role="cocreator">American Patent Centennial, 1891</persname>
+         </controlaccess>
+        
+        
+        
+      
+      </controlaccess>
+    <dsc type="combined" id="a23">
+      
+      <c01 level="file">
+        <did>
+          <unittitle>Box 1</unittitle>
+        </did>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 1 of 1</container>
+            <unittitle>Reel 1, Telegrams. Volume 1, November 1, 1894-May 22, 1890.</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 1 of 1</container>
+            <unittitle>Reel 2, Telegrams. Volume 2, May 26, 1890-August 2, 1899.</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 1 of 1</container>
+            <unittitle>Reel 3, Telegrams. Volume 3, August 7, 1899-February 1907.</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 1 of 1</container>
+            <unittitle>Reel 4, Official Reports. Volume 1, 1898.</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 1 of 1</container>
+            <unittitle>Reel 5, Memoranda, Executive Curator to the Assistant Secretary. Volumes 1-2, 1897-1899.</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 1 of 1</container>
+            <unittitle>Reel 6, Memoranda, Executive Curator to the Secretary. Volume 1, 1896-1900.</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 1 of 1</container>
+            <unittitle>Reel 7, Memoranda, Acting Assistant Secretary. 1 volume, 1897-1899. Also, Assistant Secretary Correspondence regarding the American Patent Centennial. 1 volume, 1891-1892.</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 1 of 1</container>
+            <unittitle>Reel 8, Copies of Letters of Introduction. 1 volume, 1894-1939.</unittitle>
+          </did>
+        </c02>
+      
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

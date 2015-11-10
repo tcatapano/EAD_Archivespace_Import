@@ -1,0 +1,1023 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<!--Template updated 2011-05-11 by J. Allison-Bunnell in accordance with changes that resulted in Best Practices version 3.5-->
+
+<!-- oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo -->
+<!--                              EADHEADER BEGINS HERE                           -->
+<!-- oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo -->
+
+<!--Remember to name and save documents using the OCLC code + local filename. Documents that are revised/updated after initial submission much be submitted with precisely the same filename.-->
+<ead> 
+<!--The following section is header information that describes the finding aid-->
+	<eadheader langencoding="iso639-2b"
+		scriptencoding="iso15924" relatedencoding="dc" repositoryencoding="iso15511"
+		countryencoding="iso3166-1" dateencoding="iso8601" id="a0"> 
+		<eadid countrycode="us" mainagencycode="OrKT" identifier="80444/xv61724" url="http://nwda.orbiscascade.org/ark:/80444/xv61724" encodinganalog="identifier">OITshl013.xml</eadid> 
+		<filedesc> 
+			<titlestmt> 
+				<titleproper encodinganalog="title">Guide to the Jack Bowden Logging Railroads Collection
+					<date era="ce" calendar="gregorian" normal="1910/2005" encodinganalog="date">1910-2005</date></titleproper>
+				
+				<titleproper type="filing" altrender="nodisplay">Bowden (Jack) Logging Railroads Collection</titleproper>
+				
+				<author encodinganalog="creator">Finding aid prepared by Anne Hiller Clark</author>
+				<sponsor encodinganalog="contributor">Funding for encoding this finding aid was provided through a grant awarded by the National Endowment for the Humanities.</sponsor>
+			</titlestmt> 
+			<publicationstmt> 
+				<publisher encodinganalog="publisher">Shaw Historical Library at Oregon Institute of Technology
+				</publisher>
+				<date calendar="gregorian" encodinganalog="date" normal="2012">2012</date>
+				<address>
+					<addressline>3201 Campus Drive</addressline>
+					<addressline>Klamath Falls, OR  97601</addressline>
+					<addressline>URL: http://www.library.oit.edu/shaw</addressline>
+				</address>
+			</publicationstmt> 
+		</filedesc> 
+		<profiledesc> 
+			<creation>Finding aid encoded by: Anne Hiller Clark
+				<date normal="20120619" era="ce" calendar="gregorian">6/19/2012</date></creation>
+			<langusage>Finding aid written in: English
+				<language scriptcode="latn" encodinganalog="language" langcode="eng">English</language>
+			</langusage> <descrules>Finding aid based
+				on DACS ( 
+				<title render="italic">Describing Archives: A Content
+					Standard</title>).</descrules> 
+		</profiledesc> 
+		<revisiondesc> 
+			<change> 
+				<date><?xm-replace_text {Enter date of substantial revision of finding aid, if any, AFTER initial encoding}?></date>
+				
+				<item><?xm-replace_text {Describe the revision(s)}?></item> 
+			</change> 
+		</revisiondesc> 
+	</eadheader>  
+	
+	<!-- oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo -->
+	<!--                         COLLECTION-LEVEL DESCRIPTION BEGINS HERE             -->
+	<!-- oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo -->
+	
+  <archdesc level="collection" type="guide" relatedencoding="marc21"> 
+	 <did id="a1"> 
+	 	<repository> 
+	 		<corpname encodinganalog="852$a">Oregon Institute of Technology<subarea encodinganalog="852$b">Shaw Historical Library</subarea></corpname>
+	 		
+	 		<address> 
+			<addressline>3201 Campus Drive</addressline>
+					<addressline>Klamath Falls, OR  97601</addressline>
+					<addressline>URL: http://www.library.oit.edu/shaw</addressline> 
+		  </address> </repository> 
+		<unitid encodinganalog="099" countrycode="us" repositorycode="OrKT">SHL013</unitid>
+		
+		<origination> 
+		  <persname encodinganalog="100" role="creator" rules="dacs">Bowden, Jack</persname> </origination> 
+	 	<unittitle encodinganalog="245$a">Jack Bowden Logging Railroads Collection</unittitle>
+		
+	 	<unitdate type="inclusive" encodinganalog="245$f" normal="1910/2005">1910-2005</unitdate>
+		
+		<physdesc> <extent encodinganalog="300$a">8 linear feet</extent>
+		  <extent encodinganalog="300$a">14 boxes and 1 map cabinet</extent>
+
+		</physdesc>
+	 	<abstract encodinganalog="5203_">The collection consists of research material on Oregon, northern California, and northwestern Nevada logging and freight railroads, logging companies and mills in the area, correspondence, drafted maps, images, DVDs and maps.  Jack Bowden (John Curtis Bowden) translated a life-long love of railroads into a career with the Southern Pacific Railroad, two books and a research collection created over 60 years.</abstract> 
+		<physloc>Shaw Historical Library</physloc> 
+	 	<langmaterial>Collection materials are in: <language encodinganalog="546" langcode="eng">English</language></langmaterial>
+	 </did>
+
+	 
+  	<bioghist encodinganalog="5450_" id="a2"><head><?xm-replace_text {Enter heading for Biographical Note or Historical Note as applicable}?></head><!--Enter ENCODINGANALOG value of 5450_ for biog. or 5451_ for historical note, or use <head> element-->
+		
+  		<p>Jack Bowden (John Curtis Bowden) translated a life-long love of railroads into a career with the Southern Pacific Railroad, two books and a research collection created over 60 years.  He grew up in small towns on both side of the Oregon-California border, after his father found work with Southern Pacific Railroad in 1926.  Jack spent his career also working for the Southern Pacific Railroad in Oregon, California and Nevada.  He went to work after his high school graduation as a railroad clerk, but most of his career was spent as a brakeman and conductor.  He retired from the railroad in 1995.</p>
+  		<p>Jack Bowden collected materials about regional railroads for more than 60 years.  With Tom Dill, Jack wrote <title render="italic">The Modoc: Southern Pacific’s Backdoor to Oregon</title> (2002). He also wrote and illustrated the definitive book <title render="italic">Railroad Logging in Klamath Country</title> (2003). His other writing included articles and illustrations for <title render="italic">The Trumpeter</title>, the Klamath County Historical Society newsletter.</p>
+  		<p>Jack Bowden was born on January 2, 1934 in Provolt, Oregon.  In 1955 he married his wife, Marlene.  They have two sons, John David Bowden and Michael Wayne Bowden.</p>
+	 </bioghist> 
+	 <scopecontent encodinganalog="5202_" id="a3"> 
+	 	<p>The collection consists of research material on Oregon, northern California, and northwestern Nevada logging and freight railroads, logging companies and mills in the area, correspondence, drafted maps, images, DVDs and maps.  It is arranged into Series I: Logging Railroads (9 boxes), Series II: Local History (1 box), Series III: Audio Visual (2 boxes), and Series IV: Maps (2 boxes and 1 cabinet).</p> 
+	 </scopecontent> 
+ 
+	 <arrangement encodinganalog="351" id="a4"> 
+	 	<p>The collection is arranged into Series I: Logging Railroads, Series II: Local History, Series III: Audio Visual, and Series IV: Maps.</p> 
+	 </arrangement> 
+
+	 <accessrestrict encodinganalog="506" id="a14"> 
+	 	<p>The collection is open for research use.</p>
+		
+	 </accessrestrict> 
+	 <userestrict encodinganalog="540" id="a15"> 
+	 	<p>Before materials from the Shaw Historical Library may be quoted in print or otherwise reproduced in whole or in part in any publication, exhibit, broadcast or other manner, the user must obtain permission from the owner of the physical property and the holder of the copyright. Copyright status for collections in the Shaw Historical Library varies. Reproduction of any item must contain a complete citation to the original. Responsibility for any use rests exclusively with the user.</p>
+		
+	 </userestrict> 
+	 <prefercite encodinganalog="524" id="a18"> 
+	 	<p>[item identification], Jack Bowden Logging Railroads Collection, The Shaw Historical Library, Oregon Institute of Technology, Klamath Falls, Oregon.</p> 
+	 </prefercite> 
+ 
+	 <acqinfo encodinganalog="541" id="a19"> 
+		<p>Donated to the Shaw Historical Library by Jack Bowden.</p>
+		
+	 </acqinfo> 
+
+	 <processinfo encodinganalog="583" id="a20"> 
+		<p>Materials arranged into series by subject during processing.</p>
+		
+	 </processinfo> 
+	 <separatedmaterial encodinganalog="5440_" id="a7"> 
+	 	<p>Bowden's books and pamphlets have been individually cataloged into the Shaw Historical Library's collection.</p>
+		
+	 </separatedmaterial> 
+
+	 <relatedmaterial encodinganalog="5441_" id="a6"> 
+	 	<p>Copies of Jack Bowden’s books, <title render="italic">Railroad Logging in Klamath Country</title> (2003) and <title render="italic">The Modoc: Southern Pacific’s Backdoor to Oregon</title> (2002) with Tom Dill are in the holdings of the Shaw Historical Library.</p>
+	 	<p>A December, 2010 oral history interview with Jack Bowden is part of the Oral History Collection of the Shaw Historical Library.</p>
+	 	<p>Copies of the Klamath County Historical Society's newsletter, <title render="italic">The Trumpeter</title>, are also in the holdings of the Shaw Historical Library.</p>
+	 </relatedmaterial> 
+  
+ 
+  	<!-- ooooooooooooooooooo     ACCESS POINTS     oooooooooooooooooooo -->
+  	
+	 <controlaccess id="a12"> 
+		<p>This collection is indexed under the following headings in the online
+		  catalog. Researchers desiring materials about related topics, persons, or
+		  places should search the catalog using these headings.</p> 
+		<controlaccess> 
+			<persname encodinganalog="600" role="subject" rules="dacs">Bowden, Jack, 1934- --Archives</persname>
+
+		  
+		</controlaccess> 
+
+
+		<controlaccess> 
+			<geogname role="subject" encodinganalog="651" source="lcsh">Klamath County (Or.)</geogname>
+		  
+		</controlaccess> 
+		<controlaccess> 
+			<subject encodinganalog="650" source="lcsh">Logging railroads – History</subject>
+		  
+			<subject encodinganalog="650" source="lcsh">Lumber trade--West (U.S.)</subject>
+
+		  
+		</controlaccess> 
+		<controlaccess> 
+			<subject source="nwda" altrender="nodisplay" encodinganalog="690">Logging</subject> 
+		  <subject source="nwda" altrender="nodisplay" encodinganalog="690">Railroads</subject>
+		  
+		</controlaccess> 
+ 
+
+	 </controlaccess> 
+  	<!--A finding aid without a series or container list may end here.-->
+  	
+  	<!-- ooooooooooooooooooooooooo BEGIN CONTAINER LIST (Optional) oooooooooooooooo -->
+   	<!--Be sure to choose the appropriate TYPE attribute for this collection-->
+<dsc id="a23" type="combined">
+<c01 level="series">
+<did>
+<unitid encodinganalog="099" type="series">Series I</unitid>
+<unittitle encodinganalog="245$a">Logging Railroads</unittitle></did>
+<c02 level="file">
+<did>
+<container type="box">1</container>
+<unittitle encodinganalog="245$a">Wooden Box Campaign</unittitle></did>
+</c02><c02 level="file">
+<did>
+<container type="box">1</container>
+<unittitle encodinganalog="245$a">Pit river #1-2</unittitle></did>
+</c02><c02 level="file">
+<did>
+<container type="box">1</container>
+<unittitle encodinganalog="245$a">PGE - Mt. Shasta Power Corp. Bartle (MCRR)</unittitle></did>
+</c02><c02 level="file">
+<did>
+<container type="box">1</container>
+<unittitle encodinganalog="245$a">Lassen Lumber  Box Company</unittitle></did>
+</c02><c02 level="file">
+<did>
+<container type="box">1</container>
+<unittitle encodinganalog="245$a">Weyerhaeuser</unittitle></did>
+</c02><c02 level="file">
+<did>
+<container type="box">1</container>
+<unittitle encodinganalog="245$a">Great Southern Railroad, The Dalles Southern</unittitle></did>
+</c02><c02 level="file">
+<did>
+<container type="box">1</container>
+<unittitle encodinganalog="245$a">LaMoine Lbr.  Trading Co.</unittitle></did>
+</c02><c02 level="file">
+<did>
+<container type="box">1</container>
+<unittitle encodinganalog="245$a">Kesterson</unittitle></did>
+</c02><c02 level="file">
+<did>
+<container type="box">1</container>
+<unittitle encodinganalog="245$a">Forest Lumber Company - Kirk, Mazama</unittitle></did>
+</c02><c02 level="file">
+<did>
+<container type="box">1</container>
+<unittitle encodinganalog="245$a">Westwood California Red River fruit growers</unittitle></did>
+</c02><c02 level="file">
+<did>
+<container type="box">1</container>
+<unittitle encodinganalog="245$a">Iron Mountain RR</unittitle></did>
+</c02><c02 level="file">
+<did>
+<container type="box">1</container>
+<unittitle encodinganalog="245$a">Lake Tahoe area</unittitle></did>
+</c02><c02 level="file">
+<did>
+<container type="box">1</container>
+<unittitle encodinganalog="245$a">Sacramento Valley  Eastern Railway</unittitle></did>
+</c02><c02 level="file">
+<did>
+<container type="box">1</container>
+<unittitle encodinganalog="245$a">Columbia Southern</unittitle></did>
+</c02><c02 level="file">
+<did>
+<container type="box">1</container>
+<unittitle encodinganalog="245$a">Lamm Lumber Company - Chinchalo, Kirk</unittitle></did>
+</c02><c02 level="file">
+<did>
+<container type="box">1</container>
+<unittitle encodinganalog="245$a">Anderson  Bella Vista Railway</unittitle></did>
+</c02><c02 level="file">
+<did>
+<container type="box">1</container>
+<unittitle encodinganalog="245$a">Brooks-Scanlon Bend (GN)</unittitle></did>
+</c02><c02 level="file">
+<did>
+<container type="box">1</container>
+<unittitle encodinganalog="245$a">OCE Ry</unittitle></did>
+</c02><c02 level="file">
+<did>
+<container type="box">1</container>
+<unittitle encodinganalog="245$a">Crane Creek Lumber Company- Willow Ranch, (SP)</unittitle></did>
+</c02><c02 level="file">
+<did>
+<container type="box">1</container>
+<unittitle encodinganalog="245$a">Algoma Lumber Company - Kirk, Algoma</unittitle></did>
+</c02><c02 level="file">
+<did>
+<container type="box">1</container>
+<unittitle encodinganalog="245$a">Eastern Oregon area</unittitle></did>
+</c02><c02 level="file">
+<did>
+<container type="box">1</container>
+<unittitle encodinganalog="245$a">Klamath Lake Railroad Copco Railroad</unittitle></did>
+</c02><c02 level="file">
+<did>
+<container type="box">1</container>
+<unittitle encodinganalog="245$a">Fruit Growers Supply Hilt (SP)</unittitle></did>
+</c02><c02 level="file">
+<did>
+<container type="box">1</container>
+<unittitle encodinganalog="245$a">Shaw-Bertram Lumber Company: Kirk, Chemult, West Switchback</unittitle></did>
+</c02><c02 level="file">
+<did>
+<container type="box">1</container>
+<unittitle encodinganalog="245$a">Crater Lake Lumber Company-Sprague River</unittitle></did>
+</c02><c02 level="file">
+<did>
+<container type="box">1</container>
+<unittitle encodinganalog="245$a">Feather River area</unittitle></did>
+</c02><c02 level="file">
+<did>
+<container type="box">1</container>
+<unittitle encodinganalog="245$a">Klamath Northern</unittitle></did>
+</c02><c02 level="file">
+<did>
+<container type="box">2</container>
+<unittitle encodinganalog="245$a">Weed Lumber Company, Long-Bell Lumber Company, Weed-Tennant (SP)</unittitle></did>
+</c02><c02 level="file">
+<did>
+<container type="box">2</container>
+<unittitle encodinganalog="245$a">Brookings, CA</unittitle></did>
+</c02><c02 level="file">
+<did>
+<container type="box">2</container>
+<unittitle encodinganalog="245$a">Crescent City, CA area</unittitle></did>
+</c02><c02 level="file">
+<did>
+<container type="box">2</container>
+<unittitle encodinganalog="245$a">Westfir</unittitle></did>
+</c02><c02 level="file">
+<did>
+<container type="box">2</container>
+<unittitle encodinganalog="245$a">Shelvin-Hixon Lumber Company- Bend area (GN)</unittitle></did>
+</c02><c02 level="file">
+<did>
+<container type="box">2</container>
+<unittitle encodinganalog="245$a">Big Lakes Box. Co. Canby Railroad</unittitle></did>
+</c02><c02 level="file">
+<did>
+<container type="box">2</container>
+<unittitle encodinganalog="245$a">Ackley Brothers Lumber Company</unittitle></did>
+</c02><c02 level="file">
+<did>
+<container type="box">2</container>
+<unittitle encodinganalog="245$a">Palmerton Lumber Company</unittitle></did>
+</c02><c02 level="file">
+<did>
+<container type="box">2</container>
+<unittitle encodinganalog="245$a">California  Oregon Coast RR- Marble Mtn. Mine RR</unittitle></did>
+</c02><c02 level="file">
+<did>
+<container type="box">2</container>
+<unittitle encodinganalog="245$a">Oregon Northwestern Railroad Hines Lumber Company</unittitle></did>
+</c02><c02 level="file">
+<did>
+<container type="box">2</container>
+<unittitle encodinganalog="245$a">Macdoel Penoyar area</unittitle></did>
+</c02><c02 level="file">
+<did>
+<container type="box">2</container>
+<unittitle encodinganalog="245$a">Pelican Bay Lumber Company: Odessa, Bly, Kirk</unittitle></did>
+</c02><c02 level="file">
+<did>
+<container type="box">2</container>
+<unittitle encodinganalog="245$a">Mohawk Valley, OR</unittitle></did>
+</c02><c02 level="file">
+<did>
+<container type="box">2</container>
+<unittitle encodinganalog="245$a">Diamond Match Logging RR</unittitle></did>
+</c02><c02 level="file">
+<did>
+<container type="box">2</container>
+<unittitle encodinganalog="245$a">Condon Kinzua  Southern Kinzua Lumber Co.</unittitle></did>
+</c02><c02 level="file">
+<did>
+<container type="box">2</container>
+<unittitle encodinganalog="245$a">Almanor RR, Chester Logging RR, Indian Valley RR</unittitle></did>
+</c02><c02 level="file">
+<did>
+<container type="box">2</container>
+<unittitle encodinganalog="245$a">Ewauna Box Company</unittitle></did>
+</c02><c02 level="file">
+<did>
+<container type="box">2</container>
+<unittitle encodinganalog="245$a">Glendale, OR</unittitle></did>
+</c02><c02 level="file">
+<did>
+<container type="box">2</container>
+<unittitle encodinganalog="245$a">Medco, Owens Oregon Lumber Company, Pacific Eastern</unittitle></did>
+</c02><c02 level="file">
+<did>
+<container type="box">2</container>
+<unittitle encodinganalog="245$a">Owyhee</unittitle></did>
+</c02><c02 level="file">
+<did>
+<container type="box">2</container>
+<unittitle encodinganalog="245$a">Southern Oregon Coast</unittitle></did>
+</c02><c02 level="file">
+<did>
+<container type="box">2</container>
+<unittitle encodinganalog="245$a">Mount Shasta</unittitle></did>
+</c02><c02 level="file">
+<did>
+<container type="box">3</container>
+<unittitle encodinganalog="245$a">Rogue River Valley Railway</unittitle></did>
+</c02><c02 level="file">
+<did>
+<container type="box">3</container>
+<unittitle encodinganalog="245$a">Owyhee and its dam</unittitle></did>
+</c02><c02 level="file">
+<did>
+<container type="box">3</container>
+<unittitle encodinganalog="245$a">Chiloquin Tbr. Co.</unittitle></did>
+</c02><c02 level="file">
+<did>
+<container type="box">3</container>
+<unittitle encodinganalog="245$a">Coos Bay area</unittitle></did>
+</c02><c02 level="file">
+<did>
+<container type="box">3</container>
+<unittitle encodinganalog="245$a">McCloud River Railroad</unittitle></did>
+</c02><c02 level="file">
+<did>
+<container type="box">3</container>
+<unittitle encodinganalog="245$a">Deschutes Railroad (UP)</unittitle></did>
+</c02><c02 level="file">
+<did>
+<container type="box">3</container>
+<unittitle encodinganalog="245$a">Pickering Lumber Company- Hackamore (SP)</unittitle></did>
+</c02><c02 level="file">
+<did>
+<container type="box">3</container>
+<unittitle encodinganalog="245$a">Buck Rock Tunnel</unittitle></did>
+</c02><c02 level="file">
+<did>
+<container type="box">3</container>
+<unittitle encodinganalog="245$a">Pucket</unittitle></did>
+</c02><c02 level="file">
+<did>
+<container type="box">3</container>
+<unittitle encodinganalog="245$a">Nevada-California-Oregon</unittitle></did>
+</c02><c02 level="file">
+<did>
+<container type="box">3</container>
+<unittitle encodinganalog="245$a">McGiffert Information</unittitle></did>
+</c02><c02 level="file">
+<did>
+<container type="box">3</container>
+<unittitle encodinganalog="245$a">Braymill-White Pine Lumber Co., Oshkosh Lumber Co.</unittitle></did>
+</c02><c02 level="file">
+<did>
+<container type="box">3</container>
+<unittitle encodinganalog="245$a">Wheeler-Olmstead Lumber Co.</unittitle></did>
+</c02><c02 level="file">
+<did>
+<container type="box">3</container>
+<unittitle encodinganalog="245$a">Shasta View Lumber and Box Co.</unittitle></did>
+</c02><c02 level="file">
+<did>
+<container type="box">3</container>
+<unittitle encodinganalog="245$a">Sumpter Valley Railroad</unittitle></did>
+</c02><c02 level="file">
+<did>
+<container type="box">3</container>
+<unittitle encodinganalog="245$a">Klamath Machine and Locomotive Works</unittitle></did>
+</c02><c02 level="file">
+<did>
+<container type="box">3</container>
+<unittitle encodinganalog="245$a">Miscellaneous small lumber companies</unittitle></did>
+</c02><c02 level="file">
+<did>
+<container type="box">3</container>
+<unittitle encodinganalog="245$a">Trouble on the woods line</unittitle></did>
+</c02><c02 level="file">
+<did>
+<container type="box">3</container>
+<unittitle encodinganalog="245$a">Timber units, tracts, sales, etc</unittitle></did>
+</c02><c02 level="file">
+<did>
+<container type="box">3</container>
+<unittitle encodinganalog="245$a">California Northeastern</unittitle></did>
+</c02><c02 level="file">
+<did>
+<container type="box">3</container>
+<unittitle encodinganalog="245$a">Mount Hebron Lbr. Co.</unittitle></did>
+</c02><c02 level="file">
+<did>
+<container type="box">3</container>
+<unittitle encodinganalog="245$a">Oregon Eastern Branch Union Pacific</unittitle></did>
+</c02><c02 level="file">
+<did>
+<container type="box">3</container>
+<unittitle encodinganalog="245$a">Old newspaper clippings of Klamath County Logging</unittitle></did>
+</c02><c02 level="file">
+<did>
+<container type="box">3</container>
+<unittitle encodinganalog="245$a">Portland division bulletins</unittitle>
+<unitdate datechar="creation" era="ce" calendar="gregorian" encodinganalog="245$f" normal="1926">1926</unitdate></did>
+</c02><c02 level="file">
+<did>
+<container type="box">3</container>
+<unittitle encodinganalog="245$a">Canby  Big Lakes Camp</unittitle></did>
+</c02><c02 level="file">
+<did>
+<container type="box">3</container>
+<unittitle encodinganalog="245$a">Paper railroads</unittitle></did>
+</c02><c02 level="file">
+<did>
+<container type="box">3</container>
+<unittitle encodinganalog="245$a">Terry Lumber Co. Round Mountain</unittitle></did>
+</c02><c02 level="file">
+<did>
+<container type="box">3</container>
+<unittitle encodinganalog="245$a">Delta consolidated mining company</unittitle></did>
+</c02><c02 level="file">
+<did>
+<container type="box">4</container>
+<unittitle encodinganalog="245$a">Wooden Box Campaign</unittitle></did>
+</c02><c02 level="file">
+<did>
+<container type="box">4</container>
+<unittitle encodinganalog="245$a">Geared Locomotives: Shay, Climax, Heisler, Willamette</unittitle></did>
+</c02><c02 level="file">
+<did>
+<container type="box">4</container>
+<unittitle encodinganalog="245$a">Miscellaneous Loco Rosters</unittitle></did>
+</c02><c02 level="file">
+<did>
+<container type="box">4</container>
+<unittitle encodinganalog="245$a">Logging Locomotive info from Lima Shop Cards</unittitle></did>
+</c02><c02 level="file">
+<did>
+<container type="box">4</container>
+<unittitle encodinganalog="245$a">Weyerhaeuser and OCE Map</unittitle></did>
+</c02><c02 level="file">
+<did>
+<container type="box">4</container>
+<unittitle encodinganalog="245$a">Extra copies Weyerhaeyser papers</unittitle></did>
+</c02><c02 level="file">
+<did>
+<container type="box">4</container>
+<unittitle encodinganalog="245$a">Crater National Forest</unittitle>
+<unitdate datechar="creation" era="ce" calendar="gregorian" encodinganalog="245$f" normal="1950">1950</unitdate></did>
+</c02><c02 level="file">
+<did>
+<container type="box">4</container>
+<unittitle encodinganalog="245$a">Modoc Ranger Dist</unittitle></did>
+</c02><c02 level="file">
+<did>
+<container type="box">4</container>
+<unittitle encodinganalog="245$a">Braymill - White Pine Lumber Co. Willamette Papers #1</unittitle></did>
+</c02><c02 level="file">
+<did>
+<container type="box">4</container>
+<unittitle encodinganalog="245$a">Port Supt Notices</unittitle>
+<unitdate datechar="creation" era="ce" calendar="gregorian" encodinganalog="245$f" normal="1926">1926</unitdate></did>
+</c02><c02 level="file">
+<did>
+<container type="box">4</container>
+<unittitle encodinganalog="245$a">Weyco</unittitle></did>
+</c02><c02 level="file">
+<did>
+<container type="box">4</container>
+<unittitle encodinganalog="245$a">Logging Locomotives</unittitle></did>
+</c02><c02 level="file">
+<did>
+<container type="box">4</container>
+<unittitle encodinganalog="245$a">McCloud River Railroad Records</unittitle></did>
+</c02><c02 level="file">
+<did>
+<container type="box">4</container>
+<unittitle encodinganalog="245$a">McCloud River Railroad Summary</unittitle></did>
+</c02><c02 level="file">
+<did>
+<container type="box">4</container>
+<unittitle encodinganalog="245$a">Siskiyou County Sawmills</unittitle></did>
+</c02><c02 level="file">
+<did>
+<container type="box">4</container>
+<unittitle encodinganalog="245$a">Terry Mill</unittitle></did>
+</c02><c02 level="file">
+<did>
+<container type="box">4</container>
+<unittitle encodinganalog="245$a">Long Bell block maps</unittitle></did>
+</c02><c02 level="file">
+<did>
+<container type="box">5</container>
+<unittitle encodinganalog="245$a">Castella  Soda Creek</unittitle></did>
+</c02><c02 level="file">
+<did>
+<container type="box">5</container>
+<unittitle encodinganalog="245$a">Siskiyou Lumber Co. - Jerome</unittitle></did>
+</c02><c02 level="file">
+<did>
+<container type="box">5</container>
+<unittitle encodinganalog="245$a">Delta Consolidated Mining Company - Delta, CA</unittitle></did>
+</c02><c02 level="file">
+<did>
+<container type="box">5</container>
+<unittitle encodinganalog="245$a">Nine Lumber Co. - Leaf-Penoyar</unittitle></did>
+</c02><c02 level="file">
+<did>
+<container type="box">5</container>
+<unittitle encodinganalog="245$a">Mr. D.S. Richter</unittitle></did>
+</c02><c02 level="file">
+<did>
+<container type="box">5</container>
+<unittitle encodinganalog="245$a">Terry Lumber Co.</unittitle></did>
+</c02><c02 level="file">
+<did>
+<container type="box">5</container>
+<unittitle encodinganalog="245$a">GN vs. SP</unittitle></did>
+</c02><c02 level="file">
+<did>
+<container type="box">5</container>
+<unittitle encodinganalog="245$a">California  Oregon Coast RR Grants Pass</unittitle></did>
+</c02><c02 level="file">
+<did>
+<container type="box">5</container>
+<unittitle encodinganalog="245$a">Johnson-Pollock Jerome</unittitle></did>
+</c02><c02 level="file">
+<did>
+<container type="box">5</container>
+<unittitle encodinganalog="245$a">Logging Camp Life</unittitle></did>
+</c02><c02 level="file">
+<did>
+<container type="box">5</container>
+<unittitle encodinganalog="245$a">Oregon State History</unittitle></did>
+</c02><c02 level="file">
+<did>
+<container type="box">5</container>
+<unittitle encodinganalog="245$a">Logging II Characters</unittitle></did>
+</c02><c02 level="file">
+<did>
+<container type="box">5</container>
+<unittitle encodinganalog="245$a">Delays to GN trains on joint track</unittitle></did>
+</c02><c02 level="file">
+<did>
+<container type="box">5</container>
+<unittitle encodinganalog="245$a">Kirk  Martin</unittitle></did>
+</c02><c02 level="file">
+<did>
+<container type="box">5</container>
+<unittitle encodinganalog="245$a">Algoma</unittitle></did>
+</c02><c02 level="file">
+<did>
+<container type="box">5</container>
+<unittitle encodinganalog="245$a">Warko</unittitle></did>
+</c02><c02 level="file">
+<did>
+<container type="box">5</container>
+<unittitle encodinganalog="245$a">Lumber Company List</unittitle></did>
+</c02><c02 level="file">
+<did>
+<container type="box">5</container>
+<unittitle encodinganalog="245$a">Proposed Crossing (Modoc LBR Co.) Sprague (Calimus)</unittitle></did>
+</c02><c02 level="file">
+<did>
+<container type="box">5</container>
+<unittitle encodinganalog="245$a">Braymill</unittitle></did>
+</c02><c02 level="file">
+<did>
+<container type="box">5</container>
+<unittitle encodinganalog="245$a">Chelsea Pelican City</unittitle></did>
+</c02><c02 level="file">
+<did>
+<container type="box">5</container>
+<unittitle encodinganalog="245$a">Klamath Lake Railroad Papers</unittitle></did>
+</c02><c02 level="file">
+<did>
+<container type="box">5</container>
+<unittitle encodinganalog="245$a">Mccomber Savage Spur just West of Calimus</unittitle></did>
+</c02><c02 level="file">
+<did>
+<container type="box">5</container>
+<unittitle encodinganalog="245$a">Pine Ridge</unittitle></did>
+</c02><c02 level="file">
+<did>
+<container type="box">5</container>
+<unittitle encodinganalog="245$a">Lumberton</unittitle></did>
+</c02><c02 level="file">
+<did>
+<container type="box">5</container>
+<unittitle encodinganalog="245$a">SP Locomotive Assignments</unittitle></did>
+</c02><c02 level="file">
+<did>
+<container type="box">6</container>
+<unittitle encodinganalog="245$a">Map Klamath Lake RR at Thrall</unittitle></did>
+</c02><c02 level="file">
+<did>
+<container type="box">6</container>
+<unittitle encodinganalog="245$a">Map, Fruit Growers Supply Company, Lassen Operation</unittitle></did>
+</c02><c02 level="file">
+<did>
+<container type="box">6</container>
+<unittitle encodinganalog="245$a">Map, Klamath Quadrangle, 1895, Copy</unittitle></did>
+</c02><c02 level="file">
+<did>
+<container type="box">6</container>
+<unittitle encodinganalog="245$a">Map, Lakeview District BLM</unittitle></did>
+</c02><c02 level="file">
+<did>
+<container type="box">6</container>
+<unittitle encodinganalog="245$a">Map info: Crater Lake Lbr. Co.</unittitle></did>
+</c02><c02 level="file">
+<did>
+<container type="box">6</container>
+<unittitle encodinganalog="245$a">Shaw - Bertram line at Chemult</unittitle></did>
+</c02><c02 level="file">
+<did>
+<container type="box">6</container>
+<unittitle encodinganalog="245$a">Malheur Valley RR - Oregon Eastern</unittitle></did>
+</c02><c02 level="file">
+<did>
+<container type="box">6</container>
+<unittitle encodinganalog="245$a">Up the Kilchis</unittitle></did>
+</c02><c02 level="file">
+<did>
+<container type="box">6</container>
+<unittitle encodinganalog="245$a">OCE R.W and property map</unittitle></did>
+</c02><c02 level="file">
+<did>
+<container type="box">6</container>
+<unittitle encodinganalog="245$a">Jerry Harmons Rosters</unittitle></did>
+</c02><c02 level="file">
+<did>
+<container type="box">6</container>
+<unittitle encodinganalog="245$a">Oregon rivers  streams many short line railroad and branch lines</unittitle></did>
+</c02><c02 level="file">
+<did>
+<container type="box">6</container>
+<unittitle encodinganalog="245$a">Shevlin - Hixon Summit Cmp</unittitle></did>
+</c02><c02 level="file">
+<did>
+<container type="box">6</container>
+<unittitle encodinganalog="245$a">Shevlin - Hixon Lbr. Co. Lost Creek Camp</unittitle></did>
+</c02><c02 level="file">
+<did>
+<container type="box">6</container>
+<unittitle encodinganalog="245$a">Siskiyou County, California Lumber Mills</unittitle></did>
+</c02><c02 level="file">
+<did>
+<container type="box">6</container>
+<unittitle encodinganalog="245$a">Klamath County, Oregon Lumber Mills</unittitle></did>
+</c02><c02 level="file">
+<did>
+<container type="box">7</container>
+<unittitle encodinganalog="245$a">Klamath Falls logging related newspaper articles</unittitle>
+<unitdate datechar="creation" era="ce" calendar="gregorian" encodinganalog="245$f" normal="1916/1934">1916-1934</unitdate></did>
+</c02><c02 level="file">
+<did>
+<container type="box">7</container>
+<unittitle encodinganalog="245$a">Passenger Equiptment</unittitle></did>
+</c02><c02 level="file">
+<did>
+<container type="box">7</container>
+<unittitle encodinganalog="245$a">Coast Area Railroad maps</unittitle></did>
+</c02><c02 level="file">
+<did>
+<container type="box">7</container>
+<unittitle encodinganalog="245$a">Miscellaneous Foreign Line RR maps from CTC Magazine, etc</unittitle></did>
+</c02><c02 level="file">
+<did>
+<container type="box">7</container>
+<unittitle encodinganalog="245$a">Northern California information: McCloud, Long-Bell, Siskiyou/Modoc Counties</unittitle></did>
+</c02><c02 level="file">
+<did>
+<container type="box">7</container>
+<unittitle encodinganalog="245$a">Mixed xerox copies of maps all areas</unittitle></did>
+</c02><c02 level="file">
+<did>
+<container type="box">7</container>
+<unittitle encodinganalog="245$a">Klamath Indian Reservation map</unittitle></did>
+</c02><c02 level="file">
+<did>
+<container type="box">7</container>
+<unittitle encodinganalog="245$a">SP Electric Lines map</unittitle>
+<unitdate datechar="creation" era="ce" calendar="gregorian" encodinganalog="245$f" normal="1917">1917</unitdate></did>
+</c02><c02 level="file">
+<did>
+<container type="box">7</container>
+<unittitle encodinganalog="245$a">USGS map of the Klamath Basin in 1905</unittitle></did>
+</c02><c02 level="file">
+<did>
+<container type="box">7</container>
+<unittitle encodinganalog="245$a">Harris Springs</unittitle></did>
+</c02><c02 level="file">
+<did>
+<container type="box">7</container>
+<unittitle encodinganalog="245$a">C.G. Nash Report on Medford Logging Line</unittitle></did>
+</c02><c02 level="file">
+<did>
+<container type="box">7</container>
+<unittitle encodinganalog="245$a">Reynolds Lumber Company</unittitle></did>
+</c02><c02 level="file">
+<did>
+<container type="box">7</container>
+<unittitle encodinganalog="245$a">OCE</unittitle></did>
+</c02><c02 level="file">
+<did>
+<container type="box">7</container>
+<unittitle encodinganalog="245$a">Benton Lumber Company</unittitle></did>
+</c02><c02 level="file">
+<did>
+<container type="box">7</container>
+<unittitle encodinganalog="245$a">Back side of Mt. Shasta</unittitle></did>
+</c02><c02 level="file">
+<did>
+<container type="box">7</container>
+<unittitle encodinganalog="245$a">Pacific and Eastern Railroad--Trumpeter</unittitle></did>
+</c02><c02 level="file">
+<did>
+<container type="box">7</container>
+<unittitle encodinganalog="245$a">Sawmills of Northern Siskiyou Co. Southern Siskiyou Co.</unittitle></did>
+</c02><c02 level="file">
+<did>
+<container type="box">7</container>
+<unittitle encodinganalog="245$a">Copco map - ownership land around upper Klamath Lake</unittitle></did>
+</c02><c02 level="file">
+<did>
+<container type="box">7</container>
+<unittitle encodinganalog="245$a">Butt Lake</unittitle></did>
+</c02><c02 level="file">
+<did>
+<container type="box">7</container>
+<unittitle encodinganalog="245$a">Shasta Dam Central Valley Project</unittitle></did>
+</c02><c02 level="file">
+<did>
+<container type="box">7</container>
+<unittitle encodinganalog="245$a">California-Oregon Power Company Copco Lake Project</unittitle></did>
+</c02><c02 level="file">
+<did>
+<container type="box">7</container>
+<unittitle encodinganalog="245$a">Place names</unittitle></did>
+</c02><c02 level="file">
+<did>
+<container type="box">7</container>
+<unittitle encodinganalog="245$a">Dan Rancer</unittitle></did>
+</c02><c02 level="file">
+<did>
+<container type="box">8</container>
+<unittitle encodinganalog="245$a">Land fraud</unittitle></did>
+</c02><c02 level="file">
+<did>
+<container type="box">8</container>
+<unittitle encodinganalog="245$a">O.D. Nichols and W.F. Price Time books</unittitle></did>
+</c02><c02 level="file">
+<did>
+<container type="box">8</container>
+<unittitle encodinganalog="245$a">Klamath County History Logging</unittitle></did>
+</c02><c02 level="file">
+<did>
+<container type="box">8</container>
+<unittitle encodinganalog="245$a">Crater Lake</unittitle></did>
+</c02><c02 level="file">
+<did>
+<container type="box">8</container>
+<unittitle encodinganalog="245$a">Dorris</unittitle></did>
+</c02><c02 level="file">
+<did>
+<container type="box">8</container>
+<unittitle encodinganalog="245$a">Bend Museum papers</unittitle></did>
+</c02><c02 level="file">
+<did>
+<container type="box">8</container>
+<unittitle encodinganalog="245$a">Natron cut off, Blackbutte cut off, Weed Lumber Co. Line</unittitle></did>
+</c02><c02 level="file">
+<did>
+<container type="box">8</container>
+<unittitle encodinganalog="245$a">Specs. For Weyco Locos. No. 5, 6  7</unittitle></did>
+</c02><c02 level="file">
+<did>
+<container type="box">8</container>
+<unittitle encodinganalog="245$a">Klamath Indian Reservation Map of Timber Sale Units</unittitle></did>
+</c02><c02 level="file">
+<did>
+<container type="box">8</container>
+<unittitle encodinganalog="245$a">Bowden logging railroad maps</unittitle></did>
+</c02><c02 level="file">
+<did>
+<container type="box">8</container>
+<unittitle encodinganalog="245$a">Various Lumber Companies</unittitle></did>
+</c02><c02 level="file">
+<did>
+<container type="box">8</container>
+<unittitle encodinganalog="245$a">Logging Railroad Maps</unittitle></did>
+</c02><c02 level="file">
+<did>
+<container type="box">8</container>
+<unittitle encodinganalog="245$a">Logging Industry Research Material</unittitle></did>
+</c02><c02 level="file">
+<did>
+<container type="box">9</container>
+<unittitle encodinganalog="245$a">Long-Bell lookout area</unittitle></did>
+</c02><c02 level="file">
+<did>
+<container type="box">9</container>
+<unittitle encodinganalog="245$a">Poison Lake</unittitle></did>
+</c02><c02 level="file">
+<did>
+<container type="box">9</container>
+<unittitle encodinganalog="245$a">Lassen Feather River</unittitle></did>
+</c02><c02 level="file">
+<did>
+<container type="box">9</container>
+<unittitle encodinganalog="245$a">Truckee-Oroville Triangle</unittitle></did>
+</c02><c02 level="file">
+<did>
+<container type="box">9</container>
+<unittitle encodinganalog="245$a">FGS Hilt</unittitle></did>
+</c02><c02 level="file">
+<did>
+<container type="box">9</container>
+<unittitle encodinganalog="245$a">Pacific Eastern Medco</unittitle></did>
+</c02><c02 level="file">
+<did>
+<container type="box">9</container>
+<unittitle encodinganalog="245$a">La Pine</unittitle></did>
+</c02><c02 level="file">
+<did>
+<container type="box">9</container>
+<unittitle encodinganalog="245$a">West of Gazelle</unittitle></did>
+</c02><c02 level="file">
+<did>
+<container type="box">9</container>
+<unittitle encodinganalog="245$a">North Coast</unittitle></did>
+</c02><c02 level="file">
+<did>
+<container type="box">9</container>
+<unittitle encodinganalog="245$a">Burns-Seneca - Oregon Northwestern</unittitle></did>
+</c02><c02 level="file">
+<did>
+<container type="box">9</container>
+<unittitle encodinganalog="245$a">California  Oregon Coast RR - Crescent City, Smith River-Brookings</unittitle></did>
+</c02><c02 level="file">
+<did>
+<container type="box">9</container>
+<unittitle encodinganalog="245$a">Modoc Siskiyou McCloud River</unittitle></did>
+</c02><c02 level="file">
+<did>
+<container type="box">9</container>
+<unittitle encodinganalog="245$a">Coquille-Fairview-Bandon</unittitle></did>
+</c02><c02 level="file">
+<did>
+<container type="box">9</container>
+<unittitle encodinganalog="245$a">Mt. Shasta Aeronautical Section 1938 R</unittitle></did>
+</c02><c02 level="file">
+<did>
+<container type="box">9</container>
+<unittitle encodinganalog="245$a">Upper Klamath Lake Area 1923 USGS</unittitle></did>
+</c02><c02 level="file">
+<did>
+<container type="box">9</container>
+<unittitle encodinganalog="245$a">Map of the Dalles-California highway from Bend to Klamath County Line, showing certain Brooks-Scanlon  Shevlin-Hixon lines</unittitle></did>
+</c02><c02 level="file">
+<did>
+<container type="box">9</container>
+<unittitle encodinganalog="245$a">Mt. Hebron</unittitle></did>
+</c02><c02 level="file">
+<did>
+<container type="box">9</container>
+<unittitle encodinganalog="245$a">Pickering Hackamore</unittitle></did>
+</c02><c02 level="file">
+<did>
+<container type="box">9</container>
+<unittitle encodinganalog="245$a">OC  E - SP Connection</unittitle></did>
+</c02><c02 level="file">
+<did>
+<container type="box">9</container>
+<unittitle encodinganalog="245$a">Dufur Friend</unittitle></did>
+</c02><c02 level="file">
+<did>
+<container type="box">9</container>
+<unittitle encodinganalog="245$a">States of Oregon 1930 roads only</unittitle></did>
+</c02><c02 level="file">
+<did>
+<container type="box">9</container>
+<unittitle encodinganalog="245$a">Deschutes National Forest #1</unittitle>
+<unitdate datechar="creation" era="ce" calendar="gregorian" encodinganalog="245$f" normal="1940">1940</unitdate></did>
+</c02><c02 level="file">
+<did>
+<container type="box">9</container>
+<unittitle encodinganalog="245$a">Pacific and Eastern Railway Maps</unittitle></did>
+</c02><c02 level="file">
+<did>
+<container type="box">9</container>
+<unittitle encodinganalog="245$a">Coastal Railroads</unittitle></did>
+</c02><c02 level="file">
+<did>
+<container type="box">9</container>
+<unittitle encodinganalog="245$a">Lumber Mills</unittitle></did>
+</c02><c02 level="file">
+<did>
+<container type="box">9</container>
+<unittitle encodinganalog="245$a">Logging Images</unittitle></did>
+</c02><c02 level="file">
+<did>
+<container type="box">9</container>
+<unittitle encodinganalog="245$a">Railroad Logging, Various</unittitle></did>
+</c02></c01><c01 level="series">
+<did>
+<unitid encodinganalog="099" type="series">Series II</unitid>
+<unittitle encodinganalog="245$a">Local History</unittitle>
+<physdesc><extent encodinganalog="300$a">1 box</extent></physdesc></did>
+<c02 level="file">
+<did>
+<container type="box">10</container>
+<unittitle encodinganalog="245$a">Tule Lake Relocation Center</unittitle></did>
+</c02><c02 level="file">
+<did>
+<container type="box">10</container>
+<unittitle encodinganalog="245$a">Obituaries</unittitle></did>
+</c02><c02 level="file">
+<did>
+<container type="box">10</container>
+<unittitle encodinganalog="245$a">Big Bands</unittitle></did>
+</c02><c02 level="file">
+<did>
+<container type="box">10</container>
+<unittitle encodinganalog="245$a">Local Area History</unittitle></did>
+</c02><c02 level="file">
+<did>
+<container type="box">10</container>
+<unittitle encodinganalog="245$a">Rachael Applegate good history of Klamath County</unittitle>
+<unitdate datechar="creation" era="ce" calendar="gregorian" encodinganalog="245$f" normal="1940">1940</unitdate></did>
+</c02></c01><c01 level="file">
+<did>
+<unitid encodinganalog="099">Series III</unitid>
+<unittitle encodinganalog="245$a">Audio-Visual Materials</unittitle>
+<physdesc><extent encodinganalog="300$a">2 boxes</extent></physdesc></did>
+<c02 level="file">
+<did>
+<container type="box">11</container>
+<unittitle encodinganalog="245$a">Images</unittitle></did>
+</c02><c02 level="file">
+<did>
+<container type="box">12</container>
+<unittitle encodinganalog="245$a">Images</unittitle></did>
+</c02><c02 level="file">
+<did>
+<container type="box">12</container>
+<unittitle encodinganalog="245$a">BNSF Railway's Gateway Sub DVD</unittitle></did>
+</c02><c02 level="file">
+<did>
+<container type="box">12</container>
+<unittitle encodinganalog="245$a">BNSF Railway's Oregon Trunk Subdivision DVD</unittitle></did>
+</c02></c01><c01 level="series">
+<did>
+<unitid encodinganalog="099" type="series">Series IV</unitid>
+<unittitle encodinganalog="245$a">Maps</unittitle>
+<physdesc><extent encodinganalog="300$a">2 boxes and 1 cabinet, 2 linear feet</extent></physdesc></did>
+</c01></dsc></archdesc></ead>
+

@@ -1,0 +1,190 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+
+<ead audience="external" relatedencoding="MARC21">
+<eadheader langencoding="iso639-2b" audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924">
+<eadid countrycode="us" mainagencycode="txau">urn:taro:aushc.00311</eadid>
+
+<filedesc>
+	<titlestmt>
+		<titleproper>Chartier Newton Drawings</titleproper>
+		<subtitle>An Inventory to the Collection</subtitle>
+		<author>Finding aid prepared by Kathryn Garvey.</author>
+	</titlestmt>
+<publicationstmt>
+	<publisher>Austin History Center, Austin Public Library</publisher>
+	<date type="publication">September 11, 2012</date>
+
+	<address><addressline>810 Guadalupe</addressline><addressline>PO BOX 2287</addressline><addressline>Austin, TX 78768</addressline></address>
+
+</publicationstmt>
+</filedesc>
+
+<profiledesc>
+<creation>Finding aid encoded by Kathryn Garvey on
+<date>September 11, 2012</date>
+</creation>
+<langusage><language></language></langusage>
+</profiledesc>
+</eadheader>
+
+<archdesc level="collection" type="inventory">
+<did>
+	<head>Overview of the Collection</head>
+	<repository label="Repository:" encodinganalog="852$a">
+		<corpname>Austin History Center, Austin Public Library, </corpname>
+		<address><addressline>810 Guadalupe, </addressline><addressline>PO BOX 2287, </addressline><addressline>Austin, TX 78768</addressline></address>
+	</repository>
+
+	<origination label="Creator:">
+		<persname encodinganalog="100">Newton, Chartier, 1933-2004</persname>
+	</origination>
+
+	<unittitle label="Title:" encodinganalog="245$a">Chartier Newton Drawings</unittitle>
+
+	<unitdate label="Inclusive Dates:">1971-1985</unitdate>
+
+	<physdesc label="Quantity:" encodinganalog="300$a">1 flat file (702 drawings)</physdesc>
+
+	<abstract encodinganalog="520$a" label="Abstract:">Charles Chartier Newton was an architect who lived in Austin, Texas from 1971 until his death in 2004. The collection contains residential, ecclesiastical, public, and commercial architectural drawings by Chartier Newton and other architects at Chartier Newton  Associates created between 1971-1985.</abstract>
+
+	<unitid encodinganalog="099" label="Identification:" countrycode="us" 
+		repositorycode="txauat">AR.2012.030</unitid>
+
+	<langmaterial>The records are in <language>English</language>.
+	</langmaterial>
+</did>
+
+
+
+<!-- TOP LEVEL METADATA GO HERE: -->
+<bioghist altrender="biography" encodinganalog="545" id="a2">
+	<head>Biographical Note</head>
+	<p>Chartier Newton was born in 1933 in Albuquerque to Charles Newton and Aileen Chartier. He grew up in Tyler, TX and graduated from John Tyler High School. He went on to earn a Bachelor of Architecture degree from Texas A  M University in 1956 and a Master of Architecture from Cranbrook Academy of Art in Michigan in 1957. Newton married Patricia Ann Clarke in September of 1958. </p>
+<p>He spent time working in the offices of Eero Saarinen and Associates, Caudill Rowlett and Scott, and Harrell + Hamilton. The Newton family moved to Austin, TX in 1971 where he designed their home and became a partner with Emerson-Fehr-Newton before forming Chartier Newton  Associates. As his career progressed, Newton enjoyed specializing in the design of churches.</p> 
+<p>Along with his work as an architect, Newton taught architecture courses at Texas A  M University, Rice University, and the University of Texas at Austin. In 1986, he was inducted as a Fellow into the American Institute of Architects. Newton passed away on May 3, 2004.</p></bioghist>
+
+
+
+<scopecontent encodinganalog="520" id="a3">
+	<head>Scope and Contents</head>
+	<p>The Drawings Series contains 702 drawings representing seventeen projects. The majority of the drawings and projects pertain to Bannockburn Baptist Church. Other projects include the Newton Residence, Sutton Hall at the University of Texas at Austin, and Pecan Square Shopping Center.</p>
+</scopecontent>
+
+<arrangement encodinganalog="351$b" id="a5">
+	<head>Arrangement</head>
+<list><head>Arranged into one series:</head>
+<item>I. Drawings</item>
+</list>
+</arrangement>
+
+<relatedmaterial encodinganalog="544 1" id="a6">
+	<head>Related Material</head>
+	<p>Architectural drawings of the Braniff International, Delta Airlines and Eastern Airlines facilities at Robert Mueller Municipal Airport as well as the Community Bank branch facility on Airport Boulevard by Newton are included in the Rex Kitchens Records collection (AR.2009.023). </p>
+</relatedmaterial>
+
+<!-- END TOP LEVEL METADATA -->
+
+<!-- CONTROLLED ACCESS TERMS GO HERE: -->
+
+<controlaccess id="a12">
+<head>Index Terms</head>
+<p>This record series is indexed under the following controlled access subject terms.</p>
+
+<controlaccess>
+<head>Persons:</head>
+<persname encodinganalog="700" source="local">Newton, Chartier.</persname>
+</controlaccess>
+<controlaccess>
+<head>Organizations:</head>
+<corpname encodinganalog="710" source="local">Chartier Newton  Associates.</corpname>
+</controlaccess>
+<controlaccess>
+<head>Subjects:</head>
+<subject encodinganalog="750" source="local">Architecture--Texas--Austin.</subject>
+</controlaccess>
+<controlaccess>
+		<head>Places:</head>
+		<geogname encodinganalog="651" source="local">Austin (Tex.).</geogname>
+</controlaccess>
+
+<controlaccess>
+		<head>Document Types:</head>
+			<genreform encodinganalog="655" source="local">Drawings.</genreform>
+</controlaccess>
+</controlaccess>
+
+
+
+
+
+
+
+<!-- END CONTROLLED ACCESS TERMS -->
+
+<!-- ADMINISTRATIVE INFORMATION GOES HERE: -->
+
+
+<accessrestrict id="a14" encodinganalog="506">
+	<head>Restrictions on Access</head>
+	<p>Open to all users.</p>
+</accessrestrict>
+<userestrict encodinganalog="540" id="a15">
+	<head>Restrictions on Use</head>
+	<p>None</p>
+</userestrict>
+<prefercite encodinganalog="510" id="a18">
+	<head>Preferred Citation</head>
+	<p>Chartier Newton Drawings (AR.2012.030). Austin History Center, Austin Public Library, Texas.</p>
+</prefercite>
+<acqinfo encodinganalog="541" id="a19">
+	<head>Acquisition Information</head>
+	<p>Donor #: DO/1986/094</p>
+	<p>Donation Date: 1986</p>
+</acqinfo>
+<processinfo encodinganalog="583" id="a20">
+	<head>Processing Information</head>
+	<p>Finding aid was prepared and encoded by Kathryn Garvey/2012.</p>
+</processinfo>
+
+
+
+
+
+
+
+
+<!-- END ADMINISTRATIVE INFORMATION -->
+
+
+<!-- START DESCRIPTION OF SUBORDINATE COMPONENTS-->
+
+<dsc type="combined" id="a23">
+<head>Detailed Description of the Collection</head>
+
+<c01 level="series">
+   <did>
+	<unittitle>I. Drawings, </unittitle>
+	<unitdate>1971-1985</unitdate>
+    </did>	
+<note>
+  <p>View an index of the architectural drawings <extref href="http://www.lib.utexas.edu/taro/aushc/supplements/ChartierNewtonIndex-00311.xls" show="new" actuate="onrequest" linktype="simple">here</extref>.</p> 
+  </note>
+</c01>
+
+</dsc>
+
+
+
+
+
+
+
+
+
+
+
+<!-- END DESCRIPTION OF SUBORDINATE COMPONENTS-->
+</archdesc>
+</ead>
+

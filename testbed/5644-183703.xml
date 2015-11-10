@@ -1,0 +1,574 @@
+<ead audience="external"><eadheader langencoding="iso639-2b" audience="external" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924" relatedencoding="MARC21">
+      <eadid encodinganalog="856$u" mainagencycode="US-FTS" countrycode="US" identifier="ArchonInternalCollectionID:57">C08</eadid>
+      <filedesc>
+                  <titlestmt>
+               <titleproper encodinganalog="245">Guide to the Betty Castor Papers</titleproper>
+               <titleproper type="filing">Castor, Betty Papers</titleproper>
+                        <author encodinganalog="245$c">Finding Aid Authors: BAC.</author>
+                  </titlestmt>
+         <publicationstmt>
+            <p> Copyright 2013 USF Tampa Library - Special  Digital Collections.  All rights reserved.</p>
+                           <address>
+                  <addressline>4202 East Fowler Ave.</addressline>
+                                 <addressline>LIB122</addressline>
+                                 <addressline>Tampa, FL, 33620-5400</addressline>
+                                 <addressline>URL: http://www.lib.usf.edu/</addressline>
+                                 <addressline>Email: rbernard@usf.edu</addressline>
+                                 <addressline>Phone: 813-974-1622</addressline>
+                                 <addressline>Fax: 813-396-9006</addressline>
+                           </address>
+               
+         </publicationstmt>
+      </filedesc>
+
+      <profiledesc>
+         <creation encodinganalog="500">This finding aid was encoding in EAD by Archon 3.21 from an SQL database source on <date type="encoded" normal="2013-01-11">January 11th, 2013</date>.</creation>
+                           <langusage encodinganalog="546">The collection description/finding aid is written in <language encodinganalog="041" langcode="eng">English</language></langusage>
+                     </profiledesc>
+
+
+               
+      </eadheader>
+
+      <frontmatter>
+         <titlepage>
+            <titleproper encodinganalog="245">Guide to the Betty Castor Papers
+                              <date normal="1962/1999" encodinganalog="260$c">1962/1999</date>
+                        </titleproper>
+               <publisher encodinganalog="260$b">USF Tampa Library - Special  Digital Collections</publisher>
+               </titlepage>
+            </frontmatter>
+
+            <archdesc level="collection" type="inventory" audience="external" relatedencoding="MARC21">
+               <did>
+                  <head>Overview of the Collection</head>
+                           <unittitle label="Collection Title" encodinganalog="245">Betty Castor Papers                              <unitdate label="Dates" encodinganalog="245$f" type="inclusive" normal="1962/1999">1962-1999</unitdate>
+                              </unittitle>
+                  <unitid encodinganalog="035" label="Identification" repositorycode="US-FTS" countrycode="US">C08</unitid>
+                     <origination label="Creator" encodinganalog="245$c">
+                     <persname encodinganalog="100" normal="Castor, Betty" source="local" role="Collector">Castor, Betty, 1940 -</persname>
+                           </origination>
+                           <physdesc label="Physical Description"><extent encodinganalog="300" type="Linear Feet">12.00</extent></physdesc>
+                           <physdesc label="Alternate Extent Statement" encodinganalog="300$a">10 boxes</physdesc>
+         
+               <langmaterial encodinganalog="546" label="Language of Materials">
+            		<language encodinganalog="041" langcode="eng">English</language>
+               </langmaterial>
+                        <repository encodinganalog="852$b" label="Repository">
+                              <corpname>USF Tampa Library - Special  Digital Collections</corpname>
+                              <address>
+                     <addressline>4202 East Fowler Ave.</addressline>
+                                    <addressline>LIB122</addressline>
+                                       <addressline>Tampa, FL, 33620-5400</addressline>
+                                    <addressline>URL: http://www.lib.usf.edu/</addressline>
+                                    <addressline>Email: rbernard@usf.edu</addressline>
+                                    <addressline>Phone: 813-974-1622</addressline>
+                                    <addressline>Fax: 813-396-9006</addressline>
+                              </address>
+            </repository>
+
+
+                                       <note encodinganalog="500" label="Note">
+                  <p>Other Information:</p>
+                                       <p>ready</p>
+                                 <p>Additional information may be found at http://usfldc:U29-00034-C08</p>
+                           </note>
+               
+      </did>
+
+
+      <!--COLLECTION LEVEL METADATA: -->
+               <bioghist altrender="Biographical Information" encodinganalog="545"><head>Biographical Information:</head>
+                              <p>Elizabeth “Betty” Bowe Castor-Bell was born to Irish immigrants on May 11, 1941.  A native of Glassboro, New Jersey, Castor moved to Florida in 1966, where she became a politician, a proponent of educational causes, and the first female president of the University of South Florida.</p>
+                                       <p>Castor’s career has spanned continents, bridged social and political gaps, and afforded numerous awards, honors and appointments.  A brief overview of Castor’s educational and political career is as follows:</p>
+                                       <p>- Bachelor of Arts, Education (Glassboro State College, New Jersey-- renamed to Rowan College)</p>
+                                       <p>- Master of Arts, Education (University of Miami, Florida)</p>
+                                       <p>- Hillsborough County Board of Commissioners, 1972-1976 (Chair, 1975-1976)</p>
+                                       <p>- Senator, State of Florida (1976-1978)</p>
+                                       <p>- Senator, State of Florida, representing Hillsborough, Pinellas and Pasco Counties (1982-1986)</p>
+                                       <p>- Florida Commission of Education (1986-1993)</p>
+                                       <p>- President, University of South Florida (1994-1999)</p>
+                                       <p>- President, National Board of Professional Teaching Standards (1999-)</p>
+                                       <p>In accordance, Betty Castor’s most acknowledged achievements include: an Honorary Doctorate from the University of South Florida (2000); the Judeo-Christian Health Clinic’s 1994 Humanitarian Award; recognition as the 1986 Legislator of the Year; the “Class of ‘56” distinction, which the University of South Florida bestows upon non-graduates who have rendered outstanding service to USF and to the community; and the honor of being one of the youngest presidents of Tampa’s League of Women Voters.</p>
+                           </bioghist>
+         
+
+            <!-- CONTROLLED ACCESS / SUBJECT TERMS -->
+
+                        <controlaccess>
+                     <head>Access Terms</head>
+
+                     <p>This Collection is indexed under the following controlled access subject terms.</p>
+                                 <controlaccess>
+                              <head>Personal Name:</head>
+                                       <persname encodinganalog="600" source="local" role="subject">Castor, Betty</persname>
+                                 </controlaccess>
+            </controlaccess>
+            
+
+         <!-- END CONTROLLED ACCESS TERMS -->
+
+                           <!-- ADMINISTRATIVE INFORMATION -->
+
+                  <descgrp>
+                     <head>Administrative Information</head>
+                              <acqinfo encodinganalog="541">
+                           <head>Acquisition Information:</head>
+                           <p>Donation.</p>
+                        </acqinfo>
+                        <processinfo encodinganalog="583">
+                           <head>Processing Information:</head>
+                                    <p>Complete</p>
+                              </processinfo>
+                           <accessrestrict encodinganalog="506">
+                        <head>Conditions Governing Access:</head>
+                                          <p>None.  The contents of this collection may be subject to copyright.  Visit the United States Copyright Offices website at http://www.copyright.gov/ for more information.</p>
+                           </accessrestrict>
+                              <prefercite encodinganalog="524">
+                     <head>Preferred Citation:</head>
+                     <p>Betty Castor papers, Special Collections Department,  	Tampa Library, University of South Florida, Tampa, Florida.</p>
+                     </prefercite>
+                     </descgrp>
+
+                           <arrangement encodinganalog="351">
+                  <head>Arrangement of Materials:</head>
+                                 <p>Alphabetically by subject within series.</p>
+                        </arrangement>
+            <scopecontent>
+               <head>Scope and Contents</head>
+                                 <p>The bulk of this collection consists of printed materials, such as newspaper clippings and publications, documenting Castor’s political career.  Also accompanying the papers are numerous awards and plaques presented to Castor for her service to the citizens of Florida.  In August 2008, action was taken to re-assess and weed the plaques and awards.  Only those items that were considered relative to the history of the University of South Florida or of significance to Betty Castor’s career were retained.  A CD (compact disc) containing pictures of the plaques and trophies is included, and an itemized list has been added to Castors donor file.</p>
+                                 <p>Materials compromising the Betty Castor papers do not include her official USF presidential papers, which are a part of the University Archives and are currently (2007) in remote storage.</p>
+                        </scopecontent>
+            
+
+
+         <!-- END ADMINISTRATIVE INFORMATION -->
+
+         <!-- END COLLECTION LEVEL METADATA -->
+
+                        <!-- BEGIN SUBORDINATE COMPONENTS -->
+            <dsc type="combined">
+               <head>Detailed List of Contents</head>
+               <c01 level="otherlevel">
+   <did>
+      <unitid label="ArchonID" audience="internal">id5565</unitid>
+         	<container type="Box">1</container>
+      <unittitle>Articles – 1976-1997</unittitle>
+               </did>
+         <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id5566</unitid>
+         	<container type="Box">1</container>
+	<container type="Folder">1</container>
+      <unittitle>Articles 1976-1993</unittitle>
+               </did>
+         
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id5567</unitid>
+         	<container type="Box">1</container>
+	<container type="Folder">2</container>
+      <unittitle>Articles 1994-1995</unittitle>
+               </did>
+         
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id5568</unitid>
+         	<container type="Box">1</container>
+	<container type="Folder">3</container>
+      <unittitle>Articles 1995-1997</unittitle>
+               </did>
+         
+</c02>
+   
+</c01>
+   <c01 level="otherlevel">
+   <did>
+      <unitid label="ArchonID" audience="internal">id5569</unitid>
+         	<container type="Box">2</container>
+      <unittitle>Bell, Samuel Paris ~ Florida State Division of Elections</unittitle>
+               </did>
+         <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id5570</unitid>
+         	<container type="Box">2</container>
+	<container type="Folder">1</container>
+      <unittitle>Bell, Samuel Paris</unittitle>
+               </did>
+         
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id5571</unitid>
+         	<container type="Box">2</container>
+	<container type="Folder">2</container>
+      <unittitle>Biographical Information</unittitle>
+               </did>
+         
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id5572</unitid>
+         	<container type="Box">2</container>
+	<container type="Folder">3</container>
+      <unittitle>Elections</unittitle>
+               </did>
+         
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id5573</unitid>
+         	<container type="Box">2</container>
+	<container type="Folder">4</container>
+      <unittitle>Equal Rights Amendment</unittitle>
+               </did>
+         <scopecontent>
+      <head>Scope and Contents</head>
+                  <p>Documents regarding the proposal and ratification of the 27thamendment and its affect on other laws, regulations, etc.</p>
+                     </scopecontent>
+            
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id5574</unitid>
+         	<container type="Box">2</container>
+	<container type="Folder">5</container>
+      <unittitle>Florida Commission on Education.</unittitle>
+               </did>
+         
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id5575</unitid>
+         	<container type="Box">2</container>
+	<container type="Folder">6</container>
+      <unittitle>Florida State Cabinet</unittitle>
+               </did>
+         
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id5576</unitid>
+         	<container type="Box">2</container>
+	<container type="Folder">7</container>
+      <unittitle>Florida State Division of Elections</unittitle>
+               </did>
+         
+</c02>
+   
+</c01>
+   <c01 level="otherlevel">
+   <did>
+      <unitid label="ArchonID" audience="internal">id5577</unitid>
+         	<container type="Box">3</container>
+      <unittitle>Gubernatorial Race ~ Women</unittitle>
+               </did>
+         <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id5578</unitid>
+         	<container type="Box">3</container>
+	<container type="Folder">1</container>
+      <unittitle>Gubernatorial Race-1978</unittitle>
+               </did>
+         <scopecontent>
+      <head>Scope and Contents</head>
+                  <p>Running mate of Lt. Governor Jim Williams.</p>
+                     </scopecontent>
+            
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id5579</unitid>
+         	<container type="Box">3</container>
+	<container type="Folder">2</container>
+      <unittitle>Hillsborough County Anti-Rape Organizations</unittitle>
+               </did>
+         
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id5580</unitid>
+         	<container type="Box">3</container>
+	<container type="Folder">3</container>
+      <unittitle>Hillsborough County Board of Commissioners</unittitle>
+               </did>
+         
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id5581</unitid>
+         	<container type="Box">3</container>
+	<container type="Folder">4</container>
+      <unittitle>Hillsborough County Growth</unittitle>
+               </did>
+         
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id5582</unitid>
+         	<container type="Box">3</container>
+	<container type="Folder">5</container>
+      <unittitle>Interviews</unittitle>
+               </did>
+         
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id5583</unitid>
+         	<container type="Box">3</container>
+	<container type="Folder">6</container>
+      <unittitle>Jamerson, Rep. Doug “Tim”</unittitle>
+               </did>
+         
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id5584</unitid>
+         	<container type="Box">3</container>
+	<container type="Folder">7</container>
+      <unittitle>Miscellaneous</unittitle>
+               </did>
+         <scopecontent>
+      <head>Scope and Contents</head>
+                  <p>Includes newspaper clippings and journal articles, committee meeting information, limited correspondence.</p>
+                     </scopecontent>
+            
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id5585</unitid>
+         	<container type="Box">3</container>
+	<container type="Folder">8</container>
+      <unittitle>National Board of Professional Teaching Standards</unittitle>
+               </did>
+         
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id5586</unitid>
+         	<container type="Box">3</container>
+	<container type="Folder">9</container>
+      <unittitle>Photographs</unittitle>
+               </did>
+         
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id5587</unitid>
+         	<container type="Box">3</container>
+	<container type="Folder">10</container>
+      <unittitle>Speeches</unittitle>
+               </did>
+         
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id5588</unitid>
+         	<container type="Box">3</container>
+	<container type="Folder">11</container>
+      <unittitle>University Club</unittitle>
+               </did>
+         
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id5589</unitid>
+         	<container type="Box">3</container>
+	<container type="Folder">12</container>
+      <unittitle>Women</unittitle>
+               </did>
+         <scopecontent>
+      <head>Scope and Contents</head>
+                  <p>Newspaper articles concerning the social and political roles of women.</p>
+                     </scopecontent>
+            
+</c02>
+   
+</c01>
+   <c01 level="otherlevel">
+   <did>
+      <unitid label="ArchonID" audience="internal">id5590</unitid>
+         	<container type="Box">4</container>
+      <unittitle>Advancement ~ Presidential Resignation</unittitle>
+               </did>
+         <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id5591</unitid>
+         	<container type="Box">4</container>
+	<container type="Folder">1</container>
+      <unittitle>Advancement</unittitle>
+               </did>
+         
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id5592</unitid>
+         	<container type="Box">4</container>
+	<container type="Folder">2</container>
+      <unittitle>Athletics</unittitle>
+               </did>
+         
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id5593</unitid>
+         	<container type="Box">4</container>
+	<container type="Folder">3</container>
+      <unittitle>Budget</unittitle>
+               </did>
+         
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id5594</unitid>
+         	<container type="Box">4</container>
+	<container type="Folder">4</container>
+      <unittitle>Ceremonies and Events</unittitle>
+               </did>
+         
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id5595</unitid>
+         	<container type="Box">4</container>
+	<container type="Folder">5</container>
+      <unittitle>Faculty and Staff</unittitle>
+               </did>
+         
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id5596</unitid>
+         	<container type="Box">4</container>
+	<container type="Folder">6</container>
+      <unittitle>Foreign Relations</unittitle>
+               </did>
+         
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id5597</unitid>
+         	<container type="Box">4</container>
+	<container type="Folder">7</container>
+      <unittitle>Free Speech</unittitle>
+               </did>
+         
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id5598</unitid>
+         	<container type="Box">4</container>
+	<container type="Folder">8</container>
+      <unittitle>Inauguration</unittitle>
+               </did>
+         
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id5599</unitid>
+         	<container type="Box">4</container>
+	<container type="Folder">9</container>
+      <unittitle>Libraries</unittitle>
+               </did>
+         
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id5600</unitid>
+         	<container type="Box">4</container>
+	<container type="Folder">10</container>
+      <unittitle>Lifsey House</unittitle>
+               </did>
+         
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id5601</unitid>
+         	<container type="Box">4</container>
+	<container type="Folder">11</container>
+      <unittitle>Miscellaneous</unittitle>
+               </did>
+         
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id5602</unitid>
+         	<container type="Box">4</container>
+	<container type="Folder">12</container>
+      <unittitle>Presidency- Articles</unittitle>
+               </did>
+         
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id5603</unitid>
+         	<container type="Box">4</container>
+	<container type="Folder">13</container>
+      <unittitle>Presidency- Editorials</unittitle>
+               </did>
+         
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id5604</unitid>
+         	<container type="Box">4</container>
+	<container type="Folder">14</container>
+      <unittitle>Presidential Appointment</unittitle>
+               </did>
+         
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id5605</unitid>
+         	<container type="Box">4</container>
+	<container type="Folder">15</container>
+      <unittitle>Presidential Campaign- Opposition</unittitle>
+               </did>
+         
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id5606</unitid>
+         	<container type="Box">4</container>
+	<container type="Folder">16</container>
+      <unittitle>Presidential Campaign-Support</unittitle>
+               </did>
+         
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id5607</unitid>
+         	<container type="Box">4</container>
+	<container type="Folder">17</container>
+      <unittitle>Presidential Papers</unittitle>
+               </did>
+         
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id5608</unitid>
+         	<container type="Box">4</container>
+	<container type="Folder">18</container>
+      <unittitle>Presidential Race</unittitle>
+               </did>
+         
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id5609</unitid>
+         	<container type="Box">4</container>
+	<container type="Folder">19</container>
+      <unittitle>Presidential Resignation</unittitle>
+               </did>
+         
+</c02>
+   
+</c01>
+   
+            </dsc>
+               <!-- END SUBORDINATE COMPONENTS -->
+   </archdesc>
+</ead>
+

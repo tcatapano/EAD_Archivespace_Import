@@ -1,0 +1,380 @@
+<?xml version="1.0"?>
+<ead id="divinity.185" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.library.yale.edu/facc/schemas/ead/ead.xsd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<eadheader langencoding="iso639-2b" scriptencoding="iso15924" countryencoding="iso3166-1" repositoryencoding="iso15511" dateencoding="iso8601">
+    <eadid url="http://hdl.handle.net/10079/fa/divinity.185" publicid="-//Yale University::Yale Divinity School Library//TEXT (US::CtY-D::::[Guide to the Harman V. S. Peeke Papers (Record Group No. 185) ])//EN" countrycode="US" mainagencycode="US-CtY-D">divinity.185</eadid>
+<filedesc>
+<titlestmt>
+<titleproper type="formal">Guide to the Harman V. S. Peeke Papers
+<num>(Record Group No. 185)</num>
+</titleproper>
+<titleproper type="filing" render="altrender" altrender="nodisplay" audience="internal">Peeke (Harman V. S.) Papers</titleproper>
+<author>Compiled
+by Kathryn Lund and Martha Lund Smalley </author>
+</titlestmt>
+<publicationstmt>
+<publisher>Yale University Library</publisher>
+<publisher>Divinity School Library</publisher>
+<address>
+<addressline>409
+Prospect Street</addressline>
+<addressline>New Haven, Connecticut</addressline>
+</address>
+<date type="original" era="ce" calendar="gregorian" normal="2002">May, 2002</date>
+<date type="ead" normal="2006/2007" era="ce" calendar="gregorian">2006-2007</date>
+<p>
+<extref xlink:type="simple" xlink:actuate="onRequest" xlink:show="new" xlink:href="http://hdl.handle.net/10079/9p8czk9">Copyright ©
+<date type="copyright" normal="1996/2007" era="ce" calendar="gregorian">1996-2007</date> by the Yale University Library.</extref>
+</p>
+</publicationstmt>
+<notestmt>
+<note type="bpg">
+<p>This encoded finding
+aid is compliant with the Yale EAD Best Practice Guidelines, Version 1.0.</p>
+</note>
+</notestmt>
+</filedesc>
+<profiledesc>
+<creation>Finding aid encoded by
+Divinity Library staff with WordPerfect templates. </creation>
+<langusage>Finding aid written in <language langcode="eng" scriptcode="Latn">English</language>.</langusage>
+<descrules>Finding aid
+prepared according to local Divinity Library descriptive practices.</descrules>
+</profiledesc>
+<revisiondesc>
+<change>
+<date normal="2007-07-27" era="ce" calendar="gregorian">2007-07-27</date>
+<item>.xml converted for compliance with Yale EAD Best Practice Guidelines with
+divinity-migrate-02.xsl (yn2007-07-27).</item>
+</change>
+<change>
+<date normal="2007-03-20" era="ce" calendar="gregorian">2007-03-20</date>
+<item>.xml converted from EAD 1.0 to 2002 with v1to02.xsl
+(yn2007-03-20).</item>
+</change>
+<change>
+<date normal="2009-06-08" era="ce" calendar="gregorian">2009-06-08</date>
+<item>Transformed with yale.stripEadheaderID.xsl. Strips @id from eadheader if
+generated erroniously in FACT clean save.</item>
+</change>
+<change>
+<date normal="2010-02-03" era="ce" calendar="gregorian">2010-02-03</date>
+<item>Transformed with yale.addEadidUrl.xsl. Adds @url with handle for finding
+aid. Overwrites @url if already present.</item>
+</change>
+</revisiondesc>
+</eadheader>
+<archdesc level="collection" relatedencoding="MARC21" type="register">
+<did id="did">
+<head>Overview</head>
+<origination label="Creator:">
+<persname encodinganalog="100">Peeke, Harman V. S.</persname>
+</origination>
+<unittitle label="Title:">Harman V. S. Peeke Papers, </unittitle>
+<unitdate label="Dates:" type="inclusive" datechar="creation" calendar="gregorian" era="ce" normal="1887/1987">1887-1987</unitdate>
+<unitid label="Call Number:" countrycode="US" repositorycode="US-CtY-D">Record
+Group No. 185</unitid>
+<physdesc label="Physical Description:">
+<extent>Total
+archival boxes 2; total linear footage 1'</extent>
+</physdesc>
+<abstract label="Summary:">Detailed and substantive quarterly letters and
+writings document the missionary work of Harman V. S. Peeke and his wife Vesta
+G. Peeke. The Peekes were missionaries in Japan from 1893 to 1929, serving
+under the Reformed Church in America.</abstract>
+<langmaterial label="Language(s):">Materials in <language langcode="eng">English</language>.</langmaterial>
+<repository label="Repository:">
+<corpname>Yale University Divinity School
+Library</corpname>
+<address>
+<addressline>409 Prospect Street</addressline>
+<addressline>New Haven, CT 06511</addressline>
+<addressline altrender="email">Email: divinity.library@yale.edu</addressline>
+<addressline altrender="phone">Phone: (203) 432-5301</addressline>
+</address>
+</repository>
+</did>
+<descgrp type="admininfo" id="ai">
+<head>Administrative
+Information</head>
+<accessrestrict id="arest">
+<head>Information about
+Access</head>
+<p>Open to qualified researchers.</p>
+</accessrestrict>
+<descgrp type="provenance" id="prov">
+<head>Provenance</head>
+<acqinfo id="acq">
+<p>Gift of the Peeke family.</p>
+</acqinfo>
+</descgrp>
+<prefercite id="cite">
+<head>Cite As</head>
+<p>Harman V. S. Peeke Papers,
+Record Group No. 185, Special Collections, Yale Divinity School Library.</p>
+</prefercite>
+</descgrp>
+<bioghist id="bh1">
+<head>Historical Sketch</head>
+<p>Harman Van Slyke Peeke and Vesta Greer Peeke were missionaries in Japan,
+serving under the Reformed Church in America. H. V. S. Peeke first sailed from
+New York to Tokyo in 1887 and returned to the U. S. in 1891. Vesta Greer sailed
+from New York in 1887 to become a missionary in China but married HVSP in 1893
+and thereafter served in Japan. The Peekes had seven children. H. V. S. Peeke's
+mission work included teaching, evangelism, and mission administration; he
+became notably expert in the Japanese language. From 1920 to 1926 the Peekes
+were at Meiji Gakuin, an educational institution in Tokyo. They returned to the
+U.S. for the last time in 1929. Harman died of cancer on November 27, 1929 in
+Holland, Michigan.</p>
+</bioghist>
+<scopecontent id="sc">
+<head>Description of
+the Papers</head>
+<p>This collection is most notable for the substantive
+quarterly letters in Series I. These letters were written primarily by Harman
+V. S. Peeke during the Peekes' years in Japan, 1893 to 1929. The letters,
+addressed to "Dear Friend," are primarily in typescript mimeographed format;
+some holograph letters have been transcribed by the Peeke family. The letters
+provide detailed descriptions of Peekes' work and observations on life and
+events in Japan. Information provided by the Peekes' circular letters is
+supplemented by numerous articles written by Peeke. The collection also
+includes two published works by Peeke related to use of the Japanese
+language.</p>
+</scopecontent>
+<arrangement id="arr1">
+<head>Arrangement</head>
+<list type="simple">
+<item>
+<ref xlink:type="simple" xlink:actuate="onRequest" xlink:show="replace" target="s1">I. Correspondence</ref>
+</item>
+<item>
+<ref xlink:type="simple" xlink:actuate="onRequest" xlink:show="replace" target="s2">II. Writings of H.V.S. Peeke</ref>
+</item>
+<item>
+<ref xlink:type="simple" xlink:actuate="onRequest" xlink:show="replace" target="s3">III. Writings of Others</ref>
+</item>
+<item>
+<ref xlink:type="simple" xlink:actuate="onRequest" xlink:show="replace" target="s4">IV. Collected and Personal Material </ref>
+</item>
+</list>
+</arrangement>
+<controlaccess id="ca">
+<head>Access Terms</head>
+<p>This
+collection is indexed under the following access points in
+<extref xlink:href="http://orbis.library.yale.edu/" xlink:actuate="onRequest" xlink:type="simple" xlink:show="new">Orbis</extref>, the Yale University
+Library online catalog.</p>
+<controlaccess>
+<head>Subjects</head>
+<persname encodinganalog="600" role="subject">Peeke, Harman V. S.</persname>
+<subject encodinganalog="650" source="lcsh">Missions --Japan.</subject>
+</controlaccess>
+<controlaccess>
+<head>Authors</head>
+<persname encodinganalog="100">Peeke, Harman V. S.</persname>
+</controlaccess>
+<controlaccess>
+<head>Occupations and Functions</head>
+<occupation encodinganalog="656" source="lcsh">Missionaries</occupation>
+</controlaccess>
+</controlaccess>
+<dsc type="combined" id="dsc">
+<head>Collection Contents</head>
+<c01 level="series" id="s1">
+<did>
+<unitid type="series">Series I</unitid>
+<unittitle>Correspondence</unittitle>
+</did>
+<c02 level="subseries" id="c02.IDAKSGW">
+<did>
+<unittitle>Circular letters of Peekes</unittitle>
+</did>
+<c03 id="s1b1.IDAIUGW">
+<did>
+<container type="Box">1</container>
+<unittitle>Scrapbook volume
+#1: Quarterly letters - Series I. No. 1 to Series I No. 12; (from Kagoshima,
+Japan; also includes annual reports of Kagoshima Station, South Japan Mission,
+R.C.A for 1895,1897)</unittitle>
+<unitdate era="ce" calendar="gregorian">1893 Dec - 1896 Oct</unitdate>
+</did>
+</c03>
+<c03 id="s1b1.IDAMWGW">
+<did>
+<container type="Box">1</container>
+<unittitle>Scrapbook volume
+#2: Quarterly letters - Series I. No. 13 to Series II. No. 14; (1897 - 1903 Jun
+from Kagoshima; 1903 Oct - 1904 Apr from Saga)</unittitle>
+<unitdate era="ce" calendar="gregorian">1897 Jun - 1904
+Apr</unitdate>
+</did>
+</c03>
+<c03 id="s1b1.IDATYGW">
+<did>
+<container type="Box">1</container>
+<unittitle>Scrapbook volume
+#3: Quarterly letters - Series II. No. 15 to Series V. No. 17; Series V. No. 26
+to Series VI. No. 2 (1904 - 1916 from Saga; 1919 - 1920 Apr from Shimo Osaki
+Machi, Tokyo; 1920 Aug - 1926 from Meiji Gakuin, Shirokane, Tokyo; 1927 Jan -
+Jul from Oita; 1927 Oct - 1929 Jan from Beppu; 1929 from Holland,
+Michigan)</unittitle>
+<unitdate era="ce" calendar="gregorian">1904-1926, 1929</unitdate>
+</did>
+</c03>
+<c03 id="s1b1f1-12.IDAX0GW">
+<did>
+<container type="Box">1</container>
+<container type="Folder">1-12</container>
+<unittitle>Typed transcripts of circular
+letters</unittitle>
+<unitdate era="ce" calendar="gregorian">1893 Dec -1907 Jul</unitdate>
+</did>
+</c03>
+</c02>
+<c02 level="subseries" id="c02.IDA42GW">
+<did>
+<unittitle>Of others</unittitle>
+</did>
+<c03 id="s1b2f13.IDA24GW">
+<did>
+<container type="Box">2</container>
+<container type="Folder">13</container>
+<unittitle>Glen Bruner to Olive Peeke</unittitle>
+<unitdate era="ce" calendar="gregorian">1933
+Sep</unitdate>
+</did>
+</c03>
+<c03 id="s1b2f14.IDAGBHW">
+<did>
+<container type="Box">2</container>
+<container type="Folder">14</container>
+<unittitle>Cheryl Peeke Edelen to/from
+Reischauers</unittitle>
+<unitdate era="ce" calendar="gregorian">1987 Feb</unitdate>
+</did>
+</c03>
+</c02>
+</c01>
+<c01 level="series" id="s2">
+<did>
+<unitid type="series">Series II</unitid>
+<unittitle>Writings of H. V. S.
+Peeke</unittitle>
+</did>
+<c02 id="s2b2f15.IDAOFHW">
+<did>
+<container type="Box">2</container>
+<container type="Folder">15</container>
+<unittitle>"My Trip to Korea" - journal and typed
+transcript</unittitle>
+<unitdate era="ce" calendar="gregorian">1891</unitdate>
+</did>
+</c02>
+<c02 id="s2b2f16.IDAVHHW">
+<did>
+<container type="Box">2</container>
+<container type="Folder">16</container>
+<unittitle>
+<title render="italic" xlink:type="simple">A
+First Reader for Home Students of the Japanese Language</title>
+</unittitle>
+<unitdate era="ce" calendar="gregorian">1914</unitdate>
+</did>
+</c02>
+<c02 id="s2b2f17.IDADKHW">
+<did>
+<container type="Box">2</container>
+<container type="Folder">17</container>
+<unittitle>
+<title render="italic" xlink:type="simple">Kai
+- How to Conduct Meetings in Japanese</title>
+</unittitle>
+<unitdate era="ce" calendar="gregorian">1927</unitdate>
+</did>
+</c02>
+<c02 id="s2b2f18.IDAOMHW">
+<did>
+<container type="Box">2</container>
+<container type="Folder">18</container>
+<unittitle>Scrapbook of articles written by HVSP for
+<title render="italic" xlink:type="simple">Japan Evangelist</title> and
+<title render="italic" xlink:type="simple">The Christian Movement in Japan;
+</title>reviews of his two books</unittitle>
+<unitdate era="ce" calendar="gregorian">1904-1921</unitdate>
+</did>
+</c02>
+</c01>
+<c01 level="series" id="s3">
+<did>
+<unitid type="series">Series III</unitid>
+<unittitle>Writings of
+Others</unittitle>
+</did>
+<c02 id="s3b2f19.IDAERHW">
+<did>
+<container type="Box">2</container>
+<container type="Folder">19</container>
+<unittitle>"Social Service and Christian Appalachia", "The
+Missionary and Industrial Work" by Isabelle McCausland (niece of Mrs.
+Peeke)</unittitle>
+<unitdate era="ce" calendar="gregorian">1922, 1926</unitdate>
+</did>
+</c02>
+<c02 id="s3b2f20.IDALTHW">
+<did>
+<container type="Box">2</container>
+<container type="Folder">20</container>
+<unittitle>"The Church of Christ in China" by Mary Sue
+Rohwer (granddaughter of Peekes)</unittitle>
+<unitdate era="ce" calendar="gregorian">n.d..</unitdate>
+</did>
+</c02>
+<c02 id="s3b2f21.IDASVHW">
+<did>
+<container type="Box">2</container>
+<container type="Folder">21</container>
+<unittitle>"Cheryl's Peeke into Japan" by Cheryl Peeke
+Edelen (granddaughter of Peekes)</unittitle>
+<unitdate era="ce" calendar="gregorian">ca. 1987</unitdate>
+</did>
+</c02>
+</c01>
+<c01 level="series" id="s4">
+<did>
+<unitid type="series">Series IV</unitid>
+<unittitle>Collected and Personal
+Material</unittitle>
+</did>
+<c02 id="s4b2f22.IDA3ZHW">
+<did>
+<container type="Box">2</container>
+<container type="Folder">22</container>
+<unittitle>Photographs: portraits of HVSP, VGP; mission
+house in Saga; campus of Meiju Gakuin, Tokyo; photocopies of photos from
+Edelens' trip to Japan in 1987</unittitle>
+<unitdate era="ce" calendar="gregorian">1887- 1987</unitdate>
+</did>
+</c02>
+<c02 id="s4b2f23.IDAE2HW">
+<did>
+<container type="Box">2</container>
+<container type="Folder">23</container>
+<unittitle>
+<title render="italic" xlink:type="simple">The
+Japan Evangelist</title> issue [contains articles by HVSP]</unittitle>
+<unitdate era="ce" calendar="gregorian">1923
+Sep-Oct</unitdate>
+</did>
+</c02>
+<c02 id="s4b2f24.IDAQ4HW">
+<did>
+<container type="Box">2</container>
+<container type="Folder">24</container>
+<unittitle>Diary of H. V. S. Peeke describing his first
+term in Japan</unittitle>
+<unitdate era="ce" calendar="gregorian">1887- 1892</unitdate>
+</did>
+</c02>
+</c01>
+</dsc>
+</archdesc>
+</ead>

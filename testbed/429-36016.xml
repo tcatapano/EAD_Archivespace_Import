@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+    <eadid countrycode="US" mainagencycode="US-UPB" publicid="-//L. Tom Perry Special Collections::20th Century Western  Mormon Manuscripts//TEXT(US::US-UPB::MSS SC 350::Robert D. Adams diary and autobiographical anecdotes)//EN" encodinganalog="identifier">UPB_MSSSC350</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper encodinganalog="title">Register of Robert D. Adams diary and autobiographical anecdotes
+                    
+                </titleproper>
+        <titleproper type="filing">Adams (Robert D.) diary and autobiographical anecdotes</titleproper>
+        <author encodinganalog="creator">Finding aid prepared by Elisa Visick</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher encodinganalog="publisher">L. Tom Perry Special Collections</publisher>
+        <date encodinganalog="date">2010 June 30</date>
+        <address>
+          <addressline>1130 Harold B. Lee Library</addressline>
+          <addressline>Brigham Young University</addressline>
+          <addressline>Provo, Utah 84606</addressline>
+          <addressline>http://sc.lib.byu.edu/</addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2010-10-05T08:30-0600</date>
+            </creation>
+      <langusage>English</langusage>
+      <descrules>Archives, Personal Papers, and Manuscripts</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="file" type="inventory">
+    <did>
+      <unittitle encodinganalog="title">Robert D. Adams diary and autobiographical anecdotes</unittitle>
+      <unitid encodinganalog="identifier">MSS SC 350</unitid>
+      <repository>
+        <corpname encodinganalog="publisher">L. Tom Perry Special Collections</corpname>
+        <subarea encodinganalog="publisher">20th Century Western  Mormon Manuscripts</subarea>
+        <address>
+          <addressline>1130 Harold B. Lee Library</addressline>
+          <addressline>Brigham Young University</addressline>
+          <addressline>Provo, Utah 84606</addressline>
+          <addressline>http://sc.lib.byu.edu/</addressline>
+        </address>
+      </repository>
+      <langmaterial>
+        <language langcode="eng" encodinganalog="language">English</language>
+      </langmaterial>
+      <physdesc>
+        <extent encodinganalog="format">2 items</extent>
+        <extent encodinganalog="format">(2 v.)</extent>
+      </physdesc>
+      <unitdate normal="1935/1950" era="ce" calendar="gregorian" datechar="creation" type="inclusive" encodinganalog="date">1935-1950</unitdate>
+      <langmaterial id="ref7">Materials are in English.</langmaterial>
+      <origination>
+        <persname source="lcnaf" encodinganalog="creator" role="">Adams, Robert D. (Robert Darius), 1881-1956</persname>
+      </origination>
+    </did>
+    <scopecontent id="ref1" encodinganalog="description">
+      <p>Holograph descriptions of events in Torrey, Escalante, Teasdale, Hurricane, Orderville and St. George, Utah, the latter the location of Adams' photographic studio.</p>
+    </scopecontent>
+    <odd id="ref2" encodinganalog="description">
+      <p>Diary, 1935; autobiographical anecdotes, 1950.</p>
+    </odd>
+    <bioghist id="ref3" encodinganalog="description">
+      <head>Biographical History</head>
+      <p>Southwestern Utah Mormon photographer and musician.</p>
+    </bioghist>
+    <custodhist id="ref4">
+      <p>Gift of Burt Adams, 1975.</p>
+    </custodhist>
+    <acqinfo id="ref5">
+      <p>Donated; Burt Adams; 1975.</p>
+    </acqinfo>
+    <prefercite id="ref6">
+      <p>Initial citation: MSS SC 350; Robert D. Adams diary and autobiographical anecdotes; 20th Century Western and Mormon Manuscripts; L. Tom Perry Special Collections, Harold B. Lee Library, Brigham Young University. Following citations: MSS SC 350, LTPSC.</p>
+    </prefercite>
+    <userestrict id="ref8" encodinganalog="rights">
+      <p>It is the responsibility of the researcher to obtain any necessary copyright clearances. Permission to publish material from Robert D. Adams diary and autobiographical anecdotes must be obtained from the Supervisor of Reference Services and/or the L. Tom Perry Special Collections Board of Curators.</p>
+    </userestrict>
+    <accessrestrict id="ref9" encodinganalog="rights">
+      <p>Open for public research.</p>
+    </accessrestrict>
+    <appraisal id="ref10">
+      <p>Utah and the American West and LDS cultural, social, and religious history (20th century Western and Mormon Manuscripts collection development policy).</p>
+    </appraisal>
+    <controlaccess>
+      <genreform source="lcsh" encodinganalog="type">Autobiographies</genreform>
+      <subject source="cclanarrow" encodinganalog="subject">City and Town Life</subject>
+      <subject source="umanarrow" encodinganalog="subject">City and Town Life</subject>
+      <genreform source="lcsh" encodinganalog="type">Diaries</genreform>
+      <geogname source="lcsh" encodinganalog="coverage">Escalante (Utah)--History</geogname>
+      <geogname source="lcsh" encodinganalog="coverage">Hurricane (Utah)--History</geogname>
+      <geogname source="lcsh" encodinganalog="coverage">Orderville (Utah)--History</geogname>
+      <subject source="lcsh" encodinganalog="subject">Photographers--Utah</subject>
+      <geogname source="lcnaf" encodinganalog="coverage">Saint George (Utah)--History</geogname>
+      <subject source="cclabroad" encodinganalog="subject">Social Life and Customs</subject>
+      <subject source="umabroad" encodinganalog="subject">Social Life and Customs</subject>
+      <geogname source="lcsh" encodinganalog="coverage">Teasdale (Utah)--History</geogname>
+      <geogname source="lcsh" encodinganalog="coverage">Torrey (Utah)--History</geogname>
+      <geogname source="lcsh" encodinganalog="coverage">Washington County (Utah)--History</geogname>
+      <geogname source="lcsh" encodinganalog="coverage">Wayne County (Utah)--History</geogname>
+    </controlaccess>
+  </archdesc>
+</ead>

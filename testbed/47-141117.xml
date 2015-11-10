@@ -1,0 +1,1188 @@
+<?xml version="1.0"?>
+<ead>
+	
+	
+	
+	
+	<eadheader langencoding="iso639-2b" findaidstatus="edited-full-draft" audience="internal" scriptencoding="iso15924" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601">
+		
+		<eadid xmlns:cdlpath="http://www.cdlib.org/path/" encodinganalog="852$a" countrycode="us" identifier="ark:/13030/kt2g5025mb" mainagencycode="CaMfAHO" publicid="-//Ames Research Center::NASA Ames History Office//TEXT (US::CaMfAHO::AFS8100.15A::Pioneer Papers)//EN" cdlpath:parent="ark:/13030/tf6q2nc0cc">pioneerpapers.xml</eadid>
+		
+		
+		
+		<filedesc>
+			<titlestmt>
+				<titleproper>Guide to the Pioneer Papers, <date calendar="gregorian" era="ce">1952-1996</date>
+				</titleproper>
+				<titleproper type="filing">Pioneer Papers</titleproper>
+				
+				<author>Guide prepared by Leilani Marshall</author>
+			</titlestmt>
+			<publicationstmt>
+				<publisher>NASA Ames History Office</publisher>
+				<address>
+					<addressline>NASA Ames Research Center</addressline>
+					<addressline>Mail Stop 207-1</addressline>
+					<addressline>Moffett Field, California 94035</addressline>
+					<addressline>Phone: (650) 604-1032</addressline>
+					<addressline>Email: ARC-DL-history@mail.nasa.gov</addressline>
+					 <addressline>URL: http://history.arc.nasa.gov</addressline>
+				</address>
+				<p>
+					<date calendar="gregorian" era="ce">2006</date> NASA Ames Research
+					Center. All rights reserved.</p>
+			</publicationstmt>
+		</filedesc>
+		
+		
+		<profiledesc>
+			<creation>Machine-readable finding aid created by Leilani Marshall. <date calendar="gregorian" era="ce">November 2006.</date>
+			</creation>
+			
+			<langusage> Description is in <language>English.</language>
+			</langusage>
+			<descrules>Finding aid prepared using <title render="italic">Describing Archives: A
+					Content Standard</title>
+			</descrules>
+		</profiledesc>
+		
+	</eadheader>
+	
+	
+	
+	
+	
+	<frontmatter>
+		<titlepage>
+			<titleproper>Guide to the Pioneer Papers, <date calendar="gregorian" era="ce">
+				1952-1996</date>
+			</titleproper>
+			<publisher> NASA Ames History Office <lb/> NASA Ames Research Center </publisher>
+			
+			<list type="simple">
+				<head>Contact Information:</head>
+				<item>NASA Ames History Office</item>
+				<item>NASA Ames Research Center</item>
+				<item>Mail Stop 207-1</item>
+				<item>Moffett Field, CA 94035</item>
+				<item>Phone: (650) 604-1032</item>
+				<item>Email: ARC-DL-history@mail.nasa.gov</item>
+				<item>URL: http://history.arc.nasa.gov/contacts.htm</item>
+			</list>
+			<list type="deflist">
+				<defitem>
+					<label>Guide prepared and encoded by:</label>
+					<item>Leilani Marshall</item>
+				</defitem>
+				<defitem>
+					<label>Date Completed: </label>
+					<item>November 2006</item>
+				</defitem>
+			</list>
+			<p>2006 NASA Ames Research Center. All rights reserved.</p>
+		</titlepage>
+	</frontmatter>
+	
+	
+	
+	
+	
+	<archdesc level="collection" id="archdesc-1.3">
+		
+		<did id="did-1.3.1">
+			<head>Descriptive Summary</head>
+			<unittitle encodinganalog="245" label="Title">Pioneer Papers</unittitle>
+			
+			<unitdate calendar="gregorian" era="ce" type="inclusive" normal="1952/1996">1952-1996</unitdate>
+			<unitdate calendar="gregorian" era="ce" type="bulk" normal="1970/1979">1970-1979</unitdate>
+			
+			<unitid label="Collection Number" countrycode="US" repositorycode="CaMfAHO">AFS8100.15A</unitid>
+			<origination label="Creator">
+				<corpname encodinganalog="110" source="lcnaf">Ames Research Center</corpname>
+				
+			</origination>
+			<physdesc encodinganalog="300" label="Extent">
+				<extent>Number of containers: 24 filing cabinets</extent>
+				<lb/>
+				<extent>Volume: approximately 200 cubic feet</extent>
+				
+			</physdesc>
+			<repository label="Repository" encodinganalog="852$a">
+				<corpname encodinganalog="852$a" source="lcnaf">Ames Research Center, </corpname>
+				<subarea>Ames History Office</subarea>
+				<address>
+					<addressline>Moffett Field, California 94035</addressline>
+				</address>
+			</repository>
+			<abstract label="Abstract">The NASA Pioneer Program ultimately sent into outer space
+				eight craft to explore the nearby and far away reaches of the solar system. This
+				collection is made up of records maintained by the Pioneer Program Management
+				Office, which was located at the NASA Ames Research Center. Materials in the
+				collection include contractor records, proposals, reviews, reports, drawings,
+				specifications, and correspondence related to the construction and design of the
+				Pioneer 10, 11 and 12 spacecraft.</abstract>
+			<langmaterial label="Language">
+				<language langcode="eng" encodinganalog="041">English </language>
+			</langmaterial>
+		</did>
+		
+		<descgrp type="admininfo" id="descgrp-1.3.2">
+			<head>Administrative Information</head>
+			<accessrestrict encodinganalog="506">
+				<head>Access</head>
+				<p>Collection is open for research.</p>
+			</accessrestrict>
+			<userestrict encodinganalog="540">
+				<head>Publication Rights</head>
+				<p>Copyright does not apply to United States government records. For non-government
+					material, researcher must contact the original creator.</p>
+			</userestrict>
+			<prefercite encodinganalog="524">
+				<head>Preferred Citation</head>
+				<p>NASA Ames History Office, NASA Ames Research Center. Moffett Field, California. AFS8100.15A, Pioneer Papers 1952-1996, 1970-1979, 
+					[Container number] : [Folder number]. [Identification of item]. [Date, if available]. </p>
+			</prefercite>
+		</descgrp>
+		
+		
+		
+
+
+		<acqinfo encodinganalog="541" id="acqinfo-1.3.3">
+			<head>Acquisition Information</head>
+			<p>Materials transferred to the History Office by the Pioneer Program Management Office
+				in October 2005.</p>
+		</acqinfo>
+
+		<bioghist encodinganalog="545" id="bioghist-1.3.4">
+			<head>Administrative History</head>
+			<p>(Drawn from "The Pioneer Missions"  
+				<extref linktype="simple" href="http://www.nasa.gov/centers/ames/missions/archive/pioneer.html">http://www.nasa.gov/centers/ames/missions/archive/pioneer.html</extref>)</p>
+			<p>Launched on 2 March 1972, Pioneer 10 was the first spacecraft to travel through the
+				Asteroid belt, and the first spacecraft to make direct observations and obtain
+				close-up images of Jupiter. Famed as the most remote object ever made by man through
+				most of its mission, Pioneer 10 is now over 8 billion miles away.</p>
+			
+			<p>Pioneer 10 made its closest encounter to Jupiter some thirty years ago on 3 December
+				1973, passing within 81,000 miles of the cloudtops. This historic event marked
+				humans' first approach to Jupiter and opened the way for exploration of the outer
+				solar system: for Voyager to tour the outer planets, for Ulysses to break out of the
+				ecliptic, for Galileo to investigate Jupiter and its satellites, and for Cassini to
+				go to Saturn and probe Titan. During its Jupiter encounter, Pioneer 10 imaged the
+				planet and its moons, and took measurements of Jupiter's magnetosphere, radiation
+				belts, magnetic field, atmosphere, and interior. These measurements of the intense
+				radiation environment near Jupiter were crucial in designing the Voyager and Galileo
+				spacecraft.</p>
+			<p>Pioneer 10 made valuable scientific investigations in the outer regions of our solar
+				system until the end of its science mission on 31 March 1997. The Pioneer 10 weak
+				signal continued to be tracked by the DSN as part of an advanced concept study of
+				communication technology in support of NASA's future interstellar probe mission. The
+				power source on Pioneer 10 finally degraded to the point where the signal to Earth
+				dropped below the threshold for detection in its latest contact attempt on 7
+				February 2003. Pioneer 10 will continue to coast silently as a ghost ship through
+				deep space into interstellar space, heading generally for the red star Aldebaran,
+				which forms the eye of Taurus (the constellation The Bull). Aldebaran is about 68
+				light years away and it will take Pioneer over 2 million years to reach it.</p>
+			<p>Launched on 5 April 1973, Pioneer 11 followed its sister ship to Jupiter (1974), made
+				the first direct observations of Saturn (1979) and studied energetic particles in
+				the outer heliosphere. The Pioneer 11 Mission ended on 30 September 1995, when the
+				last transmission from the spacecraft was received. There have been no
+				communications with Pioneer 11 since. The Earth's motion has carried it out of the
+				view of the spacecraft antenna. The spacecraft cannot be maneuvered to point back at
+				the Earth. It is not known whether the spacecraft is still transmitting a signal. No
+				further tracks of Pioneer 11 are scheduled. The spacecraft is headed toward the
+				constellation of Aquila (The Eagle), Northwest of the constellation of Sagittarius.
+				Pioneer 11 will pass near one of the stars in the constellation in about 4 million
+				years.</p>
+			<p>The Pioneer Venus Orbiter (Pioneer 12) was launched on 20 May 1978 on an
+				Atlas-Centaur launch vehicle. On 4 December 1978, the orbiter was injected into a
+				highly elliptical orbit around Venus. The periapsis, or low orbital point, of the
+				orbit was about 150 km (93 miles) above the surface of the planet. The apoapsis, or
+				highest orbital point, was 66,000 km (41,00 miles) from the planet. The orbital
+				period was 23 hours 11 minutes.</p>
+			<p>The orbit of Pioneer 12 permitted global mapping of the clouds, atmosphere and
+				ionosphere; measurement of upper atmosphere, ionosphere, and solar wind-ionosphere
+				interaction; and mapping of the planet's surface by radar. For the first 19 months
+				of the mission, the periapsis was maintained at about 150 km by periodic maneuvers.
+				As propellant began to run low, the maneuvers were discontinued, and Solar
+				gravitational effects caused the periapsis to rise to about 2,300 km. By 1986, the
+				solar gravitational effects caused the periapsis to start falling again, and the
+				orbiter instruments could again make direct measurement within the main ionosphere.</p>
+			<p>During the Orbiter's mission, opportunities arose to make systematic observations of
+				several comets with the Ultraviolet Spectrometer (OUVS). The comets and their date
+				of observation were: Encke April 13 through April 16, 1984; Giacobini-Zinner,
+				September 8 through 15, 1985; Halley, December 27, 1985 to March 9, 1986; Wilson,
+				March 13 to May 2, 1987; NTT, April 8, 1987; and McNaught, November 19 through 24,
+				1987. For Halley, the results showed that, near perihelion, the water evaporation
+				rate was about 40 tons per second.</p>
+			<p>Starting in September 1992, controllers used the remaining fuel in a series of
+				maneuvers to keep raising periapsis altitude for as long as possible. The fuel
+				supply was exhausted on 8 October 1992, and the Orbiter ended its mission as a
+				meteor flaming through the dense atmosphere of Venus.</p>
+			
+		</bioghist>
+		
+		
+		
+		<bibliography id="bibliography-1.3.5">
+			<head>For more information:</head>
+			<bibref>
+				<extref linktype="simple" href="http://www.nasa.gov/centers/ames/missions/archive/pioneer.html">Pioneer Project Mission Archive</extref>
+				<lb/>
+				<extref linktype="simple" href="http://msl.jpl.nasa.gov/QuickLooks/pioneer10QL.html">JPL Mission and Spacecraft Library Quicklook, "Pioneer 10, 11"</extref>
+			</bibref>
+		</bibliography>
+
+		<controlaccess id="controlaccess-1.3.6">
+			<head>Indexing Terms</head>
+			<p>The following terms may be used to index this collection.</p>
+			
+			<controlaccess>
+				<head>Corporate Name</head>
+				<corpname role="subject" encodinganalog="610" source="lcnaf">Ames Research
+				Center</corpname>
+			</controlaccess>
+			<controlaccess>
+				<head>Subjects</head>
+				<subject encodinganalog="650" source="nasat">Pioneer 10 space probe</subject>
+				<subject encodinganalog="650" source="nasat">Pioneer 11 space probe</subject>
+				<subject encodinganalog="650" source="nasat">Pioneer Venus spacecraft</subject>
+			</controlaccess>
+			<controlaccess>
+				<head>Geographic Names</head>
+				<geogname role="subject" encodinganalog="651" source="lcnaf">Moffett Field
+				(Calif.)</geogname>
+			</controlaccess>
+			
+			
+		</controlaccess>
+		
+		<scopecontent encodinganalog="520" id="scopecontent-1.3.7">
+			<head>Scope and Content</head>
+			<p>The Pioneer Papers collection consists of documents relating to the design,
+				construction, and engineering of the Pioneer 10 and 11 space probes and the Pioneer
+				12 spacecraft. While there are some photographs, slides, and videos, most of the
+				materials in the collection are documents. Spanning the lives of the three
+				spacecraft, the collection includes contractor and investigator grants, equipment
+				and instrument proposals, notes from meetings such as the Science Steering Group,
+				correspondence from main contractors such as the Hughes Aircraft Company and TRW,
+				and drawings of the assembly of equipment. Program and quarterly reviews, operations
+				manuals, descriptions and drawings of equipment and instrumentation, and design
+				reviews can also be found in the collection. General descriptive materials about the
+				spacecraft and their missions are also represented in the collection, such as press
+				releases, news and magazine articles, official NASA press kits, and newsletters.
+				Records of the early years of the Pioneer Program can be found among the papers of
+				Richard O. Fimmel, the second project manager for the Pioneer Program.</p>
+			
+			<p>This finding aid presents only an overview of the types of materials found in the
+				Pioneer Papers collection, but you can view the complete <extref linktype="simple" href="http://history.arc.nasa.gov/finding_aids.htm">inventory</extref> on the
+				NASA Ames History Office Web site. </p>
+			
+		</scopecontent>
+		
+		
+		
+		
+		
+		<dsc type="in-depth" id="dsc-1.3.8" score="1" C-ORDER="1" MAX-C-ORDER="138">
+			<head>Container List</head>
+			<c01 level="otherlevel" id="c01-1.3.8.2" score="1" C-ORDER="2">
+				<did>
+					<unittitle>File #1</unittitle>
+				</did>
+				<c02 level="otherlevel" id="c02-1.3.8.2.2" score="1" C-ORDER="3">
+					<did>
+						<container type="Drawer">1</container>
+						<unittitle>Pioneer 10/11 Investigator Reports and Publications</unittitle>
+					</did>
+				</c02>
+				<c02 level="otherlevel" id="c02-1.3.8.2.3" score="1" C-ORDER="4">
+					<did>
+						<container type="Drawer">2</container>
+						<unittitle>Pioneer 10/11 Investigator Grant and Letters of Agreement
+						Files</unittitle>
+					</did>
+				</c02>
+				<c02 level="otherlevel" id="c02-1.3.8.2.4" score="1" C-ORDER="5">
+					<did>
+						<container type="Drawer">3</container>
+						<unittitle>Pioneer 10/11 Investigators Miscellaneous</unittitle>
+					</did>
+				</c02>
+				<c02 level="otherlevel" id="c02-1.3.8.2.5" score="1" C-ORDER="6">
+					<did>
+						<container type="Drawer">4</container>
+						<unittitle>Pioneer 10/11 Meetings</unittitle>
+						<unitdate normal="1988/1996">1988-1996</unitdate>
+					</did>
+				</c02>
+				<c02 level="otherlevel" id="c02-1.3.8.2.6" score="1" C-ORDER="7">
+					<did>
+						<container type="Drawer">5</container>
+						<unittitle>Pioneer 10/11 Proposals</unittitle>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="otherlevel" id="c01-1.3.8.3" score="1" C-ORDER="8">
+				<did>
+					<unittitle>File #2</unittitle>
+				</did>
+				<c02 level="otherlevel" id="c02-1.3.8.3.2" score="1" C-ORDER="9">
+					<did>
+						<container type="Drawer">1</container>
+						<unittitle>Pioneer 12 Investigator Reports and Publications, and Program
+							Reviews</unittitle>
+					</did>
+				</c02>
+				<c02 level="otherlevel" id="c02-1.3.8.3.3" score="1" C-ORDER="10">
+					<did>
+						<container type="Drawer">2</container>
+						<unittitle>Pioneer 12 Investigator Grants and Letters of Agreement Files,
+							A-Kli</unittitle>
+					</did>
+				</c02>
+				<c02 level="otherlevel" id="c02-1.3.8.3.4" score="1" C-ORDER="11">
+					<did>
+						<container type="Drawer">3</container>
+						<unittitle>Pioneer 12 Investigator Grants and Letters of Agreement Files,
+							Knu-Rus</unittitle>
+					</did>
+				</c02>
+				<c02 level="otherlevel" id="c02-1.3.8.3.5" score="1" C-ORDER="12">
+					<did>
+						<container type="Drawer">4</container>
+						<unittitle>Pioneer 12 Investigator Grants and Letters of Agreement Files,
+							Rus-Z</unittitle>
+					</did>
+				</c02>
+				<c02 level="otherlevel" id="c02-1.3.8.3.6" score="1" C-ORDER="13">
+					<did>
+						<container type="Drawer">5</container>
+						<unittitle>Pioneer 12 Proposals</unittitle>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="otherlevel" id="c01-1.3.8.4" score="1" C-ORDER="14">
+				<did>
+					<unittitle>File #3</unittitle>
+				</did>
+				<c02 level="otherlevel" id="c02-1.3.8.4.2" score="1" C-ORDER="15">
+					<did>
+						<container type="Drawer">1</container>
+						<unittitle>Pioneer Venus Guest Investigators A-E</unittitle>
+					</did>
+				</c02>
+				<c02 level="otherlevel" id="c02-1.3.8.4.3" score="1" C-ORDER="16">
+					<did>
+						<container type="Drawer">2</container>
+						<unittitle>Pioneer Venus Guest Investigators F-L</unittitle>
+					</did>
+				</c02>
+				<c02 level="otherlevel" id="c02-1.3.8.4.4" score="1" C-ORDER="17">
+					<did>
+						<container type="Drawer">3</container>
+						<unittitle>Pioneer Venus Guest Investigators M-S</unittitle>
+					</did>
+				</c02>
+				<c02 level="otherlevel" id="c02-1.3.8.4.5" score="1" C-ORDER="18">
+					<did>
+						<container type="Drawer">4</container>
+						<unittitle>Pioneer Venus Guest Investigators T-Z</unittitle>
+					</did>
+				</c02>
+				<c02 level="otherlevel" id="c02-1.3.8.4.6" score="1" C-ORDER="19">
+					<did>
+						<container type="Drawer">5</container>
+						<unittitle>Pioneer Venus Science Steering Group Meetings</unittitle>
+						<unitdate normal="1977/1993">1977-1993</unitdate>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="otherlevel" id="c01-1.3.8.5" score="1" C-ORDER="20">
+				<did>
+					<unittitle>File #4</unittitle>
+				</did>
+				<c02 level="otherlevel" id="c02-1.3.8.5.2" score="1" C-ORDER="21">
+					<did>
+						<container type="Drawer">1</container>
+						<unittitle>Propellant Supply Assembly and Line Heater Assembly</unittitle>
+						<unitdate normal="1970-1972">1970-1972</unitdate>
+					</did>
+				</c02>
+				<c02 level="otherlevel" id="c02-1.3.8.5.3" score="1" C-ORDER="22">
+					<did>
+						<container type="Drawer">2</container>
+						<unittitle>1977 Hughes Aircraft Company Correspondence, Changes to Documents</unittitle>
+						<unitdate normal="1977">1977</unitdate>
+					</did>
+				</c02>
+				<c02 level="otherlevel" id="c02-1.3.8.5.4" score="1" C-ORDER="23">
+					<did>
+						<container type="Drawer">3</container>
+						<unittitle>1977 Hughes Aircraft Company Correspondence, Changes to Documents</unittitle>
+						<unitdate normal="1977">1977</unitdate>
+					</did>
+				</c02>
+				<c02 level="otherlevel" id="c02-1.3.8.5.5" score="1" C-ORDER="24">
+					<did>
+						<container type="Drawer">4</container>
+						<unittitle>1978 Hughes Aircraft Company Correspondence, Changes to Documents</unittitle>
+						<unitdate normal="1978">1978</unitdate>
+					</did>
+				</c02>
+				<c02 level="otherlevel" id="c02-1.3.8.5.6" score="1" C-ORDER="25">
+					<did>
+						<container type="Drawer">5</container>
+						<unittitle>Thruster Cluster Assembly</unittitle>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="otherlevel" id="c01-1.3.8.6" score="1" C-ORDER="26">
+				<did>
+					<unittitle>File #5</unittitle>
+				</did>
+				<c02 level="otherlevel" id="c02-1.3.8.6.2" score="1" C-ORDER="27">
+					<did>
+						<container type="Drawer">1</container>
+						<unittitle>Pioneer Venus Specifications, PC-454 to PC-496</unittitle>
+					</did>
+				</c02>
+				<c02 level="otherlevel" id="c02-1.3.8.6.3" score="1" C-ORDER="28">
+					<did>
+						<container type="Drawer">2</container>
+						<unittitle>Pioneer Venus Specifications, PC-400 to PC-453</unittitle>
+					</did>
+				</c02>
+				<c02 level="otherlevel" id="c02-1.3.8.6.4" score="1" C-ORDER="29">
+					<did>
+						<container type="Drawer">3</container>
+						<unittitle>Pioneer Venus Specifications and Procurement Specifications,
+							Development Specifications, and Specification Changes and Other Data</unittitle>
+						<unitdate normal="1975/1978">1975-1978</unitdate>
+					</did>
+				</c02>
+				<c02 level="otherlevel" id="c02-1.3.8.6.5" score="1" C-ORDER="30">
+					<did>
+						<container type="Drawer">4</container>
+						<unittitle>Pioneer Venus Test Specifications and Specifications Change
+							Notices</unittitle>
+						<unitdate normal="1975/1978">1975-1978</unitdate>
+					</did>
+				</c02>
+				<c02 level="otherlevel" id="c02-1.3.8.6.6" score="1" C-ORDER="31">
+					<did>
+						<container type="Drawer">5</container>
+						<unittitle>Pioneer Venus Various Materials</unittitle>
+						<unitdate normal="1975/1989">1975-1989</unitdate>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="otherlevel" id="c01-1.3.8.7" score="1" C-ORDER="32">
+				<did>
+					<unittitle>File #6</unittitle>
+				</did>
+				<c02 level="otherlevel" id="c02-1.3.8.7.2" score="1" C-ORDER="33">
+					<did>
+						<container type="Drawer">1</container>
+						<unittitle>Quarterly Reports, Deviations and Waivers, Mass Property Reports,
+							Schedule Status Reports</unittitle>
+						<unitdate normal="1975/1978">1975-1978</unitdate>
+					</did>
+				</c02>
+				<c02 level="otherlevel" id="c02-1.3.8.7.3" score="1" C-ORDER="34">
+					<did>
+						<container type="Drawer">2</container>
+						<unittitle>Readiness Reviews, Launch Vehicle, Atlas SLV 3D, Centaur D-A1</unittitle>
+						<unitdate normal="1976/1979">1976-1979</unitdate>
+					</did>
+				</c02>
+				<c02 level="otherlevel" id="c02-1.3.8.7.4" score="1" C-ORDER="35">
+					<did>
+						<container type="Drawer">3</container>
+						<unittitle>Hughes Aircraft Company, General Electric Subcontract Test
+							Program Plan</unittitle>
+						<unitdate normal="1974/1977">1974-1977</unitdate>
+					</did>
+				</c02>
+				<c02 level="otherlevel" id="c02-1.3.8.7.5" score="1" C-ORDER="36">
+					<did>
+						<container type="Drawer">4</container>
+						<unittitle>Ames Research Center, Hughes Aircraft Company Management
+							Meetings, NAS2-8300 Contract, Negotiations</unittitle>
+						<unitdate normal="1973/1992">1973-1992</unitdate>
+					</did>
+				</c02>
+				<c02 level="otherlevel" id="c02-1.3.8.7.6" score="1" C-ORDER="37">
+					<did>
+						<container type="Drawer">5</container>
+						<unittitle>Pioneer Venus NFRs, CFRs, EMIs</unittitle>
+						<unitdate normal="1976/1979">1976-1979</unitdate>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="otherlevel" id="c01-1.3.8.8" score="1" C-ORDER="38">
+				<did>
+					<unittitle>File #7</unittitle>
+				</did>
+				<c02 level="otherlevel" id="c02-1.3.8.8.2" score="1" C-ORDER="39">
+					<did>
+						<container type="Drawer">1</container>
+						<unittitle>Reviews, Closeout Documents, Data Packages, etc.</unittitle>
+						<unitdate normal="1975/1978">1975-1978</unitdate>
+					</did>
+				</c02>
+				<c02 level="otherlevel" id="c02-1.3.8.8.3" score="1" C-ORDER="40">
+					<did>
+						<container type="Drawer">2</container>
+						<unittitle>Reviews, Closeout Documents, Data Packages, etc.</unittitle>
+						<unitdate normal="1976">1976</unitdate>
+					</did>
+				</c02>
+				<c02 level="otherlevel" id="c02-1.3.8.8.4" score="1" C-ORDER="41">
+					<did>
+						<container type="Drawer">3</container>
+						<unittitle>Pre-Ship Reviews, Final Desgn Reviews, etc.</unittitle>
+						<unitdate normal="1973/1975">1973-1975</unitdate>
+					</did>
+				</c02>
+				<c02 level="otherlevel" id="c02-1.3.8.8.5" score="1" C-ORDER="42">
+					<did>
+						<container type="Drawer">4</container>
+						<unittitle>Pioneer Venus Proposals, Design and Development</unittitle>
+						<unitdate normal="1973">1973</unitdate>
+					</did>
+				</c02>
+				<c02 level="otherlevel" id="c02-1.3.8.8.6" score="1" C-ORDER="43">
+					<did>
+						<container type="Drawer">5</container>
+						<unittitle>Pioneer Venus Proposals, Design and Development and SEB</unittitle>
+						<unitdate normal="1972/1974">1972-1974</unitdate>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="otherlevel" id="c01-1.3.8.9" score="1" C-ORDER="44">
+				<did>
+					<unittitle>File #8</unittitle>
+				</did>
+				<c02 level="otherlevel" id="c02-1.3.8.9.2" score="1" C-ORDER="45">
+					<did>
+						<container type="Drawer">1</container>
+						<unittitle>Pioneer Venus Assorted Files</unittitle>
+						<unitdate normal="1979-1991">1979-1991</unitdate>
+					</did>
+				</c02>
+				<c02 level="otherlevel" id="c02-1.3.8.9.3" score="1" C-ORDER="46">
+					<did>
+						<container type="Drawer">2</container>
+						<unittitle>Pioneer Venus Assorted Files</unittitle>
+						<unitdate normal="1970/1978">1970-1978</unitdate>
+					</did>
+				</c02>
+				<c02 level="otherlevel" id="c02-1.3.8.9.4" score="1" C-ORDER="47">
+					<did>
+						<container type="Drawer">3</container>
+						<unittitle>Pioneer Venus Assorted Files</unittitle>
+						<unitdate normal="1975/1979">1975-1979</unitdate>
+					</did>
+				</c02>
+				<c02 level="otherlevel" id="c02-1.3.8.9.5" score="1" C-ORDER="48">
+					<did>
+						<container type="Drawer">4</container>
+						<unittitle>ORAD V-34 and Long Eclipse Seasons and Assorted Files</unittitle>
+						<unitdate normal="1976/1986">1976-1986</unitdate>
+					</did>
+				</c02>
+				<c02 level="otherlevel" id="c02-1.3.8.9.6" score="1" C-ORDER="49">
+					<did>
+						<container type="Drawer">5</container>
+						<unittitle>Pioneer Venus Hughes Aircraft Company Specifications Control
+							Documents and Assorted Files</unittitle>
+						<unitdate normal="1973/1991">1973-1991</unitdate>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="otherlevel" id="c01-1.3.8.10" score="1" C-ORDER="50">
+				<did>
+					<unittitle>File #9</unittitle>
+				</did>
+				<c02 level="otherlevel" id="c02-1.3.8.10.2" score="1" C-ORDER="51">
+					<did>
+						<container type="Drawer">1</container>
+						<unittitle>Pioneer Photos, Videos, Film, Slides</unittitle>
+					</did>
+				</c02>
+				<c02 level="otherlevel" id="c02-1.3.8.10.3" score="1" C-ORDER="52">
+					<did>
+						<container type="Drawer">2</container>
+						<unittitle>Pioneer Photos, Videos, Film, Slides</unittitle>
+					</did>
+				</c02>
+				<c02 level="otherlevel" id="c02-1.3.8.10.4" score="1" C-ORDER="53">
+					<did>
+						<container type="Drawer">3</container>
+						<unittitle>Pioneer Photos, Videos, Film, Slides</unittitle>
+					</did>
+				</c02>
+				<c02 level="otherlevel" id="c02-1.3.8.10.5" score="1" C-ORDER="54">
+					<did>
+						<container type="Drawer">4</container>
+						<unittitle>Pioneer Photos, Videos, Film, Slides</unittitle>
+					</did>
+				</c02>
+				<c02 level="otherlevel" id="c02-1.3.8.10.6" score="1" C-ORDER="55">
+					<did>
+						<container type="Drawer">5</container>
+						<unittitle>Pioneer Photos, Videos, Film, Slides</unittitle>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="otherlevel" id="c01-1.3.8.11" score="1" C-ORDER="56">
+				<did>
+					<unittitle>File #10</unittitle>
+				</did>
+				<c02 level="otherlevel" id="c02-1.3.8.11.2" score="1" C-ORDER="57">
+					<did>
+						<container type="Drawer">1</container>
+						<unittitle>Pioneer F/G (10/11) Assorted Data</unittitle>
+						<unitdate normal="1969/1982">1969-1982</unitdate>
+					</did>
+				</c02>
+				<c02 level="otherlevel" id="c02-1.3.8.11.3" score="1" C-ORDER="58">
+					<did>
+						<container type="Drawer">2</container>
+						<unittitle>Pioneer F/G (10/11) Specifications</unittitle>
+					</did>
+				</c02>
+				<c02 level="otherlevel" id="c02-1.3.8.11.4" score="1" C-ORDER="59">
+					<did>
+						<container type="Drawer">3</container>
+						<unittitle>Pioneer F/G (10/11) Specifications</unittitle>
+					</did>
+				</c02>
+				<c02 level="otherlevel" id="c02-1.3.8.11.5" score="1" C-ORDER="60">
+					<did>
+						<container type="Drawer">4</container>
+						<unittitle>Pioneer F/G (10/11) Specifications</unittitle>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="otherlevel" id="c01-1.3.8.12" score="1" C-ORDER="61">
+				<did>
+					<unittitle>File #11</unittitle>
+				</did>
+				<c02 level="otherlevel" id="c02-1.3.8.12.2" score="1" C-ORDER="62">
+					<did>
+						<container type="Drawer">1</container>
+						<unittitle>Spacecraft Attitudes, Science Instruments and Miscellaneous</unittitle>
+						<unitdate normal="1964/1981">1964-1981</unitdate>
+					</did>
+				</c02>
+				<c02 level="otherlevel" id="c02-1.3.8.12.3" score="1" C-ORDER="63">
+					<did>
+						<container type="Drawer">2</container>
+						<unittitle>Program Reviews, Quarterly Reviews</unittitle>
+						<unitdate normal="1969/1976">1969-1976</unitdate>
+					</did>
+				</c02>
+				<c02 level="otherlevel" id="c02-1.3.8.12.4" score="1" C-ORDER="64">
+					<did>
+						<container type="Drawer">3</container>
+						<unittitle>Encounters, Pioneer F/G, 10/11</unittitle>
+						<unitdate normal="1964/1976">1964-1976</unitdate>
+					</did>
+				</c02>
+				<c02 level="otherlevel" id="c02-1.3.8.12.5" score="1" C-ORDER="65">
+					<did>
+						<container type="Drawer">4</container>
+						<unittitle>Encounters, Experiments and Experimenters</unittitle>
+						<unitdate normal="1969-1981">1969-1981</unitdate>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="otherlevel" id="c01-1.3.8.13" score="1" C-ORDER="66">
+				<did>
+					<unittitle>File #12</unittitle>
+				</did>
+				<c02 level="otherlevel" id="c02-1.3.8.13.2" score="1" C-ORDER="67">
+					<did>
+						<container type="Drawer">1</container>
+						<unittitle>Experiments, Experimenters, Instruments</unittitle>
+						<unitdate normal="1967/1979">1967-1979</unitdate>
+					</did>
+				</c02>
+				<c02 level="otherlevel" id="c02-1.3.8.13.3" score="1" C-ORDER="68">
+					<did>
+						<container type="Drawer">2</container>
+						<unittitle>Experiments, Experimenters, Instruments</unittitle>
+						<unitdate normal="1968/1994">1968-1994</unitdate>
+					</did>
+				</c02>
+				<c02 level="otherlevel" id="c02-1.3.8.13.4" score="1" C-ORDER="69">
+					<did>
+						<container type="Drawer">3</container>
+						<unittitle>Pioneer Venus, Assorted Data</unittitle>
+						<unitdate normal="1974/1979">1974-1979</unitdate>
+					</did>
+				</c02>
+				<c02 level="otherlevel" id="c02-1.3.8.13.5" score="1" C-ORDER="70">
+					<did>
+						<container type="Drawer">4</container>
+						<unittitle>Pioneer Venus, Assorted Data</unittitle>
+						<unitdate normal="1974/1991">1974-1991</unitdate>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="otherlevel" id="c01-1.3.8.14" score="1" C-ORDER="71">
+				<did>
+					<unittitle>File #13</unittitle>
+				</did>
+				<c02 level="otherlevel" id="c02-1.3.8.14.2" score="1" C-ORDER="72">
+					<did>
+						<container type="Drawer">1</container>
+						<unittitle>Press Kits and Informational Articles</unittitle>
+						<unitdate normal="1972/1993">1972-1993</unitdate>
+					</did>
+				</c02>
+				<c02 level="otherlevel" id="c02-1.3.8.14.3" score="1" C-ORDER="73">
+					<did>
+						<container type="Drawer">2</container>
+						<unittitle>R.O. Fimmel, Records 1964-1970</unittitle>
+						<unitdate normal="1964/1970">1964-1970</unitdate>
+					</did>
+				</c02>
+				<c02 level="otherlevel" id="c02-1.3.8.14.4" score="1" C-ORDER="74">
+					<did>
+						<container type="Drawer">3</container>
+						<unittitle>Deep Space Network, Pioneer Project, Pioneer Program</unittitle>
+						<unitdate normal="1964/1995">1964-1995</unitdate>
+					</did>
+				</c02>
+				<c02 level="otherlevel" id="c02-1.3.8.14.5" score="1" C-ORDER="75">
+					<did>
+						<container type="Drawer">4</container>
+						<unittitle>Pioneer 6-11, Assorted Data</unittitle>
+						<unitdate normal="1973/1994">1973-1994</unitdate>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="otherlevel" id="c01-1.3.8.15" score="1" C-ORDER="76">
+				<did>
+					<unittitle>File #14</unittitle>
+				</did>
+				<c02 level="otherlevel" id="c02-1.3.8.15.2" score="1" C-ORDER="77">
+					<did>
+						<container type="Drawer">1</container>
+						<unittitle>NAS2-8300 Change Proposals</unittitle>
+						<unitdate normal="1975/1977">1975-1977</unitdate>
+					</did>
+				</c02>
+				<c02 level="otherlevel" id="c02-1.3.8.15.3" score="1" C-ORDER="78">
+					<did>
+						<container type="Drawer">2</container>
+						<unittitle>Data Printouts, Sigma-S On-Line and IBM Information</unittitle>
+						<unitdate normal="1970-1974">1970-1974</unitdate>
+					</did>
+				</c02>
+				<c02 level="otherlevel" id="c02-1.3.8.15.4" score="1" C-ORDER="79">
+					<did>
+						<container type="Drawer">3</container>
+						<unittitle>Pioneer F/G (10/11) Design Audits, Closeout Docs, Reviews, etc.</unittitle>
+						<unitdate normal="1970/1972">1970-1975</unitdate>
+					</did>
+				</c02>
+				<c02 level="otherlevel" id="c02-1.3.8.15.5" score="1" C-ORDER="80">
+					<did>
+						<container type="Drawer">4</container>
+						<unittitle>Pioneer 10/11 Reviews, Closeout Docs, Data Packages, etc.</unittitle>
+						<unitdate normal="1970/1973">1970-1973</unitdate>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="otherlevel" id="c01-1.3.8.16" score="1" C-ORDER="81">
+				<did>
+					<unittitle>File #15</unittitle>
+				</did>
+				<c02 level="otherlevel" id="c02-1.3.8.16.2" score="1" C-ORDER="82">
+					<did>
+						<container type="Drawer">1</container>
+						<unittitle>Pioneer F/G (10/11) Reviews, Review Meetings, Test Data Packages,
+							etc.</unittitle>
+						<unitdate normal="1969/1971">1969-1971</unitdate>
+					</did>
+				</c02>
+				<c02 level="otherlevel" id="c02-1.3.8.16.3" score="1" C-ORDER="83">
+					<did>
+						<container type="Drawer">2</container>
+						<unittitle>Pioneer F/G (10/11) Reviews, Review Meetings, Test Data Packages,
+							etc.</unittitle>
+						<unitdate normal="1970/1972">1970-1972</unitdate>
+					</did>
+				</c02>
+				<c02 level="otherlevel" id="c02-1.3.8.16.4" score="1" C-ORDER="84">
+					<did>
+						<container type="Drawer">3</container>
+						<unittitle>Library Information, Information Systems Management, Computer,
+							Communications System and Data Processing</unittitle>
+						<unitdate normal="1964/1966">1964-1966</unitdate>
+					</did>
+				</c02>
+				<c02 level="otherlevel" id="c02-1.3.8.16.5" score="1" C-ORDER="85">
+					<did>
+						<container type="Drawer">4</container>
+						<unittitle>Library, General</unittitle>
+						<unitdate normal="1952/1980">1952-1980</unitdate>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="otherlevel" id="c01-1.3.8.17" score="1" C-ORDER="86">
+				<did>
+					<unittitle>File #16</unittitle>
+				</did>
+				<c02 level="otherlevel" id="c02-1.3.8.17.2" score="1" C-ORDER="87">
+					<did>
+						<container type="Drawer">1</container>
+						<unittitle>Pioneer Venus Electrical Systems Tests</unittitle>
+					</did>
+				</c02>
+				<c02 level="otherlevel" id="c02-1.3.8.17.3" score="1" C-ORDER="88">
+					<did>
+						<container type="Drawer">2</container>
+						<unittitle>1976 Hughes Aircraft Company Correspondence, Changes to
+							Documents, etc.</unittitle>
+						<unitdate normal="1976">1976</unitdate>
+					</did>
+				</c02>
+				<c02 level="otherlevel" id="c02-1.3.8.17.4" score="1" C-ORDER="89">
+					<did>
+						<container type="Drawer">3</container>
+						<unittitle>Pioneer Publications</unittitle>
+					</did>
+				</c02>
+				<c02 level="otherlevel" id="c02-1.3.8.17.5" score="1" C-ORDER="90">
+					<did>
+						<container type="Drawer">4</container>
+						<unittitle>Pioneer 10/11 Propulsion Drawings</unittitle>
+						<unitdate normal="1966/1969">1966-1969</unitdate>
+
+					</did>
+				</c02>
+			</c01>
+			<c01 level="otherlevel" id="c01-1.3.8.18" score="1" C-ORDER="91">
+				<did>
+					<unittitle>File #17</unittitle>
+				</did>
+				<c02 level="otherlevel" id="c02-1.3.8.18.2" score="1" C-ORDER="92">
+					<did>
+						<container type="Drawer">1</container>
+						<unittitle>Pioneer Venus Microfiche</unittitle>
+					</did>
+				</c02>
+				<c02 level="otherlevel" id="c02-1.3.8.18.3" score="1" C-ORDER="93">
+					<did>
+						<container type="Drawer">2</container>
+						<unittitle>Pioneer Venus Microfiche</unittitle>
+					</did>
+				</c02>
+				<c02 level="otherlevel" id="c02-1.3.8.18.4" score="1" C-ORDER="94">
+					<did>
+						<container type="Drawer">3</container>
+						<unittitle>Pioneer Venus Microfiche</unittitle>
+					</did>
+				</c02>
+				<c02 level="otherlevel" id="c02-1.3.8.18.5" score="1" C-ORDER="95">
+					<did>
+						<container type="Drawer">4</container>
+						<unittitle>Pioneer Venus Microfiche</unittitle>
+					</did>
+				</c02>
+				<c02 level="otherlevel" id="c02-1.3.8.18.6" score="1" C-ORDER="96">
+					<did>
+						<container type="Drawer">5</container>
+						<unittitle>Empty</unittitle>
+					</did>
+				</c02>
+				<c02 level="otherlevel" id="c02-1.3.8.18.7" score="1" C-ORDER="97">
+					<did>
+						<container type="Drawer">6</container>
+						<unittitle>Pioneer F/G Microfiche</unittitle>
+					</did>
+				</c02>
+				<c02 level="otherlevel" id="c02-1.3.8.18.8" score="1" C-ORDER="98">
+					<did>
+						<container type="Drawer">7</container>
+						<unittitle>Pioneer F/G Microfiche</unittitle>
+					</did>
+				</c02>
+				<c02 level="otherlevel" id="c02-1.3.8.18.9" score="1" C-ORDER="99">
+					<did>
+						<container type="Drawer">8</container>
+						<unittitle>Unidentified Microfiche</unittitle>
+					</did>
+				</c02>
+				<c02 level="otherlevel" id="c02-1.3.8.18.10" score="1" C-ORDER="100">
+					<did>
+						<container type="Drawer">9</container>
+						<unittitle>Unidentified Microfiche</unittitle>
+					</did>
+				</c02>
+
+				<c02 level="otherlevel" id="c02-1.3.8.18.11" score="1" C-ORDER="101">
+					<did>
+						<container type="Drawer">10</container>
+						<unittitle>Unidentified Microfiche</unittitle>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="otherlevel" id="c01-1.3.8.19" score="1" C-ORDER="102">
+				<did>
+					<unittitle>File #18</unittitle>
+				</did>
+				<c02 level="otherlevel" id="c02-1.3.8.19.2" score="1" C-ORDER="103">
+					<did>
+						<container type="Drawer">1</container>
+						<unittitle>1974 Hughes Aircraft Company Correspondence</unittitle>
+						<unitdate normal="1974">1974</unitdate>
+					</did>
+				</c02>
+				<c02 level="otherlevel" id="c02-1.3.8.19.3" score="1" C-ORDER="104">
+					<did>
+						<container type="Drawer">2</container>
+						<unittitle>M.A. Smith Pioneer 10/11/12, Headquarters, PSG and SSG
+						Meetings</unittitle>
+					</did>
+				</c02>
+				<c02 level="otherlevel" id="c02-1.3.8.19.4" score="1" C-ORDER="105">
+					<did>
+						<container type="Drawer">3</container>
+						<unittitle>M.A. Smith Pioneer Venus Engineering</unittitle>
+					</did>
+				</c02>
+				<c02 level="otherlevel" id="c02-1.3.8.19.5" score="1" C-ORDER="106">
+					<did>
+						<container type="Drawer">4</container>
+						<unittitle>M.A. Smith Pioneer Venus Engineering</unittitle>
+					</did>
+				</c02>
+				<c02 level="otherlevel" id="c02-1.3.8.19.6" score="1" C-ORDER="107">
+					<did>
+						<container type="Drawer">5</container>
+						<unittitle>M.A. Smith Pioneer Venus Engineering</unittitle>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="otherlevel" id="c01-1.3.8.20" score="1" C-ORDER="108">
+				<did>
+					<unittitle>File #19</unittitle>
+				</did>
+				<c02 level="otherlevel" id="c02-1.3.8.20.2" score="1" C-ORDER="109">
+					<did>
+						<container type="Drawer">1</container>
+						<unittitle>Pioneer Venus Spacecraft System Design Study</unittitle>
+						<unitdate normal="1973">1973</unitdate>
+					</did>
+				</c02>
+				<c02 level="otherlevel" id="c02-1.3.8.20.3" score="1" C-ORDER="110">
+					<did>
+						<container type="Drawer">2</container>
+						<unittitle>Pioneer Venus Star Sensor/Sun Sensor</unittitle>
+					</did>
+				</c02>
+				<c02 level="otherlevel" id="c02-1.3.8.20.4" score="1" C-ORDER="111">
+					<did>
+						<container type="Drawer">3</container>
+						<unittitle>Pioneer Venus Awards and Bibliography, Eclipse Seasons, UADS</unittitle>
+						<unitdate normal="1981/1985">1981-1985</unitdate>
+					</did>
+				</c02>
+				<c02 level="otherlevel" id="c02-1.3.8.20.5" score="1" C-ORDER="112">
+					<did>
+						<container type="Drawer">4</container>
+						<unittitle>Pioneer Venus ACS, DCE, ADP, BAPTA, Propulsion, etc.</unittitle>
+						<unitdate normal="1971/1978">1971-1978</unitdate>
+
+					</did>
+				</c02>
+				<c02 level="otherlevel" id="c02-1.3.8.20.6" score="1" C-ORDER="113">
+					<did>
+						<container type="Drawer">5</container>
+						<unittitle>Empty</unittitle>
+					</did>
+				</c02>
+			</c01>
+
+			<c01 level="otherlevel" id="c01-1.3.8.21" score="1" C-ORDER="114">
+				<did>
+					<unittitle>File #20</unittitle>
+				</did>
+				<c02 level="otherlevel" id="c02-1.3.8.21.2" score="1" C-ORDER="115">
+					<did>
+						<container type="Drawer">1</container>
+						<unittitle>Pioneer 6-9</unittitle>
+						<unitdate normal="1966/1971">1966-1971</unitdate>
+					</did>
+				</c02>
+				<c02 level="otherlevel" id="c02-1.3.8.21.3" score="1" C-ORDER="116">
+					<did>
+						<container type="Drawer">2</container>
+						<unittitle>TRW 1965 Black Box Test, Acceptance, Qualification Reports</unittitle>
+						<unitdate normal="1965/1976">1965-1967</unitdate>
+					</did>
+				</c02>
+				<c02 level="otherlevel" id="c02-1.3.8.21.4" score="1" C-ORDER="117">
+					<did>
+						<container type="Drawer">3</container>
+						<unittitle>Hughes Aircraft Company 1975 Correspondence, Documents, etc.</unittitle>
+						<unitdate normal="1975">1975</unitdate>
+					</did>
+				</c02>
+				<c02 level="otherlevel" id="c02-1.3.8.21.5" score="1" C-ORDER="118">
+					<did>
+						<container type="Drawer">4</container>
+						<unittitle>Hughes Aircraft Company 1975 Correspondence, Documents, etc.</unittitle>
+						<unitdate normal="1975">1975</unitdate>
+					</did>
+				</c02>
+			</c01>
+
+			<c01 level="otherlevel" id="c01-1.3.8.22" score="1" C-ORDER="119">
+				<did>
+					<unittitle>File #21</unittitle>
+				</did>
+				<c02 level="otherlevel" id="c02-1.3.8.22.2" score="1" C-ORDER="120">
+					<did>
+						<container type="Drawer">1</container>
+						<unittitle>Pioneer F/G Project Management Reports and POP 79-2 Cost Analysis</unittitle>
+						<unitdate normal="1969/1974">1969-1974</unitdate>
+					</did>
+				</c02>
+				<c02 level="otherlevel" id="c02-1.3.8.22.3" score="1" C-ORDER="121">
+					<did>
+						<container type="Drawer">2</container>
+						<unittitle>1975 Hughes Aircraft Company Correspondence, Changes to
+							Documents, etc.</unittitle>
+						<unitdate normal="1975">1975</unitdate>
+					</did>
+				</c02>
+				<c02 level="otherlevel" id="c02-1.3.8.22.4" score="1" C-ORDER="122">
+					<did>
+						<container type="Drawer">3</container>
+						<unittitle>Pioneer, Mixed</unittitle>
+						<unitdate normal="1973/1975">1973-1975</unitdate>
+					</did>
+				</c02>
+				<c02 level="otherlevel" id="c02-1.3.8.22.5" score="1" C-ORDER="123">
+					<did>
+						<container type="Drawer">4</container>
+						<unittitle>Pioneer, Mixed</unittitle>
+						<unitdate normal="1973/1977">1973-1977</unitdate>
+					</did>
+				</c02>
+				<c02 level="otherlevel" id="c02-1.3.8.22.6" score="1" C-ORDER="124">
+					<did>
+						<container type="Drawer">5</container>
+						<unittitle>Pioneer, Mixed</unittitle>
+						<unitdate normal="1962/1978">1962-1978</unitdate>
+					</did>
+				</c02>
+			</c01>
+
+			<c01 level="otherlevel" id="c01-1.3.8.23" score="1" C-ORDER="125">
+				<did>
+					<unittitle>File #22</unittitle>
+				</did>
+				<c02 level="otherlevel" id="c02-1.3.8.23.2" score="1" C-ORDER="126">
+					<did>
+						<container type="Drawer">1</container>
+						<unittitle>1975 Hughes Aircraft Company Correspondence, Changes to
+							Documents, etc.</unittitle>
+						<unitdate normal="1975">1975</unitdate>
+					</did>
+				</c02>
+				<c02 level="otherlevel" id="c02-1.3.8.23.3" score="1" C-ORDER="127">
+					<did>
+						<container type="Drawer">2</container>
+						<unittitle>1975 Hughes Aircraft Company Correspondence, Changes to
+							Documents, etc.</unittitle>
+						<unitdate normal="1975">1975</unitdate>
+					</did>
+				</c02>
+				<c02 level="otherlevel" id="c02-1.3.8.23.4" score="1" C-ORDER="128">
+					<did>
+						<container type="Drawer">3</container>
+						<unittitle>1975 Hughes Aircraft Company Correspondence, Changes to
+							Documents, etc.</unittitle>
+						<unitdate normal="1975">1975</unitdate>
+					</did>
+				</c02>
+				<c02 level="otherlevel" id="c02-1.3.8.23.5" score="1" C-ORDER="129">
+					<did>
+						<container type="Drawer">4</container>
+						<unittitle>1975 Hughes Aircraft Company Correspondence, Changes to
+							Documents, etc.</unittitle>
+						<unitdate normal="1975">1975</unitdate>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="otherlevel" id="c01-1.3.8.24" score="1" C-ORDER="130">
+				<did>
+					<unittitle>File #23</unittitle>
+				</did>
+				<c02 level="otherlevel" id="c02-1.3.8.24.2" score="1" C-ORDER="131">
+					<did>
+						<container type="Drawer">1</container>
+						<unittitle>G/E Pioneer Venus</unittitle>
+						<unitdate normal="1974/1975">1974-1975</unitdate>
+					</did>
+				</c02>
+				<c02 level="otherlevel" id="c02-1.3.8.24.3" score="1" C-ORDER="132">
+					<did>
+						<container type="Drawer">2</container>
+						<unittitle>Pioneer Venus, Monthly Progress Reports and Miscellaneous</unittitle>
+						<unitdate normal="1971/1983">1971-1983</unitdate>
+					</did>
+				</c02>
+				<c02 level="otherlevel" id="c02-1.3.8.24.4" score="1" C-ORDER="133">
+					<did>
+						<container type="Drawer">3</container>
+						<unittitle>Pioneer Venus Assorted Data</unittitle>
+						<unitdate normal="1973/1979">1973-1979</unitdate>
+
+					</did>
+				</c02>
+				<c02 level="otherlevel" id="c02-1.3.8.24.5" score="1" C-ORDER="134">
+					<did>
+						<container type="Drawer">4</container>
+						<unittitle>Pioneer Venus, Large and Small Probe Communications Systems
+							Documents</unittitle>
+						<unitdate normal="1975/1978">1975-1978</unitdate>
+					</did>
+				</c02>
+				<c02 level="otherlevel" id="c02-1.3.8.24.6" score="1" C-ORDER="135">
+					<did>
+						<container type="Drawer">5</container>
+						<unittitle>B. Jackson, Pioneer Venus Orbiter and Multiprobe Journals</unittitle>
+						<unitdate normal="1977/1992">1977-1992</unitdate>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="otherlevel" id="c01-1.3.8.25" score="1" C-ORDER="136">
+				<did>
+					<unittitle>File #24</unittitle>
+				</did>
+				<c02 level="otherlevel" id="c02-1.3.8.25.2" score="1" C-ORDER="137">
+					<did>
+						<container type="Drawer">1</container>
+						<unittitle>Pioneer Miscellaneous</unittitle>
+					</did>
+				</c02>
+				<c02 level="otherlevel" id="c02-1.3.8.25.3" score="1" C-ORDER="138">
+					<did>
+						<container type="Drawer">2</container>
+						<unittitle>Pioneer Awards, Graphs</unittitle>
+					</did>
+				</c02>
+			</c01>
+
+		</dsc>
+	</archdesc>
+</ead>

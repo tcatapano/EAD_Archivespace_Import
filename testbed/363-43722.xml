@@ -1,0 +1,933 @@
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" relatedencoding="MARC21">
+    <eadheader langencoding="iso639-2b" relatedencoding="Dublin Core" scriptencoding="iso15924" dateencoding="iso8601" countryencoding="iso3166-1" repositoryencoding="iso15511">
+        <eadid countrycode="US" mainagencycode="geu-s" identifier="ark:/25593/bmnm1" url="http://pid.emory.edu/ark:/25593/bmnm1">eua0021faculty</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper encodinganalog="Title">Emory University Faculty records, 1917-2002</titleproper>
+                <author encodinganalog="Creator">Emory University Archives, Emory University</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher encodinganalog="Publisher">Emory University</publisher>
+                <address>
+                    <addressline>Emory University Archives</addressline>
+                    <addressline>Manuscript, Archives, and Rare Book Library</addressline>
+                    <addressline>Atlanta, GA 30322</addressline>
+                    <addressline>404-727-6887</addressline>
+                    <addressline>marbl@emory.edu</addressline>
+                </address>
+                <date encodinganalog="Date" normal="2011-11-09">November 9, 2011</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>Finding aid encoded, 
+        <date encodinganalog="Date" normal="2011-11-09">November 9, 2011</date>
+            </creation>
+            <langusage>
+                <language langcode="eng" encodinganalog="Language" scriptcode="Latn">English</language>
+            </langusage>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection" relatedencoding="MARC21">
+        <did>
+            <origination>
+                <corpname source="lcnaf" encodinganalog="110">Emory University.</corpname>
+            </origination>
+            <unittitle encodinganalog="245$a">Emory University Faculty records, 
+		  <unitdate type="inclusive" encodinganalog="245$f" normal="1917/2002" era="ce" calendar="gregorian">1917-2002</unitdate>
+            </unittitle>
+            <unitid countrycode="US" repositorycode="geu-s" identifier="21">Series No. 21</unitid>
+            <physdesc encodinganalog="300">
+                <extent>4 linear ft.</extent>
+                <extent>(8 boxes)</extent>
+            </physdesc>
+            <abstract>The records of the Emory University Faculty document the faculty's role in the administration of the University. The records consist of by-laws, handbooks, minutes, subject files, and committee records. There is also information concerning faculty awards and chairs.</abstract>
+            <langmaterial encodinganalog="546">Materials entirely in
+		  <language langcode="eng">English</language>.</langmaterial>
+            <repository encodinganalog="852">Emory University<subarea>Emory University Archives</subarea>
+            </repository>
+        </did>
+        <acqinfo encodinganalog="541">
+            <head>Source</head>
+            <p>Transfer.</p>
+        </acqinfo>
+        <accessrestrict encodinganalog="506">
+            <head>Restrictions on Access</head>
+            <p>Unrestricted access.</p>
+        </accessrestrict>
+        <userestrict encodinganalog="540">
+            <head>Terms Governing Use and Reproduction</head>
+            <p>All requests subject to limitations noted in departmental policies on
+		  reproduction.</p>
+        </userestrict>
+        <prefercite encodinganalog="524">
+            <head>Citation</head>
+            <p>[after identification of item(s)], Emory University Faculty records, Emory University Archives, Manuscript, Archives, and Rare Book Library, Emory University.</p>
+        </prefercite>
+        <processinfo>
+            <head>Processing</head>
+            <p>Processed by Nancy Hall Watkins, 2005.</p>
+        </processinfo>
+        <bioghist encodinganalog="545">
+            <head>Administrative History</head>
+            <p>Emory University faculty began teaching at Emory's Atlanta campus in 1919 after being officially transferred from Oxford, Georgia following Emory College's reincorporation as Emory University. Since then, they have been involved in the administration of the University, its teaching, and its students. The faculty are organized by school, each represented by a corresponding Dean.</p>
+        </bioghist>
+        <scopecontent encodinganalog="520">
+            <head>Scope and Content Note</head>
+            <p>Emory University Faculty records contain administrative materials related to the faculty's role in the governance of Emory University. Contained in the collection are by-laws and policy documents related to faculty rights and privileges, minutes from faculty meetings, and materials from committees regarding diverse issues like curricula, retirement, academic standards, and campaign planning. Materials pertaining to various awards and chairs throughout the University, as well as subject files, are included in the collection.</p>
+        </scopecontent>
+        <arrangement encodinganalog="351">
+            <head>Arrangement Note</head>
+            <p>Organized into four series: (1) General records, (2) Awards and Chairs, (3) Subject files, and (4) Committees.</p>
+        </arrangement>
+        <separatedmaterial encodinganalog="544 0">
+            <head>Related Materials in This Repository</head>
+            <p> Emory College Faculty records (Series 52)</p>
+        </separatedmaterial>
+        <controlaccess>
+            <head>Selected Search Terms</head>
+            <controlaccess>
+                <head>Corporate Names</head>
+                <corpname encodinganalog="610" source="lcnaf">Emory University--Administration.</corpname>
+                <corpname encodinganalog="610" source="lcnaf">Emory University--Faculty--Retirement.</corpname>
+                <corpname encodinganalog="710" source="lcnaf">Emory University--Faculty Advisory Council.</corpname>
+                <corpname encodinganalog="610" source="lcnaf">Emory University--Curricula.</corpname>
+            </controlaccess>
+            <controlaccess>
+                <head>Topical Terms</head>
+                <subject source="lcsh" encodinganalog="650">College teachers--Georgia.</subject>
+                <subject source="lcsh" encodinganalog="650">Universities and colleges--Administration.</subject>
+                <subject source="lcsh" encodinganalog="650">Universities and colleges--Faculty.</subject>
+            </controlaccess>
+        </controlaccess>
+        <dsc type="combined">
+            <head>Description of Series</head>
+            <c01 level="series" id="eua0021faculty_series1">
+                <did>
+                    <unitid>Series 1</unitid>
+                    <unittitle encodinganalog="245$a">General records, 
+				<unitdate encodinganalog="245$f" normal="1917/2002" era="ce" calendar="gregorian">1917-2002</unitdate>
+                    </unittitle>
+                    <physdesc encodinganalog="300">Boxes 1-3</physdesc>
+                </did>
+                <c02 level="file">
+                    <did>
+                        <container type="box">1</container>
+                        <container type="folder">1</container>
+                        <unittitle>Bylaws, 1969-1974</unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="box">1</container>
+                        <container type="folder">2</container>
+                        <unittitle>Correspondence, 1933-1973, undated</unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="box">1</container>
+                        <container type="folder">3</container>
+                        <unittitle>Faculty handbook, 1971</unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="box">1</container>
+                        <container type="folder">4</container>
+                        <unittitle>Faculty handbook, 1977 </unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="box">1</container>
+                        <container type="folder">5</container>
+                        <unittitle>Faculty handbook, 1993-94</unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="box">1</container>
+                        <container type="folder">6</container>
+                        <unittitle>Faculty, new, 1947-1986</unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="box">1</container>
+                        <container type="folder">7</container>
+                        <unittitle>Lists: College faculty, 1946</unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="box">1</container>
+                        <container type="folder">8</container>
+                        <unittitle>Lists: Department chairs, 1966-1972</unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="box">1</container>
+                        <container type="folder">9</container>
+                        <unittitle>Lists: Undergraduate faculty council, 1958</unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="box">1</container>
+                        <container type="folder">10</container>
+                        <unittitle>Lists: University committees, 1939-1942</unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="box">1</container>
+                        <container type="folder">11</container>
+                        <unittitle>Lists: Distinguished chairs at Emory, 2002</unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="box">1</container>
+                        <container type="folder">12</container>
+                        <unittitle>Memorials, 1955-1973</unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="box">1</container>
+                        <container type="folder">13</container>
+                        <unittitle>Minutes, 1919-1924</unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="box">1</container>
+                        <container type="folder">14</container>
+                        <unittitle>Minutes, 1927-1930 </unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="box">2</container>
+                        <container type="folder">1</container>
+                        <unittitle>Minutes, 1941-1942</unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="box">2</container>
+                        <container type="folder">2</container>
+                        <unittitle>Minutes, 1943-1945</unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="box">2</container>
+                        <container type="folder">3</container>
+                        <unittitle>Minutes, 1946-1950</unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="box">2</container>
+                        <container type="folder">4</container>
+                        <unittitle>Minutes, 1951-1952</unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="box">2</container>
+                        <container type="folder">5</container>
+                        <unittitle>Minutes, 1953-1954</unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="box">2</container>
+                        <container type="folder">6</container>
+                        <unittitle>Minutes, 1955</unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="box">2</container>
+                        <container type="folder">7</container>
+                        <unittitle>Minutes, 1956-1957</unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="box">2</container>
+                        <container type="folder">8</container>
+                        <unittitle>Minutes, 1958-1959</unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="box">3</container>
+                        <container type="folder">1</container>
+                        <unittitle>Minutes, 1960-1962</unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="box">3</container>
+                        <container type="folder">2</container>
+                        <unittitle>Minutes, 1963-1964</unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="box">3</container>
+                        <container type="folder">3</container>
+                        <unittitle>Minutes, 1965-1966, 1968-1969</unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="box">3</container>
+                        <container type="folder">4</container>
+                        <unittitle>Minutes, 1970 </unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="box">3</container>
+                        <container type="folder">5</container>
+                        <unittitle>Minutes, 1971 </unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="box">3</container>
+                        <container type="folder">6</container>
+                        <unittitle>Minutes, 1972</unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="box">3</container>
+                        <container type="folder">7</container>
+                        <unittitle>Minutes, 1973-1974</unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="box">3</container>
+                        <container type="folder">8</container>
+                        <unittitle>Minutes, 1975-1976</unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="box">3</container>
+                        <container type="folder">9</container>
+                        <unittitle>Minutes, 1977-1978, 1981, 1992, 1994</unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="box">3</container>
+                        <container type="folder">10</container>
+                        <unittitle>Motions, 3 May 1960: Segregated education issues</unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="box">3</container>
+                        <container type="folder">11</container>
+                        <unittitle>Policies, 1950-1974</unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="box">BV1</container>
+                        <container type="folder"/>
+                        <unittitle>Faculty Club Minutes, 1918-1930</unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="box">BV2</container>
+                        <container type="folder"/>
+                        <unittitle>Curriculum Vitae, undated</unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="box">BV3</container>
+                        <container type="folder"/>
+                        <unittitle>College Faculty Minutes, 1917-1930</unittitle>
+                    </did>
+                </c02>
+            </c01>
+            <c01 level="series" id="eua0021faculty_series2">
+                <did>
+                    <unitid>Series 2</unitid>
+                    <unittitle encodinganalog="245$a">Awards and Chairs, 
+				<unitdate type="inclusive" normal="1962/2000" encodinganalog="245$f" era="ce" calendar="gregorian">1962-2000</unitdate>
+                    </unittitle>
+                    <physdesc encodinganalog="300">Box 4</physdesc>
+                </did>
+                <c02 level="file">
+                    <did>
+                        <container type="box">4</container>
+                        <container type="folder">1</container>
+                        <unittitle>Charles Howard Candler Professorships, 1959-1960, 1976 </unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="box">4</container>
+                        <container type="folder">2</container>
+                        <unittitle>Charles Howard Candler Professorships, 1980, 1984, 1987</unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="box">4</container>
+                        <container type="folder">3</container>
+                        <unittitle>Emory Williams Distinguished Teaching Award 1972-1973, 1977-1978, 1981, 1984, undated</unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="box">4</container>
+                        <container type="folder">4</container>
+                        <unittitle>Fuller E. Callaway Professorships 1967, 1971, 1979 </unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="box">4</container>
+                        <container type="folder">5</container>
+                        <unittitle>Guggenheim fellows, 1982</unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="box">4</container>
+                        <container type="folder">6</container>
+                        <unittitle>Robert W. Woodruff Lecture and Award, undated</unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="box">4</container>
+                        <container type="folder">7</container>
+                        <unittitle>Thomas Jefferson Award, 1962-2000 </unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="box">4</container>
+                        <container type="folder">8</container>
+                        <unittitle>United Methodist Church Award for University Scholar/Teacher, 1982, 1984, 1986</unittitle>
+                    </did>
+                </c02>
+            </c01>
+            <c01 level="series" id="eua0021faculty_series3">
+                <did>
+                    <unitid>Series 3</unitid>
+                    <unittitle encodinganalog="245$a">Subject files, 
+				<unitdate type="inclusive" encodinganalog="245$f" normal="1958/1988" era="ce" calendar="gregorian">1958-1988</unitdate>
+                    </unittitle>
+                    <physdesc encodinganalog="300">Box 4</physdesc>
+                </did>
+                <c02 level="file">
+                    <did>
+                        <container type="box">4</container>
+                        <container type="folder">9</container>
+                        <unittitle>Dekalb Superior Court case; Emory plaintiff, 1969</unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="box">4</container>
+                        <container type="folder">10</container>
+                        <unittitle>Faculty discussion groups, 1975, 1981, undated</unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="box">4</container>
+                        <container type="folder">11</container>
+                        <unittitle>Faculty orientation, 1968-1969</unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="box">4</container>
+                        <container type="folder">12</container>
+                        <unittitle>Luce faculty seminar, 1988</unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="box">4</container>
+                        <container type="folder">13</container>
+                        <unittitle>Statement by the Emory faculty on closing the public schools, 1958</unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="box">4</container>
+                        <container type="folder">14</container>
+                        <unittitle>Symposium, 1971</unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="box">4</container>
+                        <container type="folder">15</container>
+                        <unittitle>Wonderful Wednesday faculty questionnaire, 1967</unittitle>
+                    </did>
+                </c02>
+            </c01>
+            <c01 level="series" id="eua0021faculty_series4">
+                <did>
+                    <unitid>Series 4</unitid>
+                    <unittitle encodinganalog="245$a">Committees, 
+            <unitdate type="inclusive" encodinganalog="245$f" normal="1938/1994" era="ce" calendar="gregorian">1938-1994</unitdate>
+                    </unittitle>
+                    <physdesc encodinganalog="300">Boxes 5-8</physdesc>
+                </did>
+                <c02 level="file">
+                    <did>
+                        <container type="box">5</container>
+                        <container type="folder">1</container>
+                        <unittitle>Absences, 1951</unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="box">5</container>
+                        <container type="folder">2</container>
+                        <unittitle>Academic progress measurement, [1932]</unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="box">5</container>
+                        <container type="folder">3</container>
+                        <unittitle>Academic standards (also known as Academic policies and standards committee), 1959, 1962, 1964-1967</unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="box">5</container>
+                        <container type="folder">4</container>
+                        <unittitle>Academic standards, 1968-1970</unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="box">5</container>
+                        <container type="folder">5</container>
+                        <unittitle>Academic standards, 1971-1974</unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="box">5</container>
+                        <container type="folder">6</container>
+                        <unittitle>Admissions and scholarship, 1959, 1962-1969</unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="box">5</container>
+                        <container type="folder">7</container>
+                        <unittitle>Admissions and scholarship, 1970-1974</unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="box">5</container>
+                        <container type="folder">8</container>
+                        <unittitle>Afro-American studies (Curriculum) sub-committee, 1969</unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="box">5</container>
+                        <container type="folder">9</container>
+                        <unittitle>Afro-American studies (Curriculum) sub-committee, 1970 January-March</unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="box">5</container>
+                        <container type="folder">10</container>
+                        <unittitle>Afro-American studies (Curriculum) sub-committee, 1970 April-December</unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="box">5</container>
+                        <container type="folder">11</container>
+                        <unittitle>Camp planning (Faculty-staff camp), 1953-1955, 1959-1966</unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="box">5</container>
+                        <container type="folder">12</container>
+                        <unittitle>Camp planning, 1967-1968, 1972-1979</unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="box">5</container>
+                        <container type="folder">13</container>
+                        <unittitle>Campaign planning, 1963-1964</unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="box">5</container>
+                        <container type="folder">14</container>
+                        <unittitle>Campaign planning, 1964</unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="box">6</container>
+                        <container type="folder">1</container>
+                        <unittitle>College environment, 1962-1963</unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="box">6</container>
+                        <container type="folder">2</container>
+                        <unittitle>Commencement, 1933-1958, undated</unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="box">6</container>
+                        <container type="folder">3</container>
+                        <unittitle>Community and relief funds, 1946-1947, 1963</unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="box">6</container>
+                        <container type="folder">4</container>
+                        <unittitle>Curriculum, 1952-1954</unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="box">6</container>
+                        <container type="folder">5</container>
+                        <unittitle>Curriculum, 1959-1961</unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="box">6</container>
+                        <container type="folder">6</container>
+                        <unittitle>Curriculum, 1962</unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="box">6</container>
+                        <container type="folder">7</container>
+                        <unittitle>Curriculum, 1963</unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="box">6</container>
+                        <container type="folder">8</container>
+                        <unittitle>Curriculum, 1964</unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="box">6</container>
+                        <container type="folder">9</container>
+                        <unittitle>Curriculum, 1965</unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="box">6</container>
+                        <container type="folder">10</container>
+                        <unittitle>Curriculum, 1966</unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="box">6</container>
+                        <container type="folder">11</container>
+                        <unittitle>Curriculum, 1967, 1969-1971</unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="box">6</container>
+                        <container type="folder">12</container>
+                        <unittitle>Curriculum, 1972</unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="box">6</container>
+                        <container type="folder">13</container>
+                        <unittitle>Curriculum, 1973-1974</unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="box">6</container>
+                        <container type="folder">14</container>
+                        <unittitle>Curriculum, undated</unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="box">7</container>
+                        <container type="folder">1</container>
+                        <unittitle>Curriculum revision (ad hoc), 1963</unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="box">7</container>
+                        <container type="folder">2</container>
+                        <unittitle>Development, 1953-1954</unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="box">7</container>
+                        <container type="folder">3</container>
+                        <unittitle>Educational policy, 1974</unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="box">7</container>
+                        <container type="folder">4</container>
+                        <unittitle>Executive (Continues: Legislative council), 1970-1972</unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="box">7</container>
+                        <container type="folder">5</container>
+                        <unittitle>Executive, 1973-1981, undated</unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="box">7</container>
+                        <container type="folder">6</container>
+                        <unittitle>Faculty advisory council, 1971-1972</unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="box">7</container>
+                        <container type="folder">7</container>
+                        <unittitle>Faculty advisory council, 1973-1974</unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="box">7</container>
+                        <container type="folder">8</container>
+                        <unittitle>Faculty advisory council, 1975-1978</unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="box">7</container>
+                        <container type="folder">9</container>
+                        <unittitle>Faculty advisory council, 1980-1984, undated</unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="box">7</container>
+                        <container type="folder">10</container>
+                        <unittitle>Faculty organization study, 8 May 1958</unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="box">7</container>
+                        <container type="folder">11</container>
+                        <unittitle>Freshman and sophomore advisory system, 1959, undated</unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="box">8</container>
+                        <container type="folder">1</container>
+                        <unittitle>Insurance, 1938, 1951</unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="box">8</container>
+                        <container type="folder">2</container>
+                        <unittitle>Legislative council (Continued by: Executive committee), 1958-1959</unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="box">8</container>
+                        <container type="folder">3</container>
+                        <unittitle>Legislative council, 1960-1961</unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="box">8</container>
+                        <container type="folder">4</container>
+                        <unittitle>Legislative council, 1962-1963</unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="box">8</container>
+                        <container type="folder">5</container>
+                        <unittitle>Legislative council, 1964-1965</unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="box">8</container>
+                        <container type="folder">6</container>
+                        <unittitle>Legislative council, 1966-1967</unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="box">8</container>
+                        <container type="folder">7</container>
+                        <unittitle>Legislative council, 1968-1969</unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="box">8</container>
+                        <container type="folder">8</container>
+                        <unittitle>Martin Luther King, Jr. scholarship campaign, 1968, 1972-1973, undated</unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="box">8</container>
+                        <container type="folder">9</container>
+                        <unittitle>Morale (WWII), 1942, 1946, undated</unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="box">8</container>
+                        <container type="folder">10</container>
+                        <unittitle>Policies and principals, undated</unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="box">8</container>
+                        <container type="folder">11</container>
+                        <unittitle>Problems of plagiarism, 1960</unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="box">8</container>
+                        <container type="folder">12</container>
+                        <unittitle>Public functions, 1938-1947, undated</unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="box">8</container>
+                        <container type="folder">13</container>
+                        <unittitle>Publicity, 1941-1942</unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="box">8</container>
+                        <container type="folder">14</container>
+                        <unittitle>Religious discussion, 1953-1955, undated</unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="box">8</container>
+                        <container type="folder">15</container>
+                        <unittitle>Retirement, 1938-1942-Minutes</unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="box">8</container>
+                        <container type="folder">16</container>
+                        <unittitle>Retirement, 1938-1942-Correspondence and memoranda</unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="box">8</container>
+                        <container type="folder">17</container>
+                        <unittitle>Retirement, 1939, 1941-Membership</unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="box">8</container>
+                        <container type="folder">18</container>
+                        <unittitle>Retirement, 1937, 1941, undated-Retirement plan</unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="box">8</container>
+                        <container type="folder">19</container>
+                        <unittitle>Retirement, 1941-Group insurance</unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="box">8</container>
+                        <container type="folder">20</container>
+                        <unittitle>Retirement, undated-Faculty birth dates</unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="box">8</container>
+                        <container type="folder">21</container>
+                        <unittitle>Scholarship, 1946-1961</unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="box">8</container>
+                        <container type="folder">22</container>
+                        <unittitle>Task force on curriculum (clipping), 1994</unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="box">8</container>
+                        <container type="folder">23</container>
+                        <unittitle>Three-year B. A. degree study (ad hoc), 1972</unittitle>
+                    </did>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

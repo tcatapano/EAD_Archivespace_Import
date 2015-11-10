@@ -1,0 +1,1318 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="naastyle.xsl"?>
+<!DOCTYPE ead PUBLIC "-//Society of American Archivists//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead audience="external"> 
+  <eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" scriptencoding="iso15924" dateencoding="iso8601" countryencoding="iso3166-1" relatedencoding="Dublin Core"> 
+	 <eadid countrycode="mnu" mainagencycode="MnU" encodinganalog="Identifier" publicid="-//University of Minnesota, Twin Cities    Campus::Manuscripts Division//TEXT us::MnU::naa062.xml::Builders Exchange of St. Paul records , 19//EN">
+		naa062</eadid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper encodinganalog="Title">Builders Exchange of St. Paul
+			 records </titleproper> 
+		  <author encodinganalog="Contributor">Archives Staff</author> 
+		</titlestmt> 
+		<publicationstmt> 
+		  <publisher encodinganalog="Publisher">University of Minnesota
+			 Libraries</publisher> 
+		  <date encodinganalog="Date">undated</date> 
+		  <address> 
+			 <addressline>University of Minnesota Libraries</addressline> 
+			 <addressline>Minneapolis, MN 55455</addressline> 
+		  </address> 
+		</publicationstmt> 
+	 </filedesc> 
+	 <profiledesc> 
+		<creation>EAD encoding by Karen Spilman, 
+		  <date>May 2005</date></creation> 
+		<langusage> <language encodinganalog="Language" langcode="eng">English</language></langusage> 
+	 </profiledesc> 
+  </eadheader> 
+  <archdesc level="collection" relatedencoding="MARC21"> 
+	 <did> 
+		<origination> 
+		  <corpname source="lcnaf" rules="aacr2" role="creator" encodinganalog="110">Builders Exchange of St. Paul</corpname></origination> 
+		<unittitle encodinganalog="245$a" label="Title: ">Builders Exchange of
+		  St. Paul records</unittitle> 
+		<unitdate normal="1909/1994" encodinganalog="245$f" type="inclusive" label="Dates: ">1909-1994</unitdate> 
+		<repository encodinganalog="852$a" label="Repository: ">University of
+		  Minnesota Libraries. <subarea>Northwest Architectural Archives, Manuscripts
+		  Division [naa]</subarea></repository> 
+		<physdesc label="Quantity: "> <extent encodinganalog="300">7 boxes
+		  </extent><extent>(9.1 linear feet)</extent></physdesc> 
+		<abstract encodinganalog="520" label="Abstract: ">Collection contains
+		  bound copies of minutes of Board of Directors meetings (1909-ongoing), and
+		  bound copies of the <emph render="italic">Weekly Newsletter</emph>
+		  (1912-ongoing). </abstract> 
+		<unitid encodinganalog="099" countrycode="mnu" repositorycode="MnU" label="Collection Number: ">N 62</unitid>
+		<langmaterial encodinganalog="546" label="Language: ">
+		<language encodinganalog="041" langcode="eng">English</language>
+		</langmaterial> 
+		<physloc label="Location: ">Mezzanine</physloc> 
+	 </did> <descgrp> 
+	 <head>Administrative Information</head> 
+	 <accessrestrict encodinganalog="506"> 
+		<head>Restrictions on Access</head> 
+		<p>Available for use in the Manuscripts Division reading room. Advance
+		  notice is requested.</p> 
+	 </accessrestrict> 
+	 <userestrict encodinganalog="540"> 
+		<head>Restrictions on Use</head> 
+		<p>There are no restrictions on the use of materials in this collection.
+		  Copies can be requested if the condition of the originals warrants it. </p> 
+	 </userestrict> 
+	 <prefercite encodinganalog="524"> 
+		<head>Preferred Citation</head> 
+		<p>Builders Exchange of St. Paul records (N 62), Northwest Architectural
+		  Archives, University of Minnesota Libraries, Minneapolis.</p> 
+	 </prefercite> 
+	 <acqinfo encodinganalog="541"> 
+		<head>Acquisition</head> 
+		<p>The collection was donated to the Northwest Architectural Archives by
+		  Roger E. Miller on January 18, 1978. </p> 
+	 </acqinfo> 
+	 <accruals encodinganalog="584"> 
+		<head>Accruals</head> 
+		<p>The Builders Exchange binds each year's accumulation of Board minutes
+		  and newsletters and retains the last 10 years' issues. As each volume becomes
+		  older than 10 years, it is deposited in the collection each January of the
+		  succeeding year.</p> 
+	 </accruals></descgrp> 
+	 <arrangement encodinganalog="351"> 
+		<head>Arrangement</head> 
+		<p>The collection is organized into two series:</p> 
+		<list> 
+		  <item>Minutes</item> 
+		  <item>Newsletters</item> 
+		</list> 
+	 </arrangement> 
+	 <bioghist encodinganalog="545"> 
+		<head> Historical Note</head> 
+		<p>The Builders Exchange of St. Paul is a membership organization of
+		  contractors, architects, building tradesmen and suppliers of building
+		  materials. Through their support, the Exchange functions as a center in which
+		  prints of plans for buildings newly designed by architects may be consulted by
+		  contractors and subcontractors in order to compile their bid estimates. It also
+		  acts as a source for information about the services offered by contractors and
+		  suppliers who are located in the area.</p> 
+	 </bioghist> 
+	 <scopecontent encodinganalog="520"> 
+		<head>Scope and Content Note</head> 
+		<p>The collection contains bound copies of minutes of Board of Directors
+		  meetings, from 1909 to within ten years of the present date, and bound copies
+		  of the <emph render="italic">Weekly Newsletter</emph> for the years 1912 until
+		  a decade ago. The <emph render="italic">Newsletter</emph> carries news of the
+		  Builders Exchange and its members, plans on file and available for bid and
+		  notice of contracts awarded.</p> 
+	 </scopecontent> 
+	 <otherfindaid> 
+		<head>Additional Finding Aid</head> 
+		<p>An unpublished finding aid with detailed contents is available in the
+		  Manuscripts Division.</p> 
+	 </otherfindaid> 
+	 <controlaccess> 
+		<head>Index Terms</head> 
+		<p>This collection is indexed under the following headings in the catalog
+		  of the University of Minnesota Libraries. Researchers desiring materials about
+		  related topics, persons or places should search the catalog using these
+		  headings. </p> 
+		<corpname encodinganalog="610" source="lcnaf" rules="aacr2">Builders
+		  Exchange of St. Paul -- Archives</corpname> 
+		<subject encodinganalog="650" source="lcsh">Construction industry --
+		  Minnesota -- Saint Paul</subject> 
+		<subject encodinganalog="650" source="lcsh">Building estimates --
+		  Minnesota</subject> 
+	 </controlaccess> 
+	 <dsc> 
+		<c01 level="series"> 
+		  <did> 
+			 <unittitle> Minutes </unittitle> 
+		  </did> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle> December 28, 1900 - March 22, 1902 </unittitle> 
+				<container type="box"> 01 </container> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle> April 22, 1902 - January 6, 1903 </unittitle> 
+				<container type="box"> 01 </container> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle> January 20, 1903 - January 5, 1904 </unittitle> 
+				<container type="box"> 01 </container> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle> February 2, 1904 - February 7, 1905 </unittitle> 
+				<container type="box"> 01 </container> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle> March 7, 1905 - December 5, 1905 </unittitle> 
+				<container type="box"> 01 </container> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle> January 2, 1906 - November 6, 1906 </unittitle> 
+				<container type="box"> 01 </container> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle> December 4, 1906 - March 5, 1907 </unittitle> 
+				<container type="box"> 01 </container> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle> March 19, 1907 - January 21, 1908 </unittitle> 
+				<container type="box"> 01 </container> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle> January 28, 1908 - December 30, 1909 </unittitle> 
+				<container type="box"> 02 </container> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle> January 5, 1909 - December 22, 1909 </unittitle> 
+				<container type="box"> 02 </container> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle> January 4, 1910 - January 17, 1911 </unittitle> 
+				<container type="box"> 02 </container> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle> February 7, 1911 - June 4, 1912 </unittitle> 
+				<container type="box"> 02 </container> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle> July 2, 1912 - July 8, 1913 </unittitle> 
+				<container type="box"> 02 </container> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle> July 22, 1913 - June 2, 1914 </unittitle> 
+				<container type="box"> 02 </container> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle> July 7, 1914 - December 7, 1915 </unittitle> 
+				<container type="box"> 02 </container> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle> December 21, 1915 - December 5, 1916 </unittitle> 
+				<container type="box"> 03 </container> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle> December 5, 1916 - December 18, 1917 </unittitle> 
+				<container type="box"> 03 </container> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle> January 8, 1918 - October 14, 1919 </unittitle> 
+				<container type="box"> 03 </container> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle> November 4, 1919 - December 19, 1922 </unittitle> 
+				<container type="box"> 03 </container> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle> January 4, 1923 - December 16, 1924 </unittitle> 
+				<container type="box"> 03 </container> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle> December 27, 1924 - December 3, 1926 </unittitle> 
+				<container type="box"> 03 </container> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle> December 7, 1926 - June 15, 1928 </unittitle> 
+				<container type="box"> 03 </container> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle> July 28, 1928 - January 23, 1930 </unittitle> 
+				<container type="box"> 04 </container> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle> March 12, 1930 - February 4, 1932 </unittitle> 
+				<container type="box"> 04 </container> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle> March 9, 1932 - December 1, 1933 </unittitle> 
+				<container type="box"> 04 </container> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle> December 5, 1933 - August 7, 1935 </unittitle> 
+				<container type="box"> 04 </container> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle> November 5, 1935 - December 31, 1936 </unittitle> 
+				<container type="box"> 04 </container> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle> February 1, 1937 - February 27, 1937 </unittitle> 
+				<container type="box"> 04 </container> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle> June 5, 1939 - August 4, 1941 </unittitle> 
+				<container type="box"> 04 </container> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle> August 29, 1941 - October 27, 1942 </unittitle> 
+				<container type="box"> 05 </container> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle> December 8, 1942 - November 15, 1943 </unittitle> 
+				<container type="box"> 05 </container> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle> December 7, 1943 - November 30, 1944 </unittitle> 
+				<container type="box"> 05 </container> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle> December 5, 1944 - November 30, 1945 </unittitle> 
+				<container type="box"> 05 </container> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle> December 1, 1945 - November 30, 1946 </unittitle> 
+				<container type="box"> 05 </container> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle> December 1, 1946 - November 30, 1947 </unittitle> 
+				<container type="box"> 05 </container> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle> December 1, 1947 - November 30, 1948 </unittitle> 
+				<container type="box"> 05 </container> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle> December 1, 1948 - November 30, 1949 </unittitle> 
+				<container type="box"> 05 </container> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle> December 1, 1949 - November 30, 1950 </unittitle> 
+				<container type="box"> 05 </container> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle> December 1, 1950 - November 30, 1951 </unittitle> 
+				<container type="box"> 05 </container> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle> December 1, 1952 - November 30, 1953 </unittitle> 
+				<container type="box"> 05 </container> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle> December 1, 1953 - November 30, 1954 </unittitle> 
+				<container type="box"> 05 </container> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle> December 1, 1954 - November 30, 1955 </unittitle> 
+				<container type="box"> 05 </container> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle> December 13, 1955 - November 30, 1956 </unittitle> 
+				<container type="box"> 05 </container> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle> December 1, 1956 - November 30, 1957 </unittitle> 
+				<container type="box"> 05 </container> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle> December 1, 1957 - November 30, 1958 </unittitle> 
+				<container type="box"> 05 </container> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle> November 30, 1958 - December 8, 1959 </unittitle> 
+				<container type="box"> 05 </container> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle> December 8, 1959 - December 8, 1960 </unittitle> 
+				<container type="box"> 06 </container> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle> December 13, 1960 - December 8, 1961 </unittitle> 
+				<container type="box"> 06 </container> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle> October 16, 1961 - December 11, 1962 </unittitle> 
+				<container type="box"> 06 </container> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle> December 11, 1962 - December 10, 1963 </unittitle> 
+				<container type="box"> 06 </container> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle> December 10, 1963 - November 30, 1964 </unittitle> 
+				<container type="box"> 06 </container> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle> December 8, 1964 - November 30, 1965 </unittitle> 
+				<container type="box"> 06 </container> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle> October 30, 1965 - October 31, 1966 </unittitle> 
+				<container type="box"> 06 </container> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle> December 13, 1966 - October 31, 1967 </unittitle> 
+				<container type="box"> 06 </container> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle> October 31, 1967 - November 29, 1968 </unittitle> 
+				<container type="box"> 06 </container> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle> December 10, 1968 - December 15, 1969 </unittitle> 
+				<container type="box"> 06 </container> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle> November 24, 1969 - December 8, 1970 </unittitle> 
+				<container type="box"> 06 </container> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle> November 23, 1970 - October 19, 1971 </unittitle> 
+				<container type="box"> 06 </container> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle> November 11, 1971 - October 9, 1972 </unittitle> 
+				<container type="box"> 06 </container> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle> December 12, 1972 - October 15, 1973 </unittitle> 
+				<container type="box"> 06 </container> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle> November 8, 1973 - October 15, 1974 </unittitle> 
+				<container type="box"> 06 </container> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle> November 8, 1974 - October 13, 1975 </unittitle> 
+				<container type="box"> 06 </container> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle> November 17, 1975 - October 11, 1976 </unittitle> 
+				<container type="box"> 07 </container> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle> October 31, 1976 - October 11, 1977 </unittitle> 
+				<container type="box"> 07 </container> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle> October 31, 1977 - October 9, 1978 </unittitle> 
+				<container type="box"> 07 </container> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle> November 1, 1978 - October 15, 1979 </unittitle> 
+				<container type="box"> 07 </container> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle> November 6, 1979 - October 22, 1980 </unittitle> 
+				<container type="box"> 07 </container> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle> November 17, 1980 - October 20, 1981 </unittitle> 
+				<container type="box"> 07 </container> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle> November 5, 1981 - October 18, 1982 </unittitle> 
+				<container type="box"> 07 </container> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle> November 3, 1982 - October 19, 1983 </unittitle> 
+				<container type="box"> 07 </container> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle> November 3, 1983 - September 19, 1984 </unittitle> 
+				<container type="box"> 07 </container> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle> October 31, 1984 - September 17, 1985 </unittitle> 
+				<container type="box"> 07 </container> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle> November 11, 1985 - October 28, 1986 </unittitle> 
+				<container type="box"> 07 </container> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle> November 4, 1986 - October 31, 1987 </unittitle> 
+				<container type="box"> 07 </container> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle> November 5, 1987 - September 21, 1988 </unittitle> 
+				<container type="box"> 07 </container> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle> November 14, 1988 - October 10, 1989 </unittitle> 
+				<container type="box"> 07 </container> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle> November, 1989 - October, 1990 </unittitle> 
+				<container type="box"> 07 </container> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle> November, 1990 - October 1991 </unittitle> 
+				<container type="box"> 07 </container> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle> November, 1991 - October, 1992 </unittitle> 
+				<container type="box"> 07 </container> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle> November, 1992- October, 1993 </unittitle> 
+				<container type="box"> 07 </container> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle> November, 1993- October, 1994 </unittitle> 
+				<container type="box"> 07 </container> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle> November 1994- October, 1995 </unittitle> 
+				<container type="box"> 07 </container> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle> November, 1995- October 1996 </unittitle> 
+				<container type="box"> 07 </container> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle> November 1996- October, 1997 </unittitle> 
+				<container type="box"> 07 </container> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle> November, 1997- October 1998 </unittitle> 
+				<container type="box"> 07 </container> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle> November, 1998- October, 1999 </unittitle> 
+				<container type="box"> 07 </container> 
+			 </did> 
+		  </c02> 
+		</c01> 
+		<c01 level="series"> 
+		  <did> 
+			 <unittitle> Newsletters </unittitle> 
+		  </did> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle> March 18, 1912 - March 10, 1913 </unittitle> 
+				<container type="box"> 01 </container> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle> March 17, 1913 - April 13, 1914 </unittitle> 
+				<container type="box"> 01 </container> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle> April 20, 1914 - April 19, 1915 </unittitle> 
+				<container type="box"> 01 </container> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle> April 26, 1915 - March 13, 1916 </unittitle> 
+				<container type="box"> 01 </container> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle> June 1915 - December 1918 (Monthly letter) </unittitle>
+				
+				<container type="box"> 01 </container> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle> March 20, 1916 to November 20, 1916 </unittitle> 
+				<container type="box"> 01 </container> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle> November 27, 1916 - October 1, 1917 </unittitle> 
+				<container type="box"> 01 </container> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle> October 8, 1917 - June 3, 1918 </unittitle> 
+				<container type="box"> 01 </container> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle> June 10, 1918 - June 30, 1919 </unittitle> 
+				<container type="box"> 01 </container> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle> July 7, 1919 - June 1, 1920 </unittitle> 
+				<container type="box"> 01 </container> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle> September 1920 - March 1921 (monthly newsletter)
+				  </unittitle> 
+				<container type="box"> 01 </container> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle> June 7, 1921 - March 13, 1922 </unittitle> 
+				<container type="box"> 01 </container> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle> March 20, 1922 - October 20, 1922 </unittitle> 
+				<container type="box"> 01 </container> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle> November 6, 1922 - March 19, 1923 </unittitle> 
+				<container type="box"> 01 </container> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle> March 26, 1923 - October 29, 1923 </unittitle> 
+				<container type="box"> 01 </container> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle> November 5, 1923 - March 17, 1924 </unittitle> 
+				<container type="box"> 01 </container> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle> March 24, 1924 - August 25, 1924 </unittitle> 
+				<container type="box"> 01 </container> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle> September 2, 1924 - January 26, 1925 </unittitle> 
+				<container type="box"> 02 </container> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle> June 1, 1925 - October 26, 1925 </unittitle> 
+				<container type="box"> 02 </container> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle> February 2, 1925 - June 1, 1925 </unittitle> 
+				<container type="box"> 02 </container> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle> November 2, 1925 - March 29, 1926 </unittitle> 
+				<container type="box"> 02 </container> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle> September 6, 1926 - December 28, 1926 </unittitle> 
+				<container type="box"> 02 </container> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle> April 5, 1926 - August 30, 1926 </unittitle> 
+				<container type="box"> 02 </container> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle> January 3, 1927 - March 28, 1927 </unittitle> 
+				<container type="box"> 02 </container> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle> April 4, 1927 - June 27, 1927 </unittitle> 
+				<container type="box"> 02 </container> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle> July 5, 1927 - September 26, 1927 </unittitle> 
+				<container type="box"> 02 </container> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle> October 3, 1927 - January 4, 1928 </unittitle> 
+				<container type="box"> 02 </container> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle> January 2, 1928 - March 26, 1928 </unittitle> 
+				<container type="box"> 02 </container> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle> April 2, 1928 - June 25, 1928 </unittitle> 
+				<container type="box"> 02 </container> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle> July 2, 1928 - September 24, 1928 </unittitle> 
+				<container type="box"> 02 </container> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle> October 1, 1928 - December 31, 1928 </unittitle> 
+				<container type="box"> 02 </container> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle> January 7, 1929 - March 25, 1929 </unittitle> 
+				<container type="box"> 02 </container> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle> April 1, 1929 - June 24, 1929 </unittitle> 
+				<container type="box"> 02 </container> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle> July 1, 1929 - September 30, 1929 </unittitle> 
+				<container type="box"> 02 </container> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle> October 7, 1929 - December 30, 1929 </unittitle> 
+				<container type="box"> 02 </container> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle> January 6, 1930 - May 26, 1930 </unittitle> 
+				<container type="box"> 02 </container> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle> June 2, 1930 - September 28, 1930 </unittitle> 
+				<container type="box"> 02 </container> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle> October 6, 1930 - January 19, 1931 </unittitle> 
+				<container type="box"> 02 </container> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle> January 26, 1931 - June 29, 1931 </unittitle> 
+				<container type="box"> 02 </container> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle> July 6, 1931 -December 28, 1931 </unittitle> 
+				<container type="box"> 02 </container> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle> January 4, 1932 - December 27, 1932 </unittitle> 
+				<container type="box"> 03 </container> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle> January 3, 1933 - December 26, 1933 </unittitle> 
+				<container type="box"> 03 </container> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle> January 1, 1934 - December 31, 1934 </unittitle> 
+				<container type="box"> 03 </container> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle> March 11, 1935 - December 30, 1935 </unittitle> 
+				<container type="box"> 03 </container> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle> January 6, 1936 - December 28, 1936 </unittitle> 
+				<container type="box"> 03 </container> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle> January 4, 1937 - December 27, 1937 </unittitle> 
+				<container type="box"> 03 </container> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle> January 3, 1938 - December 26, 1938 </unittitle> 
+				<container type="box"> 03 </container> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle> January 3, 1939 - September 11, 1939 </unittitle> 
+				<container type="box"> 03 </container> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle> January 2, 1940 - December 30, 1940 </unittitle> 
+				<container type="box"> 03 </container> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle> January 6, 1941 - December 29, 1941 </unittitle> 
+				<container type="box"> 03 </container> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle> January 5, 1942 - March 8, 1943 </unittitle> 
+				<container type="box"> 04 </container> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle> March 15, 1943 - February 7, 1944 </unittitle> 
+				<container type="box"> 04 </container> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle> February 14, 1944 - April 30, 1945 </unittitle> 
+				<container type="box"> 04 </container> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle> May 7, 1945 - December 31, 1945 </unittitle> 
+				<container type="box"> 04 </container> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle> January 7, 1946 - December 30, 1946 </unittitle> 
+				<container type="box"> 04 </container> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle> January 6, 1947 - December 29, 1947 </unittitle> 
+				<container type="box"> 04 </container> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle> January 5, 1948 - December 27, 1948 </unittitle> 
+				<container type="box"> 04 </container> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle> January 3, 1949 - December 26, 1949 </unittitle> 
+				<container type="box"> 04 </container> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle> January 2, 1950 - December 25, 1950 </unittitle> 
+				<container type="box"> 04 </container> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle> January 1, 1950 - December 31, 1951 </unittitle> 
+				<container type="box"> 04 </container> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle> January 7, 1952 - December 29, 1952 </unittitle> 
+				<container type="box"> 04 </container> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle> January 5, 1953 - December 28, 1953 </unittitle> 
+				<container type="box"> 05 </container> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle> January 5, 1954 - December 27, 1954 </unittitle> 
+				<container type="box"> 05 </container> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle> January 3, 1955 - December 26, 1955 </unittitle> 
+				<container type="box"> 05 </container> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle> January 2, 1956 - December 31, 1956 </unittitle> 
+				<container type="box"> 05 </container> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle> January 7, 1957 - December 30, 1957 </unittitle> 
+				<container type="box"> 05 </container> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle> January 6, 1958 - December 29, 1958 </unittitle> 
+				<container type="box"> 05 </container> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle> January 5, 1959 - December 28, 1959 </unittitle> 
+				<container type="box"> 05 </container> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle> January 4, 1960 - December 26, 1960 </unittitle> 
+				<container type="box"> 05 </container> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle> January 2, 1961 - December 25, 1961 </unittitle> 
+				<container type="box"> 06 </container> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle> January 1, 1962 - December 31, 1962 </unittitle> 
+				<container type="box"> 06 </container> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle> January 7, 1963 - December 30, 1963 </unittitle> 
+				<container type="box"> 06 </container> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle> January 6, 1964 - December 28, 1964 </unittitle> 
+				<container type="box"> 06 </container> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle> January 4, 1965 - December 27, 1965 </unittitle> 
+				<container type="box"> 06 </container> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle> January 3, 1966 - December 26, 1966 </unittitle> 
+				<container type="box"> 06 </container> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle> January 2, 1967 - December 25, 1967 </unittitle> 
+				<container type="box"> 06 </container> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle> January 1, 1968 - December 30, 1968 </unittitle> 
+				<container type="box"> 07 </container> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle> January 6, 1969 - December 29, 1969 </unittitle> 
+				<container type="box"> 07 </container> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle> January 5, 1970 - December 28, 1970 </unittitle> 
+				<container type="box"> 07 </container> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle> January 4, 1971 - December 27, 1971 </unittitle> 
+				<container type="box"> 07 </container> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle> January 3, 1972 - December 25, 1972 </unittitle> 
+				<container type="box"> 07 </container> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle> January 1, 1973 - December 31, 1973 </unittitle> 
+				<container type="box"> 07 </container> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle> January 7, 1974 - December 30, 1974 </unittitle> 
+				<container type="box"> 07 </container> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle> January 6, 1975 - December 29, 1975 </unittitle> 
+				<container type="box"> 08 </container> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle> January 5, 1976 - December 27, 1976 </unittitle> 
+				<container type="box"> 08 </container> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle> January 3, 1977 - December 26, 1977 </unittitle> 
+				<container type="box"> 08 </container> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle> January 2, 1978 - December 25, 1978 </unittitle> 
+				<container type="box"> 08 </container> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle> January 1, 1979 - December 31, 1979 </unittitle> 
+				<container type="box"> 08 </container> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle> January 7, 1980 - December 29, 1980 </unittitle> 
+				<container type="box"> 08 </container> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle> January 5, 1981 - December 28, 1981 </unittitle> 
+				<container type="box"> 09 </container> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle> January 4, 1982 - December 27, 1982 </unittitle> 
+				<container type="box"> 09 </container> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle> January 3, 1983 - December 26, 1983 </unittitle> 
+				<container type="box"> 09 </container> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle> January 2, 1984 - December 31, 1984 </unittitle> 
+				<container type="box"> 09 </container> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle> January 7, 1985 - December 30, 1985 </unittitle> 
+				<container type="box"> 10 </container> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle> January 6, 1986 - December 29, 1986 </unittitle> 
+				<container type="box"> 10 </container> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle> January 5, 1987 - December 28, 1987 </unittitle> 
+				<container type="box"> 10 </container> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle> 1914 - 1964 VL. 1 (History of Bowling League)
+				  </unittitle> 
+				<container type="box"> 10 </container> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle> 1963 - 1988 VL. 2 (History of Bowling League)
+				  </unittitle> 
+				<container type="box"> 10 </container> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle> January 4, 1988 - December 26, 1988 </unittitle> 
+				<container type="box"> 10 </container> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle> January 2, 1989 - December 25, 1989 </unittitle> 
+				<container type="box"> 11 </container> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle> January 8, 1990 - December 31, 1990 </unittitle> 
+				<container type="box"> 11 </container> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle> January 7, 1991 - December 30, 1991 </unittitle> 
+				<container type="box"> 11 </container> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle> January ?, 1992 - December ?, 1992 </unittitle> 
+				<container type="box"> 11 </container> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle> January 19, 1993- December 27, 1993 </unittitle> 
+				<container type="box"> 11 </container> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle> January 3 1994- December 20, 1994 </unittitle> 
+				<container type="box"> 11 </container> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle> January 9, 1995- December 25, 1995 </unittitle> 
+				<container type="box"> 12 </container> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle> January 1, 1996- December 30, 1996 </unittitle> 
+				<container type="box"> 12 </container> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle> January 6, 1996- December 29, 1997 </unittitle> 
+				<container type="box"> 12 </container> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle> January 5, 1998- December 28, 1998 </unittitle> 
+				<container type="box"> 12 </container> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<unittitle> January 7, 1998 û December 27, 1999 </unittitle> 
+				<container type="box"> 12 </container> 
+			 </did> 
+		  </c02> 
+		</c01> 
+	 </dsc> 
+  </archdesc> 
+</ead>

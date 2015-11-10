@@ -1,0 +1,223 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead audience="external" relatedencoding="MARC21">
+  <eadheader langencoding="iso639-2b" audience="internal" countryencoding="iso3166-1"
+    dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924"
+    relatedencoding="MARC21">
+    <eadid mainagencycode="DSI-AI" countrycode="us"
+      identifier="http://siarchives.si.edu/findingaids/FA90-034.xml" encodinganalog="856$u">
+      http://siarchives.si.edu/findingaids/FA90-034.xml</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper encodinganalog="245$a">Newsletter Records, <date><emph render="italic">circa</emph> 1983-1987</date></titleproper>
+        <author encodinganalog="245$c">Finding aid prepared by Smithsonian Institution
+          Archives</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher encodinganalog="260$b">Smithsonian Institution Archives </publisher>
+        <address>
+          <addressline>Washington, D.C. </addressline>
+          <addressline>Contact us at <emph render="italic">osiaref@si.edu</emph></addressline>
+        </address>
+        <date type="publication"/>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>Finding aid encoded on <date normal="2000-01-01">9-7-2011</date></creation>
+      <langusage encodinganalog="546"> Finding aid written in <language encodinganalog="041"
+          langcode="eng">English</language>
+      </langusage>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection" type="inventory" relatedencoding="MARC21">
+    <did>
+      <head>Collection Overview</head>
+      <repository label="Repository:" encodinganalog="852$a">
+        <corpname encodinganalog="110">Smithsonian Institution Archives, </corpname>
+        <address>
+          <addressline>Washington, D.C., </addressline>
+          <addressline><emph render="italic">osiaref@si.edu</emph></addressline>
+        </address>
+      </repository>
+      <origination label="Creator:">
+        <persname encodinganalog="100">Colonial Waterbird Society</persname>
+      </origination>
+      <note>
+        <p>Non-SI Records</p>
+      </note>
+      <unittitle label="Title:" encodinganalog="245$a">Newsletter Records</unittitle>
+      <unitdate label="Dates:" encodinganalog="245$f" normal="1971/2004"><emph render="italic">circa</emph> 1983-1987</unitdate>
+      <physdesc label="Quantity:" encodinganalog="300$a">
+        <extent>1 cu. ft. (1 record storage box)</extent>
+      </physdesc>
+      <unitid encodinganalog="099" label="Collection:" countrycode="iso3166-1"
+        repositorycode="DSI-AI">Accession 90-034</unitid>
+      <langmaterial encodinganalog="546" label="Language of Materials:">
+        <language encodinganalog="041" langcode="eng">English</language>
+      </langmaterial>
+    </did>
+    <prefercite encodinganalog="510">
+      <head>Preferred Citation</head>
+      <p>Smithsonian Institution Archives, Accession 90-034, Colonial Waterbird Society, Newsletter Records</p>
+    </prefercite>
+    
+ 
+    
+    <scopecontent>
+    <head>Descriptive Entry</head>
+     <p>This accession consists of an addition to the records of the Colonial Waterbird Society. This material is the files of Dr. William E. Davis as editor of the newsletter.</p> </scopecontent> 
+     
+     
+ 
+    
+    
+    
+    
+        
+      <controlaccess id="a12">
+      <head>Index Terms</head>
+      <p>This collection is indexed under the following access terms. These are links to collections
+      with related topics, persons or places.</p>
+        
+         <controlaccess>
+           <head>Name</head>
+           <famname encodinganalog="600" source="local">Davis, William E. (William Edwin), 1936-</famname>
+           <famname encodinganalog="600" source="local">Colonial Waterbird Group (U.S.)</famname>
+         </controlaccess>
+        
+        
+         <controlaccess>
+           <head>Subject</head>
+           <subject encodinganalog="650" source="local">Ornithologists</subject>
+           <subject encodinganalog="650" source="local">Professional associations</subject>
+         </controlaccess>
+        
+        
+        
+        
+         <controlaccess>
+           <head>Physical Characteristics of Materials in the Collection</head>
+           <genreform encodinganalog="655$a" source="aat">Manuscripts</genreform>
+         </controlaccess>
+        
+      
+      </controlaccess>
+    <dsc type="combined" id="a23">
+      
+      <c01 level="file">
+        <did>
+          <unittitle>Box 1</unittitle>
+        </did>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 1 of 1</container>
+            <unittitle>Folder 1 Colonial Waterbird Group (CWG) Newsletter Questionnaire</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 1 of 1</container>
+            <unittitle>Folder 2 CWG Financial</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 1 of 1</container>
+            <unittitle>Folders 3-7 Miscellaneous</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 1 of 1</container>
+            <unittitle>Folder 8 Mock-Up, Vol. 8, No. 2, May 1984 Newsletter</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 1 of 1</container>
+            <unittitle>Folder 9 CWG</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 1 of 1</container>
+            <unittitle>Folder 10 "To be Xeroxed"</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 1 of 1</container>
+            <unittitle>Folders 11-13 Miscellaneous</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 1 of 1</container>
+            <unittitle>Folder 14 1984 CWG Council</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 1 of 1</container>
+            <unittitle>Folder 15 CWG Current</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 1 of 1</container>
+            <unittitle>Folder 16 August 1985</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 1 of 1</container>
+            <unittitle>Folder 17 August 1985 NL</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 1 of 1</container>
+            <unittitle>Folder 18 November 1986</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 1 of 1</container>
+            <unittitle>Folders 19-20 Vol. 9, No. 3</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 1 of 1</container>
+            <unittitle>Folder 21 March Newsletter, 1985</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 1 of 1</container>
+            <unittitle>Folder 22 1988 Meeting Agenda</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 1 of 1</container>
+            <unittitle>Folder 23 Miscellaneous</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 1 of 1</container>
+            <unittitle>Folder 24 Vol. 10, No. 2, August 1986</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 1 of 1</container>
+            <unittitle>Folder 25 Peabody Museum, LG Journals</unittitle>
+          </did>
+        </c02>
+      
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

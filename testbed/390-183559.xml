@@ -1,0 +1,2542 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "./dtds/ead.dtd">
+<ead relatedencoding="MARC21">
+   <eadheader findaidstatus="edited-full-draft" langencoding="iso639-2b" audience="internal" id="a0" repositoryencoding="iso15511" scriptencoding="iso15924" dateencoding="iso8601" countryencoding="iso3166-1">
+      <eadid encodinganalog="852" publicid="burks" countrycode="us" mainagencycode="njr">burks</eadid>
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper>Guide to the Ardath W. Burks Papers, 
+			 <date normal="1928/1996">1928-1996</date></titleproper> 
+		  <author>Fernanda Perrone</author> 
+		</titlestmt> 
+<publicationstmt> 
+		  <num type="recordgrp. no.">R-MC 083</num> 
+		  <publisher>Special Collections and University Archives, Rutgers
+			 University Libraries</publisher> 
+		  <date calendar="gregorian" era="ce">2004</date> 
+		</publicationstmt> 
+	 </filedesc> 
+	 <profiledesc> 
+		<creation>Finding aid encoded in EAD, version 2002 by Kristy S. Buchalla	  
+		  <date calendar="gregorian" era="ce" normal="20050803">August 3,
+			 2005</date></creation> 
+		<langusage>Finding aid is written in
+		  <language>English.</language></langusage> 
+	 </profiledesc> 
+  </eadheader> 
+<archdesc level="collection" type="register"> 
+	 <did id="a1"> 
+		<head>Descriptive Summary</head> 
+		<unittitle label="Title:" encodinganalog="245$a">Guide to the Ardath W. Burks Papers</unittitle> 
+		<unitdate label="Dates:" type="inclusive" normal="1928/1996" encodinganalog="245$f" era="ce" calendar="gregorian">1928-1996</unitdate>  
+		<origination label="Creator:" encodinganalog="110$a"> 
+		  <persname encodinganalog="100$a" source="lcnaf">Burks, Ardath W.</persname></origination> 
+		<physdesc label="Quantity:" encodinganalog="300$a">15.5 cubic ft. (39 legal size
+		  manuscript boxes, 7 letter size manuscript boxes, 1 photograph box, 4 oversize boxes)</physdesc> 
+		<repository label="Repository:" encodinganalog="852$a">Rutgers University
+		  Libraries. Special Collections and University Archives.</repository> 
+		<abstract encodinganalog="520$a" label="Abstract:">The Ardath W. Burks Papers, 1928-1996, are those maintained and 
+		created by Ardath W. Burks, Rutgers University administrator and Professor of Asian Studies.  The papers contain material relating to both Burks' 
+		personal and public activities. Personal activities relate to his family and home life.  His relationship with 
+		Japan, manifested in many ways, dominates his public activities; Burks' education, military service, promotion of 
+		positive relationships between Japan and the United States, and his academic career and endeavors relating to 
+		academia comprise elements of his public activities.  However, the line of demarcation between the two spheres of 
+		activity blurs often, and documents like correspondence frequently contain information related to a myriad of topics,
+		such as his family life, academic activities, and participation in Sister Cities International programs.  
+	</abstract> 
+		<unitid label="Collection No.;" encodinganalog="099$a" countrycode="us"
+		 repositorycode="njr">R-MC 083</unitid> 
+		<langmaterial label="Language"><language
+		  langcode="eng">English.</language></langmaterial> 
+	 </did>  
+<odd type="bioghist"> 
+		<p/> 
+	 </odd> 
+	 <bioghist encodinganalog="545$a" id="a2"> 
+		<head>Biographical Sketch</head> 
+		<p>Ardath Walter Burks was born May 1, 1915 in Covington, Kentucky to Alonzo Edwin Burks, an assistant freight agent 
+		for the C  O Railroad, and Clara Grace McCracken Burks.  He married Virginia Jane Lyle Burks on November 15, 1941; 
+		their son, Stephen Riki Burks, was born in 1954.</p>
+		<p>Burks received his B. A. from the University of Cincinnati in 1939, his M. A. from the University of Minnesota 
+		in 1941, and his Ph.D. from the School of Advanced International Studies at Johns Hopkins University in 1949.  
+		However, World War II interrupted his progress towards his doctorate.  He served as an Associate Economic Analyst 
+		for the Office of Naval Intelligence from 1941 to 1943.  In 1943, upon obtaining a release from his deferment, Burks 
+		enlisted in the United States Navy.  He pursued intensive language training through the Naval Training School 
+		(Oriental Languages) at the University of Colorado, Boulder, where he received his certification in Japanese on 
+		April 15, 1944, and then attended the Advanced Naval Intelligence School in New York City.  Afterwards, he was 
+		commissioned as a lieutenant (junior grade) in the U. S. Naval Reserves, and served as a Language Officer throughout 
+		the remainder of the war.  He was released from active duty in 1946, although he continued to serve as a civilian Air 
+		Intelligence Specialist until September.</p>
+		<p>Burks' career at Rutgers, the State University of New Jersey commenced in 1948 when he joined the faculty as a 
+		professor of Political Science.  He remained in this department, serving as its chairman from 1962 through 1965.  
+		In 1966 he accepted a position as a Visiting Professor for the East Asian Institute at Columbia University.  He 
+		returned to Rutgers in the fall of 1966, moving into administrative duties as the Director of International Programs 
+		until 1973.  In 1973 Burks joined the formal administration of Rutgers as the Associate Vice President for Academic 
+		Affairs.  His efforts to establish a Department of Asian Studies culminated in his appointment as the first Professor
+		of Asian Studies in 1977.  He formally retired in 1981, and was subsequently recognized as a Professor Emeritus of 
+		Asian Studies.</p>
+		<p>During his academic career, Burks remained active in research and writing and made numerous research trips. 
+		 Amongst other positions, he was a Research Associate and the Acting Field Director for the University of Michigan 
+		 Center for Japanese Studies in Okayama (1952-1953); a Senior Research Fulbright Fellow for Humanistic Studies at 
+		 Kyoto University (1958-1959); a recipient of the Ford Travel-Study Grant, representing Rutgers and acting as a 
+		 liaison with Tokyo Metropolitan University (1962); a Resident Consultant of the International House of Japan, Inc., 
+		 in Tokyo (1965); and a consultant for the Council on International Educational Exchange (1970, 1973).</p>
+<p>	Burks supported many endeavors related to Japanese studies, such as the Japan Society in New York and the 
+International House of Japan in Tokyo.  He was also heavily involved in the Association for Asian Studies, serving on its 
+Board of Directors (1972-1975) and as the Chairman for the Northeast Asia Regional Council (1972-1973).  He participated in 
+the prestigious Columbia University Seminar on Modern East Asia: Japan, from its inception in 1963, serving as its chairman on two 
+occasions: 1966-1967 and 1987-1988.  From 1956 to 1964, Burks was the director of various summer institutes for secondary 
+school teachers dedicated to raising interest in Asian Studies in pre-college students.  The first of these institutes was 
+held at the University of Delaware in 1956; later ones took place at Temple University, the University of Hawaii, and 
+Rutgers University.  </p>
+<p>	From the beginning of his tenure at Rutgers, Burks devoted his energies to reviving interest in Japan and renewing 
+ties between Rutgers and Fukui University which had originated in the mid-nineteenth century.  With his enthusiastic 
+promotion and participation, Rutgers University and Fukui University built a collaborative relationship manifested in 
+various activities such as: the formation of Rutgers-kai, the Rutgers Association of Fukui (1978); the establishment of 
+the Griffis-Kusakabe Fund (1978); and the creation of a formal exchange program between Rutgers and Fukui 
+University (1981).  Burks also actively supported positive relations between the United States and Japan on local and 
+national levels.  Due in part to his enthusiasm, New Brunswick signed a Sister Cities agreement with the city of Fukui 
+in 1982, and New Jersey entered into a sister state agreement with Fukui Prefecture in 1990.  In 1982, Burks was 
+recognized as an honorary citizen of Fukui.</p>
+<p>	Burks was in many ways responsible for promoting the William Elliot Griffis Collection, held by Special Collections 
+and University Archives, Rutgers University Libraries.  The Griffis Collection documents the life of Griffis, who was one 
+of the first <emph render="italic">oyatoi gaikokujin</emph> (foreign employees) serving in the Meiji government. Griffis was also involved in tutoring 
+a number of <emph render="italic">ryûgakusei</emph> (overseas students) who studied at Rutgers in the mid to late nineteenth century.  Burks' later 
+research centered on the <emph render="italic">yatoi</emph> and <emph render="italic">ryûgakusei</emph>.  He helped organize two major conferences on the yatoi, one at Rutgers in 
+1967 and one at Fukui University in 1985, which were attended by distinguished Asian Studies scholars from around the 
+world.  The proceedings of the 1967 conference were published as <emph render="italic">The Modernizers: Overseas Students, Foreign Employees, 
+and Meiji Japan (Kindaika no suishintach; ryugakusei, oyatoi-gaikokujin to Meiji)</emph>, and those of the 1985 conference as 
+<emph render="italic">Foreign Employees in Nineteenth Century Japan (Za Yatoi)</emph>.  </p>
+<p>	After retirement, Burks maintained his ties to Rutgers University and Fukui.  He helped found Rutgers University 
+Academy for Lifelong Learning (RU-ALL).  He acted as a volunteer member of the Sister-Cities Committee of New Brunswick, 
+and advised New Brunswick Mayor John Lynch as a member of a delegation from New Brunswick to Tokyo, Tsuruoka, Fukui, and 
+Kyoto.  Other volunteer positions held by Burks included being a consultant for Rutgers University Special Collections 
+and University Archives and a counselor for the Zimmerli Art Museum and International Center for Japonisme at 
+Rutgers University.  The Japanese government decorated him in 1990 with the Order of the Rising Sun, Gold Rays 
+with Neck Ribbon.  </p>
+	<p>Jane Lyle Burks died in 1991. Ardath Burks currently resides in Basking Ridge, New Jersey.</p>	
+	 </bioghist> 	
+<scopecontent encodinganalog="520$a" id="a3"> 
+		<head>Scope and Content Note</head> 
+		<p>The Ardath W. Burks Papers date from 1928 to 1996, with the bulk of the material dating from between 1970 and 
+		1990.  The papers are approximately 15.5 cubic feet in size; they include thirty-nine legal size manuscript boxes, 
+		seven letter size manuscript boxes, one photograph box, and four oversize boxes.</p>
+	<p>The papers contain material relating to both Burks' personal and public activities. Personal activities relate to 
+	his family and home life.  His relationship with Japan, manifested in many ways, dominates his public activities; 
+	Burks' education, military service, promotion of positive relationships between Japan and the United States, and his 
+	academic career and endeavors relating to academia comprise elements of his public activities.  However, the line of 
+	demarcation between the two spheres of activity blurs often, and documents like correspondence frequently contain 
+	information related to a myriad of topics, such as his family life, academic activities, and participation in Sister
+	 Cities International programs.  Likewise, many series contain inter-related and complementary materials. </p>
+	 <p>The PERSONAL FILES includes documents relating to Burks' family, his education from high school through graduate 
+	 studies, and his career as a professional academic.  Subjects within the PUBLIC RELATIONS FILES derive from Burks' 
+	 military career, his status as a member of the faculty and administration of Rutgers University, his authoritative 
+	 opinions regarding Japan and U.S.-Japanese relations, and his participation in international affairs.  However, 
+	 articles about or informed by Burks can be found throughout the collection, particularly in the 
+	 CORRESPONDENCE AND DOCUMENTS series. </p>
+	 <p>CORRESPONDENCE AND DOCUMENTS covers the greatest breadth of topics.  All facets of Burks' life are found in this 
+	 series; material ranges from Burks' letters to his wife to his participation in the Jane Voorhees Zimmerli Art 
+	 Museum's programs.  The bulk of the series consists of correspondence between Burks and others in his professional 
+	 capacities as a writer, administrator, teacher, and active researcher.  The promotion of ties between Japan and the 
+	 United States in a myriad of forms generated a substantial portion of the documents.</p>
+	 <p>In contrast, the MILITARY SERVICE FILES is a narrowly defined series concerning Burks' training and service as a 
+	 naval language and intelligence officer.  The TRAVEL FILES series is also a relatively discrete series relating to 
+	 Burks' travel throughout the world.  The majority of his peregrinations relate, albeit sometimes indirectly, to his 
+	 academic work in the form of research trips and conference travel; the <emph render="italic">Yatoi</emph> conference in Japan is particularly 
+	 prominent.  However, this series also includes documentation of purely personal excursions, such as the trip to 
+	 Belize in 1993.</p>
+	 <p>	The SUBJECT FILES series primarily consists of material documenting participation in formal academic 
+	 institutions such as professional organizations and research centers.  This material complements and intertwines 
+	 with material generated by Burks' international activities and promotion of relationships between individuals and 
+	 institutions within the United States and Japan.</p>
+	 <p>The LECTURES AND PAPERS, COLLECTED PUBLICATIONS, AND UNIVERSITY SEMINAR ON MODERN EAST ASIA: JAPAN series all 
+	 contain inter-related material generated by Burks' academic career.  The LECTURES AND PAPERS contains the broadest 
+	 range of material, including Burks' published and unpublished writings, his teaching materials, documents accrued by 
+	 Burks, and material generated by his participation in innovative academic institutions.  The SEMINAR ON MODERN EAST 
+	 ASIA: JAPAN series directly relates to one such institution, Columbia's Seminar on Modern East Asia: Japan, and 
+	 contains copies of papers circulated for the seminar from its commencement.  The COLLECTED PUBLICATIONS series is 
+	 also discrete, comprised solely of publications, in contrast to the unpublished papers collected by Burks in the 
+	 LECTURES AND PAPERS series.</p>
+	 <p>The only non-paper format materials in the collection is the PHOTOGRAPHS series.  This includes slides, prints, 
+	 negatives and a scrapbook.  Portraiture of Burks and his family, prints documenting official events, and 
+	 reproductions of Griffis-related research material constitute this series.</p>
+	 <p>Burks himself has annotated several documents within the collection.</p>
+	<p>Material concerning and generated by Jane Lyle Burks is interspersed throughout the collection.</p>     	
+	<p>Oversize materials have been stored separately.</p>						
+	<p>Newspaper clippings throughout this collection have been photocopied for preservation and the originals discarded. 
+	 However, full size newspaper pages are located in the oversize folders.</p>
+</scopecontent>
+<relatedmaterial id="a6" encodinganalog="544 1">
+<head>Related Collections Note:</head>
+<p>Material about Burks can also be found in the Griffis-Related sub-group of the William Elliot Griffis Collection (MC 1015) 
+in Special Collections and University Archives, Rutgers University Libraries.</p>  
+	 </relatedmaterial>   
+<arrangement encodinganalog="351$a"> 
+		<head>Arrangement of Collection</head> 
+		<list type="simple"> 
+		  <item>I. Personal Files, 1928-1993</item> 
+		  <item>II. Public Relations Files, 1939-1995</item> 
+		  <item>III. Military Service Files, 1939-1954</item> 
+		  <item>IV. Correspodence and Document Files, 1930-1996 </item> 
+<item>V. Travel Files, 1951-1993 </item> 
+<item>VI. Subject Files, 1949-1994</item> 
+<item>VII. Lectures and Papers, 1938-1995</item> 
+<item>VIII. Collected Publications, 1951-1992 </item> 
+<item>IX. Columbia University Seminar on Modern East Asia:  Japan, 1961-1995</item> 
+<item>X. Photographs, 1940-c.1993</item> 		  		  		  
+		</list> 
+	 </arrangement> 
+	 <dsc type="combined" id="a23"> 
+		<head>Detailed Description of the Collection</head> 
+		<c01 level="series" id="series01"> 
+		  <did> 
+			 <unittitle>I. PERSONAL FILES,  
+				<unitdate type="inclusive" era="ce" calendar="gregorian"
+				normal="1928/1993">1928-1993</unitdate></unittitle> 
+			 <physdesc><extent>(.5 cubic feet)</extent></physdesc> 
+		  </did> 
+<arrangement> 
+			 <p><emph render="boldsmcaps">Arrangement:</emph>by subject and thereunder chronologically.</p> 
+		  </arrangement> 
+		  <scopecontent> 
+			 <p><emph render="boldsmcaps">Summary:</emph>
+			 divided into academic-related and family-related material; 
+			 thereunder arranged chronologically.</p>
+	<p>Material relating to Dr. Burks' family, education, and professional activities.  The bulk of this series concerns 
+	Dr. Burks' academic career, both as a student, from high school through graduate education, and as a professional 
+	academic at Rutgers University.  Documents concerning his family include genealogical information; estate information 
+	for his brother, father, and mother-in law; and papers concerning his relationship with his wife, Jane Lyle Burks,
+	 until her death.  Document types vary, including newspaper clippings, event programs, curricula vitae, transcripts, 
+	 correspondence, cards, and legal documents. </p>
+	<p>Of interest is material generated around the outbreak of World War II, including newspaper clippings, speeches Burks
+	 gave on peace during his time at the University of Cincinnati and the University of Minnesota (1936-1942), and Burks' 
+	 work at the International Relations Bureau while at the University of Minnesota. This series also includes oversized material</p> 
+  </scopecontent> 
+<c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">1</container> 
+				<container label="Folder" type="Folder">1</container> 
+				<unittitle>Transcripts, 
+				  <unitdate calendar="gregorian" type="inclusive">1939-1948</unitdate></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">1</container> 
+				<container label="Folder" type="Folder">2-3</container> 
+				<unittitle>Norwood High School,
+				  <unitdate calendar="gregorian" type="bulk">1932 and 1982</unitdate></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">1</container> 
+				<container label="Folder" type="Folder">4-6</container> 
+				<unittitle>University of Cincinnati,
+				  <unitdate calendar="gregorian" type="inclusive">1936-1939</unitdate></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">1</container> 
+				<container label="Folder" type="Folder">7</container> 
+				<unittitle>University of Cincinnati, Tau Kappa Alpha,
+				  <unitdate calendar="gregorian"
+				  type="inclusive">1938</unitdate></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">1</container> 
+				<container label="Folder" type="Folder">8</container> 
+				<unittitle>University of Minnesota,
+				  <unitdate calendar="gregorian" type="inclusive">1939-1941</unitdate></unittitle> 
+			 </did> 
+		  </c02> 
+	  <c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">1</container> 
+				<container label="Folder" type="Folder">9-10</container> 
+				<unittitle><emph render="italic">Curricula Vitae,</emph>
+				  <unitdate calendar="gregorian" type="inclusive">1941-1994</unitdate></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">1</container> 
+				<container label="Folder" type="Folder">11-13</container> 
+				<unittitle>Rutgers Personnel Data,
+				  <unitdate calendar="gregorian"
+				  type="inclusive">1947-1981</unitdate></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">1</container> 
+				<container label="Folder" type="Folder">14</container> 
+				<unittitle>Retirement,
+				  <unitdate calendar="gregorian" type="inclusive">1981</unitdate></unittitle> 
+			 </did> 
+		  </c02> 
+<c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">2</container> 
+				<container label="Folder" type="Folder">1</container> 
+				<unittitle>Genealogy, 
+				  <unitdate calendar="gregorian" type="inclusive">1932-1944</unitdate></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">2</container> 
+				<container label="Folder" type="Folder">2</container> 
+				<unittitle>Jane Lyle's Education,
+				  <unitdate calendar="gregorian" type="bulk">1928 and 1941</unitdate></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">2</container> 
+				<container label="Folder" type="Folder">3</container> 
+				<unittitle>Burks-Lyle Marriage,
+				  <unitdate calendar="gregorian" type="inclusive">1941</unitdate></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">2</container> 
+				<container label="Folder" type="Folder">4</container> 
+				<unittitle>Family Documents,
+				  <unitdate calendar="gregorian"
+				  type="inclusive">1948</unitdate></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">2</container> 
+				<container label="Folder" type="Folder">5</container> 
+				<unittitle>Riki Burks' Adoption,
+				  <unitdate calendar="gregorian" type="inclusive">1955</unitdate></unittitle> 
+			 </did> 
+		  </c02> 
+	  <c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">2</container> 
+				<container label="Folder" type="Folder">6</container> 
+				<unittitle>Estate Papers,
+				  <unitdate calendar="gregorian" type="inclusive">1956-1978</unitdate></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">2</container> 
+				<container label="Folder" type="Folder">7</container> 
+				<unittitle>Jane Burks' Autobiography and Accompanying Material,
+				  <unitdate calendar="gregorian"
+				  type="inclusive">1986</unitdate></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">2</container> 
+				<container label="Folder" type="Folder">8-13</container> 
+				<unittitle>Jane Burks,
+				  <unitdate calendar="gregorian" type="inclusive">1989-1993</unitdate></unittitle> 
+			 </did> 
+		  </c02> 
+		</c01> 
+		<c01 level="series" id="series02"> 
+		  <did> 
+			 <unittitle>II. PUBLIC RELATIONS FILES,  
+				<unitdate type="inclusive" era="ce" calendar="gregorian"
+				normal="1939/1995">1939-1995</unitdate></unittitle> 
+			 <physdesc><extent>(2 folders)</extent></physdesc> 
+		  </did> 		
+<arrangement> 
+			 <p><emph render="boldsmcaps">Arrangement:</emph> chronological.</p> 
+		  </arrangement> 
+		  <scopecontent> 
+			 <p><emph render="boldsmcaps">Summary: </emph>
+			 arranged chronologically.</p>
+	<p>Articles and press releases either about or citing Burks.  Topics include his military service, lecture tours, 
+	renewal of ties with Japan, and reviews of his works.  </p>
+<p>	Of particular interest are articles pertaining to his role in the Doolittle raids on Tokyo during World War II, 
+and articles about the Japanese government awarding him the Order of the Rising Sun, Gold Rays with Neck Ribbon (1990).</p>
+<p>	Includes oversize material.</p>
+		  </scopecontent> 
+<c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">2</container> 
+				<container label="Folder" type="Folder">14-15</container> 
+				<unittitle>1939-1995</unittitle> 
+			 </did> 
+		  </c02> </c01>
+<c01 level="series" id="series03"> 
+		  <did> 
+			 <unittitle>III. MILITARY SERVICE FILES,  
+				<unitdate type="inclusive" era="ce" calendar="gregorian"
+				normal="1939/1954">1939-1954</unitdate></unittitle> 
+			 <physdesc><extent>(.4 cubic feet)</extent></physdesc> 
+		  </did> 		
+<arrangement> 
+			 <p><emph render="boldsmcaps">Arrangement:</emph> chronological.</p> 
+		  </arrangement> 
+		  <scopecontent> 
+			 <p><emph render="boldsmcaps">Summary: </emph>
+			 Arranged chronologically.</p>
+	<p>Material pertaining to Burks' military service.  The bulk of the documents relates to his intelligence work while 
+	in the Naval Reserves.  This series contains maps, telegraphs, correspondence, military documents, publications, 
+	class notes, personal notes, and intelligence reports.</p> 
+<p>	Information on Jane Burks' service is incorporated into this series.</p>
+<p>	Includes oversize material.</p>
+		  </scopecontent> 
+<c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">3</container> 
+				<container label="Folder" type="Folder">16</container> 
+				<unittitle>Confidential,
+				  <unitdate calendar="gregorian" type="inclusive">1941-1942</unitdate></unittitle> 
+			 </did> 
+		  </c02> 
+<c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">3</container> 
+				<container label="Folder" type="Folder">1-3</container> 
+				<unittitle>1939-1942</unittitle> 
+			 </did> 
+		  </c02> 	
+<c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">3</container> 
+				<container label="Folder" type="Folder">4-5</container> 
+				<unittitle>Desk-top Calendar Jottings,
+				  <unitdate calendar="gregorian" type="inclusive">1942</unitdate></unittitle> 
+			 </did> 
+		  </c02> 
+<c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">3</container> 
+				<container label="Folder" type="Folder">6-9</container> 
+				<unittitle>1943-1945</unittitle> 
+			 </did> 
+		  </c02> 	
+<c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">3</container> 
+				<container label="Folder" type="Folder">10</container> 
+				<unittitle>Miscellaneous,
+				  <unitdate calendar="gregorian" type="inclusive">1945</unitdate></unittitle> 
+			 </did> 
+		  </c02> 
+<c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">3</container> 
+				<container label="Folder" type="Folder">11-12</container> 
+				<unittitle>1946-1949</unittitle> 
+			 </did> 
+		  </c02> 	  	
+<c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">4</container> 
+				<container label="Folder" type="Folder">1-2</container> 
+				<unittitle>1950-1954 and Undated,</unittitle> 
+			 </did> 
+		  </c02> 		    
+		  </c01>	
+<c01 level="series" id="series04"> 
+		  <did> 
+			 <unittitle>IV. CORRESPONDENCE AND DOCUMENT FILES, 
+				<unitdate type="inclusive" era="ce" calendar="gregorian"
+				normal="1930/1996">1930-1996</unitdate></unittitle> 
+			 <physdesc><extent>(4 cubic feet)</extent></physdesc> 
+		  </did> 
+<arrangement> 
+			 <p><emph render="boldsmcaps">Arrangement:</emph> chronologically and alphabetically.</p> 
+		  </arrangement> 
+		  <scopecontent> 
+			 <p><emph render="boldsmcaps">Summary:</emph> 
+general material is arranged chronologically; topically organized material is arranged alphabetically.</p>
+<p>	Correspondence of Burks and supporting documents.  This series also contains memoranda, newspaper clippings, 
+newsletters, personal cards, and event programs.</p>  
+<p>	Burks maintained epistolary contact with a wide variety of individuals, including academic colleagues in the 
+United States and Japan, former students, administrators at Rutgers University and other institutions, 
+diplomatic personnel, and personal friends.</p>  
+<p>	Of particular interest throughout this series is information on the formation of sister ties between New Jersey 
+and the Fukui Prefecture, New Brunswick and the city of Fukui, and Rutgers University and the Fukui University.  
+Other noteworthy material pertains to Burks' efforts to create the Department of Asian Studies at Rutgers University, 
+which culminated in his appointment as the first professor of Asian Studies effective July 1, 1977, and the commencement 
+of the Institutes on Asian Cultures at Rutgers University in 1961.   Starting in 1992, Burks became active in the 
+Jane Voorhees Zimmerli Art Museum, including sitting on the Board of Directors for the Friends of the 
+Zimmerli Art Museum. </p> 
+<p>	Interspersed throughout this series is material by or about Jane Burks and her activities.</p>
+<p> 	Includes oversize material.</p>				 
+		  </scopecontent> 
+<c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">4</container> 
+				<container label="Folder" type="Folder">3-16</container> 
+				<unittitle>General, 
+				  <unitdate calendar="gregorian" type="inclusive">1930-1953</unitdate></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">5-14</container> 
+				<unittitle>General,
+				  <unitdate calendar="gregorian" type="inclusive">1953-1995</unitdate></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">15</container> 
+				<container label="Folder" type="Folder">1-5</container> 
+				<unittitle>General,
+				  <unitdate calendar="gregorian" type="bulk">1995-1996 and Undated</unitdate></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">15</container> 
+				<container label="Folder" type="Folder">6</container> 
+				<unittitle>Arbor Glen of Bridgewater,
+				  <unitdate calendar="gregorian"
+				  type="inclusive">1989-1994</unitdate></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">15</container> 
+				<container label="Folder" type="Folder">7</container> 
+				<unittitle>Bonn, George - Correspondence, 
+				  <unitdate calendar="gregorian" type="inclusive">1985-1991</unitdate></unittitle> 
+			 </did> 
+		  </c02> 
+	  <c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">15</container> 
+				<container label="Folder" type="Folder">8</container> 
+				<unittitle>Book Notes, 
+				  <unitdate calendar="gregorian" type="bulk" normal="1954">circa 1954</unitdate></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">15</container> 
+				<container label="Folder" type="Folder">9-10</container> 
+				<unittitle>Kaneko, Tadashi - Correspondence, 
+				  <unitdate calendar="gregorian"
+				  type="inclusive">1969-1977</unitdate></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">15</container> 
+				<container label="Folder" type="Folder">11</container> 
+				<unittitle>Matsumura, Mayoshi; Japan Foundation - Correspondence, 
+				  <unitdate calendar="gregorian" type="bulk">1986-1989</unitdate></unittitle> 
+			 </did> 
+		  </c02> 
+<c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">15</container> 
+				<container label="Folder" type="Folder">12</container> 
+				<unittitle>Miki, Yukiharu - Memorial Papers, 
+				  <unitdate calendar="gregorian" type="inclusive">1965</unitdate></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">15</container> 
+				<container label="Folder" type="Folder">13-14</container> 
+				<unittitle>Shibata, Tokue - Correspondence, 
+				  <unitdate calendar="gregorian" type="inclusive">1966-1978</unitdate></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">15</container> 
+				<container label="Folder" type="Folder">15-16</container> 
+				<unittitle>Tanabe, Tatsuro; International House, Tokyo - Correspondence,					
+				  <unitdate calendar="gregorian" type="inclusive">1969-1974 and 1983-1988</unitdate></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">15</container> 
+				<container label="Folder" type="Folder">17</container> 
+				<unittitle>Yim, Yong Soon - Correspondence, 
+				  <unitdate calendar="gregorian"
+				  type="inclusive">1971-1975</unitdate></unittitle> 
+			 </did> 
+		  </c02> 
+		</c01> 	
+<c01 level="series" id="series05"> 
+		  <did> 
+			 <unittitle>V. TRAVEL FILES, 
+				<unitdate type="inclusive" era="ce" calendar="gregorian"
+				normal="1951/1993">1951-1993</unitdate></unittitle> 
+			 <physdesc><extent>(1 cubic feet)</extent></physdesc> 
+		  </did> 
+<arrangement> 
+			 <p><emph render="boldsmcaps">Arrangement:</emph> chronological.</p> 
+		  </arrangement> 
+		  <scopecontent> 
+			 <p><emph render="boldsmcaps">Summary:</emph>
+ arranged chronologically.</p>
+<p>	Material pertaining to Burks' travel to Europe, Asia, and South America. The majority of his trips were for 
+professional reasons: to participate in conferences, to engage in research, or to represent Rutgers or New Brunswick 
+in Fukui.  Document types include correspondence, memoranda, itineraries, brochures, and programs.  </p>
+	<p>This series contains material generated by the Second International Symposium on <emph render="italic">Yatoi</emph> (1985), for which Burks 
+	served as an honorary chairman, including unpublished and published conference papers.  </p>
+<p>	Includes oversize material.</p>			
+		  </scopecontent> 
+<c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">16</container> 
+				<container label="Folder" type="Folder">1</container> 
+				<unittitle>Japan, 
+				  <unitdate calendar="gregorian" type="inclusive">1951-1952</unitdate></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">16</container> 
+				<container label="Folder" type="Folder">2</container> 
+				<unittitle>Hong Kong,
+				  <unitdate calendar="gregorian" type="inclusive">1953</unitdate></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">16</container> 
+				<container label="Folder" type="Folder">3</container> 
+				<unittitle>Japan,
+				  <unitdate calendar="gregorian" type="inclusive">1958-1959</unitdate></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">16</container> 
+				<container label="Folder" type="Folder">4-6</container> 
+				<unittitle>Japan,
+				  <unitdate calendar="gregorian"
+				  type="inclusive">1965</unitdate></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">16</container> 
+				<container label="Folder" type="Folder">7</container> 
+				<unittitle>Bermuda,
+				  <unitdate calendar="gregorian" type="inclusive">1968</unitdate></unittitle> 
+			 </did> 
+		  </c02> 
+	  <c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">16</container> 
+				<container label="Folder" type="Folder">8-9</container> 
+				<unittitle>Japan,
+				  <unitdate calendar="gregorian" type="inclusive">1970</unitdate></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">16</container> 
+				<container label="Folder" type="Folder">10</container> 
+				<unittitle>Japan,
+				  <unitdate calendar="gregorian"
+				  type="inclusive">1973</unitdate></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">16</container> 
+				<container label="Folder" type="Folder">11-13</container> 
+				<unittitle>Japan,
+				  <unitdate calendar="gregorian" type="inclusive"></unitdate>1978</unittitle> 
+			 </did> 
+		  </c02> 
+<c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">17</container> 
+				<container label="Folder" type="Folder">1-3</container> 
+				<unittitle>Japan and China, 
+				  <unitdate calendar="gregorian" type="inclusive">1970</unitdate></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">17</container> 
+				<container label="Folder" type="Folder">4</container> 
+				<unittitle>Mexico,
+				  <unitdate calendar="gregorian" type="inclusive">1980</unitdate></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">17</container> 
+				<container label="Folder" type="Folder">5-6</container> 
+				<unittitle>Japan,
+				  <unitdate calendar="gregorian" type="inclusive">1982</unitdate></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">17</container> 
+				<container label="Folder" type="Folder">7</container> 
+				<unittitle>Mediterranean,
+				  <unitdate calendar="gregorian"
+				  type="inclusive">1982</unitdate></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">17</container> 
+				<container label="Folder" type="Folder">8</container> 
+				<unittitle>USSR,
+				  <unitdate calendar="gregorian" type="inclusive">1984</unitdate></unittitle> 
+			 </did> 
+		  </c02> 
+	  <c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">17</container> 
+				<container label="Folder" type="Folder">9</container> 
+				<unittitle>Japan, pre-<emph render="italic">Yatoi</emph> Conference,
+				  <unitdate calendar="gregorian" type="inclusive">1985</unitdate></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">17</container> 
+				<container label="Folder" type="Folder">10-11</container> 
+				<unittitle>Japan, <emph render="italic">Yatoi</emph> Conference,
+				  <unitdate calendar="gregorian"
+				  type="inclusive">1985</unitdate></unittitle> 
+			 </did> 
+		  </c02> 
+<c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">18</container> 
+				<container label="Folder" type="Folder">1-2</container> 
+				<unittitle>Japan, post- <emph render="italic">Yatoi</emph> Conference, 
+				  <unitdate calendar="gregorian" type="inclusive">1985-1988</unitdate></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">18</container> 
+				<container label="Folder" type="Folder">3</container> 
+				<unittitle>Aspen,
+				  <unitdate calendar="gregorian" type="inclusive">1986</unitdate></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">18</container> 
+				<container label="Folder" type="Folder">4</container> 
+				<unittitle>Alaska,
+				  <unitdate calendar="gregorian" type="inclusive">1986</unitdate></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">18</container> 
+				<container label="Folder" type="Folder">5</container> 
+				<unittitle>Japan,
+				  <unitdate calendar="gregorian"
+				  type="inclusive">1988</unitdate></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">18</container> 
+				<container label="Folder" type="Folder">6</container> 
+				<unittitle>Helsinki, Stockholm, Leningrad,
+				  <unitdate calendar="gregorian" type="inclusive" normal="1989">1989</unitdate></unittitle> 
+			 </did> 
+		  </c02> 
+	  <c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">18</container> 
+				<container label="Folder" type="Folder">7</container> 
+				<unittitle>Unknown,
+				  <unitdate calendar="gregorian" type="inclusive">1990</unitdate></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">18</container> 
+				<container label="Folder" type="Folder">8</container> 
+				<unittitle>Japan,
+				  <unitdate calendar="gregorian"
+				  type="inclusive">1992-1993</unitdate></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">18</container> 
+				<container label="Folder" type="Folder">9</container> 
+				<unittitle>Japan,
+				  <unitdate calendar="gregorian" type="inclusive">1978</unitdate></unittitle> 
+			 </did> 
+		  </c02> 
+<c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">18</container> 
+				<container label="Folder" type="Folder">10</container> 
+				<unittitle>Travel Retrospective, 
+				  <unitdate calendar="gregorian" type="inclusive">1994</unitdate></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">18</container> 
+				<container label="Folder" type="Folder">11</container> 
+				<unittitle>Anguilla,
+				  <unitdate calendar="gregorian" type="inclusive">1995</unitdate></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">18</container> 
+				<container label="Folder" type="Folder">12</container> 
+				<unittitle>Japan,
+				  <unitdate calendar="gregorian" type="inclusive">Undated</unitdate></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">18</container> 
+				<container label="Folder" type="Folder">13</container> 
+				<unittitle>China,
+				  <unitdate calendar="gregorian"
+				  type="inclusive">Undated</unitdate></unittitle> 
+			 </did> 
+		  </c02>		 
+		</c01> 
+<c01 level="series" id="series06"> 
+		  <did> 
+			 <unittitle>VI. SUBJECT FILES,  
+				<unitdate type="inclusive" era="ce" calendar="gregorian"
+				normal="1949/1994">1949-1994</unitdate></unittitle> 
+			 <physdesc><extent>(2.3 cubic feet)</extent></physdesc> 
+		  </did> 
+<arrangement> 
+			 <p><emph render="boldsmcaps">Arrangement:</emph> by subject and thereunder chronologically.</p> 
+		  </arrangement> 
+		  <scopecontent> 
+			 <p><emph render="boldsmcaps">Summary:</emph>
+ arranged alphabetically by subject and thereunder chronologically.</p>
+<p>	This series contains material concerning Burks' involvement in organizations and academic endeavors.  
+Said activities included promoting the ties between New Jersey and Japan through the Sister State, City, and University 
+programs and attendant activities; organizing conferences both within and external to Rutgers University; and active 
+membership in organizations such as the American Association of University Professors (AAUP), the Association for Asian 
+Studies (AAS), and the New Jersey Association of Colleges and Universities (NJACU).  The bulk of the documents are 
+correspondence.  Additional document types include newspaper articles, press releases, meeting minutes, newsletters, 
+memoranda, grant searches, and event programs.</p>
+<p>Material of interest includes documents on the dismissal of Rutgers' professors Heimlich, Finley, and Glasser during 
+the McCarthy era, and on the New Jersey loyalty oaths in the 1950s (found in the AAUP files).</p>  
+<p>Includes oversize material.</p>		
+		  </scopecontent> 
+<c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">18</container> 
+				<container label="Folder" type="Folder">14</container> 
+				<unittitle>American Association of University Professors, 
+				  <unitdate calendar="gregorian" type="inclusive">1949-1960</unitdate></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">18</container> 
+				<container label="Folder" type="Folder">15</container> 
+				<unittitle>Association for Asian Studies (AAS); Northeast Asia Regional
+					Council of the AAS (NEARC); Mid-Atlantic Region AAS
+					(MAR), 
+				  <unitdate calendar="gregorian" type="inclusive">1972-1990</unitdate></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">16</container> 
+				<container label="Folder" type="Folder">3</container> 
+				<unittitle>Japan,
+				  <unitdate calendar="gregorian" type="inclusive">1958-1959</unitdate></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">19</container> 
+				<container label="Folder" type="Folder">1-2</container> 
+				<unittitle>AAS; NEARC; MAR, 
+				  <unitdate calendar="gregorian"
+				  type="inclusive">1972-1990</unitdate></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">19</container> 
+				<container label="Folder" type="Folder">3-4</container> 
+				<unittitle>Cincinnati Council on World Affairs, 
+				  <unitdate calendar="gregorian" type="inclusive">1966-1973</unitdate></unittitle> 
+			 </did> 
+		  </c02> 
+	  <c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">19</container> 
+				<container label="Folder" type="Folder">5</container> 
+				<unittitle>Consultation on International Exchange, 
+				  <unitdate calendar="gregorian" type="inclusive">1967</unitdate></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">19</container> 
+				<container label="Folder" type="Folder">6</container> 
+				<unittitle>Council on International Educational Exchange, 
+				  <unitdate calendar="gregorian"
+				  type="inclusive">1970-1974</unitdate></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">19</container> 
+				<container label="Folder" type="Folder">7-12</container> 
+				<unittitle>Fukui,
+				  <unitdate calendar="gregorian" type="inclusive">1965-1985</unitdate></unittitle> 
+			 </did> 
+		  </c02> 
+<c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">19</container> 
+				<container label="Folder" type="Folder">13-14</container> 
+				<unittitle>Fukui, 
+				  <unitdate calendar="gregorian" type="inclusive">1995</unitdate></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">20</container> 
+				<container label="Folder" type="Folder">1</container> 
+				<unittitle>Fulbright-Hiags Programs,
+				  <unitdate calendar="gregorian" type="inclusive">1966</unitdate></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">20</container> 
+				<container label="Folder" type="Folder">2</container> 
+				<unittitle>Hemlich, Finley, and Glasser Cases, 
+				  <unitdate calendar="gregorian" type="inclusive">1953-1958</unitdate></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">20</container> 
+				<container label="Folder" type="Folder">3-5</container> 
+				<unittitle>International Center for Japonisme Conference, 
+				  <unitdate calendar="gregorian"
+				  type="inclusive">1988-1989</unitdate></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">20</container> 
+				<container label="Folder" type="Folder">6-7</container> 
+				<unittitle>International Center for Japonisme, 
+				  <unitdate calendar="gregorian" type="inclusive">1991-1994</unitdate></unittitle> 
+			 </did> 
+		  </c02> 
+	  <c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">21</container> 
+				<container label="Folder" type="Folder">1-2</container> 
+				<unittitle>International Education, 
+				  <unitdate calendar="gregorian" type="inclusive">1965</unitdate></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">21</container> 
+				<container label="Folder" type="Folder">3</container> 
+				<unittitle>International Education,
+				  <unitdate calendar="gregorian"
+				  type="inclusive">1967-1977</unitdate></unittitle> 
+			 </did> 
+		  </c02> 
+<c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">21</container> 
+				<container label="Folder" type="Folder">4</container> 
+				<unittitle>International Education,
+				  <unitdate calendar="gregorian" type="inclusive">1972</unitdate></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">21</container> 
+				<container label="Folder" type="Folder">5</container> 
+				<unittitle>International Education,
+				  <unitdate calendar="gregorian" type="inclusive">1981</unitdate></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">21</container> 
+				<container label="Folder" type="Folder">6</container> 
+				<unittitle>Jane Burks' Speech on Child Welfare, 
+				  <unitdate calendar="gregorian" type="inclusive">1952</unitdate></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">21</container> 
+				<container label="Folder" type="Folder">7-9</container> 
+				<unittitle>Jane Burks' Notes and Translations on Childcare in Japan, 
+				  <unitdate calendar="gregorian"
+				  type="inclusive">1952-1953</unitdate></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">21</container> 
+				<container label="Folder" type="Folder">10</container> 
+				<unittitle>Jane Burks' Paper on Families, 
+				  <unitdate calendar="gregorian" type="inclusive">Undated</unitdate></unittitle> 
+			 </did> 
+		  </c02> 
+	  <c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">21</container> 
+				<container label="Folder" type="Folder">11-13</container> 
+				<unittitle>Japanese Bankers Program, 
+				  <unitdate calendar="gregorian" type="inclusive">1974</unitdate></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">22</container> 
+				<container label="Folder" type="Folder">1-2</container> 
+				<unittitle> Japan Foundation, 
+				  <unitdate calendar="gregorian"
+				  type="inclusive">1973-1980</unitdate></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">22</container> 
+				<container label="Folder" type="Folder">3-6</container> 
+				<unittitle>Japan Scholarship Foundation, 
+				  <unitdate calendar="gregorian" type="inclusive">1950-1966 </unitdate></unittitle> 
+			 </did> 
+		  </c02> 
+<c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">22</container> 
+				<container label="Folder" type="Folder">7-8</container> 
+				<unittitle> New Jersey Association of Colleges and Universities (NJACU),
+					 Memos and Policies,  
+				  <unitdate calendar="gregorian" type="inclusive">1974-1978</unitdate></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">22</container> 
+				<container label="Folder" type="Folder">9</container> 
+				<unittitle>NJACU, Books, Commission General, 
+				  <unitdate calendar="gregorian" type="inclusive">1976-1978</unitdate></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">22</container> 
+				<container label="Folder" type="Folder">10-11</container> 
+				<unittitle>NJACU Meeting Minutes, 
+				  <unitdate calendar="gregorian" type="inclusive">1976-1979</unitdate></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">22</container> 
+				<container label="Folder" type="Folder">12</container> 
+				<unittitle>NJACU Newsletters, 
+				  <unitdate calendar="gregorian"
+				  type="inclusive">1977-1978</unitdate></unittitle> 
+			 </did> 
+		  </c02>	
+ <c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">22</container> 
+				<container label="Folder" type="Folder">13</container> 
+				<unittitle>Ohara School of Flower Arrangement,  
+				  <unitdate calendar="gregorian"
+				  type="inclusive">Undated</unitdate></unittitle> 
+			 </did> 
+		  </c02>	
+	  <c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">23</container> 
+				<container label="Folder" type="Folder">1</container> 
+				<unittitle>Report on College of Arts and Sciences Self-Study, 
+				  <unitdate calendar="gregorian" type="inclusive">1953</unitdate></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">23</container> 
+				<container label="Folder" type="Folder">2</container> 
+				<unittitle>Robins-Mowry Manuscript, <emph render="italic">The Hidden Sun</emph>, 
+				  <unitdate calendar="gregorian" type="inclusive">1981</unitdate></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">23</container> 
+				<container label="Folder" type="Folder">3</container> 
+				<unittitle>Sister Cities, 
+				  <unitdate calendar="gregorian"
+				  type="inclusive">1977</unitdate></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">23</container> 
+				<container label="Folder" type="Folder">4-11</container> 
+				<unittitle>Sister Cities, 
+				  <unitdate calendar="gregorian" type="inclusive">1985-1993</unitdate></unittitle> 
+			 </did> 
+		  </c02> 
+	  <c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">24</container> 
+				<container label="Folder" type="Folder">1-2</container> 
+				<unittitle>Sister Cities, 
+				  <unitdate calendar="gregorian" type="bulk">1994 and Undated</unitdate></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">24</container> 
+				<container label="Folder" type="Folder">3</container> 
+				<unittitle>Sister Cities, Hungary, 
+				  <unitdate calendar="gregorian"
+				  type="inclusive">1992 </unitdate></unittitle> 
+			 </did> 
+		  </c02> 
+<c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">24</container> 
+				<container label="Folder" type="Folder">4</container> 
+				<unittitle>Tokyo Metropolitan Institute of Municipal Research,  
+				  <unitdate calendar="gregorian" type="inclusive">1965-1966</unitdate></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">24</container> 
+				<container label="Folder" type="Folder">5</container> 
+				<unittitle>Toyota Foundation,  
+				  <unitdate calendar="gregorian" type="inclusive">1978</unitdate></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">24</container> 
+				<container label="Folder" type="Folder">6</container> 
+				<unittitle>United Nations Conference, 
+				  <unitdate calendar="gregorian" type="inclusive">1972</unitdate></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">24</container> 
+				<container label="Folder" type="Folder">7-8</container> 
+				<unittitle>University of Hawaii, 
+				  <unitdate calendar="gregorian"
+				  type="inclusive">1976-1984</unitdate></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">24</container> 
+				<container label="Folder" type="Folder">9</container> 
+				<unittitle><emph render="italic">Yatoi </emph>Conference: Programs and Proposals, 
+				  <unitdate calendar="gregorian" type="inclusive">1983-1985</unitdate></unittitle> 
+			 </did> 
+		  </c02> 
+	  <c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">24</container> 
+				<container label="Folder" type="Folder">10-11</container> 
+				<unittitle><emph render="italic">Yatoi </emph>Conference, 
+				  <unitdate calendar="gregorian" type="inclusive">1983-December 1984</unitdate></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">25</container> 
+				<container label="Folder" type="Folder">1-3</container> 
+				<unittitle><emph render="italic">Yatoi </emph>Conference, 
+				  <unitdate calendar="gregorian"
+				  type="inclusive">1985</unitdate></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">25</container> 
+				<container label="Folder" type="Folder">4</container> 
+				<unittitle>Miscellaneous Correspondence, 
+				  <unitdate calendar="gregorian" type="inclusive" normal="1979">circa 1979</unitdate></unittitle> 
+			 </did> 
+		  </c02> 
+<c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">25</container> 
+				<container label="Folder" type="Folder">5-6</container> 
+				<unittitle>Miscellaneous Griffis, Kusakabe Research,  
+				  <unitdate calendar="gregorian" type="inclusive">Undated</unitdate></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">25</container> 
+				<container label="Folder" type="Folder">7</container> 
+				<unittitle>Miscellaneous Material Japanese Language, 
+				  <unitdate calendar="gregorian" type="inclusive">Undated</unitdate></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">25</container> 
+				<container label="Folder" type="Folder">8-9</container> 
+				<unittitle>Miscellaneous Material,  
+				  <unitdate calendar="gregorian" type="inclusive">Undated</unitdate></unittitle> 
+			 </did> 
+		  </c02> 	</c01> 
+<c01 level="series" id="series07"> 
+		  <did> 
+			 <unittitle>VII. LECTURES AND PAPERS, 
+				<unitdate type="inclusive" era="ce" calendar="gregorian"
+				normal="1938/1995">1938-1995</unitdate></unittitle> 
+			 <physdesc><extent>(3.6 cubic feet)</extent></physdesc> 
+		  </did> 
+<arrangement> 
+			 <p><emph render="boldsmcaps">Arrangement:</emph> by subject.</p> 
+		  </arrangement> 
+		  <scopecontent> 
+			 <p><emph render="boldsmcaps">Summary:</emph>
+ grouped by subject.</p>
+<p>Material generated by or pertaining to Burks' scholarly pursuits within academia.  This series includes articles, 
+published and unpublished, authored by Burks; documentation relating to panels and conferences in which Burks 
+participated, including papers and abstracts; material from Burks' public speaking engagements; teaching materials 
+utilized by Burks; material from the New Jersey Seminar on Asian Studies (1962) and Columbia's University Seminar on 
+Modern East Asia: Japan (1969-1990); papers, articles, and book chapters accrued by Burks, although he did not author 
+them.  Document formats include correspondence, lectures, articles, programs, memoranda, publication drafts, itineraries, 
+newspaper clippings, course materials, abstracts, event programs, and dissertation abstracts and chapters.</p>
+<p>Each subject grouping also contains miscellaneous documentation, such as itineraries for speaking engagements or 
+correspondence with editors of publications.  The folders relating to the New Jersey Seminar on Asian Studies contains 
+working drafts of papers presented by various scholars within the seminar.</p>    
+<p>There are several documents of interest within this series.  In 1993, Burks wrote a retrospective commentary 
+accompanying his 1958 (unpublished) article, "Understanding Asia," which sketches some of his thoughts regarding his 
+career and the development of Asian Studies as a discipline.  The teaching materials include documentation of the 
+"Traditions and Transition in Asia" course, the first East Asian course offered at Rutgers University.  Amongst the 
+materials by others which Burks collected is a pamphlet distributed by the American Committee for Non-Participation in 
+Japanese Aggression (1939) and "Academic Reorganization in New Brunswick, 1962-1978: The Federated College Plan" by 
+Richard McCormick (1978).</p> 		 
+<p>Includes oversize material.</p>
+</scopecontent>
+		  <c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">25</container> 
+				<container label="Folder" type="Folder">10</container> 
+				<unittitle>Articles Published, 
+				  <unitdate calendar="gregorian"
+				  type="inclusive">1940-1941</unitdate></unittitle> 
+			 </did> 
+		  </c02>	
+ <c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">25</container> 
+				<container label="Folder" type="Folder">11</container> 
+				<unittitle>Articles Published, 
+				  <unitdate calendar="gregorian"
+				  type="inclusive">1946-1958</unitdate></unittitle> 
+			 </did> 
+		  </c02>	
+		  <c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">26</container> 
+				<container label="Folder" type="Folder">1-4</container> 
+				<unittitle>Articles Published, 
+				  <unitdate calendar="gregorian"
+				  type="inclusive">1940-1941</unitdate></unittitle> 
+			 </did> 
+		  </c02>	
+ <c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">26</container> 
+				<container label="Folder" type="Folder">5-6</container> 
+				<unittitle>Articles Published, 
+				  <unitdate calendar="gregorian"
+				  type="inclusive">1958-1970</unitdate></unittitle> 
+			 </did> 
+		  </c02>	
+	  <c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">26</container> 
+				<container label="Folder" type="Folder">7</container> 
+				<unittitle>Articles: Enola Gay, 
+				  <unitdate calendar="gregorian"
+				  type="inclusive">1995</unitdate></unittitle> 
+			 </did> 
+		  </c02>	
+ <c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">26</container> 
+				<container label="Folder" type="Folder">8-10</container> 
+				<unittitle>Book Reviews,
+				  <unitdate calendar="gregorian"
+				  type="inclusive">1948-1992</unitdate></unittitle> 
+			 </did> 
+		  </c02>	
+		  <c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">27</container> 
+				<container label="Folder" type="Folder">1-2</container> 
+				<unittitle>Book Reviews,<emph render="italic"> Asian American Review,</emph> 
+				  <unitdate calendar="gregorian"
+				  type="inclusive">1984-1993 </unitdate></unittitle> 
+			 </did> 
+		  </c02>	
+ <c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">27</container> 
+				<container label="Folder" type="Folder">3-5</container> 
+				<unittitle>Book Reviews,<emph render="italic"> American Historical Review,</emph> 
+				  <unitdate calendar="gregorian"
+				  type="inclusive">1963-1980</unitdate></unittitle> 
+			 </did> 
+		  </c02>
+	  <c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">27</container> 
+				<container label="Folder" type="Folder">6</container> 
+				<unittitle>Book Reviews,<emph render="italic"> Choice,</emph>
+				  <unitdate calendar="gregorian"
+				  type="inclusive">1965-1982</unitdate></unittitle> 
+			 </did> 
+		  </c02>	
+ <c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">27</container> 
+				<container label="Folder" type="Folder">7</container> 
+				<unittitle>Book Reviews,<emph render="italic"> Infantry Journal,</emph> 
+				  <unitdate calendar="gregorian"
+				  type="inclusive" normal="1944-1947">circa 1944-1947</unitdate></unittitle> 
+			 </did> 
+		  </c02>	
+		  <c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">27</container> 
+				<container label="Folder" type="Folder">8</container> 
+				<unittitle>Book Reviews,<emph render="italic"> Journal of Asian Studies,</emph> 
+				  <unitdate calendar="gregorian"
+				  type="inclusive">1963 </unitdate></unittitle> 
+			 </did> 
+		  </c02>	
+ <c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">27</container> 
+				<container label="Folder" type="Folder">9-10</container> 
+				<unittitle>Book Reviews,<emph render="italic"> Perspective,</emph> 
+				  <unitdate calendar="gregorian"
+				  type="inclusive">1978-1992 </unitdate></unittitle> 
+			 </did> 
+		  </c02>	
+	  <c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">27</container> 
+				<container label="Folder" type="Folder">11-12</container> 
+				<unittitle><emph render="italic">Encyclopedia Americana,</emph> 
+				  <unitdate calendar="gregorian"
+				  type="inclusive">1973-1994</unitdate></unittitle> 
+			 </did> 
+		  </c02>	
+ <c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">27</container> 
+				<container label="Folder" type="Folder">13-15</container> 
+				<unittitle><emph render="italic">Encyclopedia Britannica,</emph> 
+				  <unitdate calendar="gregorian"
+				  type="inclusive">1958-1995 and Undated</unitdate></unittitle> 
+			 </did> 
+		  </c02>	
+		  <c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">27</container> 
+				<container label="Folder" type="Folder">16</container> 
+				<unittitle><emph render="italic">World Book Encyclopedia</emph> Tear Sheets, 
+				  <unitdate calendar="gregorian"
+				  type="inclusive">1963</unitdate></unittitle> 
+			 </did> 
+		  </c02>	
+ <c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">27</container> 
+				<container label="Folder" type="Folder">17</container> 
+				<unittitle><emph render="italic">Japan Society,</emph>
+				  <unitdate calendar="gregorian"
+				  type="inclusive">1907-1982, 1982</unitdate></unittitle> 
+			 </did> 
+		  </c02>
+	  <c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">27</container> 
+				<container label="Folder" type="Folder">18</container> 
+				<unittitle>Publication Announcements, 
+				  <unitdate calendar="gregorian"
+				  type="inclusive">1949, 1956 and 1984-1986</unitdate></unittitle> 
+			 </did> 
+		  </c02>	
+ <c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">27</container> 
+				<container label="Folder" type="Folder">19</container> 
+				<unittitle>Reviews of Burks' Works, 
+				  <unitdate calendar="gregorian"
+				  type="inclusive">1954-1994</unitdate></unittitle> 
+			 </did> 
+		  </c02>	
+		  <c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">27</container> 
+				<container label="Folder" type="Folder">20</container> 
+				<unittitle>Westview Press Correspondence, 
+				  <unitdate calendar="gregorian"
+				  type="inclusive">1982-1984</unitdate></unittitle> 
+			 </did> 
+		  </c02>	
+ <c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">27</container> 
+				<container label="Folder" type="Folder">21</container> 
+				<unittitle>Westview Press Correspondence, 
+				  <unitdate calendar="gregorian"
+				  type="inclusive">1987-1991</unitdate></unittitle> 
+			 </did> 
+		  </c02>	
+	  <c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">28</container> 
+				<container label="Folder" type="Folder">1-2</container> 
+				<unittitle>Articles Unpublished, 
+				  <unitdate calendar="gregorian"
+				  type="inclusive">1941-1993</unitdate></unittitle> 
+			 </did> 
+		  </c02>	
+ <c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">28</container> 
+				<container label="Folder" type="Folder">3</container> 
+				<unittitle>Articles Unpublished, "Understanding Asia," 
+				  <unitdate calendar="gregorian"
+				  type="inclusive">1958, 1993</unitdate></unittitle> 
+			 </did> 
+		  </c02>	
+		  <c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">28</container> 
+				<container label="Folder" type="Folder">4-8</container> 
+				<unittitle>Miscellaneous Papers, 
+				  <unitdate calendar="gregorian"
+				  type="inclusive">1947-1981 and Undated</unitdate></unittitle> 
+			 </did> 
+		  </c02>	
+ <c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">28</container> 
+				<container label="Folder" type="Folder">9-10</container> 
+				<unittitle>Reader Reports, 
+				  <unitdate calendar="gregorian"
+				  type="inclusive">1961-1984</unitdate></unittitle> 
+			 </did> 
+		  </c02>
+	  <c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">29</container> 
+				<container label="Folder" type="Folder">1</container> 
+				<unittitle>Reader Reports, 
+				  <unitdate calendar="gregorian"
+				  type="inclusive">1970 and 1972</unitdate></unittitle> 
+			 </did> 
+		  </c02>	
+ <c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">29</container> 
+				<container label="Folder" type="Folder">2</container> 
+				<unittitle>Reader Reports, 
+				  <unitdate calendar="gregorian"
+				  type="inclusive">1985-1992</unitdate></unittitle> 
+			 </did> 
+		  </c02>	
+		  <c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">29</container> 
+				<container label="Folder" type="Folder">3-9</container> 
+				<unittitle>Papers and Panels, 
+				  <unitdate calendar="gregorian"
+				  type="inclusive">1950-1982</unitdate></unittitle> 
+			 </did> 
+		  </c02>	
+ <c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">29</container> 
+				<container label="Folder" type="Folder">10-12</container> 
+				<unittitle>Papers and Panels, 
+					  <unitdate calendar="gregorian"
+				  type="inclusive">1987-1992</unitdate></unittitle> 
+			 </did> 
+		  </c02>	
+	  <c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">29</container> 
+				<container label="Folder" type="Folder">13</container> 
+				<unittitle>Papers and Panels: Commentary, 
+				  <unitdate calendar="gregorian"
+				  type="inclusive">Undated</unitdate></unittitle> 
+			 </did> 
+		  </c02>	
+ <c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">29</container> 
+				<container label="Folder" type="Folder">14</container> 
+				<unittitle> Papers and Panels: Japan Panel Discussant at AHA, 
+				  <unitdate calendar="gregorian"
+				  type="inclusive">1950</unitdate></unittitle> 
+			 </did> 
+		  </c02>	
+		  <c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">29</container> 
+				<container label="Folder" type="Folder">15</container> 
+				<unittitle>Papers and Panels: Council on Foreign Relations, 	
+<unitdate calendar="gregorian"
+				  type="inclusive">1956</unitdate></unittitle> 
+			 </did> 
+		  </c02>	
+ <c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">29</container> 
+				<container label="Folder" type="Folder">16</container> 
+				<unittitle>Papers and Panels: Conference on Japanese Foreign Policy, 
+				  <unitdate calendar="gregorian"
+				  type="inclusive">1963</unitdate></unittitle> 
+			 </did> 
+		  </c02>
+  <c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">30</container> 
+				<container label="Folder" type="Folder">1</container> 
+				<unittitle>Papers and Panels: LUCE Workshop on Japanese-American Relations, 	
+				  <unitdate calendar="gregorian"
+				  type="inclusive">1979</unitdate></unittitle> 
+			 </did> 
+		  </c02>	
+ <c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">30</container> 
+				<container label="Folder" type="Folder">2</container> 
+				<unittitle>Papers and Panels: Fourth Conference, WCCES, 
+				  <unitdate calendar="gregorian"
+				  type="inclusive">1980</unitdate></unittitle> 
+			 </did> 
+		  </c02>	
+		  <c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">30</container> 
+				<container label="Folder" type="Folder">3</container> 
+				<unittitle>Papers and Panels: Commentary, 
+				  <unitdate calendar="gregorian"
+				  type="inclusive">1979</unitdate></unittitle> 
+			 </did> 
+		  </c02>	
+ <c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">30</container> 
+				<container label="Folder" type="Folder">4</container> 
+				<unittitle>Papers and Panels: Commentary, 
+				  <unitdate calendar="gregorian"
+				  type="inclusive">1982</unitdate></unittitle> 
+			 </did> 
+		  </c02>	
+	  <c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">30</container> 
+				<container label="Folder" type="Folder">5-14</container> 
+				<unittitle>Lectures, 
+				  <unitdate calendar="gregorian"
+				  type="inclusive">1940-1974</unitdate></unittitle> 
+			 </did> 
+		  </c02>	
+ <c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">31</container> 
+				<container label="Folder" type="Folder">1-8</container> 
+				<unittitle>Lectures, 
+				  <unitdate calendar="gregorian"
+				  type="inclusive">1975-1995 and Undated</unitdate></unittitle> 
+			 </did> 
+		  </c02>	
+		  <c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">31</container> 
+				<container label="Folder" type="Folder">9</container> 
+				<unittitle>Lectures: Japan, 
+				  <unitdate calendar="gregorian"
+				  type="inclusive">1958-1959</unitdate></unittitle> 
+			 </did> 
+		  </c02>	
+ <c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">31</container> 
+				<container label="Folder" type="Folder">10</container> 
+				<unittitle>Lectures: RU-ALL, 
+				  <unitdate calendar="gregorian"
+				  type="inclusive">1996</unitdate></unittitle> 
+			 </did> 
+		  </c02>
+	  <c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">31</container> 
+				<container label="Folder" type="Folder">11</container> 
+				<unittitle>Television Appearances, 
+				  <unitdate calendar="gregorian"
+				  type="inclusive">1967-1968</unitdate></unittitle> 
+			 </did> 
+		  </c02>	
+ <c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">32</container> 
+				<container label="Folder" type="Folder">1-8</container> 
+				<unittitle>Teaching Materials,
+	  <unitdate calendar="gregorian"
+				  type="inclusive">1948-1993 and Undated</unitdate></unittitle> 
+			 </did> 
+		  </c02>	
+		  <c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">32</container> 
+				<container label="Folder" type="Folder">9</container> 
+				<unittitle>Teaching Materials: University of Michigan Center for Japanese Studies, 	
+				  <unitdate calendar="gregorian"
+				  type="inclusive">1954</unitdate></unittitle> 
+			 </did> 
+		  </c02>	
+ <c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">32</container> 
+				<container label="Folder" type="Folder">10</container> 
+				<unittitle>Teaching Materials: Summer Institute, Delaware, 
+				  <unitdate calendar="gregorian"
+				  type="inclusive">1956</unitdate></unittitle> 
+			 </did> 
+		  </c02>	
+	  <c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">32</container> 
+				<container label="Folder" type="Folder">11</container> 
+				<unittitle>Teaching Materials: Summer Institute, Temple, 
+ <unitdate calendar="gregorian" type="inclusive">1957-1958</unitdate></unittitle> 
+			 </did> 
+		  </c02>	
+ <c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">32</container> 
+				<container label="Folder" type="Folder">12</container> 
+				<unittitle>Teaching Materials: Summer Institute, Philadelphia, 
+				  <unitdate calendar="gregorian" type="inclusive">1960</unitdate></unittitle> 
+			 </did> 
+		  </c02>	
+		  <c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">32</container> 
+				<container label="Folder" type="Folder">13</container> 
+				<unittitle>Teaching Materials: Summer Institute, Rutgers, 
+				  <unitdate calendar="gregorian"  type="inclusive">1960-1962, 1969, and 1973</unitdate></unittitle> 
+			 </did> 
+		  </c02>	
+ <c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">33</container> 
+				<container label="Folder" type="Folder">1</container> 
+				<unittitle>Teaching Materials: Summer Institute, Rutgers, 
+				  <unitdate calendar="gregorian"
+				  type="inclusive">1960-1965</unitdate></unittitle> 
+			 </did> 
+		  </c02>
+	  <c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">33</container> 
+				<container label="Folder" type="Folder">2</container> 
+				<unittitle>Teaching Materials: Summer Institute, Hawaii, 
+				  <unitdate calendar="gregorian"
+				  type="inclusive">1966, and 1968</unitdate></unittitle> 
+			 </did> 
+		  </c02>	
+ <c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">33</container> 
+				<container label="Folder" type="Folder">3</container> 
+				<unittitle>Teaching Materials: RU-ALL, 
+				  <unitdate calendar="gregorian"
+				  type="inclusive">1993</unitdate></unittitle> 
+			 </did> 
+		  </c02>	
+		  <c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">33</container> 
+				<container label="Folder" type="Folder">4</container> 
+				<unittitle>Teaching Materials: RU-ALL, 		 
+				 <unitdate calendar="gregorian"
+				  type="inclusive">1995</unitdate></unittitle> 
+			 </did> 
+		  </c02>	
+ <c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">33</container> 
+				<container label="Folder" type="Folder">5-8</container> 
+				<unittitle>New Jersey Seminar on Asian Studies, 
+				  <unitdate calendar="gregorian"
+				  type="inclusive">1962</unitdate></unittitle> 
+			 </did> 
+		  </c02>	
+	  <c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">33</container> 
+				<container label="Folder" type="Folder">9</container> 
+				<unittitle>Columbia University Seminar on Modern East Asia: Japan, 
+				  <unitdate calendar="gregorian"
+				  type="inclusive">1964</unitdate></unittitle> 
+			 </did> 
+		  </c02>	
+ <c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">33</container> 
+				<container label="Folder" type="Folder">10</container> 
+				<unittitle>Columbia University Seminar, 
+				  <unitdate calendar="gregorian"
+				  type="inclusive">1969, and 1975</unitdate></unittitle> 
+			 </did> 
+		  </c02>	
+		  <c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">34</container> 
+				<container label="Folder" type="Folder">1-2</container> 
+				<unittitle>Columbia University Seminar, 				
+				  <unitdate calendar="gregorian"
+				  type="inclusive">1982-1984</unitdate></unittitle> 
+			 </did> 
+		  </c02>	
+ <c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">34</container> 
+				<container label="Folder" type="Folder">3-5</container> 
+				<unittitle>Columbia University Seminar, 
+				  <unitdate calendar="gregorian"
+				  type="inclusive">1987-1990</unitdate></unittitle> 
+			 </did> 
+		  </c02>
+	  <c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">34</container> 
+				<container label="Folder" type="Folder">6</container> 
+				<unittitle>Columbia University Seminar, 
+				  <unitdate calendar="gregorian"
+				  type="inclusive">1993</unitdate></unittitle> 
+			 </did> 
+		  </c02>	
+ <c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">34</container> 
+				<container label="Folder" type="Folder">7</container> 
+				<unittitle>Conference on Modern Japan, 
+				  <unitdate calendar="gregorian"
+				  type="inclusive">1930</unitdate></unittitle> 
+			 </did> 
+		  </c02>	
+		  <c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">34</container> 
+				<container label="Folder" type="Folder">8</container> 
+				<unittitle>Collected Papers, 	
+				  <unitdate calendar="gregorian"
+				  type="inclusive">1938-1939</unitdate></unittitle> 
+			 </did> 
+		  </c02>	
+ <c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">34</container> 
+				<container label="Folder" type="Folder">9-15</container> 
+				<unittitle>Collected Papers, 
+					  <unitdate calendar="gregorian"
+				  type="inclusive">1958-1978</unitdate></unittitle> 
+			 </did> 
+		  </c02>	
+	  <c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">35</container> 
+				<container label="Folder" type="Folder">1-17</container> 
+				<unittitle>Collected Papers,
+		  <unitdate calendar="gregorian"
+				  type="inclusive">1979, 1982-1985, 1990-1993, 1995 and Undated</unitdate></unittitle> 
+			 </did> 
+		  </c02>	
+ <c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">36</container> 
+				<container label="Folder" type="Folder">1-2</container> 
+				<unittitle>Collected Papers,   
+				  <unitdate calendar="gregorian"
+				  type="inclusive">Undated</unitdate></unittitle> 
+			 </did> 
+		  </c02>	
+		  <c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">36</container> 
+				<container label="Folder" type="Folder">3</container> 
+				<unittitle>Collected Papers: International Institute for Environmental Affairs,						
+<unitdate calendar="gregorian"
+				  type="inclusive">1972</unitdate></unittitle> 
+			 </did> 
+		  </c02>	
+ <c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">36</container> 
+				<container label="Folder" type="Folder">4</container> 
+				<unittitle>Collected Papers: International Education at Rutgers, 
+				  <unitdate calendar="gregorian"
+				  type="inclusive">1973-1983</unitdate></unittitle> 
+			 </did> 
+		  </c02>	
+  <c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">36</container> 
+				<container label="Folder" type="Folder">5</container> 
+				<unittitle>Collected Papers: Jane Burks, 	
+<unitdate calendar="gregorian" type="inclusive">Undated</unitdate></unittitle> 
+			 </did> 
+		  </c02>		  
+		  </c01>	
+<c01 level="series" id="series08"> 
+		  <did> 
+			 <unittitle>VIII. COLLECTED PUBLICATIONS,  
+				<unitdate type="inclusive" era="ce" calendar="gregorian"
+				normal="1951/1992">1951-1992</unitdate></unittitle> 
+			 <physdesc><extent>(1 cubic feet)</extent></physdesc> 
+		  </did> 
+<arrangement> 
+			 <p><emph render="boldsmcaps">Arrangement:</emph> chronological.</p> 
+		  </arrangement> 
+		  <scopecontent> 
+			 <p><emph render="boldsmcaps">Summary:</emph>
+ arranged chronologically; publications of the International Center of Rutgers University and publications in Japanese are 
+grouped separately.</p>  
+<p>Publications collected by Burks. Publication types include booklets, pamphlets, newsletters, bulletins, periodicals, 
+scholarly journals, and annual reports.</p>
+<p>Within the general publications is material authored by Junjiro Amakawa, Clark L. Beck, Ardath Burks, Otis Cary, 
+Emerson Chapin, Robert Flershem, Yoshiko Flershem, Fumiko Fujita, Hirakawa Sukehiro, Ezra Vogel, and Masao Watanabe.</p>  
+<p>Includes oversize material.</p>
+</scopecontent>
+		  <c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">36</container> 
+				<container label="Folder" type="Folder">6-11</container> 
+				<unittitle>General, 
+				  <unitdate calendar="gregorian"
+				  type="inclusive">1951-1973</unitdate></unittitle> 
+			 </did> 
+		  </c02>	
+ <c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">37</container> 
+				<container label="Folder" type="Folder">1-10</container> 
+				<unittitle>General, 
+				  <unitdate calendar="gregorian"
+				  type="inclusive">1974-1989</unitdate></unittitle> 
+			 </did> 
+		  </c02>	
+		  <c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">38</container> 
+				<container label="Folder" type="Folder">1-5</container> 
+				<unittitle>General, 
+				  <unitdate calendar="gregorian"
+				  type="inclusive">1990-1992, 1994 and Undated</unitdate></unittitle> 
+			 </did> 
+		  </c02>	
+ <c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">38</container> 
+				<container label="Folder" type="Folder">6-9</container> 
+				<unittitle>International Center, 
+				  <unitdate calendar="gregorian"
+				  type="inclusive">1970-1983</unitdate></unittitle> 
+			 </did> 
+		  </c02>	
+	  <c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">39</container> 
+				<container label="Folder" type="Folder">1</container> 
+				<unittitle>International Center,
+				  <unitdate calendar="gregorian"
+				  type="inclusive">1982-1985</unitdate></unittitle> 
+			 </did> 
+		  </c02>	
+ <c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">39</container> 
+				<container label="Folder" type="Folder">2</container> 
+				<unittitle>International Center for Japonisme, 
+				  <unitdate calendar="gregorian"
+				  type="inclusive">1995</unitdate></unittitle> 
+			 </did> 
+		  </c02>	
+		  <c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">39</container> 
+				<container label="Folder" type="Folder">3-10</container> 
+				<unittitle>Japanese Language,
+				  <unitdate calendar="gregorian"
+				  type="inclusive">1969-1974, 1979-1984, 1986, and Undated</unitdate></unittitle> 
+			 </did> 
+		  </c02>	
+		  </c01>
+<c01 level="series" id="series09"> 
+		  <did> 
+			 <unittitle>IX. COLUMBIA UNIVERSITY SEMINAR ON MODERN EAST ASIA: JAPAN,  
+				<unitdate type="inclusive" era="ce" calendar="gregorian"
+				normal="1961/1995">1961-1965</unitdate></unittitle> 
+			 <physdesc><extent>(2 cubic feet)</extent></physdesc> 
+		  </did> 
+<arrangement> 
+			 <p><emph render="boldsmcaps">Arrangement:</emph> chronological.</p> 
+		  </arrangement> 
+		  <scopecontent> 
+			 <p><emph render="boldsmcaps">Summary:</emph>
+ arranged chronologically.</p>
+<p>The collected working papers presented in Columbia's University Seminar on Modern East Asia: Japan.  The seminar was 
+one of the first on-going academic seminars devoted to studying Japan within an academic context.</p>  
+</scopecontent> 
+		  <c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">40</container> 
+				<container label="Folder" type="Folder">1-29</container> 
+				<unittitle>Papers presented, 		
+				  <unitdate calendar="gregorian"
+				  type="inclusive">1961-1965</unitdate></unittitle> 
+			 </did> 
+		  </c02>	
+ <c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">41</container> 
+				<container label="Folder" type="Folder">1-30</container> 
+				<unittitle>Papers presented, 
+				  <unitdate calendar="gregorian"
+				  type="inclusive">1965-1970</unitdate></unittitle> 
+			 </did> 
+		  </c02>	
+		  <c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">42</container> 
+				<container label="Folder" type="Folder">1-27</container> 
+				<unittitle>Papers presented, 
+				  <unitdate calendar="gregorian"
+				  type="inclusive">1970-1974</unitdate></unittitle> 
+			 </did> 
+		  </c02>	
+ <c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">43</container> 
+				<container label="Folder" type="Folder">1-34</container> 
+				<unittitle>Papers presented, 	
+				  <unitdate calendar="gregorian"
+				  type="inclusive">1974-1978</unitdate></unittitle> 
+			 </did> 
+		  </c02>	
+	  <c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">44</container> 
+				<container label="Folder" type="Folder">1-29</container> 
+				<unittitle>Papers presented, 
+			  <unitdate calendar="gregorian"
+				  type="inclusive">1978-1983</unitdate></unittitle> 
+			 </did> 
+		  </c02>	
+ <c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">45</container> 
+				<container label="Folder" type="Folder">1-30</container> 
+				<unittitle>Papers presented, 
+				  <unitdate calendar="gregorian"
+				  type="inclusive">1983-1990</unitdate></unittitle> 
+			 </did> 
+		  </c02>	
+		  <c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">46</container> 
+				<container label="Folder" type="Folder">1-22</container> 
+				<unittitle>Papers presented, 
+				  <unitdate calendar="gregorian"
+				  type="inclusive">1990-1995</unitdate></unittitle> 
+			 </did> 
+		  </c02>	
+		  </c01>
+		  <c01 level="series"> 
+		  <did> 
+			 <unittitle>OVERSIZE MATERIAL,  
+				<unitdate type="inclusive" era="ce" calendar="gregorian"
+				normal="1929/1996">1929-1996</unitdate></unittitle> 
+			 <physdesc><extent>(4 cubic feet)</extent></physdesc> 
+		  </did>
+		  <scopecontent> 
+			 <p><emph render="boldsmcaps">Summary:</emph>
+ arranged by series.</p>
+<p>The oversize material are listed according to the appropriate series above but are filed separately.</p>  
+</scopecontent>
+		  
+		  	 
+<c02 level="file"> 
+<did>
+ <unittitle>PERSONAL FILES: University of Cincinnati Map, <unitdate calendar="gregorian"
+				  type="inclusive">1939-1941</unitdate></unittitle>
+	 <container label="Box" type="Box">47</container><container label="Folder" type="Folder">1</container>  		
+	</did>
+	</c02>				
+<c02 level="file"> 
+			 <did><unittitle>PUBLIC RELATIONS FILES, <unitdate>1953 and 1959</unitdate></unittitle> 
+			 <container label="Box" type="Box">47</container>
+			 <container label="Folder" type="Folder">2</container>
+		</did>	
+				 </c02>	
+		  	
+ <c02 level="file"> 
+			 <did> 
+			 <unittitle>MILITARY SERVICE FILES, <unitdate>1942-1945</unitdate></unittitle>
+			 <container label="Box" type="Box">47</container>
+				<container label="Folder" type="Folder">3</container> 
+				
+			  </did>
+			 </c02>			 
+<c02 level="file"> 
+			 <did><container label="Box" type="Box">47</container>
+				<container label="Folder" type="Folder">4</container> 
+				<unittitle>MILITARY SERVICE FILES: Miscellaneous, 		
+				  <unitdate calendar="gregorian"
+				  type="inclusive">1945</unitdate></unittitle> 
+			 </did> 
+		  </c02>		
+<c02 level="file"> 
+			 <did> <container label="Box" type="Box">47</container>
+				<container label="Folder" type="Folder">5</container> 
+				<unittitle>MILITARY SERVICE FILES: Maps of Japan, 		
+				  <unitdate calendar="gregorian"
+				  type="inclusive">Undated</unitdate></unittitle> 
+			 </did> 
+		  </c02>
+<c02 level="file"> 
+			 <did><container label="Box" type="Box">47</container>
+			 <container label="Folder" type="Folder">6-7</container> 
+				<unittitle>CORRESPONDENCE AND DOCUMENTS: General,  	
+				  <unitdate calendar="gregorian"
+				  type="inclusive">1950-1951</unitdate></unittitle></did> 	
+</c02>
+			
+ <c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">47</container> 
+				<container label="Folder" type="Folder">8</container> 
+				<unittitle>CORRESPONDENCE AND DOCUMENTS: General, 		
+				  <unitdate calendar="gregorian"
+				  type="inclusive">1977</unitdate></unittitle> 
+			 </did> 
+		  </c02>	
+<c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">47</container> 
+				<container label="Folder" type="Folder">9</container> 
+				<unittitle>CORRESPONDENCE AND DOCUMENTS: General, 		
+				  <unitdate calendar="gregorian"
+				  type="inclusive">1979</unitdate></unittitle> 
+			 </did> 
+		  </c02>	
+	  <c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">47</container> 
+				<container label="Folder" type="Folder">10</container> 
+				<unittitle>CORRESPONDENCE AND DOCUMENTS: General, 
+					  <unitdate calendar="gregorian"
+				  type="inclusive">1987</unitdate></unittitle> 
+			 </did> 
+		  </c02>	
+<c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">47</container> 
+				<container label="Folder" type="Folder">11</container> 
+				<unittitle>CORRESPONDENCE AND DOCUMENTS: General, 		
+				  <unitdate calendar="gregorian"
+				  type="inclusive">1994</unitdate></unittitle> 
+			 </did> 
+		  </c02>	
+		  
+				 
+<c02 level="file"> <did><container label="Box" type="Box">47</container>				 
+				<container label="Folder" type="Folder">12</container> 
+				<unittitle>LECTURES AND PAPERS: Articles Published, 		
+				  <unitdate calendar="gregorian"
+				  type="inclusive">1959</unitdate></unittitle> 
+</did>			 
+		  </c02>	
+<c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">47</container> 
+				<container label="Folder" type="Folder">13</container> 
+				<unittitle>LECTURES AND PAPERS: Papers and Panels, 		
+				  <unitdate calendar="gregorian"
+				  type="inclusive">1968</unitdate></unittitle> 
+			 </did> 
+		  </c02>
+	  <c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">47</container> 
+				<container label="Folder" type="Folder">14</container> 
+				<unittitle>LECTURES AND PAPERS: Teaching Materials, 		
+				  <unitdate calendar="gregorian"
+				  type="inclusive">1992-1993</unitdate></unittitle> 
+			 </did> 
+		  </c02>
+    			
+<c02 level="file"> <did>	<container label="Box" type="Box">48</container> 		
+				<container label="Folder" type="Folder">1</container>
+				<unittitle>PERSONAL FILES: Norwood High School: <emph render="italic">The Mirror,</emph> 	
+				  <unitdate calendar="gregorian"
+				  type="inclusive">1929-1932</unitdate></unittitle> 
+				</did></c02>		
+ <c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">48</container> 
+				<container label="Folder" type="Folder">2</container> 
+				<unittitle>PERSONAL FILES: General, 		
+				  <unitdate calendar="gregorian"
+				  type="inclusive">1977-1978</unitdate></unittitle> 
+			 </did> 
+		  </c02>	 	
+ <c02 level="file"> 
+			 <did> 	<container label="Box" type="Box">48</container> 			
+				<container label="Folder" type="Folder">3</container> 
+				<unittitle>PUBLIC RELATIONS FILES, <unitdate>1990-1992</unitdate></unittitle> 
+</did>	
+		 </c02>
+
+				   
+<c02 level="file">
+			<did><container label="Box" type="Box">48</container>
+			<container label="Folder" type="Folder">4-13</container> 
+				<unittitle>CORRESPONDENCE AND DOCUMENTS: <unitdate>1945, 1953, 1969, 1973, 1975-1975, 1979-1981 and 
+				1983-1985</unitdate></unittitle> </did>
+</c02>			
+<c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">49</container> 
+				<container label="Folder" type="Folder">1-5</container> 
+				<unittitle>CORRESPONDENCE AND DOCUMENTS, <unitdate>1987, 1989, 1991, 1996 and Undated</unitdate></unittitle> 
+			 </did> 
+		  </c02>	
+		   
+				 	 	
+<c02 level="file"> 	<did><container label="Box" type="Box">49</container>			
+				<container label="Folder" type="Folder">6</container> 			
+				<unittitle>TRAVEL FILES: Japan, 	
+				  <unitdate calendar="gregorian"
+				  type="inclusive">1951-1952</unitdate></unittitle> 
+				</did> 
+		 </c02>
+<c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">49</container> 
+				<container label="Folder" type="Folder">7</container> 
+				<unittitle>TRAVEL FILES: Japan, China, 		
+				  <unitdate calendar="gregorian"
+				  type="inclusive">1980</unitdate></unittitle> 
+			 </did> 
+		  </c02>		
+	  <c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">49</container> 
+				<container label="Folder" type="Folder">8</container> 
+				<unittitle>TRAVEL FILES: Pre-<emph render="italic">Yatoi</emph> Conference, 		
+				  <unitdate calendar="gregorian"
+				  type="inclusive">1985</unitdate></unittitle> 
+			 </did> 
+		  </c02>	
+<c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">49</container> 
+				<container label="Folder" type="Folder">9</container> 
+				<unittitle>TRAVEL FILES: <emph render="italic">Yatoi</emph> Conference, 		
+				  <unitdate calendar="gregorian"
+				  type="inclusive">1985</unitdate></unittitle> 
+			 </did> 
+		  </c02>	
+		   
+<c02 level="file"> 
+			 <did> 			<container label="Box" type="Box">49</container>   
+				<container label="Folder" type="Folder">10</container> 			
+				<unittitle>SUBJECT FILES: Cincinnati Council on World Affairs, 		
+				  <unitdate calendar="gregorian"
+				  type="inclusive">1968</unitdate></unittitle> 
+</did> 
+		  </c02>				
+<c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">49</container> 
+				<container label="Folder" type="Folder">11</container> 
+				<unittitle>SUBJECT FILES: International Center for Japonisme, 		
+				  <unitdate calendar="gregorian"
+				  type="inclusive">1990</unitdate></unittitle> 
+			 </did> 
+		  </c02>	
+	  <c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">49</container> 
+				<container label="Folder" type="Folder">12</container> 
+				<unittitle>SUBJECT FILES: Sister Cities, 		
+				  <unitdate calendar="gregorian"
+				  type="inclusive">1991</unitdate></unittitle> 
+			 </did> 
+		  </c02>	
+<c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">49</container> 
+				<container label="Folder" type="Folder">13</container> 
+				<unittitle>SUBJECT FILES: United Nations Conference, 		
+				  <unitdate calendar="gregorian"
+				  type="inclusive">1972</unitdate></unittitle> 
+			 </did> 
+		  </c02>	 
+ 				
+<c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">50</container> 		  
+				<container label="Folder" type="Folder">1</container> 				
+				<unittitle>SUBJECT FILES: <emph render="italic">Yatoi</emph> Conference, 	
+				  <unitdate calendar="gregorian"
+				  type="inclusive">1985</unitdate></unittitle> 
+</did> 
+		  </c02>					
+<c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">50</container> 
+				<container label="Folder" type="Folder">2</container>			
+				<unittitle>SUBJECT FILES: Miscellaneous Correspondence, 		
+				  <unitdate calendar="gregorian"
+				  type="inclusive" normal="1979">circa 1979</unitdate></unittitle> 
+			 </did> 
+		  </c02>
+	  <c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">50</container> 
+				<container label="Folder" type="Folder">3</container> 
+				<unittitle>SUBJECT FILES: Miscellaneous Japanese Language Material, 		
+				  <unitdate calendar="gregorian"
+				  type="inclusive">Undated</unitdate></unittitle> 
+			 </did> 
+		  </c02>	 	
+ <c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">50</container> 		  
+				<container label="Folder" type="Folder">4</container>			
+				<unittitle>LECTURES AND PAPERS: Panels and Papers, 		
+				  <unitdate calendar="gregorian"
+				  type="inclusive">1973</unitdate></unittitle> 
+ </did> 
+		  </c02>		
+ <c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">50</container> 
+				<container label="Folder" type="Folder">5</container> 
+				<unittitle>LECTURES AND PAPERS: Panels and Papers, 		
+				  <unitdate calendar="gregorian"
+				  type="inclusive">1981-1982</unitdate></unittitle> 
+			 </did> 
+		  </c02>	
+<c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">50</container> 
+				<container label="Folder" type="Folder">6</container> 
+				<unittitle>LECTURES AND PAPERS: Collected Papers: American Committee for Non-Participation in
+					 Japanese Aggression, 		
+				  <unitdate calendar="gregorian"
+				  type="inclusive">1939</unitdate></unittitle> 
+			 </did> 
+		  </c02>
+<c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">50</container> 				
+				<container label="Folder" type="Folder">7</container> 				
+				<unittitle>LECTURES AND PAPERS: Collected Papers, 		
+				  <unitdate calendar="gregorian"
+				  type="inclusive">1953</unitdate></unittitle> 
+	 </did> 
+		  </c02>		  			
+ <c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">50</container> 
+				<container label="Folder" type="Folder">8-10</container> 
+				<unittitle>LECTURES AND PAPERS: Collected Papers, 		
+				  <unitdate calendar="gregorian"
+				  type="inclusive" normal="1967/1979">1967 and 1979></unitdate></unittitle> 
+			 </did> 
+		  </c02>	
+<c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">50</container> 
+				<container label="Folder" type="Folder">11</container> 
+				<unittitle>LECTURES AND PAPERS: Collected Papers, Miscellaneous, 	
+				  <unitdate calendar="gregorian"
+				  type="inclusive">Undated	</unitdate></unittitle> 
+			 </did> 
+		  </c02>	 
+<c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">50</container> 
+				<container label="Folder" type="Folder">12</container> 	
+				<unittitle>COLLECTED PUBLICATIONS: Japanese Language Material, 			
+				  <unitdate calendar="gregorian"
+				  type="inclusive">1979</unitdate></unittitle> 
+			 </did> 
+		  </c02>
+		  	
+</c01>		  	  
+<c01 level="series" id="series10"> 
+		  <did> 
+			 <unittitle>X. PHOTOGRAPHS (photograph box),
+				<unitdate type="inclusive" era="ce" calendar="gregorian"
+				normal="1940/1993">1940-c.1993</unitdate></unittitle> 
+			 <physdesc><extent>(.15 cubic feet)</extent></physdesc> 
+		  </did> 
+<arrangement> 
+			 <p><emph render="boldsmcaps">Arrangement:</emph> by subject.</p> 
+		  </arrangement> 
+		  <scopecontent> 
+			 <p><emph render="boldsmcaps">Summary:</emph>
+ color and black and white prints; reproductions from the Griffis collection; negatives; slides; scrapbook.</p>
+<p>Photographs of Burks, his family, his professional activities, and materials related to Griffis research.  Also 
+includes a scrapbook from the Rutgers Alumni visit to Fukui University in 1978.</p>
+</scopecontent> 
+		  <c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">51</container> 
+				 <container></container>
+				<unittitle>Ardath Burks Portraits (15),  		
+				  <unitdate calendar="gregorian"
+				  type="inclusive">Undated</unitdate></unittitle> 
+			 </did> 
+		  </c02>	
+ <c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">51</container> 
+				<container></container> 
+				<unittitle>Jane Burks Portraits (3),  
+				  <unitdate calendar="gregorian"
+				  type="inclusive">Undated</unitdate></unittitle> 
+			 </did> 
+		  </c02>	
+		  <c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">51</container> 
+				<container></container> 
+				<unittitle>Jane and Riki Burks Portraits (5),  
+				  <unitdate calendar="gregorian"
+				  type="inclusive" normal="1950">circa 1950</unitdate></unittitle> 
+			 </did> 
+		  </c02>	
+ <c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">51</container> 
+				<container></container> 
+				<unittitle>University of Minnesota Cosmopolitan Club (1), 	
+				  <unitdate calendar="gregorian"
+				  type="inclusive">1940</unitdate></unittitle> 
+			 </did> 
+		  </c02>	
+	  <c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">51</container> 
+				<container></container> 
+				<unittitle>Japanese Bankers Program (1 image with 2 negatives),
+			  <unitdate calendar="gregorian"
+				  type="inclusive">1974</unitdate></unittitle> 
+			 </did> 
+		  </c02>	
+ <c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">51</container> 
+				<container></container> 
+				<unittitle>The New York Fukui Club (1), 
+				  <unitdate calendar="gregorian"
+				  type="inclusive">1995</unitdate></unittitle> 
+			 </did> 
+		  </c02>	
+		  <c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">51</container> 
+				<container></container> 
+				<unittitle>Connor Graham Hughes (1), 
+				  <unitdate calendar="gregorian"
+				  type="inclusive" normal="1993">circa 1993 </unitdate></unittitle> 
+			 </did> 
+		  </c02>	
+ <c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">51</container> 
+				<container></container> 
+				<unittitle>Areta (1),  
+			  <unitdate calendar="gregorian"
+				  type="inclusive">1991</unitdate></unittitle> 
+			 </did> 
+		  </c02>	
+ <c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">51</container> 
+				<container></container> 
+				<unittitle>Willow Grove Cemetery (1), 	 
+				  <unitdate calendar="gregorian"
+				  type="inclusive">1968</unitdate></unittitle> 
+			 </did> 
+		  </c02>	
+		  <c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">51</container> 
+				<container></container> 
+				<unittitle>W. E. Griffis' Grave, 3 corresponding slides	
+				  <unitdate calendar="gregorian"
+				  type="inclusive">1981</unitdate></unittitle> 
+			 </did> 
+		  </c02>	
+ <c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">51</container> 
+				<container></container> 
+				<unittitle>	Catherine Street, Philadelphia, 4 corresponding slides  
+			  <unitdate calendar="gregorian"
+				  type="inclusive">1981</unitdate></unittitle> 
+			 </did> 
+		  </c02>	
+ <c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">51</container> 
+				<container></container> 
+				<unittitle>Reproductions of Griffis-related portraits (9)</unittitle> 
+			 </did> 
+		  </c02>	
+		  <c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">51</container> 
+				<container></container> 
+				<unittitle>Griffis material (15), 	
+				  <unitdate calendar="gregorian"
+				  type="inclusive">Undated</unitdate></unittitle> 
+			 </did> 
+		  </c02>	
+<c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">51</container> 
+				<container></container> 
+				<unittitle>Griffis-related negatives, With corresponding contact prints (132), 
+			  <unitdate calendar="gregorian"
+				  type="inclusive">Undated</unitdate></unittitle> 
+			 </did> 
+		  </c02>	
+ <c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">51</container> 
+				<container></container> 
+				<unittitle>Unknown Provenance (1), 
+				  <unitdate calendar="gregorian"
+				  type="inclusive">1964</unitdate></unittitle> 
+			 </did> 
+		  </c02>	
+		  <c02 level="file"> 
+			 <did> 
+				<container label="Box" type="Box">51</container> 
+				<container></container> 
+				<unittitle>Unknown Provenance, Rutgers Alumni Visit to Fukui University Scrapbook (11), 	 
+				  <unitdate calendar="gregorian"
+				  type="inclusive">1978</unitdate></unittitle> 
+			 </did> 
+		  </c02>			  
+		  </c01>	
+		  </dsc>  
+<controlaccess id="a12"> 
+		<head>Name and Subject Terms</head> 
+		<controlaccess> 
+		  <head>Personal Names</head> 
+		  <persname source="lcnaf" encodinganalog="600$a">Burks, Ardath W.</persname> 
+		  <persname source="aacr2" encodinganalog="600$a">Burks, Jane Lyle (Virginia Jane Lyle).</persname> 
+		  		  <persname source="lcnaf" encodinganalog="600$a">Griffis, William Elliot, 1843-1928.</persname> 
+		  <persname source="lcnaf" encodinganalog="600$a">Kaneko, Tadashi, 1934-</persname> 
+		  	  <persname source="aacr2" encodinganalog="600$a">Matsumura, Mayoshi</persname> 
+		  <persname source="lcnaf" encodinganalog="600$a">Miki, Yukiharu, 1903-1964.</persname> 
+		  	  <persname source="lcnaf" encodinganalog="600$a">Shibata, Tokue, 1924-</persname> 
+		  <persname source="lcnaf" encodinganalog="600$a">Tanabe, Tatsuz¯o, 1929-</persname> 
+		  	  <persname source="lcnaf" encodinganalog="600$a">Yim, Yong Soon.</persname> 
+		  </controlaccess> 
+<controlaccess> 
+		  <head>Corporate Names</head> 
+		  <corpname source="aacr2" encodinganalog="610$a"><emph render="italic">Yatoi</emph> Conference.</corpname> 
+		  <corpname source="lcnaf" encodinganalog="610$a">American Association of University Professors.</corpname> 
+		  <corpname source="lcnaf" encodinganalog="610$a">Association for Asian Studies (AAS).</corpname> 
+		  <corpname source="lcnaf" encodinganalog="610$a">Northeast Asian Council (Association for Asian Studies).</corpname> 
+		  <corpname source="lcnaf" encodinganalog="610$a">United States. Navy.</corpname> 
+<corpname source="lcnaf" encodinganalog="610$a">United States. Office of Naval Intelligence.</corpname> 
+<corpname source="aacr2" encodinganalog="610$a">Mid-Atlantic Region AAS(MAR)</corpname> 
+		  <corpname source="aacr2" encodinganalog="610$a">New Jersey Association of Colleges and Universities (NJACU).</corpname> 
+		  <corpname source="aacr2" encodinganalog="610$a">Columbia University. Seminar on Modern East Asia.</corpname> 
+		  <corpname source="aacr2" encodinganalog="610$a">University of Michigan. Center for Japanese Studies in Okayama.</corpname> 
+		  <corpname source="lcnaf" encodinganalog="610$a">Tokyo Metropolitan University</corpname> 		
+ 
+		  
+		   
+		   
+		   
+		   
+<corpname source="aacr2" encodinganalog="610$a"></corpname> 
+		  <corpname source="lcnaf" encodinganalog="610$a">Council on International Educational Exchange.</corpname> 
+		  <corpname source="lcnaf" encodinganalog="610$a">Association for Asian Studies.</corpname> 
+		  <corpname source="aacr2" encodinganalog="610$a">Northeast Asia Regional Council.</corpname> 
+		  <corpname source="lcnaf" encodinganalog="610$a">Fukui University.</corpname> 
+		  <corpname source="lcnaf" encodinganalog="610$a">International House of Japan (Tokyo, Japan).</corpname>
+<corpname source="aacr2" encodinganalog="610$a">Rutgers College--Alumni and alumnae--Japan.</corpname>		   	
+  <corpname source="aacr2" encodinganalog="610$a">Rutgers University. Special Collections and University Archives.</corpname> 
+		  <corpname source="lcnaf" encodinganalog="610$a">Rutgers University. Jane Voorhees Zimmerli Art Museum.</corpname> 
+<corpname source="aacr2" encodinganalog="610$a">Rutgers University. Rutgers Association of Fukui</corpname> 
+		  <corpname source="aacr2" encodinganalog="610$a">Rutgers University. Academy for Lifelong Learning.</corpname> 
+		  <corpname source="aacr2" encodinganalog="610$a">Rutgers University. International Center for Japonisme.</corpname> 
+		  <corpname source="lcnaf" encodinganalog="610$a">Sister Cities International.</corpname> 	 
+		</controlaccess> 
+		<controlaccess> 
+		  <head>Subjects</head> 
+		  <subject source="lcnaf" encodinganalog="650$a">International education.</subject> 
+		   <subject source="lcsh" encodinganalog="650$a">World War, 1939-1945.</subject>
+<subject source="lcsh" encodinganalog="650$a">Education--Japan--History.</subject>
+<subject source="lcsh" encodinganalog="650$a">Japanese students--New Jersey--New Brunswick--History.</subject>			
+<subject source="lcsh" encodinganalog="650$a">Japan--Politics and government--1868-.</subject>
+<subject source="lcsh" encodinganalog="650$a">Japan--Politics and government--1945-.</subject>
+<subject source="lcsh" encodinganalog="650$a">Japan--Civilization--Western Influenced.</subject>
+<subject source="lcsh" encodinganalog="650$a">Japan--Civiliztion--1868-1912.</subject>
+<subject source="lcsh" encodinganalog="650$a">Japan--Officials and employees, Alien.</subject>
+<subject source="lcsh" encodinganalog="650$a">Japan--History--Meiji period, 1868-1912.</subject>
+		</controlaccess> 	
+</controlaccess> 
+	</archdesc>	  	 	 				
+</ead>

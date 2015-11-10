@@ -1,0 +1,98 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="uarcstyle.xsl"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead audience="external"> 
+  <eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" scriptencoding="iso15924" dateencoding="iso8601" countryencoding="iso3166-1" relatedencoding="Dublin Core"> 
+	 <eadid countrycode="mnu" mainagencycode="MnU" publicid="-//us::University of Minnesota, Twin Cities::University Archives//TEXT us::MnU::uarc00507.xml::William M. Bart papers//EN">
+		uarc00507</eadid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper encodinganalog="Title"> William M. Bart papers,
+			 1960s-1970s</titleproper> 
+		  <author encodinganalog="Contributor">Karen Spilman</author> 
+		</titlestmt> 
+		<publicationstmt> 
+		  <publisher encodinganalog="Publisher">University of Minnesota
+			 Libraries</publisher> 
+		  <date>May 2005</date> 
+		  <address> 
+			 <addressline>University of Minnesota Libraries</addressline> 
+			 <addressline>Minneapolis, MN 55455</addressline> 
+		  </address> 
+		</publicationstmt> 
+	 </filedesc> 
+	 <profiledesc> 
+		<creation>EAD encoding by Karen Spilman 
+		  <date>May 2005</date></creation> 
+		<langusage> <language encodinganalog="Language" langcode="eng">English</language></langusage> 
+	 </profiledesc> 
+  </eadheader> 
+  <archdesc level="collection" relatedencoding="MARC21"> 
+	 <did> 
+		<repository encodinganalog="852$a" label="Repository: ">University of
+		  Minnesota Libraries. <subarea>University Archives [uarc]</subarea></repository> 
+		<origination label="Creator: " encodinganalog="100"> 
+		  <persname source="lcnaf" rules="aacr2" encodinganalog="100" role="creator">Bart, William M.</persname></origination> 
+		<unittitle encodinganalog="245$a" label="Title: ">William M. Bart
+		  papers</unittitle> 
+		<unitdate normal="1960/1979" encodinganalog="245$f" type="inclusive" label="Dates: ">1960s-1970s</unitdate> 
+		<physdesc label="Quantity: "> <extent>1 boxes </extent><extent>(0.5
+		  linear feet)</extent></physdesc> 
+		<abstract encodinganalog="520" label="Abstract: ">The collection contains
+		  the papers of William M. Bart, professor of psychology at the University of
+		  Minnesota. </abstract> 
+		<unitid encodinganalog="099" countrycode="mnu" repositorycode="MnU" label="Collection Number: ">507</unitid>
+		<langmaterial encodinganalog="546" label="Language">
+		<language encodinganalog="041" langcode="eng">English</language>
+		</langmaterial> 
+	 </did> <descgrp> 
+	 <head>Administrative Information</head> 
+	 <accessrestrict encodinganalog="506"> 
+		<head>Use of Materials</head> 
+		<p>Items in this collection do not circulate and may be used in-house
+		  only. </p> 
+	 </accessrestrict> 
+	 <userestrict encodinganalog="540"> 
+		<head>Copyright</head> 
+		<p>Requests for permission to quote from the William M. Bart papers
+		  should be arranged with the University of Minnesota Archives head. </p> 
+	 </userestrict> 
+	 <prefercite> 
+		<head>Preferred citation</head> 
+		<p>William M. Bart papers, University of Minnesota Archives. </p> 
+	 </prefercite> 
+	 <acqinfo> 
+		<head>Source of acquisition</head> 
+		<p>The collection was deposited in University Archives on November 7,
+		  1985. </p> 
+	 </acqinfo> 
+	 <processinfo> 
+		<head>Processing Information</head> 
+		<p>Collection has not been processed. </p> 
+	 </processinfo></descgrp> 
+	 <scopecontent encodinganalog="520"> 
+		<head>Scope and Content</head> 
+		<p>The collection contains speeches, reprints and evaluations in the
+		  fields of psychology, learning and intelligence. </p> 
+	 </scopecontent> 
+	 <bioghist encodinganalog="545"> 
+		<head>Biographical Sketch of William M. Bart </head> 
+		<p>William M. Bart is a professor of psychology at the University of
+		  Minnesota, specializing in learning and cognition. He earned his Ph.D. from the
+		  University of Chicago in 1969. </p> 
+	 </bioghist> 
+	 <controlaccess> 
+		<head>Index Terms</head> 
+		<p>This collection is indexed under the following headings in the catalog
+		  of the University of Minnesota Libraries. Researchers desiring materials about
+		  related topics, persons or places should search the catalog using these
+		  headings. </p> 
+		<persname encodinganalog="700 1" source="lcnaf" rules="aacr2">Bart,
+		  William M. -- Archives</persname> 
+		<corpname encodinganalog="610" source="lcnaf" rules="aacr2">University of
+		  Minnesota. Dept. of Psychology</corpname> 
+		<subject encodinganalog="650" source="lcsh">Learning, Psychology
+		  of</subject> 
+	 </controlaccess> 
+  </archdesc> 
+</ead>

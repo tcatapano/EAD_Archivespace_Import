@@ -1,0 +1,660 @@
+<?xml version="1.0"?>
+<ead>
+  
+  
+  
+  
+  
+  <eadheader xmlns:cdlpath="http://www.cdlib.org/path/" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" scriptencoding="iso15924" audience="internal" langencoding="iso639-2b" findaidstatus="unverified-full-draft"><eadid countrycode="us" identifier="ark:/13030/tf396nb2cb" mainagencycode="CU-M" publicid="PUBLIC -//University of California, SanFrancisco::Archives and Special Collections//TEXT(US::CU-M::MSS 93-36::AIDS Service Providers Association)//EN aspa.sgm" cdlpath:parent="ark:/13030/tf0h4nb4sw" cdlpath:grandparent="ark:/13030/tf3x0nb742">aspa.xml</eadid><filedesc>
+      <titlestmt>
+        <titleproper>Guide to the AIDS Service Providers Association, <date calendar="gregorian" era="ce">1987-1993</date></titleproper><titleproper type="filing">AIDS Service Providers Association</titleproper>
+        <author>Processed by Special Collections staff; machine-readable finding aid created by
+Brooke Dykman Dockter</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>UCSF Library  CKM</publisher>
+        <address>
+          <addressline>Archives and Special Collections</addressline>
+          <addressline>530 Parnassus Ave.</addressline>
+          <addressline>San Francisco, CA 94143-0840</addressline>
+          <addressline>Phone: (415) 476-8112</addressline>
+          <addressline>Fax:   (415) 476-4653</addressline>
+          <addressline>Email: http://www.library.ucsf.edu/collections/archives/contact</addressline>
+          <addressline>URL:   http://www.library.ucsf.edu/collections/archives</addressline>
+        </address>
+        <date calendar="gregorian" era="ce"> 1997</date>
+        <p>The Regents of the University of California. All rights reserved.</p>
+      </publicationstmt>
+      <notestmt>
+        <note>
+          <p>
+            <subject source="cdl">History --History, California
+--General</subject>
+            <subject source="cdl">Biological and
+Medical Sciences --Clinical Medicine --AIDS/HIV</subject>
+          </p>
+        </note>
+      </notestmt>
+    </filedesc><profiledesc>
+      <creation>Machine-readable finding aid derived from MS Word. Date of source: <date calendar="gregorian" era="ce">Unknown.</date></creation>
+      <langusage>Description is in <language>English.</language></langusage>
+    </profiledesc><revisiondesc>
+      <change>
+        <date calendar="gregorian" era="ce" normal="20040323">March 23, 2004</date>
+        <item>PUBLIC "-//University of California, San
+Francisco::Archives and Special Collections//TEXT
+(US::CU-M::MSS 93-36::AIDS Service Providers Association)//EN" "aspa.sgm" converted from EAD 1.0 to 2002 by v1to02.cdl.xsl (2004-09-16).</item>
+      </change>
+    </revisiondesc></eadheader>
+  <frontmatter>
+    <titlepage>
+      <titleproper>Guide to the AIDS Service Providers Association, <date calendar="gregorian" era="ce">1987-1993</date></titleproper>
+      <num>Collection number: MSS 93-36</num>
+      <publisher>UCSF Library  CKM 
+<lb/><extptr linktype="simple" entityref="ucseal" show="embed" actuate="onload" inline="true"/><lb/>Archives and Special Collections 
+<lb/>University of California, San Francisco</publisher>
+      <list type="simple">
+        <head>Contact Information:</head>
+        <item>UCSF Library  CKM</item>
+        <item>Archives and Special Collections</item>
+        <item>530 Parnassus Ave.</item>
+        <item>San Francisco, CA 94143-0840</item>
+        <item>Phone: (415) 476-8112</item>
+        <item>Fax:   (415) 476-4653</item>
+        <item>Email: http://www.library.ucsf.edu/collections/archives/contact</item>
+        <item>URL:   http://www.library.ucsf.edu/collections/archives</item>
+      </list>
+      <list type="deflist">
+        <defitem>
+          <label>Processed by: </label>
+          <item>Bill Walker</item>
+        </defitem>
+        <defitem>
+          <label>Encoded by: </label>
+          <item>Brooke Dykman Dockter</item>
+        </defitem>
+      </list>
+      <p> 1997 The Regents of the University of California. All rights reserved.</p>
+    </titlepage>
+  </frontmatter>
+  <archdesc xmlns:cdlpath="http://www.cdlib.org/path/" level="collection">
+    <did id="did-1.8.1">
+      <head>Descriptive Summary</head>
+      <unittitle label="Title">AIDS Service Providers Association, </unittitle><unitdate calendar="gregorian" era="ce" type="inclusive">1987-1993</unitdate>
+      <unitid label="Collection number">MSS 93-36</unitid>
+      <origination label="Creator">AIDS Service Providers Association</origination>
+      <physdesc label="Extent">Volume: 2 cubic feet</physdesc>
+      <repository label="Repository">
+        <corpname>University of California, San Francisco. Library. Archives and Special Collections</corpname>
+        <address>
+          <addressline>San Francisco, California 94143-0840</addressline>
+        </address>
+      </repository>
+      <physloc label="Shelf location">For current information on the location of these
+materials, please consult the Library's online catalog.</physloc>
+      <langmaterial label="Language">
+        <language langcode="eng">English.</language>
+      </langmaterial>
+    </did>
+    <descgrp type="admininfo" id="descgrp-1.8.2">
+      <head>Administrative Information</head>
+      <accessrestrict>
+        <head>Access</head>
+        <p>Collection is open for research.</p>
+      </accessrestrict>
+      <prefercite>
+        <head>Preferred Citation</head>
+        <p>[Identification of item], AIDS Service Providers Association, MSS 93-36, Archives 
+Special Collections, UCSF Library  CKM</p>
+      </prefercite>
+    </descgrp>
+    <scopecontent id="scopecontent-1.8.3">
+      <head>Scope and Content</head>
+      <p>Agency records suffer from the effects of several changes of administrators and office
+managers; subsequent inconsistencies are evident in the creation, arrangement and
+preservation of files. While some series are incomplete, they do possess research value.
+The files have been arranged by function, then by chronology.</p>
+      <p>Some ASPA records document significant trends in the service provider community, among
+these are files that record the development of public policy, initiation of workshops to
+confront problems common among service providing agencies, and joint lobbying efforts.
+The series of member surveys is also notable, particularly the swiftly conducted
+investigation of damage to AIDS organizations from the 1989 Loma Prieta Earthquake. </p>
+      <p>Among the correspondence is a letter dated Oct 14, 1992 from a Susan Penner which
+accompanies her report on a survey she conducted of 80 service agencies during 1991/92.
+Her results, including CEO's attitudes towards the consolidation of certain
+administrative functions among agencies, will be of interest to researchers studying
+administrative costs of providing AIDS-related services. In general, the correspondence
+files provide some information about the cultural and political interactions among
+administrators of AIDS agencies. Other notable contents include the three editions of the
+<title linktype="simple" inline="true">HIV Referral Directory </title>(1990, 1992, 1993) as well as a survey of
+volunteers and a survey of 102 AIDS agencies and their positions on issues of public
+policy. A final file of interest is the remarkable "Housing Rights" document compiled by
+PWA Gary Harmon after he was denied federally subsidized housing in Oakland.</p>
+      <p>The records include planning and founding documents, minutes, correspondence, surveys,
+reports, workshop and training files, and publications.</p>
+    </scopecontent>
+    <bioghist id="bioghist-1.8.4">
+      <head>Organizational History</head>
+      <p>The <title linktype="simple" inline="true">AIDS Service Providers Association </title>(ASPA) was a major conduit of
+information among service providers during its brief, five year existence. Its mission
+states that ASPA "promotes collaboration and coordination among AIDS service and
+community-based organizations in the eleven-county San Francisco and Monterey Bay Areas,
+and promotes advocacy on behalf of the AIDS service community". </p>
+      <p>It was started (initially as <title linktype="simple" inline="true">BAYCARE</title>) in 1988 by <name>Bob Munk</name>,
+then deputy director of the <title linktype="simple" inline="true">Names Project, </title>to network and coordinate
+fundraising among AIDS organization in San Francisco. <name>Nancy DeStefanis</name>
+followed Munk as Executive Director from 1990-1992. <name>Tim Wolfred</name> stepped in
+as acting Director in March of 1992, remaining in that position until a declining
+membership and lack of funds forced its termination in June of 1993. A twelve member,
+elected Board of Directors served to formulate policy, appoint and supervise staff, and
+oversee operations. In addition to the Executive Director, staff generally consisted of
+one person, who acted as office manager and membership coordinator. ASPA's major
+contributions were publication of its newsletter and directory, coordination of public
+policy and advocacy, and the provision of technical assistance to AIDS agencies.</p>
+    </bioghist>
+    <dsc type="in-depth" id="dsc-1.8.5" score="1" C-ORDER="1" MAX-C-ORDER="98">
+      <head>Container List</head>
+      <c01 level="series" id="c01-1.8.5.2" score="1" C-ORDER="2">
+        <did>
+          <unittitle>Pre-ASPA records</unittitle>
+        </did>
+        <c02 id="c02-1.8.5.2.2" score="1" C-ORDER="3">
+          <did>
+            <container type="Carton">Ctn. 1</container>
+            <unittitle>BAYCARE: creation and development <unitdate calendar="gregorian" era="ce">(1987-1988)</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.5.2.3" score="1" C-ORDER="4">
+          <did>
+            <unittitle>Needs survey <unitdate calendar="gregorian" era="ce">(1987)</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.5.2.4" score="1" C-ORDER="5">
+          <did>
+            <unittitle>News from BAYCARE, <unitdate calendar="gregorian" era="ce">1988</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series" id="c01-1.8.5.3" score="1" C-ORDER="6">
+        <did>
+          <unittitle>Board of Directors</unittitle>
+        </did>
+        <c02 id="c02-1.8.5.3.2" score="1" C-ORDER="7">
+          <did>
+            <container type="Carton">Ctn. 1</container>
+            <unittitle>First ASPA meeting <unitdate calendar="gregorian" era="ce">(Jan 1989)</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.5.3.3" score="1" C-ORDER="8">
+          <did>
+            <unittitle>ASPA incorporation papers, bylaws, and non-profit papers</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.5.3.4" score="1" C-ORDER="9">
+          <did>
+            <unittitle>Bylaws change, <unitdate calendar="gregorian" era="ce">1991</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.5.3.5" score="1" C-ORDER="10">
+          <did>
+            <unittitle>Mission statement</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.5.3.6" score="1" C-ORDER="11">
+          <did>
+            <unittitle>Board recruitment and operations</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.5.3.7" score="1" C-ORDER="12">
+          <did>
+            <unittitle>Board elections, <unitdate calendar="gregorian" era="ce">7/89</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.5.3.8" score="1" C-ORDER="13">
+          <did>
+            <unittitle>Board elections, <unitdate calendar="gregorian" era="ce">7/90</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.5.3.9" score="1" C-ORDER="14">
+          <did>
+            <unittitle>Minutes <unitdate calendar="gregorian" era="ce">(12/88-12/89)</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.5.3.10" score="1" C-ORDER="15">
+          <did>
+            <unittitle>Minutes <unitdate calendar="gregorian" era="ce">(1990)</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.5.3.11" score="1" C-ORDER="16">
+          <did>
+            <unittitle>Minutes <unitdate calendar="gregorian" era="ce">(1/91-6/91)</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.5.3.12" score="1" C-ORDER="17">
+          <did>
+            <unittitle>Minutes <unitdate calendar="gregorian" era="ce">(7/91-12/91)</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.5.3.13" score="1" C-ORDER="18">
+          <did>
+            <unittitle>Minutes <unitdate calendar="gregorian" era="ce">(1992)</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.5.3.14" score="1" C-ORDER="19">
+          <did>
+            <unittitle>Minutes <unitdate calendar="gregorian" era="ce">(1993)</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.5.3.15" score="1" C-ORDER="20">
+          <did>
+            <unittitle>Retreat <unitdate calendar="gregorian" era="ce">(10/89)</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.5.3.16" score="1" C-ORDER="21">
+          <did>
+            <unittitle>Retreat <unitdate calendar="gregorian" era="ce">(11/91)</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.5.3.17" score="1" C-ORDER="22">
+          <did>
+            <unittitle>Personnel policies: <unitdate calendar="gregorian" era="ce">1991, 1992</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series" id="c01-1.8.5.4" score="1" C-ORDER="23">
+        <did>
+          <unittitle>Executive Director</unittitle>
+        </did>
+        <c02 id="c02-1.8.5.4.2" score="1" C-ORDER="24">
+          <did>
+            <container type="Carton">Ctn. 1</container>
+            <unittitle>Correspondence <unitdate calendar="gregorian" era="ce">(1987-1988)</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.5.4.3" score="1" C-ORDER="25">
+          <did>
+            <unittitle>Correspondence <unitdate calendar="gregorian" era="ce">(1989)</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.5.4.4" score="1" C-ORDER="26">
+          <did>
+            <unittitle>Correspondence <unitdate calendar="gregorian" era="ce">(1990)</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.5.4.5" score="1" C-ORDER="27">
+          <did>
+            <unittitle>Correspondence <unitdate calendar="gregorian" era="ce">(1991)</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.5.4.6" score="1" C-ORDER="28">
+          <did>
+            <unittitle>Correspondence <unitdate calendar="gregorian" era="ce">(1992-1993)</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series" id="c01-1.8.5.5" score="1" C-ORDER="29">
+        <did>
+          <unittitle>Member Services</unittitle>
+        </did>
+        <c02 id="c02-1.8.5.5.2" score="1" C-ORDER="30">
+          <did>
+            <container type="Carton">Ctn. 1</container>
+            <unittitle>Correspondence - member services <unitdate calendar="gregorian" era="ce">(1992-1993)</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.5.5.3" score="1" C-ORDER="31">
+          <did>
+            <unittitle>Membership reports</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.5.5.4" score="1" C-ORDER="32">
+          <did>
+            <unittitle>Membership applications, information, solicitation letters</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.5.5.5" score="1" C-ORDER="33">
+          <did>
+            <unittitle>Regional meeting: San Mateo <unitdate calendar="gregorian" era="ce">(5/7/91), </unitdate><unitdate calendar="gregorian" era="ce">(2/7/92)</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.5.5.6" score="1" C-ORDER="34">
+          <did>
+            <unittitle>Regional meeting: Monterey/Santa Cruz <unitdate calendar="gregorian" era="ce">(8/15/91)</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.5.5.7" score="1" C-ORDER="35">
+          <did>
+            <unittitle>Regional meeting: San Francisco <unitdate calendar="gregorian" era="ce">(8/20/91)</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.5.5.8" score="1" C-ORDER="36">
+          <did>
+            <unittitle>Regional meeting: Alameda/Contra Costa <unitdate calendar="gregorian" era="ce">(10/18/91)</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.5.5.9" score="1" C-ORDER="37">
+          <did>
+            <unittitle>Regional meeting: Marin/Sonoma/Napa <unitdate calendar="gregorian" era="ce">(10/23/91)</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.5.5.10" score="1" C-ORDER="38">
+          <did>
+            <unittitle>Regional meeting: Santa Clara <unitdate calendar="gregorian" era="ce">(5/28/92)</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series" id="c01-1.8.5.6" score="1" C-ORDER="39">
+        <did>
+          <unittitle>Publications</unittitle>
+        </did>
+        <c02 id="c02-1.8.5.6.2" score="1" C-ORDER="40">
+          <did>
+            <container type="Carton">Ctn. 1</container>
+            <unittitle>Press releases</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.5.6.3" score="1" C-ORDER="41">
+          <did>
+            <unittitle>
+              <title linktype="simple" inline="true">ASPA Newsletter </title>
+              <unitdate calendar="gregorian" era="ce">(1/89-6/93)</unitdate>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.5.6.4" score="1" C-ORDER="42">
+          <did>
+            <unittitle>Newsletter: photos</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.5.6.5" score="1" C-ORDER="43">
+          <did>
+            <unittitle>Newsletter: contact Sheets</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.5.6.6" score="1" C-ORDER="44">
+          <did>
+            <unittitle>Newsletter development</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.5.6.7" score="1" C-ORDER="45">
+          <did>
+            <unittitle>
+              <title linktype="simple" inline="true">Directory of AIDS Service Providers </title>
+              <unitdate calendar="gregorian" era="ce">1990</unitdate>
+            </unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.5.6.8" score="1" C-ORDER="46">
+          <did>
+            <unittitle><title linktype="simple" inline="true">HIV Referral Directory </title>(2nd Ed) <unitdate calendar="gregorian" era="ce">1992</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.5.6.9" score="1" C-ORDER="47">
+          <did>
+            <unittitle><title linktype="simple" inline="true">HIV Referral Directory </title>(2nd Ed) <unitdate calendar="gregorian" era="ce">1992 </unitdate> <title linktype="simple" inline="true">Directory Update </title><unitdate calendar="gregorian" era="ce">1/93</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.5.6.10" score="1" C-ORDER="48">
+          <did>
+            <unittitle>Directory development <unitdate calendar="gregorian" era="ce">(1990-1991)</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series" id="c01-1.8.5.7" score="1" C-ORDER="49">
+        <did>
+          <unittitle>Development</unittitle>
+        </did>
+        <c02 id="c02-1.8.5.7.2" score="1" C-ORDER="50">
+          <did>
+            <container type="Carton">Ctn. 2</container>
+            <unittitle>Development team</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.5.7.3" score="1" C-ORDER="51">
+          <did>
+            <unittitle>Fundraising: Under One Roof, <unitdate calendar="gregorian" era="ce">1991</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.5.7.4" score="1" C-ORDER="52">
+          <did>
+            <unittitle>Fundraising: River Romp V, <unitdate calendar="gregorian" era="ce">1991</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.5.7.5" score="1" C-ORDER="53">
+          <did>
+            <unittitle>Fundraising: AIDS Bike-A-Thon, <unitdate calendar="gregorian" era="ce">1992</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.5.7.6" score="1" C-ORDER="54">
+          <did>
+            <unittitle>Annual report, <unitdate calendar="gregorian" era="ce">1989</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.5.7.7" score="1" C-ORDER="55">
+          <did>
+            <unittitle>Developing annual report <unitdate calendar="gregorian" era="ce">(1990-1991)</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.5.7.8" score="1" C-ORDER="56">
+          <did>
+            <unittitle>ASPA first anniversary event</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.5.7.9" score="1" C-ORDER="57">
+          <did>
+            <unittitle>Survey on volunteers: forms  results <unitdate calendar="gregorian" era="ce">(1990)</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.5.7.10" score="1" C-ORDER="58">
+          <did>
+            <unittitle>AIDS Volunteer Planning Group</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.5.7.11" score="1" C-ORDER="59">
+          <did>
+            <unittitle>Volunteer projects</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series" id="c01-1.8.5.8" score="1" C-ORDER="60">
+        <did>
+          <unittitle>Public Policy</unittitle>
+        </did>
+        <c02 id="c02-1.8.5.8.2" score="1" C-ORDER="61">
+          <did>
+            <container type="Carton">Ctn. 2</container>
+            <unittitle>Public Policy Advisory Group <unitdate calendar="gregorian" era="ce">(9/90-11/92)</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.5.8.3" score="1" C-ORDER="62">
+          <did>
+            <unittitle>NCG grant to develop HIV Public Policy Network <unitdate calendar="gregorian" era="ce">(11/90-5/91)</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.5.8.4" score="1" C-ORDER="63">
+          <did>
+            <unittitle>Public policy workshop <unitdate calendar="gregorian" era="ce">(4/19/91)</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.5.8.5" score="1" C-ORDER="64">
+          <did>
+            <unittitle>Public policy survey: completed Forms</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.5.8.6" score="1" C-ORDER="65">
+          <did>
+            <unittitle>Public policy survey: completed Forms</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.5.8.7" score="1" C-ORDER="66">
+          <did>
+            <unittitle>Public policy survey: results <unitdate calendar="gregorian" era="ce">(1990)</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.5.8.8" score="1" C-ORDER="67">
+          <did>
+            <unittitle>Public policy: needle exchange <unitdate calendar="gregorian" era="ce">(10/91-1/92)</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.5.8.9" score="1" C-ORDER="68">
+          <did>
+            <unittitle>Public policy: lobby state legislators <unitdate calendar="gregorian" era="ce">(10/91-1992)</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series" id="c01-1.8.5.9" score="1" C-ORDER="69">
+        <did>
+          <unittitle>Trainings and Workshops</unittitle>
+        </did>
+        <c02 id="c02-1.8.5.9.2" score="1" C-ORDER="70">
+          <did>
+            <container type="Carton">Ctn. 2</container>
+            <unittitle>Managing in the '90s <unitdate calendar="gregorian" era="ce">(3/90) </unitdate>[flyer only]</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.5.9.3" score="1" C-ORDER="71">
+          <did>
+            <unittitle>Collaborative grants <unitdate calendar="gregorian" era="ce">(6/92)</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.5.9.4" score="1" C-ORDER="72">
+          <did>
+            <unittitle>Media and AIDS service organizations <unitdate calendar="gregorian" era="ce">(9/92)</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.5.9.5" score="1" C-ORDER="73">
+          <did>
+            <unittitle>Negotiating government contracts <unitdate calendar="gregorian" era="ce">(10/92)</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.5.9.6" score="1" C-ORDER="74">
+          <did>
+            <unittitle>Technical assistance: resources <unitdate calendar="gregorian" era="ce">(1990)</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.5.9.7" score="1" C-ORDER="75">
+          <did>
+            <unittitle>Responsible nonprofit mgmt  ethical fundraising, <unitdate calendar="gregorian" era="ce">(1991)</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.5.9.8" score="1" C-ORDER="76">
+          <did>
+            <unittitle>Empowering AIDS educators and caregivers <unitdate calendar="gregorian" era="ce">(1991, 1992)</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.5.9.9" score="1" C-ORDER="77">
+          <did>
+            <unittitle>Management assistance for nonprofits <unitdate calendar="gregorian" era="ce">(1992)</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.5.9.10" score="1" C-ORDER="78">
+          <did>
+            <unittitle>HIV and Americans with Disabilities Act <unitdate calendar="gregorian" era="ce">(3/93)</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series" id="c01-1.8.5.10" score="1" C-ORDER="79">
+        <did>
+          <unittitle>Surveys</unittitle>
+        </did>
+        <c02 id="c02-1.8.5.10.2" score="1" C-ORDER="80">
+          <did>
+            <container type="Carton">Ctn. 2</container>
+            <unittitle>Earthquake survey, <unitdate calendar="gregorian" era="ce">1989 </unitdate>(1 of 2)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.5.10.3" score="1" C-ORDER="81">
+          <did>
+            <unittitle>Earthquake survey, <unitdate calendar="gregorian" era="ce">1989 </unitdate>(2 of 2)</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.5.10.4" score="1" C-ORDER="82">
+          <did>
+            <unittitle>Earthquake relief</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.5.10.5" score="1" C-ORDER="83">
+          <did>
+            <unittitle>Needs assessment <unitdate calendar="gregorian" era="ce">(1992-1993)</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.5.10.6" score="1" C-ORDER="84">
+          <did>
+            <unittitle>Need for fundraising calendar - responses</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series" id="c01-1.8.5.11" score="1" C-ORDER="85">
+        <did>
+          <unittitle>Multi-Member and Ad Hoc Organizations</unittitle>
+        </did>
+        <c02 id="c02-1.8.5.11.2" score="1" C-ORDER="86">
+          <did>
+            <container type="Carton">Ctn. 2</container>
+            <unittitle>AIDS/ARC Housing Committee <unitdate calendar="gregorian" era="ce">(8/89-7/90; 10/91-12/91)</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.5.11.3" score="1" C-ORDER="87">
+          <did>
+            <unittitle>Housing Rights: [Gary Harmon forces the issue]</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.5.11.4" score="1" C-ORDER="88">
+          <did>
+            <unittitle>Community partnership/SF model meetings <unitdate calendar="gregorian" era="ce">(1989)</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.5.11.5" score="1" C-ORDER="89">
+          <did>
+            <unittitle>HIV Community-Based Plan: funding grant</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.5.11.6" score="1" C-ORDER="90">
+          <did>
+            <unittitle>HIV Community-Based Plan: minutes, corresp, reports <unitdate calendar="gregorian" era="ce">(1989-90)</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.5.11.7" score="1" C-ORDER="91">
+          <did>
+            <unittitle>AIDS Business Coalition <unitdate calendar="gregorian" era="ce">(9/90-4/91)</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.5.11.8" score="1" C-ORDER="92">
+          <did>
+            <unittitle>HIV Support Group Coalition <unitdate calendar="gregorian" era="ce">(7/92)</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.5.11.9" score="1" C-ORDER="93">
+          <did>
+            <unittitle>HIV treatment awareness week <unitdate calendar="gregorian" era="ce">(6/89)</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.5.11.10" score="1" C-ORDER="94">
+          <did>
+            <unittitle>Life Lobby <unitdate calendar="gregorian" era="ce">(10/87; 8/89; 3/90-6/90)</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.5.11.11" score="1" C-ORDER="95">
+          <did>
+            <unittitle>Life Lobby <unitdate calendar="gregorian" era="ce">(12/90-1/92)</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.5.11.12" score="1" C-ORDER="96">
+          <did>
+            <unittitle>California Association of AIDS Agencies <unitdate calendar="gregorian" era="ce">(1/90-2/90)</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.5.11.13" score="1" C-ORDER="97">
+          <did>
+            <unittitle>California Association of AIDS Agencies <unitdate calendar="gregorian" era="ce">(3/90-5/90)</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.8.5.11.14" score="1" C-ORDER="98">
+          <did>
+            <unittitle>AIDS Budget Action Group <unitdate calendar="gregorian" era="ce">(3/91-5/91)</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

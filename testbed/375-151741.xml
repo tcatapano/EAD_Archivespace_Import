@@ -1,0 +1,627 @@
+<?xml version="1.0" standalone="no" ?>
+<?xml-stylesheet type="text/xsl" href="./styles/gwuead_2002.xsl" ?>
+<?xml-stylesheet type="text/xsl" href="./styles/ead.xsl"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "./dtds2002/ead.dtd" [
+
+<!ENTITY % xmlchars SYSTEM "./entities/xmlchars.ent">
+<!ENTITY gwuaddr SYSTEM "./entities/gwuaddr.xml">
+<!ENTITY gwucpyrt SYSTEM "./entities/gwucpyrt.xml">    
+
+%xmlchars;
+]>
+<ead>
+
+<eadheader langencoding="iso639-2b" scriptencoding="iso15924" relatedencoding="DC" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601">
+<eadid countrycode="us" mainagencycode="DcWaGWG">ms2049</eadid>
+<filedesc>
+<titlestmt>
+
+	<titleproper encodinganalog="Title.titleproper">Guide to the James E. Nathanson papers, <date>1981-1994</date></titleproper>
+        <author encodinganalog="Creator.author">Special Collections Research Center, The George Washington University</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher encodinganalog="Publisher">Special Collections Research Center, The Gelman Library, The George Washington University</publisher>
+        <date encodinganalog="Date.publication" type="publication" normal="2006">2006</date>
+        <address>
+          <addressline> 2130 H. St. NW, Washington, D.C. 20052</addressline>
+              <addressline>Phone: 202-994-7549</addressline>
+     <addressline>Email: speccoll@gwu.edu</addressline>
+        </address>
+      </publicationstmt>
+ </filedesc>
+ <profiledesc>
+<creation encodinganalog="Description.creation">Machine-readable finding aid derived from Re:discovery database program and converted into xml; Code template by Archives and Information Associates (http://archivesandinformation.com), Alexandria, Virginia 
+. <date encodinganalog="Date.available" normal="2005">2005</date>
+</creation>
+
+<langusage>Finding aid written in <language encodinganalog="language">English</language></langusage>
+</profiledesc>
+
+
+  </eadheader>
+  <frontmatter>
+      <titlepage>
+          <titleproper encodinganalog="title">Guide to the James E. Nathanson Papers, <date>1981-1994</date></titleproper>
+      <num>MS2049</num>
+      <publisher encodinganalog="publisher">Special Collections Research Center, The Gelman Library, The George Washington University</publisher>
+	<address>
+	<addressline>Washington, D.C.</addressline>
+	</address>
+<list type="deflist">
+<defitem>
+<label>Processed by: </label>
+<item>Special Collections Staff, <date>2006</date></item>
+</defitem>
+<defitem>
+ <label>Encoded by: </label>
+<item>Jennifer King, <date>2006</date></item>
+ </defitem>
+ </list><p>copyright 2006 The George Washington University. All rights reserved.</p>
+  </titlepage>
+  </frontmatter>
+<archdesc level="collection" type="inventory" relatedencoding="DC">
+    <did id="d_summary">
+<head>Descriptive Summary</head>
+	<origination label="Creator">
+  <persname>Nathanson, James E.</persname>
+	</origination>
+<unittitle encodinganalog="Title" label="Title">James E. Nathanson papers, <unitdate type="inclusive" normal="" encodinganalog="Coverage.temporal">1981-1994</unitdate></unittitle>
+          <unitid countrycode="us" repositorycode="DcWaGWG" encodinganalog="Source.collectionnumber" label="Catalog number">MS2049</unitid>
+<physdesc> <extent encodinganalog="Format.extent" label="Extent">95 Linear feet</extent></physdesc>
+ <abstract encodinganalog="Abstract">Collection contains reports, articles, and correspondence dating from 1981-1994.  The files were created by Nathanson and his staff during his two consecutive terms as a member of the Council of the District of Columbia.</abstract>
+ <repository encodinganalog="Source.repository" label="Repository">
+            <corpname>The George Washington University, The Gelman Library, Special Collections Research Center</corpname>
+<address><addressline><lb />2130 H. St. NW<lb /></addressline>
+<addressline>Washington, D.C. 20052<lb /></addressline>
+<addressline>Phone: 202-994-7549<lb /></addressline>
+<addressline>Email: <extptr href="mailto:speccoll@gwu.edu" title="speccoll@gwu.edu"></extptr></addressline></address>
+</repository>
+
+      <langmaterial label="Language of Materials">English</langmaterial>
+
+      </did>
+<descgrp encodinganalog="Description.descgrp" type="admininfo">
+<head>Information for Users</head>
+<prefercite encodinganalog="Description.prefercite">
+            <head>Preferred citation</head>
+            <p>James E. Nathanson papers, Special Collections Research Center, The George Washington University.</p>
+      </prefercite>
+      	 	<accessrestrict encodinganalog="Rights.accessrestrict">
+      	 	<head>Restrictions on Access</head>
+      	 	<p>Some records may be restricted.</p>
+      	 	</accessrestrict>
+<acqinfo encodinganalog="541">
+<head>Acquisition Information</head>
+<p>James E. Nathanson donated these records in 1995.</p>
+</acqinfo>
+      	 	<userestrict encodinganalog="Rights.userestrict ">
+      	 	<head>Restrictions on Use</head>
+      	 	<p>Some material may be copyrighted or restricted. It is the patron's obligation to determine and satisfy copyright or other case restrictions when publishing or otherwise distributing materials found in the collections.</p>
+</userestrict>
+   </descgrp>
+<bioghist encodinganalog="Description.bioghist">
+<head>Historical or Biographical Note</head>
+<p>James E. Nathanson was member of the Council of the District of Columbia from 1987-94. He served Ward Three.</p>
+</bioghist>
+<scopecontent encodinganalog="Description.scopecontent">
+<head>Collection Scope and Content</head>
+<p>This collection contains reports, articles, and correspondence.  The material dates from 1981-94.  The files were created by Nathanson and his staff during his two consecutive terms as a member of the Council of the District of Columbia.</p>
+</scopecontent>
+<arrangement encodinganalog="351a">
+<head>Collection Organization</head>
+<p>Organized into three series: General office files, Committee files, and In-active files.</p>
+</arrangement>
+
+<controlaccess>
+<head>Subject Terms</head>
+<controlaccess><head>Individuals</head>
+<persname encodinganalog="Subject.personalnames" rules="aacr2">Nathanson, James E.</persname>
+</controlaccess>
+ <controlaccess>
+<head>Corporate Entities</head>
+<corpname encodinganalog="Subject.corporatenames" rules="aacr2">District of Columbia. City Council</corpname>
+</controlaccess>
+<controlaccess>
+<head>Topics</head>
+<subject encodinganalog="Subject" source="lcsh">District of Columbia. City Council</subject>
+<subject encodinganalog="Subject" source="lcsh">
+James E. Nathanson papers</subject>
+</controlaccess>
+<controlaccess>
+<head>Geographic Locations</head>
+<geogname encodinganalog="Coverage.spatial">Washington (D.C.)</geogname>
+</controlaccess>
+ </controlaccess>
+<dsc type="combined">
+<head>Detailed Description of the Records</head>
+<c01 level="series" id="ms2049_001">
+  <did>
+ <unitid encodinganalog="Identifier.SERid">MS2049 Series 1</unitid>
+ <unittitle encodinganalog="Title.series">General office files, <unitdate encodinganalog="Date.series">1987-1994</unitdate></unittitle>
+ <physdesc encodinganalog="Format.extentSER">28 Linear feet</physdesc>
+  </did>
+ <scopecontent encodinganalog="Description.scopecontentSER">
+ <p>This series contains reports, correspondence, and research files. The years cover 1987-94. This material was created by James E. Nathanson and his staff during his time as a member of the Council of the District of Columbia.  The subjects covered by this material include: housing, mental health, zoning, ABC regulations, Cleveland Park, traffic, real property tax, and sports.</p>
+  </scopecontent>
+
+<c02 level="file">
+<did>
+<container label="Box" type="Box">1</container>
+<unittitle encodinganalog="Title.folder">Housing-Medicaid, 1990-1992, <unitdate encodinganalog="Date.folder" type="inclusive">undated</unitdate></unittitle>
+<note encodinganalog="Description.noteF"><p></p></note>
+	</did>
+	</c02>
+<c02 level="file">
+<did>
+<container label="Box" type="Box">2</container>
+<unittitle encodinganalog="Title.folder">Mental Health-Public Space Commission, 1990-1992, <unitdate encodinganalog="Date.folder" type="inclusive">undated</unitdate></unittitle>
+<note encodinganalog="Description.noteF"><p></p></note>
+	</did>
+	</c02>
+<c02 level="file">
+<did>
+<container label="Box" type="Box">3</container>
+<unittitle encodinganalog="Title.folder">Public Space-Solid Waste, 1990-1992, <unitdate encodinganalog="Date.folder" type="inclusive">undated</unitdate></unittitle>
+<note encodinganalog="Description.noteF"><p></p></note>
+	</did>
+	</c02>
+<c02 level="file">
+<did>
+<container label="Box" type="Box">4</container>
+<unittitle encodinganalog="Title.folder">Sports-Tort Reform, 1990-1992, <unitdate encodinganalog="Date.folder" type="inclusive">undated</unitdate></unittitle>
+<note encodinganalog="Description.noteF"><p></p></note>
+	</did>
+	</c02>
+<c02 level="file">
+<did>
+<container label="Box" type="Box">5</container>
+<unittitle encodinganalog="Title.folder">Tourism-Transportation, 1990-1992, <unitdate encodinganalog="Date.folder" type="inclusive">undated</unitdate></unittitle>
+<note encodinganalog="Description.noteF"><p></p></note>
+	</did>
+	</c02>
+<c02 level="file">
+<did>
+<container label="Box" type="Box">6</container>
+<unittitle encodinganalog="Title.folder">Trees-Zoning, 1990-1992, <unitdate encodinganalog="Date.folder" type="inclusive">undated</unitdate></unittitle>
+<note encodinganalog="Description.noteF"><p></p></note>
+	</did>
+	</c02>
+<c02 level="file">
+<did>
+<container label="Box" type="Box">7</container>
+<unittitle encodinganalog="Title.folder">Zoning-Reading Files A-Z, 1990-1993, <unitdate encodinganalog="Date.folder" type="inclusive">undated</unitdate></unittitle>
+<note encodinganalog="Description.noteF"><p></p></note>
+	</did>
+	</c02>
+<c02 level="file">
+<did>
+<container label="Box" type="Box">8</container>
+<unittitle encodinganalog="Title.folder">ABC Regulations-Children and Youth, 1993, <unitdate encodinganalog="Date.folder" type="inclusive">undated</unitdate></unittitle>
+<note encodinganalog="Description.noteF"><p></p></note>
+	</did>
+	</c02>
+<c02 level="file">
+<did>
+<container label="Box" type="Box">9</container>
+<unittitle encodinganalog="Title.folder">Cleveland Park Historical Society-Housing, 1993, <unitdate encodinganalog="Date.folder" type="inclusive">undated</unitdate></unittitle>
+<note encodinganalog="Description.noteF"><p></p></note>
+	</did>
+	</c02>
+<c02 level="file">
+<did>
+<container label="Box" type="Box">10</container>
+<unittitle encodinganalog="Title.folder">Housing Assistance-Public Space, 1993, <unitdate encodinganalog="Date.folder" type="inclusive">undated</unitdate></unittitle>
+<note encodinganalog="Description.noteF"><p></p></note>
+	</did>
+	</c02>
+<c02 level="file">
+<did>
+<container label="Box" type="Box">11</container>
+<unittitle encodinganalog="Title.folder">Real Property Taxes-Traffic Adjudication, 1993, <unitdate encodinganalog="Date.folder" type="inclusive">undated</unitdate></unittitle>
+<note encodinganalog="Description.noteF"><p></p></note>
+	</did>
+	</c02>
+<c02 level="file">
+<did>
+<container label="Box" type="Box">12</container>
+<unittitle encodinganalog="Title.folder">Traffic Adjudication-Reading Files A-Z, 1993-1994, <unitdate encodinganalog="Date.folder" type="inclusive">undated</unitdate></unittitle>
+<note encodinganalog="Description.noteF"><p></p></note>
+	</did>
+	</c02>
+<c02 level="file">
+<did>
+<container label="Box" type="Box">13</container>
+<unittitle encodinganalog="Title.folder">Abandoned Cars-Community Based Residential Facilities (CBRF), 1994, <unitdate encodinganalog="Date.folder" type="inclusive">undated</unitdate></unittitle>
+<note encodinganalog="Description.noteF"><p></p></note>
+	</did>
+	</c02>
+<c02 level="file">
+<did>
+<container label="Box" type="Box">14</container>
+<unittitle encodinganalog="Title.folder">CBRF-Economic Development, 1994, <unitdate encodinganalog="Date.folder" type="inclusive">undated</unitdate></unittitle>
+<note encodinganalog="Description.noteF"><p></p></note>
+	</did>
+	</c02>
+<c02 level="file">
+<did>
+<container label="Box" type="Box">15</container>
+<unittitle encodinganalog="Title.folder">Education-Nathanson Clippings, 1994, <unitdate encodinganalog="Date.folder" type="inclusive">undated</unitdate></unittitle>
+<note encodinganalog="Description.noteF"><p></p></note>
+	</did>
+	</c02>
+<c02 level="file">
+<did>
+<container label="Box" type="Box">16</container>
+<unittitle encodinganalog="Title.folder">Nathanson Files-University of the District of Columbia (UDC), 1994, <unitdate encodinganalog="Date.folder" type="inclusive">undated</unitdate></unittitle>
+<note encodinganalog="Description.noteF"><p></p></note>
+	</did>
+	</c02>
+<c02 level="file">
+<did>
+<container label="Box" type="Box">17</container>
+<unittitle encodinganalog="Title.folder">Traffic Adjudication-Zoning, 1994, <unitdate encodinganalog="Date.folder" type="inclusive">undated</unitdate></unittitle>
+<note encodinganalog="Description.noteF"><p></p></note>
+	</did>
+	</c02>
+<c02 level="file">
+<did>
+<container label="Box" type="Box">18</container>
+<unittitle encodinganalog="Title.folder">Appointment Books, 1987-1994; Constituent Request Forms, 1992, <unitdate encodinganalog="Date.folder" type="inclusive">undated</unitdate></unittitle>
+<note encodinganalog="Description.noteF"><p></p></note>
+	</did>
+	</c02>
+<c02 level="file">
+<did>
+<container label="Box" type="Box">19</container>
+<unittitle encodinganalog="Title.folder">Constituent Request Books, 1993-1994, <unitdate encodinganalog="Date.folder" type="inclusive">undated</unitdate></unittitle>
+<note encodinganalog="Description.noteF"><p></p></note>
+	</did>
+</c02>
+	</c01>
+<c01 level="series" id="ms2049_002">
+  <did>
+ <unitid encodinganalog="Identifier.SERid">MS2049 Series 2</unitid>
+ <unittitle encodinganalog="Title.series">Committee files, <unitdate encodinganalog="Date.series">1990-1994</unitdate></unittitle>
+ <physdesc encodinganalog="Format.extentSER">9 Linear feet</physdesc>
+  </did>
+ <scopecontent encodinganalog="Description.scopecontentSER">
+ <p>This series contains correspondence and committee records for the Committee on the Judiciary. The material dates from 1990-94.  These materials were created by James E. Nathanson and his staff during his time as a Council member of the Council of the District of Columbia.</p>
+  </scopecontent>
+
+<c02 level="file">
+<did>
+<container label="Box" type="Box">20</container>
+<unittitle encodinganalog="Title.folder">Committee's on the Judiciary, Public Works, Finance and Revenue, and Georgetown Operation Facility, 1990-1994, <unitdate encodinganalog="Date.folder" type="inclusive">undated</unitdate></unittitle>
+<note encodinganalog="Description.noteF"><p></p></note>
+	</did>
+	</c02>
+<c02 level="file">
+<did>
+<container label="Box" type="Box">21</container>
+<unittitle encodinganalog="Title.folder">Committee on the Judiciary:  Council for Court Excellence and Panhandling Subject File, 1992-1994, <unitdate encodinganalog="Date.folder" type="inclusive">undated</unitdate></unittitle>
+<note encodinganalog="Description.noteF"><p></p></note>
+	</did>
+	</c02>
+<c02 level="file">
+<did>
+<container label="Box" type="Box">22</container>
+<unittitle encodinganalog="Title.folder">Committee on the Judiciary: Corrections Subject Files and Oversight Hearing, 1993-1994, <unitdate encodinganalog="Date.folder" type="inclusive">undated</unitdate></unittitle>
+<note encodinganalog="Description.noteF"><p></p></note>
+	</did>
+	</c02>
+<c02 level="file">
+<did>
+<container label="Box" type="Box">23</container>
+<unittitle encodinganalog="Title.folder">Committee on the Judiciary:  Corrections Correspondence Files and General Legislative Files, 1990-1994, <unitdate encodinganalog="Date.folder" type="inclusive">undated</unitdate></unittitle>
+<note encodinganalog="Description.noteF"><p></p></note>
+	</did>
+	</c02>
+<c02 level="file">
+<did>
+<container label="Box" type="Box">24</container>
+<unittitle encodinganalog="Title.folder">Committee on the Judiciary:  Corrections Subject Files and Potomac Rehab Services, Inc., 1991-1993, <unitdate encodinganalog="Date.folder" type="inclusive">undated</unitdate></unittitle>
+<note encodinganalog="Description.noteF"><p></p></note>
+	</did>
+	</c02>
+<c02 level="file">
+<did>
+<container label="Box" type="Box">25</container>
+<unittitle encodinganalog="Title.folder">Committee on the Judiciary:  Corrections and Criminal Justice Reform Subject Files, 1993-1994, <unitdate encodinganalog="Date.folder" type="inclusive">undated</unitdate></unittitle>
+<note encodinganalog="Description.noteF"><p></p></note>
+	</did>
+</c02>
+	</c01>
+<c01 level="series" id="ms2049_003">
+  <did>
+ <unitid encodinganalog="Identifier.SERid">MS2049 Series 3</unitid>
+ <unittitle encodinganalog="Title.series">In-active files, <unitdate encodinganalog="Date.series">1981-1989</unitdate></unittitle>
+ <physdesc encodinganalog="Format.extentSER">58 Linear feet</physdesc>
+  </did>
+ <scopecontent encodinganalog="Description.scopecontentSER">
+ <p>This series contains correspondence, financial records, and research files that cover the years 1981-89.  These files were created by James E. Nathanson and his staff during his time as a council member of the Council of the District of Columbia.  Subjects in this series include: human rights, health care, housing, taxes, transporation, civic associations, traffic, statehood, and development.</p>
+  </scopecontent>
+
+<c02 level="file">
+<did>
+<container label="Box" type="Box">26</container>
+<unittitle encodinganalog="Title.folder">Postal Service-Public Activities Thank You's, 1987 Files, <unitdate encodinganalog="Date.folder" type="inclusive">undated</unitdate></unittitle>
+<note encodinganalog="Description.noteF"><p></p></note>
+	</did>
+	</c02>
+<c02 level="file">
+<did>
+<container label="Box" type="Box">27</container>
+<unittitle encodinganalog="Title.folder">Invitations Accepted and Appointments, June-July 1988; Development, Connecticut Ave. and Historic Preservation, 1987 Files, <unitdate encodinganalog="Date.folder" type="inclusive">undated</unitdate></unittitle>
+<note encodinganalog="Description.noteF"><p></p></note>
+	</did>
+	</c02>
+<c02 level="file">
+<did>
+<container label="Box" type="Box">28</container>
+<unittitle encodinganalog="Title.folder">Recycling-Thank You's, 1988 Files, <unitdate encodinganalog="Date.folder" type="inclusive">undated</unitdate></unittitle>
+<note encodinganalog="Description.noteF"><p></p></note>
+	</did>
+	</c02>
+<c02 level="file">
+<did>
+<container label="Box" type="Box">29</container>
+<unittitle encodinganalog="Title.folder">Invitations Accepted and Appointments, Sept.-Dec. 1988, <unitdate encodinganalog="Date.folder" type="inclusive">undated</unitdate></unittitle>
+<note encodinganalog="Description.noteF"><p></p></note>
+	</did>
+	</c02>
+<c02 level="file">
+<did>
+<container label="Box" type="Box">30</container>
+<unittitle encodinganalog="Title.folder">Development Zoning, Home Occupations-Education, 1987 Files, <unitdate encodinganalog="Date.folder" type="inclusive">undated</unitdate></unittitle>
+<note encodinganalog="Description.noteF"><p></p></note>
+	</did>
+	</c02>
+<c02 level="file">
+<did>
+<container label="Box" type="Box">31</container>
+<unittitle encodinganalog="Title.folder">Reading Files A-Z, 1988;  Abandoned Vehicles-Business, 1988 Files, <unitdate encodinganalog="Date.folder" type="inclusive">undated</unitdate></unittitle>
+<note encodinganalog="Description.noteF"><p></p></note>
+	</did>
+	</c02>
+<c02 level="file">
+<did>
+<container label="Box" type="Box">32</container>
+<unittitle encodinganalog="Title.folder">Human Rights, New York Law-Memorials, 1987 Files, <unitdate encodinganalog="Date.folder" type="inclusive">undated</unitdate></unittitle>
+<note encodinganalog="Description.noteF"><p></p></note>
+	</did>
+	</c02>
+<c02 level="file">
+<did>
+<container label="Box" type="Box">33</container>
+<unittitle encodinganalog="Title.folder">Utilities, 1987 Files;  National Airport, 1981-1983, <unitdate encodinganalog="Date.folder" type="inclusive">undated</unitdate></unittitle>
+<note encodinganalog="Description.noteF"><p></p></note>
+	</did>
+	</c02>
+<c02 level="file">
+<did>
+<container label="Box" type="Box">34</container>
+<unittitle encodinganalog="Title.folder">Health Care Decisions-Mental Health, 1987 Files, <unitdate encodinganalog="Date.folder" type="inclusive">undated</unitdate></unittitle>
+<note encodinganalog="Description.noteF"><p></p></note>
+	</did>
+	</c02>
+<c02 level="file">
+<did>
+<container label="Box" type="Box">35</container>
+<unittitle encodinganalog="Title.folder">Health Nursing-Housing, 1987 Files, <unitdate encodinganalog="Date.folder" type="inclusive">undated</unitdate></unittitle>
+<note encodinganalog="Description.noteF"><p></p></note>
+	</did>
+	</c02>
+<c02 level="file">
+<did>
+<container label="Box" type="Box">36</container>
+<unittitle encodinganalog="Title.folder">Budget Hearings for Special Committees, 1988-1989, <unitdate encodinganalog="Date.folder" type="inclusive">undated</unitdate></unittitle>
+<note encodinganalog="Description.noteF"><p></p></note>
+	</did>
+	</c02>
+<c02 level="file">
+<did>
+<container label="Box" type="Box">37</container>
+<unittitle encodinganalog="Title.folder">Housing, Berkshire-Housing, Rental, 1987 Files, <unitdate encodinganalog="Date.folder" type="inclusive">undated</unitdate></unittitle>
+<note encodinganalog="Description.noteF"><p></p></note>
+	</did>
+	</c02>
+<c02 level="file">
+<did>
+<container label="Box" type="Box">38</container>
+<unittitle encodinganalog="Title.folder">Reading File A-Z, 1987, <unitdate encodinganalog="Date.folder" type="inclusive">undated</unitdate></unittitle>
+<note encodinganalog="Description.noteF"><p></p></note>
+	</did>
+	</c02>
+<c02 level="file">
+<did>
+<container label="Box" type="Box">39</container>
+<unittitle encodinganalog="Title.folder">Housing, Rent Control-Human Rights, JEN Amendment to Human Rights Law, 1987 Files, <unitdate encodinganalog="Date.folder" type="inclusive">undated</unitdate></unittitle>
+<note encodinganalog="Description.noteF"><p></p></note>
+	</did>
+	</c02>
+<c02 level="file">
+<did>
+<container label="Box" type="Box">40</container>
+<unittitle encodinganalog="Title.folder">Citizens-Civic Associations, 1987 Files, <unitdate encodinganalog="Date.folder" type="inclusive">undated</unitdate></unittitle>
+<note encodinganalog="Description.noteF"><p></p></note>
+	</did>
+	</c02>
+<c02 level="file">
+<did>
+<container label="Box" type="Box">41</container>
+<unittitle encodinganalog="Title.folder">FY 89 Budget and FY 88 Supplemental Budget for Committees, 1988-1989, <unitdate encodinganalog="Date.folder" type="inclusive">undated</unitdate></unittitle>
+<note encodinganalog="Description.noteF"><p></p></note>
+	</did>
+	</c02>
+<c02 level="file">
+<did>
+<container label="Box" type="Box">42</container>
+<unittitle encodinganalog="Title.folder">Invitations Accepted and Appointments, Jan.-May 1987, <unitdate encodinganalog="Date.folder" type="inclusive">undated</unitdate></unittitle>
+<note encodinganalog="Description.noteF"><p></p></note>
+	</did>
+	</c02>
+<c02 level="file">
+<did>
+<container label="Box" type="Box">43</container>
+<unittitle encodinganalog="Title.folder">Taxes-Transportation, Air, 1987 Files, <unitdate encodinganalog="Date.folder" type="inclusive">undated</unitdate></unittitle>
+<note encodinganalog="Description.noteF"><p></p></note>
+	</did>
+	</c02>
+<c02 level="file">
+<did>
+<container label="Box" type="Box">44</container>
+<unittitle encodinganalog="Title.folder">City Services, Streets and Sidewalks-Consumer Affairs, No-Fault Insurance, 1987 Files, <unitdate encodinganalog="Date.folder" type="inclusive">undated</unitdate></unittitle>
+<note encodinganalog="Description.noteF"><p></p></note>
+	</did>
+	</c02>
+<c02 level="file">
+<did>
+<container label="Box" type="Box">45</container>
+<unittitle encodinganalog="Title.folder">ANC's-Committee of the Whole (COW), 1988 Files, <unitdate encodinganalog="Date.folder" type="inclusive">undated</unitdate></unittitle>
+<note encodinganalog="Description.noteF"><p></p></note>
+	</did>
+	</c02>
+<c02 level="file">
+<did>
+<container label="Box" type="Box">46</container>
+<unittitle encodinganalog="Title.folder">FY 89 Budget and FY 88 Supplemental Budget for Committees, 1988-1989, <unitdate encodinganalog="Date.folder" type="inclusive">undated</unitdate></unittitle>
+<note encodinganalog="Description.noteF"><p></p></note>
+	</did>
+	</c02>
+<c02 level="file">
+<did>
+<container label="Box" type="Box">47</container>
+<unittitle encodinganalog="Title.folder">Traffic Adjudication-Utilities, Electric;  Administrative Council Auditor, 1987 Files, <unitdate encodinganalog="Date.folder" type="inclusive">undated</unitdate></unittitle>
+<note encodinganalog="Description.noteF"><p></p></note>
+	</did>
+	</c02>
+<c02 level="file">
+<did>
+<container label="Box" type="Box">48</container>
+<unittitle encodinganalog="Title.folder">Unemployment-Workmen's Compensation;  Council Auditor-Mayor's Office, 1987 Files, <unitdate encodinganalog="Date.folder" type="inclusive">undated</unitdate></unittitle>
+<note encodinganalog="Description.noteF"><p></p></note>
+	</did>
+	</c02>
+<c02 level="file">
+<did>
+<container label="Box" type="Box">49</container>
+<unittitle encodinganalog="Title.folder">Crime, Firearms-Development, Building Permits, 1987 Files, <unitdate encodinganalog="Date.folder" type="inclusive">undated</unitdate></unittitle>
+<note encodinganalog="Description.noteF"><p></p></note>
+	</did>
+	</c02>
+<c02 level="file">
+<did>
+<container label="Box" type="Box">50</container>
+<unittitle encodinganalog="Title.folder">Development, Wisconsin Ave.-Development, Zoning, 1987 Files, <unitdate encodinganalog="Date.folder" type="inclusive">undated</unitdate></unittitle>
+<note encodinganalog="Description.noteF"><p></p></note>
+	</did>
+	</c02>
+<c02 level="file">
+<did>
+<container label="Box" type="Box">51</container>
+<unittitle encodinganalog="Title.folder">FY 88 Supplemental Budget for Special Committees and FY 89 Budget Hearings, 1988-1989, <unitdate encodinganalog="Date.folder" type="inclusive">undated</unitdate></unittitle>
+<note encodinganalog="Description.noteF"><p></p></note>
+	</did>
+	</c02>
+<c02 level="file">
+<did>
+<container label="Box" type="Box">52</container>
+<unittitle encodinganalog="Title.folder">Recreation-Statehood, 1987 Files, <unitdate encodinganalog="Date.folder" type="inclusive">undated</unitdate></unittitle>
+<note encodinganalog="Description.noteF"><p></p></note>
+	</did>
+	</c02>
+<c02 level="file">
+<did>
+<container label="Box" type="Box">53</container>
+<unittitle encodinganalog="Title.folder">Telephone Message Pads and File on Constituent Funds, 1987, <unitdate encodinganalog="Date.folder" type="inclusive">undated</unitdate></unittitle>
+<note encodinganalog="Description.noteF"><p></p></note>
+	</did>
+	</c02>
+<c02 level="file">
+<did>
+<container label="Box" type="Box">54</container>
+<unittitle encodinganalog="Title.folder">1983 Comprehensive Plan, 1983-1986, <unitdate encodinganalog="Date.folder" type="inclusive">undated</unitdate></unittitle>
+<note encodinganalog="Description.noteF"><p></p></note>
+	</did>
+	</c02>
+<c02 level="file">
+<did>
+<container label="Box" type="Box">55</container>
+<unittitle encodinganalog="Title.folder">Statehood-Taxes, 1987 Files, <unitdate encodinganalog="Date.folder" type="inclusive">undated</unitdate></unittitle>
+<note encodinganalog="Description.noteF"><p></p></note>
+	</did>
+	</c02>
+<c02 level="file">
+<did>
+<container label="Box" type="Box">56</container>
+<unittitle encodinganalog="Title.folder">1983 Comprehensive Plan, 1983-1986, <unitdate encodinganalog="Date.folder" type="inclusive">undated</unitdate></unittitle>
+<note encodinganalog="Description.noteF"><p></p></note>
+	</did>
+	</c02>
+<c02 level="file">
+<did>
+<container label="Box" type="Box">57</container>
+<unittitle encodinganalog="Title.folder">Administrative Auditor-Mayor's Office, 1988 Files, <unitdate encodinganalog="Date.folder" type="inclusive">undated</unitdate></unittitle>
+<note encodinganalog="Description.noteF"><p></p></note>
+	</did>
+	</c02>
+<c02 level="file">
+<did>
+<container label="Box" type="Box">58</container>
+<unittitle encodinganalog="Title.folder">Animals-City Services, Stop Signs and Lights, 1987 Files, <unitdate encodinganalog="Date.folder" type="inclusive">undated</unitdate></unittitle>
+<note encodinganalog="Description.noteF"><p></p></note>
+	</did>
+	</c02>
+<c02 level="file">
+<did>
+<container label="Box" type="Box">59</container>
+<unittitle encodinganalog="Title.folder">Labeled, Empty File Folders, <unitdate encodinganalog="Date.folder" type="inclusive">undated</unitdate></unittitle>
+<note encodinganalog="Description.noteF"><p></p></note>
+	</did>
+	</c02>
+<c02 level="file">
+<did>
+<container label="Box" type="Box">60</container>
+<unittitle encodinganalog="Title.folder">Invitations Accepted and Appointments, Jan.-May 1988, <unitdate encodinganalog="Date.folder" type="inclusive">undated</unitdate></unittitle>
+<note encodinganalog="Description.noteF"><p></p></note>
+	</did>
+	</c02>
+<c02 level="file">
+<did>
+<container label="Box" type="Box">61</container>
+<unittitle encodinganalog="Title.folder">Condolences-Gas Company, 1988 Files, <unitdate encodinganalog="Date.folder" type="inclusive">undated</unitdate></unittitle>
+<note encodinganalog="Description.noteF"><p></p></note>
+	</did>
+	</c02>
+<c02 level="file">
+<did>
+<container label="Box" type="Box">62</container>
+<unittitle encodinganalog="Title.folder">Boards and Commissions, Citizens-Civic Associations, 1988 Files, <unitdate encodinganalog="Date.folder" type="inclusive">undated</unitdate></unittitle>
+<note encodinganalog="Description.noteF"><p></p></note>
+	</did>
+	</c02>
+<c02 level="file">
+<did>
+<container label="Box" type="Box">63</container>
+<unittitle encodinganalog="Title.folder">Gay Community-Requests, 1988 Files, <unitdate encodinganalog="Date.folder" type="inclusive">undated</unitdate></unittitle>
+<note encodinganalog="Description.noteF"><p></p></note>
+	</did>
+	</c02>
+<c02 level="file">
+<did>
+<container label="Box" type="Box">64</container>
+<unittitle encodinganalog="Title.folder">Invitations Accepted and Appointments, Jan.-July 1989, <unitdate encodinganalog="Date.folder" type="inclusive">undated</unitdate></unittitle>
+<note encodinganalog="Description.noteF"><p></p></note>
+	</did>
+	</c02>
+<c02 level="file">
+<did>
+<container label="Box" type="Box">65</container>
+<unittitle encodinganalog="Title.folder">Invitations Accepted and Appointments, June-Dec. 1987, <unitdate encodinganalog="Date.folder" type="inclusive">undated</unitdate></unittitle>
+<note encodinganalog="Description.noteF"><p></p></note>
+	</did>
+</c02>
+	</c01>
+</dsc>
+  </archdesc>
+</ead>

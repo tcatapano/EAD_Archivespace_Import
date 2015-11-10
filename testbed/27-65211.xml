@@ -1,0 +1,668 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead relatedencoding="MARC21">
+	<eadheader audience="internal" countryencoding="iso3166-1" dateencoding="iso8601"
+		langencoding="iso639-2b" repositoryencoding="iso15511" scriptencoding="iso15924">
+		<eadid countrycode="US" encodinganalog="852$a" mainagencycode="TxU-Hu"
+			>urn:taro:utexas.hrc.00470</eadid>
+		<!--DO NOT MODIFY ANY OF THE BOILERPLATE TEXT ABOVE THIS LINE-->
+		<!-- revised 8 July 2008 -->
+		<filedesc>
+			<titlestmt>
+				<titleproper>Larry McMurtry:</titleproper>
+
+				<subtitle>An Inventory of His Collection in the Manuscript Collection at the Harry
+					Ransom Humanities Research Center</subtitle>
+				<author encodinganalog="245$c">Finding aid created by Katy Hill</author>
+
+			</titlestmt>
+			<publicationstmt>
+				<publisher encodinganalog="260$b">Harry Ransom Humanities Research Center, </publisher>
+				<date encodinganalog="260$c" calendar="gregorian" era="ce">2008</date>
+			</publicationstmt>
+		</filedesc>
+		<profiledesc>
+			<creation>Finding aid encoded by Katy Hill, <date calendar="gregorian" era="ce">10 July
+					2008</date>
+			</creation>
+			<langusage>Finding aid written in <language>English.</language></langusage>
+		</profiledesc>
+	</eadheader>
+	<archdesc level="collection">
+		<did>
+			<repository encodinganalog="852$a">
+				<corpname>The University of Texas at Austin, <subarea> Harry Ransom Humanities
+						Research Center</subarea></corpname>
+			</repository>
+			<origination label="Creator:">
+				<persname source="lcnaf" encodinganalog="100">McMurtry, Larry, 1936- </persname>
+			</origination>
+			<unittitle encodinganalog="245$a" label="Title:">Larry McMurtry Collection</unittitle>
+
+			<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian"
+				label="Dates:" normal="1960/1976">1960-1976</unitdate>
+
+			<physdesc label="Extent:" encodinganalog="300$a">
+				<extent>6 boxes (2.52 linear feet)</extent>
+			</physdesc>
+
+			<abstract label="Abstract:" encodinganalog="520$a">The Larry McMurtry Collection
+				consists of typed manuscript drafts for several of his works dating from the 1960s
+				and 1970s, correspondence related to those works, and contracts and royalty
+				statements. Several of the manuscripts were acquired directly from McMurtry, but the
+				bulk of the collection was acquired from McMurtry’s agent, Dorothea Oppenheimer. The
+				materials are arranged in three series: I. Works, 1960-circa 1975; II.
+				Correspondence, 1960-1974; and III. Contracts and Royalty Statements, 1960-1976. The
+				collection was previously accessible through a card catalog but has been recataloged
+				as part of a retrospective conversion project.</abstract>
+
+
+		</did>
+		<bioghist encodinganalog="545">
+			<head>Biographical Sketch</head>
+			<p>Larry Jeff McMurtry was born in Wichita Falls, Texas, on June 3, 1936. His father and
+				grandfather were cattle ranchers and McMurtry grew up near Archer City, Texas,
+				traveling between the small town and his grandparents’ ranch, and witnessing the end
+				of an era of cattle ranching. Drawn toward books more than the physical life of
+				ranching, McMurtry enrolled at Rice University in Houston, Texas, after graduating
+				from high school in 1954. He soon transferred to North Texas State College in
+				Denton, Texas (now the University of North Texas) and studied literature.</p>
+			<p>McMurtry earned a B. A. degree from North Texas in 1958, and then returned to Rice
+				for an M. A. degree. In July of 1959, he married Jo Ballard Scott with whom he had a
+				son, James Lawrence McMurtry, before divorcing in 1966. After completing his
+				master's degree in 1960, McMurtry accepted a fellowship to study at Stanford
+				University and published his first novel <title render="italic">Horseman, Pass By
+				</title>(1961), which won the 1962 Texas Institute of Letters Jesse H. Jones Award.</p>
+			<p>McMurtry taught creative writing and literature courses at Texas Christian University
+				in Fort Worth, Texas, from 1961 to 1962 and at Rice in 1963. He published two more
+				works, <title render="italic">Leaving Cheyenne</title> (1963) and <title
+					render="italic">The Last Picture Show</title> (1966), focusing on the decline of
+				small town, west Texas life also portrayed in his first book. He received a
+				Guggenheim Fellowship in 1964 and pursued a passion for book collecting while living
+				in Houston in the mid-1960s, working as a book store scout and dealer.</p>
+			<p>In 1969, McMurtry moved near Washington, D.C. and taught for a short time at George
+				Mason University and American University. He wrote a second trilogy of novels,
+					<title render="italic">Moving On</title> (1970), <title render="italic">All My
+					Friends Are Going to Be Strangers </title>(1972), and <title render="italic"
+					>Terms of Endearment</title> (1975), all set in Houston and marking a move in
+				his work from rural to urban settings. While living near Washington, McMurtry
+				purchased a rare and used book store in Georgetown, which he renamed Booked Up. He
+				later opened branches in Archer City, Texas; Houston, Texas; and Tucson, Arizona.</p>
+			<p>McMurtry served as president of the American Center of PEN from 1989 to 1991, leading
+				efforts by the organization to support author Salman Rushdie after a fatwa was
+				proclaimed against him in February of 1989. He has continued to write numerous
+				novels, essays, and other books, some reprising characters and stories from earlier
+				works. Many of his books, including the Pulitzer Prize winning <title
+					render="italic">Lonesome Dove</title> (1985), have been made into acclaimed
+				feature films and television movies, and McMurtry has worked on film adaptations of
+				his own and other works. He shared an Academy Award for the screenplay of <title
+					render="italic">Brokeback Mountain</title> in 2006.</p>
+			<p>McMurtry currently lives in Tucson, Arizona.</p>
+
+		</bioghist>
+		<bibliography>
+			<head>Sources:</head>
+			<p>“Larry McMurtry.” <title render="italic">Dictionary of Literary Biography, Vol.
+				2</title>. Detroit: Gale, 1978.</p>
+			<p>“Larry McMurtry.” <title render="italic">Dictionary of Literary Biography, Vol.
+				143</title>. Detroit: Gale, 1994.</p>
+			<p>“Larry McMurtry.” <title render="italic">Dictionary of Literary Biography, Vol.
+				256</title>. Detroit: Gale, 2002.</p>
+			<p>“Larry McMurtry.” <title render="italic">Contemporary Authors</title>,
+				http://galenet.galegroup.com (accessed 28 April 2008).</p>
+		</bibliography>
+		<controlaccess>
+			<head>Index Terms</head>
+			<controlaccess>
+				<head>Subjects</head>
+				<subject encodinganalog="650" source="lcsh">Texas--Fiction.</subject>
+				<subject encodinganalog="650" source="lcsh">Western stories--Fiction. </subject>
+			</controlaccess>
+		</controlaccess>
+		<scopecontent encodinganalog="520">
+			<head>Scope and Contents</head>
+			<p>The Larry McMurtry Collection consists of typed manuscript drafts for several of his
+				works dating from the 1960s and 1970s, correspondence related to those works, and
+				contracts and royalty statements. Several of the manuscripts were acquired directly
+				from McMurtry, but the bulk of the collection was acquired from McMurtry’s agent,
+				Dorothea Oppenheimer. The materials are arranged in three series: I. Works,
+				1960-circa 1975; II. Correspondence, 1960-1974; and III. Contracts and Royalty
+				Statements, 1960-1976. The collection was previously accessible through a card
+				catalog but has been recataloged as part of a retrospective conversion project.</p>
+			<p>Series I. Works contains typed drafts of <title render="italic">Horseman, Pass
+				By</title> (1961), <title render="italic">The Last Picture Show</title> (1966),
+					<title render="italic">Terms of Endearment</title> (1975), and an early version
+				of <title render="italic">Moving On</title> (1970) titled <title
+					render="doublequote">The Water and the Blood.</title> Several drafts of <title
+					render="italic">Horseman, Pass By</title> are present in the series, as is a
+				six-page excerpt from the work titled <title render="doublequote">Lonnie Bannon: The
+					City Lights.</title> Also present is a screenplay draft of <title
+					render="italic">All My Friends Are Going to Be Strangers</title> (1972); a typed
+				draft of the essay <title render="doublequote">Cowboys, Movies, Myths, and
+					Cadillacs: Realism in the Western,</title> first published in 1967 and included
+				in McMurtry’s book of collected works, <title render="italic">In a Narrow
+				Grave</title>(1968); and a typed draft of McMurtry’s speech at the 1962 Texas
+				Institute of Letters awards dinner. Most of the typed manuscripts contain
+				handwritten changes and some include handwritten draft fragments. The series is
+				arranged alphabetically by title.</p>
+			<p>Series II. contains correspondence to and from McMurtry, primarily between him and
+				his agent, Dorothea Oppenheimer. Also present are Oppenheimer’s correspondence files
+				related to McMurtry’s works, containing her correspondence with third-parties. The
+				materials are arranged as two types: outgoing correspondence from McMurtry, and
+				Oppenheimer’s correspondence. McMurtry’s outgoing correspondence consists of single
+				letters to Andreas Brown and Franklin Gillian. Oppenheimer’s files are arranged as
+				incoming from McMurtry, outgoing to McMurtry, and third-party, with each group
+				arranged chronologically.</p>
+			<p>Series III. Contracts and Royalty Statements consists of business papers related to
+				print and film versions of McMurtry’s early works. The bulk of the series contains
+				employment and memoranda agreements dating from 1960 to 1974. Also included are
+				screenwriting and other writing agreements from the early 1970s, and royalty
+				statements dating from 1962 to 1976.</p>
+		</scopecontent>
+		<acqinfo encodinganalog="541">
+			<head>Acquisition: </head>
+			<p>Purchases, 1964 (R2072); 1976 (R7266)</p>
+			<p>Note: Several of the manuscripts were acquired directly from McMurtry, but the bulk
+				of the collection was acquired from McMurtry’s agent, Dorothea Oppenheimer.</p>
+
+		</acqinfo>
+		<accessrestrict encodinganalog="506">
+			<head>Access: </head>
+			<p>Open for research</p>
+		</accessrestrict>
+		<processinfo encodinganalog="583">
+			<head>Processed by: </head>
+			<p>Katy Hill, 2008</p>
+		</processinfo>
+		<relatedmaterial encodinganalog="544 1">
+			<p>Additional Larry McMurtry materials are located in several other collections at the
+				Ransom Center. These include the manuscript collections for Judson Crews, J. Frank
+				Dobie, <title render="italic">Genesis West</title>, Elizabeth Hardwick, Norman
+				Mailer, and Laura Wilson. The Vertical File Collection also includes additional
+				McMurtry material acquired from Dorothea Oppenheimer.</p>
+			<p>Other Larry McMurtry manuscript collections are located at Rice University in
+				Houston, Texas; The University of North Texas in Denton, Texas; Texas State
+				University in San Marcos, Texas; and The Center for American History at The
+				University of Texas in Austin, Texas.</p>
+		</relatedmaterial>
+		<dsc type="combined">
+			<head>Container List</head>
+			<c01 level="series">
+				<did>
+					<unittitle>Series I. Works, <unitdate era="ce" calendar="gregorian"
+							type="inclusive">1960-circa 1975, undated</unitdate>
+					</unittitle>
+				</did>
+				<c02>
+					<did>
+						<container type="Container">1.1</container>
+						<unittitle><title render="italic">All My Friends Are Going to Be
+							Strangers</title> (1972), photocopy typed screenplay draft, undated
+						</unittitle>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<container type="Container">1.2</container>
+						<unittitle><title render="doublequote">Cowboys, Movies, Myths, and
+								Cadillacs: Realism in the Western,</title> typed draft, undated
+						</unittitle>
+					</did>
+				</c02>
+
+				<c02>
+					<did>
+						<unittitle><title render="italic">Horseman, Pass By</title>
+						(1961)</unittitle>
+					</did>
+					<c03>
+						<did>
+							<container type="Container">1.3-5</container>
+							<unittitle>Typed draft number one, undated</unittitle>
+						</did>
+					</c03>
+
+					<c03>
+						<did>
+							<container type="Container">1.6-7</container>
+							<unittitle>Typed draft number two, 1960</unittitle>
+						</did>
+					</c03>
+
+					<c03>
+						<did>
+							<container type="Container">2.1-2</container>
+							<unittitle>Typed draft number five, 1960</unittitle>
+						</did>
+					</c03>
+
+					<c03>
+						<did>
+							<container type="Container">2.3</container>
+							<unittitle><title render="doublequote">Lonnie Bannon: The City
+								Lights,</title> typed draft excerpt, circa 1960</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02>
+					<did>
+						<container type="Container">2.4</container>
+						<unittitle><title render="italic">The Last Picture Show </title>(1966),
+							typed draft fragment, undated</unittitle>
+					</did>
+				</c02>
+
+				<c02>
+					<did>
+						<container type="Container">2.5-8</container>
+						<unittitle><title render="italic">Terms of Endearment</title> (1975),
+							photocopy typed draft, undated</unittitle>
+					</did>
+				</c02>
+
+				<c02>
+					<did>
+						<container type="Container">2.9</container>
+						<unittitle>Texas Institute of Letters, awards dinner speech, typed mimeo
+							copy, 1962</unittitle>
+					</did>
+				</c02>
+
+				<c02>
+					<did>
+						<container type="Container">3.1-3</container>
+						<unittitle>The Water and the Blood (<title render="italic">Moving
+							On</title>, 1970), typed draft, undated</unittitle>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>Series II. Correspondence <unitdate era="ce" calendar="gregorian"
+							type="inclusive">1960-1974, undated</unitdate>
+					</unittitle>
+				</did>
+				<c02>
+					<did>
+						<unittitle>McMurtry outgoing</unittitle>
+					</did>
+					<c03>
+						<did>
+							<container type="Container">3.4</container>
+							<unittitle>Brown, Andreas, undated</unittitle>
+						</did>
+					</c03>
+
+					<c03>
+						<did>
+							<container type="Container">3.5</container>
+							<unittitle>Gillian, Franklin, undated</unittitle>
+						</did>
+					</c03>
+
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Oppenheimer, Dorothea</unittitle>
+					</did>
+					<c03>
+						<did>
+							<container type="Container">3.6-4.2</container>
+							<unittitle>Incoming from McMurtry, 1960-1969</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<container type="Container">4.3-4.6</container>
+							<unittitle>Outgoing to McMurtry, 1960-1974</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<container type="Container">4.7-5.8</container>
+							<unittitle>Third-party, 1960-1974</unittitle>
+						</did>
+					</c03>
+				</c02>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>Series III. Contracts and Royalty Statements <unitdate era="ce"
+							calendar="gregorian" type="inclusive">1960-1976</unitdate>
+					</unittitle>
+				</did>
+				<c02>
+					<did>
+						<unittitle>Employment and memoranda of agreements</unittitle>
+					</did>
+					<c03>
+						<did>
+							<container type="Container">6.1</container>
+							<unittitle>A-Se, 1960-1974</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<container type="Container">6.2</container>
+							<unittitle>Sh-Z, 1966-1972</unittitle>
+						</did>
+					</c03>
+
+				</c02>
+				<c02>
+					<did>
+						<container type="Container">6.3</container>
+						<unittitle>Screenwriting, writer’s deal, and writer’s flat deal,
+						1971-1974</unittitle>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<container type="Container">6.4</container>
+						<unittitle>Royalty statements, 1962-1976</unittitle>
+					</did>
+				</c02>
+			</c01>
+		</dsc>
+		<odd type="index">
+			<head>Index of Third-Party Correspondents</head>
+			<list>
+				<item><corpname>Adams, Ray  Rosenberg</corpname> -- 5.2</item>
+				<item><persname>Agence Hoffman</persname> -- 4.9</item>
+				<item><corpname>Agenzia Letteraria Internazionale SRL</corpname> -- 4.9, 5.7</item>
+				<item><corpname>Albert Müller Verlag A.G.</corpname> -- 4.9</item>
+				<item><corpname>Albert S. Ruddy Productions</corpname> -- 5.7</item>
+				<item><corpname>Allen's Press Clipping Bureau</corpname> -- 4.8</item>
+				<item><corpname>A. M. Heath  Co.</corpname> -- 4.8-9, 5.1, 5.3-8</item>
+				<item><persname>Armstead, Dolores</persname> -- 5.2</item>
+				<item><persname>Asano, Kiyoshi</persname> -- 5.4-5</item>
+				<item><persname>Asher, Aaron</persname> -- 4.10</item>
+				<item><corpname>The Atlantic Monthly Press</corpname> -- 4.7, 4.11, 5.1, 5.8</item>
+				<item><title render="italic">Audience</title> -- 5.6</item>
+				<item><corpname>Avco Embassy Pictures</corpname> -- 5.4</item>
+				<item><corpname>A. W. Bruna  Zoon</corpname> -- 4.9</item>
+				<item><persname>Aygarn, Vida</persname> -- 4.8</item>
+				<item><corpname>Bantam Lecture Bureau</corpname> -- 5.6</item>
+				<item><persname>Baron, Richard (Richard W.)</persname> -- 5.2</item>
+				<item><persname>Barron, Theodosia</persname> -- 4.9</item>
+				<item><corpname>Bart-Palevsky</corpname> -- 5.8</item>
+				<item><persname>Bart, Peter</persname> -- 5.8</item>
+				<item><corpname>Bechtle Verlag</corpname> -- 4.9</item>
+				<item><persname>Bender, Ursula</persname> -- 5.5</item>
+				<item><persname>Berendt, John, 1939-</persname> -- 4.7</item>
+				<item><persname>Bernau, Gustav</persname> -- 5.6</item>
+				<item><persname>Bernheim, Kurt</persname> -- 4.9, 5.4, 5.6</item>
+				<item><persname>Blair, Stephen L.</persname> -- 5.5-6</item>
+				<item><corpname>Bomser  Oppenheim</corpname> -- 5.7</item>
+				<item><corpname>Book Publishers' Association of Israel</corpname> -- 5.6</item>
+				<item><persname>Boušek, Karel</persname> -- 5.6</item>
+				<item><persname>Brehaut, Patricia K.</persname> -- 4.8, 4.10</item>
+				<item><persname>Brigden, Madeline Tracy</persname> -- 4.8</item>
+				<item><corpname>British Broadcasting Company</corpname> -- 5.6</item>
+				<item><persname>Broder, Robert</persname> -- 5.3</item>
+				<item><persname>Brough, Joanne</persname> -- 5.8</item>
+				<item><persname>Brown, Robert</persname> -- 5.1</item>
+				<item><persname>Brown, Ned</persname> -- 5.7</item>
+				<item><persname>Büchler, Ursula</persname> -- 5.4</item>
+				<item><corpname>Bureau Littéraire D. Clairouin</corpname> -- 5.4-6, 5.8</item>
+				<item><persname>Burkhalter, Betty</persname> -- 4.7</item>
+				<item><persname>Bursten, David I.</persname> -- 5.1</item>
+				<item><persname>Butler, David</persname> -- 5.7</item>
+				<item><persname>Buysse, Maddy</persname> -- 4.11</item>
+				<item><corpname>Calmann-Lévy (Firm)</corpname> -- 5.6</item>
+				<item><corpname>Cannon Productions</corpname> -- 5.3, 5.6</item>
+				<item><persname>Carroll, Joseph</persname> -- 4.7</item>
+				<item><corpname>CBS Television Network</corpname>-- 5.8</item>
+				<item><corpname>Charles E. Tuttle Co.</corpname> -- 4.9, 5.2, 5.4-5</item>
+				<item><persname>Cherry, Richard L.</persname> -- 5.8</item>
+				<item><corpname>Christian Wegner Verlag</corpname> -- 5.4</item>
+				<item><corpname>Cinema Funding Company</corpname> -- 5.7</item>
+				<item><persname>Coleman, Larry</persname> -- 5.8</item>
+				<item><persname>Colon, Carmen</persname> -- 5.7</item>
+				<item><persname>Comert, Anne-Marie</persname> -- 5.6</item>
+				<item><persname>Costa, Nicolás</persname> -- 5.6, 5.8</item>
+				<item><persname>Coulter, Elliott H.</persname> -- 5.7</item>
+				<item><persname>Covici, Pascal</persname> -- 4.8</item>
+				<item><persname>Cowley, Malcolm</persname> -- 4.10</item>
+				<item><persname>Darmour, Lorna</persname> -- 5.7-8</item>
+				<item><persname>Davison, Peter</persname> -- 4.11</item>
+				<item><persname>Decker, William B. "Bill"</persname> -- 4.11, 5.1-5.2</item>
+				<item><corpname>Dell Publishing Company</corpname> -- 5.2, 5.5-6</item>
+				<item><persname>Del Monte, Helen</persname> -- 5.4-5</item>
+				<item><persname>Develdère, D.</persname> -- 5.8</item>
+				<item><corpname>Dial Press</corpname> -- 4.9, 4.11, 5.1-3, 5.5-6</item>
+				<item><persname>Diegnon, Joseph</persname> -- 5.3</item>
+				<item><corpname>Dilia</corpname> -- 5.4, 5.6</item>
+				<item><corpname>Diogenes Verlag</corpname> -- 4.9</item>
+				<item><persname>Diskant, George</persname> -- 5.4, 5.6</item>
+				<item><corpname>Distribuidora Record</corpname> -- 5.6, 5.8</item>
+				<item><persname>Doctorow, E. L., 1931-</persname> -- 5.3</item>
+				<item><persname>Dolin, Arnold</persname> -- 5.5</item>
+				<item><persname>Drier, Eugene</persname> -- 5.5</item>
+				<item><persname>Earl, Sandra</persname> -- 4.8</item>
+				<item><corpname>Editorial Bruguera S. A.</corpname> -- 5.4</item>
+				<item><corpname>Editorial Extemporáneos</corpname> -- 5.6</item>
+				<item><corpname>Editorial Noguer</corpname> -- 5.6</item>
+				<item><persname>Ehrmann, Paul</persname> -- 4.10</item>
+				<item><persname>Eisenberg, Lee</persname>, 1946- -- 5.5</item>
+				<item><persname>Eisenheimer, Lisel</persname> -- 5.7</item>
+				<item><corpname>Emecé Editores</corpname> -- 5.5</item>
+				<item><title render="italic">Esquire</title> -- 4.7-8, 5.1, 5.3, 5.5</item>
+				<item><persname>Etevèy, Jeanne</persname> -- 4.9</item>
+				<item><corpname>Európa Könyvkiadó</corpname> -- 5.6</item>
+				<item><title render="italic">Evergreen Review</title> -- 5.1</item>
+				<item><persname>Faerstein, Vicki</persname> -- 5.6</item>
+				<item><persname>Feiden, Robert "Bob"</persname> -- 5.3, 5.6</item>
+				<item><persname>Fidlon, Elizabeth</persname> -- 5.7</item>
+				<item><corpname>Fifth Avenue Hotel (New York, N.Y.)</corpname> -- 4.11</item>
+				<item><persname>Filippone, H. E.</persname> -- 4.11</item>
+				<item><corpname>Filmtree</corpname> -- 5.8</item>
+				<item><persname>Finn, Marina</persname> -- 5.6</item>
+				<item><persname>Fischer, John</persname> -- 4.7</item>
+				<item><persname>Fletcher, Bobbi Collins</persname> -- 5.8</item>
+				<item><persname>Foreman, John C.</persname> -- 5.4</item>
+				<item><persname>Fox, J. M.</persname> -- 4.11</item>
+				<item><corpname>Frank Cooper Associates Agency</corpname> -- 4.8</item>
+				<item><corpname>Fred A. Niles Communications Centers</corpname> -- 5.2</item>
+				<item><persname>Friedman, Arlene</persname> -- 4.7-8, 4.10-11</item>
+				<item><persname>Friedman, Stephen</persname> -- 5.3</item>
+				<item><persname>Fritz, Paul</persname> -- 4.9</item>
+				<item><corpname>Gherardo Casini Editore</corpname> -- 4.9</item>
+				<item><persname>Girod, Marie-France</persname> -- 5.4</item>
+				<item><persname>Godwin, Tony</persname> -- 5.4</item>
+				<item><persname>Goldfarb, Robert</persname> -- 4.8</item>
+				<item><persname>Goulden, Mark</persname> -- 5.1, 5.3</item>
+				<item><persname>Graves, Ruth</persname> -- 5.2</item>
+				<item><persname>Granara, Jack</persname> -- 5.2</item>
+				<item><corpname>Greenbaum, Wolff  Ernst</corpname> -- 5.2, 5.8</item>
+				<item>
+					<persname>Grieg, Michael -- 4.7</persname>
+				</item>
+				<item><corpname>Hanna-Kirsti Koch (Firm)</corpname> -- 5.4</item>
+				<item><persname>Hansen, Lillian</persname> -- 4.9</item>
+				<item><persname>Harben, Robert</persname> -- 4.9, 5.4</item>
+				<item><corpname>Harper  Brothers</corpname> -- 4.7-11</item>
+				<item><corpname>Harper  Row, Publishers</corpname> -- 4.9, 5.1-2, 5.4,
+					5.6-7</item>
+				<item><title render="italic">Harper's Magazine</title> -- 4.7, 5.2, 5.3</item>
+				<item><persname>Harrison, Alfred C.</persname> -- 5.1</item>
+				<item><persname>Hart, A. L., Jr.</persname> -- 5.5</item>
+				<item><persname>Henne, Dagmar</persname> -- 4.9</item>
+				<item><persname>Hills, L. Rust</persname> -- 4.7-8</item>
+				<item><persname>Holahan, James</persname> -- 5.8</item>
+				<item><title render="italic">Holiday</title> -- 4.8, 4.10, 5.2</item>
+				<item><persname>Honne, K.</persname> -- 5.4</item>
+				<item><persname>Houbolt, P. J.</persname> -- 5.2</item>
+				<item><persname>Hudspeth, Frances H.</persname> -- 4.7</item>
+				<item><persname>Ibach, Sabine</persname> -- 5.6</item>
+				<item><corpname>Iniochus  Delphi, Publishers</corpname> -- 5.6</item>
+				<item><corpname>International Editors Co.</corpname> -- 5.4, 5.6, 5.8</item>
+				<item><corpname>International Management Associates</corpname> -- 4.8</item>
+				<item><persname>Jacobson, Susan</persname> -- 5.3</item>
+				<item><corpname>Japan UNI Literary Agency</corpname> -- 5.4-8</item>
+				<item><persname>Jeeves, Heather</persname> -- 5.6</item>
+				<item><persname>Johnston, Albert "Johnny"</persname> -- 5.2</item>
+				<item><persname>Jonas, Sophia</persname> -- 5.1-2</item>
+				<item><corpname>Jonathan Cape (Firm)</corpname> -- 5.3</item>
+				<item><corpname>Juniper Press</corpname> -- 5.8</item>
+				<item><persname>K___, Dolly</persname> -- 4.7</item>
+				<item><persname>Kanin, Fay</persname> -- 5.6</item>
+				<item><persname>Kaplan, Martha</persname> -- 5.3</item>
+				<item><corpname>Karl Rauch Verlag</corpname> -- 4.9</item>
+				<item><persname>Karp, Beverly</persname> -- 4.8</item>
+				<item><persname>Katahira, Y.</persname> -- 4.9</item>
+				<item><persname>Kern, Gail</persname> -- 5.2</item>
+				<item><persname>Kesim, Nurcihan</persname> -- 5.7</item>
+				<item><persname>Kessie, Jack</persname> -- 4.7</item>
+				<item><persname>Kohler, Renate</persname> -- 5.6</item>
+				<item><persname>Korda, Michael V.</persname> -- 5.2-3, 5.5</item>
+				<item><persname>Krummel, I. A.</persname> -- 4.9</item>
+				<item><corpname>Kurt Desch Verlag</corpname> -- 4.9</item>
+				<item><title render="italic">The Ladies' Home Journal</title> -- 5.3, 5.5, 5.8</item>
+				<item><persname>Lahn, Ilse</persname> -- 5.6</item>
+				<item><persname>Lapautre, Michelle</persname> -- 5.6, 5.8</item>
+				<item><persname>Lasoń, Irena</persname> -- 5.4</item>
+				<item><corpname>Law Offices of Cohn, Glickstein, Lurie  Ostrin</corpname>
+					-- 5.5</item>
+				<item><corpname>Law Offices of Schwartzman  Greenberg</corpname> -- 5.8</item>
+				<item><persname>Leggett, John "Jack"</persname> -- 4.7-11</item>
+				<item><corpname>Lennart Sane Agency AB</corpname> -- 5.6</item>
+				<item><corpname>Editions Robert Laffont</corpname> -- 5.3, 5.6</item>
+				<item><persname>Levy, Phyllis</persname> -- 5.3, 5.5, 5.8</item>
+				<item><persname>Lifezis, Annie R.</persname> -- 5.4, 5.6</item>
+				<item><persname>Lish, Gordon</persname> -- 5.3, 5.5</item>
+				<item><persname>Little, Suzanne</persname> -- 5.3-4</item>
+				<item><persname>Losito, Beatrice</persname> -- 5.1</item>
+				<item><persname>Lubcke, Gunda</persname> -- 5.4</item>
+				<item><persname>Macauley, Robie</persname> -- 5.5</item>
+				<item><persname>Machado, Alfredo C.</persname> -- 5.6, 5.8</item>
+				<item><title render="italic">Mademoiselle</title> -- 4.8</item>
+				<item><persname>Manning, Robert, 1919-</persname> -- 5.8</item>
+				<item><title render="italic">McCall's</title> -- 5.4-5, 5.7</item>
+				<item><persname>McCombs, Philip N.</persname> -- 4.8</item>
+				<item><persname>McGowan, Kenneth Wayne</persname> -- 5.2</item>
+				<item><persname>McKenna, Frank</persname> -- 5.1</item>
+				<item><persname>McMurtry, Larry</persname> -- 4.8, 4.10, 5.1-2</item>
+				<item><corpname>Metro-Goldwyn-Mayer</corpname> -- 5.1, 5.7</item>
+				<item><persname>Meyer, Catharine</persname> -- 5.2</item>
+				<item><corpname>Michael Joseph, Ltd.</corpname> -- 4.9</item>
+				<item><persname>Michaelson, Judy</persname> -- 5.4</item>
+				<item><persname>Milford, Toni</persname> -- 4.9</item>
+				<item><persname>Miyata, Noboru</persname> -- 5.6-7</item>
+				<item><corpname>Mohrbooks AG</corpname> -- 5.6</item>
+				<item><persname>Monteagudo, Isabel</persname> -- 5.6</item>
+				<item><persname>Mori, Tom</persname> -- 5.4</item>
+				<item><persname>Morris, Willie</persname> -- 5.3</item>
+				<item><persname>Morton, Charles W., 1899-1967</persname> -- 4.7</item>
+				<item><persname>Moya, José</persname> -- 5.4</item>
+				<item><persname>Nakai, Sumio</persname> -- 5.8</item>
+				<item><persname>Nasatir, Marcía</persname> -- 5.3-5</item>
+				<item><corpname>Ned Brown Associated Agency</corpname> -- 5.7</item>
+				<item><corpname>Neidieck Linder AG</corpname> -- 4.9, 5.4</item>
+				<item><corpname>Newman-Foreman Co.</corpname> -- 5.4</item>
+				<item><title render="italic">New York Times</title> -- 5.1</item>
+				<item><title render="italic">New Yorker Magazine</title> -- 5.7</item>
+				<item><corpname>Nurchian Kesim Literary Agency</corpname> -- 5.7</item>
+				<item><persname>Nussbaum, Jeremy</persname> -- 5.8</item>
+				<item><persname>Olson, Virginia</persname> -- 5.7</item>
+				<item><persname>Oppenheim, Robert L.</persname> -- 5.7</item>
+				<item><persname>Oppenheimer, Evelyn</persname> -- 4.7</item>
+				<item><persname>Oringer, Jaqui</persname> -- 5.7</item>
+				<item><persname>Pace, Donald</persname> -- 5.1</item>
+				<item><corpname>Pan Books</corpname> -- 5.6</item>
+				<item><corpname>Państwowy Instytut Wydawniczy (Firm)</corpname> -- 5.4</item>
+				<item><title render="italic">Paris Review</title> -- 4.7</item>
+				<item><corpname>Paul Kohner Agency</corpname> -- 5.6</item>
+				<item><persname>Payne, Tom</persname> -- 4.7</item>
+				<item><persname>Pelikan, Maria</persname> -- 5.3</item>
+				<item><corpname>Pennsylvania State University</corpname> -- 5.8</item>
+				<item><persname>Petersdorf, Rudolph</persname> -- 5.2</item>
+				<item><persname>Pilpel, Harriet F.</persname> -- 5.2</item>
+				<item><title render="italic">Playboy</title> -- 4.7, 5.5, 5.7</item>
+				<item><persname>Pollack, Merrill</persname> -- 5.2</item>
+				<item><corpname>Praeger Publishers</corpname> -- 5.5</item>
+				<item><persname>Pryor, David</persname> -- 5.5</item>
+				<item><corpname>Random House (Firm)</corpname> -- 4.11</item>
+				<item><title render="italic">Redbook</title> -- 4.8, 5.5</item>
+				<item><corpname>Robert Harben Literary Agency</corpname> -- 4.9, 5.4</item>
+				<item><persname>Rose, Max H.</persname> -- 5.5</item>
+				<item><persname>Rosenberg, Lee</persname> -- 5.2</item>
+				<item><persname>Ruddy, Albert S., 1934-</persname> -- 5.7</item>
+				<item><persname>Ryan, Pat</persname> -- 5.6-7</item>
+				<item><persname>Sachs, Charles L. "Chuck"</persname> -- 5.6</item>
+				<item><persname>Sale, J. Kirk</persname> -- 5.1</item>
+				<item><persname>Sane, Lennart</persname> -- 5.6</item>
+				<item><persname>Sanford, Geoffrey</persname> -- 5.2-3</item>
+				<item><title render="italic">San Francisco Examiner</title> -- 4.7</item>
+				<item><title render="italic">Saturday Evening Post</title> -- 5.1-2</item>
+				<item><persname>Schébéko, Marie</persname> -- 5.4-6</item>
+				<item><persname>Schochet, Victoria</persname> -- 5.6</item>
+				<item><persname>Schrader, Donna</persname> -- 5.1</item>
+				<item><corpname>Scriptorium Associates</corpname> -- 5.6</item>
+				<item><persname>Shapiro, Ethel</persname> -- 5.5</item>
+				<item><persname>Shawn, William "Bill"</persname> -- 5.7</item>
+				<item><persname>Shukat, Scott</persname> -- 5.6</item>
+				<item><persname>Siegel, Jerome "Jerry"</persname> -- 5.7</item>
+				<item><persname>Siegel, Rosalie</persname> -- 5.3, 5.6</item>
+				<item><corpname>Simon  Schuster</corpname> -- 5.2-5</item>
+				<item><persname>Sind, Cathy Wyler</persname> -- 5.4</item>
+				<item><corpname>Slovenská Literárna Agentúra</corpname> -- 5.6</item>
+				<item><persname>Smrikavov, Mircho G.</persname> -- 5.8</item>
+				<item><persname>Solomon, Diane</persname> -- 5.2</item>
+				<item><persname>Somlo, Eva</persname> -- 5.6</item>
+				<item><persname>Sorfer, L___</persname> -- 5.6</item>
+				<item><persname>Sparr, Marianne</persname> -- 4.9</item>
+				<item><corpname>Sphere Books Limited</corpname> -- 5.6</item>
+				<item><corpname>Spółdzielnia Wydawnicza "Czytelnik"</corpname> -- 5.7-8</item>
+				<item><title render="italic">Sports Illustrated</title> -- 4.7, 5.6-7</item>
+				<item><persname>Stachovičovā, Mária</persname> -- 5.6</item>
+				<item><persname>Stanwood, Susan</persname> -- 5.1</item>
+				<item><persname>Stirling, Charlotte</persname> -- 5.6</item>
+				<item><persname>Stoeger, Irene M.</persname> -- 4.8</item>
+				<item><persname>Strauss, Helen</persname> -- 4.8, 4.10</item>
+				<item><persname>Street, James</persname> -- 5.1</item>
+				<item><persname>Swanson, H. N.</persname> -- 5.1-2</item>
+				<item><persname>Taketomi, Yoshio</persname> -- 5.6-7</item>
+				<item><title render="italic">Texas Quarterly</title> -- 4.7</item>
+				<item><persname>Thomas, Michael</persname> -- 4.8-9, 5.1, 5.3-8</item>
+				<item><persname>Thomas, Peter</persname> -- 5.2</item>
+				<item><persname>Thorpe, Neal G.</persname> -- 5.5</item>
+				<item><persname>Timourian, Sylvia</persname> -- 5.7</item>
+				<item><persname>Trevelyan, Raleigh</persname> -- 4.9</item>
+				<item><persname>Tutbooks, Tom</persname> -- 5.4</item>
+				<item><corpname>Twentieth Century-Fox Film Corporation</corpname> -- 5.7-8</item>
+				<item><corpname>Uitgeverij A. J. Luitingh</corpname> -- 5.2</item>
+				<item><corpname>Uitgeverij Hollandia B.V.</corpname> -- 4.9</item>
+				<item><corpname>Uitgeverij H. Nelissen B.V.</corpname> -- 4.9</item>
+				<item><corpname>Universal City Studios</corpname> -- 5.2</item>
+				<item><corpname>Universal Pictures (Firm)</corpname> -- 5.2</item>
+				<item><corpname>Universitas</corpname> -- 5.2, 5.6</item>
+				<item><corpname>Vanguard Productions</corpname> -- 5.1-2</item>
+				<item><corpname>Verlag Fritz Molden</corpname> -- 5.5</item>
+				<item><persname>Victor, Ed</persname> -- 5.3</item>
+				<item><corpname>Viking Press</corpname> -- 4.8, 4.10</item>
+				<item><persname>Wagner, James C.</persname> -- 5.7</item>
+				<item><persname>Wallace, A. M.</persname> -- 5.4</item>
+				<item><corpname>Warner Bros.-Seven Arts</corpname> -- 5.2</item>
+				<item><corpname>Weidenfeld and Nicolson (Firm)</corpname> -- 5.4, 5.7</item>
+				<item><corpname>W. H. Allen  Co.</corpname> -- 5.1, 5.3</item>
+				<item><persname>Wheeler, Marion E.</persname> -- 5.6</item>
+				<item><persname>Wilkinson, Stephan</persname> -- 4.8, 4.10</item>
+				<item><corpname>William Aspenwall Bradley</corpname> -- 4.9</item>
+				<item><corpname>William Morris Agency</corpname> -- 4.7-8, 4.10-11, 5.1, 5.6</item>
+				<item><persname>Wood, Jane</persname> -- 5.1</item>
+				<item><corpname>Writers Guild of America, West</corpname> -- 5.6</item>
+				<item><persname>Wunsch, Robert</persname> -- 5.2</item>
+				<item><persname>Wyeth, M. S., Jr.</persname> -- 5.1, 5.4, 5.7</item>
+				<item><persname>Yáñez, J. F.</persname> -- 5.2, 5.6</item>
+				<item><persname>Yano, Kozaburo</persname> -- 5.4-8</item>
+				<item><persname>Yoshimizu, Yuri</persname> -- 5.4</item>
+				<item><persname>Zarvanos, Demetrius</persname> -- 5.6</item>
+				<item><persname>Ziegler, Evarts "Zig"</persname> -- 4.10, 5.2</item>
+				<item><corpname>Ziegler-Ross Agency</corpname> -- 4.10, 5.2</item>
+				<item><corpname>Ziegler Ross Tennant, Inc.</corpname> -- 5.3-6</item>
+			</list>
+		</odd>
+
+	</archdesc>
+</ead>

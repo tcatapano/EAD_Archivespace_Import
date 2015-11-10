@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="utf-8"?>  <?xml-stylesheet type="text/xsl" href="ss.xsl"?><ead>   <eadheader langencoding="iso639-2b" scriptencoding="iso15924" relatedencoding="Dublin Core" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" id="a0">     <eadid countrycode="us" encodinganalog="Identifier" />
+ 
+ 
+        <eadid></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Finding aid for James D. Standish papers, 1881-1920
+                    
+                </titleproper>
+                <author>Finding aid prepared by Justin Lee Tyler</author>
+                <sponsor>Detroit Public Library</sponsor>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>Detroit Public Library. Burton Historical Collection.</publisher>
+                <address>
+                    <addressline>Detroit, Michigan</addressline>
+                </address>
+                <date>Dec. 7, 2009</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2010-07-13T14:07-0400</date>
+            </creation>
+            <descrules>Describing Archives: A Content Standard</descrules>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>James D. Standish papers</unittitle>
+            <unitid>02940</unitid>
+            <repository>
+                <corpname>Detroit Public Library. Burton Historical Collection.</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <physdesc>
+                <extent>8.1 Linear feet</extent>
+                <extent>(6 boxes, 17 volumes) </extent>
+            </physdesc>
+            <unitdate normal="1881/1920" type="inclusive">1881-1920</unitdate>
+            <physloc id="ref6" label="Location note">Level B, B4n</physloc>
+            <langmaterial id="ref3" label="Language of Materials">In English.</langmaterial>
+            <origination label="creator">
+                <persname source="ingest" role=" ">Standish, James D., 1849-1917</persname>
+            </origination>
+        </did>
+        <accessrestrict id="ref1">
+            <head>Restrictions on Access</head>
+            <p>This collection is open for research use.</p>
+        </accessrestrict>
+        <bioghist id="ref2">
+            <head>Biographical/Historical note</head>
+            <p>Detroit meat packer.</p>
+        </bioghist>
+        <acqinfo id="ref4">
+            <head>Immediate Source of Acquisition</head>
+            <p>02940</p>
+        </acqinfo>
+        <odd id="ref5">
+            <head>General Note</head>
+            <p>See finding aid for complete listing.</p>
+        </odd>
+        <controlaccess>
+            <corpname source="ingest" role=" ">Big Horn County Irrigation Co..</corpname>
+            <subject source="lcsh">Banks and banking</subject>
+            <genreform source="aat">Business records</genreform>
+            <genreform source="aat">Correspondence</genreform>
+            <geogname source="lcsh">Detroit (Mich.)--Commerce</geogname>
+            <subject source="lcsh">Packing-houses--Michigan--Detroit</subject>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref7" level="subseries">
+                <did>
+                    <unittitle>BOX 1</unittitle>
+                </did>
+                <c02 id="ref8" level="item">
+                    <did>
+                        <unittitle>Abstracts of Title to Standish Subdivision</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref9" level="item">
+                    <did>
+                        <unittitle>1905-11 Real Estate</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref10" level="item">
+                    <did>
+                        <unittitle>1912-13 Real Estate</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref11" level="item">
+                    <did>
+                        <unittitle>1914-17 Real Estate</unittitle>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref12" level="subseries">
+                <did>
+                    <unittitle>BOX 2</unittitle>
+                </did>
+                <c02 id="ref13" level="item">
+                    <did>
+                        <unittitle>1889-1906 Meat Companies</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref14" level="item">
+                    <did>
+                        <unittitle>1907-09 Meat Companies</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref15" level="item">
+                    <did>
+                        <unittitle>1910-11 Meat Companies</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref16" level="item">
+                    <did>
+                        <unittitle>1904-15 Live Stock</unittitle>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref17" level="subseries">
+                <did>
+                    <unittitle>BOX 3</unittitle>
+                </did>
+                <c02 id="ref18" level="item">
+                    <did>
+                        <unittitle>1908-12 Miscellaneous Business</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref19" level="item">
+                    <did>
+                        <unittitle>1913-11 Miscellaneous Business</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref20" level="item">
+                    <did>
+                        <unittitle>1915-17 Miscellaneous Business</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref21" level="item">
+                    <did>
+                        <unittitle>1915-16 Stocks and Securities</unittitle>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref22" level="subseries">
+                <did>
+                    <unittitle>BOX 4</unittitle>
+                </did>
+                <c02 id="ref23" level="item">
+                    <did>
+                        <unittitle>1906-1916 Banking</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref24" level="item">
+                    <did>
+                        <unittitle>1908-1914 Personal Correspondence</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref25" level="item">
+                    <did>
+                        <unittitle>1915-1916 Personal Correspondence</unittitle>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref26" level="subseries">
+                <did>
+                    <unittitle>BOX 5</unittitle>
+                </did>
+                <c02 id="ref27" level="item">
+                    <did>
+                        <unittitle>1905-1907 Big Horn County Irrigating Co.</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref28" level="item">
+                    <did>
+                        <unittitle>1908 Big Horn County Irrigating Co.</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref29" level="item">
+                    <did>
+                        <unittitle>1909 Big Horn County Irrigation Co.</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref30" level="item">
+                    <did>
+                        <unittitle>1910-1911 Big Horn County Irritating Co.</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref31" level="item">
+                    <did>
+                        <unittitle>1912-1915 Big Horn County Irrigating Co.</unittitle>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref32" level="subseries">
+                <did>
+                    <unittitle>BOX 6</unittitle>
+                </did>
+                <c02 id="ref33" level="item">
+                    <did>
+                        <unittitle>1910-1912 South Omaha and Stockyards National Bank</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref34" level="item">
+                    <did>
+                        <unittitle>1913-1916 Stockyards National Bank</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref35" level="item">
+                    <did>
+                        <unittitle>1907-1916 Cattle Feeders Loan Co.</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref36" level="subseries">
+                    <did>
+                        <unittitle>LETTER BOOKS</unittitle>
+                    </did>
+                    <c03 id="ref37" level="item">
+                        <did>
+                            <unittitle>Alcona Stock Farms 1902-1906</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref38" level="item">
+                        <did>
+                            <unittitle>-- 1903-1906</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref39" level="item">
+                        <did>
+                            <unittitle>-- 1906-1914</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref40" level="item">
+                        <did>
+                            <unittitle>Bondholders Committee 1902-1939</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref41" level="item">
+                        <did>
+                            <unittitle>Bi Horn County Irrigating Co. Trustee 1898-1916</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref42" level="item">
+                        <did>
+                            <unittitle>A8 -- 1917</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref43" level="item">
+                        <did>
+                            <unittitle>C4 -- 1912-1915</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref44" level="item">
+                        <did>
+                            <unittitle>I6 -- 1912</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref45" level="item">
+                        <did>
+                            <unittitle>I6 -- 1914</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref46" level="item">
+                        <did>
+                            <unittitle>C2 -- 1896-1899</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref47" level="item">
+                        <did>
+                            <unittitle>D5 -- 1902-1904</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref48" level="item">
+                        <did>
+                            <unittitle>L4 -- 1902</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref49" level="item">
+                        <did>
+                            <unittitle>Personal Calling Cards</unittitle>
+                        </did>
+                    </c03>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

@@ -1,0 +1,431 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead audience="external" relatedencoding="MARC21">
+  <eadheader langencoding="iso639-2b" audience="internal" countryencoding="iso3166-1"
+    dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924"
+    relatedencoding="MARC21">
+    <eadid mainagencycode="DSI-AI" countrycode="us"
+      identifier="http://siarchives.si.edu/findingaids/FA09-202.xml" encodinganalog="856$u">
+      http://siarchives.si.edu/findingaids/FA09-202.xml</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper encodinganalog="245$a">Alexander Wetmore Papers, <date>1928-1953 and undated</date></titleproper>
+        <author encodinganalog="245$c">Finding aid prepared by Smithsonian Institution
+          Archives</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher encodinganalog="260$b">Smithsonian Institution Archives </publisher>
+        <address>
+          <addressline>Washington, D.C. </addressline>
+          <addressline>Contact us at <emph render="italic">osiaref@si.edu</emph></addressline>
+        </address>
+        <date type="publication"/>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>Finding aid encoded on <date normal="2000-01-01">7-11-2011</date></creation>
+      <langusage encodinganalog="546"> Finding aid written in <language encodinganalog="041"
+          langcode="eng">English</language>
+      </langusage>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection" type="inventory" relatedencoding="MARC21">
+    <did>
+      <head>Collection Overview</head>
+      <repository label="Repository:" encodinganalog="852$a">
+        <corpname encodinganalog="110">Smithsonian Institution Archives, </corpname>
+        <address>
+          <addressline>Washington, D.C., </addressline>
+          <addressline><emph render="italic">osiaref@si.edu</emph></addressline>
+        </address>
+      </repository>
+      <origination label="Creator:">
+        <persname encodinganalog="100">Wetmore, Alexander, 1886-1978</persname>
+      </origination>
+      <note>
+        <p>Personal Papers</p>
+      </note>
+      <unittitle label="Title:" encodinganalog="245$a">Alexander Wetmore Papers</unittitle>
+      <unitdate label="Dates:" encodinganalog="245$f" normal="1971/2004">1928-1953 and undated</unitdate>
+      <physdesc label="Quantity:" encodinganalog="300$a">
+        <extent>1 cu. ft. (2 document boxes)</extent>
+      </physdesc>
+      <unitid encodinganalog="099" label="Collection:" countrycode="iso3166-1"
+        repositorycode="DSI-AI">Accession 09-202</unitid>
+      <langmaterial encodinganalog="546" label="Language of Materials:">
+        <language encodinganalog="041" langcode="eng">English</language>
+      </langmaterial>
+    </did>
+    <prefercite encodinganalog="510">
+      <head>Preferred Citation</head>
+      <p>Smithsonian Institution Archives, Accession 09-202, Wetmore, Alexander, 1886-1978, Alexander Wetmore Papers</p>
+    </prefercite>
+    
+ 
+    
+    <scopecontent>
+    <head>Descriptive Entry</head>
+     <p>These papers consist of Alexander Wetmore's research notes, photographs and correspondence concerning fossil birds.</p> </scopecontent> 
+     
+ 
+    
+    
+    
+    
+        
+      <controlaccess id="a12">
+      <head>Index Terms</head>
+      <p>This collection is indexed under the following access terms. These are links to collections
+      with related topics, persons or places.</p>
+        
+         <controlaccess>
+           <head>Name</head>
+           <famname encodinganalog="600" source="local">Wetmore, Alexander, 1886-1978</famname>
+         </controlaccess>
+        
+        
+         <controlaccess>
+           <head>Subject</head>
+           <subject encodinganalog="650" source="local">Fossils</subject>
+           <subject encodinganalog="650" source="local">Ornithology.</subject>
+         </controlaccess>
+        
+        
+        
+        
+         <controlaccess>
+           <head>Physical Characteristics of Materials in the Collection</head>
+           <genreform encodinganalog="655$a" source="aat">Manuscripts</genreform>
+           <genreform encodinganalog="655$a" source="aat">Black-and-white photographs</genreform>
+         </controlaccess>
+        
+      
+      </controlaccess>
+    <dsc type="combined" id="a23">
+      
+      <c01 level="file">
+        <did>
+          <unittitle>Box 1</unittitle>
+        </did>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 1 of 2</container>
+            <unittitle>Wetmoreabilia</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 1 of 2</container>
+            <unittitle>Kansas Pleistocene Burhinus Documents</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 1 of 2</container>
+            <unittitle>Fossil Eggs</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 1 of 2</container>
+            <unittitle>Fossil Feathers</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 1 of 2</container>
+            <unittitle>Footprints (Fossil)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 1 of 2</container>
+            <unittitle>Pharorhacidae</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 1 of 2</container>
+            <unittitle>Incertae sedis (AOU - American Ornithologists' Union)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 1 of 2</container>
+            <unittitle>Caenagnathus collinsi</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 1 of 2</container>
+            <unittitle>Archaeopteryx</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 1 of 2</container>
+            <unittitle>Archaeornis</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 1 of 2</container>
+            <unittitle>Hesperornis</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 1 of 2</container>
+            <unittitle>Ichthyornis and Plegadornis</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 1 of 2</container>
+            <unittitle>Aepyornis</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 1 of 2</container>
+            <unittitle>Eleutherornis</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 1 of 2</container>
+            <unittitle>Struthio</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 1 of 2</container>
+            <unittitle>Psammornis</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 1 of 2</container>
+            <unittitle>Dinornithidae</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 1 of 2</container>
+            <unittitle>Gaviiformes - Wetmore Original Notes and Correspondence</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 1 of 2</container>
+            <unittitle>Podicipitiformes - Wetmore Original Notes</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 1 of 2</container>
+            <unittitle>Procellariiformes - Wetmore Original Notes</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 1 of 2</container>
+            <unittitle>Pelecaniformes - Wetmore Original Notes</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 1 of 2</container>
+            <unittitle>Ciconiiformes - Wetmore Original Notes</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 1 of 2</container>
+            <unittitle>Jabiru myteria ciconia maltha</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 1 of 2</container>
+            <unittitle>Anseriformes - Wetmore Original Notes</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 1 of 2</container>
+            <unittitle>Cathartidae - Wetmore Original Notes</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Box 2</unittitle>
+        </did>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 2 of 2</container>
+            <unittitle>Accipitridae - Wetmore Original Notes</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 2 of 2</container>
+            <unittitle>Falconidae - Wetmore Original Notes</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 2 of 2</container>
+            <unittitle>Galliformes - Wetmore Original Notes</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 2 of 2</container>
+            <unittitle>Gruiformes - Wetmore Original Notes</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 2 of 2</container>
+            <unittitle>Bathornithidae - Wetmore Original Notes</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 2 of 2</container>
+            <unittitle>Palaeophasianus meleagroides</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 2 of 2</container>
+            <unittitle>Grus proavus</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 2 of 2</container>
+            <unittitle>Omorhampus storchii</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 2 of 2</container>
+            <unittitle>Charadriiformes - Wetmore Original Notes</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 2 of 2</container>
+            <unittitle>Columbidae - Wetmore Original Notes</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 2 of 2</container>
+            <unittitle>Strigiformes - Wetmore Original Notes</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 2 of 2</container>
+            <unittitle>Pico-Passerines - Wetmore Original Notes</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 2 of 2</container>
+            <unittitle>Palaeospiza bella</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 2 of 2</container>
+            <unittitle>Photos of Tar Pit Birds</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 2 of 2</container>
+            <unittitle>Original Art - Non-Prentice</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 2 of 2</container>
+            <unittitle>California Diatomite Birds (Photos)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 2 of 2</container>
+            <unittitle>Palaeoscinis turdirostris</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 2 of 2</container>
+            <unittitle>Mancalla californiensis</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 2 of 2</container>
+            <unittitle>Procrax brevipes</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 2 of 2</container>
+            <unittitle>Palaeonornis struthionoides</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 2 of 2</container>
+            <unittitle>Corvus</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 2 of 2</container>
+            <unittitle>Pyelorhamphus molothroides</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 2 of 2</container>
+            <unittitle>Big Bone Lick</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 2 of 2</container>
+            <unittitle>Pelecanus erythrorhynchos</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 2 of 2</container>
+            <unittitle>Gallinuloides wyomingensis</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 2 of 2</container>
+            <unittitle>Loan Material</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 2 of 2</container>
+            <unittitle>Miscellaneous Wetmore Fossil Bird Material</unittitle>
+          </did>
+        </c02>
+      
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

@@ -1,0 +1,964 @@
+﻿<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+	<!--The following section is header information that describes the finding aid-->
+	<eadheader langencoding="iso639-2b" scriptencoding="iso15924" relatedencoding="dc"
+		repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" id="a0">
+		<eadid countrycode="us" encodinganalog="identifier"
+			url="http://nwda.orbiscascade.org/ark:/80444/xv88116" mainagencycode="OrPL"
+			identifier="80444/xv88116">OLPb109STA.xml</eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper encodinganalog="title">Guide to the William E. Stafford Archives,
+					Series 1, Sub-Series 6: Stafford's Translations of Other Authors <date
+						encodinganalog="date" normal="1962/1992">1962-1992</date></titleproper>
+				<titleproper type="filing" altrender="nodisplay">Stafford (William E.) Archives
+					Series 1, Sub-Series 6: Stafford's Translations of Other Authors </titleproper>
+				<author encodinganalog="creator">Special Collections Staff</author>
+			</titlestmt>
+			<publicationstmt>
+				<!--To link to your logo, click on the diamond in the <extptr> tag below and enter the fullURL of the digital logo file in the HREF attribute. Describe image in TITLE attribute, eg., University of Oregon logo-->
+				<publisher encodinganalog="publisher">Lewis  Clark College Special Collections
+					and Archives<extptr actuate="onload" show="embed" role="image/gif"
+						href="http://library.lclark.edu/images/eadlogo.gif"
+						title="Lewis  Clark College Special Collections"/></publisher>
+				<date encodinganalog="date">© 2012</date>
+				<address> 
+			 <addressline>Lewis  Clark College Special Collections and
+				Archives</addressline> 
+			 <addressline>Aubrey R. Watzek Library</addressline> 
+			 <addressline>0615 SW Palatine Hill Rd.</addressline> 
+			 <addressline>Portland, OR 97219</addressline> 
+			 <addressline>archives@lclark.edu</addressline> 
+			 <addressline>503-768-7254</addressline> 
+		  </address>
+			</publicationstmt>
+		</filedesc>
+		<profiledesc>
+			<creation>Jeremy Skinner <date normal="2012">2012</date></creation>
+			<langusage>Finding aid written in <language langcode="eng" encodinganalog="language"
+					scriptcode="latn">English</language></langusage>
+			<descrules>Finding aid based on DACS ( <title render="italic">Describing Archives: A
+					Content Standard</title>).</descrules>
+		</profiledesc>
+	</eadheader>
+	<archdesc level="collection" type="inventory" relatedencoding="marc21">
+		<did id="a1">
+			<repository>
+				<corpname encodinganalog="852$a">Lewis  Clark College<subarea
+						encodinganalog="852$b"> Special Collections and
+					Archives</subarea></corpname>
+				<address> 
+			 <addressline>Lewis  Clark College Special Collections and
+				Archives</addressline> 
+			 <addressline>Aubrey R. Watzek Library</addressline> 
+			 <addressline>0615 SW Palatine Hill Rd.</addressline> 
+			 <addressline>Portland, OR 97219</addressline> 
+			 <addressline>archives@lclark.edu</addressline> 
+			 <addressline>503-768-7254</addressline> 
+		  </address>
+			</repository>
+			<unitid encodinganalog="099" countrycode="us" repositorycode="OLP">OLPb109STA</unitid>
+			<origination>
+				<persname encodinganalog="100" role="creator" source="lcnaf" normal="1914/1993"
+					>Stafford, William, 1914-1993</persname>
+			</origination>
+			<unittitle encodinganalog="245$a">The William E. Stafford Archives, Series 1, Sub-Series
+				6: Stafford's Translations of Other Authors</unittitle>
+			<unitdate type="inclusive" encodinganalog="245$f" normal="1962/1992"
+				>1962-1992</unitdate>
+			<physdesc>
+				<extent encodinganalog="300$a">1 cubic foot</extent>
+				<extent encodinganalog="300$a">2 boxes</extent>
+			</physdesc>
+			<abstract encodinganalog="5203_">William Stafford (1914-1993) was one of the most
+				prolific and important American poets of the last half of the twentieth century.
+				This subseries of the collection includes handwritten, typed, and published versions
+				of translations of poems by other authors, along with with correspondence about the
+				projects. The Index to the entire Stafford Archives can be found at: <extref
+					href="http://nwda-db.wsulibs.wsu.edu/findaid/ark:/80444/xv83782"
+					linktype="simple"
+					>http://nwda-db.wsulibs.wsu.edu/findaid/ark:/80444/xv83782</extref></abstract>
+			<physloc>Special Collections</physloc>
+			<langmaterial><language encodinganalog="546" langcode="eng"
+				>English</language></langmaterial>
+		</did>
+		<bioghist encodinganalog="5450" id="a2">
+			<!--Enter ENCODINGANALOG value of 5450_ for biog. or 5451_ for historical note, or use <head> element-->
+			<head>Biographical Note</head>
+			<p> William Stafford (1914-1993) was one of the most prolific and important American
+				poets of the last half of the twentieth century. Among his many credentials,
+				Stafford served as consultant in poetry at the Library of Congress, and received the
+				National Book Award for his poetry collection <title>Traveling through the
+					Dark</title> (1963). During his lifetime, Stafford wrote over sixty books of
+				poetry that still resonate with both scholars and general readers. Stafford’s
+				perspectives on peace, the environment, and education serve as some of the most
+				articulate and engaging dialogues by a modern American writer about three of the
+				most important issues of the second half of the twentieth century with lasting
+				impacts on future generations. Howard Zinn, one America’s most iconic modern
+				historians, was keenly aware of Stafford’s insight into modern American culture.
+				Zinn claimed, “William Stafford’s prose and poetry, wise and eloquent, speak
+				directly to the violence of our time, and to our hope for a different world” (from
+				cover of <title>Every War Has Two Losers</title>).</p>
+			<p>The William Stafford Archives, donated to Lewis  Clark College by the Stafford
+				family in 2008, contain the private papers, publications, photographs, recordings,
+				and teaching materials of the poet William Stafford. The Lewis  Clark College
+				Special Collections actively add to this collection by acquiring unique Stafford
+				related materials. </p>
+			<p>Stafford wrote every day of his life from 1950 to 1993. These 20,000 pages of daily
+				writings form a complete record of the poet’s mostly early morning meditations,
+				including poem drafts, dream records, aphorisms, and other visits to the
+				unconscious, recorded on separate sheets of yellow or white paper or when traveling,
+				often in spiral-bound reporters’ steno pads. The archive also includes typescripts
+				of poems submitted for publication and for use in readings. Stafford listed where he
+				submitted each poem, and whether it was accepted for publication on the typescript.
+				Each of his published collections, large and small, is represented by its gathering
+				of documentary copies (typescripts), called by Stafford a “put-together.”
+				Unpublished poems, poems published in journals, and reading copies of published
+				poems were also gathered, in a virtually complete record from 1937 to 1993, totaling
+				about 7,000 items. The collection also includes copies of all known Stafford books
+				and translations. Stafford saved correspondence received, with an indication of the
+				date of reply, and sometimes a copy of the reply, from the early 1960s to August
+				1993. Estimated at 100,000 sheets, the collected correspondence contains some full
+				exchanges of correspondence initiated by WS. One such exchange is the correspondence
+				with Marvin Bell on their sequence <title>Segues</title>. In addition to many
+				photographs of and relating to William Stafford, the archive includes an estimated
+				20,000 photographs and negatives taken and developed by Stafford of fellow poets,
+				family, friends, and Lewis  Clark College faculty. The archive provides
+				documentation of Stafford's teaching career, including more than one thousand index
+				cards, some dating from research at Iowa, others from later. These were much used in
+				preparing for classes, workshops, and lectures. The files also contain scattered
+				notes for workshops and lectures. The archive also includes course syllabi, and
+				faculty documents relating to Stafford's teaching years at Lewis  Clark
+				College.</p>
+		</bioghist>
+		<scopecontent encodinganalog="5202_" id="a3">
+			<p>Books printed in the English language.</p>
+		</scopecontent>
+		<arrangement encodinganalog="351" id="a4">
+			<p>Materials in this sub-series are grouped alphabetically by the original language of
+				the work, and then chronologically within language. All of the published materials
+				in this sub-series are described in detail in section C of <title>William Stafford:
+					An Annotated Bibliography</title> (2012) by James Pirie. </p>
+		</arrangement>
+		<accessrestrict encodinganalog="506" id="a14">
+			<p>This collection has no restrictions and is open for research.</p>
+		</accessrestrict>
+		<userestrict encodinganalog="540" id="a15">
+			<p>Permission to publish, exhibit, broadcast, or quote from materials in the Watzek
+				Library Archives  Special Collections requires written permission of the Head
+				of Archives  Special Collections.</p>
+		</userestrict>
+		<prefercite encodinganalog="524" id="a18">
+			<p>The William Stafford Archives, Lewis  Clark College Aubrey Watzek Library
+				Archives  Special Collections, Portland, Oregon.</p>
+		</prefercite>
+		<controlaccess id="a12">
+			<p>This collection is indexed under the following headings in the online catalog.
+				Researchers desiring materials about related topics, persons, or places should
+				search the catalog using these headings.</p>
+			<controlaccess>
+				<persname encodinganalog="600" role="subject" source="lcnaf">Stafford, William,
+					1914-1993--Archives</persname>
+				<persname role="subject" encodinganalog="600" rules="aacr2">Stafford,
+					Dorothy</persname>
+				<persname role="creator" encodinganalog="700" source="lcnaf">Stafford,
+					Kim</persname>
+			</controlaccess>
+			<controlaccess>
+				<corpname role="subject" encodinganalog="610" source="lcsh"> Lewis  Clark
+					College (Portland, Or.)</corpname>
+			</controlaccess>
+			<controlaccess>
+				<geogname role="subject" encodinganalog="651" source="lcsh">Kansas.</geogname>
+				<geogname source="lcsh" role="subject" encodinganalog="651">Oregon.</geogname>
+			</controlaccess>
+			<controlaccess>
+				<subject encodinganalog="650" source="lcsh"> Poets, American--20th
+					century.</subject>
+				<subject encodinganalog="650" source="lcsh"> Poetry--20th century.</subject>
+				<subject encodinganalog="650" source="lcsh"> Poetry -- Study and teaching.</subject>
+				<subject source="lcsh" encodinganalog="650"> Poetry -- Authorship.</subject>
+				<subject source="lcsh" encodinganalog="650">World War, 1939-1945 -- Conscientious
+					objectors -- United States.</subject>
+				<subject source="lcsh" encodinganalog="650"> Pacifism--Poetry.</subject>
+				<subject source="lcsh" encodinganalog="650"> Pacifism--United States.</subject>
+			</controlaccess>
+			<controlaccess>
+				<subject source="nwda" altrender="nodisplay" encodinganalog="690"
+					>Literature.</subject>
+			</controlaccess>
+		</controlaccess>
+		<dsc type="combined" id="a23">
+			<p>The following section contains a detailed listing of the materials in the
+				collection.</p>
+			<c01 level="file">
+				<did>
+					<container type="box">1</container>
+					<container type="folder">1.1</container>
+					<unittitle encodinganalog="245$a">Correspondence relating to translation,
+						1962-1963</unittitle>
+					<unitdate type="inclusive" encodinganalog="245$f" normal="1962/1963"
+						>1962-1963</unitdate>
+				</did>
+				<scopecontent encodinganalog="5202_">
+					<p>Elizabeth Kray (Poetry Center) on Bollingen project; Paul Luenow on
+						translating Marco Antonio Montes de Oca (Spanish), with a number of unused
+						drafts; other correspondence regarding Montes de Oca.</p>
+				</scopecontent>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container type="box">1</container>
+					<container type="folder">1.2</container>
+					<unittitle encodinganalog="245$a">Correspondence relating to translation,
+						1965-1966</unittitle>
+					<unitdate type="inclusive" encodinganalog="245$f" normal="1965/1966"
+						>1965-1966</unitdate>
+				</did>
+				<scopecontent encodinganalog="5202_">
+					<p>Elizabeth Kray (Academy of American Poets) on Bollingen Project. (Editor Jean
+						Garrigne, published by Ohio University Press, 1970); Hardie St. Martin
+							<title>Roots and Wings</title>, Aleixandre, Gonzalez, Lorea, Hidalgo,
+						Unamuno; Herbert Baird, Oca, Hidalgo, Gonzalez, Aleixandre; Lillian Jean
+						Stafford (WS's nephew's wife, Mr. Rob Stafford); Unamuno, George Lanning,
+						(Kenyon Review); Oca, Unamuno, Montes de Oca, Robin Skelton (Malahat
+						Review); Gonzalez, Aleixandre, Hidalgo.</p>
+				</scopecontent>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container type="box">1</container>
+					<container type="folder">1.3</container>
+					<unittitle encodinganalog="245$a">Letter to Stuart Friebert, 30 June 1989 on
+						possibility of a translated volume</unittitle>
+					<unitdate type="inclusive" encodinganalog="245$f" normal="19890630">June 30,
+						1989</unitdate>
+				</did>
+				<scopecontent encodinganalog="5202_">
+					<p>Friebert, at Oberlin was co-editor with David Young, of <title>Field</title>.
+						Additional correspondence regarding this topic is located in box 62, folder
+						62.4.</p>
+				</scopecontent>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container type="box">1</container>
+					<container type="folder">1.4</container>
+					<unittitle encodinganalog="245$a">BULGARIAN--Georgi Belev -
+						Correspondence</unittitle>
+					<unitdate type="inclusive" encodinganalog="245$f" normal="19910614">June 14,
+						1991</unitdate>
+				</did>
+				<scopecontent encodinganalog="5202_">
+					<p>William Stafford correspondence with Richard Harris and W.M. Meredith on the
+						poet Georgi Belev.</p>
+				</scopecontent>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container type="box">1</container>
+					<container type="folder">1.5</container>
+					<unittitle encodinganalog="245$a">BULGARIAN--Georgi Belev "Birth"</unittitle>
+					<unitdate type="inclusive" encodinganalog="245$f" normal="1991">1991</unitdate>
+				</did>
+				<scopecontent encodinganalog="5202_">
+					<p>Original and translation by William Stafford.</p>
+				</scopecontent>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container type="box">1</container>
+					<container type="folder">1.6</container>
+					<unittitle encodinganalog="245$a">BULGARIAN--Georgi Belev "Children"</unittitle>
+					<unitdate type="inclusive" encodinganalog="245$f" normal="1991">1991</unitdate>
+				</did>
+				<scopecontent encodinganalog="5202_">
+					<p>Original and translation by William Stafford.</p>
+				</scopecontent>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container type="box">1</container>
+					<container type="folder">1.7</container>
+					<unittitle encodinganalog="245$a">BULGARIAN--Georgi Belev
+						"Comeuppance"</unittitle>
+					<unitdate type="inclusive" encodinganalog="245$f" normal="">undated</unitdate>
+				</did>
+				<scopecontent encodinganalog="5202_">
+					<p>Original and translation by William Stafford.</p>
+				</scopecontent>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container type="box">1</container>
+					<container type="folder">1.8</container>
+					<unittitle encodinganalog="245$a">BULGARIAN--Georgi Belev "It's
+						Coming"</unittitle>
+					<unitdate type="inclusive" encodinganalog="245$f" normal="">undated</unitdate>
+				</did>
+				<scopecontent encodinganalog="5202_">
+					<p>Original and translation by William Stafford.</p>
+				</scopecontent>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container type="box">1</container>
+					<container type="folder">1.9</container>
+					<unittitle encodinganalog="245$a">BULGARIAN--Georgi Belev "Lavender"</unittitle>
+					<unitdate type="inclusive" encodinganalog="245$f" normal="">undated</unitdate>
+				</did>
+				<scopecontent encodinganalog="5202_">
+					<p>Original and translation by William Stafford.</p>
+				</scopecontent>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container type="box">1</container>
+					<container type="folder">1.10</container>
+					<unittitle encodinganalog="245$a">BULGARIAN--Georgi Belev <title>Window and the Black
+						Sea: Bulgarian Poetry in Translation</title> [Text]</unittitle>
+					<unitdate type="inclusive" encodinganalog="245$f" normal="1992">1992</unitdate>
+				</did>
+				<scopecontent encodinganalog="5202_">
+					<p>Translations of poems by Georgi Belev by William Stafford for Carnegie Mellon
+						University Press.</p>
+				</scopecontent>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container type="box">1</container>
+					<container type="folder">1.11</container>
+					<unittitle encodinganalog="245$a">BULGARIAN--Original and literal translations
+						of Georgi Belev poems, not translated by William Stafford</unittitle>
+					<unitdate type="inclusive" encodinganalog="245$f" normal="">undated</unitdate>
+				</did>
+				<scopecontent encodinganalog="5202_">
+					<p>Includes the poems "August" Childhood", "The Forester", "Garden with Stone
+						Fence and Quince Trees", "Hide and Seek", "Lake; Moth", "Museum",
+						"Simultaneous Death of Salome and John the Baptist", "Spaces", "Vision".</p>
+				</scopecontent>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container type="box">1</container>
+					<container type="folder">1.12</container>
+					<unittitle encodinganalog="245$a">CATALAN-- Letter to Vance Savage, with a
+						version of a translated poem</unittitle>
+					<unitdate type="inclusive" encodinganalog="245$f" normal="19730703">July 3,
+						1973</unitdate>
+				</did>
+				<scopecontent encodinganalog="5202_">
+					<p>Poem "Youth of Gold in the Grey Waves" draft translation by William Stafford,
+						and Vance Savage. Author unknown.</p>
+				</scopecontent>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container type="box">1</container>
+					<container type="folder">1.13</container>
+					<unittitle encodinganalog="245$a">CATALAN-- Letter to Jaume P. Montaner and
+						Vance Savage</unittitle>
+					<unitdate type="inclusive" encodinganalog="245$f" normal="19751009">October 9,
+						1975</unitdate>
+				</did>
+				<scopecontent encodinganalog="5202_">
+					<p>Relating to Four poems by Estelles and one by Montaner.</p>
+				</scopecontent>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container type="box">1</container>
+					<container type="folder">1.14</container>
+					<unittitle encodinganalog="245$a">CATALAN--Vincent Andres Estelles "Come Death
+						Limping on Her Broken Bone"</unittitle>
+					<unitdate type="inclusive" encodinganalog="245$f" normal="">undated</unitdate>
+				</did>
+				<scopecontent encodinganalog="5202_">
+					<p>Translation by William Stafford with Jaume P. Montaner and Vance Savage of
+						"Si re la Mort…" (Catalan); or "Si Viene la Muerte…" (Spanish).</p>
+				</scopecontent>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container type="box">1</container>
+					<container type="folder">1.15</container>
+					<unittitle encodinganalog="245$a">CATALAN--Vincent Andres Estelles "Death,
+						Explained to a Kid in the Neighborhood"</unittitle>
+					<unitdate type="inclusive" encodinganalog="245$f" normal="">undated</unitdate>
+				</did>
+				<scopecontent encodinganalog="5202_">
+					<p>Translation by William Stafford, Jaume P. Montaner, and Vance Savage of "La
+						Mort, contrasa al nen del veinat" (Catalan) or "La Muerte, contada al nino
+						vecindario". </p>
+				</scopecontent>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container type="box">1</container>
+					<container type="folder">1.16</container>
+					<unittitle encodinganalog="245$a">CATALAN--Vincent Andres Estelles "I'd Like to
+						Write, Even Now, a Nice poem"</unittitle>
+					<unitdate type="inclusive" encodinganalog="245$f" normal="">undated</unitdate>
+				</did>
+				<scopecontent encodinganalog="5202_">
+					<p>Translation by William Stafford, Jaume P. Montaner, and Vance Savage of
+						"Volgues escriure, ara amable poema" (Catalan) or "Quisiera escribir,
+						aborah, un amable poema" (Spanish). Published in <title>Grilled Flowers</title> 2:1
+						Spring/Summer 1977, p.5.</p>
+				</scopecontent>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container type="box">1</container>
+					<container type="folder">1.17</container>
+					<unittitle encodinganalog="245$a">CATALAN--Vincent Andres Estellet "Lady of Last
+						Night"</unittitle>
+					<unitdate type="inclusive" encodinganalog="245$f" normal="">undated</unitdate>
+				</did>
+				<scopecontent encodinganalog="5202_">
+					<p>Translation by William Stafford, Jaume P. Montaner, and Vance Savage, from
+						"Dama de Anoche" (Catalan). Published in <title>Paris Review</title> 68 (Winter 1976) p.
+						156.</p>
+				</scopecontent>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container type="box">1</container>
+					<container type="folder">1.18</container>
+					<unittitle encodinganalog="245$a">CATALAN--Jaume P. Montaner "The Last
+						Hours"</unittitle>
+					<unitdate type="inclusive" encodinganalog="245$f" normal="">undated</unitdate>
+				</did>
+				<scopecontent encodinganalog="5202_">
+					<p>Translated by William Stafford and Vance Savage of "Les Horas Postresas". No
+						evidence of publication.</p>
+				</scopecontent>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container type="box">1</container>
+					<container type="folder">1.19</container>
+					<unittitle encodinganalog="245$a">CATALAN--Charles Riba Translations</unittitle>
+					<unitdate type="inclusive" encodinganalog="245$f" normal="1976/1977">c.
+						1976</unitdate>
+				</did>
+				<scopecontent encodinganalog="5202_">
+					<p>Five poems translated by William Stafford and Jaume P. Montaner. Includes
+						"Glory of Salamina", "I Think of the Heart", "Sunion", "Tannkas of the Four
+						Seasons". "Tannkas of the Return". Also includes letter to Montaner, 17 May
+						1976.</p>
+				</scopecontent>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container type="box">1</container>
+					<container type="folder">1.20</container>
+					<unittitle encodinganalog="245$a">ENGLISH--Longfellow "Boston Pidgin Poetic"
+						with "20th Century Lingo"</unittitle>
+					<unitdate type="inclusive" encodinganalog="245$f" normal="">undated</unitdate>
+				</did>
+				<scopecontent encodinganalog="5202_">
+					<p>Translation by William Stafford of "Milton" with undated typed comments on
+						different kinds of translations.</p>
+				</scopecontent>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container type="box">1</container>
+					<container type="folder">1.21</container>
+					<unittitle encodinganalog="245$a">FRENCH--Rene Guy Cadou "Who Risks it where a
+						Poet Lives" aka "Life in Things"</unittitle>
+					<unitdate type="inclusive" encodinganalog="245$f" normal="1976/1977">c.
+						1976</unitdate>
+				</did>
+				<scopecontent encodinganalog="5202_">
+					<p>Translation of "Celui qui entre par hasard" by William Stafford for the
+						<title>Anthology of French Poetry</title> (U. of Michigan Press 1965) p. 111.</p>
+				</scopecontent>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container type="box">1</container>
+					<container type="folder">1.22</container>
+					<unittitle encodinganalog="245$a">FRENCH--Victor Hugo "Tomorrow at
+						Dawn"</unittitle>
+					<unitdate type="inclusive" encodinganalog="245$f" normal="">undated</unitdate>
+				</did>
+				<scopecontent encodinganalog="5202_">
+					<p>Translation by William Stafford of "Demain des l'aube". No evidence of
+						publication.</p>
+				</scopecontent>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container type="box">2</container>
+					<container type="folder">2.1</container>
+					<unittitle encodinganalog="245$a">JAPANESE--Rin Ishigaki "Nameplate"</unittitle>
+					<unitdate type="inclusive" encodinganalog="245$f" normal="">undated</unitdate>
+				</did>
+				<scopecontent encodinganalog="5202_">
+					<p>Translation by William Stafford and Yorifumi Yaguchi. Published in <title>Exhibition</title>
+						6:2 (Summer 1990) p. 5.</p>
+				</scopecontent>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container type="box">2</container>
+					<container type="folder">2.2</container>
+					<unittitle encodinganalog="245$a">JAPANESE--Masao Nonagase, Ten
+						poems.</unittitle>
+					<unitdate type="inclusive" encodinganalog="245$f" normal="">undated</unitdate>
+				</did>
+				<scopecontent encodinganalog="5202_">
+					<p>Preface and translation of ten poems of Masao Nonagase by Junko Yoshida,
+						lightly edited by William Stafford. </p>
+				</scopecontent>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container type="box">2</container>
+					<container type="folder">2.3</container>
+					<unittitle encodinganalog="245$a">JAPANESE--Shuntaro Tanikawa "Dung"</unittitle>
+					<unitdate type="inclusive" encodinganalog="245$f" normal="">undated</unitdate>
+				</did>
+				<scopecontent encodinganalog="5202_">
+					<p>Translation by William Stafford and Yorifumi Yaguchi. Published in <title>South
+						Coast Poetry Journal</title> (Spring 1986) p. 37.</p>
+				</scopecontent>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container type="box">2</container>
+					<container type="folder">2.4</container>
+					<unittitle encodinganalog="245$a">JAPANESE--Shuntaro Tanikawa "Hi
+						There"</unittitle>
+					<unitdate type="inclusive" encodinganalog="245$f" normal="">undated</unitdate>
+				</did>
+				<scopecontent encodinganalog="5202_">
+					<p>Translation by William Stafford and Yorifumi Yaguchi. Published in <title>Artful
+						Dodge</title> 18/19 (1990), p. 15.</p>
+				</scopecontent>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container type="box">2</container>
+					<container type="folder">2.5</container>
+					<unittitle encodinganalog="245$a">JAPANESE--Shuntaro Tanikawa "The
+						Back"</unittitle>
+					<unitdate type="inclusive" encodinganalog="245$f" normal="">undated</unitdate>
+				</did>
+				<scopecontent encodinganalog="5202_">
+					<p>Translation by William Stafford and Yorifumi Yaguchi. No evidence of
+						publication.</p>
+				</scopecontent>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container type="box">2</container>
+					<container type="folder">2.6</container>
+					<unittitle encodinganalog="245$a">JAPANESE--Shuntaro Tanikawa "From the
+						Afterworld"</unittitle>
+					<unitdate type="inclusive" encodinganalog="245$f" normal="">undated</unitdate>
+				</did>
+				<scopecontent encodinganalog="5202_">
+					<p>Translation by William Stafford and Yorifumi Yaguchi. Published in <title>Field</title> 33
+						(fall 1985), pp. 71-72.</p>
+				</scopecontent>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container type="box">2</container>
+					<container type="folder">2.7</container>
+					<unittitle encodinganalog="245$a">SPANISH--Vicente Aleixandre "In Front of the
+						Mirror"</unittitle>
+					<unitdate type="inclusive" encodinganalog="245$f" normal="">undated</unitdate>
+				</did>
+				<scopecontent encodinganalog="5202_">
+					<p>Translation by William Stafford and Herbert Baird of "Ante el Espejo".
+						Published in <title>Malahat Review</title> 4 (Oct. 1967), pp. 56-57.</p>
+				</scopecontent>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container type="box">2</container>
+					<container type="folder">2.8</container>
+					<unittitle encodinganalog="245$a">SPANISH--Carlos Bousono "Litany to tell how
+						you love me"</unittitle>
+					<unitdate type="inclusive" encodinganalog="245$f" normal="">undated</unitdate>
+				</did>
+				<scopecontent encodinganalog="5202_">
+					<p>Translation draft by Vance Savage, considered for translation by William
+						Stafford, no draft seen.</p>
+				</scopecontent>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container type="box">2</container>
+					<container type="folder">2.9</container>
+					<unittitle encodinganalog="245$a">SPANISH--Francisco Brines "La Gloire" and
+						"Beggar of Reality"</unittitle>
+					<unitdate type="inclusive" encodinganalog="245$f" normal="">undated</unitdate>
+				</did>
+				<scopecontent encodinganalog="5202_">
+					<p>Translation of "Onor" by William Stafford and Vance Savage, and "Mendigo de
+						Realidad" by Vance Savage. No evidence of publication.</p>
+				</scopecontent>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container type="box">2</container>
+					<container type="folder">2.10</container>
+					<unittitle encodinganalog="245$a">SPANISH--Leon Felipe, Three poems.</unittitle>
+					<unitdate type="inclusive" encodinganalog="245$f" normal="">undated</unitdate>
+				</did>
+				<scopecontent encodinganalog="5202_">
+					<p>Translations by William Stafford with Lillian Jean Stafford. No evidence of
+						publication.</p>
+				</scopecontent>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container type="box">2</container>
+					<container type="folder">2.11</container>
+					<unittitle encodinganalog="245$a">SPANISH--Gabriel Ferrater, Four
+						poems.</unittitle>
+					<unitdate type="inclusive" encodinganalog="245$f" normal="">undated</unitdate>
+				</did>
+				<scopecontent encodinganalog="5202_">
+					<p>Translations by William Stafford, with draft translations by Jaume P.
+						Montaner. No evidence of publication.</p>
+				</scopecontent>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container type="box">2</container>
+					<container type="folder">2.12</container>
+					<unittitle encodinganalog="245$a">SPANISH--Angel Gonzalez "The
+						Battlefield"</unittitle>
+					<unitdate type="inclusive" encodinganalog="245$f" normal="">undated</unitdate>
+				</did>
+				<scopecontent encodinganalog="5202_">
+					<p>Translation of Angel Gonzale "El Campo de Batalia" by William Stafford and
+						Herbert Baird.</p>
+				</scopecontent>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container type="box">2</container>
+					<container type="folder">2.13</container>
+					<unittitle encodinganalog="245$a">SPANISH--Angel Gonzalez "Summer in
+						Slumville"</unittitle>
+					<unitdate type="inclusive" encodinganalog="245$f" normal="">undated</unitdate>
+				</did>
+				<scopecontent encodinganalog="5202_">
+					<p>Translation of Angel Gonzalez "Estio en Bidonville" by William Stafford and
+						Herbert Baird. Published in <title>The Malahat Review</title> 4 (Oct. 1967), pp. 60-61.</p>
+				</scopecontent>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container type="box">2</container>
+					<container type="folder">2.14</container>
+					<unittitle encodinganalog="245$a">SPANISH--Jose Luis Hidalgo "You Have to Go
+						Down"</unittitle>
+					<unitdate type="inclusive" encodinganalog="245$f" normal="">undated</unitdate>
+				</did>
+				<scopecontent encodinganalog="5202_">
+					<p>Translation of Jose Luis Hidalgo 'Hay Que Bajar" by William Stafford and
+						Herbert Baird. Published in <title>The Malahat Review</title> 4 (Oct. 1967). pp. 58-59.</p>
+				</scopecontent>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container type="box">2</container>
+					<container type="folder">2.15</container>
+					<unittitle encodinganalog="245$a">SPANISH--Federico Garcia Lorca
+						"Quarrel"</unittitle>
+					<unitdate type="inclusive" encodinganalog="245$f" normal="">undated</unitdate>
+				</did>
+				<scopecontent encodinganalog="5202_">
+					<p>Translation of Federico Garcia Lorca "Reyerta" by William Stafford and
+						Herbert Baird. Published in <title>Kenyon Review</title> 29:5 (No. 1967), pp. 662-663.</p>
+				</scopecontent>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container type="box">2</container>
+					<container type="folder">2.16</container>
+					<unittitle encodinganalog="245$a">SPANISH--Marco Antonio Montes de Oca "Song for
+						Celebrating What Won't Die"</unittitle>
+					<unitdate type="inclusive" encodinganalog="245$f" normal="">undated</unitdate>
+				</did>
+				<scopecontent encodinganalog="5202_">
+					<p>Translation of Montes de Oca "Cancion Para Celebrar lo que no Muere" by
+						William Stafford and Paul Luenow. Published in <title>Translations by American
+						Poets</title> (Athens: Ohio University Press, 1970), pp. 325-327.</p>
+				</scopecontent>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container type="box">2</container>
+					<container type="folder">2.17</container>
+					<unittitle encodinganalog="245$a">SPANISH--Marco Antonio Montes de Oca "The
+						Clown's Farewell"</unittitle>
+					<unitdate type="inclusive" encodinganalog="245$f" normal="1965">1965</unitdate>
+				</did>
+				<scopecontent encodinganalog="5202_">
+					<p>Translation of Montes de Oca "La Despedida del Bufon" by William Stafford and
+						Paul Luenow. Published in <title>The Kenyon Review</title> 27:2 (Spring 1965), pp.
+						237-238/</p>
+				</scopecontent>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container type="box">2</container>
+					<container type="folder">2.18</container>
+					<unittitle encodinganalog="245$a">SPANISH--Marco Antonio Montes de Oca
+						"9"</unittitle>
+					<unitdate type="inclusive" encodinganalog="245$f" normal="1965">1965</unitdate>
+				</did>
+				<scopecontent encodinganalog="5202_">
+					<p>Translation of Montes de Oca "Nueve" by William Stafford and Paul Luenow.
+						Published in <title>The Kenyon Review</title> 27:2 (Spring 1965), pp. 236-237.</p>
+				</scopecontent>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container type="box">2</container>
+					<container type="folder">2.19</container>
+					<unittitle encodinganalog="245$a">SPANISH--Marco Antonio Montes de Oca "The
+						Unreachable Sun"</unittitle>
+					<unitdate type="inclusive" encodinganalog="245$f" normal="1965">1965</unitdate>
+				</did>
+				<scopecontent encodinganalog="5202_">
+					<p>Translation of Montes de Oca "El Sol que no se Alcanza" by William Stafford
+						and Paul Luenow. Published in <title>The Kenyon Review</title> 27:2 (Spring 1965), pp.
+						233-235.</p>
+				</scopecontent>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container type="box">2</container>
+					<container type="folder">2.20</container>
+					<unittitle encodinganalog="245$a">SPANISH--Marco Antonio Montes de Oca, 33
+						versions of poems by Paul Luenow</unittitle>
+					<unitdate type="inclusive" encodinganalog="245$f" normal="">undated</unitdate>
+				</did>
+				<scopecontent encodinganalog="5202_">
+					<p>33 versions of Montes de Oca poems translated by Paul Luenow. Not completed
+						by William Stafford or published.</p>
+				</scopecontent>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container type="box">2</container>
+					<container type="folder">2.21</container>
+					<unittitle encodinganalog="245$a">SPANISH--Marco Antonio Montes de Oca and Jaume
+						P. Montaner</unittitle>
+					<unitdate type="inclusive" encodinganalog="245$f" normal="">undated</unitdate>
+				</did>
+				<scopecontent encodinganalog="5202_">
+					<p>Two volumes by Montes de Oca and one by Montaner. Source materials for
+						translations by William Stafford and associates. </p>
+				</scopecontent>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container type="box">2</container>
+					<container type="folder">2.22</container>
+					<unittitle encodinganalog="245$a">SPANISH--Francisco de Quevedo "These
+						Times"</unittitle>
+					<unitdate type="inclusive" encodinganalog="245$f" normal="">undated</unitdate>
+				</did>
+				<scopecontent encodinganalog="5202_">
+					<p>Free translation by William Stafford. Acceptance Second Growth (Oct. 1975),
+						Not seen. </p>
+				</scopecontent>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container type="box">2</container>
+					<container type="folder">2.23</container>
+					<unittitle encodinganalog="245$a">SPANISH--Miguel de Unamuno "It Is Night, in My
+						Study"</unittitle>
+					<unitdate type="inclusive" encodinganalog="245$f" normal="">undated</unitdate>
+				</did>
+				<scopecontent encodinganalog="5202_">
+					<p>Translation of Miguel de Unamuno "Es de Noche, en Mi Estudio" by William
+						Stafford and Lillian Jean Stafford. Published in <title>Kenyon Review</title> 29:4 (Sept.
+						1967), pp. 526-527.</p>
+				</scopecontent>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container type="box">2</container>
+					<container type="folder">2.24</container>
+					<unittitle encodinganalog="245$a">SPANISH--Cesar Vallejo "Messengers of
+						Dark"</unittitle>
+					<unitdate type="inclusive" encodinganalog="245$f" normal="1960/1961">c.
+						1960</unitdate>
+				</did>
+				<scopecontent encodinganalog="5202_">
+					<p>Two translation drafts of Cesar Vallejo "Messengers of Dark" by William
+						Stafford. No typescript, or evidence of publication.</p>
+				</scopecontent>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container type="box">2</container>
+					<container type="folder">2.25</container>
+					<unittitle encodinganalog="245$a">SPANISH--William Stafford On Urdu and
+						Spanish</unittitle>
+					<unitdate type="inclusive" encodinganalog="245$f" normal="1984">1984</unitdate>
+				</did>
+				<scopecontent encodinganalog="5202_">
+					<p>Interview with William Stafford on translating. Published in <title>Poet News</title> (Sept.
+						1984).</p>
+				</scopecontent>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container type="box">2</container>
+					<container type="folder">2.26</container>
+					<unittitle encodinganalog="245$a">URDU--Ghalib, <title>Poems by Ghalib</title></unittitle>
+					<unitdate type="inclusive" encodinganalog="245$f" normal="">undated</unitdate>
+				</did>
+				<scopecontent encodinganalog="5202_">
+					<p>Versions of poems by Ghalib translated by William Stafford, Aijaz Ahmad, and
+						Adrienne Rich. Included is copy of <title>Poems by Ghalib</title> (1969)</p>
+				</scopecontent>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container type="box">2</container>
+					<container type="folder">2.27</container>
+					<unittitle encodinganalog="245$a">URDU--Ghalib, <title>Mahfil</title>,5:4
+						(1968-1969)</unittitle>
+					<unitdate type="inclusive" encodinganalog="245$f" normal="">undated</unitdate>
+				</did>
+				<scopecontent encodinganalog="5202_">
+					<p>Translation versions, and notes for <title>Mahfil</title> publication by William Stafford,
+						Aijaz Ahmad, and Adrienne Rich. Includes copy of <title>Mahfil</title> 5:4 (1968-1969).
+					</p>
+				</scopecontent>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container type="box">2</container>
+					<container type="folder">2.28</container>
+					<unittitle encodinganalog="245$a">URDU--Ghalib in <title>Hudson Review</title> 22:4 (Winter
+						1969-1970)</unittitle>
+					<unitdate type="inclusive" encodinganalog="245$f" normal="">undated</unitdate>
+				</did>
+				<scopecontent encodinganalog="5202_">
+					<p>Introduction and translations of Ghalib by William Stafford and Aijaz Ahmad
+						for the <title>Hudson Review</title> 22:4 (Winter 1969-1970).</p>
+				</scopecontent>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container type="box">2</container>
+					<container type="folder">2.29</container>
+					<unittitle encodinganalog="245$a">URDU--Ghalib Centennial Tribute</unittitle>
+					<unitdate type="inclusive" encodinganalog="245$f" normal="19700120">January 20,
+						1970</unitdate>
+				</did>
+				<scopecontent encodinganalog="5202_">
+					<p>Program guide of Ghalib tribute event at the University of Minnesota. </p>
+				</scopecontent>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container type="box">2</container>
+					<container type="folder">2.30</container>
+					<unittitle encodinganalog="245$a">URDU--Ghalib in <title>Delos</title>, 5 (1970)</unittitle>
+					<unitdate type="inclusive" encodinganalog="245$f" normal="1970">1970</unitdate>
+				</did>
+				<scopecontent encodinganalog="5202_">
+					<p>Translation of Ghalib by William Stafford. Published in <title>Delos</title> 5 (1970), p.
+						152.</p>
+				</scopecontent>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container type="box">2</container>
+					<container type="folder">2.31</container>
+					<unittitle encodinganalog="245$a">URDU--Ghalib in <title>Malahat Review</title> 14 (April
+						1970)</unittitle>
+					<unitdate type="inclusive" encodinganalog="245$f" normal="1970">1970</unitdate>
+				</did>
+				<scopecontent encodinganalog="5202_">
+					<p>Translation of Ghalib by William Stafford, and Aijaz Ahmad. Published in
+						<title>Malahat Review</title> 14 (April 1970), p. 19.</p>
+				</scopecontent>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container type="box">2</container>
+					<container type="folder">2.32</container>
+					<unittitle encodinganalog="245$a">URDU--<title>Ghazals of Ghalib</title> (1971)</unittitle>
+					<unitdate type="inclusive" encodinganalog="245$f" normal="1971">1971</unitdate>
+				</did>
+				<scopecontent encodinganalog="5202_">
+					<p>Translations of Ghalib by William Stafford and associates for <title>Ghazals of
+						Ghalib</title> ed. By Aijaz Ahmed, Columbia University Press (1971). Relating
+						correspondence and multiple drafts located in box 77b of Editorial
+						Correspondence files 77B.4-77B.9.</p>
+				</scopecontent>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container type="box">2</container>
+					<container type="folder">2.33</container>
+					<unittitle encodinganalog="245$a">URDU--Ghalib in <title>Mademoiselle</title> (Jan.
+						1972).</unittitle>
+					<unitdate type="inclusive" encodinganalog="245$f" normal="1972">1972</unitdate>
+				</did>
+				<scopecontent encodinganalog="5202_">
+					<p>Translation of Ghalib by William Stafford published in <title>Mademoiselle</title> (Jan.
+						1972). p. 50.</p>
+				</scopecontent>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container type="box">2</container>
+					<container type="folder">2.34</container>
+					<unittitle encodinganalog="245$a">URDU--Ghalib in <title>Asia</title> 25 (Spring
+						1972)</unittitle>
+					<unitdate type="inclusive" encodinganalog="245$f" normal="1972">1972</unitdate>
+				</did>
+				<scopecontent encodinganalog="5202_">
+					<p>Translation of Ghalib by William Stafford and Aijaz Ahmad. Published in <title>Asia</title>
+						25 (Spring 1972), pp. 9-10.</p>
+				</scopecontent>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container type="box">2</container>
+					<container type="folder">2.35</container>
+					<unittitle encodinganalog="245$a">URDU--Ghalib, Catalog of Ghalib (New
+						Delhi)</unittitle>
+					<unitdate type="inclusive" encodinganalog="245$f" normal="1972">1972</unitdate>
+				</did>
+				<scopecontent encodinganalog="5202_">
+					<p>Catalog of Ghalib, with list of Poems by Ghalib (including William Stafford
+						translations) p. 8, #2</p>
+				</scopecontent>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container type="box">2</container>
+					<container type="folder">2.36</container>
+					<unittitle encodinganalog="245$a">URDU--William Stafford On Urdu and
+						Spanish</unittitle>
+					<unitdate type="inclusive" encodinganalog="245$f" normal="1984">1984</unitdate>
+				</did>
+				<scopecontent encodinganalog="5202_">
+					<p>Interview with William Stafford on translating. Published in <title>Poet News</title> (Sept.
+						1984). [contains section on Ghalib]</p>
+				</scopecontent>
+			</c01>
+		</dsc>
+	</archdesc>
+</ead>

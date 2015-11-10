@@ -1,0 +1,159 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "http://lcweb2.loc.gov/xmlcommon/dtds/ead2002/ead.dtd">
+<ead relatedencoding="MARC21"> 
+ <eadheader relatedencoding="Dublin Core" findaidstatus="edited-full-draft" langencoding="iso639-2b" scriptencoding="iso15924" audience="internal" id="a0">
+	 <eadid encodinganalog="852$a" url="http://hdl.handle.net/10407/9522184348" identifier="10407/9522184348"> ksrl.kc.barlowmarion
+	 </eadid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper> Guide to the Marion Albert Barlow Collection</titleproper> 
+	<subtitle>Marion Albert Barlow papers, 1943-1961</subtitle>	   
+		  <author> smc, 9/19/78</author> 
+		</titlestmt> 
+		<publicationstmt> 
+		  <publisher> University of Kansas </publisher> 
+		  <address> 
+			 <addressline> Lawrence, KS 66045</addressline> 
+		  </address> 
+		  <date> 2004
+		  </date> 
+		</publicationstmt> 
+	 </filedesc> 
+	 <profiledesc> 
+		<creation> mg
+		  <date> 2004
+		  </date> </creation> 
+		<langusage>Finding aid written in<language> English.</language>
+		  </langusage> 
+	 </profiledesc> 
+  </eadheader> 
+  <archdesc level="collection" type="inventory"> 
+	 <did id="a1"> 
+		<head> COLLECTION SUMMARY</head>
+		 
+		<repository label="Repository:" encodinganalog="852$a"> 
+		  <corpname encodinganalog="852$a"> University of Kansas <subarea>Kenneth
+		  Spencer Research Library</subarea><subarea>Kansas Collection</subarea></corpname> 
+		  <address> 
+			 <addressline> 1450 Poplar Lane, Lawrence, KS 66045-7616
+				</addressline> 
+			 <addressline>Phone: (785) 864 - 4334</addressline>
+			 <addressline>Fax: (785) 864-5803</addressline>
+			 <addressline>URL: http://spencer.lib.ku.edu</addressline>
+		  </address> </repository> 
+		<origination label="Creator:"> 
+		  <persname> Barlow, Marion Albert, 1893-
+		  </persname> </origination> 
+		<unittitle label="Title:" encodinganalog="245"> Marion Albert Barlow papers
+		</unittitle> 
+		<unitdate type="inclusive" label="Dates:" encodinganalog="245$f"> 1943-1961
+		</unitdate> 
+		<physdesc><extent label="Quantity:" encodinganalog="300$a"> 1 linear ft.
+	</extent>	</physdesc> 
+		<abstract label="Abstract:" encodinganalog="520$a"> Literary manuscripts, galley proofs, reviews, etc., 1943-1961, together with family photographs.
+		</abstract> 
+		<unitid label="Identification:" encodinganalog="099" repositorycode="US-KKU" countrycode="us" type="call #"> RH MS 269
+		</unitid> 
+	 </did> 
+	
+	 <scopecontent id="a3" encodinganalog="520"> 
+		<head>SCOPE and CONTENTS </head> 
+		<p> The collection contains anecdotal accounts of growing up in various areas of Kansas and a description of life in Kansas and Colorado from 1893-1943, together with 22 photographs of sod houses, ranch and farm life, and members of the Barlow family and their friends.
+
+
+
+		</p> 
+	 </scopecontent> 
+	 <accessrestrict id="a14" encodinganalog="506"> 
+		<head>RESTRICTIONS on ACCESS</head> 
+		<p>None
+		</p> 
+	 </accessrestrict> 
+	 <userestrict id="a15" encodinganalog="540"> 
+		<head>RESTRICTIONS on USE</head> 
+		 
+		<p> Spencer Library staff may determine  use restrictions
+		  dependent on the physical condition of manuscript materials.</p>
+	 </userestrict>
+	  
+	 <controlaccess id="a12"> 
+		<head> INDEX TERMS</head> 
+		 
+		<controlaccess> 
+		  <head>Names:</head> 
+		  <persname source="lcnaf" encodinganalog="700"> Barlow, Marion Albert, 1893
+		  </persname> 
+		<persname>Whittington, F.</persname></controlaccess> 
+		<controlaccess><head>Family Names:</head><famname>Barlow family</famname></controlaccess> 
+		<controlaccess> 
+		  <head>Subjects:</head> 
+		  <subject source="lcsh" encodinganalog="650"> Colorado--History--Anecdotes, facetiae, satire, etc.
+		  </subject> 
+		<subject>Colorado--History--1876-1950</subject><subject>Sand Arroyo, Colorado-Description</subject><subject>Frontier and pioneer life--Colorado</subject><subject>Sand Arroyo, Colorado--Description--Views</subject><subject>1914-1919</subject><subject>1920-1924</subject></controlaccess> 
+		 
+		 
+		<controlaccess> 
+		  <head>Titles:</head> 
+		  <title render="italic" encodinganalog="630"> Jolly boys of Sugar Town
+		  </title> 
+		<title>Memories and reflections</title></controlaccess> 
+	 </controlaccess> 
+	  
+	  
+	  
+	  
+	 <prefercite id="a18" encodinganalog="524"> 
+		<head>PREFERRED CITATION</head> 
+		<p>Marion Albert Barlow Collection, Kansas Collection, RH MS 269, Kenneth Spencer Research Library, University of Kansas</p> 
+	 </prefercite> 
+	 <acqinfo id="a19" encodinganalog="541"> 
+		<head>ACQUISITION INFORMATION</head> 
+		<p> Gift, Thomas A. Barlow, August 1978
+		</p> 
+	 </acqinfo> 
+	 
+	  
+	  
+	  
+	  
+	 <dsc>
+		<head>COLLECTION DESCRIPTION</head>
+		
+<c01><did><container type="box">Box 1:</container></did>
+
+<c02><did><container type="folder">1. </container><unittitle>First draft, manuscript, <emph render="italic">Struggle: Saga of a
+Colorado Homesteader</emph>.
+</unittitle></did></c02>
+
+<c02><did><container type="folder">2. </container><unittitle>Second draft, manuscript, <emph render="italic">Struggle: Saga of a
+Colorado Homesteader</emph>.
+</unittitle></did></c02>
+
+<c02><did><container type="folder">3. </container><unittitle>Typescript copy, <emph render="italic">Struggle: Saga of a
+Colorado Homesteader</emph>.
+</unittitle></did></c02>
+
+<c02><did><container type="folder">4. </container><unittitle>Photocopy, <emph render="italic">Struggle: Saga of a
+Colorado Homesteader</emph>.</unittitle></did></c02>
+
+<c02><did><container type="folder">5. </container><unittitle>Photographs</unittitle></did></c02>
+
+<c02><did><container type="folder">6. </container><unittitle>Jolly Boys of Sugar Town, by F. Whittington, a
+poem. Five stock brand certificates.
+</unittitle></did></c02>
+
+<c02><did><container type="folder">7. </container><unittitle> Review, <emph render="italic">Struggle: Saga of a
+Colorado Homesteader</emph>
+from <emph render="italic">The Sunday Camera's Focus</emph> (Topeka, Kansas).
+</unittitle></did></c02>
+
+<c02><did><container type="folder">8. </container><unittitle>8	First draft, manuscript, <emph render="italic">Memories and Reflections</emph> </unittitle></did></c02>
+
+<c02><did><container type="folder">9. </container><unittitle>Printed copy, <emph render="italic">Memories and Reflections</emph></unittitle></did></c02>
+
+<c02><did><container type="folder">10. </container><unittitle>Galley proofs, <emph render="italic">Struggle: Saga of a Colorado
+Homesteader</emph>.
+</unittitle></did></c02></c01>
+	 </dsc>
+  </archdesc> 
+</ead>

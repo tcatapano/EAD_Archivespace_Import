@@ -1,0 +1,394 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead audience="external" relatedencoding="MARC21">
+  <eadheader langencoding="iso639-2b" audience="internal" countryencoding="iso3166-1"
+    dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924"
+    relatedencoding="MARC21">
+    <eadid mainagencycode="DSI-AI" countrycode="us"
+      identifier="http://siarchives.si.edu/findingaids/FA90-162.xml" encodinganalog="856$u">
+      http://siarchives.si.edu/findingaids/FA90-162.xml</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper encodinganalog="245$a">Budget Records, <date>1987-1989</date></titleproper>
+        <author encodinganalog="245$c">Finding aid prepared by Smithsonian Institution
+          Archives</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher encodinganalog="260$b">Smithsonian Institution Archives </publisher>
+        <address>
+          <addressline>Washington, D.C. </addressline>
+          <addressline>Contact us at <emph render="italic">osiaref@si.edu</emph></addressline>
+        </address>
+        <date type="publication"/>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>Finding aid encoded on <date normal="2000-01-01">7-19-2011</date></creation>
+      <langusage encodinganalog="546"> Finding aid written in <language encodinganalog="041"
+          langcode="eng">English</language>
+      </langusage>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection" type="inventory" relatedencoding="MARC21">
+    <did>
+      <head>Collection Overview</head>
+      <repository label="Repository:" encodinganalog="852$a">
+        <corpname encodinganalog="110">Smithsonian Institution Archives, </corpname>
+        <address>
+          <addressline>Washington, D.C., </addressline>
+          <addressline><emph render="italic">osiaref@si.edu</emph></addressline>
+        </address>
+      </repository>
+      <origination label="Creator:">
+        <persname encodinganalog="100">Smithsonian Institution, Assistant Secretary for Research</persname>
+      </origination>
+      <note>
+        <p>SI Records</p>
+      </note>
+      <unittitle label="Title:" encodinganalog="245$a">Budget Records</unittitle>
+      <unitdate label="Dates:" encodinganalog="245$f" normal="1971/2004">1987-1989</unitdate>
+      <physdesc label="Quantity:" encodinganalog="300$a">
+        <extent>2 cu. ft. (2 record storage boxes)</extent>
+      </physdesc>
+      <unitid encodinganalog="099" label="Collection:" countrycode="iso3166-1"
+        repositorycode="DSI-AI">Accession 90-162</unitid>
+      <langmaterial encodinganalog="546" label="Language of Materials:">
+        <language encodinganalog="041" langcode="eng">English</language>
+      </langmaterial>
+    </did>
+    <prefercite encodinganalog="510">
+      <head>Preferred Citation</head>
+      <p>Smithsonian Institution Archives, Accession 90-162, Smithsonian Institution, Assistant Secretary for Research, Budget Records</p>
+    </prefercite>
+    
+ 
+    
+    <scopecontent>
+    <head>Descriptive Entry</head>
+     <p>This accession consists of records pertaining to budget planning, requisitions to Congress on budgetary formulations, and priorities for distributing funds to the museums. 
+    Materials include correspondence, memoranda, congressional budget submissions (narrative), federal budget requests, trust fund information, employment plan worksheets, and 
+    Senate hearing materials.</p> </scopecontent> 
+     
+ 
+    
+    
+    
+    
+        
+      <controlaccess id="a12">
+      <head>Index Terms</head>
+      <p>This collection is indexed under the following access terms. These are links to collections
+      with related topics, persons or places.</p>
+        
+        
+        
+         <controlaccess>
+           <head>Subject</head>
+           <subject encodinganalog="650" source="local">Museums -- Administration.</subject>
+           <subject encodinganalog="650" source="local">Budget.</subject>
+           <subject encodinganalog="650" source="local">Budget process</subject>
+           <subject encodinganalog="650" source="local">Museum finance.</subject>
+         </controlaccess>
+        
+        
+        
+        
+         <controlaccess>
+           <head>Physical Characteristics of Materials in the Collection</head>
+           <genreform encodinganalog="655$a" source="aat">Manuscripts</genreform>
+         </controlaccess>
+        
+      
+      </controlaccess>
+    <dsc type="combined" id="a23">
+      
+      <c01 level="file">
+        <did>
+          <unittitle>Box 1</unittitle>
+        </did>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 1 of 2</container>
+            <unittitle>Assist. Secretary Priority Recommendations</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 1 of 2</container>
+            <unittitle>FY 1989 Federal Budget</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 1 of 2</container>
+            <unittitle>FY 1989 Budget to Congress</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 1 of 2</container>
+            <unittitle>FY 1989 Budget Narratives</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 1 of 2</container>
+            <unittitle>FY 1989 Congressional Action</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 1 of 2</container>
+            <unittitle>FY 1989 Congressional Hearing Materials</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 1 of 2</container>
+            <unittitle>FY 1989 First Quarter Trust Funds</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 1 of 2</container>
+            <unittitle>FY 1989 Planning  Formulation</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 1 of 2</container>
+            <unittitle>FY 1989 Plans  Priorities</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 1 of 2</container>
+            <unittitle>FY 1989 Repair  Renovation</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 1 of 2</container>
+            <unittitle>FY 1989 Senate Hearings</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 1 of 2</container>
+            <unittitle>FY 1989 Trust Fund Requests (from Contingency)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 1 of 2</container>
+            <unittitle>Unrestricted Trust Budget</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 1 of 2</container>
+            <unittitle>FY 1989 Federal - Archives of American Art (AAA)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 1 of 2</container>
+            <unittitle>FY 1989 Federal - Conservation Analytical Laboratory (CAL)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 1 of 2</container>
+            <unittitle>FY 1989 Federal - Cooper-Hewitt Museum (CHM)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 1 of 2</container>
+            <unittitle>FY 1989 Trust - CHM</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 1 of 2</container>
+            <unittitle>FY 1989 Federal - Horticulture</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 1 of 2</container>
+            <unittitle>FY 1989 Federal - IAC</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 1 of 2</container>
+            <unittitle>FY 1989 Trust - IAC</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 1 of 2</container>
+            <unittitle>FY 1989 Federal - International Environmental Sciences Program (IESP)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 1 of 2</container>
+            <unittitle>FY 1989 Federal - Joseph Henry Papers (JHP)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 1 of 2</container>
+            <unittitle>Museum Support Center (MSC) Priorities</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 1 of 2</container>
+            <unittitle>FY 1989 Federal - National Air and Space Museum (NASM)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 1 of 2</container>
+            <unittitle>FY 1989 Trust - NASM</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Box 2</unittitle>
+        </did>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 2 of 2</container>
+            <unittitle>FY 1989 Federal - National Museum of American Art (NMAA)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 2 of 2</container>
+            <unittitle>FY 1989 Federal - National Museum of African Art (NMAfA)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 2 of 2</container>
+            <unittitle>FY 1989 Federal - National Museum of Natural History (NMNH)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 2 of 2</container>
+            <unittitle>FY 1989 Trust - NMNH</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 2 of 2</container>
+            <unittitle>FY 1989 Federal - National Portrait Gallery (NPG)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 2 of 2</container>
+            <unittitle>FY 1989 Federal - National Zoological Park (NZP)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 2 of 2</container>
+            <unittitle>FY 1989 Trust - NZP</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 2 of 2</container>
+            <unittitle>FY 1989 Federal - Office of American Studies (OAMERS)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 2 of 2</container>
+            <unittitle>FY 1989 Federal - Office of Fellowships and Grants (OFG)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 2 of 2</container>
+            <unittitle>FY 1989 Trust - OFG</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 2 of 2</container>
+            <unittitle>FY 1989 Federal - Sackler</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 2 of 2</container>
+            <unittitle>FY 1989 Federal - Smithsonian Astrophysical Observatory (SAO)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 2 of 2</container>
+            <unittitle>FY 1989 Trust - SAO</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 2 of 2</container>
+            <unittitle>FY 1989 Federal - Smithsonian Environmental Research Center (SERC)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 2 of 2</container>
+            <unittitle>FY 1989 Trust - SERC</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 2 of 2</container>
+            <unittitle>FY 1989 Federal - Smithsonian Institution Archives (SIA)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 2 of 2</container>
+            <unittitle>FY 1989 Trust - SIA</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 2 of 2</container>
+            <unittitle>FY 1989 Federal - Smithsonian Institution Libraries (SIL)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 2 of 2</container>
+            <unittitle>FY 1989 Trust - SIL</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 2 of 2</container>
+            <unittitle>FY 1989 Federal - Smithsonian Tropical Research Institute (STRI)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 2 of 2</container>
+            <unittitle>FY 1989 Trust - STRI</unittitle>
+          </did>
+        </c02>
+      
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

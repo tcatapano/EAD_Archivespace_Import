@@ -1,0 +1,77 @@
+<?xml version="1.0"?>
+<!-- wiarchives version:2012-09-20 -->
+<ead id="uw-whs-lx00aj">
+  <eadheader langencoding="iso639-2b" scriptencoding="iso15924" dateencoding="iso8601" countryencoding="iso3166-1" repositoryencoding="iso15511">
+    <eadid countrycode="US" mainagencycode="whi">uw-whs-lx00aj</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Spicer-Buschman Printing Company Records, 1894-1915, 1968</titleproper>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Wisconsin Historical Society</publisher>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>Text converted and initial EAD tagging done with an in-house web form, <date era="ce" calendar="gregorian" type="publication" normal="2005-03">March 2005.</date></creation>
+      <langusage>
+        <language langcode="eng">English</language>
+      </langusage>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <unittitle label="Title">Spicer-Buschman Printing Company Records, <unitdate type="inclusive" era="ce" calendar="gregorian" certainty="y" normal="1894/1915">1894-1915</unitdate><unitdate type="inclusive" era="ce" calendar="gregorian" certainty="y" normal="1968">1968</unitdate></unittitle>
+      <origination label="Creator">
+        <corpname>Spicer-Buschman Printing Company (La Crosse, Wis.)</corpname>
+      </origination>
+      <unitid label="Call Number">La Crosse Mss AJ</unitid>
+      <physdesc label="Quantity">0.4 c.f. (1 flat box)</physdesc>
+      <repository label="Repository"><extptr entityref="whslogo" show="embed" actuate="onload" altrender="center" title="Wisconsin Historical Society logo" role="logoimage"/>
+Housed at the <extref linktype="simple" href="http://www.uwlax.edu/murphylibrary/departments/archome.html">Special Collections  Area Research Center, Murphy Library, University of Wisconsin-La Crosse</extref>; owned by the <extref linktype="simple" href="http://digital.library.wisc.edu/1711.dl/whsead.contact">Wisconsin Historical Society, Library-Archives Division</extref></repository>
+      <physloc>
+        <extref linktype="simple" href="http://digital.library.wisc.edu/1711.dl/whsead.catalog?repl1=rlin+%22wihv98-a1037%22" role="handle" title="Persistent catalog URL">See the catalog entry for information on possible additional materials and shelf locations.</extref>
+      </physloc>
+      <physloc type="locationcode" audience="internal">wlacu</physloc>
+      <abstract>Records of the Spicer-Buschman Printing Company consisting of a daybook recording incoming and outgoing monies, 1894-1895; a sample book, 1903-1915; and a 1968 clipping on the history of the company.</abstract>
+      <langmaterial label="Language">
+        <language langcode="eng">English</language>
+      </langmaterial>
+    </did>
+    <bioghist>
+      <p>The Spicer-Buschman Printing Company was founded in 1886 by Ernest Spicer, a printer, and Victor Buschman, a pressman-machine operator.  The firm printed the first La Crosse city directory, school yearbooks, the student newspaper of La Crosse State University, and the local labor paper among other things.  After 82 years of service, the company was purchased in 1968 by Inland Printing Company and closed.</p>
+    </bioghist>
+    <descgrp type="admininfo">
+      <head>Administrative/Restriction Information</head>
+      <acqinfo>
+        <p>Presented by Ferdinand Ritter, La Crosse, Wisconsin, April 24, 1968. <num type="accession">M68-177</num></p>
+      </acqinfo>
+      <processinfo>
+        <p>Processed by C. Cruikshank and Karen Baumann, January 30, 1973.</p>
+      </processinfo>
+    </descgrp>
+    <dsc type="in-depth">
+      <head>Contents List</head>
+      <c01>
+        <did>
+          <container label="Box" type="box">1</container>
+          <container label="Volume" type="volume">1</container>
+          <unittitle>Daybook, <unitdate era="ce" calendar="gregorian">1894-1895</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01>
+        <did>
+          <container label="Box" type="box">1</container>
+          <container label="Volume" type="volume">2</container>
+          <unittitle>Sample Book, <unitdate era="ce" calendar="gregorian">1903-1915</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01>
+        <did>
+          <container label="Box" type="box">1</container>
+          <container label="Folder" type="folder">1</container>
+          <unittitle>News Clipping, <unitdate era="ce" calendar="gregorian">1968</unitdate></unittitle>
+        </did>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

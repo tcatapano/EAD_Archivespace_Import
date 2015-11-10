@@ -1,0 +1,666 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="webead.xsl"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead audience="external"> 
+  <eadheader audience="internal" findaidstatus="edited-full-draft" encodinganalog="MARC" scriptencoding="iso15924" dateencoding="iso8601" countryencoding="iso3166-1" repositoryencoding="iso15511" langencoding="iso639-2"> 
+	 <eadid countrycode="us" mainagencycode="MnHi">00602</eadid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper>NORAH O'LEARY SOREM: </titleproper> 
+		  <subtitle>An Inventory of Her Papers at the Minnesota Historical
+			 Society</subtitle> 
+		  <author>Finding aid prepared by Rich Arpi.</author> 
+		</titlestmt><publicationstmt><publisher encodinganalog="Publisher">Minnesota Historical Society</publisher><address><addressline>St. Paul MN.</addressline></address></publicationstmt> 
+		 
+	              <seriesstmt><p>Manuscripts Collection</p></seriesstmt>         </filedesc> 
+	 <profiledesc> 
+		<creation>Finding aid encoded by Dennis Meissner, 
+		  <date era="ce" calendar="gregorian">May 16, 2005.</date> </creation><langusage>Finding aid written in<language langcode="eng">English</language></langusage> 
+	 </profiledesc> 
+  <revisiondesc><change><date>August 2008</date><item>Converted from EAD Version 1.0 to Version 2002 by Monica Manny Ralston, Daniel Sher, and Joyce Chapman.</item></change></revisiondesc></eadheader> 
+  <archdesc relatedencoding="MARC" type="inventory" level="collection"> 
+	 <did id="a1"> 
+		<head>OVERVIEW</head> 
+		<unitid countrycode="US" repositorycode="MnHi"> </unitid> 
+		<repository label="Repository:">Minnesota Historical Society</repository>
+		
+		
+	 	<origination label="Creator:" encodinganalog="100">
+	 		<persname role="creator" encodinganalog="100"
+	 			>Sorem, Norah
+	 			O'Leary.</persname>
+	 		
+	 	</origination>
+	 	
+	 	
+	 	
+	 	
+		<unittitle label="Title:" encodinganalog="245$a">Norah Sorem
+		  papers.</unittitle> 
+	 	<unitdate label="Date:" encodinganalog="245$f" type="inclusive" era="ce" calendar="gregorian" normal="1911/1956">1911-1956.</unitdate> 
+		<abstract label="Abstract:">Correspondence, diaries, school papers,
+		  artwork, and mementos from Sorem's high school and college years in the 1920s
+		  and 1930s. Letters (1942-1945) to her husband, Milton Sorem, while he was in
+		  the south Pacific during World War II, also are included. </abstract> 
+		<physdesc label="Quantity:" encodinganalog="300">1.75 cu. ft. (2
+		  boxes).</physdesc> 
+		<physloc label="Location:">See <ref target="a9">Detailed Description</ref> for shelf
+		  locations.</physloc> 
+	 </did> 
+	 <bioghist encodinganalog="545"> 
+		<head altrender="biography" id="a2">BIOGRAPHY OF NORAH O'LEARY
+		  SOREM</head> 
+		<p>Norah O'Leary was born on January 20, 1909, the eldest daughter of
+		  Norbert and Frances "Fanny" O'Leary. The O'Leary family, which eventually
+		  included daughters Ruth and Elizabeth (Betty) and a son John, lived in
+		  Williston, North Dakota from 1921 until 1925. In 1925 they moved to
+		  Worthington, Minnesota where Norbert O'Leary took a job as a district court
+		  reporter. Norah entered Worthington high school as a sophomore at the beginning
+		  of the 1925-1926 school year and graduated in the spring of 1928. In high
+		  school she became friends with Milton Sorem, who was a year or two older. In
+		  the fall of 1928 Norah entered Hamline University in St. Paul and graduated
+		  four years later. All through college Norah O'Leary and Milton Sorem kept in
+		  touch and they married in early June of 1932. </p> 
+		<p>A daughter, Gretchen, and a son, Anthony, joined the family in the
+		  next few years as Milton worked his way through medical school at the
+		  University of Minnesota. He graduated in 1939 and set up a family practice in
+		  St. Paul. Despite having two young children, Milton Sorem, and the U.S.
+		  government, felt his medical skills were needed more in the Pacific theater for
+		  three long years during World War II. After the war, Milton Sorem continued his
+		  medical practice in St. Paul, eventually becoming chief of staff at St. Luke's
+		  Hospital. Daughters Anita and Alana were born before the Sorems' marriage
+		  eventually dissolved. While Norah O'Leary Sorem never remarried or changed back
+		  to her birth name, Milton Sorem remarried and helped raise four additional
+		  children with his second wife, Evelyn. Milton Sorem died in St. Paul on March
+		  4, 1987, about six months shy of his 80th birthday, and Norah O'Leary Sorem
+		  died in Minneapolis on January 24, 1989, shortly after reaching her 80th
+		  birthday. </p> 
+	 </bioghist> 
+	 <scopecontent encodinganalog="520"> 
+		<head id="a3">SCOPE AND CONTENTS</head> 
+		<p>This collection consists of the assorted diaries, artwork, mementos,
+		  correspondence, and school papers of Sorem from the early 1920s, when she was
+		  in her early teens, until the early 1950s. Users of this collection will get a
+		  glimpse of what life was like for a high school girl from a rural Minnesota
+		  town in the 1920s, college life at Hamline University in St. Paul from 1928 to
+		  1932, and what life was like for a mother raising two small children, while her
+		  husband was away during World War II. </p> 
+		<p>Material is arranged in a more or less chronological order within five
+		  sections. Childhood mementos, artwork and writing comprise the first series.
+		  Diaries and notebooks from Norah's years in junior high and high school come
+		  next. Many of these diaries contain her thoughts about everyday events, friends
+		  and family, and her current "heart throb." Correspondence, which comes next,
+		  covers some of the same time period as the first two series, but largely
+		  contains post-high school correspondence with family, friends, and boyfriend
+		  Milton Sorem. The fourth series contains Norah's class papers and mementos from
+		  Hamline University. Also included are some papers from graduate school classes
+		  in the 1930s, undated writings, and a book of favorite poems. </p> 
+		<p>The final series, World War II letters, which date from October 1942
+		  to October 1945, document the daily life of a mother with two small children
+		  living in St. Paul and trying to cope without their husband and father. This
+		  series documents the feelings and daily lives of people left at home during the
+		  war. These letters, written almost daily, are quite long and often contain news
+		  clippings and cartoons that Norah wanted to share with Milton, and short notes
+		  and cards from the two children. While a few letters from Milton to Norah are
+		  found here, the rest apparently were destroyed. Some miscellaneous
+		  correspondence of Milton Sorem and a sign he saved from the war rounds out the
+		  collection. </p> 
+	 </scopecontent> 
+	 <arrangement encodinganalog="351$a"> 
+		<head id="a4">ARRANGEMENT</head> 
+		<p>These documents are organized into the following sections:</p> 
+		<list> 
+		  <head><?xm-replace_text {If Muller, enter first sub-collection name here;
+if Feith, leave blank.}?>
+		  </head> 
+		  <item>Childhood Memories, Artwork, and Writings</item> 
+		  <item>High School Diaries</item> 
+		  <item>Correspondence </item> 
+		  <item>Hamline University and Graduate School Papers</item> 
+		  <item>World War II Letters </item> 
+		</list> 
+	 </arrangement> 
+	 <controlaccess> 
+		<head id="a7">CATALOG HEADINGS</head> 
+		<p>This collection is indexed under the following headings in the catalog of the Minnesota Historical Society. Researchers desiring materials about related topics, persons or places should <extref linktype="simple" show="new" href="http://mnhs.mnpals.net">search the catalog</extref> using these headings.</p> 
+		<controlaccess> 
+		  <head>Topics:</head> 
+		  <subject encodinganalog="650">High school
+			 students--Minnesota--Worthington. </subject> 
+		  <subject>College students--Minnesota--Saint Paul. </subject> 
+		  <subject>College students--Correspondence. </subject> 
+		  <subject>World War, 1939-1945--personal narratives, American.
+			 </subject> 
+		  <subject>World War, 1939-1945--Minnesota. </subject> 
+		</controlaccess> 
+		<controlaccess> 
+		  <head>Places:</head> 
+		  <geogname encodinganalog="651">St. Paul (Minn.). </geogname> 
+		  <geogname>Worthington (Minn.). </geogname> 
+		</controlaccess> 
+		<controlaccess> 
+		  <head>Organizations:</head> 
+		  <corpname encodinganalog="710">Hamline University. </corpname> 
+		</controlaccess> 
+		<controlaccess encodinganalog="655"> 
+		  <head>Types of Documents:</head> 
+		  <genreform>Diaries.</genreform> 
+		</controlaccess> 
+	 </controlaccess> 
+	 <descgrp type="admininfo"> 
+		<head id="a8">ADMINISTRATIVE INFORMATION</head> 
+		<prefercite> 
+		  <head>Preferred Citation:</head> 
+		  <p><emph render="italic">[Indicate the cited item and/or series
+			 here]</emph>. Norah Sorem Papers. Minnesota Historical Society.</p> 
+		  <p><emph render="italic">See the Chicago Manual of Style for additional
+			 examples.</emph></p> 
+		</prefercite> 
+		<acqinfo> 
+		  <head>Accession Information:</head> 
+		  <p>Accession number: 15,694</p> 
+		</acqinfo> 
+		<processinfo> 
+		  <head>Processing Information:</head> 
+		  <p>Processed by: Rich Arpi, April 2005</p> 
+		  <p>Catalog ID number: 3658855</p> 
+		</processinfo> 
+	 </descgrp> 
+	 <dsc type="combined"> 
+		<head id="a9">DETAILED DESCRIPTION</head> 
+		 
+		<c01 level="series"> 
+		  <did> 
+			 <unittitle>Childhood Memories, Artwork, and Writings</unittitle> 
+		  </did> 
+		  <c02> 
+			 <did> 
+				<physloc>149. I.5.4F</physloc> 
+				<container>1</container> 
+				<unittitle>Artists and nature study scrapbook, 
+				  <unitdate era="ce" calendar="gregorian">April 1921. </unitdate></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02> 
+			 <did> 
+				<unittitle>Cash book, 
+				  <unitdate era="ce" calendar="gregorian">January-June, [year unknown]. </unitdate></unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p>"805 Main Street, Williston, North Dakota" is inscribed on the
+				  first page. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02> 
+			 <did> 
+				<unittitle>Childhood memories, 
+				  <unitdate era="ce" calendar="gregorian">early 1920s. </unitdate></unittitle> 
+				<physdesc>3 folders. </physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02> 
+			 <did> 
+				<unittitle>China scrapbook, 
+				  <unitdate era="ce" calendar="gregorian">April 1921. </unitdate></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02> 
+			 <did> 
+				<unittitle>Drawings, 
+				  <unitdate era="ce" calendar="gregorian">undated and 1923-1925. </unitdate></unittitle> 
+				<physdesc>4 folders. </physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02> 
+			 <did> 
+				<unittitle>Notebook of poetry, 
+				  <unitdate era="ce" calendar="gregorian">ca. 1925. </unitdate></unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p>"805 Main Street, Williston, North Dakota" appears on the first
+				  page.</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02> 
+			 <did> 
+				<unittitle>Penmanship examples, 
+				  <unitdate era="ce" calendar="gregorian">1921-1922. </unitdate></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02> 
+			 <did> 
+				<unittitle>Photographs, 
+				  <unitdate era="ce" calendar="gregorian">1911-1945. </unitdate></unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p>Norah O'Leary, her two oldest children as pre-schoolers, and
+				  several photos of Milton Sorem.</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02> 
+			 <did> 
+				<unittitle>Seventh grade report card, 
+				  <unitdate era="ce" calendar="gregorian">1922-1923. </unitdate></unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p>For Norah O'Leary from a Williston, North Dakota school.</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02> 
+			 <did> 
+				<unittitle>Toasts and debates, 
+				  <unitdate era="ce" calendar="gregorian">ca. 1925. </unitdate></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02> 
+			 <did> 
+				<unittitle>Writings: </unittitle> 
+			 </did> 
+			 <c03> 
+				<did> 
+				  <unittitle>The Amethyst Brooch, 
+					 <unitdate era="ce" calendar="gregorian">September 1926. </unitdate></unittitle> 
+				</did> 
+				<scopecontent> 
+				  <p>Submitted by Norah in 1927 for publication in
+					 <emph render="italic">McCall's Magazine.</emph></p> 
+				</scopecontent> 
+			 </c03> 
+			 <c03> 
+				<did> 
+				  <unittitle>Other high school writings, 
+					 <unitdate era="ce" calendar="gregorian">1925-1927. </unitdate></unittitle> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		</c01> 
+		<c01 level="series"> 
+		  <did> 
+			 <unittitle>High School Diaries </unittitle> 
+		  </did> 
+		  <c02> 
+			 <did> 
+				<physloc>149.I.5.4F</physloc> 
+				<container>1</container> 
+				<unittitle>January 1-12, 1923. </unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02> 
+			 <did> 
+				<unittitle>April 20-29, 1924. </unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02> 
+			 <did> 
+				<unittitle>Freshman year at Williston High School, 
+				  <unitdate era="ce" calendar="gregorian">1924-1925: </unitdate></unittitle> 
+			 </did> 
+			 <c03> 
+				<did> 
+				  <unittitle>Volume I: September 7-October 14, 1924. </unittitle> 
+				</did> 
+			 </c03> 
+			 <c03> 
+				<did> 
+				  <unittitle>Volume II: October 15-December 31, 1924. </unittitle> 
+				</did> 
+			 </c03> 
+			 <c03> 
+				<did> 
+				  <unittitle>Volume III: January 1-March 12, 1925. </unittitle> 
+				</did> 
+			 </c03> 
+			 <c03> 
+				<did> 
+				  <unittitle>Volume V: May 31-June 9, 1925. </unittitle> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		  <c02> 
+			 <did> 
+				<unittitle>Heart Throb diaries at Worthington, Minnesota, 
+				  <unitdate era="ce" calendar="gregorian">1925-1926: </unitdate></unittitle> 
+			 </did> 
+			 <c03> 
+				<did> 
+				  <unittitle>Volume 1: November 4-18, 1925. </unittitle> 
+				</did> 
+			 </c03> 
+			 <c03> 
+				<did> 
+				  <unittitle>Volume 2: November 20-December 9, 1925. </unittitle> 
+				</did> 
+			 </c03> 
+			 <c03> 
+				<did> 
+				  <unittitle>Volume 3: December [12]-ca. January 22, 1926.
+					 </unittitle> 
+				</did> 
+			 </c03> 
+			 <c03> 
+				<did> 
+				  <unittitle>Volume 4: January 23-February 6, 1926. </unittitle> 
+				</did> 
+			 </c03> 
+			 <c03> 
+				<did> 
+				  <unittitle>Volume 5: ca. February 12-April 2, 1926. </unittitle> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		  <c02> 
+			 <did> 
+				<unittitle>June 6-June 20, 1926. </unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02> 
+			 <did> 
+				<unittitle>History of the Cleopatrian campaigns, 
+				  <unitdate era="ce" calendar="gregorian">September 3, 1926-October 29, 1927.
+					 </unitdate></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02> 
+			 <did> 
+				<unittitle>Junior year notebook, 
+				  <unitdate era="ce" calendar="gregorian">1926-1927. </unitdate></unittitle> 
+			 </did> 
+		  </c02> 
+		</c01> 
+		<c01 level="series"> 
+		  <did> 
+			 <unittitle>Correspondence</unittitle> 
+		  </did> 
+		  <c02> 
+			 <did> 
+				<physloc>149.I.5.4F</physloc> 
+				<container>1</container> 
+				<unittitle>Undated. </unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02> 
+			 <did> 
+				<unittitle>1918-1923. </unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02> 
+			 <did> 
+				<unittitle>1927-1928. </unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02> 
+			 <did> 
+				<unittitle>1930-1931. </unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02> 
+			 <did> 
+				<unittitle>1932-1938. </unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02> 
+			 <did> 
+				<unittitle>1940-1949. </unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02> 
+			 <did> 
+				<unittitle>Her situation as a married woman, 
+				  <unitdate era="ce" calendar="gregorian">ca. 1950. </unitdate></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02> 
+			 <did> 
+				<unittitle>1950-1956. </unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02> 
+			 <did> 
+				<unittitle>Correspondence with sister Ruth, 
+				  <unitdate era="ce" calendar="gregorian">undated. </unitdate></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02> 
+			 <did> 
+				<unittitle>Correspondence concerning guardianship of her sisters
+				  Ruth and Betty, 
+				  <unitdate era="ce" calendar="gregorian">1937-1938. </unitdate></unittitle> 
+				<physdesc>2 folders. </physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02> 
+			 <did> 
+				<unittitle>Correspondence with her mother, 
+				  <unitdate era="ce" calendar="gregorian">1929-1936. </unitdate></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02> 
+			 <did> 
+				<unittitle>Letters to Milton Sorem:</unittitle> 
+			 </did> 
+			 <c03> 
+				<did> 
+				  <unittitle>Undated (ca. 1927-1928). </unittitle> 
+				</did> 
+			 </c03> 
+			 <c03> 
+				<did> 
+				  <unittitle>1928-1930. </unittitle> 
+				  <physdesc>3 folders. </physdesc> 
+				</did> 
+			 </c03> 
+			 <c03> 
+				<did> 
+				  <unittitle>1931. </unittitle> 
+				  <physdesc>2 folders. </physdesc> 
+				</did> 
+			 </c03> 
+			 <c03> 
+				<did> 
+				  <unittitle>January-July 1932. </unittitle> 
+				  <physdesc>3 folders. </physdesc> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		</c01> 
+		<c01 level="series"> 
+		  <did> 
+			 <unittitle>Hamline University and Graduate School Papers</unittitle> 
+		  </did> 
+		  <c02> 
+			 <did> 
+				<physloc>149.I.5.4F</physloc> 
+				<container>1</container> 
+				<unittitle>Freshman year, 1928-1929: </unittitle> 
+			 </did> 
+			 <c03> 
+				<did> 
+				  <unittitle>Miscellaneous items. </unittitle> 
+				  <physdesc>3 folders. </physdesc> 
+				</did> 
+				<scopecontent> 
+				  <p>Class directories, clippings, correspondence, grade reports,
+					 cards, theater programs, etc. </p> 
+				</scopecontent> 
+			 </c03> 
+			 <c03> 
+				<did> 
+				  <unittitle>Class papers, 
+					 <unitdate era="ce" calendar="gregorian">1928-1929. </unitdate></unittitle> 
+				  <physdesc>3 folders. </physdesc> 
+				</did> 
+				<scopecontent> 
+				  <p>Economics, English, and History papers and notes. </p> 
+				</scopecontent> 
+			 </c03> 
+			 <c03> 
+				<did> 
+				  <unittitle>Modern Civilization class papers, 
+					 <unitdate era="ce" calendar="gregorian">Spring 1929. </unitdate></unittitle> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		  <c02> 
+			 <did> 
+				<unittitle>Sophomore year, 1929-1930:</unittitle> 
+			 </did> 
+			 <c03> 
+				<did> 
+				  <unittitle>Miscellaneous items. </unittitle> 
+				</did> 
+				<scopecontent> 
+				  <p>Class directories, cards, letters, grades, programs, etc. </p>
+				  
+				</scopecontent> 
+			 </c03> 
+		  </c02> 
+		  <c02> 
+			 <did> 
+				<physloc>149.I.5.5B</physloc> 
+				<container>2</container> 
+				<unittitle>Junior year, 1930-1931: </unittitle> 
+			 </did> 
+			 <c03> 
+				<did> 
+				  <unittitle>Miscellaneous items. </unittitle> 
+				  <physdesc>4 folders. </physdesc> 
+				</did> 
+				<scopecontent> 
+				  <p>Class directories, cards, letters, grades, programs,
+					 clippings, etc. </p> 
+				</scopecontent> 
+			 </c03> 
+			 <c03> 
+				<did> 
+				  <unittitle>Philosophy 29 papers, 
+					 <unitdate era="ce" calendar="gregorian">October-November 1930. </unitdate></unittitle> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		  <c02> 
+			 <did> 
+				<unittitle>Senior year, 1931-1932: </unittitle> 
+			 </did> 
+			 <c03> 
+				<did> 
+				  <unittitle>Miscellaneous items. </unittitle> 
+				</did> 
+				<scopecontent> 
+				  <p>Class directories, cards, letters, grades, programs,
+					 clippings, etc. </p> 
+				</scopecontent> 
+			 </c03> 
+			 <c03> 
+				<did> 
+				  <unittitle>Philosophy 27 papers. </unittitle> 
+				</did> 
+			 </c03> 
+			 <c03> 
+				<did> 
+				  <unittitle>Miscellaneous class papers. </unittitle> 
+				</did> 
+			 </c03> 
+			 <c03> 
+				<did> 
+				  <unittitle>History 44 class paper, 
+					 <unitdate era="ce" calendar="gregorian">February 27, 1932. </unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03> 
+				<did> 
+				  <unittitle>Devotional diary, 
+					 <unitdate era="ce" calendar="gregorian">1932. </unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03> 
+				<did> 
+				  <unittitle><emph render="italic">The Hamline Piper,</emph> 
+					 <unitdate era="ce" calendar="gregorian">May 1930-June 1932. </unitdate></unittitle> 
+				</did> 
+				<scopecontent> 
+				  <p>5 issues. </p> 
+				</scopecontent> 
+			 </c03> 
+			 <c03> 
+				<did> 
+				  <unittitle>Undated writings. </unittitle> 
+				  <physdesc>3 folders. </physdesc> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		  <c02> 
+			 <did> 
+				<unittitle><emph render="italic">Juvenile Court System and the
+				  Method by Which it Meets the Problem of the Delinquent Girl,</emph> Sociology
+				  90a class paper, 
+				  <unitdate era="ce" calendar="gregorian">November 1934. </unitdate></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02> 
+			 <did> 
+				<unittitle>Graduate school papers, 
+				  <unitdate era="ce" calendar="gregorian">1936-1940. </unitdate></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02> 
+			 <did> 
+				<unittitle>Miscellaneous writings, 
+				  <unitdate era="ce" calendar="gregorian">undated. </unitdate></unittitle> 
+				<physdesc>2 folders. </physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02> 
+			 <did> 
+				<unittitle>Favorite poems, 
+				  <unitdate era="ce" calendar="gregorian">undated. </unitdate></unittitle> 
+			 </did> 
+		  </c02> 
+		</c01> 
+		<c01 level="series"> 
+		  <did> 
+			 <unittitle>World War II Letters</unittitle> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Almost exclusively letters from Norah (and the two oldest
+				children) to Milton Sorem while he was stationed aboard a medical ship in the
+				Pacific theater in World War II. Several letters were written each week, which
+				included newspaper clippings, and artwork and writings from the children. Only
+				a couple of Milton's responses have survived. </p> 
+		  </scopecontent> 
+		  <c02> 
+			 <did> 
+				<physloc>149.I.5.5B</physloc> 
+				<container>2</container> 
+				<unittitle>Letters to Milton Sorem, 
+				  <unitdate era="ce" calendar="gregorian">October 1942-October 1945, November 1946.
+					 </unitdate></unittitle> 
+				<physdesc>10 folders. </physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02> 
+			 <did> 
+				<unittitle>Letters from Milton to Norah Sorem, 
+				  <unitdate era="ce" calendar="gregorian">1934, 1943-1944. </unitdate></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02> 
+			 <did> 
+				<unittitle>Miscellaneous correspondence of Milton Sorem, 
+				  <unitdate era="ce" calendar="gregorian">1939-1944. </unitdate></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02> 
+			 <did> 
+				<unittitle>Sign kept by Milton Sorem:</unittitle> 
+			 </did> 
+			 <scopecontent> 
+				<p>Labeled on one side, "Sorem's Dept. Store - A.P.O. 331,
+				  Souvenirs swapped. During air raid or shelling business as usual in air
+				  conditioned foxhole. Trade at Sorem's." The other side is labeled, "Out to
+				  Lunch, Off Limits by Order O.G." </p> 
+			 </scopecontent> 
+		  </c02> 
+		</c01> 
+	 </dsc> 
+  </archdesc> 
+</ead>

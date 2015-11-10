@@ -1,0 +1,1849 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.library.yale.edu/facc/schemas/ead/ead.xsd"
+     id="mssa.ms.1114">
+   <eadheader findaidstatus="edited-full-draft" repositoryencoding="iso15511"
+              countryencoding="iso3166-1"
+              dateencoding="iso8601"
+              langencoding="iso639-2b"
+              audience="internal"
+              scriptencoding="iso15924">
+      <eadid countrycode="US" mainagencycode="US-CtY"
+             publicid="-//Yale University::Manuscripts and Archives//TEXT (US::CtY::::[William Clyde De Vane papers])//EN"
+             url="http://hdl.handle.net/10079/fa/mssa.ms.1114">mssa.ms.1114</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper type="formal">Guide to the William Clyde De Vane Papers
+                    </titleproper>
+            <titleproper type="filing" audience="internal">De Vane (William Clyde) Papers</titleproper>
+            <author>compiled by Kathy M.U. Straka  Lynn J. Stewart</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Yale University Library</publisher>
+            <publisher>Manuscripts and Archives</publisher>
+            <address>
+               <addressline>New Haven, Connecticut</addressline>
+            </address>
+            <date type="original" normal="1980-05">May 1980</date>
+            <p>
+               <extref ns2:type="simple" ns2:actuate="onRequest" ns2:show="new"
+                       ns2:href="http://hdl.handle.net/10079/9p8czk9">Copyright © <date type="copyright" normal="2012">2012</date> by the Yale University Library. </extref>
+            </p>
+         </publicationstmt>
+         <notestmt>
+            <note type="bpg">
+               <p>This encoded finding aid is compliant with the Yale EAD Best Practice Guidelines, Version 1.0.</p>
+            </note>
+         </notestmt>
+      </filedesc>
+      <profiledesc>
+         <creation>This finding aid was produced using the Archivists' Toolkit
+                </creation>
+         <langusage>Finding aid written in 
+                <language langcode="eng" scriptcode="Latn">English</language>.</langusage>
+         <descrules>Describing Archives: A Content Standard</descrules>
+      </profiledesc>
+      <revisiondesc>
+         <change>
+            <date normal="1998-04">April 1998</date>
+            <item>[unspecified revision]</item>
+         </change>
+      </revisiondesc>
+   </eadheader>
+   <archdesc level="collection" relatedencoding="MARC21" type="register">
+      <did>
+         <head>Overview</head>
+         <unitid label="Call Number:" countrycode="US" repositorycode="US-CtY">MS 1114</unitid>
+         <origination label="Creator:">
+            <persname rules="aacr" source="ingest">De Vane, William Clyde, 1898-1965.</persname>
+         </origination>
+         <unittitle label="Title:">William Clyde De Vane papers</unittitle>
+         <unitdate normal="1908/1968" type="inclusive" label="Dates:" calendar="gregorian"
+                   era="ce"
+                   datechar="creation">1908-1968</unitdate>
+         <physdesc label="Physical Description:">
+            <extent>5 linear feet (11 boxes, 1 folio)</extent>
+         </physdesc>
+         <abstract label="Summary:">Professional papers relating to De Vane's research, teaching, and other activities at Yale University. Included are correspondence, writings, speeches, lecture notes, research materials (particularly on Robert Browning), biographical material, and photographs. The academic papers of his wife, Mabel Phillips De Vane, are also part of the collection. They consist chiefly of essays written while she was a graduate student at Yale University, ca. 1925, together with memorabilia and biographical material.</abstract>
+         <langmaterial label="Language(s):">The materials are in <language langcode="eng" scriptcode="Latn">English</language>.</langmaterial>
+         <repository label="Repository:">
+            <corpname>Manuscripts and Archives</corpname>
+            <address>
+               <addressline>Sterling Memorial Library</addressline>
+               <addressline>128 Wall Street</addressline>
+               <addressline>P.O. Box 208240</addressline>
+               <addressline>New Haven, CT 06520</addressline>
+               <addressline altrender="web">Web: http://www.library.yale.edu/mssa/</addressline>
+               <addressline altrender="email">Email: mssa.assist@yale.edu</addressline>
+               <addressline altrender="phone">Phone: (203) 432-1735</addressline>
+               <addressline altrender="fax">Fax: (203) 432-7441</addressline>
+            </address>
+         </repository>
+      </did>
+      <descgrp type="admininfo" id="ai">
+         <head>Administrative Information</head>
+         <descgrp type="provenance" id="prov">
+            <head>Provenance</head>
+            <acqinfo id="ref4">
+               <p>Gift of Milton De Vane, 1980.</p>
+            </acqinfo>
+         </descgrp>
+         <prefercite id="ref3">
+            <head>Cite As</head>
+            <p>William Clyde De Vane Papers. Manuscripts and Archives, Yale University Library.</p>
+         </prefercite>
+      </descgrp>
+      <scopecontent id="ref8">
+         <head>Description of the Collection</head>
+         <p>Professional papers relating to De Vane's research, teaching, and other activities at Yale University. Included are correspondence, writings, speeches, lecture notes, research materials (particularly on Robert Browning), biographical material, and photographs. The academic papers of his wife, Mabel Phillips De Vane, are also part of the collection. They consist chiefly of essays written while she was a graduate student at Yale University, ca. 1925, together with memorabilia and biographical material.</p>
+      </scopecontent>
+      <arrangement id="ref5">
+         <head>Arrangement</head>
+         <p>Arranged in three series: I. William C. De Vane. II. Mabel Phillips De Vane. III. Photographs.</p>
+      </arrangement>
+      <controlaccess id="ca">
+         <head>Access Terms</head>
+         <persname rules="aacr" source="ingest">Browning, Robert, 1812-1889.</persname>
+         <persname rules="aacr" source="ingest">De Vane, Mabel Phillips, 1899-1979.</persname>
+         <persname rules="aacr" source="ingest">De Vane, William Clyde, 1898-1965.</persname>
+         <corpname rules="dacs" source="ingest">Yale University. Curricula.</corpname>
+         <corpname rules="dacs" source="ingest">Yale University. Dept. of English.</corpname>
+         <corpname rules="dacs" source="ingest">Yale University. Faculty.</corpname>
+         <occupation source="lcsh">Educators.</occupation>
+         <subject source="lcsh">Literature--History and criticism.</subject>
+      </controlaccess>
+      <dsc type="combined">
+         <head>Collection Contents</head>
+         <c01 id="ref9" level="series">
+            <did>
+               <unitid>Series I</unitid>
+               <unittitle>WILLIAM C. De VANE</unittitle>
+               <unitdate>1908-1968, no date</unitdate>
+               <physdesc>
+                  <extent>3 linear feet (7 boxes)</extent>
+               </physdesc>
+            </did>
+            <scopecontent>
+               <p>
+                  <emph render="italic">Correspondence</emph> is arranged primarily by individual correspondent, in alphabetical order. The remainder is arranged alphabetically in general files. Most of the correspondence consists of incoming letters.</p>
+               <p>
+                  <emph render="italic">Writings</emph>
+                  <emph render="italic">and</emph>
+                  <emph render="italic">Speeches</emph> is filed chronologically where a date could be assigned. Undated material is filed alphabetically by the title. Untitled and undated material will be found at the end of the section.</p>
+               <p>
+                  <emph render="italic">Class</emph>
+                  <emph render="italic">Lecture</emph>
+                  <emph render="italic">Notes</emph> is arranged alphabetically by subject.</p>
+               <p>
+                  <emph render="italic">Writings</emph>
+                  <emph render="italic">of</emph>
+                  <emph render="italic">Others</emph> is arranged alphabetically by author.</p>
+               <p>
+                  <emph render="italic">Subject</emph>
+                  <emph render="italic">Files</emph> is arranged in two sections. Robert Browning material, including various types of research material and correspondence, is arranged by type of material. The publications section consists of correspondence, clippings and an unidentified manuscript fragment. It is arranged by type.</p>
+               <p>
+                  <emph render="italic">Honors</emph>
+                  <emph render="italic">and</emph>
+                  <emph render="italic">Citations</emph> is arranged chronologically.</p>
+               <p>
+                  <emph render="italic">Biographical</emph>
+                  <emph render="italic">Material</emph> is foldered by type of material, and arranged chronologically.</p>
+               <p>
+                  <emph render="italic">Memorabilia</emph> is arranged by type of material.</p>
+            </scopecontent>
+            <c02 id="ref11" level="file">
+               <did>
+                  <unittitle>
+                     <emph render="underline">Correspondence</emph>
+                  </unittitle>
+               </did>
+               <c03 id="ref12" level="file">
+                  <did>
+                     <container type="Box" label="39002042340910">1</container>
+                     <container type="Folder">1</container>
+                     <unittitle>Angell, James Rowland</unittitle>
+                     <unitdate>1937, no date</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref13" level="file">
+                  <did>
+                     <container type="Box" label="39002042340910">1</container>
+                     <container type="Folder">2</container>
+                     <unittitle>Carroll, Richard C.</unittitle>
+                     <unitdate normal="1950/1950">1950</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref14" level="file">
+                  <did>
+                     <container type="Box" label="39002042340910">1</container>
+                     <container type="Folder">3</container>
+                     <unittitle>Davis, Gladys</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref15" level="file">
+                  <did>
+                     <container type="Box" label="39002042340910">1</container>
+                     <container type="Folder">3</container>
+                     <unittitle>Davis, Herbert</unittitle>
+                     <unitdate>1937-1963, 1967, no date</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref16" level="file">
+                  <did>
+                     <container type="Box" label="39002042340910">1</container>
+                     <container type="Folder">4</container>
+                     <unittitle>Farrand, Livingston</unittitle>
+                     <unitdate normal="1934/1934">1934</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref17" level="file">
+                  <did>
+                     <container type="Box" label="39002042340910">1</container>
+                     <container type="Folder">5</container>
+                     <unittitle>Furniss, Edgar S.</unittitle>
+                     <unitdate>1936-1938, no date</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref18" level="file">
+                  <did>
+                     <container type="Box" label="39002042340910">1</container>
+                     <container type="Folder">6</container>
+                     <unittitle>Hemingway, Mary Dimock</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref19" level="file">
+                  <did>
+                     <container type="Box" label="39002042340910">1</container>
+                     <container type="Folder">6</container>
+                     <unittitle>Hemingway, Samuel Burdett</unittitle>
+                     <unitdate>1937-1939, no date</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref20" level="file">
+                  <did>
+                     <container type="Box" label="39002042340910">1</container>
+                     <container type="Folder">7</container>
+                     <unittitle>Keller, Albert Galloway</unittitle>
+                     <unitdate normal="1934/1938" type="inclusive">1934-1938</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref21" level="file">
+                  <did>
+                     <container type="Box" label="39002042340910">1</container>
+                     <container type="Folder">8</container>
+                     <unittitle>[Menner?], Bob</unittitle>
+                     <unitdate normal="1939/1950" type="inclusive">1939-1950</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref22" level="file">
+                  <did>
+                     <container type="Box" label="39002042340910">1</container>
+                     <container type="Folder">9</container>
+                     <unittitle>Nettleton, George H.</unittitle>
+                     <unitdate normal="1937/1938" type="inclusive">1937-1938</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref23" level="file">
+                  <did>
+                     <container type="Box" label="39002042340910">1</container>
+                     <container type="Folder">10</container>
+                     <unittitle>Notestein, Wallace</unittitle>
+                     <unitdate>1934-1950, no date</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref24" level="file">
+                  <did>
+                     <container type="Box" label="39002042340910">1</container>
+                     <container type="Folder">11</container>
+                     <unittitle>Seymour, Charles</unittitle>
+                     <unitdate>1937-1939, no date</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref25" level="file">
+                  <did>
+                     <container type="Box" label="39002042340910">1</container>
+                     <container type="Folder">12</container>
+                     <unittitle>Spahr, Mary</unittitle>
+                     <unitdate normal="1939/1939">1939</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref26" level="file">
+                  <did>
+                     <container type="Box" label="39002042340910">1</container>
+                     <container type="Folder">13</container>
+                     <unittitle>Strunk, W.</unittitle>
+                     <unitdate normal="1934/1934">1934</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref27" level="file">
+                  <did>
+                     <container type="Box" label="39002042340910">1</container>
+                     <container type="Folder">14</container>
+                     <unittitle>Sterling, J.E. Wallace</unittitle>
+                     <unitdate normal="1951/1953" type="inclusive">1951-1953</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref28" level="file">
+                  <did>
+                     <container type="Box" label="39002042340910">1</container>
+                     <container type="Folder">15</container>
+                     <unittitle>Thurber, James</unittitle>
+                     <unitdate normal="1953/1953">1953</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref29" level="file">
+                  <did>
+                     <container type="Box" label="39002042340910">1</container>
+                     <container type="Folder">16</container>
+                     <unittitle>[Tinker, Chauncey Brewster]</unittitle>
+                     <unitdate normal="1934/1938" type="inclusive">1934-1938</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref30" level="file">
+                  <did>
+                     <container type="Box" label="39002042340910">1</container>
+                     <container type="Folder">17</container>
+                     <unittitle>White, E.B.</unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref31" level="file">
+                  <did>
+                     <container type="Box" label="39002042340910">1</container>
+                     <container type="Folder">17</container>
+                     <unittitle>White, Katharine S.</unittitle>
+                     <unitdate normal="1948/1949" type="inclusive">1948-1949</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref32" level="file">
+                  <did>
+                     <container type="Box" label="39002042340910">1</container>
+                     <container type="Folder">18</container>
+                     <unittitle>A - G</unittitle>
+                     <unitdate>1934-1966, no date</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref33" level="file">
+                  <did>
+                     <container type="Box" label="39002042340910">1</container>
+                     <container type="Folder">19</container>
+                     <unittitle>H - P</unittitle>
+                     <unitdate>1934-1966, no date</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref34" level="file">
+                  <did>
+                     <container type="Box" label="39002042340910">1</container>
+                     <container type="Folder">20</container>
+                     <unittitle>R - W, unidentified</unittitle>
+                     <unitdate>1934-1966, no date</unitdate>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="ref35" level="file">
+               <did>
+                  <unittitle>
+                     <emph render="underline">Writings and speeches</emph>
+                  </unittitle>
+               </did>
+               <c03 id="ref36" level="file">
+                  <did>
+                     <container type="Box" label="39002042340910">1</container>
+                     <container type="Folder">21</container>
+                     <unittitle>List, 1937-1964</unittitle>
+                     <unitdate>no date</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref37" level="file">
+                  <did>
+                     <unittitle>Published texts, notes and drafts</unittitle>
+                  </did>
+                  <c04 id="ref38" level="file">
+                     <did>
+                        <container type="Box" label="39002042340910">1</container>
+                        <container type="Folder">22-26</container>
+                        <unittitle>
+                           <unitdate>1933, 1937, 1939, 1940-1945, 1947</unitdate>
+                        </unittitle>
+                     </did>
+                  </c04>
+                  <c04 id="ref39" level="file">
+                     <did>
+                        <container type="Box" label="39002042340928">2</container>
+                        <container type="Folder">27-37</container>
+                        <unittitle>
+                           <unitdate>1948-1953, 1955-1963</unitdate>
+                        </unittitle>
+                     </did>
+                  </c04>
+                  <c04 id="ref40" level="file">
+                     <did>
+                        <container type="Box" label="39002042340936">3</container>
+                        <container type="Folder">38-39</container>
+                        <unittitle>
+                           <unitdate normal="1962/1965" type="inclusive">1962-1965</unitdate>
+                        </unittitle>
+                     </did>
+                  </c04>
+               </c03>
+               <c03 id="ref41" level="file">
+                  <did>
+                     <container type="Box" label="39002042340936">3</container>
+                     <container type="Folder">40</container>
+                     <unittitle>Final Report as Dean, manuscript and typescript, two parts</unittitle>
+                     <unitdate normal="1963/1963">[1963]</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref42" level="file">
+                  <did>
+                     <container type="Box" label="39002042340936">3</container>
+                     <container type="Folder">41</container>
+                     <unittitle>Titles, A - D</unittitle>
+                     <unitdate>no date</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref43" level="file">
+                  <did>
+                     <container type="Box" label="39002042340936">3</container>
+                     <container type="Folder">42</container>
+                     <unittitle>Titles, E - L</unittitle>
+                     <unitdate>no date</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref44" level="file">
+                  <did>
+                     <container type="Box" label="39002042340936">3</container>
+                     <container type="Folder">43</container>
+                     <unittitle>Titles, M - P</unittitle>
+                     <unitdate>no date</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref45" level="file">
+                  <did>
+                     <container type="Box" label="39002042340936">3</container>
+                     <container type="Folder">44</container>
+                     <unittitle>Titles, R - S</unittitle>
+                     <unitdate>no date</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref46" level="file">
+                  <did>
+                     <container type="Box" label="39002042340936">3</container>
+                     <container type="Folder">45</container>
+                     <unittitle>Titles, T - Y</unittitle>
+                     <unitdate>no date</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref47" level="file">
+                  <did>
+                     <container type="Box" label="39002042340936">3</container>
+                     <container type="Folder">46</container>
+                     <unittitle>George Washington University Radio Forum, 896, magnetic tape</unittitle>
+                     <unitdate>no date</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref48" level="file">
+                  <did>
+                     <container type="Box" label="39002042340936">3</container>
+                     <container type="Folder">47</container>
+                     <unittitle>Untitled</unittitle>
+                     <unitdate>no date</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref49" level="file">
+                  <did>
+                     <container type="Box" label="39002042340936">3</container>
+                     <container type="Folder">48</container>
+                     <unittitle>Notes</unittitle>
+                     <unitdate>no date</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref50" level="file">
+                  <did>
+                     <unittitle>"Forty years of Education at Yale," Yale Chapter, American Association of University Professors, poster</unittitle>
+                     <unitdate>no date</unitdate>
+                  </did>
+                  <note>
+                     <p>See: 
+                                <ref target="ref214" ns2:type="simple" ns2:actuate="onRequest" ns2:show="replace">box 12</ref>
+                     </p>
+                  </note>
+               </c03>
+            </c02>
+            <c02 id="ref51" level="file">
+               <did>
+                  <unittitle>
+                     <emph render="underline">Class lecture notes</emph>
+                  </unittitle>
+               </did>
+               <c03 id="ref52" level="file">
+                  <did>
+                     <container type="Box" label="39002042340944">4</container>
+                     <container type="Folder">49</container>
+                     <unittitle>Browning and Art</unittitle>
+                     <unitdate>no date</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref53" level="file">
+                  <did>
+                     <container type="Box" label="39002042340944">4</container>
+                     <container type="Folder">50</container>
+                     <unittitle>Metaphysical Poets</unittitle>
+                     <unitdate>no date</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref54" level="file">
+                  <did>
+                     <unittitle>Seventeenth Century English Literature, with assignments</unittitle>
+                  </did>
+                  <c04 id="ref55" level="file">
+                     <did>
+                        <container type="Box" label="39002042340944">4</container>
+                        <container type="Folder">51</container>
+                        <unittitle>
+                           <unitdate>Jan - May, n.y.</unitdate>
+                        </unittitle>
+                     </did>
+                  </c04>
+                  <c04 id="ref56" level="file">
+                     <did>
+                        <container type="Box" label="39002042340944">4</container>
+                        <container type="Folder">52</container>
+                        <unittitle>
+                           <unitdate>no date</unitdate>
+                        </unittitle>
+                     </did>
+                  </c04>
+               </c03>
+               <c03 id="ref57" level="file">
+                  <did>
+                     <container type="Box" label="39002042340944">4</container>
+                     <container type="Folder">53-54</container>
+                     <unittitle>Literature</unittitle>
+                     <unitdate>1936, no date</unitdate>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="ref58" level="file">
+               <did>
+                  <unittitle>
+                     <emph render="underline">Writings of others</emph>
+                  </unittitle>
+               </did>
+               <c03 id="ref59" level="file">
+                  <did>
+                     <container type="Box" label="39002042340944">4</container>
+                     <container type="Folder">55</container>
+                     <unittitle>B - C</unittitle>
+                     <unitdate>1938-1965, no date</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref60" level="file">
+                  <did>
+                     <container type="Box" label="39002042340944">4</container>
+                     <container type="Folder">56</container>
+                     <unittitle>D - H</unittitle>
+                     <unitdate>1938-1965, no date</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref61" level="file">
+                  <did>
+                     <container type="Box" label="39002042340944">4</container>
+                     <container type="Folder">57</container>
+                     <unittitle>J - P</unittitle>
+                     <unitdate>1938-1965, no date</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref62" level="file">
+                  <did>
+                     <container type="Box" label="39002042340944">4</container>
+                     <container type="Folder">58</container>
+                     <unittitle>R - W</unittitle>
+                     <unitdate>1938-1965, no date</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref63" level="file">
+                  <did>
+                     <container type="Box" label="39002042340944">4</container>
+                     <container type="Folder">58</container>
+                     <unittitle>Unidentified play, "The Ghost of Wimpole Street," typescript</unittitle>
+                     <unitdate>no date</unitdate>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="ref64" level="file">
+               <did>
+                  <unittitle>
+                     <emph render="underline">Subject files</emph>
+                  </unittitle>
+               </did>
+               <c03 id="ref65" level="file">
+                  <did>
+                     <unittitle>Robert Browning</unittitle>
+                  </did>
+                  <c04 id="ref68" level="file">
+                     <did>
+                        <container type="Box" label="39002042340944">4</container>
+                        <container type="Folder">59</container>
+                        <unittitle>Correspondence</unittitle>
+                        <unitdate>1911, 1938-1964, n.d</unitdate>
+                     </did>
+                  </c04>
+                  <c04 id="ref69" level="file">
+                     <did>
+                        <container type="Box" label="39002042340944">4</container>
+                        <container type="Folder">60</container>
+                        <unittitle>"Elizabeth Barrett Browning," by William C. De Vane, typescript with annotations</unittitle>
+                        <unitdate>no date</unitdate>
+                     </did>
+                  </c04>
+                  <c04 id="ref70" level="file">
+                     <did>
+                        <container type="Box" label="39002042340951">5</container>
+                        <container type="Folder">61</container>
+                        <unittitle>Copies of reviews of Browning's works, manuscript</unittitle>
+                        <unitdate>no date</unitdate>
+                     </did>
+                  </c04>
+                  <c04 id="ref71" level="file">
+                     <did>
+                        <container type="Box" label="39002042340951">5</container>
+                        <container type="Folder">62</container>
+                        <unittitle>Book reviews and pamphlets</unittitle>
+                        <unitdate>1918-1960, no date</unitdate>
+                     </did>
+                  </c04>
+                  <c04 id="ref72" level="file">
+                     <did>
+                        <container type="Box" label="39002042340951">5</container>
+                        <container type="Folder">63</container>
+                        <unittitle>Comments on a M.L.A. paper on Browning material, includes correspondence</unittitle>
+                        <unitdate>no date</unitdate>
+                     </did>
+                  </c04>
+                  <c04 id="ref73" level="file">
+                     <did>
+                        <container type="Box" label="39002042340951">5</container>
+                        <container type="Folder">64</container>
+                        <unittitle>Manuscript copies of Browning's correspondence, photostats, notes</unittitle>
+                        <unitdate>no date</unitdate>
+                     </did>
+                  </c04>
+                  <c04 id="ref74" level="file">
+                     <did>
+                        <container type="Box" label="39002042340951">5</container>
+                        <container type="Folder">65</container>
+                        <unittitle>"The Browning Collections," auction catalogue</unittitle>
+                        <unitdate normal="1913/1913">1913</unitdate>
+                     </did>
+                  </c04>
+                  <c04 id="ref75" level="file">
+                     <did>
+                        <container type="Box" label="39002042340951">5</container>
+                        <container type="Folder">66</container>
+                        <unittitle>Book sale list, manuscript</unittitle>
+                        <unitdate>no date</unitdate>
+                     </did>
+                  </c04>
+                  <c04 id="ref76" level="file">
+                     <did>
+                        <container type="Box" label="39002042340951">5</container>
+                        <container type="Folder">67</container>
+                        <unittitle>Manuscript sale catalogue</unittitle>
+                        <unitdate>no date</unitdate>
+                     </did>
+                  </c04>
+                  <c04 id="ref77" level="file">
+                     <did>
+                        <container type="Box" label="39002042340951">5</container>
+                        <container type="Folder">68</container>
+                        <unittitle>Hodell, Charles W., 
+                                    <title render="italic" ns2:type="simple">Old Yellow Book, Source of Browning's The Ring and The Book</title>
+                        </unittitle>
+                        <unitdate>1908 Jul</unitdate>
+                     </did>
+                  </c04>
+                  <c04 id="ref78" level="file">
+                     <did>
+                        <unittitle>Chronology of Robert Browning's life, 1845-1846</unittitle>
+                        <unitdate>no date</unitdate>
+                     </did>
+                     <note>
+                        <p>See: 
+                                    <ref target="ref219" ns2:type="simple" ns2:actuate="onRequest" ns2:show="replace">box 12</ref>
+                        </p>
+                     </note>
+                  </c04>
+               </c03>
+               <c03 id="ref80" level="file">
+                  <did>
+                     <unittitle>Publications</unittitle>
+                  </did>
+                  <c04 id="ref81" level="file">
+                     <did>
+                        <container type="Box" label="39002042340951">5</container>
+                        <container type="Folder">69</container>
+                        <unittitle>Correspondence</unittitle>
+                        <unitdate normal="1955/1965" type="inclusive">1955-1965</unitdate>
+                     </did>
+                  </c04>
+                  <c04 id="ref82" level="file">
+                     <did>
+                        <container type="Box" label="39002042340951">5</container>
+                        <container type="Folder">70</container>
+                        <unittitle>Clippings</unittitle>
+                        <unitdate normal="1928/1965" type="inclusive">1928-1965</unitdate>
+                     </did>
+                  </c04>
+                  <c04 id="ref83" level="file">
+                     <did>
+                        <container type="Box" label="39002042340951">5</container>
+                        <container type="Folder">71</container>
+                        <unittitle>Fragments of unidentified manuscript</unittitle>
+                        <unitdate>no date</unitdate>
+                     </did>
+                  </c04>
+               </c03>
+            </c02>
+            <c02 id="ref84" level="file">
+               <did>
+                  <unittitle>
+                     <emph render="underline">Honors and citations</emph>
+                  </unittitle>
+               </did>
+               <c03 id="ref85" level="file">
+                  <did>
+                     <unittitle>Yale University, Ph.D.</unittitle>
+                     <unitdate normal="1926/1926">1926</unitdate>
+                  </did>
+                  <note>
+                     <p>See: 
+                                <ref target="ref214" ns2:type="simple" ns2:actuate="onRequest" ns2:show="replace">box 12</ref>
+                     </p>
+                  </note>
+               </c03>
+               <c03 id="ref86" level="file">
+                  <did>
+                     <container type="Box" label="39002042340951">5</container>
+                     <container type="Folder">72</container>
+                     <unittitle>Phi Kappa Phi, certificate</unittitle>
+                     <unitdate normal="1936/1936">1936</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref87" level="file">
+                  <did>
+                     <container type="Box" label="39002042340951">5</container>
+                     <container type="Folder">73</container>
+                     <unittitle>University of Chicago, commencement program</unittitle>
+                     <unitdate>1937 Aug 27</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref88" level="file">
+                  <did>
+                     <container type="Box" label="39002042340951">5</container>
+                     <container type="Folder">74</container>
+                     <unittitle>College of Wooster (Ohio), honorary degree, commencement program</unittitle>
+                     <unitdate>1944 Oct 21</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref89" level="file">
+                  <did>
+                     <unittitle>Washington and Lee University, Doctor of Humane Letters</unittitle>
+                     <unitdate normal="1948/1948">1948</unitdate>
+                  </did>
+                  <note>
+                     <p>See: 
+                                <ref target="ref214" ns2:type="simple" ns2:actuate="onRequest" ns2:show="replace">box 12</ref>
+                     </p>
+                  </note>
+               </c03>
+               <c03 id="ref90" level="file">
+                  <did>
+                     <container type="Box" label="39002042340951">5</container>
+                     <container type="Folder">75</container>
+                     <unittitle>Washington and Lee University, commencement programs</unittitle>
+                     <unitdate>1949 Apr 12</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref91" level="file">
+                  <did>
+                     <unittitle>Ordre Nationale de la Legion d' Honneur, Chevalier</unittitle>
+                     <unitdate normal="1949/1949">1949</unitdate>
+                  </did>
+                  <note>
+                     <p>See: 
+                                <ref target="ref214" ns2:type="simple" ns2:actuate="onRequest" ns2:show="replace">box 12</ref>
+                     </p>
+                  </note>
+               </c03>
+               <c03 id="ref92" level="file">
+                  <did>
+                     <container type="Box" label="39002042340951">5</container>
+                     <container type="Folder">76</container>
+                     <unittitle>Chevalier of the Legion of Honor, correspondence</unittitle>
+                     <unitdate normal="1949/1949">1949</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref93" level="file">
+                  <did>
+                     <container type="Box" label="39002042340969">6</container>
+                     <container type="Folder">77</container>
+                     <unittitle>Furman University, honorary degree, correspondence, printed material</unittitle>
+                     <unitdate>1950 Jun 5, 1949-1950</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref94" level="file">
+                  <did>
+                     <container type="Box" label="39002042340969">6</container>
+                     <container type="Folder">78</container>
+                     <unittitle>Brown University, honorary degree</unittitle>
+                     <unitdate>1951 Jan 30</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref95" level="file">
+                  <did>
+                     <unittitle>University of North Carolina, Doctor of Laws</unittitle>
+                     <unitdate normal="1951/1951">1951</unitdate>
+                  </did>
+                  <note>
+                     <p>See: 
+                                <ref target="ref214" ns2:type="simple" ns2:actuate="onRequest" ns2:show="replace">box 12</ref>
+                     </p>
+                  </note>
+               </c03>
+               <c03 id="ref96" level="file">
+                  <did>
+                     <container type="Box" label="39002042340969">6</container>
+                     <container type="Folder">79</container>
+                     <unittitle>Middlebury College, honorary degree</unittitle>
+                     <unitdate>1952 Aug 11</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref97" level="file">
+                  <did>
+                     <unittitle>Tufts College, Doctor of Literature</unittitle>
+                     <unitdate normal="1953/1953">1953</unitdate>
+                  </did>
+                  <note>
+                     <p>See: 
+                                <ref target="ref214" ns2:type="simple" ns2:actuate="onRequest" ns2:show="replace">box 12</ref>
+                     </p>
+                  </note>
+               </c03>
+               <c03 id="ref98" level="file">
+                  <did>
+                     <container type="Box" label="39002042340969">6</container>
+                     <container type="Folder">80</container>
+                     <unittitle>Tufts College, commencement program, correspondence, press release</unittitle>
+                     <unitdate>1953 May-Jun</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref99" level="file">
+                  <did>
+                     <container type="Box" label="39002042340969">6</container>
+                     <container type="Folder">81</container>
+                     <unittitle>Loyola University, honorary degree</unittitle>
+                     <unitdate>1960 Jun 7</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref100" level="file">
+                  <did>
+                     <container type="Box" label="39002042340969">6</container>
+                     <container type="Folder">82</container>
+                     <unittitle>Williams College, honorary degree, citation</unittitle>
+                     <unitdate>1962 Jun 10</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref101" level="file">
+                  <did>
+                     <container type="Box" label="39002042340969">6</container>
+                     <container type="Folder">83</container>
+                     <unittitle>Rockford College, honorary degree</unittitle>
+                     <unitdate>1963 Feb [7]</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref102" level="file">
+                  <did>
+                     <container type="Box" label="39002042340969">6</container>
+                     <container type="Folder">84</container>
+                     <unittitle>New York University, honorary degree, convocation programs</unittitle>
+                     <unitdate>1963 Apr 9</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref103" level="file">
+                  <did>
+                     <unittitle>University of Toronto, Doctor of Laws</unittitle>
+                     <unitdate normal="1963/1963">1963</unitdate>
+                  </did>
+                  <note>
+                     <p>See: 
+                                <ref target="ref214" ns2:type="simple" ns2:actuate="onRequest" ns2:show="replace">box 12</ref>
+                     </p>
+                  </note>
+               </c03>
+               <c03 id="ref104" level="file">
+                  <did>
+                     <container type="Box" label="39002042340969">6</container>
+                     <container type="Folder">85</container>
+                     <unittitle>University of Toronto, citation, luncheon speech</unittitle>
+                     <unitdate>1963 May 31</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref105" level="file">
+                  <did>
+                     <unittitle>Harvard University, Doctor of Laws</unittitle>
+                     <unitdate normal="1963/1963">1963</unitdate>
+                  </did>
+                  <note>
+                     <p>See: 
+                                <ref target="ref214" ns2:type="simple" ns2:actuate="onRequest" ns2:show="replace">box 12</ref>
+                     </p>
+                  </note>
+               </c03>
+               <c03 id="ref106" level="file">
+                  <did>
+                     <container type="Box" label="39002042340969">6</container>
+                     <container type="Folder">86</container>
+                     <unittitle>Harvard University, commencement programs, tickets and invitations, correspondence, photographs</unittitle>
+                     <unitdate>1963 Jun 3, 1963</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref107" level="file">
+                  <did>
+                     <container type="Box" label="39002042340969">6</container>
+                     <container type="Folder">87</container>
+                     <unittitle>Association of American University Professors, citation</unittitle>
+                     <unitdate>no date</unitdate>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="ref108" level="file">
+               <did>
+                  <unittitle>
+                     <emph render="underline">Biographical material</emph>
+                  </unittitle>
+               </did>
+               <c03 id="ref109" level="file">
+                  <did>
+                     <container type="Box" label="39002042340969">6</container>
+                     <container type="Folder">88</container>
+                     <unittitle>
+                        <title render="italic" ns2:type="simple">Yale Daily News</title>, articles</unittitle>
+                     <unitdate normal="1941/1965" type="inclusive">1941-1965</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref110" level="file">
+                  <did>
+                     <container type="Box" label="39002042340977">7</container>
+                     <container type="Folder">89</container>
+                     <unittitle>Clippings</unittitle>
+                     <unitdate>1945-1965, no date</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref111" level="file">
+                  <did>
+                     <unittitle>Magazine articles</unittitle>
+                  </did>
+                  <c04 id="ref112" level="file">
+                     <did>
+                        <container type="Box" label="39002042340977">7</container>
+                        <container type="Folder">90</container>
+                        <unittitle>
+                           <unitdate normal="1962/1963" type="inclusive">1962-1963</unitdate>
+                        </unittitle>
+                     </did>
+                  </c04>
+                  <c04 id="ref113" level="file">
+                     <did>
+                        <container type="Box" label="39002042340977">7</container>
+                        <container type="Folder">91</container>
+                        <unittitle>
+                           <unitdate normal="1963/1965" type="inclusive">1963-1965</unitdate>
+                        </unittitle>
+                     </did>
+                  </c04>
+               </c03>
+               <c03 id="ref114" level="file">
+                  <did>
+                     <container type="Box" label="39002042340977">7</container>
+                     <container type="Folder">92</container>
+                     <unittitle>Notes and draft of sketch, [by Mabel Phillips De Vane]</unittitle>
+                     <unitdate>no date</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref115" level="file">
+                  <did>
+                     <container type="Box" label="39002042340977">7</container>
+                     <container type="Folder">93</container>
+                     <unittitle>Draft of sketch, [by Mabel Phillips De Vane] including some original speech material</unittitle>
+                     <unitdate>post-1965</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref116" level="file">
+                  <did>
+                     <container type="Box" label="39002042340977">7</container>
+                     <container type="Folder">94</container>
+                     <unittitle>Draft of sketch, [by Mabel Phillips De Vane], electrostatic copy, research material</unittitle>
+                     <unitdate>post-1965</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref117" level="file">
+                  <did>
+                     <container type="Box" label="39002042340977">7</container>
+                     <container type="Folder">95</container>
+                     <unittitle>Notes and drafts of sketch, [by Mabel Phillips De Vane], includes correspondence</unittitle>
+                     <unitdate normal="1966/1966">1966</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref118" level="file">
+                  <did>
+                     <container type="Box" label="39002042340977">7</container>
+                     <container type="Folder">96</container>
+                     <unittitle>Sketches, data sheets</unittitle>
+                     <unitdate>no date</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref119" level="file">
+                  <did>
+                     <container type="Box" label="39002042340977">7</container>
+                     <container type="Folder">97</container>
+                     <unittitle>Obituaries</unittitle>
+                     <unitdate normal="1965/1965">1965</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref120" level="file">
+                  <did>
+                     <container type="Box" label="39002042340977">7</container>
+                     <container type="Folder">98</container>
+                     <unittitle>Memorials</unittitle>
+                     <unitdate>1965-1968, no date</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref121" level="file">
+                  <did>
+                     <container type="Box" label="39002042340977">7</container>
+                     <container type="Folder">99</container>
+                     <unittitle>Hendel, Charles W., Dean De Vane and Yale College in War Time, typescript, includes correspondence</unittitle>
+                     <unitdate>1968 Feb 14</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref122" level="file">
+                  <did>
+                     <container type="Box" label="39002042340977">7</container>
+                     <container type="Folder">100</container>
+                     <unittitle>Sketch by Mabel Phillips De Vane, edited electrostatic copy, includes correspondence</unittitle>
+                     <unitdate normal="1968/1968">1968</unitdate>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="ref123" level="file">
+               <did>
+                  <unittitle>
+                     <emph render="underline">Memorabilia</emph>
+                  </unittitle>
+               </did>
+               <c03 id="ref124" level="file">
+                  <did>
+                     <container type="Box" label="39002042340977">7</container>
+                     <container type="Folder">101</container>
+                     <unittitle>"Hillhouse Avenue From 1809 to 1900," pamphlet</unittitle>
+                     <unitdate>1907 Oct</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref125" level="file">
+                  <did>
+                     <container type="Box" label="39002042340977">7</container>
+                     <container type="Folder">102</container>
+                     <unittitle>Yale College, semi-annual examinations</unittitle>
+                     <unitdate>1918-1919, 1921</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref126" level="file">
+                  <did>
+                     <container type="Box" label="39002042340977">7</container>
+                     <unittitle>
+                        <title render="italic" ns2:type="simple">Observation Post</title>, Y.C. 1917, no. 11</unittitle>
+                     <unitdate>1976 Jul</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref127" level="file">
+                  <did>
+                     <unittitle>Charles Seymour, Jr., "An Ode in Commemoration of the Four Hundredth Anniversary of the Birth of Queen Elizabeth," printed by Carl Purington Rollins Jun</unittitle>
+                     <unitdate>1933 Jun</unitdate>
+                  </did>
+                  <note>
+                     <p>See: 
+                                <ref target="ref214" ns2:type="simple" ns2:actuate="onRequest" ns2:show="replace">box 12</ref>
+                     </p>
+                  </note>
+               </c03>
+               <c03 id="ref128" level="file">
+                  <did>
+                     <unittitle>Membership pins</unittitle>
+                  </did>
+                  <c04 id="ref129" level="file">
+                     <did>
+                        <container type="Box" label="39002042340977">7</container>
+                        <container type="Folder">103</container>
+                        <unittitle>Phi Kappa Phi</unittitle>
+                     </did>
+                  </c04>
+                  <c04 id="ref130" level="file">
+                     <did>
+                        <container type="Box" label="39002042340977">7</container>
+                        <container type="Folder">103</container>
+                        <unittitle>Pundits</unittitle>
+                     </did>
+                  </c04>
+                  <c04 id="ref131" level="file">
+                     <did>
+                        <container type="Box" label="39002042340977">7</container>
+                        <container type="Folder">103</container>
+                        <unittitle>
+                           <title render="italic" ns2:type="simple">Yale Daily News</title>, honorary</unittitle>
+                        <unitdate normal="1960/1960">1960</unitdate>
+                     </did>
+                  </c04>
+                  <c04 id="ref132" level="file">
+                     <did>
+                        <container type="Box" label="39002042340977">7</container>
+                        <container type="Folder">103</container>
+                        <unittitle>Beta Theta Phi</unittitle>
+                        <unitdate normal="1920/1920">1920</unitdate>
+                     </did>
+                  </c04>
+                  <c04 id="ref133" level="file">
+                     <did>
+                        <container type="Box" label="39002042340977">7</container>
+                        <container type="Folder">103</container>
+                        <unittitle>Two unidentified pins</unittitle>
+                        <unitdate>no date</unitdate>
+                     </did>
+                  </c04>
+               </c03>
+            </c02>
+         </c01>
+         <c01 id="ref135" level="series">
+            <did>
+               <unitid>Series II</unitid>
+               <unittitle>MABEL PHILLIPS De VANE</unittitle>
+               <unitdate normal="1905/1968" type="inclusive">1905-1968</unitdate>
+               <physdesc>
+                  <extent>.75 linear feet (2 boxes)</extent>
+               </physdesc>
+            </did>
+            <scopecontent>
+               <p>There are five major types of material.</p>
+               <list type="ordered">
+                  <item>Graduate papers</item>
+                  <item>Writings and speeches</item>
+                  <item>Honors and citations (1 folder)</item>
+                  <item>Biographical material (1 folder)</item>
+                  <item>Memorabilia</item>
+               </list>
+               <p>Graduate papers are arranged alphabetically by title of the papers, as few are dated. Writings and speeches are arranged alphabetically by title. Untitled material is at the end of the section. Memorabilia is arranged by type of material.</p>
+            </scopecontent>
+            <c02 id="ref137" level="file">
+               <did>
+                  <unittitle>
+                     <emph render="underline">Graduate papers</emph>
+                  </unittitle>
+               </did>
+               <c03 id="ref138" level="file">
+                  <did>
+                     <container type="Box" label="39002042340985">8</container>
+                     <container type="Folder">1</container>
+                     <unittitle>"Bibliography of the Works of Jonathan Swift," typescript</unittitle>
+                     <unitdate>no date</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref139" level="file">
+                  <did>
+                     <container type="Box" label="39002042340985">8</container>
+                     <container type="Folder">2</container>
+                     <unittitle>"A Bill for Divorcement,"</unittitle>
+                     <unitdate>no date</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref140" level="file">
+                  <did>
+                     <container type="Box" label="39002042340985">8</container>
+                     <container type="Folder">3</container>
+                     <unittitle>Chaucer, short papers on various topics notes</unittitle>
+                     <unitdate>no date</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref141" level="file">
+                  <did>
+                     <container type="Box" label="39002042340985">8</container>
+                     <container type="Folder">4</container>
+                     <unittitle>"A Consideration of Old English Prose," typescript</unittitle>
+                     <unitdate>no date</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref142" level="file">
+                  <did>
+                     <container type="Box" label="39002042340985">8</container>
+                     <container type="Folder">5</container>
+                     <unittitle>"Doubtful and Supposititious Works of Jonathan Swift," typescript</unittitle>
+                     <unitdate>no date</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref143" level="file">
+                  <did>
+                     <container type="Box" label="39002042340985">8</container>
+                     <container type="Folder">6</container>
+                     <unittitle>"Elements of Realism in the 
+                                <title render="italic" ns2:type="simple">Knights' Tale</title>," manuscript, includes notes on Chaucer</unittitle>
+                     <unitdate>no date</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref144" level="file">
+                  <did>
+                     <container type="Box" label="39002042340985">8</container>
+                     <container type="Folder">7</container>
+                     <unittitle>"Elizabeth Drama, Paper on Thomas Heywood," typescript</unittitle>
+                     <unitdate>1922 Jun 1</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref145" level="file">
+                  <did>
+                     <container type="Box" label="39002042340985">8</container>
+                     <container type="Folder">8</container>
+                     <unittitle>English drama, notes</unittitle>
+                     <unitdate>no date</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref146" level="file">
+                  <did>
+                     <container type="Box" label="39002042340985">8</container>
+                     <container type="Folder">9</container>
+                     <unittitle>"An Essay in the Theory of Poetry," two copies, includes correspondence</unittitle>
+                     <unitdate normal="1922/1922">1922</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref147" level="file">
+                  <did>
+                     <container type="Box" label="39002042340985">8</container>
+                     <container type="Folder">10</container>
+                     <unittitle>"Matthew Prior," typescript</unittitle>
+                     <unitdate>no date</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref148" level="file">
+                  <did>
+                     <container type="Box" label="39002042340985">8</container>
+                     <container type="Folder">11</container>
+                     <unittitle>"Poems of Jonathan Swift," typescript, draft and notes</unittitle>
+                     <unitdate>no date</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref149" level="file">
+                  <did>
+                     <container type="Box" label="39002042340985">8</container>
+                     <container type="Folder">12</container>
+                     <unittitle>"Rebecca and Rowena: A Romance upon Romance," typescript</unittitle>
+                     <unitdate>no date</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref150" level="file">
+                  <did>
+                     <container type="Box" label="39002042340985">8</container>
+                     <container type="Folder">13</container>
+                     <unittitle>Royal Society, notes</unittitle>
+                     <unitdate>no date</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref151" level="file">
+                  <did>
+                     <container type="Box" label="39002042340985">8</container>
+                     <container type="Folder">14</container>
+                     <unittitle>Shakespeare, short papers on various topics, notes</unittitle>
+                     <unitdate>1922 Oct - Dec</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref152" level="file">
+                  <did>
+                     <container type="Box" label="39002042340985">8</container>
+                     <container type="Folder">14</container>
+                     <unittitle>Examination papers</unittitle>
+                     <unitdate>1923 Apr 18</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref153" level="file">
+                  <did>
+                     <container type="Box" label="39002042340985">8</container>
+                     <container type="Folder">15</container>
+                     <unittitle>Short papers for George H. Nettleton's class, typescripts</unittitle>
+                     <unitdate>no date</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref154" level="file">
+                  <did>
+                     <container type="Box" label="39002042340985">8</container>
+                     <container type="Folder">16</container>
+                     <unittitle>[Swift, dissertation?], includes correspondence</unittitle>
+                     <unitdate normal="1925/1925">1925</unitdate>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="ref155" level="file">
+               <did>
+                  <unittitle>
+                     <emph render="underline">Writings and speeches</emph>
+                  </unittitle>
+               </did>
+               <c03 id="ref156" level="file">
+                  <did>
+                     <container type="Box" label="39002042340985">8</container>
+                     <container type="Folder">17</container>
+                     <unittitle>"And Tell Old Tales," manuscript, notes</unittitle>
+                     <unitdate>no date</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref157" level="file">
+                  <did>
+                     <container type="Box" label="39002042340985">8</container>
+                     <container type="Folder">18</container>
+                     <unittitle>
+                        <title render="italic" ns2:type="simple">Androcles and the Lion</title>, typescript notes</unittitle>
+                     <unitdate>no date</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref158" level="file">
+                  <did>
+                     <container type="Box" label="39002042340985">8</container>
+                     <container type="Folder">19</container>
+                     <unittitle>James Rowland Angell (President 1921-1937), typescript</unittitle>
+                     <unitdate>no date</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref159" level="file">
+                  <did>
+                     <container type="Box" label="39002042340985">8</container>
+                     <container type="Folder">20</container>
+                     <unittitle>
+                        <title render="italic" ns2:type="simple">Anything Can Happen</title>, review, manuscript</unittitle>
+                     <unitdate>no date</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref160" level="file">
+                  <did>
+                     <container type="Box" label="39002042340985">8</container>
+                     <container type="Folder">21</container>
+                     <unittitle>Jane Austen, manuscript notes</unittitle>
+                     <unitdate>no date</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref161" level="file">
+                  <did>
+                     <container type="Box" label="39002042340985">8</container>
+                     <container type="Folder">22</container>
+                     <unittitle>Challenge and Quest, typescript</unittitle>
+                     <unitdate>no date</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref162" level="file">
+                  <did>
+                     <container type="Box" label="39002042340985">8</container>
+                     <container type="Folder">23</container>
+                     <unittitle>Challenge to Change, manuscript</unittitle>
+                     <unitdate>no date</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref163" level="file">
+                  <did>
+                     <container type="Box" label="39002042340985">8</container>
+                     <container type="Folder">24</container>
+                     <unittitle>Gulliver, manuscript draft and notes</unittitle>
+                     <unitdate>no date</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref164" level="file">
+                  <did>
+                     <container type="Box" label="39002042340985">8</container>
+                     <container type="Folder">25</container>
+                     <unittitle>[Gulliver and Swift], manuscript</unittitle>
+                     <unitdate>no date</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref165" level="file">
+                  <did>
+                     <container type="Box" label="39002042340985">8</container>
+                     <container type="Folder">26</container>
+                     <unittitle>Halley, Edmond, research materials and notes</unittitle>
+                     <unitdate>no date</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref166" level="file">
+                  <did>
+                     <container type="Box" label="39002042340985">8</container>
+                     <container type="Folder">27</container>
+                     <unittitle>"In Our Day," typescript</unittitle>
+                     <unitdate>no date</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref167" level="file">
+                  <did>
+                     <container type="Box" label="39002042340985">8</container>
+                     <container type="Folder">28</container>
+                     <unittitle>Integrity: J.B. Again, manuscript</unittitle>
+                     <unitdate>no date</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref168" level="file">
+                  <did>
+                     <container type="Box" label="39002042340985">8</container>
+                     <container type="Folder">29</container>
+                     <unittitle>League of Women Voters, Workshop on Charter Revision, City Planning, including Zoning and Housing</unittitle>
+                     <unitdate>no date</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref169" level="file">
+                  <did>
+                     <container type="Box" label="39002042340993">9</container>
+                     <container type="Folder">30</container>
+                     <unittitle>Maladjustment, manuscript</unittitle>
+                     <unitdate>no date</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref170" level="file">
+                  <did>
+                     <container type="Box" label="39002042340993">9</container>
+                     <container type="Folder">31</container>
+                     <unittitle>The Mind's Construction, drafts and notes</unittitle>
+                     <unitdate>no date</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref171" level="file">
+                  <did>
+                     <container type="Box" label="39002042340993">9</container>
+                     <container type="Folder">32</container>
+                     <unittitle>Miscellaneous short pieces, manuscript</unittitle>
+                     <unitdate>no date</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref172" level="file">
+                  <did>
+                     <container type="Box" label="39002042340993">9</container>
+                     <container type="Folder">33</container>
+                     <unittitle>Overture, manuscript</unittitle>
+                     <unitdate>no date</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref173" level="file">
+                  <did>
+                     <container type="Box" label="39002042340993">9</container>
+                     <container type="Folder">34</container>
+                     <unittitle>Yale Newcomers speech, manuscripts</unittitle>
+                     <unitdate>no date</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref174" level="file">
+                  <did>
+                     <container type="Box" label="39002042340993">9</container>
+                     <container type="Folder">35</container>
+                     <unittitle>Yale Then and Now, typescript</unittitle>
+                     <unitdate>no date</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref175" level="file">
+                  <did>
+                     <container type="Box" label="39002042340993">9</container>
+                     <container type="Folder">36</container>
+                     <unittitle>Yale University Women's Organization, notes for speech, manuscript</unittitle>
+                     <unitdate>no date</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref176" level="file">
+                  <did>
+                     <container type="Box" label="39002042340993">9</container>
+                     <container type="Folder">37</container>
+                     <unittitle>Untitled speech on idioms, manuscript</unittitle>
+                     <unitdate>no date</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref177" level="file">
+                  <did>
+                     <container type="Box" label="39002042340993">9</container>
+                     <container type="Folder">38</container>
+                     <unittitle>Introduction to an unidentified paper, manuscript</unittitle>
+                     <unitdate>no date</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref178" level="file">
+                  <did>
+                     <container type="Box" label="39002042340993">9</container>
+                     <container type="Folder">39</container>
+                     <unittitle>Unidentified notes on the back of galley proofs</unittitle>
+                     <unitdate>no date</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref179" level="file">
+                  <did>
+                     <container type="Box" label="39002042340993">9</container>
+                     <container type="Folder">40</container>
+                     <unittitle>Unidentified fragments, notes</unittitle>
+                     <unitdate>no date</unitdate>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="ref180" level="file">
+               <did>
+                  <container type="Box" label="39002042340993">9</container>
+                  <container type="Folder">41</container>
+                  <unittitle>Honors and citations</unittitle>
+                  <unitdate>1919, 1966, no date</unitdate>
+               </did>
+               <c03 id="ref181" level="file">
+                  <did>
+                     <unittitle>Westfield High School, diploma</unittitle>
+                     <unitdate normal="1915/1915">1915</unitdate>
+                  </did>
+                  <note>
+                     <p>See: 
+                                <ref target="ref214" ns2:type="simple" ns2:actuate="onRequest" ns2:show="replace">box 12</ref>
+                     </p>
+                  </note>
+               </c03>
+               <c03 id="ref182" level="file">
+                  <did>
+                     <unittitle>Wells College, B.A.</unittitle>
+                     <unitdate normal="1919/1919">1919</unitdate>
+                  </did>
+                  <note>
+                     <p>See: 
+                                <ref target="ref214" ns2:type="simple" ns2:actuate="onRequest" ns2:show="replace">box 12</ref>
+                     </p>
+                  </note>
+               </c03>
+               <c03 id="ref183" level="file">
+                  <did>
+                     <unittitle>Yale University, Ph.D.</unittitle>
+                     <unitdate normal="1925/1925">1925</unitdate>
+                  </did>
+                  <note>
+                     <p>See: 
+                                <ref target="ref214" ns2:type="simple" ns2:actuate="onRequest" ns2:show="replace">box 12</ref>
+                     </p>
+                  </note>
+               </c03>
+            </c02>
+            <c02 id="ref184" level="file">
+               <did>
+                  <container type="Box" label="39002042340993">9</container>
+                  <container type="Folder">42</container>
+                  <unittitle>Biographical material, includes correspondence</unittitle>
+                  <unitdate normal="1968/1968">1968</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref185" level="file">
+               <did>
+                  <unittitle>Memorabilia</unittitle>
+               </did>
+               <c03 id="ref186" level="file">
+                  <did>
+                     <container type="Box" label="39002042340993">9</container>
+                     <container type="Folder">43</container>
+                     <unittitle>Wells College</unittitle>
+                     <unitdate normal="1919/1968" type="inclusive">1919-1968</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref187" level="file">
+                  <did>
+                     <container type="Box" label="39002042340993">9</container>
+                     <container type="Folder">44</container>
+                     <unittitle>Postcards, miscellaneous</unittitle>
+                     <unitdate>1905-1937, no date</unitdate>
+                  </did>
+               </c03>
+            </c02>
+         </c01>
+         <c01 id="ref192" level="series">
+            <did>
+               <unitid>Series III</unitid>
+               <unittitle>PHOTOGRAPHS</unittitle>
+               <unitdate normal="1944/1965" type="inclusive">1944-1965</unitdate>
+               <physdesc>
+                  <extent>1.5 linear feet (2 boxes)</extent>
+               </physdesc>
+            </did>
+            <scopecontent>
+               <p>Photographs are not fully processed. They consist primarily of formal and informal photographs of William C. De Vane. They are arranged by subject.</p>
+            </scopecontent>
+            <c02 id="ref194" level="file">
+               <did>
+                  <unittitle>De Vane, William Clyde</unittitle>
+               </did>
+               <c03 id="ref195" level="file">
+                  <did>
+                     <container type="Box" label="39002042341009">10</container>
+                     <container type="Folder">1</container>
+                     <unittitle>Formal portraits</unittitle>
+                     <unitdate>no date</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref196" level="file">
+                  <did>
+                     <container type="Box" label="39002042341009">10</container>
+                     <container type="Folder">2</container>
+                     <unittitle>Informal portraits</unittitle>
+                     <unitdate>no date</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref197" level="file">
+                  <did>
+                     <container type="Box" label="39002042341009">10</container>
+                     <container type="Folder">3</container>
+                     <unittitle>Groups</unittitle>
+                     <unitdate>no date</unitdate>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="ref198" level="file">
+               <did>
+                  <container type="Box" label="39002042341009">10</container>
+                  <container type="Folder">4</container>
+                  <unittitle>De Vane, Mr.  Mrs.</unittitle>
+                  <unitdate>no date</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref199" level="file">
+               <did>
+                  <container type="Box" label="39002042341009">10</container>
+                  <container type="Folder">5</container>
+                  <unittitle>De Vane, Mrs. Mabel Phillips</unittitle>
+                  <unitdate>no date</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref200" level="file">
+               <did>
+                  <container type="Box" label="39002042341009">10</container>
+                  <container type="Folder">6</container>
+                  <unittitle>Seymour, Charles</unittitle>
+                  <unitdate>1950 Sep 15</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref201" level="file">
+               <did>
+                  <container type="Box" label="39002042341009">10</container>
+                  <container type="Folder">7</container>
+                  <unittitle>World War II, naval photographs</unittitle>
+                  <unitdate>1944 Jul, no date</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref202" level="file">
+               <did>
+                  <container type="Box" label="39002042341009">10</container>
+                  <container type="Folder">8</container>
+                  <unittitle>Seascapes taken from the "Vulcania,"</unittitle>
+                  <unitdate>1964 Feb</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref203" level="file">
+               <did>
+                  <container type="Box" label="39002042341009">10</container>
+                  <container type="Folder">9</container>
+                  <unittitle>Reproductions of Italian art</unittitle>
+                  <unitdate>no date</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref204" level="file">
+               <did>
+                  <unittitle>Early family</unittitle>
+               </did>
+               <c03 id="ref205" level="file">
+                  <did>
+                     <container type="Box" label="39002042341009">10</container>
+                     <container type="Folder">10</container>
+                     <unittitle>[Eckley, Sophia Tuckesmore]</unittitle>
+                     <unitdate>no date</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref206" level="file">
+                  <did>
+                     <container type="Box" label="39002042341009">10</container>
+                     <container type="Folder">11</container>
+                     <unittitle>Lincoln, Abraham and son</unittitle>
+                     <unitdate>no date</unitdate>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="ref207" level="file">
+               <did>
+                  <container type="Box" label="39002042341009">10</container>
+                  <container type="Folder">12</container>
+                  <unittitle>Unidentified</unittitle>
+                  <unitdate>no date</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref208" level="file">
+               <did>
+                  <container type="Box" label="39002042341009">10</container>
+                  <container type="Folder">13</container>
+                  <unittitle>Aerial view of New Haven</unittitle>
+                  <unitdate>ca. WW II?</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref209" level="file">
+               <did>
+                  <container type="Box" label="39002042341017">11</container>
+                  <unittitle>Oversize photographs</unittitle>
+               </did>
+            </c02>
+            <c02 id="ref210" level="file">
+               <did>
+                  <unittitle>De Vane, William Clyde</unittitle>
+               </did>
+               <c03 id="ref211" level="file">
+                  <did>
+                     <container type="Box" label="39002042341017">11</container>
+                     <container type="Folder">14</container>
+                     <unittitle>Formal portrait</unittitle>
+                     <unitdate>no date</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref212" level="file">
+                  <did>
+                     <container type="Box" label="39002042341017">11</container>
+                     <container type="Folder">15</container>
+                     <unittitle>Informal groups</unittitle>
+                     <unitdate>1949-1965, no date</unitdate>
+                  </did>
+               </c03>
+            </c02>
+         </c01>
+         <c01 id="ref214" level="series">
+            <did>
+               <unittitle>OVERSIZE MATERIAL (FOLIO)</unittitle>
+            </did>
+            <c02 id="ref215" level="file">
+               <did>
+                  <unittitle>William C. De Vane</unittitle>
+               </did>
+               <c03 id="ref216" level="file">
+                  <did>
+                     <unittitle>Writings and speeches</unittitle>
+                  </did>
+                  <c04 id="ref217" level="file">
+                     <did>
+                        <container type="Box" label="39002042625047">12</container>
+                        <unittitle>"Forty Years of Education at Yale," Yale Chapter, American Association of University Professors, poster</unittitle>
+                        <unitdate>no date</unitdate>
+                     </did>
+                  </c04>
+               </c03>
+               <c03 id="ref218" level="file">
+                  <did>
+                     <unittitle>Subject files</unittitle>
+                  </did>
+                  <c04 id="ref219" level="file">
+                     <did>
+                        <container type="Box" label="39002042625047">12</container>
+                        <unittitle>Chronology of Robert Browning's Life, 1845-1846</unittitle>
+                        <unitdate>no date</unitdate>
+                     </did>
+                  </c04>
+               </c03>
+               <c03 id="ref220" level="file">
+                  <did>
+                     <unittitle>Honors and citations</unittitle>
+                  </did>
+                  <c04 id="ref221" level="file">
+                     <did>
+                        <container type="Box" label="39002042625047">12</container>
+                        <unittitle>Yale University, Ph.D.</unittitle>
+                        <unitdate normal="1926/1926">1926</unitdate>
+                     </did>
+                  </c04>
+                  <c04 id="ref222" level="file">
+                     <did>
+                        <container type="Box" label="39002042625047">12</container>
+                        <unittitle>Washington and Lee University, Doctor of Humane Letters</unittitle>
+                        <unitdate normal="1948/1948">1948</unitdate>
+                     </did>
+                  </c04>
+                  <c04 id="ref223" level="file">
+                     <did>
+                        <container type="Box" label="39002042625047">12</container>
+                        <unittitle>Ordre Nationale de la Legion d'Honneur, Chevalier</unittitle>
+                        <unitdate normal="1949/1949">1949</unitdate>
+                     </did>
+                  </c04>
+                  <c04 id="ref224" level="file">
+                     <did>
+                        <container type="Box" label="39002042625047">12</container>
+                        <unittitle>University of North Carolina, Doctor of Laws</unittitle>
+                        <unitdate normal="1951/1951">1951</unitdate>
+                     </did>
+                  </c04>
+                  <c04 id="ref225" level="file">
+                     <did>
+                        <container type="Box" label="39002042625047">12</container>
+                        <unittitle>Tufts College, Doctor of Literature</unittitle>
+                        <unitdate normal="1953/1953">1953</unitdate>
+                     </did>
+                  </c04>
+                  <c04 id="ref226" level="file">
+                     <did>
+                        <container type="Box" label="39002042625047">12</container>
+                        <unittitle>University of Toronto, Doctor of Laws</unittitle>
+                        <unitdate normal="1963/1963">1963</unitdate>
+                     </did>
+                  </c04>
+                  <c04 id="ref227" level="file">
+                     <did>
+                        <container type="Box" label="39002042625047">12</container>
+                        <unittitle>Harvard University, Doctor of Laws</unittitle>
+                        <unitdate normal="1963/1963">1963</unitdate>
+                     </did>
+                  </c04>
+               </c03>
+               <c03 id="ref228" level="file">
+                  <did>
+                     <unittitle>Memorabilia</unittitle>
+                  </did>
+                  <c04 id="ref229" level="file">
+                     <did>
+                        <container type="Box" label="39002042625047">12</container>
+                        <unittitle>Charles Seymour, Jr., "An Ode in Commemoration of the Four Hundredth Anniversary of the Birth of Queen Elizabeth," printed by Carl Purington Rollins</unittitle>
+                        <unitdate>1933 Jun</unitdate>
+                     </did>
+                  </c04>
+               </c03>
+            </c02>
+            <c02 id="ref230" level="file">
+               <did>
+                  <unittitle>Mabel Phillips De Vane</unittitle>
+               </did>
+               <c03 id="ref231" level="file">
+                  <did>
+                     <unittitle>Honors, and citations</unittitle>
+                  </did>
+                  <c04 id="ref232" level="file">
+                     <did>
+                        <container type="Box" label="39002042625047">12</container>
+                        <unittitle>Westfield High School, diploma</unittitle>
+                        <unitdate normal="1915/1915">1915</unitdate>
+                     </did>
+                  </c04>
+                  <c04 id="ref233" level="file">
+                     <did>
+                        <container type="Box" label="39002042625047">12</container>
+                        <unittitle>Wells College, B.A.</unittitle>
+                        <unitdate normal="1919/1919">1919</unitdate>
+                     </did>
+                  </c04>
+                  <c04 id="ref234" level="file">
+                     <did>
+                        <container type="Box" label="39002042625047">12</container>
+                        <unittitle>Yale University, Ph.D.</unittitle>
+                        <unitdate normal="1925/1925">1925</unitdate>
+                     </did>
+                  </c04>
+               </c03>
+            </c02>
+         </c01>
+      </dsc>
+   </archdesc>
+</ead>

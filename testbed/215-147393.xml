@@ -1,0 +1,84 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead relatedencoding="marc21">
+<eadheader audience="internal"> 
+  <eadid countrycode="US" mainagencycode="TxU-TH"
+	encodinganalog="852$a">urn:taro:utexas.cah.00788</eadid> 
+  <filedesc> 
+	 <titlestmt> 
+		<titleproper>A Guide to the Arthur W. Arndt Collection, early 18th
+		  century-1873</titleproper> 
+	 </titlestmt> 
+  </filedesc> 
+  <profiledesc> 
+	 <creation>Original EAD encoding by Jessi Fishman according to TARO 2 EAD
+		2002 Editing Instructions. 
+		<date>March 2008</date></creation> 
+	 <langusage>Finding aid written in <language>English.</language></langusage>
+	 
+  </profiledesc>
+</eadheader>
+<archdesc type="inventory" level="collection"> 
+  <did> 
+	 <head>Descriptive Summary</head> 
+	 <origination label="Creator:"> 
+		<persname encodinganalog="100">Arndt, Arthur W.</persname> </origination>
+	 
+	 <unittitle encodinganalog="245" label="Title:">Arthur W. Arndt
+		Collection</unittitle> 
+	 <unitdate type="inclusive" encodinganalog="245" label="Dates:">early 18th
+		century-1873</unitdate> <langmaterial label="Language:">Materials are written
+	 in <language langcode="eng">English.</language></langmaterial> 
+	 <unitid label="Accession No.:">AR 64-50</unitid> 
+	 <physdesc label="Extent:" encodinganalog="300$a">10 inches</physdesc> 
+	 <repository label="Repository:" encodinganalog="852$a"> 
+		<extref href="http://www.cah.utexas.edu" show="new" actuate="onrequest"> 
+		  <corpname><subarea> Dolph Briscoe Center for American History,</subarea>The
+			 University of Texas at Austin</corpname></extref></repository> 
+	 <abstract label="Abstract:" encodinganalog="520$a">This collection,
+		presented by Rev. Arthur W. Arndt, pastor of St. Paul's Lutheran Church of
+		Serbin in 1964, relates to the Wendish colony eastablished in 1854 in what is
+		now Lee County, Texas. Ranging from the early 18th century to 1873, items in
+		the collection provide documentation of the Wendish migrations, motivated
+		primarily by religious persecution in Germany.</abstract> 
+  </did> 
+  <scopecontent encodinganalog="520"> 
+	 <head>Scope and Contents</head><p>This collection, presented by Rev. Arthur
+		W. Arndt, pastor of St. Paul's Lutheran Church of Serbin in 1964, relates to
+		the Wendish colony eastablished in 1854 in what is now Lee County, Texas.
+		Ranging from the early 18th century to 1873, items in the collection provide
+		documentation of the Wendish migrations, motivated primarily by religious
+		persecution in Germany. Included are bibles, prayer books, hymnals, catechisms,
+		and other materials used in religious instruction of the colony.</p> 
+  </scopecontent> 
+  <accessrestrict encodinganalog="506"> 
+	 <head>Access Restrictions</head><p>Unrestricted access.</p> 
+  </accessrestrict> 
+  <prefercite encodinganalog="524"> 
+	 <head>Preferred Citation</head><p>Arthur W. Arndt Collection, early 18th
+		century-1873, Dolph Briscoe Center for American History, The University of Texas at
+		Austin.</p> 
+  </prefercite> 
+  <dsc type="in-depth"> 
+	 <head>Detailed Description of the Papers</head> 
+	 <c01 level="series" id="ser1"> 
+		<did> 
+		  <unittitle>Inventory </unittitle> 
+		</did> 
+		<c02> 
+		  <did><container type="box">2L156</container> 
+			 <unittitle>Prayerbooks, bibles, songs </unittitle> 
+		  </did> 
+		</c02> 
+		<c02> 
+		  <did><container type="box">2L157</container> 
+			 <unittitle>Prayerbooks, bibles, songs </unittitle> 
+		  </did> 
+		</c02>
+		<c02> 
+		  <did><container type="box">2L158</container> 
+			 <unittitle>Prayerbooks, bibles, songs </unittitle> 
+		  </did> 
+		</c02>
+	 </c01></dsc>
+</archdesc></ead>

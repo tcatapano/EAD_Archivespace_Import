@@ -1,0 +1,2082 @@
+<?xml version="1.0" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="webead.xsl"?>
+
+<!DOCTYPE ead
+  PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead audience="external" relatedencoding="MARC">
+    <eadheader langencoding="iso639-2b" scriptencoding="iso15924" relatedencoding="Dublin Core"
+        repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601">
+        <eadid countrycode="us" encodinganalog="Identifier" mainagencycode="MnHi"
+            >gr00546.xml</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper encodinganalog="title">Administration Department: Commissioner's
+                    Office:</titleproper>
+                <subtitle encodinganalog="subtitle">An Inventory of Its Hiniker (James J.) and Hale
+                    (Sandra J.) Files at the Minnesota Historical Society</subtitle>
+                <sponsor>National Historical Publications and Records Commission.</sponsor>
+            </titlestmt>
+            <publicationstmt>
+                <publisher encodinganalog="Publisher">Minnesota Historical Society</publisher>
+                <address>
+               <addressline>St. Paul, MN.</addressline>
+            </address>
+            </publicationstmt>
+            <seriesstmt>
+                <p>Government Records </p>
+            </seriesstmt>
+        </filedesc>
+        <profiledesc>
+            <creation encodinganalog="Description">Finding aid encoded by Cheri Thies, <date
+                    era="ce" calendar="gregorian">February 2012.</date>
+            </creation>
+            <langusage>Finding aid written in <language langcode="eng" encodinganalog="Language"
+                    scriptcode="Latn">English.</language>
+            </langusage>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection" type="inventory" relatedencoding="MARC">
+        <did>
+            <head id="a1">OVERVIEW</head>
+            <repository encodinganalog="852">
+                <corpname encodinganalog="852$a">Minnesota Historical Society</corpname>
+            </repository>
+            <origination label="Creator:">
+                <corpname role="creator" encodinganalog="110">Minnesota. Dept. of Administration.
+                    Commissioner's Office.</corpname>
+            </origination>
+            <unittitle label="Title:" encodinganalog="245$a">Hiniker (James J.) and Hale (Sandra J.)
+                files.</unittitle>
+            <unitdate label="Date:" encodinganalog="245$f$g" type="bulk" normal="1966/2004"
+                >1966-2004 (bulk 1979-1991).</unitdate>
+            <langmaterial label="Language of Materials">Materials in <language langcode="eng"
+                    >English</language>. </langmaterial>
+            <abstract label="Abstract:">Files of Commissioners James J. Hiniker (1979-1983) and
+                Sandra J. Hale (1983-1991).</abstract>
+            <physdesc label="Quantity:" encodinganalog="300">19.7 cu. ft. (20 boxes and 1 partial
+                box).</physdesc>
+            <physloc label="Location:"> See <ref target="a9">Detailed Description</ref> for shelf
+                locations.</physloc>
+        </did>
+        <scopecontent encodinganalog="520">
+            <head id="a3">SCOPE AND CONTENTS</head>
+            <p>The chronological files contain copies of outgoing letters, memoranda, and related
+                materials mainly with other departmental personnel, state and local officials,
+                legislators, and the general public. They deal with a variety of topics concerning
+                the department's responsibility for the day to day management of the executive
+                branch of state government, including personnel matters, legislation, the management
+                of state land and institutions, and the construction and maintenance of state
+                buildings. The letters in Hiniker's files are numbered sequentially. Hale's files
+                include an alphabetical index.</p>
+            <p>The Hiniker/Hale subject files focus on the operations of the department's building
+                code, building construction, energy conservation, management analysis, motor pool,
+                organization and methods, personnel, plant management, printing and mailing
+                services, telecommunications, procurement, and real estate management divisions,
+                information services bureau, and data privacy unit, as well as relations with the
+                departments of employee relations, finance, public welfare, and transportation, the
+                governor's office, and various state correctional and educational institutions.
+                They also contain staff meeting minutes and work plans.</p>
+            <p>The Hale subject files cover many of the issues and relationships found in the
+                previous set, along with such topics as handicapped persons, the Minnesota History
+                Center, materials management, and the Strive Toward Excellence in Performance [STEP]
+                program, and relations with the Capitol Area Architectural and Planning Board,
+                Governor's Residence Council, Loaned Executive Action Program, Minnesota
+                Veterans' Home, the Energy and Economic Development Department, Legislative
+                Auditor, Office of Volunteer Services, and State Arts Board. There are also copies of her speeches and files
+                documenting her Executive Council service and post-commissioner work with Enterprise Management International.</p>
+        </scopecontent>
+        <arrangement encodinganalog="351">
+            <head id="a4">ARRANGEMENT</head>
+            <p>The chronological files are arranged first by correspondent; thereunder
+                chronologically.</p>
+            <p>These documents are arranged into the following sections:</p>
+            <list>
+                <head/>
+                <item>Hiniker chronological files, 1979-1982</item>
+                <item>Hale chronological files, 1983-1987</item>
+                <item>Hiniker/Hale subject files, 1966-1987</item>
+                <item>Hale subject files, 1972-2004</item>
+            </list>
+           
+        </arrangement>
+
+        <controlaccess>
+            <head id="a7">CATALOG HEADINGS</head>
+            <p>This collection is indexed under the following headings in the catalog of the
+                Minnesota Historical Society. Researchers desiring materials about related topics
+                should <extref href="http://mnhs.mnpals.net/F" show="new" actuate="onrequest">search
+                    the catalog</extref> using these headings.</p>
+            <controlaccess>
+                <head>Topics:</head>
+                <subject encodinganalog="650">Administrative law -- Minnesota.</subject>
+                <subject encodinganalog="650">Building laws -- Minnesota.</subject>
+                <subject encodinganalog="650">Correctional institutions -- Minnesota.</subject>
+                <subject encodinganalog="650">Education, Higher -- Minnesota.</subject>
+                <subject encodinganalog="650">Energy policy -- Minnesota.</subject>
+                <subject encodinganalog="650">Government publications -- Minnesota.</subject>
+                <subject encodinganalog="650">Government vehicles -- Minnesota.</subject>
+                <subject encodinganalog="650">Materials management -- Minnesota.</subject>
+                <subject encodinganalog="650">People with disabilities -- Minnesota.</subject>
+                <subject encodinganalog="650">Privacy, Right of -- Minnesota.</subject>
+                <subject encodinganalog="650">Public buildings -- Minnesota.</subject>
+                <subject encodinganalog="650">Public institutions -- Minnesota.</subject>
+                <subject encodinganalog="650">Public lands -- Minnesota.</subject>
+                <subject encodinganalog="650">Telecommunication policy -- Minnesota.</subject>
+            </controlaccess>
+            <controlaccess>
+                <head>Persons:</head>
+                <persname role="creator" encodinganalog="700">Hale, Sandra J.</persname>
+                <persname role="creator" encodinganalog="700">Hiniker, James J.</persname>
+            </controlaccess>
+            <controlaccess>
+                <head>Organizations:</head>
+                <corpname role="subject" encodinganalog="610">Governor's Residence Council
+                    (Minn.).</corpname>
+                <corpname role="subject" encodinganalog="610">Minnesota History Center (Saint Paul,
+                    Minn.).</corpname>
+                <corpname role="subject" encodinganalog="610">Minnesota Office on Volunteer
+                    Services.</corpname>
+                <corpname role="subject" encodinganalog="610">Minnesota State Arts Board.</corpname>
+                <corpname role="subject" encodinganalog="610">Minnesota Veterans Home (Minneapolis,
+                    Minn.).</corpname>
+                <corpname role="subject" encodinganalog="610">Minnesota. Dept. of Employee
+                    Relations.</corpname>
+                <corpname role="subject" encodinganalog="610">Minnesota. Dept. of
+                    Finance.</corpname>
+                <corpname role="subject" encodinganalog="610">Minnesota. Dept. of Public
+                    Welfare.</corpname>
+                <corpname role="subject" encodinganalog="610">Minnesota. Dept. of
+                    Transportation.</corpname>
+                <corpname role="subject" encodinganalog="610">Minnesota. Dept. of Administration.
+                    Information Services Bureau.</corpname>
+                <corpname role="subject" encodinganalog="610">Minnesota. Capitol Area Architectural
+                    and Planning Board.</corpname>
+                <corpname role="subject" encodinganalog="610">Minnesota. Dept. of Energy and
+                    Economic Development.</corpname>
+                <corpname role="subject" encodinganalog="610">Minnesota. Executive
+                    Council.</corpname>
+                <corpname role="subject" encodinganalog="610">Minnesota. Governor's Loaned
+                    Executives Action Program.</corpname>
+                <corpname role="subject" encodinganalog="610">Minnesota. Legislature. Office of the
+                    Legislative Auditor.</corpname>
+                <corpname role="subject" encodinganalog="610">Minnesota. Office of the
+                    Governor.</corpname>
+                <corpname role="subject" encodinganalog="610">Strive Toward Excellence in
+                    Performance (Program : Minn.).</corpname>
+            </controlaccess>
+            <controlaccess>
+                <head>Places:</head>
+                <geogname encodinganalog="651">Minnesota -- Executive departments --
+                    Management.</geogname>
+                <geogname encodinganalog="651">Minnesota -- Personnel management.</geogname>
+            </controlaccess>
+            <controlaccess>
+                <head>Functions:</head>
+                <function encodinganalog="657">Supervising.</function>
+            </controlaccess>
+        </controlaccess>
+        <descgrp type="admininfo">
+            <head id="a8">ADMINISTRATIVE INFORMATION</head>
+            <prefercite encodinganalog="524">
+                <head>Preferred Citation:</head>
+                <p>
+                    <emph render="italic">[Indicate the cited item and/or series here].
+                    </emph>Minnesota. Dept. of Administration. Commissioner's Office. Hiniker (James
+                    J.) and Hale (Sandra J.) Files. Minnesota Historical Society.</p>
+                <p>
+                    <emph render="italic">See the Chicago Manual of Style for additional
+                        examples.</emph>
+                </p>
+            </prefercite>
+            <acqinfo encodinganalog="541">
+                <head>Accession Information:</head>
+                <p>Accession numbers: 991-164; 997-37; 998-18; 999-37; 2001-48; 2004-24; 2004-54;
+                    2005-59; 2012-9 </p>
+            </acqinfo>
+            <processinfo>
+                <head>Processing Information:</head>
+                <p>
+                    <extref actuate="onrequest" audience="external" show="new"
+                        href="http://www.archives.gov/nhprc/">
+                        <extptr show="embed" altrender="right" title="NHPRC logo"
+                            href="images/nhprc-178x178.jpg"/>
+                    </extref>
+                </p>
+                <p>Processing and cataloging of this collection was supported with a Basic Project
+                    grant awarded by the National Historical Publications and Records Commission
+                        <extref actuate="onrequest" audience="external"
+                        href="http://www.archives.gov/nhprc/">(NHPRC)</extref>.</p>
+                <p>Catalog ID number: 001734183</p>
+            </processinfo>
+        </descgrp>
+        <dsc type="combined">
+            <head id="a9">DETAILED DESCRIPTION</head>
+            <c01 level="series">
+                <did>
+                    <unittitle>Hiniker chronological files, <unitdate>1979-1982</unitdate></unittitle>
+                </did>
+                <c02>
+                    <did>
+                        <physloc>128.I.10.12F</physloc>
+                        <unittitle>Nos. 1-1979,</unittitle>
+                        <unitdate>March 1979-September 1982. </unitdate>
+                        <physdesc> 19 folders. </physdesc>
+                    </did>
+                </c02>
+            </c01>
+
+            <c01 level="series">
+                <did>
+                    <unittitle>Hale chronological files, <unitdate>1983-1987</unitdate></unittitle>
+                </did>
+
+                <c02>
+                    <did>
+                        <physloc>128.I.10.13B</physloc>
+                        <unittitle>Alphabetical index, </unittitle>
+                        <unitdate>1983-1987.</unitdate>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unitdate>1983-1985. </unitdate>
+                        <physdesc> 18 folders. </physdesc>
+                    </did>
+                </c02>
+            </c01>
+
+            <c01 level="series">
+                <did>
+                    <unittitle>Hiniker/Hale subject files, <unitdate>1966-1987</unitdate></unittitle>
+                </did>
+
+                <c02>
+                    <did>
+                        <physloc>128.I.10.14F</physloc>
+                        <unittitle>Affirmative Action Committee: </unittitle>
+                    </did>
+                    <c03>
+                        <did>
+                            <unittitle>Minutes, </unittitle>
+                            <unitdate>1979-1981. </unitdate>
+                        </did>
+                    </c03>
+                    <c03>
+                        <did>
+                            <unittitle>Reports, </unittitle>
+                            <unitdate>1979-1981. </unitdate>
+                        </did>
+                    </c03>
+                    <c03>
+                        <did>
+                            <unittitle>Correspondence, </unittitle>
+                            <unitdate> 1979-1983. </unitdate>
+                        </did>
+                    </c03>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Brainerd DNR facility, </unittitle>
+                        <unitdate>1978. </unitdate>
+                    </did>
+                    <scopecontent>
+                        <p>Program and preliminary schematic design study. </p>
+                    </scopecontent>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Building Code Division, </unittitle>
+                        <unitdate>1981-1983. </unitdate>
+                        <physdesc> 2 folders. </physdesc>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Building Construction Division, </unittitle>
+                        <unitdate>1979-1983. </unitdate>
+                        <physdesc> 5 folders. </physdesc>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Capitol Area Architectural and Planning Board, </unittitle>
+                        <unitdate>1980-1981. </unitdate>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Capitol Area parking, </unittitle>
+                        <unitdate>November 1983. </unitdate>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Capitol Improvement Plan, </unittitle>
+                        <unitdate>1979-June 1983. </unitdate>
+                        <physdesc> 2 folders. </physdesc>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Cass Gilbert Park, </unittitle>
+                        <unitdate> 1980. </unitdate>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>C.E.T.A., </unittitle>
+                        <unitdate>April 1979-January 1980. </unitdate>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Commuter Van Program: </unittitle>
+                    </did>
+                    <c03>
+                        <did>
+                            <unitdate>1980-1983. </unitdate>
+                        </did>
+                    </c03>
+                    <c03>
+                        <did>
+                            <unittitle>Program analysis, </unittitle>
+                            <unitdate>March 18, 1982. </unitdate>
+                        </did>
+                    </c03>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Constituent mail,</unittitle>
+                        <unitdate> 1983-1984. </unitdate>
+                        <physdesc> 2 folders. </physdesc>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <physloc>128.I.11.1B</physloc>
+                        <unittitle>Copeland, William C.: Refinancing and Reorganizing Human
+                            Services: Inter-Agency Net Budgeting and Other Fiscal Incentives, </unittitle>
+                        <unitdate>March 4, 1981. </unitdate>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Computer system, installation of new, </unittitle>
+                        <unitdate> July-September 1983. </unitdate>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Cost savings program, </unittitle>
+                        <unitdate>1978, 1983. </unitdate>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>County Financial and Reporting System [COFARS], </unittitle>
+                        <unitdate>1978-1980. </unitdate>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Crime Control Planning Board: Minnesota Justice System
+                            Improvement Study-Research Design, </unittitle>
+                        <unitdate>August 1980. </unitdate>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Data Privacy Unit, </unittitle>
+                        <unitdate> March 1977-1983. </unitdate>
+                        <physdesc> 3 folders. </physdesc>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Duluth Government Center, </unittitle>
+                        <unitdate> 1979-1983. </unitdate>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Electricity Board, </unittitle>
+                        <unitdate> 1978-1982. </unitdate>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Employee Relations Department, </unittitle>
+                        <unitdate>1979-1984. </unitdate>
+                        <physdesc> 3 folders. </physdesc>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Energy Conservation Division, </unittitle>
+                        <unitdate> 1979-1983. </unitdate>
+                        <physdesc> 3 folders. </physdesc>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Energy Coordination Task Force, </unittitle>
+                        <unitdate>1983. </unitdate>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Energy Department, </unittitle>
+                        <unitdate>1979-1983. </unitdate>
+                    </did>
+                    <scopecontent>
+                        <p>Includes Analysis of Staffing Needs at Minnesota Energy Agency, February
+                            27, 1980. </p>
+                    </scopecontent>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Energy, miscellaneous, </unittitle>
+                        <unitdate> 1979-1984. </unitdate>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>ETA Super Computer, </unittitle>
+                        <unitdate>1983. </unitdate>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Executive Claims Committee, </unittitle>
+                        <unitdate>1979. </unitdate>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Fergus Falls State Hospital, </unittitle>
+                        <unitdate>1979-1983. </unitdate>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Film, Video, and Graphic Arts Committee, </unittitle>
+                        <unitdate>1983-1984. </unitdate>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <physloc>128.I.11.2F</physloc>
+                        <unittitle>Finance Department: </unittitle>
+                    </did>
+                    <c03>
+                        <did>
+                            <unittitle>Statewide Financial Management Study (Price Waterhouse), </unittitle>
+                            <unitdate>1979. </unitdate>
+                            <physdesc> 2 folders. </physdesc>
+                        </did>
+                    </c03>
+                    <c03>
+                        <did>
+                            <unitdate>1977-1983. </unitdate>
+                            <physdesc> 3 folders. </physdesc>
+                        </did>
+                    </c03>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Financial Management Information Task Force, </unittitle>
+                        <unitdate>1979-1981. </unitdate>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Freeze, Executive Order 83-3, </unittitle>
+                        <unitdate> 1983. </unitdate>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Gasoline conservation, </unittitle>
+                        <unitdate> 1976, 1979-1985. </unitdate>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Goff Report, </unittitle>
+                        <unitdate>1979-1982. </unitdate>
+                    </did>
+                    <scopecontent>
+                        <p>Includes Governor's Task Force on Waste and Mismanagement Report, January
+                            1979. </p>
+                    </scopecontent>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Governor's Office (transition), </unittitle>
+                        <unitdate>November 1978-January 1979. </unitdate>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Governor's Office (Quie), </unittitle>
+                        <unitdate>1978-1982. </unitdate>
+                        <physdesc> 3 folders. </physdesc>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Governor's Office (Perpich), </unittitle>
+                        <unitdate> 1983. </unitdate>
+                        <physdesc> 3 folders. </physdesc>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Governor's Task Force to Reduce State Mandates on Local
+                            Governments, </unittitle>
+                        <unitdate> 1982. </unitdate>
+                        <physdesc> 2 folders. </physdesc>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Health Care Study Task Force: </unittitle>
+                    </did>
+                    <c03>
+                        <did>
+                            <unittitle>Miscellaneous. </unittitle>
+                            <physdesc> 2 folders. </physdesc>
+                        </did>
+                    </c03>
+                    <c03>
+                        <did>
+                            <unitdate>May-December 1981. </unitdate>
+                            <physdesc> 2 folders. </physdesc>
+                        </did>
+                    </c03>
+                    <c03>
+                        <did>
+                            <physloc>128.I.11.3B</physloc>
+                            <unitdate>May-December 1981. </unitdate>
+                            <physdesc> 1 folder. </physdesc>
+                        </did>
+                    </c03>
+                    <c03>
+                        <did>
+                            <unittitle>Final report, </unittitle>
+                            <unitdate> December 1981. </unitdate>
+                        </did>
+                    </c03>
+                </c02>
+
+                <c02>
+                    <did>
+                        <unittitle>Health and Public Welfare merger, </unittitle>
+                        <unitdate>1983. </unitdate>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Human Rights Department, </unittitle>
+                        <unitdate>1979-1984. </unitdate>
+                    </did>
+                    <scopecontent>
+                        <p>Includes operational analysis, January 24, 1984.</p>
+                    </scopecontent>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Information Services Bureau: </unittitle>
+                    </did>
+                    <c03>
+                        <did>
+                            <unittitle>Audit, </unittitle>
+                            <unitdate>1976-1984. </unitdate>
+                            <physdesc> 2 folders. </physdesc>
+                        </did>
+                    </c03>
+                    <c03>
+                        <did>
+                            <unittitle>Friday Report, </unittitle>
+                            <unitdate> 1979-1982. </unitdate>
+                        </did>
+                    </c03>
+                    <c03>
+                        <did>
+                            <unittitle>Information Services newsletter, </unittitle>
+                            <unitdate>1980-1982. </unitdate>
+                        </did>
+                    </c03>
+                    <c03>
+                        <did>
+                            <unittitle>Program evaluation, </unittitle>
+                            <unitdate> February 1980. </unitdate>
+                        </did>
+                    </c03>
+                    <c03>
+                        <did>
+                            <unittitle>Program evaluation, </unittitle>
+                            <unitdate>March 1980. </unitdate>
+                        </did>
+                    </c03>
+                    <c03>
+                        <did>
+                            <unittitle>State Information System Advisory Council, </unittitle>
+                            <unitdate>1979-1982. </unitdate>
+                        </did>
+                    </c03>
+                    <c03>
+                        <did>
+                            <unittitle>Systems Advisory Committee, </unittitle>
+                            <unitdate>1979-1983. </unitdate>
+                        </did>
+                    </c03>
+                    <c03>
+                        <did>
+                            <unittitle>User Advisory Council, </unittitle>
+                            <unitdate>1983-1984. </unitdate>
+                        </did>
+                    </c03>
+                    <c03>
+                        <did>
+                            <unittitle>General information, </unittitle>
+                            <unitdate>1979-1984. </unitdate></did>
+                        <c04>
+                            <did><physdesc> 5 folders. </physdesc></did>
+                        </c04>
+                    <c04>
+                        <did>
+                            <physloc>128.I.11.4F</physloc>
+                            <physdesc> 2 folders. </physdesc>
+                        </did></c04>
+                    </c03>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Intergovernmental Information Systems Advisory Council, </unittitle>
+                        <unitdate>1984. </unitdate>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Interstate Cooperation Commission, </unittitle>
+                        <unitdate>1977-1980. </unitdate>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Inver Hills Community College, </unittitle>
+                        <unitdate> September 1983. </unitdate>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Investment Board, </unittitle>
+                        <unitdate>1979-1981. </unitdate>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Iron Range Resources and Rehabilitation Board: Fens Bog Pilot
+                            Project Plan, </unittitle>
+                        <unitdate>1983. </unitdate>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Job sharing, </unittitle>
+                        <unitdate>1979-1980. </unitdate>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Labor Relations Department, </unittitle>
+                        <unitdate> 1979-1982. </unitdate>
+                        <physdesc> 4 folders. </physdesc>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Land Management Information Center, </unittitle>
+                        <unitdate>1983. </unitdate>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Land, State owned, </unittitle>
+                        <unitdate> 1980-1983. </unitdate>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Legislation, </unittitle>
+                        <unitdate>1980-1984. </unitdate>
+                        <physdesc> 4 folders. </physdesc>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Legislative Commission to Review Administrative Rules, </unittitle>
+                        <unitdate>1980-1984. </unitdate>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Legislative Reference Library, </unittitle>
+                        <unitdate>1979-1983.</unitdate>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Licensing, Statewide, </unittitle>
+                        <unitdate> 1979-1982. </unitdate>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Management Advisory Council: </unittitle>
+                    </did>
+                    <c03>
+                        <did>
+                            <unitdate>1983-1984. </unitdate>
+                        </did>
+                    </c03>
+                    <c03>
+                        <did>
+                            <unittitle>Minutes, </unittitle>
+                            <unitdate>1983-1984. </unitdate>
+                        </did>
+                    </c03>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Management Analysis Division: </unittitle>
+                    </did>
+                    <c03>
+                        <did>
+                            <unitdate>1975-1983. </unitdate>
+                            <physdesc> 2 folders. </physdesc>
+                        </did>
+                    </c03>
+                    <c03>
+                        <did>
+                            <unittitle>Monthly status reports, </unittitle>
+                            <unitdate>1980-1982. </unitdate>
+                        </did>
+                    </c03>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Management by Objective: </unittitle>
+                    </did>
+                    <c03>
+                        <did>
+                            <unitdate>1966-1975. </unitdate>
+                        </did>
+                    </c03>
+                    <c03>
+                        <did>
+                            <unittitle>Overheads, </unittitle>
+                            <unitdate> 1974. </unitdate>
+                        </did>
+                    </c03>
+                </c02>
+                <c02>
+                    <did>
+                        <physloc>128.I.11.5B</physloc>
+                        <unittitle>Management Services Division, </unittitle>
+                        <unitdate> 1977. </unitdate>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Manager's meetings, </unittitle>
+                        <unitdate> 1980-1982. </unitdate>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Mankato State University, </unittitle>
+                        <unitdate> 1979-1982. </unitdate>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Metric system, </unittitle>
+                        <unitdate>1980. </unitdate>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Metropolitan Transit Commission, </unittitle>
+                        <unitdate>1979-1982. </unitdate>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Metropolitan Waste Control Commission, </unittitle>
+                        <unitdate>1979-1982. </unitdate>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Military Affairs, </unittitle>
+                        <unitdate>1979-1983. </unitdate>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Minnesota Benefit Association, </unittitle>
+                        <unitdate> 1980. </unitdate>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Minnesota Educational Computing Consortium, </unittitle>
+                        <unitdate>1980-1983. </unitdate>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Minnesota Emergency Employment Development Act, </unittitle>
+                        <unitdate> 1983. </unitdate>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Minnesota Occupational Information System Board, </unittitle>
+                        <unitdate>1979. </unitdate>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Minnesota Office on Volunteer Services: </unittitle>
+                    </did>
+                    <c03>
+                        <did>
+                            <unitdate>1979-1984. </unitdate>
+                            <physdesc> 2 folders. </physdesc>
+                        </did>
+                    </c03>
+                    <c03>
+                        <did>
+                            <unittitle>Pilot Community Manual, </unittitle>
+                            <unitdate>December 1982. </unitdate>
+                        </did>
+                    </c03>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Minnesota Tax Study Commission, </unittitle>
+                        <unitdate>1983-1984. </unitdate>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Minnesota Washington Office, </unittitle>
+                        <unitdate> 1983. </unitdate>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Model for Economic Analysis Forecasts, Input/Output Models, </unittitle>
+                        <unitdate>1974-1976. </unitdate>
+                        <physdesc> 2 folders. </physdesc>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Moorhead State University, </unittitle>
+                        <unitdate>1979-1983. </unitdate>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Motor Pool Division, </unittitle>
+                        <unitdate>1979-1983. </unitdate>
+                        <physdesc> 3 folders. </physdesc>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Natural Resources Department, </unittitle>
+                        <unitdate>1979-1984.</unitdate>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Office Equipment Repair and Rental Section: Procurement Division:
+                            Investigation report and closing of section, </unittitle>
+                        <unitdate> 1980-1983. </unitdate>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Organization and Methods Division, </unittitle>
+                        <unitdate> 1969-1979. </unitdate>
+                        <physdesc> 3 folders. </physdesc>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Personnel Services Division: </unittitle>
+                    </did>
+                    <c03>
+                        <did>
+                            <unitdate>1978-1984. </unitdate>
+                        </did>
+                    </c03>
+                    <c03>
+                        <did>
+                            <unittitle>Activity reports, </unittitle>
+                            <unitdate> 1981-1983. </unitdate>
+                        </did>
+                    </c03>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Plant Management Division: </unittitle>
+                    </did>
+                    <c03>
+                        <did>
+                            <unittitle>Monthly reports, </unittitle>
+                            <unitdate> 1982-1984. </unitdate>
+                        </did>
+                    </c03>
+                    <c03>
+                        <did>
+                            <unitdate>1979-1982. </unitdate>
+                            <physdesc> 2 folders. </physdesc>
+                        </did>
+                    </c03>
+                    <c03>
+                        <did>
+                            <physloc>128.I.11.6F</physloc>
+                            <unitdate>1983-1984. </unitdate>
+                            <physdesc> 2 folders. </physdesc>
+                        </did>
+                    </c03>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Printing Advisory Committee, </unittitle>
+                        <unitdate> 1979-1980. </unitdate>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Printing and Mailing Services Division: </unittitle>
+                    </did>
+                    <c03>
+                        <did>
+                            <unitdate>1979-1983. </unitdate>
+                            <physdesc> 2 folders. </physdesc>
+                        </did>
+                    </c03>
+                    <c03>
+                        <did>
+                            <unittitle>Publications. </unittitle>
+                            <physdesc> 9 items in 1 folder. </physdesc>
+                        </did>
+                        <c04>
+                            <did>
+                                <unittitle>Examination of Minnesota's Printing and Duplicating
+                                    Operations, Council of State Governments, </unittitle>
+                                <unitdate>September 1979. </unitdate>
+                            </did>
+                        </c04>
+                        <c04>
+                            <did>
+                                <unittitle>Presentation of Minnesota Copy Center Concept, </unittitle>
+                                <unitdate> October 12, 1979. </unitdate>
+                            </did>
+                        </c04>
+                        <c04>
+                            <did>
+                                <unittitle>Publications and General Services Division Report, </unittitle>
+                                <unitdate>December 3, 1980. </unitdate>
+                            </did>
+                        </c04>
+                        <c04>
+                            <did>
+                                <unittitle>Printing and Mailing Services Report, </unittitle>
+                                <unitdate>January 27, 1981. </unitdate>
+                            </did>
+                        </c04>
+                        <c04>
+                            <did>
+                                <unittitle>Rate Setting Approach, </unittitle>
+                                <unitdate>FY1982. </unitdate>
+                            </did>
+                        </c04>
+                        <c04>
+                            <did>
+                                <unittitle>PLO Newsletter, </unittitle>
+                                <unitdate>November. 16, 1979 and April 1980. </unitdate>
+                            </did>
+                        </c04>
+                        <c04>
+                            <did>
+                                <unittitle>Type (manual), </unittitle>
+                                <unitdate>circa 1980. </unitdate>
+                            </did>
+                        </c04>
+                        <c04>
+                            <did>
+                                <unittitle>PM Impressions, </unittitle>
+                                <unitdate> March and December 1981, November 1982. </unitdate>
+                            </did>
+                        </c04>
+                        <c04>
+                            <did>
+                                <unittitle>Minnesota Communicator- Minnesota Chapter National
+                                    Association of Government Communicators, </unittitle>
+                                <unitdate> March-May 1981. </unitdate>
+                            </did>
+                        </c04>
+                    </c03>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Procurement Division: </unittitle>
+                    </did>
+                    <c03>
+                        <did>
+                            <unittitle>Authority for local purchases, </unittitle>
+                            <unitdate> 1982. </unitdate>
+                        </did>
+                    </c03>
+                    <c03>
+                        <did>
+                            <unittitle>Implementation book, </unittitle>
+                            <unitdate> 1984. </unitdate>
+                        </did>
+                    </c03>
+                    <c03>
+                        <did>
+                            <unitdate>1979-1984. </unitdate>
+                            <physdesc> 6 folders. </physdesc>
+                        </did>
+                    </c03>
+                    <c03>
+                        <did>
+                            <unittitle>Minnesota Small Business Procurement Program for Socially or
+                                Economically Disadvantaged Vendors, Annual reports, </unittitle>
+                            <unitdate>FY1982-1983. </unitdate>
+                        </did>
+                    </c03>
+                    <c03>
+                        <did>
+                            <unittitle>Procurement News, </unittitle>
+                            <unitdate> 1980. </unitdate>
+                        </did>
+                    </c03>
+                    <c03>
+                        <did>
+                            <unittitle>Activity reports, </unittitle>
+                            <unitdate> 1981-1982. </unitdate>
+                        </did>
+                    </c03>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Public Welfare Department, </unittitle>
+                        <unitdate>1979-1984. </unitdate>
+                        <physdesc> 2 folders. </physdesc>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Quality Circles, </unittitle>
+                        <unitdate>1983. </unitdate>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Real Estate Management Division: </unittitle></did>
+                    <c03><did><unitdate> 1979-1981. </unitdate>
+                        <physdesc> 3 folders. </physdesc></did></c03> 
+                    
+                <c03>
+                    <did>
+                        <physloc>128.I.11.7B</physloc>
+                   
+                        <unitdate>1982-1987. </unitdate>
+                        <physdesc> 4 folders. </physdesc>
+                    </did></c03>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Reduction of staff, </unittitle>
+                        <unitdate>1979-1983. </unitdate>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Resource Conservation and Recovery, </unittitle>
+                        <unitdate> 1979-1984. </unitdate>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Rochester State Hospital, </unittitle>
+                        <unitdate>1981-1984. </unitdate>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Rochester State Hospital Task Force, </unittitle>
+                        <unitdate> 1982. </unitdate>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Saint Peter State Hospital, </unittitle>
+                        <unitdate>1979-1983. </unitdate>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Service Assistance Office, </unittitle>
+                        <unitdate>1980. </unitdate>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Small Business Procurement Act: </unittitle>
+                    </did>
+                    <c03>
+                        <did>
+                            <unittitle>Annual report, </unittitle>
+                            <unitdate> 1978. </unitdate>
+                        </did>
+                    </c03>
+                    <c03>
+                        <did>
+                            <unitdate>1979-1987. </unitdate>
+                            <physdesc> 3 folders. </physdesc>
+                        </did>
+                    </c03>
+                    <c03>
+                        <did>
+                            <unittitle>Evaluation of Set-Aside Program, </unittitle>
+                            <unitdate> February 16, 1982. </unitdate>
+                        </did>
+                    </c03>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Staff meeting minutes: </unittitle>
+                    </did>
+                    <c03>
+                        <did>
+                            <unitdate>1979-1981. </unitdate>
+                            <physdesc> 5 folders. </physdesc>
+                        </did>
+                    </c03>
+                    <c03>
+                        <did>
+                            <physloc>128.I.11.8F</physloc>
+                            <unitdate>1982-1984. </unitdate>
+                            <physdesc> 4 folders. </physdesc>
+                        </did>
+                    </c03>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>State Band, </unittitle>
+                        <unitdate> 1984-1986. </unitdate>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>State Ceremonial Building (Governor's Mansion), </unittitle>
+                        <unitdate>1978-1983. </unitdate>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>State Ceremonial House Committee, </unittitle>
+                        <unitdate> 1978-1983. </unitdate>
+                        <physdesc> 3 folders. </physdesc>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>State Employees, Inc., </unittitle>
+                        <unitdate> 1980. </unitdate>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>State Facilities Master Planning Process, </unittitle>
+                        <unitdate>1980. </unitdate>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>State Planning Agency, </unittitle>
+                        <unitdate> 1981-1984. </unitdate>
+                        <physdesc> 2 folders. </physdesc>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>State Register Division, </unittitle>
+                        <unitdate>1979-1984. </unitdate>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Stillwater State Prison/Oak Park Heights Correctional Facility:
+                        </unittitle>
+                    </did>
+                    <c03>
+                        <did>
+                            <unitdate>1978-1981. </unitdate>
+                            <physdesc> 2 folders. </physdesc>
+                        </did>
+                    </c03>
+                    <c03>
+                        <did>
+                            <physloc>128.I.11.9B</physloc>
+                            <unitdate>1981-1983. </unitdate>
+                            <physdesc> 1 folder. </physdesc>
+                        </did>
+                    </c03>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Super Computer Institute, </unittitle>
+                        <unitdate> 1984. </unitdate>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Telecommunications, 911: </unittitle>
+                    </did>
+                    <c03>
+                        <did>
+                            <unittitle>Report to the Legislature, </unittitle>
+                            <unitdate>1979-1981, 1983. </unitdate>
+                            <physdesc> 2 folders. </physdesc>
+                        </did>
+                    </c03>
+                    <c03>
+                        <did>
+                            <unitdate>1979-1982. </unitdate>
+                            <physdesc> 3 folders. </physdesc>
+                        </did>
+                    </c03>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle> Telecommunications Department: </unittitle>
+                    </did>
+                    <c03>
+                        <did>
+                            <unittitle>Conference, </unittitle>
+                            <unitdate>February 6-7, 1984. </unitdate>
+                        </did>
+                    </c03>
+                    <c03>
+                        <did>
+                            <unitdate>1977-1984. </unitdate>
+                            <physdesc> 4 folders. </physdesc>
+                        </did>
+                    </c03>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Transportation Department: </unittitle>
+                    </did>
+                    <c03>
+                        <did>
+                            <unitdate>1979-1984. </unitdate>
+                        </did>
+                    </c03>
+                    <c03>
+                        <did>
+                            <unittitle>Recommendations for MnDot Reorganization, </unittitle>
+                            <unitdate> June 1979. </unitdate>
+                        </did>
+                    </c03>
+                    <c03>
+                        <did>
+                            <unittitle>Management Study of MnDot Maintenance Operations Management
+                                Analysis Division, </unittitle>
+                            <unitdate>February 1983. </unitdate>
+                        </did>
+                    </c03>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Unions, </unittitle>
+                        <unitdate> 1980-1983. </unitdate>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>University of Minnesota, </unittitle>
+                        <unitdate> 1979-1981. </unitdate>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>User Council on Office Systems, </unittitle>
+                        <unitdate>1979-1983. </unitdate>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Veterans Affairs Department, </unittitle>
+                        <unitdate>1979-1984. </unitdate>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Volunteer for Minnesota: </unittitle>
+                    </did>
+                    <c03>
+                        <did>
+                            <unittitle>Kick-Off Conference, </unittitle>
+                            <unitdate> September 30, 1982. </unitdate>
+                        </did>
+                    </c03>
+                    <c03>
+                        <did>
+                            <unittitle>Correspondence, </unittitle>
+                            <unitdate>1981-1982. </unitdate>
+                        </did>
+                    </c03>
+                    <c03>
+                        <did>
+                            <unittitle>Agenda packets, </unittitle>
+                            <unitdate> 1982. </unitdate>
+                        </did>
+                    </c03>
+                    <c03>
+                        <did>
+                            <unittitle>VFM Pilot training, </unittitle>
+                            <unitdate>1982. </unitdate>
+                        </did>
+                    </c03>
+                    <c03>
+                        <did>
+                            <unittitle>Miscellaneous, </unittitle>
+                            <unitdate>1982. </unitdate>
+                        </did>
+                    </c03>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Waste-recycling, </unittitle>
+                        <unitdate>1980-1985. </unitdate>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Winona State University, </unittitle>
+                        <unitdate> August 1983. </unitdate>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <physloc>107.K.12.2F</physloc>
+                        <unittitle>Work plans, </unittitle>
+                        <unitdate> FY1983. </unitdate>
+                        <physdesc> 2 folders. </physdesc>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Zoo, Board consultants, </unittitle>
+                        <unitdate> 1973-1974. </unitdate>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Zoo (Minnesota Zoological Garden), </unittitle>
+                        <unitdate>1979-1984. </unitdate>
+                    </did>
+                </c02>
+            </c01>
+            <c01 level="series">
+                <did>
+                    <unittitle>Hale subject files, <unitdate>1972-2004</unitdate></unittitle>
+                </did>
+
+                <c02>
+                    <did>
+                        <physloc>107.K.12.2F</physloc>
+                        <unittitle>Administration personnel, </unittitle>
+                        <unitdate>1985-1990. </unitdate>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <physloc>104.F.12.2F</physloc>
+                        <unittitle>Administrative files, </unittitle>
+                        <unitdate>circa 1980-1993. </unitdate>
+                        <physdesc> 4 folders. </physdesc>
+                    </did>
+                    <scopecontent>
+                        <p>Includes conference and seminar outlines and materials, strategic
+                            planning, correspondence, brochures, and newsletters relating to her
+                            work as Commissioner and with the State Arts Board and Enterprise
+                            Management, International. </p>
+                    </scopecontent>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Administrative goals and accomplishments, </unittitle>
+                        <unitdate>1983-1990. </unitdate>
+                    </did>
+                    <scopecontent>
+                        <p>Includes action plans, statement of values, current projects, mission
+                            statements and office memorandum. </p>
+                    </scopecontent>
+                </c02>
+                <c02>
+                    <did>
+                        <physloc>107.K.12.2F</physloc>
+                        <unittitle>Archives, </unittitle>
+                        <unitdate> 1978-1979. </unitdate>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Air pollution, </unittitle>
+                        <unitdate>1983-1984. </unitdate>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Artificial intelligence, </unittitle>
+                        <unitdate>1990. </unitdate>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <physloc>104.F.12.2F </physloc>
+                        <unittitle>Biography, </unittitle>
+                        <unitdate> circa 1970s-1990s. </unitdate>
+                    </did>
+                    <scopecontent>
+                        <p>Includes professional accomplishments, employment history, resumes,
+                            references, and certificates of awards. </p>
+                    </scopecontent>
+                </c02>
+                <c02>
+                    <did>
+                        <physloc>107.K.12.2F</physloc>
+                        <unittitle>Blue Ribbon Committee on Information Policies, </unittitle>
+                        <unitdate>1985-1987. </unitdate>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Building codes and standards, </unittitle>
+                        <unitdate>1983-1985. </unitdate>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Building Fund, </unittitle>
+                        <unitdate> 1979-1982. </unitdate>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>CAAPB [Capitol Area Architectural and Planning Board], </unittitle>
+                        <unitdate>1982-1990. </unitdate>
+                        <physdesc> 4 folders. </physdesc>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Cable communications, </unittitle>
+                        <unitdate>1979-1985. </unitdate>
+                        <physdesc> 2 folders. </physdesc>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Capitol budget, </unittitle>
+                        <unitdate> 1987. </unitdate>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Capitol Mall, </unittitle>
+                        <unitdate>1986-1987. </unitdate>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Capitol restoration, </unittitle>
+                        <unitdate>1983-1990. </unitdate>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Commissioner’s feedback sessions, </unittitle>
+                        <unitdate>1984-1989. </unitdate>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Contracts management, </unittitle>
+                        <unitdate> 1979-1988. </unitdate>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <physloc>104.F.12.2F</physloc>
+                        <unittitle>Correspondence, </unittitle>
+                        <unitdate>1980s-2004. </unitdate>
+                    </did> <scopecontent>
+                        <p>Correspondence sent and received to government officials, private
+                            businesses, nonprofit administrators, general public and personal
+                            congratulatory notes. </p>
+                    </scopecontent>
+                    <c03>
+                        <did>
+                            <physdesc> 1 folder. </physdesc>
+                        </did>
+                    </c03>
+
+                    <c03>
+                        <did>
+                            <physloc>104.F.12.3B</physloc>
+                            <physdesc> 6 folders. </physdesc>
+                        </did>
+                       
+                    </c03>
+                </c02>
+                <c02>
+                    <did>
+                        <physloc>112.D.16.3B</physloc>
+                        <unittitle>Data privacy, </unittitle>
+                        <unitdate> 1989-1990. </unitdate>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Defining the Elephant (Strategic Management Plan for 1989-1990), </unittitle>
+                        <unitdate>October-November 1988. </unitdate>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Democratic Leadership Council, </unittitle>
+                        <unitdate>1990. </unitdate>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Designer Selection Board, </unittitle>
+                        <unitdate>1981-1990. </unitdate>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Economic Development Department, </unittitle>
+                        <unitdate>1979-1987. </unitdate>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Economic Security Department, </unittitle>
+                        <unitdate> 1979-1985. </unitdate>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Employee Relations Department, </unittitle>
+                        <unitdate>1984-1988. </unitdate>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Enterprise management, </unittitle>
+                        <unitdate> 1990. </unitdate>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Energy and Economic Development, </unittitle>
+                        <unitdate>1983-1987. </unitdate>
+                        <physdesc> 2 folders. </physdesc>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Energy/environment, </unittitle>
+                        <unitdate> 1990. </unitdate>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Executive Council: </unittitle>
+                    </did>
+                    <c03>
+                        <did>
+                            <unittitle>Breckenridge fire request, </unittitle>
+                            <unitdate>1977. </unitdate>
+                        </did>
+                    </c03>
+                    <c03>
+                        <did>
+                            <unittitle>Buhl coal problem, </unittitle>
+                            <unitdate>1972. </unitdate>
+                        </did>
+                    </c03>
+                    <c03>
+                        <did>
+                            <unittitle>Herbicide problem, </unittitle>
+                            <unitdate>1982. </unitdate>
+                        </did>
+                    </c03>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Executive Management Subcabinet, </unittitle>
+                        <unitdate>1983-1990. </unitdate>
+                        <physdesc> 8 folders. </physdesc>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Executive Orders, </unittitle>
+                        <unitdate> 1983-1989. </unitdate>
+                        <physdesc> 2 folders. </physdesc>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Executive Team, </unittitle>
+                        <unitdate> 1989-1990. </unitdate>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Exposing good government, </unittitle>
+                        <unitdate>1986. </unitdate>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <physloc>112.D.16.8F</physloc>
+                        <unittitle>Farm mediation files, </unittitle>
+                        <unitdate>1986-1991. </unitdate>
+                        <physdesc> 4 folders. </physdesc>
+                    </did>
+                    <scopecontent>
+                        <p>Approved and closed cases, background material, and list reports. </p>
+                    </scopecontent>
+                </c02>
+                <c02>
+                    <did>
+                        <physloc>112.D.16.4F</physloc>
+                        <unittitle>Finance Department, </unittitle>
+                        <unitdate>1983-1989. </unitdate>
+                        <physdesc> 4 folders. </physdesc>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Gorbachev Maxwell Institute of Technology, </unittitle>
+                        <unitdate>1990. </unitdate>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Gorbachev visit, </unittitle>
+                        <unitdate>1990. </unitdate>
+                        <physdesc> 2 folders. </physdesc>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Governor Perpich: </unittitle>
+                    </did>
+                    <c03>
+                        <did>
+                            <unitdate>1983-1990. </unitdate>
+                            <physdesc> 2 folders. </physdesc>
+                        </did>
+                    </c03>
+                    <c03>
+                        <did>
+                            <unittitle>Business Day visit, </unittitle>
+                            <unitdate> 1989. </unitdate>
+                        </did>
+                    </c03>
+                    <c03>
+                        <did>
+                            <unittitle>Proposed Budget, </unittitle>
+                            <unitdate> 1983-1985. </unitdate>
+                        </did>
+                    </c03>
+                    <c03>
+                        <did>
+                            <unittitle>Minnesota/Wisconsin Summit in Duluth, </unittitle>
+                            <unitdate> 1990. </unitdate>
+                        </did>
+                    </c03>
+                    <c03>
+                        <did>
+                            <unittitle>State of the State, </unittitle>
+                            <unitdate>1983-1989. </unitdate>
+                        </did>
+                    </c03>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Governor’s Residence Council, </unittitle>
+                        <unitdate>1983-1989. </unitdate>
+                        <physdesc> 6 folders. </physdesc>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Grace Commission, </unittitle>
+                        <unitdate>1984-1985. </unitdate>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <physloc>112.D.16.5B</physloc>
+                        <unittitle>Greater Minnesota Corporation, </unittitle>
+                        <unitdate> 1987-1990. </unitdate>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Handicapped, </unittitle>
+                        <unitdate> 1978-1989. </unitdate>
+                        <physdesc> 2 folders. </physdesc>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Health Department, </unittitle>
+                        <unitdate>1979-1988. </unitdate>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle> [Minnesota] History Center, </unittitle>
+                        <unitdate> 1985-1990. </unitdate>
+                        <physdesc> 3 folders. </physdesc>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Hospitals study, </unittitle>
+                        <unitdate> 1984. </unitdate>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Information Policy Council, </unittitle>
+                        <unitdate>1985-1988. </unitdate>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Information Services Bureau, </unittitle>
+                        <unitdate>1980-1988. </unitdate>
+                        <physdesc> 3 folders. </physdesc>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Information systems development, </unittitle>
+                        <unitdate>1987-1989. </unitdate>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Inventory Management Division, </unittitle>
+                        <unitdate>1979-1987. </unitdate>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>International Leadership Center, </unittitle>
+                        <unitdate> 1986-1990. </unitdate>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Legislative Auditor, </unittitle>
+                        <unitdate>1979-1983. </unitdate>
+                        <physdesc> 2 folders. </physdesc>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <physloc>112.D.16.6F</physloc>
+                        <unittitle>Legislative correspondence, </unittitle>
+                        <unitdate>1981-1988. </unitdate>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Letter from Governor Rudy Perpich, </unittitle>
+                        <unitdate>January 3, 1991. </unitdate>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Loaned Executive Action Program, </unittitle>
+                        <unitdate> 1973-1987. </unitdate>
+                        <physdesc> 2 folders. </physdesc>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Management, </unittitle>
+                        <unitdate>1987-1990. </unitdate>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Management Advisory Council, </unittitle>
+                        <unitdate> 1984-1989. </unitdate>
+                        <physdesc> 2 folders. </physdesc>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Managing internal service activities, </unittitle>
+                        <unitdate> undated, 1989. </unitdate>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Materials management, </unittitle>
+                        <unitdate>1983-1990. </unitdate>
+                        <physdesc> 2 folders. </physdesc>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Materials Management-Vendor Quality Management, </unittitle>
+                        <unitdate>1986. </unitdate>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Mechanic Arts, </unittitle>
+                        <unitdate> 1980-1984. </unitdate>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Minnesota Business Partnership, </unittitle>
+                        <unitdate>1983-1989. </unitdate>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Minnesota Office of Volunteer Services, </unittitle>
+                        <unitdate>1983-1990. </unitdate>
+                        <physdesc> 2 folders. </physdesc>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Minnesota Veterans’ Home, </unittitle>
+                        <unitdate>1984-1989. </unitdate>
+                        <physdesc> 2 folders. </physdesc>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <physloc>104.F.12.3B </physloc>
+                        <unittitle>News clippings, </unittitle>
+                        <unitdate>1970-2004. </unitdate>
+                        <physdesc> 11 folders. </physdesc>
+                    </did>
+                    <scopecontent>
+                        <p>Includes newspaper and newsletter clippings related to Commissioner Hale
+                            and the Administration Department and her various community roles. </p>
+                    </scopecontent>
+                </c02>
+                <c02>
+                    <did>
+                        <physloc>112.D.16.6F</physloc>
+                        <unittitle>Panza Art Concourse, </unittitle>
+                        <unitdate>1987-1988. </unitdate>
+                        <physdesc> 2 folders. </physdesc>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <physloc>104.F.12.3B </physloc>
+                        <unittitle>Photographs, </unittitle>
+                        <unitdate> undated. </unitdate>
+                    </did>
+                    <scopecontent>
+                        <p>Photographs of Commissioner Hale and unidentified persons.</p>
+                    </scopecontent>
+                </c02>
+                <c02>
+                    <did>
+                        <physloc>112.D.16.6F</physloc>
+                        <unittitle>Plant Management, </unittitle>
+                        <unitdate> 1983-1990. </unitdate>
+                        <physdesc> 2 folders.</physdesc>
+                    </did>
+                </c02>
+                <c02>
+                    <did>
+                        <physloc>112.D.16.7B</physloc>
+                        <unittitle>Public Safety Department, </unittitle>
+                        <unitdate> 1980-1988. </unitdate>
+                        <physdesc> 2 folders. </physdesc>
+                    </did>
+                </c02>
+
+                <c02>
+                    <did>
+                        <unittitle>Publications, </unittitle>
+                        <unitdate>circa 1970s-1990s. </unitdate>
+                        <physdesc> 3 folders. </physdesc>
+                    </did>
+
+                    <scopecontent>
+                        <p>Various magazine and journal publications which include an article
+                            written by or about Sandra Hale. </p>
+                    </scopecontent>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>Records Center, </unittitle>
+                        <unitdate> 1984-1988. </unitdate>
+                    </did>
+                </c02>
+
+                <c02>
+                    <did>
+                        <unittitle>Records management, </unittitle>
+                        <unitdate>1978-1980. </unitdate>
+                    </did>
+                </c02>
+
+                <c02>
+                    <did>
+                        <unittitle>Small Business Procurement Advisory Council [SBAC], </unittitle>
+                        <unitdate>1986-1990. </unitdate>
+                    </did>
+                </c02>
+
+                <c02>
+                    <did>
+                        <unittitle>Speech background material, </unittitle>
+                        <unitdate>circa 1980s-1990s. </unitdate>
+                        <physdesc> 2 folders. </physdesc>
+                    </did>
+                </c02>
+
+                <c02>
+                    <did>
+                        <unittitle>Speeches, </unittitle>
+                        <unitdate>1984-1995. </unitdate>
+                        <physdesc> 5 folders. </physdesc>
+                    </did>
+
+                    <scopecontent>
+                        <p>Speeches given nationally and internationally as Commissioner and as
+                            President of Enterprise Management at conferences, seminars and
+                            commencements. </p>
+                    </scopecontent>
+                </c02>
+                <c02>
+                    <did>
+                        <unittitle>State Arts Board, </unittitle>
+                        <unitdate>1983-1991. </unitdate>
+                        <physdesc> 2 folders. </physdesc>
+                    </did>
+                </c02>
+
+                <c02>
+                    <did>
+                        <unittitle>State Hospital (Rochester), </unittitle>
+                        <unitdate>1981-1982. </unitdate>
+                    </did>
+                </c02>
+
+                <c02>
+                    <did>
+                        <unittitle>State Hospital Study, </unittitle>
+                        <unitdate> 1984. </unitdate>
+                    </did>
+                </c02>
+
+                <c02>
+                    <did>
+                        <unittitle>State Hospital System, The Future of, </unittitle>
+                        <unitdate> 1982-1984. </unitdate>
+                    </did>
+                </c02>
+
+                <c02>
+                    <did>
+                        <unittitle>State Planning Agency, </unittitle>
+                        <unitdate> 1988-1991. </unitdate>
+                    </did>
+                </c02>
+
+                <c02>
+                    <did>
+                        <unittitle>STEP [Strive Toward Excellence in Performance], </unittitle>
+                        <unitdate>1983-1991. </unitdate></did>
+                    <scopecontent>
+                        <p>STEP, a tool for improving the quality, quantity and cost effectiveness
+                            of state government services, was launched in the spring of 1985 by
+                            Governor Perpich and ended in 1991 when Governor Carlson created the
+                            Commission on Reform and Efficiency [CORE]. Included are STEP
+                            hypotheses, projects, program highlights, newsletter and newspaper
+                            clippings. </p>
+                    </scopecontent>
+                        <c03>
+                            <did><physdesc> 1 folder. </physdesc></did>
+                        </c03>
+                
+                <c03>
+                    <did>
+                        <physloc>104.F.12.2F</physloc>
+                      
+                        <physdesc> 5 folders. </physdesc>
+                    </did></c03>
+
+                   
+                </c02>
+
+                <c02>
+                    <did>
+                        <unittitle>Telecommunications, </unittitle>
+                        <unitdate>1983-1989. </unitdate>
+                        <physdesc> 6 folders. </physdesc>
+                    </did>
+                </c02>
+
+                <c02>
+                    <did>
+                        <unittitle>Transition Team [Governor’s Office], </unittitle>
+                        <unitdate>1990. </unitdate>
+                    </did>
+                </c02>
+            </c01>
+
+
+
+        </dsc>
+    </archdesc>
+
+
+</ead>

@@ -1,0 +1,89 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "http://lcweb2.loc.gov/xmlcommon/dtds/ead2002/ead.dtd">
+<ead relatedencoding="MARC21">
+	<eadheader langencoding="iso639-2b" findaidstatus="edited-full-draft" audience="internal" id="a0">
+		<eadid countrycode="us" mainagencycode="KFS" url="http://hdl.handle.net/10407/6518771373" identifier="10407/6518771373">
+			ksrl.kc.wardareminisc</eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper>
+					Guide to the Anna Morgan Ward Collection</titleproper>
+				
+				<subtitle>Reminiscences</subtitle><author> lgg 19 October 1972: REV 3/31/78</author>
+			</titlestmt>
+			<publicationstmt> <publisher> University of Kansas
+</publisher> <address> <addressline> Lawrence, KS  66045</addressline> </address> <date> 2004</date> </publicationstmt>
+		</filedesc>
+		<profiledesc> <creation> mg<date> 2004</date> </creation> <langusage>Finding aid written
+in<language> English.</language> </langusage> </profiledesc>
+	</eadheader>
+	<archdesc level="collection" type="inventory">
+		<did id="a1">
+			<head>COLLECTION SUMMARY</head>
+			<repository label="Repository:" encodinganalog="852$a"> 
+		  <corpname encodinganalog="852$a"> University of Kansas <subarea>Kenneth
+		  Spencer Research Library</subarea><subarea>Kansas Collection</subarea></corpname> 
+		  <address> 
+			 <addressline> 1450 Poplar Lane, Lawrence, KS 66045-7616
+				</addressline> 
+			 <addressline>Phone: (785) 864 - 4334</addressline>
+			 <addressline>Fax: (785) 864-5803</addressline>
+			 <addressline>URL: http://spencer.lib.ku.edu</addressline>
+		  </address> </repository>
+			<origination label="Creator:">
+				<persname>Ward, Anna Morgan</persname>
+			</origination>
+			<unittitle label="Title:" encodinganalog="245">
+				Reminiscences of early Lawrence, St. Joseph, Missouri.</unittitle>
+			<unitdate label="Dates:" encodinganalog="245$f" type="inclusive">
+				1943</unitdate>
+			<physdesc><extent label="Quantity:" encodinganalog="300$a">
+				5 leaves.
+<genreform>Handwritten.</genreform> <physfacet>Signed by the author.
+</physfacet></extent></physdesc>
+			
+			<unitid label="Identification:" encodinganalog="099">
+				RH MS P54</unitid>
+		</did>
+		<bioghist id="a2" encodinganalog="545">
+			<head>BIOGRAPHY  of <emph>Anna Morgan Ward</emph>
+			</head>
+			<p>
+				Anna Morgan Ward was the sister of Jonathan Flanders Morgan (1856-1938?), who at the time of his death was the oldest citizen born in Douglas County. Their father was in the first party of emigrants to come to Kansas.</p>
+		</bioghist>
+		
+		
+		<accessrestrict id="a14" encodinganalog="506"> 
+		<head>RESTRICTIONS on ACCESS</head> 
+		<p> No access restrictions.</p> 
+	 </accessrestrict>
+		<userestrict id="a15" encodinganalog="540"> 
+		<head>RESTRICTIONS on USE</head> 
+		 
+	 <p>  Spencer Library staff may determine  use restrictions
+		  dependent on the physical condition of manuscript materials.</p></userestrict>
+		<controlaccess id="a12">
+			<head>INDEX TERMS:</head>
+			
+			
+			<controlaccess><head>Family Names:</head><famname>Morgan family, Lawrence, Kansas</famname></controlaccess>
+			<controlaccess>
+				<head>Subjects:</head>
+				<subject source="lcsh" encodinganalog="650">
+					Frontier and pioneer life--Kansas--Lawrence.</subject>
+			</controlaccess>
+			
+		</controlaccess>
+		
+		<prefercite id="a18" encodinganalog="524"> <head>PREFERRED
+CITATION</head> <p>  Anna Morgan Ward Collection, Kansas Collection, 
+				RH MS P54, Kenneth Spencer Research Library, University of Kansas</p> </prefercite>
+		<acqinfo id="a19" encodinganalog="541">
+			<head>ACQUISITION INFORMATION</head>
+			<p>
+				Gift, disbound from a pamphlet prepared by Watson Library, dated 1943</p>
+		</acqinfo>
+		
+		<dsc><head>COLLECTION DESCRIPTION</head><p>No Container List.</p></dsc>
+	</archdesc>
+</ead>

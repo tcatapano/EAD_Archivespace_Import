@@ -1,0 +1,2748 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+    <eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" scriptencoding="iso15924" findaidstatus="edited-full-draft">
+        <eadid encodinganalog="identifier" countrycode="US" mainagencycode="US-InU" identifier="VAB6925">VAB6925</eadid>
+
+
+
+
+
+
+        <filedesc>
+            <titlestmt>
+                <titleproper encodinganalog="title">Holsoe County Surveys, <date normal="1981/1994">1981-1994 </date></titleproper>
+                <author encodinganalog="creator">Electronic finding aid encoded by Megan
+                    MacDonald</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher encodinganalog="publisher">Indiana University Digital Library Program </publisher>
+                <date encodinganalog="date" normal="2009" type="publication">2009</date>
+            </publicationstmt>
+
+        </filedesc>
+        <profiledesc>
+            <creation>XML finding aid derived from Microsoft Word. <lb></lb>Finding aid encoded by Megan
+                MacDonald, Liberian Collections Project, Archives of Traditional Music, Indiana
+                University. <date normal="2009">2009.</date></creation>
+            <langusage>Description is in <language encodinganalog="language" langcode="eng">English.
+                </language></langusage>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection" audience="external" type="inventory" relatedencoding="marc21">
+        <did>
+            <head>Summary Information</head>
+            <repository id="lcp" encodinganalog="850" label="Repository">
+                <corpname>Liberian Collections</corpname>
+                <address>
+                   
+                    <addressline>Indiana University</addressline>
+                    <addressline>504 North Fess Avenue</addressline>
+                    <addressline>Bloomington, IN 47408</addressline>
+                    <addressline>Phone: (812) 856-0782</addressline>
+                    <addressline>Email: liberia@indiana.edu </addressline>
+                </address>
+                <lb></lb>
+                <extref xlink:href="http://www.onliberia.org">http://www.onliberia.org</extref>
+            </repository>
+            <origination label="Creator">
+                <persname encodinganalog="100" source="lcnaf" normal="Holsoe, Svend E."> Holsoe,
+                    Svend E.</persname>
+            </origination>
+            <unittitle encodinganalog="245$a" label="Title">Holsoe County Surveys,</unittitle>
+            <unitdate encodinganalog="245$f" normal="1981/1994" type="inclusive">1981-1994</unitdate>
+            <unitid encodinganalog="099" label="Collection No.">LCP1997/001</unitid>
+            <physdesc encodinganalog="300" label="Extent">
+                <extent>4 cubic feet; </extent>
+                <extent>4 records cartons</extent>
+            </physdesc>
+            <langmaterial encodinganalog="546" label="Language">Materials are primarily in <language langcode="eng">English</language>
+            </langmaterial>
+            <abstract encodinganalog="520" label="Abstract">This collection consists of census
+                materials for various counties in Liberia including correspondence, maps, reports,
+                statistics and indexes. Many of the different Chiefdoms and Clans are
+                represented.</abstract>
+        </did>
+        <accessrestrict encodinganalog="506$a">
+            <head>Access Restrictions</head>
+            <p>The collection is open for research.</p>
+        </accessrestrict>
+        <bioghist encodinganalog="545">
+            <head>Biographical Note</head>
+            <p>Over the course of his prolific scholarly career, anthropologist <persname source="lcnaf" normal="Holsoe, Svend E.">Svend Einar Holsoe</persname> has
+                greatly advanced our knowledge and understanding of the history and culture of the
+                peoples of <geogname source="lcsh" normal="Liberia">Liberia</geogname>. During his
+                    youth,<persname source="lcnaf" normal="Holsoe, Svend E."> Holsoeâs</persname>
+                family lived in <geogname source="lcsh" normal="Liberia">Liberia</geogname> for nine
+                years. His interest in a close study of this country and its peoples began during
+                his senior year in high school. Asked to write an essay on his hometown for his
+                senior English course, <persname source="lcnaf" normal="Holsoe, Svend E."> Holsoe
+                </persname> chose <geogname source="lcsh" normal="Monrovia (Liberia)">Monrovia</geogname>, only to discover the dearth of material on the nation and
+                its people. It was at this moment, he says, that he dedicated himself to finding and
+                collecting printed materials on <geogname source="lcsh" normal="Liberia">Liberia</geogname>.</p>
+
+            <p>Unparalleled in his dedication to the preservation of documents and artifacts on
+                    <geogname source="lcsh" normal="Liberia">Liberia</geogname>, in <date normal="1997">1997</date>
+                <persname source="lcnaf" normal="Holsoe, Svend E."> Holsoe </persname> donated his
+                collection of materials to <corpname source="lcnaf" normal="Indiana University">Indiana University</corpname>âs <corpname source="lcnaf" normal="Indiana University, Bloomington. Archives of Traditional Music ">
+                    Archives of Traditional Music</corpname>, <corpname>Liberian Collections
+                    Project</corpname>, <corpname source="lcnaf" normal="William Hammond Mathers Museum (Bloomington, Ind.)">
+                    Mathers Museum</corpname>, and <corpname source="lcnaf" normal="Indiana University, Bloomington. Art Museum                     ">Art
+                    Museum</corpname>. A product of his years of research and relentless materials
+                collection, <title><emph render="bold">The Svend E. Holsoe
+                    Collection</emph></title> is one of the largest and most comprehensive deposits
+                of resources on the West African nation. The Collection includes: copies of Liberian
+                Government Archive Documents between <date normal="1824/1983">1824-1983 </date>;
+                extensive genealogical records, including analyses and family trees developed from
+                these records; political, institutional, social and cultural surveys from the <date normal="1980/1989">1980s </date> Liberia Rural Radio Project; field notes and
+                oral history tapes of Vai and Bandi research; Vai script materials, including
+                research notes, examples and articles; and slides and photos spanning decades and
+                covering many geographical areas and activities. Due to looting and the destruction
+                of <geogname source="lcsh" normal="Liberia">Liberiaâs</geogname> National Archives
+                during the civil war that began in <date normal="1989">1989</date>, the Liberian
+                Government Archives, part of the Holsoe Collection, contains the only extant copies
+                of important historical and cultural documents.</p>
+            <p>During his career, <persname source="lcnaf" normal="Holsoe, Svend E."> Holsoe
+                </persname> published numerous important scholarly contributions on <geogname source="lcsh" normal="Liberia"> Liberia</geogname>. As early as <date normal="1966">1966</date>, <persname source="lcnaf" normal="Holsoe, Svend E.">
+                    Holsoe's </persname> article, <title>âThe Condo Confederation in Western
+                    Liberia,â</title> was published in the <title><emph render="italic">Liberian
+                        Historical Review</emph></title>. Over the next thirty years, <persname source="lcnaf" normal="Holsoe, Svend E."> Holsoe</persname> wrote twenty-seven
+                articles related to <geogname source="lcsh" normal="Liberia"> Liberia</geogname> for
+                numerous publications. <persname source="lcnaf" normal="Holsoe, Svend E.">
+                    Holsoe</persname> and <persname source="lcnaf" normal="Dunn, D. Elwood ">D.
+                    Elwood Dunn</persname> collaborated on the first edition of <title><emph render="italic">The Historical Dictionary of Liberia</emph></title> (<date normal="1984">1984</date>). He followed up this major project as a co-author of
+                        <title><emph render="italic">A Land and Life Remembered: Americo-Liberian
+                        Folk Architecture</emph></title> (<date normal="1988">1988</date>). More
+                recently, he co-edited <title><emph render="italic">African American Exploration in
+                        West Africa </emph></title>(<date normal="2003">2003</date>).</p>
+
+            <p>A co-founder of the <corpname source="lcnaf" normal="Liberian Studies Association">
+                    Liberian Studies Association</corpname>, <persname source="lcnaf" normal="Holsoe, Svend E."> Holsoe</persname> created and edited the <title><emph render="italic">Liberian Studies Journal</emph></title> from <date normal="1968">1968</date> to <date normal="1978">1978</date>, as well as a
+                    <corpname source="lcnaf" normal="Liberian studies monograph series "> Liberian
+                    Studies Monograph Series</corpname>. In <date normal="1999">1999</date>,
+                    <corpname source="lcnaf" normal="Indiana University">Indiana
+                    University</corpname> awarded <persname source="lcnaf" normal="Holsoe, Svend E."> Holsoe</persname> the Chancellorsâ Medallion in honor of his unique
+                contributions to scholarship. In presenting the honor, Chancellor <persname source="lcnaf" normal="Gros Louis, Kenneth R. R., 1936-">Kenneth Gros Louis
+                </persname> said of <persname source="lcnaf" normal="Holsoe, Svend E.">
+                    Holsoe</persname>: âWe know, thanks to his collecting and preserving, thanks to
+                his selfless donation to a public university which will make his work available to
+                all in what we hope will be perpetuity, that <persname source="lcnaf" normal="Holsoe, Svend E."> Svend Holsoe</persname> has done more than his part to ensure
+                that much of what constitutes the country and the cultures of Liberia will remain,
+                and that we, as stewards of his materials, will harvest richly from his efforts.â
+                Indeed, <persname source="lcnaf" normal="Holsoe, Svend E."> Holsoe's</persname>
+                scholarly legacy and invaluable collection will long remain an indispensable source
+                of information and inspiration to future scholars of <geogname source="lcsh" normal="Liberia">Liberia</geogname>.</p>
+
+        </bioghist>
+        <scopecontent encodinganalog="520">
+            <head>Scope and Content</head>
+            <p>7 published handbooks, plus correspondence, maps, rough drafts, fieldnotes. Some
+                government publications, esp. prior census materials (1920s-1970s) in supplementary
+                material. <geogname source="lcsh" normal="Lofa County (Liberia)"> Lofa,
+                    </geogname><geogname source="lcsh" normal="Bong County (Liberia)">Bong,
+                    </geogname><geogname source="lcsh                 " normal="Grand Jide County (Liberia)">Grand Gedeh</geogname>, <geogname source="lcsh" normal="Nimba County (Libeira)"> Nimba </geogname> (rural
+                counties) are best represented. <geogname source="lcsh" normal="Maryland County (Liberia)">Maryland,</geogname><geogname source="lcsh" normal="Sino County (Liberia)"> Sinoe, </geogname> and <geogname source="lcsh" normal="Grand Kru County (Liberia)">Grand Kru </geogname>counties are not yet
+                represented.</p>
+        </scopecontent>
+        <controlaccess>
+            <head>Indexing Terms</head>
+            <p> The following terms have been used to index this collection. </p>
+            <controlaccess>
+                <head>Names</head>
+                <list type="simple">
+                    <item>
+                        <persname encodinganalog="100" source="lcnaf"> Holsoe, Svend E. </persname>
+                    </item>
+                </list>
+            </controlaccess>
+            <controlaccess>
+
+                <head>Places</head>
+                <list type="simple">
+                    <item>
+                        <geogname>Liberia -- History -- 20th Century</geogname>
+                    </item>
+                    <item>
+                        <geogname>Liberia -- Politics and Government -- 20th Century </geogname>
+                    </item>
+
+                    <item>
+                        <geogname>Bomi County (Liberia)</geogname>
+                    </item>
+                    <item>
+                        <geogname>Bong County (Liberia)</geogname>
+                    </item>
+                    <item>
+                        <geogname>Grand Bassa County (Liberia)</geogname>
+                    </item>
+                    <item>
+                        <geogname>Grand Cape Mount County (Liberia)</geogname>
+                    </item>
+                    <item>
+                        <geogname>Grand Jide County (Liberia)</geogname>
+                    </item>
+                    <item>
+                        <geogname>Lofa County (Liberia)</geogname>
+                    </item>
+                    <item>
+                        <geogname>Margibi County (Liberia)</geogname>
+                    </item>
+                    <item>
+                        <geogname>Montserrado County (Liberia)</geogname>
+                    </item>
+                    <item>
+                        <geogname>Nimba County (Liberia)</geogname>
+                    </item>
+                    <item>
+                        <geogname>River Cess County (Liberia)</geogname>
+                    </item>
+                </list>
+            </controlaccess>
+            <controlaccess>
+                <head>Topics</head>
+                <list type="simple">
+                    <item>
+                        <subject>Indigenous Peoples -- Liberia </subject>
+                    </item>
+                </list>
+            </controlaccess>
+
+        </controlaccess>
+        <arrangement encodinganalog="351">
+            <head>Processing Note</head>
+            <p>Arranged October <date normal="2003">2003. </date> Some large maps and computer disks
+                removed. Countries are arranged alphabetically, but <persname source="lcnaf" normal="Holsoe, Svend E.">Holsoe's</persname> original order roughly correlating
+                to geography is maintained within each. Each country has a separate report not yet
+                processed.</p>
+        </arrangement>
+        <descgrp>
+            <head>Administrative Information</head>
+
+            <userestrict encodinganalog="540">
+                <head>User Restrictions</head>
+                <p>All research at the Liberian Collections Project is <emph render="underline"> by
+                        appointment only. </emph>See collection Guidelines for further information
+                    about photocopy requests and permissions for publication:
+                    http://www.onliberia.org/access.htm</p>
+            </userestrict>
+            <prefercite encodinganalog="524">
+                <head>Preferred Citation </head>
+                <p>[item], <title>Holsoe County Survey</title>, <geogname source="lcsh" normal="Bloomington (Ind.) ">Bloomington, IN</geogname>: Liberian
+                    Collections, <corpname source="lcnaf" normal="Indiana University">Indiana
+                        University</corpname> Archives of Traditional Music, <date normal="2009">2009</date></p>
+            </prefercite>
+            <processinfo encodinganalog="583">
+                <head>Processed by</head>
+                <p>
+                    <persname>Megan MacDonald</persname>
+                </p>
+            </processinfo>
+        </descgrp>
+        <dsc type="combined">
+            <c01 id="VAB6925-00001" level="series">
+                <did>
+                    <container label="Box" type="container">1</container>
+                    <unittitle>
+                        <geogname source="lcsh" normal="Bomi County (Liberia)">BOMI
+                            COUNTY</geogname>
+                    </unittitle>
+                </did>
+                <c02 id="VAB6925-00002" level="subseries">
+                    <did>
+                        <container label="Box" type="box">1</container>
+                        <unittitle>General Folders</unittitle>
+                    </did>
+                    <c03 id="VAB6925-00003" level="file">
+                        <did>
+
+                            <unittitle>Maps</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="VAB6925-00004" level="file">
+                        <did>
+
+                            <unittitle>Rough Notes #1</unittitle>
+                        </did>
+                        <c04 id="VAB6925-00005" level="item">
+                            <did>
+                                <unittitle>Exceprts from <persname source="lcnaf" normal="Moore, Bai T., 1916-1988">Bai T. Moore</persname>
+                                    <title>"On the Dewoin People"</title>, n.d.</unittitle>
+                            </did>
+                        </c04>
+                        <c04 id="VAB6925-00006" level="item">
+                            <did>
+                                <unittitle>Names List (bibliography?), n.d.</unittitle>
+                            </did>
+                        </c04>
+                        <c04 id="VAB6925-00007" level="item">
+                            <did>
+                                <unittitle>Central Government Officials, <unitdate normal="19831107"> 7 Nov 1983 </unitdate></unittitle>
+                            </did>
+                        </c04>
+
+
+                    </c03>
+                    <c03 id="VAB6925-00008" level="file">
+                        <did>
+
+                            <unittitle>Rough Notes #2</unittitle>
+                        </did>
+                        <c04 id="VAB6925-00009" level="item">
+                            <did>
+                                <unittitle>History, <unitdate normal="19911017">17 Oct
+                                        1991</unitdate></unittitle>
+                            </did>
+                        </c04>
+                        <c04 id="VAB6925-00010" level="item">
+                            <did>
+                                <unittitle>Bomi Territory Administrators, <unitdate normal="1974">
+                                        1974 </unitdate></unittitle>
+                            </did>
+                        </c04>
+
+
+                    </c03>
+
+
+
+
+                </c02>
+                <c02 id="VAB6925-00011" level="subseries">
+                    <did>
+                        <container label="Box" type="box">1</container>
+                        <unittitle>Bopolu-Suehn District Folders</unittitle>
+                    </did>
+                    <c03 id="VAB6925-00012" level="file">
+                        <did>
+
+                            <unittitle>Dei Cheifdom</unittitle>
+                        </did>
+                        <c04 id="VAB6925-00013" level="item">
+                            <did>
+                                <unittitle>Bulugba Clan</unittitle>
+                            </did>
+                        </c04>
+                        <c04 id="VAB6925-00014" level="item">
+                            <did>
+                                <unittitle>Deigbo Clan</unittitle>
+                            </did>
+                        </c04>
+                        <c04 id="VAB6925-00015" level="item">
+                            <did>
+                                <unittitle>Gbaavon Clan</unittitle>
+                            </did>
+                        </c04>
+                        <c04 id="VAB6925-00016" level="item">
+                            <did>
+                                <unittitle>Zo Clan</unittitle>
+                            </did>
+                        </c04>
+
+
+
+
+                    </c03>
+                    <c03 id="VAB6925-00017" level="file">
+                        <did>
+
+                            <unittitle>Lofa-Gola Chiefdom</unittitle>
+                        </did>
+                        <c04 id="VAB6925-00018" level="item">
+                            <did>
+                                <unittitle>Boje Clan</unittitle>
+                            </did>
+                        </c04>
+                        <c04 id="VAB6925-00019" level="item">
+                            <did>
+                                <unittitle>Gbor Clan</unittitle>
+                            </did>
+                        </c04>
+                        <c04 id="VAB6925-00020" level="item">
+                            <did>
+                                <unittitle>Gobla Clan</unittitle>
+                            </did>
+                        </c04>
+                        <c04 id="VAB6925-00021" level="item">
+                            <did>
+                                <unittitle>Kpo Clan</unittitle>
+                            </did>
+                        </c04>
+                        <c04 id="VAB6925-00022" level="item">
+                            <did>
+                                <unittitle>Mana Clan</unittitle>
+                            </did>
+                        </c04>
+                        <c04 id="VAB6925-00023" level="item">
+                            <did>
+                                <unittitle>Senje Clan</unittitle>
+                            </did>
+                        </c04>
+                        <c04 id="VAB6925-00024" level="item">
+                            <did>
+                                <unittitle>Teh Clan</unittitle>
+                            </did>
+                        </c04>
+
+
+
+
+
+
+
+
+                    </c03>
+
+
+                </c02>
+                <c02 id="VAB6925-00025" level="subseries">
+                    <did>
+                        <container label="Box" type="box">1</container>
+                        <unittitle>Mecca District Folder:</unittitle>
+                    </did>
+                    <c03 id="VAB6925-00026" level="file">
+                        <did>
+
+                            <unittitle>Mecca Chiefdom</unittitle>
+                        </did>
+                        <c04 id="VAB6925-00027" level="item">
+                            <did>
+                                <unittitle>Uppa Mecca</unittitle>
+                            </did>
+                        </c04>
+                        <c04 id="VAB6925-00028" level="item">
+                            <did>
+                                <unittitle>Lower Mecca</unittitle>
+                            </did>
+                        </c04>
+
+
+                    </c03>
+                    <c03 id="VAB6925-00029" level="file">
+                        <did>
+
+                            <unittitle>St. Paul District Notes</unittitle>
+                        </did>
+                    </c03>
+
+
+                </c02>
+
+
+
+            </c01>
+            <c01 id="VAB6925-00030" level="series">
+                <did>
+                    <container label="Box" type="box">1</container>
+                    <unittitle>
+                        <geogname source="lcsh" normal="Bong County (Liberia)"> BONG COUNTY
+                        </geogname>
+                    </unittitle>
+                </did>
+                <c02 id="VAB6925-00031" level="subseries">
+                    <did>
+                        <container label="Box" type="box">1</container>
+                        <unittitle>General Folders</unittitle>
+                    </did>
+                    <c03 id="VAB6925-00032" level="file">
+                        <did>
+
+                            <unittitle>Maps</unittitle>
+                        </did>
+                        <c04 id="VAB6925-00033" level="item">
+                            <did>
+                                <unittitle>Commerical topographical map, <unitdate normal="1968">
+                                        1968 </unitdate></unittitle>
+                            </did>
+                        </c04>
+                        <c04 id="VAB6925-00034" level="item">
+                            <did>
+                                <unittitle>County map showing districts, <unitdate normal="1986">1986</unitdate></unittitle>
+                            </did>
+                        </c04>
+                        <c04 id="VAB6925-00035" level="item">
+                            <did>
+                                <unittitle>Photocopies of topographical map</unittitle>
+                            </did>
+                        </c04>
+
+
+
+
+                    </c03>
+                    <c03 id="VAB6925-00036" level="file">
+                        <did>
+
+                            <unittitle>Notes 1# </unittitle>
+                        </did>
+                        <c04 id="VAB6925-00037" level="item">
+                            <did>
+                                <unittitle>Paramount Chiefs, <unitdate normal="1915/1960" type="inclusive">1915-1960s</unitdate></unittitle>
+                            </did>
+                        </c04>
+                        <c04 id="VAB6925-00038" level="item">
+                            <did>
+                                <unittitle>Excerpt from Daily Log, <unitdate normal="19840203/19540205" type="inclusive"> 3 Feb 1984-5
+                                        Feb 1984 </unitdate></unittitle>
+                            </did>
+                        </c04>
+
+
+                    </c03>
+                    <c03 id="VAB6925-00039" level="file">
+                        <did>
+                            <unittitle>Notes #2</unittitle>
+                        </did>
+                        <c04 id="VAB6925-00040" level="item">
+                            <did>
+                                <unittitle>Language Maps of <geogname source="lcsh" normal="Liberia"> Liberia </geogname>and <geogname source="lcsh" normal="Gbarnga (Liberia)">Gbanga </geogname>Station,
+                                    n.d.</unittitle>
+                            </did>
+                        </c04>
+                        <c04 id="VAB6925-00041" level="item">
+                            <did>
+                                <unittitle>Population Statistics from Census, <unitdate normal="1978">1978</unitdate></unittitle>
+                            </did>
+                        </c04>
+                        <c04 id="VAB6925-00042" level="item">
+                            <did>
+                                <unittitle>Maps of Kpelle Chiefdoms, <unitdate normal="1978/1979" type="inclusive">1978-1979</unitdate></unittitle>
+                            </did>
+                        </c04>
+                        <c04 id="VAB6925-00043" level="item">
+                            <did>
+                                <unittitle>Distances between <geogname source="lcsh" normal="Gbarnga (Liberia)">Gbanga</geogname> and Palela,
+                                        <unitdate normal="19860112"> 12 Jan 1986
+                                    </unitdate></unittitle>
+                            </did>
+                        </c04>
+                        <c04 id="VAB6925-00044" level="item">
+                            <did>
+                                <unittitle>Structural Diagrams of County Government, <unitdate normal="19830703">3 Jul 1983</unitdate></unittitle>
+                            </did>
+                        </c04>
+                        <c04 id="VAB6925-00045" level="item">
+                            <did>
+                                <unittitle>Photography of Published Photo: <title>"The Paramount
+                                        Chief at Gbanga with his Favorite Son"</title>,
+                                    n.d.</unittitle>
+                            </did>
+                        </c04>
+                        <c04 id="VAB6925-00046" level="item">
+                            <did>
+                                <unittitle>Table: <title>"Distribution of Localities by Major
+                                        Languages" </title>, n.d.</unittitle>
+                            </did>
+                        </c04>
+                        <c04 id="VAB6925-00047" level="item">
+                            <did>
+                                <unittitle>Handbook Draft: <title>"IV. Current Institutional
+                                        Activities" </title>, <unitdate normal="19831221">21 Dec
+                                        1983</unitdate>, <unitdate normal="19840112">12 Jan
+                                        1984</unitdate></unittitle>
+                            </did>
+                        </c04>
+
+                        <c04 id="VAB6925-00048" level="item">
+                            <did>
+                                <unittitle>Distances Between <geogname source="lcsh" normal="Gbarnga (Liberia)">Gbanga</geogname>  Various,
+                                    n.d.</unittitle>
+                            </did>
+                        </c04>
+
+
+
+
+
+                    </c03>
+                    <c03 id="VAB6925-00049" level="file">
+                        <did>
+
+                            <unittitle>Notes #3: "Kpelle Central Province"</unittitle>
+                        </did>
+                        <c04 id="VAB6925-00050" level="item">
+                            <did>
+                                <unittitle>Superintendents, <unitdate normal="1964/1983" type="inclusive">1964-1983</unitdate></unittitle>
+                            </did>
+                        </c04>
+                        <c04 id="VAB6925-00051" level="item">
+                            <did>
+                                <unittitle>District Divisions, <unitdate normal="1932">1932</unitdate></unittitle>
+                            </did>
+                        </c04>
+                        <c04 id="VAB6925-00052" level="item">
+                            <did>
+                                <unittitle>Sections for  Against Government, <unitdate normal="1917" type="inclusive">1917</unitdate></unittitle>
+                            </did>
+                        </c04>
+                        <c04 id="VAB6925-00053" level="item">
+                            <did>
+                                <unittitle>Schools in Zone 6 </unittitle>
+                            </did>
+                        </c04>
+                        <c04 id="VAB6925-00054" level="item">
+                            <did>
+                                <unittitle>Names  propositions from Daily Observer  Bong
+                                    Crier, <unitdate normal="1982/1983" type="inclusive">1982-1983</unitdate></unittitle>
+                            </did>
+                        </c04>
+                        <c04 id="VAB6925-00055" level="item">
+                            <did>
+                                <unittitle>Census Photocopies, <unitdate normal="1974">1974</unitdate></unittitle>
+                            </did>
+                        </c04>
+                        <c04 id="VAB6925-00056" level="item">
+                            <did>
+                                <unittitle>Handbook Draft: <title>"IV. Current Institutional
+                                        Activities"</title>, <unitdate normal="19830602">2 June
+                                        1983</unitdate></unittitle>
+                            </did>
+                        </c04>
+                        <c04 id="VAB6925-00057" level="item">
+                            <did>
+                                <unittitle><title>"People's Magisterial Court"</title>  other
+                                    notes on Couty System, n.d.</unittitle>
+                            </did>
+                        </c04>
+                        <c04 id="VAB6925-00058" level="item">
+                            <did>
+                                <unittitle><title>"Number of Health Workers by Professional
+                                        Categories"</title>, <unitdate normal="19830627">27 June
+                                        1983</unitdate></unittitle>
+                            </did>
+
+                        </c04>
+                        <c04 id="VAB6925-00059" level="item">
+                            <did>
+                                <unittitle>Rubber Corporation, n.d.</unittitle>
+                            </did>
+                        </c04>
+                        <c04 id="VAB6925-00060" level="item">
+                            <did>
+                                <unittitle>County Officials, <unitdate normal="19830627">27 June
+                                        1983</unitdate></unittitle>
+                            </did>
+                        </c04>
+                        <c04 id="VAB6925-00061" level="item">
+                            <did>
+                                <unittitle>Wells, n.d.</unittitle>
+                            </did>
+                        </c04>
+
+
+
+
+
+
+
+
+
+
+
+
+                    </c03>
+                    <c03 id="VAB6925-00062" level="file">
+                        <did>
+
+                            <unittitle>Notes #4</unittitle>
+                        </did>
+                        <c04 id="VAB6925-00063" level="item">
+                            <did>
+                                <unittitle>Fieldnotes, n.d.</unittitle>
+                            </did>
+                        </c04>
+                        <c04 id="VAB6925-00064" level="item">
+                            <did>
+                                <unittitle>Trip Report, <unitdate normal="19840227">27 Feb
+                                        1984</unitdate></unittitle>
+                            </did>
+                        </c04>
+                        <c04 id="VAB6925-00065" level="item">
+                            <did>
+                                <unittitle>Handbook Work Plan, <unitdate normal="1982/1983" type="inclusive">Aug 1982-June 1983</unitdate></unittitle>
+                            </did>
+                        </c04>
+                        <c04 id="VAB6925-00066" level="item">
+                            <did>
+                                <unittitle>Notes on Handbook Design, <unitdate normal="1984">1984</unitdate></unittitle>
+                            </did>
+                        </c04>
+
+
+
+                    </c03>
+                    <c03 id="VAB6925-00067" level="item">
+                        <did>
+
+                            <unittitle>Bibliography, <unitdate normal="1984">1984</unitdate></unittitle>
+                        </did>
+                    </c03>
+
+
+
+                </c02>
+                <c02 id="VAB6925-00068" level="subseries">
+                    <did>
+                        <container label="Box" type="box">1</container>
+                        <unittitle>Jorkwele District Folders</unittitle>
+                    </did>
+                    <c03 id="VAB6925-00069" level="file">
+                        <did>
+
+                            <unittitle>Jorkwele Chiefdom, <unitdate normal="1984">1984</unitdate></unittitle>
+                        </did>
+                        <c04 id="VAB6925-00070" level="otherlevel">
+                            <did>
+                                <unittitle>Maps Photocopies</unittitle>
+                            </did>
+                        </c04>
+                        <c04 id="VAB6925-00071" level="item">
+
+                            <did>
+                                <unittitle>Census</unittitle>
+                            </did>
+                        </c04>
+                        <c04 id="VAB6925-00072" level="item">
+                            <did>
+                                <unittitle>Handbook excerpt: <title>"Historical
+                                    Information</title></unittitle>
+                            </did>
+                        </c04>
+
+
+
+                    </c03>
+                    <c03 id="VAB6925-00073" level="file">
+                        <did>
+                            <unittitle>Jorkwele Chiefdom/Behekwele Clan, <unitdate normal="1983">1983</unitdate></unittitle>
+                        </did>
+                        <c04 id="VAB6925-00074" level="otherlevel">
+                            <did>
+                                <unittitle>Maps photocopies</unittitle>
+                            </did>
+                        </c04>
+                        <c04 id="VAB6925-00075" level="otherlevel">
+                            <did>
+                                <unittitle>Survey responses</unittitle>
+                            </did>
+                        </c04>
+
+
+                    </c03>
+                    <c03 id="VAB6925-00076" level="file">
+                        <did>
+
+                            <unittitle> Jorkwele Chiefdom/Gbanshe Clan, <unitdate normal="1983">1983</unitdate></unittitle>
+                        </did>
+                        <c04 id="VAB6925-00077" level="otherlevel">
+                            <did>
+                                <unittitle>Maps photocopies</unittitle>
+                            </did>
+                        </c04>
+                        <c04 id="VAB6925-00078" level="otherlevel">
+                            <did>
+                                <unittitle>Survey responses</unittitle>
+                            </did>
+                        </c04>
+
+
+                    </c03>
+                    <c03 id="VAB6925-00079" level="file">
+                        <did>
+
+                            <unittitle> Jorkwele Chiefdom/Jorkpolu Clan, <unitdate normal="1984">1984</unitdate></unittitle>
+                        </did>
+                        <c04 id="VAB6925-00080" level="otherlevel">
+                            <did>
+                                <unittitle>Maps photocopies</unittitle>
+                            </did>
+                        </c04>
+                        <c04 id="VAB6925-00081" level="otherlevel">
+                            <did>
+                                <unittitle>Survey responses</unittitle>
+                            </did>
+                        </c04>
+
+
+                    </c03>
+                    <c03 id="VAB6925-00082" level="file">
+                        <did>
+
+                            <unittitle>Jorkwele Chiefdom/Behekwele Clan, <unitdate normal="1984">1984</unitdate></unittitle>
+                        </did>
+                        <c04 id="VAB6925-00083" level="otherlevel">
+                            <did>
+                                <unittitle>Maps photocopies</unittitle>
+                            </did>
+                        </c04>
+                        <c04 id="VAB6925-00084" level="otherlevel">
+                            <did>
+                                <unittitle>Survey responses</unittitle>
+                            </did>
+                        </c04>
+
+
+                    </c03>
+                    <c03 id="VAB6925-00085" level="file">
+                        <did>
+
+                            <unittitle> Jorkwele Chiefdom/Sheansu Clan, <unitdate normal="1983">1983</unitdate></unittitle>
+                        </did>
+                        <c04 id="VAB6925-00086" level="otherlevel">
+                            <did>
+                                <unittitle>Maps photocopies</unittitle>
+                            </did>
+                        </c04>
+                        <c04 id="VAB6925-00087" level="otherlevel">
+                            <did>
+                                <unittitle>Survey responses</unittitle>
+                            </did>
+                        </c04>
+
+
+                    </c03>
+
+                </c02>
+                <c02 id="VAB6925-00088" level="subseries">
+                    <did>
+                        <container label="Box" type="box">1</container>
+                        <unittitle>Kokoya District Folders</unittitle>
+                    </did>
+                    <c03 id="VAB6925-00089" level="file">
+                        <did>
+
+                            <unittitle>Kokoya Chiefdom</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="VAB6925-00090" level="file">
+                        <did>
+
+                            <unittitle>Kokoya Chiefdom/Bonwein Clan</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="VAB6925-00091" level="file">
+                        <did>
+
+                            <unittitle>Kokoya Chiefdom/Kokoya Clan</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="VAB6925-00092" level="file">
+                        <did>
+
+                            <unittitle>Kokoya Chiefdom/Senwein</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="VAB6925-00093" level="file">
+                        <did>
+
+                            <unittitle>Kokoya Chiefdom/Tukpabli</unittitle>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="VAB6925-00094" level="subseries">
+                    <did>
+                        <container label="Box" type="box">1</container>
+                        <unittitle>Panta-Kpai District Folders</unittitle>
+                    </did>
+                    <c03 id="VAB6925-00095" level="file">
+                        <did>
+
+                            <unittitle>General</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="VAB6925-00096" level="file">
+                        <did>
+
+                            <unittitle>Panta Chiefdom</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="VAB6925-00097" level="file">
+                        <did>
+
+                            <unittitle>Panta Chiefdom/Panta Clan</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="VAB6925-00098" level="file">
+                        <did>
+
+                            <unittitle>Panta Chiefdom/Wuna Clan</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="VAB6925-00099" level="file">
+                        <did>
+
+                            <unittitle>Kpai Chiefdom</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="VAB6925-00100" level="file">
+                        <did>
+
+                            <unittitle>Kpai Chiefdom/Wetua Clan</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="VAB6925-00101" level="file">
+                        <did>
+                            <unittitle>Kpai Chiefdom/Wolata Clan</unittitle>
+                        </did>
+                    </c03>
+
+                </c02>
+                <c02 id="VAB6925-00102" level="subseries">
+                    <did>
+                        <container label="Box" type="box">1</container>
+                        <unittitle>Salala District Folders</unittitle>
+                    </did>
+                    <c03 id="VAB6925-00103" level="file">
+                        <did>
+
+                            <unittitle> Nyaforkwele Chiefdom </unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="VAB6925-00104" level="file">
+                        <did>
+
+                            <unittitle> Nyaforkwele Chiefdom/Kornorye Clan </unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="VAB6925-00105" level="file">
+                        <did>
+
+                            <unittitle> Nyaforkwele Chiefdom/Kuwrongwoala Clan </unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="VAB6925-00106" level="file">
+                        <did>
+
+                            <unittitle> Nyaforkwele Chiefdom/Kpatoli Clan </unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="VAB6925-00107" level="file">
+                        <did>
+
+                            <unittitle> Nyaforkwele Chiefdom/Nyaforkwele Clan </unittitle>
+                        </did>
+                    </c03>
+
+                </c02>
+                <c02 id="VAB6925-00108" level="subseries">
+                    <did>
+                        <container label="Box" type="box">1</container>
+                        <unittitle>Suakoko District Folders</unittitle>
+                    </did>
+                    <c03 id="VAB6925-00109" level="file">
+                        <did>
+
+                            <unittitle> Suakoko Chiefdom </unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="VAB6925-00110" level="file">
+                        <did>
+
+                            <unittitle> Suakoko Chiefdom/Gaiye Clan </unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="VAB6925-00111" level="file">
+                        <did>
+
+                            <unittitle> Suakoko Chiefdom/Kpatawee Clan </unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="VAB6925-00112" level="file">
+                        <did>
+                            <unittitle> Suakoko Chiefdom/Kporyorkwele Clan </unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="VAB6925-00113" level="file">
+                        <did>
+
+                            <unittitle> Suakoko Chiefdom/Suakoko Clan </unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="VAB6925-00114" level="file">
+                        <did>
+                            <unittitle> Suakoko Chiefdom/Tongboyah Clan </unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="VAB6925-00115" level="file">
+                        <did>
+
+                            <unittitle> Suakoko Chiefdom/Yandewein Clan </unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="VAB6925-00116" level="file">
+                        <did>
+
+                            <unittitle> Suakoko Chiefdom/Zeansu Clan </unittitle>
+                        </did>
+                    </c03>
+                </c02>
+
+
+
+
+
+
+            </c01>
+            <c01 id="VAB6925-00117" level="series">
+                <did>
+                    <container label="Box" type="box">1</container>
+                    <unittitle>
+                        <geogname source="lcsh" normal="Grand Bassa County (Liberia)">GRAND BASSA
+                            COUNTY</geogname>
+                    </unittitle>
+                </did>
+                <c02 id="VAB6925-00118" level="subseries">
+                    <did>
+                        <container label="Box" type="box">1</container>
+                        <unittitle>General Folders</unittitle>
+                    </did>
+                    <c03 id="VAB6925-00119" level="file">
+                        <did>
+                            <unittitle>Maps</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="VAB6925-00120" level="file">
+                        <did>
+
+                            <unittitle>Rough Notes #1 </unittitle>
+                            <abstract> Exceprts from Liberian News (Sept 1924); Bill's Notes
+                                "Concerning New Cess" (n.d.); 1962 County Census Publication (1962) </abstract>
+
+                        </did>
+
+                    </c03>
+                    <c03 id="VAB6925-00121" level="file">
+                        <did>
+
+                            <unittitle>Rough Notes #2</unittitle>
+                        </did>
+                        <c04 id="VAB6925-00122" level="item">
+                            <did>
+                                <unittitle>Draft, <unitdate normal="19911105">5 Nov
+                                    1991</unitdate></unittitle>
+                            </did>
+                        </c04>
+
+                    </c03>
+
+                </c02>
+                <c02 id="VAB6925-00123" level="subseries">
+                    <did>
+                        <container label="Box" type="box">1</container>
+                        <unittitle>District #1 Folders</unittitle>
+                    </did>
+                    <c03 id="VAB6925-00124" level="file">
+                        <did>
+
+                            <unittitle>Rough Notes</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="VAB6925-00125" level="file">
+                        <did>
+
+                            <unittitle>1A Cheifdom (Joya)</unittitle>
+                            <abstract>Doe-Doe Wein Clan; Soniwein Clan; Wehnsohn Clan</abstract>
+
+                        </did>
+                    </c03>
+                    <c03 id="VAB6925-00126" level="file">
+                        <did>
+                            <unittitle>1B Chiefdom (Tenor)</unittitle>
+                            <abstract>Nyonwein Clan; Mehwein Clan; Sewein Clan</abstract>
+                        </did>
+                    </c03>
+
+                </c02>
+                <c02 id="VAB6925-00127" level="subseries">
+                    <did>
+                        <container label="Box" type="box">1</container>
+                        <unittitle>District #2 Folders</unittitle>
+                    </did>
+                    <c03 id="VAB6925-00128" level="file">
+                        <did>
+
+                            <unittitle>Notes</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="VAB6925-00129" level="file">
+                        <did>
+
+                            <unittitle>2A Cheifdom (Glarkon)</unittitle>
+                            <abstract>Goingbe Clan; Hoegban Clan; Kabli Clan; Marbli Clan; Marloe
+                                Clan; Peter Harris Clan; Varmbo Clan</abstract>
+                        </did>
+                    </c03>
+                    <c03 id="VAB6925-00130" level="file">
+                        <did>
+                            <unittitle>2B Cheifdom (Camwood)</unittitle>
+                            <abstract>Boe-Glayn Clan; Chan #1 Clan; Chan #2 Clan; Gbor Clan'
+                                Gogowein Clan</abstract>
+                        </did>
+                    </c03>
+
+                </c02>
+                <c02 id="VAB6925-00131" level="subseries">
+                    <did>
+                        <container label="Box" type="box">1</container>
+                        <unittitle>District #3 (Gbezohn) Folders</unittitle>
+                    </did>
+                    <c03 id="VAB6925-00132" level="file">
+                        <did>
+
+                            <unittitle>Notes</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="VAB6925-00133" level="file">
+                        <did>
+                            <unittitle>3A Cheifdom (Gbezohn) </unittitle>
+                            <abstract>Dorzohn-Goryah Clan; Gorbli Clan; Neekreen Clan; Zeewein
+                                Clan</abstract>
+                        </did>
+                    </c03>
+                    <c03 id="VAB6925-00134" level="file">
+                        <did>
+
+                            <unittitle>3B Chiefdom (Gbewen)</unittitle>
+                            <abstract>Gbarwein Clan; Gbaryah Clan; Seeyah Clan; When-Gba-Kon Clan;
+                                Wrogba Clan</abstract>
+                        </did>
+                    </c03>
+                    <c03 id="VAB6925-00135" level="file">
+                        <did>
+
+                            <unittitle>Municipality of <geogname source="lcsh" normal="Buchanan (Liberia)">Buchanan</geogname></unittitle>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="VAB6925-00136" level="subseries">
+                    <did>
+                        <container label="Box" type="box">1</container>
+                        <unittitle>District #4 (Timbo) Folders</unittitle>
+                    </did>
+                    <c03 id="VAB6925-00137" level="file">
+                        <did>
+
+                            <unittitle>Notes</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="VAB6925-00138" level="file">
+                        <did>
+
+                            <unittitle>4 Chiefdom</unittitle>
+                            <abstract>Doe Gbahn Clan; Gianda Clan; Grand Kola Clan; Neepu Clan; New
+                                Cess Clan; Trade Town Clan</abstract>
+                        </did>
+                    </c03>
+                    <c03 id="VAB6925-00139" level="file">
+                        <did>
+
+                            <unittitle>Gbeta Kru Chiefdom</unittitle>
+                        </did>
+                    </c03>
+
+                </c02>
+
+
+            </c01>
+            <c01 id="VAB6925-00140" level="series">
+                <did>
+                    <container label="Box" type="box">2</container>
+                    <unittitle>
+                        <geogname source="lcsh" normal="Grand Cape Mount County">GRAND CAPE MOUNT
+                            COUNTY</geogname>
+                    </unittitle>
+                </did>
+                <c02 id="VAB6925-00141" level="subseries">
+                    <did>
+                        <container label="Box" type="box">2</container>
+                        <unittitle>General Folders</unittitle>
+                    </did>
+                    <c03 id="VAB6925-00142" level="file">
+                        <did>
+
+                            <unittitle>Maps:</unittitle>
+                            <abstract> Tourist map  travel guide (1965); Commercial
+                                topographical map (1968); Photocopies of topographical maps
+                                (n.d.)</abstract>
+                        </did>
+
+
+
+                    </c03>
+                    <c03 id="VAB6925-00143" level="file">
+                        <did>
+
+                            <unittitle>Notes #1</unittitle>
+                            <abstract> Acts passed by legislature (1932)</abstract>
+                        </did>
+                    </c03>
+                    <c03 id="VAB6925-00144" level="file">
+                        <did>
+
+                            <unittitle>Report Draft, <unitdate normal="19911107">7 Nov
+                                    1991</unitdate>
+                            </unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="VAB6925-00145" level="file">
+                        <did>
+                            <unittitle>Locality Index, <unitdate normal="19911107">7 Nov
+                                    1991</unitdate></unittitle>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="VAB6925-00146" level="file">
+                    <did>
+                        <container label="Box" type="box">2</container>
+                        <unittitle>District Folders</unittitle>
+                    </did>
+                    <c03 id="VAB6925-00147" level="file">
+                        <did>
+                            <unittitle>Report Draft: Gawula-Kone District, <unitdate normal="19911107">7 Nov 1991</unitdate></unittitle>
+                        </did>
+                        <c04 id="VAB6925-00148" level="item">
+                            <did>
+                                <unittitle>Gawula Chiefdom/Kiadil Clan</unittitle>
+                            </did>
+                        </c04>
+                        <c04 id="VAB6925-00149" level="item">
+                            <did>
+                                <unittitle>Gawula Chiefdom/Kiahon Clan</unittitle>
+                            </did>
+                        </c04>
+                        <c04 id="VAB6925-00150" level="item">
+                            <did>
+                                <unittitle>Gawula Chiefdom/Kiazolo Clan</unittitle>
+                            </did>
+                        </c04>
+                        <c04 id="VAB6925-00151" level="item">
+                            <did>
+                                <unittitle>Gawula Chiefdom/Manobala Clan</unittitle>
+                            </did>
+                        </c04>
+                        <c04 id="VAB6925-00152" level="item">
+                            <did>
+                                <unittitle>Gawula Chiefdom/Zorgbor Clan</unittitle>
+                            </did>
+                        </c04>
+                        <c04 id="VAB6925-00153" level="item">
+                            <did>
+                                <unittitle>Tombe Chiefdom/Fusaa Clan</unittitle>
+                            </did>
+                        </c04>
+                        <c04 id="VAB6925-00154" level="item">
+                            <did>
+                                <unittitle>Tombe Chiefdom/Kiakpongbor Clan</unittitle>
+                            </did>
+                        </c04>
+                        <c04 id="VAB6925-00155" level="item">
+                            <did>
+                                <unittitle>Tombe Chiefdom/Kiatamba Clan</unittitle>
+                            </did>
+                        </c04>
+                        <c04 id="VAB6925-00156" level="item">
+                            <did>
+                                <unittitle>Tombe Chiefdom/Seiwana Clan</unittitle>
+                            </did>
+                        </c04>
+                        <c04 id="VAB6925-00157" level="item">
+                            <did>
+                                <unittitle>Tombe Chiefdom/Sombai Clan</unittitle>
+                            </did>
+                        </c04>
+                        <c04 id="VAB6925-00158" level="item">
+                            <did>
+                                <unittitle>Tombe Chiefdom/Sombai Badalo Clan</unittitle>
+                            </did>
+                        </c04>
+                        <c04 id="VAB6925-00159" level="item">
+                            <did>
+                                <unittitle>Gola-Kone Chiefdom/Dablo Clan</unittitle>
+                            </did>
+                        </c04>
+                        <c04 id="VAB6925-00160" level="item">
+                            <did>
+                                <unittitle>Gola-Kone Chiefdom/La Clan</unittitle>
+                            </did>
+                        </c04>
+                        <c04 id="VAB6925-00161" level="item">
+                            <did>
+                                <unittitle>Gola-Kone Chiefdom/Mana Clan</unittitle>
+                            </did>
+                        </c04>
+                        <c04 id="VAB6925-00162" level="item">
+                            <did>
+                                <unittitle>Gola-Kone Chiefdom/Gion Clan</unittitle>
+                            </did>
+                        </c04>
+                        <c04 id="VAB6925-00163" level="item">
+                            <did>
+                                <unittitle>Gola-Kone Chiefdom/Kiazolo Clan</unittitle>
+                            </did>
+                        </c04>
+                        <c04 id="VAB6925-00164" level="item">
+                            <did>
+                                <unittitle>Gola-Kone Chiefdom/Zolu Duma Clan</unittitle>
+                            </did>
+                        </c04>
+
+                    </c03>
+                    <c03 id="VAB6925-00165" level="file">
+                        <did>
+
+                            <unittitle>Report Draft: Tewo District , <unitdate normal="19911107">7
+                                    Nov 1991</unitdate></unittitle>
+                        </did>
+                        <c04 id="VAB6925-00166" level="file">
+                            <did>
+                                <unittitle>Kpokpa Chiefdom/Dagole Clan</unittitle>
+                            </did>
+                        </c04>
+                        <c04 id="VAB6925-00167" level="file">
+                            <did>
+                                <unittitle>Kpokpa Chiefdom/Dazambo Clan</unittitle>
+                            </did>
+                        </c04>
+                        <c04 id="VAB6925-00168" level="file">
+                            <did>
+                                <unittitle>Kpokpa Chiefdom/Kposo Clan</unittitle>
+                            </did>
+                        </c04>
+                        <c04 id="VAB6925-00169" level="file">
+                            <did>
+                                <unittitle>Kpokpa Chiefdom/Semavule Clan</unittitle>
+                            </did>
+                        </c04>
+                        <c04 id="VAB6925-00170" level="file">
+                            <did>
+                                <unittitle>Kpokpa Chiefdom/Sokpo Clan</unittitle>
+                            </did>
+                        </c04>
+                        <c04 id="VAB6925-00171" level="file">
+                            <did>
+                                <unittitle>Kpokpa Chiefdom/Kposo Clan</unittitle>
+                            </did>
+                        </c04>
+                        <c04 id="VAB6925-00172" level="file">
+                            <did>
+                                <unittitle>Tewo Chiefdom/Dagoh Clan</unittitle>
+                            </did>
+                        </c04>
+                        <c04 id="VAB6925-00173" level="file">
+                            <did>
+                                <unittitle>Tewo Chiefdom/Dasen Clan</unittitle>
+                            </did>
+                        </c04>
+                        <c04 id="VAB6925-00174" level="file">
+                            <did>
+                                <unittitle>Tewo Chiefdom/Fahnbulleh Clan</unittitle>
+                            </did>
+                        </c04>
+                        <c04 id="VAB6925-00175" level="file">
+                            <did>
+                                <unittitle>Tewo Chiefdom/Getawe Clan</unittitle>
+                            </did>
+                        </c04>
+                        <c04 id="VAB6925-00176" level="file">
+                            <did>
+                                <unittitle>Tewo Chiefdom/Golafali Clan</unittitle>
+                            </did>
+                        </c04>
+                        <c04 id="VAB6925-00177" level="file">
+                            <did>
+                                <unittitle>Tewo Chiefdom/Jaleiba Clan</unittitle>
+                            </did>
+                        </c04>
+                        <c04 id="VAB6925-00178" level="file">
+                            <did>
+                                <unittitle>Tewo Chiefdom/Kiawu Clan</unittitle>
+                            </did>
+                        </c04>
+                        <c04 id="VAB6925-00179" level="file">
+                            <did>
+                                <unittitle>Tewo Chiefdom/Kiatamba Clan</unittitle>
+                            </did>
+                        </c04>
+                        <c04 id="VAB6925-00180" level="file">
+                            <did>
+                                <unittitle>Tewo Chiefdom/Kroma Clan</unittitle>
+                            </did>
+                        </c04>
+                        <c04 id="VAB6925-00181" level="file">
+                            <did>
+                                <unittitle>Tewo Chiefdom/Mendemassa Clan</unittitle>
+                            </did>
+                        </c04>
+                        <c04 id="VAB6925-00182" level="file">
+                            <did>
+                                <unittitle>Tewo Chiefdom/Paaseve Clan</unittitle>
+                            </did>
+                        </c04>
+                        <c04 id="VAB6925-00183" level="file">
+                            <did>
+                                <unittitle>Tewo Chiefdom/Sambola Clan</unittitle>
+                            </did>
+                        </c04>
+
+                    </c03>
+
+
+
+                </c02>
+
+            </c01>
+            <c01 id="VAB6925-00184" level="series">
+                <did>
+                    <container label="Box" type="box">2</container>
+                    <unittitle>
+                        <geogname source="lcsh" normal="Grand Jide County (Liberia)">GRAND GEDEH
+                            COUNTY</geogname>
+                    </unittitle>
+                </did>
+                <c02 id="VAB6925-00185" level="subseries">
+                    <did>
+                        <container label="Box" type="box">2</container>
+                        <unittitle>General Folders</unittitle>
+                    </did>
+                    <c03 id="VAB6925-00387" level="file">
+                        <did><unittitle>Bibliographies, <unitdate normal="1984" type="inclusive">1984,
+                        </unitdate>undated</unittitle></did>
+                    </c03>
+                    <c03 id="VAB6925-00186" level="file">
+                        <did>
+
+                            <unittitle>Rough Notes</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="VAB6925-00388" level="file">
+                        <did><unittitle>Sociocultural Report, <unitdate normal="1984/1985" type="inclusive">
+                            1984-1985
+                        </unitdate>, undated</unittitle></did>
+                    </c03>
+                    
+                </c02>
+                <c02 id="VAB6925-00187" level="subseries">
+                    <did>
+                        <container label="Box" type="box">2</container>
+                        <unittitle>Gbason District Folders</unittitle>
+                    </did>
+                    <c03 id="VAB6925-00188" level="file">
+                        <did>
+
+                            <unittitle>Rough Notes</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="VAB6925-00189" level="file">
+                        <did>
+
+                            <unittitle>Biai Chiefdom</unittitle>
+                        </did>
+                        <c04 id="VAB6925-00190" level="item">
+                            <did>
+                                <unittitle>Report Draft, <unitdate normal="1985">Oct
+                                    1985</unitdate></unittitle>
+                            </did>
+                        </c04>
+                    </c03>
+                    <c03 id="VAB6925-00191" level="file">
+                        <did>
+
+                            <unittitle>Gbason Chiefdom</unittitle>
+                        </did>
+                        <c04 id="VAB6925-00192" level="item">
+                            <did>
+                                <unittitle>Report Draft, <unitdate normal="1985">Oct
+                                    1985</unitdate></unittitle>
+                            </did>
+                        </c04>
+
+                    </c03>
+                    <c03 id="VAB6925-00193" level="file">
+                        <did>
+
+                            <unittitle>Gbason Chiefdom</unittitle>
+                            <abstract>Map tracings</abstract>
+                        </did>
+                    </c03>
+                    <c03 id="VAB6925-00194" level="file">
+                        <did>
+
+                            <unittitle>Bibliography</unittitle>
+                        </did>
+                    </c03>
+
+
+
+                </c02>
+                <c02 id="VAB6925-00195" level="subseries">
+                    <did>
+                        <container label="Box" type="box">2</container>
+                        <unittitle>Tchien Distict Folders</unittitle>
+                    </did>
+                    <c03 id="VAB6925-00196" level="file">
+                        <did>
+
+                            <unittitle>Tchien Chiefdom</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="VAB6925-00197" level="file">
+                        <did>
+
+                            <unittitle>Tchien Chiefdom/Gborgo-Niabo Clan</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="VAB6925-00198" level="file">
+                        <did>
+                            <unittitle>Tchien Cheifdom/Menyon-Kaira Clan</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="VAB6925-00199" level="file">
+                        <did>
+
+                            <unittitle>Tchien Chiefdom/Menzon-Gboro Clan</unittitle>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="VAB6925-00200" level="subseries">
+                    <did>
+                        <container label="Box" type="box">2</container>
+                        <unittitle>Konobo District Folders</unittitle>
+                    </did>
+                    <c03 id="VAB6925-00201" level="file">
+                        <did>
+
+                            <unittitle>Rough Notes</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="VAB6925-00202" level="file">
+                        <did>
+
+                            <unittitle>Konobo Chiefdom</unittitle>
+                            <abstract>Gbilibo-Gbalu Clan; Glio-Twabo Clan</abstract>
+                        </did>
+                    </c03>
+                    <c03 id="VAB6925-00203" level="file">
+                        <did>
+                            <unittitle>Putu Chiefdom</unittitle>
+                            <abstract>Gbaegbo Clan; Jibehgo Clan</abstract>
+                        </did>
+
+                    </c03>
+
+                </c02>
+                <c02 id="VAB6925-00204" level="subseries">
+                    <did>
+                        <container label="Box" type="box">2</container>
+                        <unittitle>Gbepo District Folders</unittitle>
+                    </did>
+                    <c03 id="VAB6925-00205" level="file">
+                        <did>
+
+                            <unittitle>Notes and Draft, <unitdate normal="19861219">19 Dec
+                                    1986</unitdate></unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="VAB6925-00206" level="file">
+                        <did>
+
+                            <unittitle>Maps and Tracings</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="VAB6925-00207" level="file">
+                        <did>
+
+                            <unittitle>Chedepo Chiefdom</unittitle>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="VAB6925-00208" level="subseries">
+                    <did>
+                        <container label="Box" type="box">2</container>
+                        <unittitle>Webo District Folders</unittitle>
+                    </did>
+                    <c03 id="VAB6925-00209" level="file">
+                        <did>
+
+                            <unittitle>Rough Notes</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="VAB6925-00210" level="file">
+                        <did>
+
+                            <unittitle>Map Tracings</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="VAB6925-00211" level="file">
+                        <did>
+
+                            <unittitle>Survey Results, <unitdate normal="1984">Feb
+                                1984</unitdate></unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="VAB6925-00212" level="file">
+                        <did>
+
+                            <unittitle>Sabo Cheifdom</unittitle>
+                            <abstract>Sabo-Palipo Clan; Kitiebo-Glaro Clan</abstract>
+                        </did>
+                    </c03>
+                    <c03 id="VAB6925-00213" level="file">
+                        <did>
+
+                            <unittitle>Webo Cheifdom</unittitle>
+                            <abstract>Tuobo Clan; Webo Clan</abstract>
+                        </did>
+                    </c03>
+                    <c03 id="VAB6925-00214" level="file">
+                        <did>
+
+                            <unittitle>Bound Report, <unitdate normal="1986">1986</unitdate></unittitle>
+                        </did>
+                    </c03>
+                </c02>
+
+<c02 id="VAB6925-00389" level="subseries">
+    <did><unittitle>Sahlipia-Ma District</unittitle></did>
+    <c03 id="VAB6925-00390" level="file">
+        <did><unittitle>Report, <unitdate normal="1986" type="inclusive">1986</unitdate></unittitle></did>
+    </c03>
+</c02>
+                
+
+            </c01>
+            <c01 id="VAB6925-00215" level="series">
+                <did>
+                    <container label="Box" type="box">2</container>
+                    <unittitle>
+                        <geogname source="lcsh" normal="Lofa County (Liberia)">LOFA
+                            COUNTY</geogname>
+                    </unittitle>
+                </did>
+                <c02 id="VAB6925-00216" level="subseries">
+                    <did>
+                        <container label="Box" type="box">2</container>
+                        <unittitle>General Folders</unittitle>
+                    </did>
+                    <c03 id="VAB6925-00217" level="file">
+                        <did>
+                            <unittitle>Maps</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="VAB6925-00218" level="file">
+                        <did>
+
+                            <unittitle>Rough Notes #1</unittitle>
+                        </did>
+                        <c04 id="VAB6925-00219" level="item">
+                            <did>
+                                <unittitle>Roads, <unitdate normal="1986">Jan
+                                    1986</unitdate></unittitle>
+                            </did>
+                        </c04>
+                        <c04 id="VAB6925-00220" level="item">
+                            <did>
+                                <unittitle>Handbook Draft: <title>"Bondi Chiefdom"</title>,
+                                    n.d.</unittitle>
+                            </did>
+                        </c04>
+                        <c04 id="VAB6925-00221" level="item">
+                            <did>
+                                <unittitle>County Government Structure, <unitdate normal="19851118">18 Nov 1985</unitdate></unittitle>
+                            </did>
+                        </c04>
+                        <c04 id="VAB6925-00222" level="item">
+                            <did>
+                                <unittitle>Handbook Draft: <title>"A Socioogical History"</title>,
+                                        <unitdate normal="19850518">18 May
+                                    1985</unitdate></unittitle>
+                            </did>
+                        </c04>
+                        <c04 id="VAB6925-00223" level="item">
+                            <did>
+                                <unittitle>Kwandi-Bomi Towns List, n.d.</unittitle>
+                            </did>
+                        </c04>
+                        <c04 id="VAB6925-00224" level="item">
+                            <did>
+                                <unittitle>Topographical Maps of Voinjama District, n.d.</unittitle>
+                            </did>
+                        </c04>
+                        <c04 id="VAB6925-00225" level="item">
+                            <did>
+                                <unittitle>Bunde-Wubomai Chiefdom, <unitdate normal="1985">1985</unitdate></unittitle>
+                            </did>
+                        </c04>
+                        <c04 id="VAB6925-00226" level="item">
+                            <did>
+                                <unittitle>Map distance scales (photocopy), n.d.</unittitle>
+                            </did>
+                        </c04>
+                        <c04 id="VAB6925-00227" level="item">
+                            <did>
+                                <unittitle>Lofa County Profile -- health, literacy, n.d.</unittitle>
+                            </did>
+                        </c04>
+
+
+
+
+
+
+
+
+                    </c03>
+                    <c03 id="VAB6925-00228" level="file">
+                        <did>
+                            <unittitle>Notes</unittitle>
+                        </did>
+                        <c04 id="VAB6925-00229" level="item">
+                            <did>
+                                <unittitle>Hembe, n.d.</unittitle>
+                            </did>
+                        </c04>
+                        <c04 id="VAB6925-00230" level="item">
+                            <did>
+                                <unittitle>Holy Cross Mission, n.d.</unittitle>
+                            </did>
+                        </c04>
+                        <c04 id="VAB6925-00231" level="item">
+                            <did>
+                                <unittitle>Handbook Draft: <title>"Tengia Clan"</title>,
+                                    n.d.</unittitle>
+                            </did>
+                        </c04>
+                        <c04 id="VAB6925-00232" level="item">
+                            <did>
+                                <unittitle>Handbook Draft: <title>Mamdee Dukuly Section"</title>,
+                                    n.d.</unittitle>
+                            </did>
+                        </c04>
+
+
+
+
+                    </c03>
+                    <c03 id="VAB6925-00233" level="file">
+                        <did>
+
+                            <unittitle>Notes #3:</unittitle>
+                            <abstract>Paramount Chiefs in Voinjama District</abstract>
+                        </did>
+                    </c03>
+                    <c03 id="VAB6925-00234" level="file">
+                        <did>
+                            <unittitle>Notes #4</unittitle>
+                        </did>
+                        <c04 id="VAB6925-00235" level="item">
+                            <did>
+                                <unittitle><geogname source="lcsh" normal="Lofa County (Liberia)">Lofa County</geogname> clan list, <unitdate normal="1974">1974</unitdate></unittitle>
+                            </did>
+                        </c04>
+                        <c04 id="VAB6925-00236" level="item">
+                            <did>
+                                <unittitle><title>"Distribution of Localities by Major
+                                        Language"</title>, <unitdate normal="1981">1981</unitdate></unittitle>
+                            </did>
+                        </c04>
+                        <c04 id="VAB6925-00237" level="item">
+                            <did>
+                                <unittitle>Education, <unitdate normal="1977">1977</unitdate></unittitle>
+                            </did>
+                        </c04>
+
+
+                    </c03>
+                    <c03 id="VAB6925-00238" level="file">
+                        <did>
+
+                            <unittitle>Notes #5</unittitle>
+                            <abstract>Outline of Liberia with major cities; Project Correspondence
+                                (23 Feb-23 Apr, 1985); Government Structural Diagram
+                                (n.d.)</abstract>
+                        </did>
+                    </c03>
+                    <c03 id="VAB6925-00239" level="file">
+                        <did>
+
+                            <unittitle>"Incomplete Preliminary Draft", <unitdate normal="19850609">9
+                                    June 1985</unitdate></unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="VAB6925-00240" level="item">
+                        <did>
+
+                            <unittitle>Bibliography, <unitdate normal="19811228">28 Dec
+                                    1981</unitdate></unittitle>
+                        </did>
+                    </c03>
+                </c02>
+
+                <c02 id="VAB6925-00241" level="subseries">
+                    <did>
+                        <container label="Box" type="box">2</container>
+                        <unittitle>Bopolu District Folders</unittitle>
+                    </did>
+                    <c03 id="VAB6925-00242" level="file">
+                        <did>
+
+                            <unittitle>Rough Notes</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="VAB6925-00243" level="file">
+                        <did>
+                            <unittitle>Bopolu Chiefdom</unittitle>
+                            <abstract>Bunde-Mandingo Clan; Gonbeya Clan; Tawola-Wonnoa
+                                Clan</abstract>
+                        </did>
+
+                    </c03>
+                    <c03 id="VAB6925-00244" level="file">
+                        <did>
+
+                            <unittitle>Bokomu Clan</unittitle>
+                            <abstract>Bokumu Clan; Goua Clan</abstract>
+                        </did>
+                    </c03>
+                    <c03 id="VAB6925-00245" level="file">
+                        <did>
+
+                            <unittitle>Belle Chiefdom</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="VAB6925-00246" level="item">
+                        <did>
+
+                            <unittitle>Belle Chiefdom - "Materials for a History of Western
+                                    <geogname source="lcsh" normal="Liberia">Liberia</geogname>: The
+                                Belle", <unitdate normal="1971" type="inclusive">1971</unitdate></unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="VAB6925-00247" level="item">
+                        <did>
+                            <unittitle>Belle Chiefdom - "The Traditions, History, and Folklore of
+                                the Belle Tribe", <unitdate normal="1969" type="inclusive">1969</unitdate></unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="VAB6925-00248" level="file">
+                        <did>
+
+                            <unittitle>Belle Chiefdom/Batti Clan</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="VAB6925-00249" level="file">
+                        <did>
+
+                            <unittitle>Belle Chiefdom/Lobaizu Clan</unittitle>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="VAB6925-00250" level="subseries">
+                    <did>
+                        <container label="Box" type="box">2</container>
+                        <unittitle>Gbama District Folders</unittitle>
+                    </did>
+                    <c03 id="VAB6925-00251" level="file">
+                        <did>
+
+                            <unittitle>Rough Notes</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="VAB6925-00252" level="file">
+                        <did>
+
+                            <unittitle>Goje Chiefdom</unittitle>
+                            <abstract>Gbama Clan; Yangaya Clan</abstract>
+                        </did>
+                    </c03>
+                    <c03 id="VAB6925-00253" level="file">
+                        <did>
+                            <unittitle>Kongba Chiefdom</unittitle>
+                            <abstract>Jawajei Clan; Zui Clan</abstract>
+                        </did>
+                    </c03>
+
+
+
+                </c02>
+                <c02 id="VAB6925-00254" level="subseries">
+                    <did>
+                        <container label="Box" type="box">2</container>
+                        <unittitle>Guma District Folders</unittitle>
+                    </did>
+                    <c03 id="VAB6925-00255" level="file">
+                        <did>
+
+                            <unittitle>Guma Chiefdom/Mende Clan</unittitle>
+                        </did>
+                    </c03>
+
+                </c02>
+                <c02 id="VAB6925-00256" level="subseries">
+                    <did>
+                        <container label="Box" type="box">2</container>
+                        <unittitle>Kolahun District Folders</unittitle>
+                    </did>
+                    <c03 id="VAB6925-00257" level="file">
+                        <did>
+
+                            <unittitle>Survey Results, <unitdate normal="1984" type="inclusive">Apr
+                                    1984</unitdate></unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="VAB6925-00258" level="file">
+                        <did>
+
+                            <unittitle>Bandi Chiefdom</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="VAB6925-00259" level="file">
+                        <did>
+                            <unittitle>Bandi Chiefdom/Hasala Clan</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="VAB6925-00260" level="file">
+                        <did>
+
+                            <unittitle>Bandi Chiefdom/Hembe Clan</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="VAB6925-00261" level="file">
+                        <did>
+
+                            <unittitle>Bandi Chiefdom/Lucasu Clan</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="VAB6925-00262" level="file">
+                        <did>
+
+                            <unittitle>Bandi Chiefdom/Tahamba Clan</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="VAB6925-00263" level="file">
+                        <did>
+
+                            <unittitle>Bandi Chiefdom/Wanwuma Clan</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="VAB6925-00264" level="file">
+                        <did>
+
+                            <unittitle>Bandi Chiefdom/Wulukoha Clan</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="VAB6925-00265" level="file">
+                        <did>
+
+                            <unittitle>Kissi Chiefdom/Tengia Clan - Reort Draft, <unitdate normal="1992" type="inclusive">1992</unitdate></unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="VAB6925-00266" level="file">
+                        <did>
+
+                            <unittitle>Kissi Chiefdom/Tengia Clan - Reort Draft, <unitdate normal="1986" type="inclusive">1986</unitdate></unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="VAB6925-00267" level="file">
+                        <did>
+                            <unittitle>Kissi Chiefdom/Waum Clan</unittitle>
+                        </did>
+                    </c03>
+
+                </c02>
+                <c02 id="VAB6925-00268" level="subseries">
+                    <did>
+                        <container label="Box" type="box">2</container>
+                        <unittitle>Voinjama District Folders</unittitle>
+                    </did>
+                    <c03 id="VAB6925-00269" level="file">
+                        <did>
+
+                            <unittitle>Maps</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="VAB6925-00270" level="file">
+                        <did>
+
+                            <unittitle>Rough Notes - Handbook Draft: <title>"A Social Institutional
+                                    Survey"</title>, <unitdate normal="1993" type="inclusive">1993</unitdate></unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="VAB6925-00271" level="file">
+                        <did>
+
+                            <unittitle>Survey Results, <unitdate normal="1984" type="inclusive">Apr
+                                    1984</unitdate></unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="VAB6925-00272" level="file">
+                        <did>
+
+                            <unittitle>Bunde-Wubomai Cheifdom</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="VAB6925-00273" level="file">
+                        <did>
+
+                            <unittitle>Bunde-Wubomai Cheifdom/Bunde Clan</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="VAB6925-00274" level="file">
+                        <did>
+
+                            <unittitle>Bunde-Wubomai Cheifdom/Lower Workor Clan</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="VAB6925-00275" level="file">
+                        <did>
+                            <unittitle>Bunde-Wubomai Cheifdom/Upper Workor Clan</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="VAB6925-00276" level="file">
+                        <did>
+
+                            <unittitle>Kwandu-Bomi Chiefdom/Kwandu-Bomi Clan</unittitle>
+                        </did>
+                    </c03>
+
+
+                </c02>
+
+                <c02 id="VAB6925-00277" level="subseries">
+                    <did>
+                        <container label="Box" type="box">3</container>
+                        <unittitle>Zorzor District Folders</unittitle>
+                    </did>
+                    <c03 id="VAB6925-00278" level="file">
+                        <did>
+
+                            <unittitle>Survey Results, <unitdate normal="1984" type="inclusive"> Apr
+                                    1984 </unitdate></unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="VAB6925-00279" level="file">
+                        <did>
+
+                            <unittitle>Kpelle Chiefdom - Report Draft, <unitdate normal="1987" type="inclusive">1987</unitdate></unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="VAB6925-00280" level="file">
+                        <did>
+
+                            <unittitle>Kpelle Chiefdom - Report Draft, <unitdate normal="1986" type="inclusive"> May 1986 </unitdate></unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="VAB6925-00281" level="file">
+                        <did>
+                            <unittitle>Kpelle Chiefdom/Gbalein Clan</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="VAB6925-00282" level="file">
+                        <did>
+
+                            <unittitle>Kpelle Chiefdom/Palama Clan</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="VAB6925-00283" level="file">
+                        <did>
+
+                            <unittitle>Kpelle Chiefdom/Vavala Clan</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="VAB6925-00284" level="file">
+                        <did>
+
+                            <unittitle>Loma Chiefdom - Report Draft, <unitdate normal="1993" type="inclusive">1993</unitdate></unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="VAB6925-00285" level="file">
+                        <did>
+
+                            <unittitle>Loma Chiefdom/Bluyema Clan</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="VAB6925-00286" level="file">
+                        <did>
+
+                            <unittitle>Loma Chiefdom/Bluyema Clan</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="VAB6925-00287" level="file">
+                        <did>
+
+                            <unittitle>Loma Chiefdom/Gissima Clan</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="VAB6925-00288" level="file">
+                        <did>
+
+                            <unittitle>Loma Chiefdom/Ziehma Clan</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="VAB6925-00289" level="file">
+                        <did>
+                            <unittitle>Bound Report: Kolahun District, <unitdate normal="1986" type="inclusive">1986</unitdate></unittitle>
+                        </did>
+                    </c03>
+
+                    <c03 id="VAB6925-00290" level="file">
+                        <did>
+                            <unittitle>Bound Report: Voinjama  Zorzor Districts, <unitdate normal="1986" type="inclusive">1986</unitdate></unittitle>
+                        </did>
+                    </c03>
+
+
+
+
+                </c02>
+
+
+
+
+
+
+
+
+
+
+
+
+
+            </c01>
+            <c01 id="VAB6925-00291" level="series">
+                <did>
+                    <container label="Box" type="box">3</container>
+                    <unittitle>
+                        <geogname source="lcsh" normal="Margibi County (Liberia)">MARGIBI
+                            COUNTY</geogname>
+                    </unittitle>
+                </did>
+                <c02 id="VAB6925-00292" level="subseries">
+                    <did>
+                        <container label="Box" type="box">3</container>
+                        <unittitle>General Folders</unittitle>
+                    </did>
+                    <c03 id="VAB6925-00293" level="file">
+                        <did>
+                            <unittitle>Maps</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="VAB6925-00294" level="file">
+                        <did>
+                            <unittitle>Rough Notes</unittitle>
+                            <abstract>Excerpts from <title>"Missionary Exploration of Liberia"
+                                </title>(1871); administration  maps (n.d)</abstract>
+                        </did>
+                    </c03>
+
+
+                </c02>
+                <c02 id="VAB6925-00295" level="subseries">
+                    <did>
+                        <container label="Box" type="box">3</container>
+                        <unittitle>Mamban-Kaba District Folders</unittitle>
+                    </did>
+                    <c03 id="VAB6925-00296" level="file">
+                        <did>
+                            <unittitle>Notes on Marshall Territory</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="VAB6925-00297" level="file">
+                        <did>
+                            <unittitle>Kaba Chiefdom</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="VAB6925-00298" level="file">
+                        <did>
+                            <unittitle>Mamban Chiefdom</unittitle>
+                        </did>
+                    </c03>
+
+
+
+                </c02>
+                <c02 id="VAB6925-00299" level="subseries">
+                    <did>
+                        <container label="Box" type="box">3</container>
+                        <unittitle>Other Districts:</unittitle>
+                    </did>
+                    <c03 id="VAB6925-00300" level="file">
+                        <did>
+                            <unittitle>
+                                <geogname>Marshall City</geogname>
+                            </unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="VAB6925-00301" level="file">
+                        <did>
+                            <unittitle>Blarkon</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="VAB6925-00302" level="file">
+                        <did>
+                            <unittitle>Tobi</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="VAB6925-00303" level="file">
+                        <did>
+                            <unittitle>
+                                <geogname source="lcsh" normal="Kakata (Liberia)">Kakata</geogname>
+                            </unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="VAB6925-00304" level="file">
+                        <did>
+                            <unittitle>
+                                <corpname source="lcnaf" normal="Firestone Plantations Company">Firestone Plantation</corpname>
+                            </unittitle>
+                        </did>
+                    </c03>
+
+                </c02>
+
+
+
+
+
+
+
+
+
+            </c01>
+            <c01 id="VAB6925-00305" level="series">
+                <did>
+                    <container label="Box" type="box">3</container>
+                    <unittitle>
+                        <geogname source="lcsh" normal="Montserrado County (Liberia)">MONTSERRADO
+                            COUNTY</geogname>
+                    </unittitle>
+                </did>
+                <c02 id="VAB6925-00306" level="file">
+                    <did>
+
+                        <unittitle>General Folder: Rough Notes</unittitle>
+                    </did>
+                </c02>
+                <c02 id="VAB6925-00307" level="file">
+                    <did>
+
+                        <unittitle><geogname source="lcsh" normal="Monrovia (Liberia)">Monrovia</geogname> Folder: <geogname source="lcsh" normal="Monrovia (Liberia)">Monrovia</geogname>
+                            Environs</unittitle>
+                    </did>
+                </c02>
+                <c02 id="VAB6925-00308" level="file">
+                    <did>
+
+                        <unittitle><geogname source="lcsh" normal="Careysburg (Liberia)">Careysburg</geogname>District</unittitle>
+                    </did>
+                </c02>
+
+
+
+            </c01>
+
+            <c01 id="VAB6925-00309" level="series">
+                <did>
+                    <container label="Box" type="box">3</container>
+                    <unittitle>
+                        <geogname source="lcsh" normal="Nimba County (Liberia)">NIMBA
+                            COUNTY</geogname>
+                    </unittitle>
+                </did>
+                <c02 id="VAB6925-00310" level="subseries">
+                    <did>
+                        <container label="Box" type="box">3</container>
+                        <unittitle>General Folders</unittitle>
+                    </did>
+                    <c03 id="VAB6925-00311" level="file">
+                        <did>
+                            <unittitle>Commercial Maps, <unitdate normal="1968" type="inclusive">1968</unitdate></unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="VAB6925-00312" level="file">
+                        <did>
+                            <unittitle>Rough Notes #1</unittitle>
+                            <abstract>Political Structure; Excerpts from <title>"Uberliefurungen aus
+                                    Nordestliberia" </title> (Traditions from Northern East Liberia)
+                                (1939)</abstract>
+                        </did>
+                    </c03>
+                    <c03 id="VAB6925-00313" level="file">
+                        <did>
+                            <unittitle>Published Maps</unittitle>
+                            <abstract><title>"Carte schematique des courants migratoires"</title>
+                                (1948); <title>"Die Dan"</title>, n.d.; <title> "Mano  Gio
+                                    Clans and Chiefdoms", n.d.; Excerpts from field notebook
+                                    (distances to Saklipia to Tapita), n.d. </title></abstract>
+                        </did>
+                    </c03>
+                    <c03 id="VAB6925-00314" level="file">
+                        <did>
+                            <unittitle>Rough Notes #2</unittitle>
+                            <abstract>Letters and Envelopes to County Commissioners, 3 Feb 1986;
+                                Distances in Saklipia, n.d.; Photocopy of St. Jerome's Field Trip
+                                Notebook, Apr-May 1984; Photocopy of Lorette's Field Trip Notebook,
+                                Apr-May 1984</abstract>
+                        </did>
+                    </c03>
+                    <c03 id="VAB6925-00315" level="file">
+                        <did>
+                            <unittitle>Report Draft Table of Contents, <unitdate normal="19870606" type="inclusive">6 June 1987</unitdate></unittitle>
+                        </did>
+                    </c03>
+
+                    <c03 id="VAB6925-00316" level="file">
+                        <did>
+                            <unittitle>Bibliography, <unitdate normal="19940306">6 Mar
+                                    1994</unitdate></unittitle>
+                        </did>
+                    </c03>
+                </c02>
+
+                <c02 id="VAB6925-00317" level="subseries">
+                    <did>
+                        <container label="Box" type="box">3</container>
+                        <unittitle>Saklipia District Folders</unittitle>
+                    </did>
+                    <c03 id="VAB6925-00318" level="file">
+                        <did>
+                            <unittitle>Saklipia-Ma Chiefdom/Report Draft, <unitdate normal="19860504">4 May 1986</unitdate></unittitle>
+                            <abstract>Gbana Clan; Gbei Clan; Lisonoh Clan; Loo Clan; Wei Clan; Zaan
+                                Clan</abstract>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="VAB6925-00319" level="subseries">
+                    <did>
+                        <container label="Box" type="box">3</container>
+                        <unittitle>Sanikwelle District Folders</unittitle>
+                    </did>
+                    <c03 id="VAB6925-00320" level="file">
+                        <did>
+                            <unittitle>Sanikwelle-Ma Chiefdom/Report Draft, <unitdate normal="19830503">3 May 1986</unitdate>
+                            </unittitle>
+                            <abstract>Bein Clan; Bua Clan; Gaa Clan; Gbehng Clan; Sei Clan; Yaamein
+                                Clan</abstract>
+                        </did>
+                    </c03>
+                    <c03 id="VAB6925-00321" level="file">
+                        <did>
+                            <unittitle>Sanikwelle-Ma Chiefdom/Rough Notes</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="VAB6925-00322" level="file">
+                        <did>
+                            <unittitle>Yarpea-Ma Chiefdom/Report Draft, <unitdate normal="19940309">p Mar 1994</unitdate>
+                            </unittitle>
+                            <abstract>Duo Clan; Gbein Clan; Kpaiyee Clan</abstract>
+                        </did>
+                    </c03>
+
+                </c02>
+                <c02 id="VAB6925-00323" level="subseries">
+                    <did>
+                        <container label="Box" type="box">3</container>
+                        <unittitle>Boo-Kehlei District Folders</unittitle>
+                    </did>
+                    <c03 id="VAB6925-00324" level="file">
+                        <did>
+                            <unittitle>Boo-Kehlei Chiefdom</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="VAB6925-00325" level="file">
+                        <did>
+                            <unittitle>Boo-Kehlei Chiefdom/Report Draft, <unitdate normal="19900619">19 June 1990</unitdate>
+                            </unittitle>
+                            <abstract>Boo Clan; Kehlei Clan; Yurpea Clan</abstract>
+                        </did>
+                    </c03>
+
+                </c02>
+                <c02 id="VAB6925-00326" level="subseries">
+                    <did>
+                        <container label="Box" type="box">3</container>
+                        <unittitle>Kanple District Folders</unittitle>
+                    </did>
+                    <c03 id="VAB6925-00327" level="file">
+                        <did>
+                            <unittitle>Gbehlei-Geh Chiefdom</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="VAB6925-00328" level="file">
+                        <did>
+                            <unittitle>Gbehlei-Geh Chiefdom/Gbehlei Clan</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="VAB6925-00329" level="file">
+                        <did>
+                            <unittitle>Gbehlei-Geh Chiefdom/Gborple Clan</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="VAB6925-00330" level="file">
+                        <did>
+                            <unittitle>Gbehlei-Geh Chiefdom/Sorlei Clan</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="VAB6925-00331" level="file">
+                        <did>
+                            <unittitle>Gbehlei-Geh Chiefdom/Srohlei Clan</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="VAB6925-00332" level="file">
+                        <did>
+                            <unittitle>Gbehlei-Geh Chiefdom/Zor Clan</unittitle>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="VAB6925-00333" level="subseries">
+                    <did>
+                        <container label="Box" type="box">3</container>
+                        <unittitle>Kpabli District Folders</unittitle>
+                    </did>
+                    <c03 id="VAB6925-00334" level="file">
+                        <did>
+                            <unittitle>Kpabli Chiefdom</unittitle>
+                            <abstract>Dyorworwli Clan; Kpabli Clan</abstract>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="VAB6925-00335" level="subseries">
+                    <did>
+                        <container label="Box" type="box">3</container>
+                        <unittitle>Tapita District Folders</unittitle>
+                    </did>
+                    <c03 id="VAB6925-00336" level="file">
+                        <did>
+                            <unittitle>Amalgamated Gio Chiefdom</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="VAB6925-00337" level="file">
+                        <did>
+                            <unittitle>Amalgamated Gio Chiefdom/Report Draft, <unitdate normal="19900619" type="inclusive">19 June
+                                1990</unitdate></unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="VAB6925-00338" level="file">
+                        <did>
+                            <unittitle>Amalgamated Gio Chiefdom/Doo Clan</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="VAB6925-00339" level="file">
+                        <did>
+                            <unittitle>Amalgamated Gio Chiefdom/Gbea Clan</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="VAB6925-00340" level="file">
+                        <did>
+                            <unittitle>Amalgamated Gio Chiefdom/Gblor Clan</unittitle>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="VAB6925-00341" level="subseries">
+                    <did>
+                        <container label="Box" type="box">3</container>
+                        <unittitle>Yawein-Mehnsonoh Distric Folders</unittitle>
+                    </did>
+                    <c03 id="VAB6925-00342" level="file">
+                        <did>
+                            <unittitle>Yawein-Mehnsonoh Chiefdom</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="VAB6925-00343" level="file">
+                        <did>
+                            <unittitle>Yawein-Mehnsonoh Chiefdom/Report Draft, <unitdate normal="19900120" type="inclusive">Jan 20
+                                1990</unitdate></unittitle>
+                            <abstract>Mesonoh Clan; Yawein Clan; Zehnla Clan</abstract>
+                        </did>
+                    </c03>
+
+
+                </c02>
+                <c02 id="VAB6925-00344" level="subseries">
+                    <did>
+                        <container label="Box" type="box">3</container>
+                        <unittitle>Zo-Geh District Folders</unittitle>
+                    </did>
+                    <c03 id="VAB6925-00345" level="file">
+                        <did>
+                            <unittitle>Zo-Geh Chiefdom</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="VAB6925-00346" level="file">
+                        <did>
+                            <unittitle>Zo-Geh Chiefdom/Butulu Clan</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="VAB6925-00347" level="file">
+                        <did>
+                            <unittitle>Zo-Geh Chiefdom/Gbao Clan</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="VAB6925-00348" level="file">
+                        <did>
+                            <unittitle>Zo-Geh Chiefdom/Yalei Clan</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="VAB6925-00349" level="file">
+                        <did>
+                            <unittitle>Zo-Geh Chiefdom/Zo Clan</unittitle>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="VAB6925-00350" level="subseries">
+                    <did>
+                        <container label="Box" type="box">3</container>
+                        <unittitle>Gbi-Doru District Folders</unittitle>
+                    </did>
+                    <c03 id="VAB6925-00351" level="file">
+                        <did>
+                            <unittitle>Gbi-Doru Chiefom</unittitle>
+                            <abstract>Doru Clan; Gbi Clan</abstract>
+                        </did>
+                    </c03>
+                    <c03 id="VAB6925-00352" level="file">
+                        <did>
+                            <unittitle>Bound Report #1: Saklipia  Sanikwelle Districts,
+                                    <unitdate normal="1987" type="inclusive">1987</unitdate></unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="VAB6925-00353" level="file">
+                        <did>
+                            <unittitle>Bound Report #2: Saklipia  Sanikwelle Districts (copy),
+                                    <unitdate normal="1987" type="inclusive">1987</unitdate></unittitle>
+                        </did>
+                    </c03>
+                </c02>
+
+
+
+
+
+
+            </c01>
+
+            <c01 id="VAB6925-00354" level="series">
+                <did>
+                    <container label="Box" type="box">3</container>
+                    <unittitle>
+                        <geogname>RIVER CESS COUNTY</geogname>
+                    </unittitle>
+                </did>
+                <c02 id="VAB6925-00355" level="subseries">
+                    <did>
+                        <container label="Box" type="box">3</container>
+                        <unittitle>General Folders</unittitle>
+                    </did>
+                    <c03 id="VAB6925-00356" level="file">
+                        <did>
+
+                            <unittitle>Maps</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="VAB6925-00357" level="file">
+                        <did>
+
+                            <unittitle>Notes</unittitle>
+                        </did>
+                        <c04 id="VAB6925-00358" level="item">
+                            <did>
+                                <unittitle>Population Census of River Cess Territory <unitdate normal="1962">1962</unitdate></unittitle>
+                            </did>
+                        </c04>
+
+                    </c03>
+
+                </c02>
+                <c02 id="VAB6925-00359" level="subseries">
+                    <did>
+                        <container label="Box" type="box">3</container>
+                        <unittitle>River Cess (Timbo) District Folders</unittitle>
+                    </did>
+                    <c03 id="VAB6925-00360" level="file">
+                        <did>
+
+                            <unittitle>Notes</unittitle>
+                        </did>
+                        <c04 id="VAB6925-00361" level="item">
+                            <did>
+                                <unittitle>River Cess District Established (retyped) <unitdate normal="1923">1923</unitdate></unittitle>
+                            </did>
+                        </c04>
+
+                    </c03>
+                    <c03 id="VAB6925-00362" level="file">
+                        <did>
+
+                            <unittitle>5A Chiefdom</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="VAB6925-00363" level="file">
+                        <did>
+                            <unittitle>5C Chiefdom</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="VAB6925-00364" level="file">
+                        <did>
+
+                            <unittitle>Gbeta Kru Chiefdom</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="VAB6925-00365" level="file">
+                        <did>
+                            <unittitle>Rock Cess Interior</unittitle>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="VAB6925-00366" level="subseries">
+                    <did>
+                        <container label="Box" type="box">3</container>
+                        <unittitle>Moweh District Folder:</unittitle>
+                    </did>
+                    <c03 id="VAB6925-00367" level="file">
+                        <did>
+
+                            <unittitle>5B Chiefdom</unittitle>
+                        </did>
+                    </c03>
+                </c02>
+
+
+            </c01>
+            <c01 id="VAB6925-00368" level="series">
+                <did>
+                    <container label="Box" type="box">4</container>
+                    <unittitle>SUPPLEMENTAL MATERIAL</unittitle>
+                </did>
+                <c02 id="VAB6925-00369" level="file">
+                    <did>
+                        <container label="Box" type="box">4</container>
+                        <unittitle>Resources on Neighboring West African Nations</unittitle>
+                    </did>
+                </c02>
+                <c02 id="VAB6925-00370" level="file">
+                    <did>
+                        <container label="Box" type="box">4</container>
+                        <unittitle>Conference: <title>"How to Put Liberia Back Together"</title>,
+                                <unitdate normal="19910510">10 May 1991</unitdate></unittitle>
+                        <abstract label="includes:">Handouts; Handwritten Notes; "African Demos"
+                            vol. 1, n. 4</abstract>
+                    </did>
+                </c02>
+                <c02 id="VAB6925-00371" level="file">
+                    <did>
+                        <container label="Box" type="box">4</container>
+                        <unittitle>Survey Notes and Bibliographies</unittitle>
+                    </did>
+                    <c03 id="VAB6925-00372" level="item">
+                        <did>
+                            <unittitle>List of Wells</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="VAB6925-00373" level="item">
+                        <did>
+                            <unittitle><title>"Research Survey Coverage Area"</title>, <unitdate normal="19841213">13 Dec 1984</unitdate></unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="VAB6925-00374" level="item">
+                        <did>
+                            <unittitle>Lofa History  Bibliography, <unitdate normal="19851130">30 Nov 1985</unitdate></unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="VAB6925-00375" level="item">
+                        <did>
+                            <unittitle>Ethnography Bibliography, n.d.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="VAB6925-00376" level="item">
+                        <did>
+                            <unittitle>General Bibliography, n.d.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="VAB6925-00377" level="item">
+                        <did>
+                            <unittitle>Annotated Bibliography, n.d.</unittitle>
+                        </did>
+                    </c03>
+
+
+
+
+
+
+                </c02>
+                <c02 id="VAB6925-00378" level="file">
+                    <did>
+                        <container label="Box" type="box">4</container>
+
+                        <unittitle>Ethnographic Survey Schedule</unittitle>
+                    </did>
+                    <c03 id="VAB6925-00379" level="item">
+                        <did>
+                            <unittitle><title>"Appendix B: Ethnographic Survey Schedule"</title>,
+                                n.d.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="VAB6925-00380" level="item">
+                        <did>
+                            <unittitle>Dr. Kurtz's Questionaire, <unitdate normal="1968">1968</unitdate></unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="VAB6925-00381" level="item">
+                        <did>
+                            <unittitle><date normal="1974">1974</date> Census by Enumeration Areas,
+                                    <unitdate normal="1974">1974</unitdate></unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="VAB6925-00382" level="item">
+                        <did>
+                            <unittitle>List of Clans by District, <unitdate normal="1969">1969</unitdate></unittitle>
+                        </did>
+                    </c03>
+
+
+
+
+
+                </c02>
+                <c02 id="VAB6925-00383" level="file">
+                    <did>
+                        <container label="Box" type="box">4</container>
+
+                        <unittitle>Samori Materials</unittitle>
+                    </did>
+                    <c03 id="VAB6925-00384" level="item">
+                        <did>
+                            <unittitle>Journal of <persname>David Whitehurts</persname> (retyped:
+                                    <date normal="1993">1993</date>), <unitdate normal="1834/1935">1934-1835</unitdate></unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="VAB6925-00385" level="item">
+                        <did>
+                            <unittitle>
+                                <title>"L'ascension de Samori (1861-1875)"</title>
+                            </unittitle>
+                        </did>
+                    </c03>
+
+
+                </c02>
+                <c02 id="VAB6925-00386" level="file">
+                    <did>
+                        <container label="Box" type="box">4</container>
+                        <container label="Folders" type="folder">6-8</container>
+                        <unittitle>Assorted Maps</unittitle>
+                    </did>
+                </c02>
+
+
+            </c01>
+
+
+
+
+
+
+
+
+
+
+        </dsc>
+    </archdesc>
+
+</ead>

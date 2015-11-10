@@ -1,0 +1,830 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="clrc.xsl"?>
+<?DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd"?>
+<ead audience="external"> 
+  <eadheader audience="internal" countryencoding="iso3166-1"
+	dateencoding="iso8601" repositoryencoding="iso15511" langencoding="iso639-2b"
+	scriptencoding="iso15924" relatedencoding="Dublin core"> 
+	 <eadid countrycode="mnu" mainagencycode="MnU"
+	  publicid="-//us::University of Minnesota, Twin Cities::Children's Literature Research Collections//TEXT 
+	  us::MnU::clrc-779.xml:://EN">CLRC-779</eadid>
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper encodinganalog="Title"> <emph render="bold">Erik Blegvad
+			 Papers</emph></titleproper>
+		  <author encodinganalog="Contributor">Nancy Larsen</author> 
+		</titlestmt>
+		<publicationstmt>
+		  <publisher encodinganalog="Publisher">University of Minnesota
+			 Libraries</publisher>
+		  <date encodinganalog="Date">5/12/2004</date> 
+		  <address> 
+			 <addressline>University of Minnesota Libraries</addressline> 
+			 <addressline>Minneapolis, MN 55455</addressline> 
+		  </address> 
+		</publicationstmt>
+	 </filedesc>
+	 <profiledesc>
+		<creation>EAD 2002 Validated Finding Aid generated with the aid of a
+		  custom FileMaker Pro database developed by the staff of the Children's
+		  Literature Research Collections, University of Minnesota Libraries. Many thanks
+		  to all the staff and volunteers.
+		  <date>5/12/2004</date></creation>
+		<langusage>Description is in
+		  <language encodinganalog="Language"
+		  langcode="eng">English</language></langusage>
+	 </profiledesc>
+  </eadheader>
+  <archdesc level="collection" relatedencoding="MARC21" type="inventory"> 
+	 <did id="a1"> 
+		<head>Summary Information</head> 
+		<repository encodinganalog="852$a" label="Repository:">University of
+		  Minnesota Libraries <subarea>Children's Literature Research
+		  Collections</subarea></repository> 
+		<origination label="Creator:">
+		  <persname encodinganalog="100" source="lcnaf" rules="aacr2">Blegvad,
+			 Erik</persname></origination> 
+		<unittitle label="Title:" encodinganalog="245$a">Erik Blegvad
+		  Papers</unittitle> 
+		<unitdate label="Date:" encodinganalog="245$f" type="inclusive"
+		 normal="1957/2000">1957-2000</unitdate> 
+		<unitid label="Collection Number:" encodinganalog="099" countrycode="us"
+		 repositorycode="MnU">CLRC-779 </unitid> 
+		<abstract encodinganalog="520" label="Abstract:">The collection consists
+		  of production materials for 14 titles, including original art, proofs,
+		  typescripts and holographs.</abstract> 
+		<physdesc label="Quantity:" encodinganalog="300"><extent>Not
+		  known.</extent></physdesc> 
+		<physloc label="Location:">See Detailed Descriptions for Each Title Item
+		  for Box Locations</physloc> <langmaterial encodinganalog="546">
+		<language encodinganalog="041" langcode="eng"> English </language>
+		</langmaterial> 
+	 </did> <descgrp> 
+	 <head> Important Information for Users of the Collections </head> 
+	 <accessrestrict encodinganalog="506"> 
+		<head> Access and Use: </head> 
+		<p> Collection is open for researchers with no restrictions. Registration
+		  with the collection is required. </p> 
+	 </accessrestrict> 
+	 <userestrict encodinganalog="540"> 
+		<head> Copyright: </head> 
+		<p> This collection is protected by the Copyright Law of the United
+		  States (Title 17, U.S. Code). It is the user's responsibility to verify
+		  copyright ownership and to obtain all necessary permissions prior to the
+		  reproduction, publication, or other use of any portion of these materials. </p>
+		
+	 </userestrict> </descgrp> 
+	 <bioghist encodinganalog="545" id="hb">
+		<head altrender="history"><emph render="bold">Biographical
+		  Sketch</emph></head>
+		<p>Erik Blegvad was born in Copenhagen, Denmark in 1923. He graduated
+		  from the Copenhagen School of Arts and Crafts in 1944. He served in the Royal
+		  Danish Air Force from 1945 to 1947. He has had a long career as an artist and
+		  illustrator. He immigrated to France in 1947 where he was a free lance artist.
+		  He immigrated to the US in 1951 where he became an illustrator of children's
+		  books. He immigrated to England in 1966 and returned to the United States in
+		  1986. He has won numerous awards for his illustrations, mostly pen and ink.
+		  Biographical Source: Something About the Author, v. 132, pp. 17-22.</p>
+	 </bioghist> 
+	 <scopecontent encodinganalog="520" id="sc">
+		<head><emph render="bold">Scope and Content</emph></head>
+		<p>The collection consists of production materials for 14 titles,
+		  including original art, proofs, typescripts and holographs.</p>
+	 </scopecontent> 
+	 <controlaccess> 
+		<head> Indexing Terms </head> 
+		<p> The collection is indexed under the following headings in the catalog
+		  of the University of Minnesota Libraries. Researchers desiring materials about
+		  related topics, persons or places should search the catalog using these
+		  headings. </p> 
+		<persname encodinganalog="600" rules="aacr2" role="subject"> Blegvad,
+		  Erik </persname> 
+		<subject encodinganalog="650" source="lcsh"> </subject> 
+		<subject encodinganalog="650" source="lcsh"> </subject> 
+		<subject encodinganalog="650" source="lcsh"> </subject> 
+	 </controlaccess> 
+	 <acqinfo encodinganalog="541"> 
+		<head> Accession Information: </head> 
+		<p>Erik Blegvad donated the collection over a period of time from 1972 to
+		  2000. </p>
+		<p> Gift of: 
+		  <persname> Blegvad, Erik</persname> </p> 
+	 </acqinfo> 
+	 <arrangement encodinganalog="351"> 
+		<head> <emph render="bold"> Arrangement </emph> </head> 
+		<p> Diamond in the Window, 1962 </p>
+		<p> Cat From Nowhere, 1969 </p>
+		<p> Flivver, the Heroic Horse, 1958 </p>
+		<p> Hans Christian Anderson: Stories and Fairy Tales, 1993 </p>
+		<p> Late Spring, 1957 </p>
+		<p> Miscellaneous original art, </p>
+		<p> Mushroom Center Disaster, 1974 </p>
+		<p> Oddity Land, 1957 </p>
+		<p> Speech, </p>
+		<p> Swing in the Summerhouse, 1967 </p>
+		<p> Water Pennies, 1991 </p>
+		<p> Hurry, Hurry Mary Dear, 1998 </p>
+		<p> Sound of Leaves, 1996 </p>
+		<p> Riddle Roads, 1999 </p>
+		<p> Around My Room, 2000 </p>
+		<p> Greatest Hamster Hunt, 1969 </p>
+		<p> One is for the Sun, 1968 </p>
+	 </arrangement> 
+	 <dsc type="combined"> 
+		<head> <emph render="bold"> Collection Contents </emph> </head> 
+		<c01 level="series"> 
+		  <did> 
+			 <unittitle> Diamond in the Window </unittitle> 
+			 <unitdate type="inclusive"> 1962</unitdate> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Langton, Jane </p>
+			 <p> New York: Harper and Row, 1962</p> 
+		  </scopecontent>
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">MC 251 </container> 
+				<unittitle>Proof jacket</unittitle> 
+				<physdesc><extent>1 p.</extent></physdesc> 
+			 </did> 
+		  </c02> 
+		</c01>
+		<c01 level="series"> 
+		  <did> 
+			 <unittitle> Cat From Nowhere </unittitle> 
+			 <unitdate type="inclusive"> 1969</unitdate> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Stirling, Monica </p>
+			 <p> New York: Harcourt, Brace and World, 1969</p> 
+		  </scopecontent>
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">MC 1326 </container> 
+				<unittitle>Ink dummy with text proof</unittitle> 
+				<physdesc><extent>56 p.</extent></physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">MC 1326 </container> 
+				<unittitle>Ink and watercolor illustration with text proof for
+				  jacket</unittitle> 
+				<physdesc><extent>1 p.</extent></physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">MC 1326 </container> 
+				<unittitle>Ink dummy with text proof pasteups</unittitle> 
+				<physdesc><extent>48 p.</extent></physdesc> 
+			 </did> 
+		  </c02> 
+		</c01>
+		<c01 level="series"> 
+		  <did> 
+			 <unittitle> Flivver, the Heroic Horse </unittitle> 
+			 <unitdate type="inclusive"> 1958</unitdate> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Kingman, Lee </p>
+			 <p> Garden City, New York: Doubleday, 1958</p> 
+		  </scopecontent>
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">MC 1326 </container> 
+				<unittitle>Sheet of 2 ink illustrations</unittitle> 
+				<physdesc><extent>1 p.</extent></physdesc> 
+			 </did> 
+		  </c02> 
+		</c01>
+		<c01 level="series"> 
+		  <did> 
+			 <unittitle> Hans Christian Anderson: Stories and Fairy Tales
+				</unittitle> 
+			 <unitdate type="inclusive"> 1993</unitdate> 
+		  </did> 
+		  <scopecontent> 
+			 <p> </p>
+			 <p> London: Heinemann, 1993</p> 
+		  </scopecontent>
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">MC 747 </container> 
+				<unittitle>Miscellaneous studies</unittitle> 
+				<physdesc><extent>2 p.</extent></physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">MC 747 </container> 
+				<unittitle>Studies for body of book, typescript
+				  pasteups</unittitle> 
+				<physdesc><extent>29 p.</extent></physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">MC 747 </container> 
+				<unittitle>Studies for cover/jacket</unittitle> 
+				<physdesc><extent>18 p.</extent></physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">MC 747 </container> 
+				<unittitle>Photocopy of studies for cover/jacket</unittitle> 
+				<physdesc><extent>4 p.</extent></physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">MC 747 </container> 
+				<unittitle>typescript, corrected photocopy</unittitle> 
+				<physdesc><extent>26 p.</extent></physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">MC 747 </container> 
+				<unittitle>color page proofs</unittitle> 
+				<physdesc><extent>45 p.</extent></physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">MC 747 </container> 
+				<unittitle>sheet suggested topography for cover</unittitle> 
+				<physdesc><extent>1 p.</extent></physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">MC 747 </container> 
+				<unittitle>mock jacket illustrations</unittitle> 
+				<physdesc><extent>2 p.</extent></physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">MC 747 </container> 
+				<unittitle>colored photocopies of cover</unittitle> 
+				<physdesc><extent>2 p.</extent></physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">MC 747 </container> 
+				<unittitle>colored photocopies of endpapers</unittitle> 
+				<physdesc><extent>2 p.</extent></physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">MC 1981 </container> 
+				<unittitle>typescript, corrected</unittitle> 
+				<physdesc><extent>58 p.</extent></physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">MC 1981 </container> 
+				<unittitle>typescript, corrected photocopy</unittitle> 
+				<physdesc><extent>1 p.</extent></physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">MC 1981 </container> 
+				<unittitle>galley proofs</unittitle> 
+				<physdesc><extent>2 p.</extent></physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">MC 1981 </container> 
+				<unittitle>correspondence</unittitle> 
+				<physdesc><extent>12 p.</extent></physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">MC 1981 </container> 
+				<unittitle>layout notes</unittitle> 
+				<physdesc><extent>7 p.</extent></physdesc> 
+			 </did> 
+		  </c02> 
+		</c01>
+		<c01 level="series"> 
+		  <did> 
+			 <unittitle> Late Spring </unittitle> 
+			 <unitdate type="inclusive"> 1957</unitdate> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Fritz, Jean </p>
+			 <p> New York: Coward-McCann, 1957</p> 
+		  </scopecontent>
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">MC 1326 </container> 
+				<unittitle>ink sketches for jacket</unittitle> 
+				<physdesc><extent>6 p.</extent></physdesc> 
+			 </did> 
+		  </c02> 
+		</c01>
+		<c01 level="series"> 
+		  <did> 
+			 <unittitle> Miscellaneous original art </unittitle> 
+			 <unitdate type="inclusive"> </unitdate> 
+		  </did> 
+		  <scopecontent> 
+			 <p> </p>
+			 <p> </p> 
+		  </scopecontent>
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">MC 1326 </container> 
+				<unittitle>ink and watercolor greetings inscribed to Irvin
+				  Kerlan</unittitle> 
+				<physdesc><extent>2 p.</extent></physdesc> 
+			 </did> 
+		  </c02> 
+		  		  <c02 level="item"> 
+			 <did> 
+				<container type="box">MC 1326 </container> 
+				<unittitle>postcard</unittitle> 
+				<physdesc><extent>1 p.</extent></physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">MC 1326 </container> 
+				<unittitle>greeting cards</unittitle> 
+				<physdesc><extent></extent></physdesc> 
+			 </did> 
+		  </c02> 		  
+		</c01>
+		<c01 level="series"> 
+		  <did> 
+			 <unittitle> Mushroom Center Disaster </unittitle> 
+			 <unitdate type="inclusive"> 1974</unitdate> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Bodecker, N.M. </p>
+			 <p> New York: Atheneum, 1974</p> 
+		  </scopecontent>
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">MC 1326 </container> 
+				<unittitle>ink dummy with text proof and watercolor
+				  jacket</unittitle> 
+				<physdesc><extent>48 p.</extent></physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">MC 1326 </container> 
+				<unittitle>ink and watercolor illustration for jacket</unittitle> 
+				<physdesc><extent>1 p.</extent></physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">MC 1326 </container> 
+				<unittitle>ink dummy</unittitle> 
+				<physdesc><extent>48 p.</extent></physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">MC 1326 </container> 
+				<unittitle>photocopy of jacket</unittitle> 
+				<physdesc><extent>1 p.</extent></physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">MC 1326 </container> 
+				<unittitle>sheet text proof for jacket</unittitle> 
+				<physdesc><extent>1 p.</extent></physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">MC 1326 </container> 
+				<unittitle>sheets proof</unittitle> 
+				<physdesc><extent>2 p.</extent></physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">MC 1326 </container> 
+				<unittitle>sheet correspondence</unittitle> 
+				<physdesc><extent>1 p.</extent></physdesc> 
+			 </did> 
+		  </c02> 
+		</c01>
+		<c01 level="series"> 
+		  <did> 
+			 <unittitle> Oddity Land </unittitle> 
+			 <unitdate type="inclusive"> 1957</unitdate> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Anthony, Edward </p>
+			 <p> Garden City, New York: Doubleday, 1957</p> 
+		  </scopecontent>
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">MC 1326 </container> 
+				<unittitle>ink illustration</unittitle> 
+				<physdesc><extent>1 p.</extent></physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">MC 1326 </container> 
+				<unittitle>sheet (3 ink illustrations)</unittitle> 
+				<physdesc><extent>1 p.</extent></physdesc> 
+			 </did> 
+		  </c02> 
+		</c01>
+		<c01 level="series"> 
+		  <did> 
+			 <unittitle> Speech </unittitle> 
+			 <unitdate type="inclusive"> </unitdate> 
+		  </did> 
+		  <scopecontent> 
+			 <p> </p>
+			 <p> </p> 
+		  </scopecontent>
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box"> </container> 
+				<unittitle>holograph</unittitle> 
+				<physdesc><extent>6 p.</extent></physdesc> 
+			 </did> 
+		  </c02> 
+		</c01>
+		<c01 level="series"> 
+		  <did> 
+			 <unittitle> Swing in the Summerhouse </unittitle> 
+			 <unitdate type="inclusive"> 1967</unitdate> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Langton, Jane </p>
+			 <p> New York: Harper and Row, 1967</p> 
+		  </scopecontent>
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">MC 251 </container> 
+				<unittitle>photostats fo illustrations for book</unittitle> 
+				<physdesc><extent>21 p.</extent></physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box"> </container> 
+				<unittitle>proof jacket</unittitle> 
+				<physdesc><extent>1 p.</extent></physdesc> 
+			 </did> 
+		  </c02> 
+		</c01>
+		<c01 level="series"> 
+		  <did> 
+			 <unittitle> Water Pennies </unittitle> 
+			 <unitdate type="inclusive"> 1991</unitdate> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Bodecker, N.M. </p>
+			 <p> New York: Macmillan, 1991</p> 
+		  </scopecontent>
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">MF 1981 </container> 
+				<unittitle>correspondence</unittitle> 
+				<physdesc><extent>2 p.</extent></physdesc> 
+			 </did> 
+		  </c02> 
+		</c01>
+		<c01 level="series"> 
+		  <did> 
+			 <unittitle> Hurry, Hurry Mary Dear </unittitle> 
+			 <unitdate type="inclusive"> 1998</unitdate> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Bodecker, N.M. </p>
+			 <p> New York: Margaret K. McElderry Books, 1998</p> 
+		  </scopecontent>
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">MC 747 </container> 
+				<unittitle>jacket proofs</unittitle> 
+				<physdesc><extent>8 p.</extent></physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">MC 747 </container> 
+				<unittitle>dummy proofs</unittitle> 
+				<physdesc><extent>43 p.</extent></physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">MC 747 </container> 
+				<unittitle>pen, paint jacket study</unittitle> 
+				<physdesc><extent>1 p.</extent></physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">MC 747 </container> 
+				<unittitle>pencil, watercolor jacket study</unittitle> 
+				<physdesc><extent>1 p.</extent></physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">MC 747 </container> 
+				<unittitle>pen jacket text sketches</unittitle> 
+				<physdesc><extent>3 p.</extent></physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">MC 747 </container> 
+				<unittitle>pen, pencil jacket sketch</unittitle> 
+				<physdesc><extent>1 p.</extent></physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">MC 747 </container> 
+				<unittitle>color page proofs</unittitle> 
+				<physdesc><extent>2 p.</extent></physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">MC 747 </container> 
+				<unittitle>photocopy of jacket study</unittitle> 
+				<physdesc><extent>1 p.</extent></physdesc> 
+			 </did> 
+		  </c02> 
+		</c01>
+		<c01 level="series"> 
+		  <did> 
+			 <unittitle> Sound of Leaves </unittitle> 
+			 <unitdate type="inclusive"> 1996</unitdate> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Blegvad, Lenore </p>
+			 <p> New York: Margaret K. McElderry Books, 1996</p> 
+		  </scopecontent>
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">MC 747 </container> 
+				<unittitle>pencil sketches</unittitle> 
+				<physdesc><extent>19 p.</extent></physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">MC 747 </container> 
+				<unittitle>photocopy of pencil sketch</unittitle> 
+				<physdesc><extent>1 p.</extent></physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">MC 747 </container> 
+				<unittitle>layout notes</unittitle> 
+				<physdesc><extent>1 p.</extent></physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">MC 747 </container> 
+				<unittitle>watercolor, crayon cover study</unittitle> 
+				<physdesc><extent>1 p.</extent></physdesc> 
+			 </did> 
+		  </c02> 
+		</c01>
+		<c01 level="series"> 
+		  <did> 
+			 <unittitle> Riddle Roads </unittitle> 
+			 <unitdate type="inclusive"> 1999</unitdate> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Spires, Elizabeth </p>
+			 <p> New York: Margaret K. McElderry Books, 1999</p> 
+		  </scopecontent>
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">MC 747 </container> 
+				<unittitle>pen, color pencil cover studies</unittitle> 
+				<physdesc><extent>2 p.</extent></physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">MC 747 </container> 
+				<unittitle>dummy proof with jacket</unittitle> 
+				<physdesc><extent>30 p.</extent></physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">MC 747 </container> 
+				<unittitle>page proofs</unittitle> 
+				<physdesc><extent>4 p.</extent></physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">MC 747 </container> 
+				<unittitle>layout notes</unittitle> 
+				<physdesc><extent>1 p.</extent></physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">MC 747 </container> 
+				<unittitle>jacket illustration</unittitle> 
+				<physdesc><extent>1 p.</extent></physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">MF 1981 </container> 
+				<unittitle>jacket page proofs</unittitle> 
+				<physdesc><extent>2 p.</extent></physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">MF 1981 </container> 
+				<unittitle>correspondence</unittitle> 
+				<physdesc><extent>24 p.</extent></physdesc> 
+			 </did> 
+		  </c02> 
+		</c01>
+		<c01 level="series"> 
+		  <did> 
+			 <unittitle> Around My Room </unittitle> 
+			 <unitdate type="inclusive"> 2000</unitdate> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Smith, William J. </p>
+			 <p> New York: Farrar, Straus and Giroux, 2000</p> 
+		  </scopecontent>
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">MC 747 </container> 
+				<unittitle>pencil dummy</unittitle> 
+				<physdesc><extent>26 p.</extent></physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">MC 747 </container> 
+				<unittitle>pen, typescript and pasted dummy</unittitle> 
+				<physdesc><extent>51 p.</extent></physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">MC 747 </container> 
+				<unittitle>notes on first sketches</unittitle> 
+				<physdesc><extent>3 p.</extent></physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">MC 747 </container> 
+				<unittitle>dummy proof with jacket</unittitle> 
+				<physdesc><extent>32 p.</extent></physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">MC 747 </container> 
+				<unittitle>layout notes</unittitle> 
+				<physdesc><extent>1 p.</extent></physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">MC 747 </container> 
+				<unittitle>cover studies</unittitle> 
+				<physdesc><extent>10 p.</extent></physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">MC 747 </container> 
+				<unittitle>pen, color pencil, watercolor illustration</unittitle> 
+				<physdesc><extent>1 p.</extent></physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">MC 747 </container> 
+				<unittitle>pen, pencil, watercolor illustration</unittitle> 
+				<physdesc><extent>1 p.</extent></physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">MC 747 </container> 
+				<unittitle>jacket study</unittitle> 
+				<physdesc><extent>1 p.</extent></physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">MF 1981 </container> 
+				<unittitle>correspondence</unittitle> 
+				<physdesc><extent>1 p.</extent></physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">MF 1981 </container> 
+				<unittitle>typescript</unittitle> 
+				<physdesc><extent>32 p.</extent></physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">MF 1981 </container> 
+				<unittitle>page proofs</unittitle> 
+				<physdesc><extent>5 p.</extent></physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">MF 1981 </container> 
+				<unittitle>layout notes</unittitle> 
+				<physdesc><extent>1 p.</extent></physdesc> 
+			 </did> 
+		  </c02> 
+		</c01>
+		<c01 level="series"> 
+		  <did> 
+			 <unittitle> Greatest Hamster Hunt </unittitle> 
+			 <unitdate type="inclusive"> 1969</unitdate> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Blegvad, Lenore </p>
+			 <p> New York: Harcourt, Brace and World, 1969</p> 
+		  </scopecontent>
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">MF 1981 </container> 
+				<unittitle>typescript, corrected</unittitle> 
+				<physdesc><extent>22 p.</extent></physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">MF 1981 </container> 
+				<unittitle>correspondence</unittitle> 
+				<physdesc><extent>1 p.</extent></physdesc> 
+			 </did> 
+		  </c02> 
+		</c01>
+		<c01 level="series"> 
+		  <did> 
+			 <unittitle> One is for the Sun </unittitle> 
+			 <unitdate type="inclusive"> 1968</unitdate> 
+		  </did> 
+		  <scopecontent> 
+			 <p>Blegvad, Erik </p>
+			 <p> New York: Harcourt, Brace and World, 1968</p> 
+		  </scopecontent>
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">MF 1981 </container> 
+				<unittitle>typescript, corrected</unittitle> 
+				<physdesc><extent>3 p.</extent></physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">MF 1981 </container> 
+				<unittitle>dummy</unittitle> 
+				<physdesc><extent>16 p.</extent></physdesc> 
+			 </did> 
+		  </c02> 
+		  <c02 level="item"> 
+			 <did> 
+				<container type="box">MF 1981 </container> 
+				<unittitle>research material</unittitle> 
+				<physdesc><extent>1 p.</extent></physdesc> 
+			 </did> 
+		  </c02> 
+		</c01>
+	 </dsc> 
+  </archdesc> 
+</ead> 

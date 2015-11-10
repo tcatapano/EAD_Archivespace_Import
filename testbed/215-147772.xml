@@ -1,0 +1,130 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead relatedencoding="marc21">
+	<eadheader audience="internal">
+		<!--Change the last five numbers to the five number collection number from TARO log and name and save file as that five digit number.-->
+		<eadid countrycode="US" mainagencycode="TxU-TH" encodinganalog="852$a"
+			>urn:taro:utexas.cah.01377</eadid>
+		<filedesc>
+			<titlestmt>
+				<!--Type the title just as you would say it and use type (e.g. Papers, Collection, Archive) as appropriate. Follow with dates. Example: John Doe Papers, 1910-1920-->
+				<titleproper>A Guide to the G. A. Hedlund Papers, 1941-1945, 2008
+					</titleproper>
+			</titlestmt>
+		</filedesc>
+		<profiledesc>
+			<!--Add your name and the date (format: January 2008) of encoding below.-->
+			<creation>Original EAD encoding by Carol Mead according to TARO 2 EAD 2002 Editing
+				Instructions. <date>June 2010</date></creation>
+			<langusage>Finding aid written in <language>English.</language></langusage>
+		</profiledesc>
+	</eadheader>
+	<archdesc type="inventory" level="collection">
+		<did>
+			<head>Descriptive Summary</head>
+			<origination label="Creator:">
+				<!--Select the appropriate tag depending on if the creator is an individual (name: LAST, FIRST, YEAR OF BIRTH-YEAR OF DEATH), 
+family (name: LAST Family, add individual name and dates in parentheses if desired), or entity. Delete the other tags you don't use.-->
+				<persname encodinganalog="100">Hedlund, G. A.</persname>
+			</origination>
+			<!--Type the unittitle just as you would say it and use type (e.g. Papers, Collection, Archive) as appropriate. Example: John Doe Papers-->
+			<unittitle encodinganalog="245" label="Title:">G. A. Hedlund Papers
+				</unittitle>
+			<unitdate type="inclusive" encodinganalog="245" label="Dates:">1941-1945, 2008</unitdate>
+			<!--Modify the language of material if appropriate and update 3 letter langcode in the upper-right table.-->
+			<langmaterial label="Language:">Materials are written in <language langcode="eng"
+					>English.</language></langmaterial>
+			<!--This is the accession number(s) or other applicable indentifier.-->
+			<unitid label="Accession No.:">2010-079</unitid>
+			<!--This is the OCLC  record number(s) or other applicable indentifier.-->
+			<!--This is the extent. For example: 4 ft., 10 in.-->
+			<physdesc label="Extent:" encodinganalog="300$a">0.5 ft.</physdesc>
+			<repository label="Repository:" encodinganalog="852$a">
+				<extref href="http://www.cah.utexas.edu" show="new" actuate="onrequest">
+					<corpname><subarea> Dolph Briscoe Center for American History,</subarea> The
+						University of Texas at Austin</corpname>
+				</extref>
+			</repository>
+			<!--This is typically the first sentences from scope and content note, as appropriate.-->
+			<abstract label="Abstract:" encodinganalog="520$a">The papers consist of six of Hedlund’s spiral-bound notebooks, written from 1942 to 1945 </abstract>
+		</did>
+		<bioghist encodinganalog="545">
+			<!--If an individual, heading should read Biographical Note; for an organization or subject, it should read Historical Note.-->
+			<head>Biographical Note</head>
+			<p>Gustav Arnold Hedlund (1904-1993) was born in Somerville, Massachusetts. Hedlund is known as one of the founders of symbolic and topological dynamics.</p>
+			<p>Hedlund received his bachelor’s degree from Harvard in 1925, his master’s degree from Columbia University in 1928, his Ph.D in 1930 from Harvard, where his advisor was Marston Morse, and was bestowed with an honorary master’s degree from Yale University in 1948. His teaching appointments included Bryn Mawr, the University of Virginia, and Yale University (1948-1972), his longest appointment, where he was the Philip Schuyler Beebee Professor of Mathematics from 1949 until his retirement in 1972; he chaired the Mathematics Department 1949-1959. Hedlund was a fellow at Yale's Branford College and, after his retirement had a visiting professorship at Wesleyan University. In addition to these appointments, he was a member of the Institute for Advanced Study (1933-1934, 1938-1939, 1953-1954).</p>
+		</bioghist>
+		<scopecontent encodinganalog="520">
+			<head>Scope and Contents</head>
+			<p>The papers consist of six of Hedlund’s spiral-bound notebooks, written between 1942 and 1945, from a series of graduate courses on topological dynamics Hedlund taught at the University of Virginia during that period. Also in the papers are two letters between Hedlund and Marston Morse in 1941 concerning symbolic dynamics, and a reprint of an article co-written by one of Hedlund’s Ph.D. students, Ethan Coven, tracing the beginnings of modern symbolic dynamics to a 1944 paper written by Hedlund.</p>
+			<p>Forms part of the Archives of American Mathematics.</p>
+			<!--If applicable include statement in p tag: Forms part of the NAME (Institute for Studies in American Military History, Archives of American Mathematics, 
+Professional Touring Entertainment Archives, etc.).-->
+		</scopecontent>
+		<accessrestrict encodinganalog="506">
+			<!--Select appropriate statement(s) and delete those tags that are not applicable.-->
+		<head>Access Restrictions</head><p>Unrestricted access</p></accessrestrict>
+		<userestrict>
+			<head>Use Restrictions</head><p>This collection is stored remotely at CDL. Advance notice required for retrieval. Contact repository for retrieval.</p>
+		</userestrict>
+		<controlaccess>
+			<!--Delete this section(s) as appropriate depending on the presence of  index terms.-->
+			<head>Index Terms</head>
+			<controlaccess>
+				<head>Subjects (Persons)</head>
+				<persname encodinganalog="600"></persname>
+				<persname>Coven, Ethan.</persname>
+				<persname>Hedlund, Gustav Arnold, 1904-</persname>
+				<persname>Morse, Marston, 1892-1977</persname>
+			</controlaccess>
+			<controlaccess>
+				<head>Subjects</head>
+				<subject encodinganalog="650">Mathematics</subject>
+				<subject>Symbolic dynamics.</subject>
+				<subject>Topological dynamics.</subject>
+			</controlaccess>
+		</controlaccess>
+		<prefercite encodinganalog="524">
+			<head>Preferred Citation</head>
+			<p>G. A. Hedlund Papers, 1941-1945, 2008, Archives of American Mathematics, Dolph
+				Briscoe Center for American History, University of Texas at Austin.</p>
+		</prefercite>
+		<processinfo>
+			<!--Delete processinfo if not known.-->
+			<head>Processing Information</head>
+			<!--Add additional revisions by adding a semi-colon and NAME, DATE. Remove sentence about revisions if none were made or sentence about original processor if unknown.-->
+			<p>This collection was processed by Carol Mead, June 2010.</p>
+		</processinfo>
+		<dsc type="in-depth">
+			<head>Detailed Description of the Papers</head>
+			<c01 level="series" id="ser1">
+				<did>
+					<!--For c01 unititle, if inventory is basically a container list type Inventory, if it is a series, type the series title for each c01. Delete Folder Tags.-->
+					<unittitle>Series 1. Notebooks </unittitle>
+				</did>
+				<c02>
+					<did><container type="Box">2010-079/1</container>
+						<unittitle>Untitled (3), Dec. 1942, 1945? </unittitle>
+					</did>
+				</c02><c02>
+					<did><container type="Box">2010-079/1</container><unittitle>“Topological Dynamics II,” <unitdate>Nov. 10, 1945</unitdate></unittitle>
+					</did>
+				</c02><c02>
+					<did><container type="Box">2010-079/1</container><unittitle>“Topological Dynamics III,” <unitdate>Dec. 29, 1945</unitdate></unittitle></did>
+				</c02>
+			</c01>
+			<c01 level="series" id="ser2">
+				<did><unittitle>Series 2. Correspondence</unittitle></did>
+			<c02>
+				<did><container type="Box">2010-079/1</container> <unittitle>Letters (2) between Hedlund and Morse, <unitdate>1941</unitdate></unittitle></did>
+			</c02>
+			</c01>
+			<c01 level="series" id="ser3">
+				<did><unittitle>Series 3. Publications by others</unittitle></did>
+			<c02>
+				<did><container type="Box">2010-079/1</container> <unittitle>Reprint: “On the Genesis of Symbolic Dynamics as We Know It,” by Ethan M. Coven and Zbigniew H. Nitecki, <emph render="italic">Colloquium Mathematicum</emph>, vol. 110, no. 2, <unitdate>2008</unitdate></unittitle></did>
+			</c02>
+			</c01>
+		</dsc>
+	</archdesc>
+</ead>

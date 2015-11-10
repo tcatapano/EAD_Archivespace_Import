@@ -1,0 +1,661 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="../styles/style.xsl" ?>
+			<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "../dtds/ead.dtd">
+<ead>
+	<eadheader repositoryencoding="iso15511" relatedencoding="MARC21" countryencoding="iso3166-1"
+		scriptencoding="iso15924" dateencoding="iso8601" langencoding="iso639-2b">
+		<eadid mainagencycode="nic" countrycode="us"
+			publicid="-//Cornell University::Cornell University Library::Kheel Center for Labor-Management Documentation and Archives//TEXT(US::NIC::KCL0-::ILGWU. Local 22. Charles  Zimmerman. Photographs,)//EN"
+			>KCL05780-014P.xml</eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper>Guide to the ILGWU. Local 22. Charles Zimmerman.
+					Photographs,<date/></titleproper>
+				<titleproper type="sort">ILGWU. Local 22. Charles Zimmerman.
+					Photographs,</titleproper>
+				<author>Compiled by Kheel Staff</author>
+			</titlestmt>
+			<publicationstmt>
+				<publisher>Kheel Center for Labor-Management Documentation and Archives, Cornell
+					University Library</publisher>
+				<date>April 2011</date>
+			</publicationstmt>
+			<notestmt>
+				<note audience="internal">
+					<p><subject>Labor</subject></p>
+				</note>
+			</notestmt>
+		</filedesc>
+		<profiledesc>
+			<creation>Finding aid encoded by MarcEdit, Ead McTaggart, and Cheryl Beredo, <date>April
+					2011</date></creation>
+		</profiledesc>
+	</eadheader>
+	<frontmatter>
+		<titlepage>
+			<titleproper>Guide to the ILGWU. Local 22. Charles Zimmerman photographs,<lb/><date
+					type="bulk" encodinganalog="245$g"> [1910-1958.]</date></titleproper>
+			<num>Collection Number: 5780/014 P</num>
+			<publisher>Kheel Center for Labor-Management Documentation and Archives <lb/>Cornell
+				University Library</publisher>
+			<list type="deflist">
+				<defitem>
+					<label>Contact Information:</label>
+					<item> Kheel Center for Labor-Management Documentation and Archives<lb/> Martin
+						P. Catherwood Library<lb/> 227 Ives Hall<lb/> Cornell University<lb/>
+						Ithaca, NY 14853<lb/> (607) 255-3183<lb/> Fax: (607) 255-9641<lb/><extref
+							href="mailto:rareref@cornell.edu"
+							>kheel_center@cornell.edu</extref><lb/><extref
+							href="http://www.ilr.cornell.edu/library/kheelcenter"
+							>http://www.ilr.cornell.edu/library/kheelcenter</extref><lb/></item>
+				</defitem>
+				<defitem>
+					<label>Compiled by:</label>
+					<item>Kheel Staff</item>
+				</defitem>
+				<defitem>
+					<label>Date completed:</label>
+					<item>April 2011</item>
+				</defitem>
+				<defitem>
+					<label>EAD encoding:</label>
+					<item>Cheryl Beredo, April 2011</item>
+				</defitem>
+			</list>
+			<date>© 2011 Kheel Center for Labor-Management Documentation and Archives, Cornell
+				University Library</date>
+		</titlepage>
+	</frontmatter>
+	<archdesc level="collection">
+		<did>
+			<head id="a1">DESCRIPTIVE SUMMARY</head>
+			<unittitle label="Title:" encodinganalog="MARC 245">ILGWU. Local 22. Charles Zimmerman
+				Photographs, <unitdate encodinganalog="MARC 245" type="bulk"
+				>1910-1958.</unitdate></unittitle>
+			<unitid label="Collection Number:"/>
+			<origination label="Creator:"><corpname encodinganalog="MARC 110">International Ladies'
+					Garment Workers' Union. Local 22 (New York, N.Y.)</corpname></origination>
+			<physdesc label="Quantity:" encodinganalog="MARC 300">2 linear feet</physdesc>
+			<physdesc label="Forms of Material:">Photographs.</physdesc>
+			<repository label="Repository:">Kheel Center for Labor-Management Documentation and
+				Archives, Cornell University Library</repository>
+			<abstract label="Abstract:">The collection includes images of important people and
+				events in Local 22 including ILGWU President David Dubinsky, Local 22 Manager
+				Charles Zimmerman, Max Danish, Fannia Cohn, Rose Pesotta, and Maida Springer Kemp,
+				along with images of sports and cultural events, parades, marches, strikes, meetings
+				and educational programs.</abstract>
+			<langmaterial label="Language:">Collection material in <language encodinganalog="041"
+					langcode="eng">English</language></langmaterial>
+		</did>
+		<bioghist encodinganalog="MARC 545">
+			<head id="a2" altrender="organization">ILGWU ORGANIZATIONAL HISTORY</head>
+			<p>The International Ladies’ Garment Workers’ Union was founded in New York City in 1900
+				by mostly Socialist immigrant workers who sought to unite the various crafts in the
+				growing women’s garment industry. The union soon reflected changes in the sector and
+				rapidly organized thousands of unskilled and semi-skilled women, mostly Jewish and
+				Italian young immigrants. Exemplifying the “new unionism,” the ILGWU led two of the
+				most widespread and best-known industrial strikes of the early Twentieth Century:
+				the shirtwaist makers’ strike of 1909 in New York City and the cloak makers’ strike
+				of 1910 in Chicago. The union also tried to adapt to the fragmented and unstable
+				nature of the industry. It adopted the “protocol of peace,” a system of industrial
+				relations that attempted to ensure stability and limit strikes and production
+				disruption by providing for an arbitration system to resolve disputes.</p>
+			<p>The ILGWU exemplified the European-style social unionism of its founding members.
+				They pursued bread and butter issues but provided educational opportunities,
+				benefits, and social programs to union members as well. In 1919, the ILGWU became
+				the first American union to negotiate an unemployment compensation fund that was
+				contributed to by its employers. The ILGWU also pioneered in the establishment of an
+				extremely progressive health care program for its members which included not only
+				regional Union Health Centers but also a resort for union workers, known as Unity
+				House. The Union also had an imaginative and pioneering Education Department which
+				not only trained workers in traditional union techniques, but provided courses in
+				citizenship and the English language.</p>
+			<p>David Dubinsky, an immigrant from Belarus who came to the US in 1911, provided strong
+				leadership that led to unprecedented growth in the union during his presidency from
+				1932 to 1966. He led the union through successful internal anti-communist struggles,
+				built on the ascendancy of industrial unionism by encouraging the formation of the
+				Committee for Industrial Organization, and helped the union become an important
+				political force in New York City and state politics, and in the national Democratic
+				Party and Liberal Party as well.</p>
+			<p>In the period following the Second World War, the union suffered a decline in
+				membership as manufacturers avoided unionization and took advantage of less
+				expensive labor by moving shops from the urban centers in the northeast to the
+				south, and later abroad. The ethnic and racial character of the ILGWU also changed
+				as European immigrants were supplanted by Asians, Latin Americans, African-
+				Americans, and immigrants from the Caribbean.</p>
+			<p>In July 1995 the ILGWU merged with the Amalgamated Clothing and Textile Workers Union
+				(ACTWU) at a joint convention, forming UNITE (Union of Needletrades, Industrial and
+				Textile Employees). At the time the new union had a membership of about 250,000 in
+				the United States, Canada, and Puerto Rico. </p>
+		</bioghist>
+		<bioghist encodinganalog="MARC 545">
+			<head id="a3" altrender="organization">ORGANIZATIONAL HISTORY </head>
+			<p>Charles S. Zimmerman, labor leader, political activist, and officer, International
+				Ladies' Garment Workers' Union (ILGWU).</p>
+			<p>Charles Zimmerman was born in Russia in 1896 and emigrated to the U.S. in 1913. He
+				worked in the New York garment industry and joined ILGWU Local 22; shortly
+				thereafter, he became its secretary-manager. He was also an organizer for the Joint
+				Board of the Dress and Waistmakers' Union. Throughout the 1920s, Zimmerman was an
+				active member of the Communist Party, which affiliation cost him his union
+				leadership positions in 1925. By 1931, however, he was reinstated in the ILGWU and
+				was elected a vice-president in 1934.</p>
+			<p>Zimmerman was involved in both left-wing politics and labor affairs throughout his
+				life. Even after his reinstatement in the ILGWU, he maintained close ties with the
+				anti-Stalinist Lovestonites of the Communist Party. He also had a significant role
+				in other political parties, including the American Labor Party and the Liberal Party
+				of New York State, and was an advocate for African-American workers in the ILGWU.
+				Charles Zimmerman resigned from his ILGWU positions in 1972; he died in 1983.</p>
+		</bioghist>
+		<scopecontent encodinganalog="MARC 520">
+			<head id="a5">COLLECTION DESCRIPTION</head>
+			<p>The collection includes images of important people and events in Local 22 including
+				ILGWU President David Dubinsky, Local 22 Manager Charles Zimmerman, Max Danish,
+				Fania Cohn, Rose Pesotta, and Maida Springer Kemp, along with images of sports and
+				cultural events, parades, marches, strikes, meetings and educational programs.</p>
+		</scopecontent>
+		<controlaccess>
+			<head id="a8">SUBJECTS</head>
+			<controlaccess>
+				<head>Names: </head>
+				<corpname encodinganalog="MARC 110">International Ladies' Garment Workers'
+					Union.</corpname>
+				<persname encodinganalog="MARC 600">Antonini, Luigi, 1883-1968</persname>
+				<persname encodinganalog="MARC 600">Baroff, Abraham </persname>
+				<persname encodinganalog="MARC 600">Billings, Warren K., 1893-1972</persname>
+				<persname encodinganalog="MARC 600">Bluestein, Mendl </persname>
+				<persname encodinganalog="MARC 600">Cohn, Fannia M.(Fannia Mary), 1885-</persname>
+				<persname encodinganalog="MARC 600">Danish, Max D. </persname>
+				<persname encodinganalog="MARC 600">Dornbusch, Mendel </persname>
+				<persname encodinganalog="MARC 600">Dubinsky, David, 1892-1982</persname>
+				<persname encodinganalog="MARC 600">Eisenhower, Dwight D.(Dwight David),
+					1890-1969</persname>
+				<persname encodinganalog="MARC 600">Falikman, Moe </persname>
+				<persname encodinganalog="MARC 600">Feinberg, Israel </persname>
+				<persname encodinganalog="MARC 600">Hillman, Sidney, 1887-1946</persname>
+				<persname encodinganalog="MARC 600">Hochman, Julius, 1892-1970</persname>
+				<persname encodinganalog="MARC 600">Kemp, Maida Springer </persname>
+				<persname encodinganalog="MARC 600">Kreindler, Charles </persname>
+				<persname encodinganalog="MARC 600">Marrom, Harry </persname>
+				<persname encodinganalog="MARC 600">Mooney, Thomas J., 1882-1942</persname>
+				<persname encodinganalog="MARC 600">Pesotta, Rose, b. 1896</persname>
+				<persname encodinganalog="MARC 600">Potofsky, Jacob S.(Jacob Samuel),
+					1894-1979</persname>
+				<persname encodinganalog="MARC 600">Ransom, Edith </persname>
+				<persname encodinganalog="MARC 600">Roosevelt, Eleanor, 1884-1962</persname>
+				<persname encodinganalog="MARC 600">Schneider, Joe </persname>
+				<persname encodinganalog="MARC 600">Stevenson, Adlai E.(Adlai Ewing),
+					1900-1965</persname>
+				<persname encodinganalog="MARC 600">Zimmerman, Charles S., 1896-1983</persname>
+				<corpname encodinganalog="MARC 610">AFL-CIO </corpname>
+				<corpname encodinganalog="MARC 610">Amalgamated Clothing Workers of America </corpname>
+				<corpname encodinganalog="MARC 610">American Federation of Labor </corpname>
+				<corpname encodinganalog="MARC 610">American Jewish Congress </corpname>
+				<corpname encodinganalog="MARC 610">Congress of Industrial Organizations (U.S.) </corpname>
+				<corpname encodinganalog="MARC 610">Hebrew Butcher Workers' Union. Local 234 (New
+					York, N.Y.)</corpname>
+				<corpname encodinganalog="MARC 610">International Ladies' Garment Workers' Union </corpname>
+				<corpname encodinganalog="MARC 610">International Ladies' Garment Workers' Union.
+					Local 155 (New York, N.Y.)</corpname>
+				<corpname encodinganalog="MARC 610">International Ladies' Garment Workers' Union.
+					--Management</corpname>
+				<corpname encodinganalog="MARC 610">International Ladies' Garment Workers' Union.
+					Local 22 (New York, N.Y.)</corpname>
+				<corpname encodinganalog="MARC 610">International Ladies' Garment Workers' Union.
+					Local 22 (New York, N.Y.)--Management</corpname>
+				<corpname encodinganalog="MARC 610">Jewish Consumptives' Relief Society (U.S.) </corpname>
+				<corpname encodinganalog="MARC 610">Jewish Labor Committee (U.S.) </corpname>
+				<corpname encodinganalog="MARC 610">Negro Labor Committee </corpname>
+			</controlaccess>
+			<controlaccess>
+				<head>Subjects:</head>
+				<subject encodinganalog="MARC 650">Clothing workers--Labor unions--United
+					States.</subject>
+				<subject encodinganalog="MARC 650">Labor unions and communism--United
+					States.</subject>
+				<subject encodinganalog="MARC 650">Labor unions--Officials and employees.</subject>
+				<subject encodinganalog="MARC 650">Labor union locals.</subject>
+			</controlaccess>
+			<controlaccess>
+				<head>Places:</head>
+				<geogname encodinganalog="MARC 651">New York (State)--Politics and government--20th
+					century.</geogname>
+				<geogname encodinganalog="MARC 651">United States--Politics and government--20th
+					century.</geogname>
+			</controlaccess>
+			<controlaccess>
+				<head>Form and Genre Terms:</head>
+				<genreform encodinganalog="MARC 655" source="aat">Photographs.</genreform>
+			</controlaccess>
+		</controlaccess>
+		<descgrp>
+			<head id="a10">INFORMATION FOR USERS</head>
+			<accessrestrict>
+				<head>Access Restrictions:</head>
+				<p>Restrictions: The ILGWU Records, except for publications and materials produced
+					for publication, are restricted. Materials created prior to twenty years from
+					the current date are open to researchers only with prior written permission from
+					the Director of the Kheel Center; materials created during the past twenty-years
+					are closed; the minutes of the General Executive Board are closed. For more
+					information contact the Kheel Center.</p>
+			</accessrestrict>
+			<prefercite>
+				<head>Cite As:</head>
+				<p>ILGWU. Local 22. Charles Zimmerman photographs. 5780/014 P. Kheel Center for
+					Labor-Management Documentation and Archives, Martin P. Catherwood Library,
+					Cornell University.</p>
+			</prefercite>
+		</descgrp>
+		<relatedmaterial>
+			<head id="a6">RELATED MATERIALS</head>
+			<p>5780. ILGWU Records</p>
+			<p>5780/014. ILGWU. Local 22. Charles Zimmerman papers</p>
+			<p>5780/015. ILGWU. Local 22 records</p>
+			<p>5780/036. ILGWU. Local 22 minutes</p>
+			<p>5780/057. ILGWU. Local 22. Education Department records</p>
+			<p>5780/057 P. ILGWU. Local 22. Education Department photographs</p>
+			<p>5780/067. ILGWU. Israel Breslow papers</p>
+		</relatedmaterial>
+		<odd type="notes">
+			<head id="a7">NOTES</head>
+			<p>"Permanent deposit"</p>
+		</odd>
+
+		<dsc type="in-depth">
+			<head>CONTAINER LIST</head>
+			<c01 level="file">
+				<did>
+					<container type="box">1</container>
+					<container type="folder">1</container>
+					<unittitle>Awards and Ceremonies</unittitle>
+				</did>
+				<scopecontent>
+					<p>Includes Charles Zimmerman and Mayor Beam with others in swearing-in
+						ceremony; C. Zimmerman, William Green and other with plaque honoring Green;
+						Mendl Bluestein 51st birthday celebration; Jack Broder dinner, Zimmerman,
+						Julius Hochman; Local 22 installation April 1937 including Zimmerman,
+						Dubinsky, Fania Cohn, and others; Edith Ransom and C. Zimmerman receiving
+						awards, Julius Hochman looking on, July 1936.</p>
+				</scopecontent>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container type="box">1</container>
+					<container type="folder">2</container>
+					<unittitle>Contracts</unittitle>
+				</did>
+				<scopecontent>
+					<p>Includes signing Dress agreement March 1944 with Hochman, Antonini, Dubinsky,
+						Zimmerman, et al.; Local 155 ratification with C. Zimmerman, Mendel
+						Dornbusch, Luigi Antonini, Louis Nelson and others</p>
+				</scopecontent>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container type="box">1</container>
+					<container type="folder">3</container>
+					<unittitle>Conventions, AFL</unittitle>
+				</did>
+				<scopecontent>
+					<p>Includes September 1944, 1950, 1951, and 1954, including Zimmerman, Hochman,
+						Dubinsky, Antonini, Israel Feinberg, Charles Kreindler, Grace [Sardegna],
+						Max Danish, John martin, Moe [Falikman]</p>
+				</scopecontent>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container type="box">1</container>
+					<container type="folder">4</container>
+					<unittitle>Conventions, Dressmakers Union Local 22, 50th convention,
+						1950</unittitle>
+					<unitdate normal="1950">1950</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container type="box">1</container>
+					<container type="folder">5</container>
+					<unittitle>Conventions, ILGWU</unittitle>
+				</did>
+				<scopecontent>
+					<p>Includes 23rd biennial convention May 1937; Local 22 recognition of DD
+						leadership; John L. Lewis, Rose Pesotta, Antonini, Zimmerman, Hochman,
+						Dubinsky, Sidney Hillman, and others.</p>
+				</scopecontent>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container type="box">1</container>
+					<container type="folder">6</container>
+					<unittitle>Conventions, Miscellaneous</unittitle>
+				</did>
+				<scopecontent>
+					<p>Includes Dubinsky, Feinberg, Antonini, Zimmerman, Hochman, ILGWU conventions,
+						1944, 1947, 1950, 1956, District 65, 1957</p>
+				</scopecontent>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container type="box">1</container>
+					<container type="folder">7</container>
+					<unittitle>Education</unittitle>
+				</did>
+				<scopecontent>
+					<p>Includes American History class, Gus Tyler instructor, 1935; Spanish School,
+						Educational Alliance, 1956; Educational Conference, 1938 with Zimmerman,
+						Edith Ransom, and others; Art Show 1940; Local 22 Educational Director
+						Morton Wishengrad; Zimmerman teaching; tour with Zimmerman, Edith Ransom and
+						others; Symposium on Soviet aggression, 1951; Dressmakers class, 1956; neg.
+						Harlem Educational Meeting, 1934; tour to study production methods at te
+						Cooperative Wholesale Society Clothing factory, Bristol, England, 1936.</p>
+				</scopecontent>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container type="box">1</container>
+					<container type="folder">8</container>
+					<unittitle>Jewish Organizations</unittitle>
+				</did>
+				<scopecontent>
+					<p>Includes Administrative Committee of the Deborah Jewish Tuberculosis Society,
+						1946; Jewish Consumptives Relief Society (JCRS) of Denver, 1938; Amun
+						Israeli 1951 and 1952; Jewish Labor Committee (JLC), 1945; JLC, includes
+						President Eisenhower and C. Zimmerman with others, 1952, Elmer Millerman
+						Pres. Brotherhood of Maintenance of Way Employees Union reports on
+						Buchenwald; Histadrut luncheon welcoming the Kreindlers, 1954; Meeting of
+						representatives of ILGWU, ACWA, Workmen’s Circle, United Hebrew Trades,
+						Hebrew Butcher Workers Union, JCRS, CIO, Furrier’s Joint Council; ILGWU
+						members at Deborah Sanatorium, 1943; Gift from Histadrut to William
+						Green.</p>
+				</scopecontent>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container type="box">1</container>
+					<container type="folder">9</container>
+					<unittitle>League for Industrial Democracy</unittitle>
+				</did>
+				<scopecontent>
+					<p>Includes 47th conference 1952; 49th annual luncheon, 1954; 51st annual
+						luncheon, 1956; 52nd annual luncheon 1957; LID award to Luis Munos Marin,
+						1957</p>
+				</scopecontent>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container type="box">1</container>
+					<container type="folder">10</container>
+					<unittitle>Labor Stage</unittitle>
+				</did>
+				<scopecontent>
+					<p>Includes scenes from Pins and Needles; slogans such as “Fight Against Race
+						Discrimination”, “Birobidgan, the Jewish Hope”, “American Democracy”, “Death
+						to Fascism” “Forgotten Man” and “A Coal Miner’s Reward”; Labor Stage
+						1937.</p>
+				</scopecontent>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container type="box">1</container>
+					<container type="folder">11</container>
+					<unittitle>Local 22 Activities</unittitle>
+				</did>
+				<scopecontent>
+					<p>ncludes women’s basketball, 1938; men’s basketball; men’s baseball; a trip on
+						the S. S. Liberty Belle,1956; social gatherings; mandolin class “Boost
+						Anti-Fascist Drive”; P. G. Excursion, 193 Winter; Dressmaker’s Liberal Party
+						Club; Local 22 Ball, 1935; Dressmaker’s Progressive Group, Local 22; at a
+						cabin, 1946 or 1947; Rose Pesotta, Luigi Antonini and others, 1936.</p>
+				</scopecontent>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container type="box">1</container>
+					<container type="folder">12</container>
+					<unittitle>Local 22 Elections</unittitle>
+				</did>
+				<scopecontent>
+					<p>Includes Minkas reading telegrams after election, 1937; scenes from the 1937
+						election</p>
+				</scopecontent>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container type="box">1</container>
+					<container type="folder">12a</container>
+					<unittitle>Local 22 General</unittitle>
+				</did>
+				<scopecontent>
+					<p>Includes; First Executive Board, 1921; Executive Board, 1933 or 1934; Office
+						staff; Membership Committee; Los Angeles Sanitarium, 1938; speakers at a
+						podium; Harry Marrom contributing to the new library fund</p>
+				</scopecontent>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container type="box">1</container>
+					<container type="folder">13</container>
+					<unittitle>Local 22 and other labor organizations</unittitle>
+				</did>
+				<scopecontent>
+					<p>Includes AFL Convention, 1946 Jewish Labor Committee dinner, Dubinsky Green,
+						Zimmerman, and others; Dressmakers greet Transport Workers, 1938; Zimmerman
+						et al, AFL-CIO, 1955; Zimmerman at Seamen’s meeting, 1936; Heads of local 25
+						early 1900’s including Abraham Baroff, Charles Jacobson, Israel Horowitz and
+						Spivack; Local 22 Dressmakers greet Steel Workers in SWOC (1940’s?); CIO
+						Masquerade chain shows member unions.</p>
+				</scopecontent>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container type="box">1</container>
+					<container type="folder">13a</container>
+					<unittitle>Mooney, Thomas J. and Warren K. Billings</unittitle>
+				</did>
+				<scopecontent>
+					<p>Includes prison photo and photo with Zimmerman and other, 1935.</p>
+				</scopecontent>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container type="box">1</container>
+					<container type="folder">14</container>
+					<unittitle>Negro Labor Committee</unittitle>
+				</did>
+				<scopecontent>
+					<p>Includes C. Zimmerman at the head table speaking to the Negro Labor Committee
+						Conference, March 1, 1952 (shows banner).</p>
+				</scopecontent>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container type="box">1</container>
+					<container type="folder">15</container>
+					<unittitle>Parades</unittitle>
+				</did>
+				<scopecontent>
+					<p>Includes May Day parade, 1942?, marchers, film crew, a sign “Nazism is POISON
+						for workers, and “..Dressmakers Local 22 on May Day remembers Tom
+						Mooney…Labor”; athletic division and others; group on bicycles and athletic
+						division; marching band and banners; Joint Council Knitgoods Workers Union
+						of the ILGWU and United Textile Workers of America; C. Zimmerman and others
+						marching; 1934 May Day parade with Zimmerman in front of black and white
+						marchers with local 22 pennants [including Edith Ransom, business agent];
+						union members in ethnic dress on horse-drawn float representing the globe;
+						“Down with Fascism” sign; Zimmerman and others in parade car</p>
+				</scopecontent>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container type="box">1</container>
+					<container type="folder">16</container>
+					<unittitle>Pesotta, Rose</unittitle>
+				</did>
+				<scopecontent>
+					<p>Includes Rose and another; Rose with bouquet sitting with mixed black and
+						white men and women.</p>
+				</scopecontent>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container type="box">1</container>
+					<container type="folder">17</container>
+					<unittitle>Puerto Rico</unittitle>
+				</did>
+				<scopecontent>
+					<p>Includes Zimmerman visiting a shop and speaking, 1934; Puerto Rican
+						Committee, 1953; mobile health unit staff and civil defense officials of
+						Aibonito Puerto Rico, 1956, shows Lazare Teper.</p>
+				</scopecontent>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container type="box">1</container>
+					<container type="folder">18</container>
+					<unittitle>Rallies</unittitle>
+				</did>
+				<scopecontent>
+					<p>Includes Garment Center street rally with Gov. Adlai E. Stevenson II
+						addressing the crowd, October, 1952; Zimmerman addresses 1952 rally; large
+						crowd in park rally; May Day 1936; May Day 1937; Trade Union
+						Commission/Committee? For Civil Rights rally, Madison Square Garden, May 24,
+						1956;</p>
+				</scopecontent>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container type="box">1</container>
+					<container type="folder">19</container>
+					<unittitle>Ransom, Edith</unittitle>
+				</did>
+				<scopecontent>
+					<p>Includes snapshot of Edith with others on a hike (Riley, Ransom, Claus, and
+						Eva Dalton); Portrait March 1937.</p>
+				</scopecontent>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container type="box">1</container>
+					<container type="folder">20</container>
+					<unittitle>Spanish Civil War</unittitle>
+				</did>
+				<scopecontent>
+					<p>Includes Zimmerman and others shows posters “Volunteer workers, 100,000
+						garments for Spain, Trade Union Comm…”; group shots, 1937 and 1938.</p>
+				</scopecontent>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container type="box">1</container>
+					<container type="folder">21</container>
+					<unittitle>Strikes</unittitle>
+				</did>
+				<scopecontent>
+					<p>Includes “When we strike, we win, what we win, we keep” with Julius Hochman;
+						1948 garment district strike with arrested seamen; Mass demonstration by the
+						dress Joint Board; many “racketeering” and “gangster” signs; Macys strike,
+						1956.</p>
+				</scopecontent>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container type="box">2</container>
+					<container type="folder">1</container>
+					<unittitle>World War II</unittitle>
+				</did>
+				<scopecontent>
+					<p>Includes Zimmerman and International Solidarity Committee war relief care
+						packages poster, 1946; Dubinsky and Zimmerman discussing Russian war relief
+						with 2 others; Russian and Chinese relief, about 1943; Chinese war relief,
+						about 1944; “Woks Kuibyshev USSR” Donations from Local 22 to British labor
+						and the Jewish Labor Committee; “50,000 warm garments from Local 22 to
+						Commissioner Maurice Davidson for the Russian War Relief Society to be given
+						to Russian women; Dubinsky and Zimmerman et al. Launching the 284th Liberty
+						Ship, SS Benjamin Schlesinger, January 1944; Rose Pesotta, C. Zimmerman and
+						other with goods for war relief, Los Angeles, 1941.</p>
+				</scopecontent>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container type="box">2</container>
+					<container type="folder">2</container>
+					<unittitle>Zimmerman, Charles S. et al., 1930’s</unittitle>
+					<unitdate type="inclusive" normal="1930/1939">1930-1939</unitdate>
+				</did>
+				<scopecontent>
+					<p>Includes Zimmerman with David Dubinsky, Julius Hochman, Luigi Antonini, Edith
+						Ransom and others in off meetings; conferences; public locations; speaking
+						for WEVD; in posed group photos; and on the Miami Beach docks after
+						fishing.</p>
+				</scopecontent>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container type="box">2</container>
+					<container type="folder">3</container>
+					<unittitle>Zimmerman, Charles S, et al., 1940’s</unittitle>
+					<unitdate type="inclusive" normal="1940/1949">1940-1949</unitdate>
+				</did>
+				<scopecontent>
+					<p>Includes Zimmerman with David Dubinsky, Julius Hochman, Luigi Antonini, Jacob
+						Potofsky and others; wit General Executive Board 1947-1950; a family
+						portrait?; at dinner gatherings, celebrations and meetings.</p>
+				</scopecontent>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container type="box">2</container>
+					<container type="folder">4</container>
+					<unittitle>Zimmerman, Charles S, et al., 1950’s</unittitle>
+					<unitdate type="inclusive" normal="1950/1959">1950-1959</unitdate>
+				</did>
+				<scopecontent>
+					<p>Includes Zimmerman with Robert Wagner, at the Margolis luncheon, 1954; with
+						Eleanor Roosevelt, 1956; a Catholic Interracial Council Forum, 1950; at
+						Breslow’s election as vice President of the Workmen’s Circle, 1953;
+						Zimmerman and Potofsky with A. Philip Randolph 1954; with the Committee for
+						a Shorter Work Week, Local 32B, 1958; Zimmerman donating to the campaign for
+						a permanent Fair Employment Practice Commission in NY.</p>
+				</scopecontent>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container type="box">2</container>
+					<container type="folder">5</container>
+					<unittitle>Zimmerman, Charles S, et al., undated</unittitle>
+				</did>
+				<scopecontent>
+					<p>Includes Zimmerman speaking at dinners and meetings; sitting with various
+						groups in posed and un-posed photos; with Business Agents including Edith
+						Ransom; at a funeral/memorial gathering; with Mrs. Belle Schlesinger
+						Scolnik, and at Unity House.</p>
+				</scopecontent>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container type="box">2</container>
+					<container type="folder">6</container>
+					<unittitle>Miscellaneous</unittitle>
+				</did>
+				<scopecontent>
+					<p>Includes Julius Hochman addressing Building Chairmen and UDC members at Unity
+						House, 1939; David Dubinsky; Joe Schneider in a casket, 1933; group
+						including Edith Ransom, Hochman, Zimmerman; “E  O Committee, 1935;
+						Executive Staff, Ladies’ Waist and Dressmakers’ Union, Local 25, 1913.</p>
+				</scopecontent>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container type="box">2</container>
+					<container type="folder">7</container>
+					<unittitle>Unidentified</unittitle>
+				</did>
+				<scopecontent>
+					<p>Includes the ship “Negbah” in Tel Aviv, 1948; man with bandaged head wound;
+						formal groups; man signing a document with onlooker; young women sewing;
+						young women under labor leaders’ photos; George [Fiffer?] in military
+						uniform; portrait of two women; a costume party/pins and needles
+						gathering?</p>
+				</scopecontent>
+			</c01>
+		</dsc>
+	</archdesc>
+</ead>

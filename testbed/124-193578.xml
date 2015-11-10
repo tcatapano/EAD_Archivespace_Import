@@ -1,0 +1,156 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "../ead_dtd/ead.dtd" [
+<!ENTITY scrc_name SYSTEM "scrc_name.txt">
+<!ENTITY su_address SYSTEM "su_address.txt">
+<!ENTITY su_name SYSTEM "su_name.txt">
+<!ENTITY subjindex SYSTEM "subjindex.txt">
+<!ENTITY summitref SYSTEM "summit_ref.txt">
+]>
+
+<!-- TEMPLATE VERSION 1.13, 22 Jun 2009 -->
+<!-- Added Tube as container type -->
+
+<ead relatedencoding="MARC21">
+   <!--All items are required unless marked OPT.  Any optional items 
+not used should be commented out so that they don't appear in the viewable
+ document.-->
+
+<eadheader audience="internal" langencoding="iso639-2b" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924" relatedencoding="DC">
+      <eadid countrycode="US" mainagencycode="NSyU" identifier="col_phil_co">col_phil_co</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper encodinganalog="Title">Colcord, Philbrick  Company Account Book</titleproper>
+            <subtitle>A description of its account book at Syracuse University</subtitle>
+         <author encodinganalog="Creator">LMD</author></titlestmt>
+         <publicationstmt>
+            <publisher encodinganalog="Publisher"><lb/></publisher>
+            
+            <date normal="2010-02-17" encodinganalog="Date">17 Feb 2010</date>
+         </publicationstmt>
+      </filedesc>
+      <profiledesc>
+         <creation>Laura Deal<date normal="2010-02-17">17 Feb 2010</date>
+         </creation>
+         <langusage>
+            <language langcode="eng" encodinganalog="Language">English</language>
+         </langusage>
+      </profiledesc>
+      <!--Enter revisions in the format "## date - ## change (## initials)"--><revisiondesc>
+         <list>
+            <item></item>
+         </list>
+      </revisiondesc>
+   </eadheader>
+   <archdesc level="collection" type="inventory" relatedencoding="MARC21">
+      <did>
+         <head>Overview of the Collection</head>
+         <repository encodinganalog="852$a" label="Repository: ">
+          <lb/> 
+         </repository>
+         <origination label="Creator: ">
+            <corpname encodinganalog="110">Colcord, Philbrick  Company.</corpname>
+         </origination>
+         <unittitle encodinganalog="245$a" label="Title: ">Colcord, Philbrick  Company Account Book</unittitle>
+         <unitdate encodinganalog="245$f" normal="1847/1852" type="inclusive" label="Inclusive Dates: ">1847-1852</unitdate>
+            <physdesc encodinganalog="300$a" label="Quantity: "><extent>1 folder (SC)</extent></physdesc>
+         <abstract encodinganalog="520$a" label="Abstract: ">Account book of Colcord, Philbrick  Co., a pharmacy and chemist in Great Falls, New Hampshire.</abstract>
+         <unitid encodinganalog="099" label="Identification: " countrycode="US" repositorycode="NSyU">2735924</unitid>
+         <langmaterial label="Language: " encodinganalog="546">
+            <language langcode="eng">English </language>
+         </langmaterial>
+      </did>
+            
+      <bioghist encodinganalog="545">
+         <head>Biographical History</head>
+         
+      <p>Colcord, Philbrick  Co. was a pharmacy and chemist in Great Falls, New Hampshire (now called Somersworth) during the mid-nineteenth century. It was connected to Colcord, Philbrick  Co. (later called Philbrick  Trafton) of Boston, founded by Samuel Runnels Philbrick and Samuel M. Colcord. </p></bioghist>
+      
+      <scopecontent encodinganalog="520">
+         <head>Scope and Contents of the Collection</head>
+         <p>The <emph render="bold">Colcord, Philbrick  Company Account Book</emph> contains a 240+ page ledger from Great Falls, New Hampshire (now Somersworth) covering the years 1847 to 1852. The book contains names of customers (many of them physicians), lists of items purchased, prices, and dates.  </p>
+      </scopecontent>
+      
+      <arrangement encodinganalog="351$a">
+         <head>Arrangement of the Collection</head>
+         <p>Single item.</p>
+      </arrangement>
+      
+      <!--<relatedmaterial encodinganalog="544 1">
+         <head>Related Material</head>
+         <p>## (MARC 544 1)</p><p> has made a concerted effort over the 
+years to ensure that its manuscript and rare books holdings complement each other.  
+As a result, many of our manuscript collections are supported by books, pamphlets, 
+serials and other items which are cataloged in the Rare Books Collection.  Please be 
+sure to search  for these related materials.</p>
+      </relatedmaterial>-->
+      
+      <!--Use archref, not extref, to link to related collections.--><!--<separatedmaterial encodinganalog="544 0">
+         <head>Separated Material</head>
+         <p>## OPT (MARC 544 0)</p>
+      </separatedmaterial>-->
+      
+      <!--<otherfindaid encodinganalog="555">
+         <head>Other Related Finding Aids</head>
+         <p>## OPT (MARC 555)</p>
+      </otherfindaid>-->
+      
+      <controlaccess>
+         <head>Subject and Genre Headings</head>
+         <!--For each, include source if possible (aat, lcsh, local, etc). Some have 
+defaults set in the template.-->
+         <!--<persname encodinganalog="600" source="lcnaf">##</persname>-->
+         <!--<famname encodinganalog="600" source="lcnaf">##</famname>-->
+         <subject encodinganalog="650" source="local">Science and medicine</subject>
+			<corpname encodinganalog="610" source="local">Colcord, Philbrick  Company.</corpname>
+         <!--<title encodinganalog="630" source="lcnaf">##</title>-->
+         <subject encodinganalog="650" source="lcsh">Physicians -- New Hampshire -- Somersworth.</subject>
+         <subject encodinganalog="650" source="lcsh">Pharmacists -- New Hampshire -- Somersworth.</subject>
+			<geogname encodinganalog="651" source="lcsh">Somersworth (N.H.) -- History.</geogname>
+         <genreform encodinganalog="655" source="aat">Account books.</genreform>
+         <occupation encodinganalog="656" source="lcsh">Pharmacists.</occupation>
+         <!--<function encodinganalog="657">##</function>--></controlaccess>
+      
+      <accessrestrict encodinganalog="506">
+         <head>Access Restrictions</head>
+         <p> There are no access restrictions on this material.</p>
+      </accessrestrict>
+      
+      <userestrict encodinganalog="540">
+         <head>Use Restrictions</head>
+         <p> Written permission must be obtained from SCRC and 
+all relevant rights holders before publishing quotations, excerpts or images from any 
+materials in this collection.</p>
+      </userestrict>
+      
+      <prefercite encodinganalog="524">
+         <head>Preferred Citation</head>
+         <p>Preferred citation for this material is as follows:</p>
+         <p>Colcord, Philbrick  Company Account Book, <lb/>  </p>
+      </prefercite>
+      
+      <acqinfo encodinganalog="541">
+         <head>Acquisition Information</head>
+         <p>Purchased, 1968.</p>
+      </acqinfo>
+      
+      <!--<appraisal encodinganalog="583">
+         <head>Appraisal Information</head>
+         <p>## OPT (MARC 583)</p>
+      </appraisal>-->
+      
+      <!--<accruals encodinganalog="584">
+         <head>Accruals</head>
+         <p>## OPT (MARC 584)</p>
+      </accruals>-->
+      
+      <dsc type="combined">
+         <head>Inventory</head>
+         <!--C01 @LEVEL must be set to 'series' to show up in TOC.-->
+         <c01 level="series"><did><unittitle>Account Books</unittitle></did>
+               <!--Permissible values for @TYPE for first CONTAINER are: Box, Package, SC, Oversize, Volume, Carton, Map-Case, Cabinet, or Tube.-->
+               <!--Permissible values for @TYPE for second CONTAINER are: Folder, Frame, Tape, Page, Drawer, or Reel-->
+            <c02><did><unittitle><unitdate normal="1847/1852" type="inclusive">1847-1852</unitdate></unittitle><container type="SC">390</container></did></c02>
+         </c01>
+      </dsc>
+   </archdesc>
+</ead>

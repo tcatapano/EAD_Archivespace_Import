@@ -1,0 +1,2813 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "../ead_dtd/ead.dtd" [
+<!ENTITY scrc_name SYSTEM "scrc_name.txt">
+<!ENTITY su_address SYSTEM "su_address.txt">
+<!ENTITY su_name SYSTEM "su_name.txt">
+<!ENTITY subjindex SYSTEM "subjindex.txt">
+<!ENTITY summitref SYSTEM "summit_ref.txt">
+]>
+<ead relatedencoding="MARC21">
+<eadheader audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" relatedencoding="DC" repositoryencoding="iso15511" scriptencoding="iso15924">
+<eadid countrycode="US" mainagencycode="NSyU" identifier="lossing_bj">lossing_bj</eadid>
+<filedesc>
+<titlestmt>
+<titleproper encodinganalog="Title"> Benson John Lossing Collection</titleproper>
+<subtitle>An inventory of his collection at Syracuse University</subtitle>
+<author encodinganalog="Creator">KM</author>
+</titlestmt>
+<publicationstmt>
+<publisher encodinganalog="Publisher">
+<lb/>
+</publisher>
+<date encodinganalog="Date" normal="1992-06">Jun 1992</date>
+</publicationstmt>
+</filedesc>
+<profiledesc>
+<creation>AmCon <date normal="2007-03-19">19 Mar 2007</date>
+</creation>
+<langusage>
+<language encodinganalog="Language" langcode="eng">English</language>
+</langusage>
+</profiledesc>
+<revisiondesc>
+<list>
+<item>19 Mar 2007 - converted to EAD (AMCon)</item>
+</list>
+</revisiondesc>
+</eadheader>
+<archdesc level="collection" relatedencoding="MARC21" type="inventory">
+<did>
+<head>Overview of the Collection</head>
+<repository label="Repository: " encodinganalog="852$a">
+<lb/></repository>
+<origination label="Creator: ">
+<persname encodinganalog="100">Lossing, Benson John, 1813-1891.</persname>
+</origination>
+<unittitle encodinganalog="245$a" label="Title: ">Benson John Lossing Collection,</unittitle>
+<unitdate calendar="gregorian" encodinganalog="245$f" era="ce" label="Inclusive Dates: " type="inclusive" normal="1843/1917">1843-1917</unitdate>
+<physdesc encodinganalog="300$a" label="Quantity: ">
+<extent>1.75 linear ft.</extent>
+</physdesc>
+<abstract encodinganalog="520$a" label="Abstract: ">The Benson John Lossing Collection is an assortment of correspondence, drawings, writings, and memorabilia relating to the 19th century historian, illustrator, and editor of The American Historical Review (1813-1891). Predominantly correspondence, the collection centers around Lossing's information gathering for his popularizations of American history, while it also illuminates the early publishing industry in the United States.</abstract>
+<unitid countrycode="US" encodinganalog="099" label="Identification: " repositorycode="NSyU">143254</unitid>
+<langmaterial encodinganalog="546" label="Language: ">
+<language encodinganalog="Language" langcode="eng">English</language>
+</langmaterial>
+</did><bioghist encodinganalog="545">
+			<head>Biographical History</head>
+			
+		<p>Benson John Lossing (1813-1891), historian, editor, and wood-engraver, was born at Beekman, Dutchess County, N.Y., son of John Lossing, a farmer, and Miriam (Dorland) Lossing. Benson's father and mother died when he was a child, and his formal education was limited to three years at a district school. </p><p>During his apprenticeship to a watchmaker at Poughkeepsie he read a number of history books, and over a period of several years pursued an independent study. At the age of twenty-two he was made joint editor and proprietor of the <emph render="italic">Poughkeepsie Telegraph</emph>, Dutchess County's official Democratic journal; and when he became joint editor of the <emph render="italic">Poughkeepsie Casket</emph>, a literary fortnightly, he began to learn the art of engraving on wood from J. A. Adams, illustrator for this paper.
+    He went to New York in 1838 and in 1839 began two years of editing and illustrating for J. S. Redfield's <emph render="italic">Family Magazine</emph>. </p><p>His <emph render="italic">Outline History of the Fine Arts</emph>, prepared largely during spare moments, was published in 1840 as one of Harper's Family Library. For the <emph render="italic">Pictorial Field Book of the American Revolution</emph> (1850-52) Lossing traveled more than eight thousand miles in the United States and Canada, collecting information and dashing off hasty sketches from which he afterwards made block drawings for engravings. Harper  Bros. had advanced him the funds for this enterprise; the book was issued first in parts and later in two large octavo volumes. </p><p>During the thirty-five years that followed, Lossing published prolifically, and in all was either author or editor of more than forty titles. Among them were two more of the pictorial series, covering the War of 1812 and the Civil War. From 1872 to 1874 he was an able editor of the <emph render="italic">American Historical Record</emph> and <emph render="italic">Repertory of Notes and Queries</emph>. Lossing was twice married: in June 1833 to Alice Barritt; and during the year after her death, to Helen Sweet.
+    The fact that Lossing's <emph render="italic">Pictorial Field Book of the American Revolution</emph> is still interesting to the layman and authoritatively valuable to the antiquarian would seem to make its author more than a mere popularizer of American history. </p><p>[Adapted from <emph render="italic">American Authors 1600-1900</emph> (1938)]</p></bioghist>
+		
+		<scopecontent encodinganalog="520">
+<head>Scope and Contents of the Collection</head>
+<p>The<emph render="bold"> Benson John Lossing Collection</emph> comprises <emph render="bold">Correspondence-family</emph>, <emph render="bold">Correspondence-general</emph>, <emph render="bold">Drawings</emph>, <emph render="bold">Writings</emph>, and <emph render="bold">Memorabilia</emph> relating to the 19th century historian, illustrator, and editor of <emph render="italic">The American Historical Review</emph> (1813-1891). Predominantly correspondence, the collection centers around Lossing's information gathering for his popularizations of American history, while it also illuminates the early publishing industry in the United States.</p><p><emph render="bold">Correspondence-family</emph> consists mostly of letters by Lossing to his wife Helen and includes single letters to and from Lossing's son, Edison. Arranged chronologically, the <emph render="bold">Correspondence-general</emph> consists of over 1000 incoming and outgoing letters written between 1843 and 1903, and includes those of artists (John C. Buttre, Thomas S. Cummings, T. Addison Richards, John Rogers, James Smillie, Robert W. Weir); antiquarians (Samuel G. Drake, Lyman C. Draper, John S. Fogg); authors (W. H. Bogart, Thomas Ewbank, Laura C. Holloway, Theodorus B. Myers, Caroline Frances Orne, Nathaniel Paine, Charles F. Richardson, James Riker, Edward M. Ruttenber, Prosper M. Wetmore, Andrew C. Zabriske); clergymen (Henry W. Bellows, Thomas B. Fairchild, Edward D. Neill, Samuel I. Prime, William B. Sprague); editors (Lyman Abbott, Henry M. Alden, Mary L. Booth, Henry B. Dawson, Evert A. Duyckinck, Sarah J. Hale); historians (Samuel G. Arnold, A. B. Berard, A. G. Brackett, Charles C. Jones, George H. Moore, Henry Onderdonk, Jeptha R. Simms, William Leete Stone, John W. Thornton, John F. Watson, Winslow C. Watson, William A. Whitehead); military figures (John W. De Peyster, Dennis H. Mahan, Brantz Mayer, William H. Morris, John E. Wool); physicians (John W. Francis, Samuel W. Francis, F. B. Hough, Usher Parsons); politicians (Charles S. Carter, Schuyler Colfax, Hiland Hall, A. B. Hasbrouck); and publishers (William H. Appleton, Henry C. Baird, Clarence W. Bowen, George W. Childs, Joseph W. Harper, Mason Brothers, George H. Putnam, George P. Putnam). There are also a number of letters written to Mrs. Lossing subsequent to her husband's death in 1891. In addition, Correspondence includes miscellaneous letters about Lossing, letter fragments, and envelopes. A <ref target="sic">selected index to the correspondence</ref> follows the box list.</p>
+<p>Lossing's work as an illustrator and historian is represented by <emph render="bold">Drawings</emph> and <emph render="bold">Writings</emph>. The collection contains five pencil sketches, one watercolored, of mostly historical sites. Writings include various chapters from <emph render="italic">The Discovery of America</emph> and <emph render="italic">Side Lights of History,</emph> as well as an assortment of research material, notes, miscellaneous manuscripts, and clippings.</p>
+<p><emph render="bold">Memorabilia</emph> includes financial and legal documents and an Anderson Galleries auction catalog from 1917 containing Lossing manuscripts and drawings.</p>
+</scopecontent><!--
+<arrangement encodinganalog="351$a">
+<head>Arrangement of the Collection</head>
+<p>## OPT (MARC 351$a)</p>
+</arrangement>--><!--
+<relatedmaterial encodinganalog="544 1">
+<head>Related Material</head>
+<p>## (MARC 544 1)</p>
+</relatedmaterial>--><!--
+<separatedmaterial encodinganalog="544 0">
+<head>Separated Material</head>
+<p>## OPT (MARC 544 0)</p>
+</separatedmaterial>--><!--
+<otherfindaid encodinganalog="555">
+<head>Other Related Finding Aids</head>
+<p>## OPT (MARC 555)</p>
+</otherfindaid>-->
+<controlaccess>
+<head>Subject and Genre Headings</head>
+<subject encodinganalog="650" source="local">Art -- Illustrators</subject><subject encodinganalog="650" source="local">Historians</subject><subject encodinganalog="650" source="local">Publishing, printing and book arts</subject><persname encodinganalog="600" source="lcnaf">Abbott, Lyman, 1835-1922.</persname>
+<persname encodinganalog="600" source="lcnaf">Alden, Henry Mills, 1836-1919.</persname>
+<persname encodinganalog="600" source="lcnaf">Appleton, William Henry, 1814-1899.</persname>
+<persname encodinganalog="600" source="lcnaf">Arnold, Samuel Greene, 1821-1880.</persname>
+<persname encodinganalog="600" source="lcnaf">Atlee, Samuel Yorke.</persname>
+<persname encodinganalog="600" source="lcnaf">Atlee, William Yorke.</persname>
+<persname encodinganalog="600" source="lcnaf">Baird, Henry Carey, 1825-1912.</persname>
+<persname encodinganalog="600" source="lcnaf">Bellows, Henry W. (Henry Whitney), 1814-1882.</persname>
+<persname encodinganalog="600" source="lcnaf">Berard, A. B. (Augusta Blanche), 1824-1901.</persname>
+<persname encodinganalog="600" source="lcnaf">Bogart, W. H. (William Henry), 1810-1888.</persname>
+<persname encodinganalog="600" source="lcnaf">Booth, Mary L. (Mary Louise), 1831-1889.</persname>
+<persname source="lcnaf" encodinganalog="600">Bowen, Clarence Winthrop, 1852-1935.</persname><persname source="lcnaf" encodinganalog="600">Brackett, Albert G.  (Albert Gallatin), |d 1829-1896.</persname><persname source="lcnaf" encodinganalog="600">Brooks, N. C. (Nathan Covington), 1809-1898.</persname><persname source="lcanf" encodinganalog="600">Buckingham, Stephen M.</persname><persname source="lcanf" encodinganalog="600">Buttre, John Chester, 1821-1893.</persname><persname source="lcanf" encodinganalog="600">Carter, Charles S.</persname><persname source="lcanf" encodinganalog="600">Childs, George William, 1829-1894.</persname><persname source="lcanf" encodinganalog="600">Colfax, Schuyler, 1823-1885.</persname><persname source="lcanf" encodinganalog="600">Cummings, Thomas Seir, 1804-1894.</persname><persname source="lcanf" encodinganalog="600">Dawson, Henry B. (Henry Barton),  1821-1889.</persname><persname source="lcanf" encodinganalog="600">De Peyster, J. Watts (John Watts), 1821-1907.</persname><persname source="lcanf" encodinganalog="600">Drake, Samuel Gardner, 1798-1875.</persname><persname source="lcanf" encodinganalog="600">Draper, Lyman Copeland, 1815-1891.</persname><persname source="lcanf" encodinganalog="600">Duychinck, Evert A. (Evert Augustus),  1816-1878.</persname><persname source="lcanf" encodinganalog="600">Emmet, Thomas Addis, 1828-1919.</persname><persname source="lcanf" encodinganalog="600">Ewbank, Thomas, 1793-1870.</persname><persname source="lcanf" encodinganalog="600">Fairchild, Thomas B.</persname><persname source="lcanf" encodinganalog="600">Fairlie, Frederick.</persname><persname source="lcanf" encodinganalog="600">Fogg, John S. H.</persname><persname source="lcanf" encodinganalog="600">Francis, John W. (John Wakefield), 1789-1861.</persname><persname source="lcanf" encodinganalog="600">Francis, Samuel W. (Samuel Ward), 1835-1886.</persname><persname source="lcanf" encodinganalog="600">Gourlie, John H.</persname><persname source="lcanf" encodinganalog="600">Hale, Sarah Josepha Buell, 1788-1879.</persname><persname source="lcanf" encodinganalog="600">Hall, Hiland, 1795-1885.</persname><persname source="lcanf" encodinganalog="600">Harper, Joseph Wesley.</persname><persname source="lcanf" encodinganalog="600">Hasbrouck, Abraham Bruyn, 1791-1879.</persname><persname source="lcanf" encodinganalog="600">Holloway, Laura C. (Laura Carter),	 b. 1848.</persname><persname source="lcanf" encodinganalog="600">Hough, Franklin Benjamin, 1822-1885.</persname><persname source="lcanf" encodinganalog="600">Jones, Charles Colcock, 1831-1893.</persname><persname source="lcanf" encodinganalog="600">Lossing, Benson John, 1813-1891 Archives.</persname><persname source="lcanf" encodinganalog="600">McAllister, John A.</persname><persname source="lcanf" encodinganalog="600">Mahan, D. H. (Dennis Hart),  1802-1871.</persname><persname source="lcanf" encodinganalog="600">Mayer, Brantz, 1809-1879.</persname><persname source="lcanf" encodinganalog="600">Moore, George Henry, 1823-1892.</persname><persname source="lcanf" encodinganalog="600">Neill, Edward D. (Edward Duffield), 1823-1893.</persname><persname source="lcanf" encodinganalog="600">Onderdonk, Henry, 1804-1886.</persname><persname source="lcanf" encodinganalog="600">Orne, Caroline F. (Caroline Frances), 1818-1905.</persname><persname source="lcanf" encodinganalog="600">Paine, Nathaniel, 1832-1917.</persname><persname source="lcanf" encodinganalog="600">Parsons, Usher, 1788-1868.</persname><persname source="lcanf" encodinganalog="600">Prime, Samuel Urenus, 1812-1885.</persname><persname source="lcanf" encodinganalog="600">Putnam, George Haven, 1844-1930.</persname><persname source="lcanf" encodinganalog="600">Putnam, George Palmer, 1814-1872.</persname><persname source="lcanf" encodinganalog="600">Redfield, Justus Starr, 1810-1888.</persname><persname source="lcanf" encodinganalog="600">Richards, T. Addison (Thomas Addison), 1820-1900.</persname><persname source="lcanf" encodinganalog="600">Riker, James, 1822-1889.</persname><persname source="lcanf" encodinganalog="600">Rogers, John, 1829-1904.</persname><persname source="lcanf" encodinganalog="600">Ruttenber, Edward Manning, 1825-1907.</persname><persname source="lcanf" encodinganalog="600">Saunders, Frederick, 1807-1902.</persname><persname source="lcanf" encodinganalog="600">Simms, Jeptha Root, 1807-1883.</persname><persname source="lcanf" encodinganalog="600">Smillie, James, 1807-1885.</persname><persname source="lcanf" encodinganalog="600">Sprague, William Buell, 1795-1876.</persname><persname source="lcanf" encodinganalog="600">Stevens, John Austin, 1827-1910.</persname><persname source="lcanf" encodinganalog="600">Stone, William Leete, 1835-1908.</persname><persname source="lcanf" encodinganalog="600">Thornton, John Wingate, 1818-1878.</persname><persname source="lcanf" encodinganalog="600">Watson, John F. (John Fanning), 1779-1860.</persname><persname source="lcanf" encodinganalog="600">Watson, Winslow C. (Winslow Cossoul), 1803-1884.</persname><persname source="lcanf" encodinganalog="600">Weir, Robert Walter, 1803-1889.</persname><persname source="lcanf" encodinganalog="600">Wetmore, Prosper Montgomery, 1798-1876.</persname><persname source="lcanf" encodinganalog="600">Whitehead, William A. (William Adee), 1810-1884.</persname><persname source="lcanf" encodinganalog="600">Wool, John Ellis, 1784-1869.</persname><corpname source="lcnaf" encodinganalog="610">Harper  Brothers.</corpname><corpname source="lcnaf" encodinganalog="610">Mason Brothers.</corpname><subject encodinganalog="650" source="lcsh">	 Artists United States.</subject>
+<subject encodinganalog="650" source="lcsh">	 Editors United States.</subject>
+<subject encodinganalog="650" source="lcsh"> Historians United States.</subject>
+<subject encodinganalog="650" source="lcsh">	 History publishing United States.</subject>
+<subject encodinganalog="650" source="lcsh">	 Illustrators United States.</subject>
+<subject encodinganalog="650" source="lcsh">	 Publishers and publishing United States.</subject>
+<occupation encodinganalog="656" source="lcsh">Correspondents.</occupation>
+<occupation encodinganalog="656" source="lcsh">Artists.</occupation>
+<occupation source="lcsh" encodinganalog="656">Editors.</occupation><occupation source="lcsh" encodinganalog="656">Historians.</occupation><occupation source="lcsh" encodinganalog="656">Illustrators.</occupation></controlaccess>
+<accessrestrict encodinganalog="506">
+<head>Access Restrictions</head>
+<p>Written permission must be obtained from SCRC and all relevant rights holders before publishing quotations, excerpts or images from any materials in this collection.</p>
+</accessrestrict>
+<userestrict encodinganalog="540">
+<head>Use Restrictions</head>
+<p>Written permission must be obtained from SCRC and all relevant rights holders before publishing quotations, excerpts or images from any materials in this collection.</p>
+
+</userestrict>
+<prefercite encodinganalog="524">
+<head>Preferred Citation</head>
+<p>Preferred citation for this material is as follows:</p>
+<p>Benson John Lossing Collection, <lb/> </p>
+</prefercite><!--
+<acqinfo encodinganalog="541">
+<head>Acquisition Information</head>
+<p>### (MARC 541 and/or  561)</p>
+</acqinfo>--><!--
+<appraisal encodinganalog="583">
+<head>Appraisal Information</head>
+<p>## OPT (MARC 583)</p>
+</appraisal>--><!--
+<accruals encodinganalog="584">
+<head>Accruals</head>
+<p>## OPT (MARC 584)</p>
+</accruals>-->
+<dsc type="combined">
+<head>Inventory</head>
+<c01 level="series">
+<did>
+<unittitle>Correspondence-family</unittitle>
+</did>
+<c02>
+<did>
+<unittitle>Benson J. Lossing/Helen Lossing (wife)</unittitle>
+<unitdate type="inclusive" normal="1857/1889">1857-1889, </unitdate>
+<unitdate type="inclusive" normal="1843/1917">undated</unitdate>
+<container type="Box">1</container>
+</did>
+</c02>
+<c02>
+<did>
+<unittitle>Benson J. Lossing/Edison J. Lossing (son)</unittitle>
+<unitdate type="inclusive" normal="1880">1880, </unitdate>
+<unitdate type="inclusive" normal="1890">1890</unitdate>
+<container type="Box">1</container>
+</did>
+</c02>
+</c01>
+<c01 level="series">
+<did>
+<unittitle>Correspondence-general</unittitle>
+</did>
+<c02>
+<did>
+<unittitle><unitdate type="inclusive" normal="1843/1862">1843-1862</unitdate>
+</unittitle>
+<physdesc>
+<extent>34 folders</extent>
+</physdesc>
+<container type="Box">1</container>
+</did>
+</c02>
+<c02>
+<did>
+<unittitle><unitdate type="inclusive" normal="1863/1874">1863-1874</unitdate>
+</unittitle>
+<physdesc>
+<extent>31 folders</extent>
+</physdesc>
+<container type="Box">2</container>
+</did>
+</c02>
+<c02>
+<did>
+<unittitle><unitdate type="inclusive" normal="1875/1891">1875-1891, </unitdate>
+<unitdate type="inclusive" normal="1843/1917">undated</unitdate>
+</unittitle>
+<physdesc>
+<extent>23 folders</extent>
+</physdesc>
+<container type="Box">3</container>
+</did>
+</c02>
+<c02>
+<did>
+<unittitle><unitdate type="inclusive" normal="1896/1903">1896-1903</unitdate></unittitle>
+<abstract>Letters to Mrs. Helen Lossing</abstract>
+<container type="Box">3</container>
+</did>
+</c02>
+<c02>
+<did>
+<unittitle>Miscellaneous (about Lossing)</unittitle>
+<container type="Box">4</container>
+</did>
+</c02>
+<c02>
+<did>
+<unittitle>Fragments</unittitle>
+<container type="Box">4</container>
+</did>
+</c02>
+<c02>
+<did>
+<unittitle>Envelopes</unittitle>
+<container type="Box">4</container>
+</did>
+</c02>
+</c01>
+<c01 level="series">
+<did>
+<unittitle>Drawings</unittitle>
+<container type="Box">4</container></did>
+</c01>
+<c01 level="series">
+<did>
+<unittitle>Writings</unittitle>
+</did>
+<c02>
+<did>
+<unittitle>"The Discovery of America"</unittitle>
+<abstract>miscellaneous chapters - ms.</abstract>
+<container type="Box">4</container>
+</did>
+</c02>
+<c02>
+<did>
+<unittitle>"Side Lights of History"</unittitle>
+<abstract>miscellaneous chapters - ms.</abstract>
+<container type="Box">4</container>
+</did>
+</c02>
+<c02>
+<did>
+<unittitle>Research material, notes</unittitle>
+<container type="Box">4</container>
+</did>
+</c02>
+<c02>
+<did>
+<unittitle>Miscellaneous manuscripts</unittitle>
+<container type="Box">4</container>
+</did>
+</c02>
+<c02>
+<did>
+<unittitle>Clippings</unittitle>
+<container type="Box">4</container>
+</did>
+</c02>
+</c01>
+<c01 level="series">
+<did>
+<unittitle>Memorabilia</unittitle>
+</did>
+<c02>
+<did>
+<unittitle>Financial and legal documents</unittitle>
+<physdesc>
+<extent>2 folders</extent>
+</physdesc>
+<container type="Box">4</container>
+</did>
+</c02>
+<c02>
+<did>
+<unittitle>Reviews, miscellaneous printed material relating to William Wilson, whose book of poetry Lossing edited</unittitle>
+<container type="Box">4</container>
+</did>
+</c02>
+<c02>
+<did>
+<unittitle>Miscellany</unittitle>
+<container type="Box">4</container>
+</did>
+</c02>
+<c02>
+<did>
+<unittitle>Auction catalog from Anderson Galleries, Inc. of Lossing manuscripts and drawings</unittitle>
+<unitdate type="inclusive" normal="1917-01-29/1917-01-30">Jan. 29-30, 1917</unitdate>
+<container type="Box">4</container>
+</did>
+<!-- (02951)(02941) -->
+</c02>
+</c01>
+<c01 level="series" id="sic">
+<did>
+<unittitle>Selected index to correspondence</unittitle>
+</did>
+<odd>
+<list>
+<item>Abbott, Lyman<list>
+<item>1881 June 17</item>
+<item>1881 Sep. 22</item>
+<item>1881 Oct. 13</item>
+<item>1890 Nov. 25</item>
+<item>1898 July 20</item>
+<item>n.d.</item>
+</list>
+</item>
+<item>Adams, John D.<list>
+<item>n.d.</item>
+</list>
+</item>
+<item>Adams, John Q.<list>
+<item>1881 Feb. 12</item>
+</list>
+</item>
+<item>Akers, Charles<list>
+<item>1872 Apr. 09</item>
+</list>
+</item>
+<item>Akin, Lemuel T.<list>
+<item>1864 Dec. 05</item>
+</list>
+</item>
+<item>Alden, Henry Mills<list>
+<item>1873 June 10</item>
+<item>1873 Aug. 30</item>
+</list>
+</item>
+<item>Alden, John Berry<list>
+<item>1884 Feb. 27</item>
+</list>
+</item>
+<item>Aldrich, Charles<list>
+<item>1885 Apr. 07</item>
+<item>1885 Apr. 15</item>
+</list>
+</item>
+<item id="aleta">Allen, Ethan A., Jr.<list>
+<item>1856 Apr. 02 (misc.)</item>
+<item>1856 Dec. 27</item>
+</list>
+</item>
+<item>Allen  Co.<list>
+<item>1853 Feb. 03</item>
+</list>
+</item>
+<item>Alofsen, S.<list>
+<item>1861 July 02</item>
+</list>
+</item>
+<item>American Literary Bureau (See <ref target="cachs">Carter, Charles S.</ref>)</item>
+<item>Andrews, C. W.<list>
+<item>1855 Oct. 08</item>
+</list>
+</item>
+<item>Andrews, William Loring<list>
+<item>1867 July 01</item>
+</list>
+</item>
+<item>Annable, George O.<list>
+<item>1853 Nov. 30</item>
+</list>
+</item>
+<item>Appleton, William Henry<list>
+<item>1882 Oct. 30</item>
+<item>1901 Mar. 20</item>
+</list>
+</item>
+<item>Armstrong, John<list>
+<item>1850 Sep. 01</item>
+</list>
+</item>
+<item>Arnold, Isaac Newton<list>
+<item>1877 Aug. 06</item>
+</list>
+</item>
+<item>Arnold, Samuel Greene<list>
+<item>1855 Jan. 22</item>
+<item>1855 July 24</item>
+<item>1859 Jan. 09</item>
+<item>1863 Jan.</item>
+<item>1875 Aug. 16</item>
+<item>1878 July 10</item>
+<item>1887 Apr. 21</item>
+<item>1887 Dec. 30</item>
+<item>1889 Jan. 10</item>
+<item>1889 Jan. 24</item>
+<item>1889 Feb. 24</item>
+<item>1890 Jan. 07</item>
+</list>
+</item>
+<item>Aspinwall, Col.<list>
+<item>1860 Feb. 03</item>
+</list>
+</item>
+<item>Atlee, Goodwin Yorke<list>
+<item>1870 Dec. 06</item>
+</list>
+</item>
+<item>Atlee, Samuel Yorke<list>
+<item>1857 July 03</item>
+<item>1857 Nov. 12</item>
+<item>1862 Jan.</item>
+<item>1862 Mar. 08</item>
+<item>1863 Sep. 14</item>
+<item>1864 July 07</item>
+<item>1864 July 15</item>
+<item>1865 Dec. 19</item>
+<item>1866 May 29</item>
+<item>1868 Apr. 15</item>
+<item>1869 Aug. 06</item>
+<item>1869 Aug. 13</item>
+<item>1869 Sep. 07</item>
+<item>1870 July 28</item>
+<item>1870 Aug. 08</item>
+<item>1870 Nov. 16</item>
+<item>1871 Nov. 17</item>
+<item>1873 Feb. 01</item>
+<item>1876 May 29</item>
+<item>1877 Jan. 31</item>
+<item>1889 Feb. 08</item>
+<item>1889 July 09</item>
+<item>1889 Nov. 09</item>
+</list>
+</item>
+<item>Atlee, William Yorke<list>
+<item>1863 July 28</item>
+<item>1864 Apr. 14</item>
+</list>
+</item>
+<item>Atwill, C.<list>
+<item>n.d.</item>
+</list>
+</item>
+<item>Austin, Benjamin W.<list>
+<item>1886 Oct. 30</item>
+</list>
+</item>
+<item>Avery, Samuel Putnam<list>
+<item>1883 Mar. 12</item>
+</list>
+</item>
+<item>Bagnall, W. R.<list>
+<item>1882 Dec. 06</item>
+</list>
+</item>
+<item>Baird, Henry Carey<list>
+<item>1852 Mar. 03</item>
+<item>1852 July 23</item>
+<item>1853 Mar. 30</item>
+<item>1855 Apr. 06</item>
+<item>1860 Feb. 16?</item>
+</list>
+</item>
+<item>Baker, N. B.<list>
+<item>1873 Aug. 21</item>
+</list>
+</item>
+<item>Ballou, D. W., Jr.<list>
+<item>1853 Feb. 01</item>
+</list>
+</item>
+<item>Balmanno, Robert<list>
+<item>1855 Feb. 27</item>
+</list>
+</item>
+<item>Bancroft, George<list>
+<item>1880 Jan. 03</item>
+</list>
+</item>
+<item>Bardwell, J. N.<list>
+<item>1876 Mar. 01</item>
+</list>
+</item>
+<item>Barnard, Frederick A. P.<list>
+<item>1882 Oct. 19</item>
+</list>
+</item>
+<item>A. S. Barnes  Co.<list>
+<item>1886 June 04</item>
+</list>
+</item>
+<item>Barrett, Charles<list>
+<item>1870 May 25</item>
+</list>
+</item>
+<item>Barry, William<list>
+<item>1863 Apr. 15</item>
+<item>1863 Apr. 30</item>
+<item>1863 June 25</item>
+</list>
+</item>
+<item>Bartlett, John R.<list>
+<item>1861 Jan. 21</item>
+</list>
+</item>
+<item>Beach, W. W.<list>
+<item>1874 July 25</item>
+</list>
+</item>
+<item>Beal, Nathan R.<list>
+<item>1860 Apr. 04</item>
+</list>
+</item>
+<item>Beckman, James W.<list>
+<item>1853 Jan. 15</item>
+</list>
+</item>
+<item>Beers, F. L.<list>
+<item>1891 Jan. 08</item>
+</list>
+</item>
+<item>Belknap, William Worth<list>
+<item>1873 Oct. 09</item>
+</list>
+</item>
+<item>Bell, Clark<list>
+<item>n.d.</item>
+</list>
+</item>
+<item>Bell, T. S.<list>
+<item>n.d.</item>
+</list>
+</item>
+<item>Bellows, Henry Whitney<list>
+<item>1867 Feb. 05</item>
+<item>n.d.</item>
+</list>
+</item>
+<item>Bennett, L. G.<list>
+<item>1877 Dec. 28</item>
+</list>
+</item>
+<item>Benton, Joel<list>
+<item>1870 July 16</item>
+</list>
+</item>
+<item>Berard, Augusta Blanche<list>
+<item>[1855] May 14</item>
+<item>1863 Aug. 05</item>
+<item>1863 Nov. 19</item>
+<item>1865 Apr. 01</item>
+<item>1865 May 09</item>
+<item>1865 July 25</item>
+<item>1866 Dec. 03</item>
+<item>1866 Dec. 06</item>
+<item>1868 Oct. 18</item>
+<item>1876 July 24</item>
+</list>
+</item>
+<item>Bernard, R.<list>
+<item>1862 July 15</item>
+<item>1862 July 21</item>
+<item>1862 July 23</item>
+</list>
+</item>
+<item>Bill, Henry<list>
+<item>1865 Aug. 18</item>
+</list>
+</item>
+<item>Bill, Ledyard<list>
+<item>1865 Apr. 27</item>
+<item>1865 May 25</item>
+</list>
+</item>
+<item>Bishop, N. H.<list>
+<item>1877 Oct. 10</item>
+</list>
+</item>
+<item>Bissell, George Edwin<list>
+<item>1870 Dec. 12?</item>
+<item>1879 Mar. 28</item>
+</list>
+</item>
+<item>Bland, Fanny<list>
+<item>n.d.</item>
+</list>
+</item>
+<item>Boardman, Samuel Lane<list>
+<item>1876 Nov. 25</item>
+</list>
+</item>
+<item>Bogart, William Henry<list>
+<item>1853 Jan. 13 (misc.)</item>
+<item>1868? Mar. 21</item>
+<item>1883 Mar. 06</item>
+</list>
+</item>
+<item id="bomalo">Booth, Mary Louise<list>
+<item>1871 Oct. 02</item>
+<item>1871 Oct. 25</item>
+<item>1874 Dec. 26</item>
+<item>1878 May 13</item>
+<item>1879 Mar. 31</item>
+<item>1880 Jan. 17</item>
+<item>1880 June 14</item>
+<item>1881 Mar. 18</item>
+<item>1885 Sep. 22</item>
+<item>See also <ref target="habr">Harper and Brothers</ref></item>
+</list>
+</item>
+<item>Bowen, Clarence Winthrop<list>
+<item>1883 Jun. 19</item>
+<item>1888 Oct. 23</item>
+<item>1888 Oct. 30</item>
+</list>
+</item>
+<item>Bowen, Henry C.<list>
+<item>1884 Feb. 11</item>
+</list>
+</item>
+<item>Bowen, John Eliot<list>
+<item>1885 May 28</item>
+<item>1889 Apr. 11</item>
+</list>
+</item>
+<item>Boynton, Edward Carlisle<list>
+<item>1868 Dec. 04</item>
+<item>1868 Dec. 08</item>
+</list>
+</item>
+<item>Brackett, Albert Gallatin<list>
+<item>1872 Apr. 16</item>
+<item>1872 July 28</item>
+<item>1883 Oct. 21</item>
+</list>
+</item>
+<item>Bradley, J. W.<list>
+<item>1862 Feb. 24</item>
+</list>
+</item>
+<item>Brady, John<list>
+<item>1863 Dec. 20</item>
+</list>
+</item>
+<item>Breck, Samuel<list>
+<item>1859 May 30</item>
+<item>1859 June 18</item>
+</list>
+</item>
+<item>Brooks, Nathan Covington<list>
+<item>1857 May 05</item>
+<item>1865 Oct. 25</item>
+<item>1888 May 10</item>
+</list>
+</item>
+<item>Browne, Daniel Jay<list>
+<item>1852 Oct. 26</item>
+<item>1857 Mar. 14</item>
+</list>
+</item>
+<item>Browne, John C.<list>
+<item>1864 Feb. 15</item>
+</list>
+</item>
+<item>Browning, W. G.<list>
+<item>1888 June 28</item>
+</list>
+</item>
+<item>George Bruce's Son and Company<list>
+<item>1882 Oct. 14</item>
+</list>
+</item>
+<item>Bruce, J. M.<list>
+<item>1880 Dec. 02</item>
+</list>
+</item>
+<item>Bryant, William Cullen<list>
+<item>1872 Feb. 11</item>
+<item>1872 Feb. 13</item>
+</list>
+</item>
+<item>Buchanan, William<list>
+<item>1863 July 17</item>
+</list>
+</item>
+<item>Buckingham, Stephen M.<list>
+<item>1869 June 07</item>
+<item>1884 Aug. 03</item>
+<item>1884 Aug. 26</item>
+</list>
+</item>
+<item>Bulmer, J. T.<list>
+<item>1889 Jan. 05</item>
+</list>
+</item>
+<item>Bunce, Oliver Bell<list>
+<item>1856 Apr. 03</item>
+<item>1875 July 12</item>
+</list>
+</item>
+<item>Burgess, Edward<list>
+<item>1872 Sep. 24</item>
+</list>
+</item>
+<item>Burnham, T. O. H. P.<list>
+<item>1862 Jan. 24</item>
+</list>
+</item>
+<item>Busteed, Richard<list>
+<item>1864 Jan. 26</item>
+</list>
+</item>
+<item>Butler, James D.<list>
+<item>1888 Aug. 03</item>
+</list>
+</item>
+<item>Butter, B. C.<list>
+<item>n.d.</item>
+</list>
+</item>
+<item>Butters, William J.<list>
+<item>1862 Jan. 07</item>
+<item>[1862] Mar. 05</item>
+<item>n.d.</item>
+</list>
+</item>
+<item>Buttre, John Chester<list>
+<item>1859 Apr. 16</item>
+<item>1859 Aug. 01</item>
+<item>1863 Apr. 18</item>
+<item>1867 Apr. 24</item>
+<item>1871 May 05</item>
+<item>1877 Oct. 29</item>
+<item>1877 Nov. 25</item>
+<item>1878 May 13</item>
+<item>1878 Aug. 30</item>
+<item>1879 July 09</item>
+<item>1879 Oct. 28</item>
+<item>1880 Dec. 04</item>
+<item>1882 Apr. 01</item>
+<item>1891 Apr. 20</item>
+</list>
+</item>
+<item>Byers, A. G.<list>
+<item>1864 May 28</item>
+</list>
+</item>
+<item>Callahan, S. T.<list>
+<item>1850 July 30</item>
+</list>
+</item>
+<item>Caman, E. A.<list>
+<item>1867 July 3</item>
+</list>
+</item>
+<item>Campbell, Charles<list>
+<item>1859 Jan. 18</item>
+</list>
+</item>
+<item>Carrington, Henry B.<list>
+<item>1876 Oct. 14</item>
+</list>
+</item>
+<item id="cachs">Carter, Charles S.<list>
+<item>1871 Mar. 13</item>
+<item>1871 Oct. 12</item>
+<item>1872 Aug. 27</item>
+<item>1873 Jan. 28</item>
+<item>1874 Jan. 13</item>
+</list>
+</item>
+<item>Carter, Enoch<list>
+<item>1855 Nov. 26</item>
+<item>1872 Jan. 11</item>
+</list>
+</item>
+<item>Carter, Robert<list>
+<item>1873 June 12</item>
+</list>
+</item>
+<item>Case, O. D.<list>
+<item>1867 Apr. 06</item>
+</list>
+</item>
+<item>Chapin, John R.<list>
+<item>[1859] Apr. 18</item>
+</list>
+</item>
+<item>Charlier, Elie<list>
+<item>1883 Oct. 09</item>
+</list>
+</item>
+<item>Chase, J. E.<list>
+<item>1870 Jan. 13</item>
+</list>
+</item>
+<item>Chase, Nelson<list>
+<item>1873 June 23</item>
+</list>
+</item>
+<item>Cheney, T. Apoleon<list>
+<item>1865 Apr. 17</item>
+<item>1866 Sep. 20</item>
+</list>
+</item>
+<item>Chester, Joseph Lemuel<list>
+<item>1858 Apr. 08</item>
+<item>1858 Aug. 19</item>
+<item>n.d.</item>
+</list>
+</item>
+<item id="chjw">Chester, J. W.<list>
+<item>1857 Mar. 30</item>
+</list>
+</item>
+<item><emph render="italic">Chicago Sunday Gazette</emph> (See <ref target="chjw">Chester, J. W.</ref>)</item>
+<item>Childs, Emery E.<list>
+<item>1873 Oct. 22</item>
+</list>
+</item>
+<item>Childs, George William<list>
+<item>1862 Sep. 26</item>
+<item>1863 July 06</item>
+<item>1864 Sep. 27</item>
+<item>1862 Mar. 20 (misc.)</item>
+<item>1862 Apr. 05 (misc.)</item>
+<item>See also <ref target="peap">Peabody, A. P.</ref></item>
+</list>
+</item>
+<item>Church, Daniel<list>
+<item>1864 Mar. 27</item>
+<item>1864 Sep. 29</item>
+<item>n.d.</item>
+</list>
+</item>
+<item>Clark, Emmons<list>
+<item>1882 Nov. 25</item>
+</list>
+</item>
+<item>Clarke, Samuel C.<list>
+<item>1848 Oct. 21</item>
+<item>1885 May 21 (enclosure: from John Eliot Bowen 1885 May 28)</item>
+</list>
+</item>
+<item>Cleveland, Daniel<list>
+<item>1891 Jan. 12</item>
+</list>
+</item>
+<item>Coffin, Tristram<list>
+<item>1869 July 20</item>
+<item>1888 June 08</item>
+<item>1888 Nov. 29</item>
+</list>
+</item>
+<item>Cohen, Joshua J.<list>
+<item>1843 Feb. 26</item>
+<item>1855 Apr. 29</item>
+</list>
+</item>
+<item>Colfax, Schuyler<list>
+<item>1873 Mar. 20</item>
+<item>1881 Sep. 06</item>
+</list>
+</item>
+<item>Colver, Lincoln<list>
+<item>1887 Jan. 12</item>
+</list>
+</item>
+<item>Colyer, Vincent<list>
+<item>1864 June 10</item>
+</list>
+</item>
+<item>Combs, Leslie<list>
+<item>1871 Aug. 21</item>
+</list>
+</item>
+<item>Cook, Charles<list>
+<item>1850 Aug. 22</item>
+</list>
+</item>
+<item>Cook, John A.<list>
+<item>1862 Jul. 28</item>
+</list>
+</item>
+<item>Corwin, E. B.<list>
+<item>1856 Mar. 06</item>
+</list>
+</item>
+<item>Coryell, S. S.<list>
+<item>1870 Mar. 19</item>
+</list>
+</item>
+<item>Cowles, D. J.<list>
+<item>1862 July 18</item>
+</list>
+</item>
+<item>Craig, Isaac<list>
+<item>1872 Nov. 12</item>
+<item>1873 Sep. 05</item>
+<item>1883 Aug. 14</item>
+</list>
+</item>
+<item>Crane, W. C.<list>
+<item>1888 Aug. 24</item>
+</list>
+</item>
+<item>Crannell, W. W.<list>
+<item>1888 Mar. 10</item>
+<item>1889 Nov. 13</item>
+</list>
+</item>
+<item>Cruikshank, W.<list>
+<item>1852 June 28</item>
+</list>
+</item>
+<item>Cullum, George Washington<list>
+<item>1867 June 22</item>
+</list>
+</item>
+<item>Cummings, Thomas Seir<list>
+<item>1852 Oct. 21</item>
+<item>1882 Mar. 29</item>
+<item>1882 Nov. 26</item>
+<item>1885 Nov. 23</item>
+<item>1888 Jan. 08</item>
+</list>
+</item>
+<item>Cushing, Caleb<list>
+<item>1865 Feb. 14</item>
+</list>
+</item>
+<item>Cushman, Charles N.<list>
+<item>1855 Jan. 23</item>
+</list>
+</item>
+<item>Cuzner, Thomas<list>
+<item>1858 Dec. 29</item>
+</list>
+</item>
+<item>Dana, D., Jr.<list>
+<item>n.d.</item>
+</list>
+</item>
+<item>Darling, Charles William<list>
+<item>1888 May 15</item>
+<item>1888 May 17</item>
+</list>
+</item>
+<item>Darlington, William<list>
+<item>1859 Dec. 01</item>
+<item>1860 Feb. 08</item>
+</list>
+</item>
+<item>Dawson, Henry Barton<list>
+<item>1852 Mar. 15</item>
+<item>1866 July 04</item>
+<item>1881 Feb. 26</item>
+<item>n.d. (2)</item>
+</list>
+</item>
+<item>Day, Alfred<list>
+<item>1867 Nov. 09</item>
+</list>
+</item>
+<item id="deni">Dean, Nicholas<list>
+<item>1852 Mar. 31 (misc.)</item>
+</list>
+</item>
+<item>Deane, Charles<list>
+<item>1872 July 27</item>
+</list>
+</item>
+<item>De Lancey, Edward Floyd<list>
+<item>1872 Mar. 20</item>
+</list>
+</item>
+<item>Denham, Edward<list>
+<item>1891 July 07</item>
+</list>
+</item>
+<item>De Peyster, John Watts<list>
+<item>1860 July 04</item>
+<item>1865 Feb. 06</item>
+<item>1882 Dec. 04</item>
+<item>n.d. (enclosure: extract of Gen. Scott - Gen. Brown 1814 July 15)</item>
+ </list>
+</item>
+<item>Derby, C. L.<list>
+<item>1857 Aug. 08</item>
+</list>
+</item>
+<item>Derby, James Cephas<list>
+<item>1862 Mar. 20 (misc.)</item>
+<item>1884 Feb. 15</item>
+</list>
+</item>
+<item>De Vere, Schele<list>
+<item>1871 Nov. 06</item>
+</list>
+</item>
+<item>Dick, Franklin A.<list>
+<item>1865 Jan. 25</item>
+</list>
+</item>
+<item>Dickinson, Wharton<list>
+<item>1876 Aug. 29</item>
+</list>
+</item>
+<item>Dobbin, John Cochran<list>
+<item>1855 Nov. 16</item>
+</list>
+</item>
+<item>Dobbins, W. W.<list>
+<item>1863 Apr. 25</item>
+<item>1870 Feb. 01</item>
+</list>
+</item>
+<item>Doty, L.<list>
+<item>1862 Mar. 29</item>
+<item>1862 May 01</item>
+</list>
+</item>
+<item>Drake, Charles Daniel<list>
+<item>1865 Aug. 21</item>
+</list>
+</item>
+<item>Drake, Francis S.<list>
+<item>1870 Apr. 16</item>
+</list>
+</item>
+<item>Drake, Samuel Gardner<list>
+<item>1852 May 21</item>
+<item>1864 Apr. 25</item>
+<item>1870 Apr. 11</item>
+<item>1871 Oct. 31</item>
+<item>1871 Nov. 11</item>
+</list>
+</item>
+<item>Draper, John William<list>
+<item>1877 Apr. 24</item>
+</list>
+</item>
+<item>Draper, Lyman Copeland<list>
+<item>1854 May 17</item>
+<item>1854 May 29</item>
+<item>1854 June 06</item>
+<item>1854 June 16</item>
+<item>1854 Sep. 12</item>
+<item>1854 Oct. 18</item>
+<item>1854 Oct. 31</item>
+<item>1854 Dec. 17</item>
+<item>1855 May 16</item>
+<item>1859 Jan. 22</item>
+<item>1861 Mar. 23</item>
+<item>1869 Sep. 17</item>
+<item>1875 Oct. 24</item>
+</list>
+</item>
+<item>Duane, William<list>
+<item>1872 Jan. 11</item>
+<item>1872 Apr. 04</item>
+</list>
+</item>
+<item>Dudley, Joseph H.<list>
+<item>1869 Feb. 01</item>
+</list>
+</item>
+<item>Durand, Asher Brown<list>
+<item>1882 May 14</item>
+</list>
+</item>
+<item>Durand, John<list>
+<item>1882 July 17</item>
+<item>1882 July 24</item>
+</list>
+</item>
+<item>Duyckinck, Evert Augustus<list>
+<item>1856 Sep. 18 (misc.)</item>
+<item>1867 Nov. 26</item>
+<item>1868 Dec. 25</item>
+<item>1872 Apr. 20</item>
+</list>
+</item>
+<item>Dwight, Theodore<list>
+<item>16 May 1880</item>
+</list>
+</item>
+<item>Dyer, Heman<list>
+<item>1856 Dec. 04</item>
+</list>
+</item>
+<item>Eagen, Sam W.<list>
+<item>1852 Apr. 01</item>
+</list>
+</item>
+<item>Earle, Alice Morse<list>
+<item>n.d.</item>
+</list>
+</item>
+<item>Earnshaw, William<list>
+<item>1866 July 18</item>
+</list>
+</item>
+<item>Eastlake, Abram P.<list>
+<item>1875 Feb. 08</item>
+</list>
+</item>
+<item>Eaton, John<list>
+<item>1876 Mar. 30</item>
+</list>
+</item>
+<item>Edwards, J.<list>
+<item>1879 Apr. 01</item>
+</list>
+</item>
+<item>Elliott, Frances<list>
+<item>1862 Mar. 29</item>
+</list>
+</item>
+<item>Emmet, Thomas Addis<list>
+<item>1872 Sep. 25 (enclosure: copy of letter by Macy Ball Washington, mother of George Washington, 1760 July 02 to Joseph Ball)</item>
+<item>1874 Dec. 31</item>
+<item>1875 Dec. 09</item>
+</list>
+</item>
+<item>English, Earl<list>
+<item>1880 May 14</item>
+<item>1880 May 15</item>
+<item>1882 June 07</item>
+</list>
+</item>
+<item>Etting, Frank M.<list>
+<item>1866 June 08</item>
+<item>1872 Aug. 27</item>
+</list>
+</item>
+<item>Evarts, William Maxwell<list>
+<item>1891 Apr. 06</item>
+</list>
+</item>
+<item>Everett, W. E.<list>
+<item>1863 Aug. 25</item>
+</list>
+</item>
+<item>Ewbank, Thomas<list>
+<item>1852 Oct. 04</item>
+<item>1853 July 03</item>
+<item>1854 Oct. 05</item>
+<item>1857 May 27</item>
+<item>1863 Aug. 25</item>
+</list>
+</item>
+<item>Ewell, Benjamin S.<list>
+<item>1866 Sep. 24</item>
+</list>
+</item>
+<item>Fairchild, Thomas B.<list>
+<item>1852 Apr. 09</item>
+<item>1855 Apr. 26</item>
+<item>1855 Dec. 29</item>
+<item>1857 June 29</item>
+<item>1858 June 24</item>
+<item>1859 June 28</item>
+<item>1860 Dec. 08</item>
+<item>1861 Feb. 25</item>
+<item>1861 Sep. 14</item>
+</list>
+</item>
+<item>Fairlie, Frederick<list>
+<item>1857 Feb. 19</item>
+<item>1857 Mar. 03</item>
+<item>1857 Mar. 31</item>
+<item>1857 Apr. 08</item>
+<item>1857 Apr. 22</item>
+<item>1857 May 09</item>
+</list>
+</item>
+<item>Faxon, William<list>
+<item>1866 Nov. 26</item>
+</list>
+</item>
+<item>Field, Cyrus West<list>
+<item>1879 May 03</item>
+</list>
+</item>
+<item>Fisk, Jabor?<list>
+<item>1863 May 11</item>
+<item>1863 May 29</item>
+</list>
+</item>
+<item>Fiske, Daniel W.<list>
+<item>1863 Oct. 12</item>
+</list>
+</item>
+<item>Flagg, H.<list>
+<item>1862 June 20</item>
+</list>
+</item>
+<item>Flagler  Company<list>
+<item>1883 Apr. 03</item>
+</list>
+</item>
+<item>Fogg, John S. H.<list>
+<item>1866 Mar. 17</item>
+<item>1874 Mar. 10</item>
+<item>1874 June 13 (enclosures: copies of historical docs. in Fogg's collection)</item>
+<item>1874 Aug. 19</item>
+<item>1874 Nov. 07</item>
+<item>1888 Sep. 05</item>
+</list>
+</item>
+<item>Folwell, William W.<list>
+<item>1874 July 22</item>
+</list>
+</item>
+<item>Forbes, Edwin<list>
+<item>1866 Dec. 13</item>
+</list>
+</item>
+<item>Force, M. F.<list>
+<item>1873 Nov. 18</item>
+</list>
+</item>
+<item>Forsyth, John<list>
+<item>1872 Mar. 18</item>
+<item>1877 Feb. 01</item>
+<item>1877 Feb. 03</item>
+</list>
+</item>
+<item>Foster, J.<list>
+<item>1864 Aug. 20</item>
+</list>
+</item>
+<item>Fox, P. V.<list>
+<item>1885 Sep. 03</item>
+</list>
+</item>
+<item>Fox, Theo. S.<list>
+<item>1853 Jan. 25</item>
+</list>
+</item>
+<item>Francis, John Wakefield<list>
+<item>1855 May 25</item>
+<item>1859 Aug. 09</item>
+<item>1855 Feb. 03</item>
+<item>1859 Oct. 22</item>
+</list>
+</item>
+<item>Francis, Samuel Ward<list>
+<item>1872 July 27</item>
+<item>1876 Dec. 07</item>
+<item>1880 July 28</item>
+<item>1882 Sep. 09</item>
+<item>1884 Mar. 21</item>
+<item>n.d.</item>
+</list>
+</item>
+<item>French, John W.<list>
+<item>1887 June 21</item>
+</list>
+</item>
+<item id="frjo">Frost, John<list>
+<item>1853 Jan. 06 (misc.)</item>
+</list>
+</item>
+<item>Fuller, Samuel L.<list>
+<item>1857 July</item>
+</list>
+</item>
+<item>Funk, Isaac Kaufman<list>
+<item>1888 June 20</item>
+</list>
+</item>
+<item>Furness, Horace Howard<list>
+<item>1863 Jan. 14</item>
+</list>
+</item>
+<item>Gardner, Asa Bird<list>
+<item>1875 July 16</item>
+</list>
+</item>
+<item>Gautier, John S.<list>
+<item>1870 Apr. 23</item>
+<item>1870 Nov. 05</item>
+<item>1871 Feb. 15</item>
+</list>
+</item>
+<item>Gennet, C. M.<list>
+<item>1856 July 05</item>
+<item>1856 Aug. 01</item>
+</list>
+</item>
+<item>Gennet, W.<list>
+<item>1861 June 03</item>
+<item>1862 May 22</item>
+</list>
+</item>
+<item>Gilder, Jeannette Leonard and Joseph B.<list>
+<item>1884 Aug. 21</item>
+</list>
+</item>
+<item>Gilder, Richard Watson<list>
+<item>1871 May 29</item>
+</list>
+</item>
+<item>Gilley, Bradbury Poor<list>
+<item>1875 Mar. 31</item>
+</list>
+</item>
+<item id="gijaro">Gilmore, James Roberts<list>
+<item>1884 Jan. 20</item>
+</list>
+</item>
+<item>Gladwin, George E.<list>
+<item>1880 Dec. 27</item>
+</list>
+</item>
+<item>Goodman, Alfred T.<list>
+<item>1862 June 10</item>
+<item>1864 Jan. 04</item>
+</list>
+</item>
+<item>Goodman, Thomas A.<list>
+<item>1862 Nov. 15</item>
+</list>
+</item>
+<item>Goodrich, Cornelia G.<list>
+<item>n.d. (2)</item>
+</list>
+</item>
+<item>H. S. Goodspeed  Company<list>
+<item>1881 Oct. 20</item>
+<item>1884 Aug. 04</item>
+</list>
+</item>
+<item>Goodwin, William F.<list>
+<item>1860 June 18</item>
+</list>
+</item>
+<item>Goshem, A. T.<list>
+<item>1875 Mar. 02</item>
+</list>
+</item>
+<item>Gough, John Bartholomew<list>
+<item>1862 Mar. 06</item>
+</list>
+</item>
+<item>Gourlie, John H.<list>
+<item>1881 June 02</item>
+<item>1881 Sep. 14</item>
+<item>1882 Aug. 24</item>
+<item>1884 Dec. 04</item>
+<item>1886 Aug. 03</item>
+<item>1888 May</item>
+<item>1888 Aug. 02</item>
+<item>1888 Aug. 26</item>
+<item>n.d. (3)</item>
+</list>
+</item>
+<item>Greble, Edwin St. John<list>
+<item>1865 May 19</item>
+</list>
+</item>
+<item>Green, Samuel A.<list>
+<item>1874 May 19</item>
+</list>
+</item>
+<item>Hale, John M.<list>
+<item>1855 Dec. 17</item>
+</list>
+</item>
+<item>Hale, Sarah Josepha<list>
+<item>1851 May 19</item>
+<item>1857 Apr. 30</item>
+</list>
+</item>
+<item>Hall, Hiland<list>
+<item>1863 Apr. 17</item>
+<item>1863 May 06</item>
+<item>1867 Apr. 19</item>
+<item>1873 Apr. 24</item>
+<item>1873 May 10</item>
+<item>1874 Mar. 17</item>
+<item>1874 Apr. 02</item>
+</list>
+</item>
+<item>Hall, Thomas S.<list>
+<item>1863 Apr. 23</item>
+</list>
+</item>
+<item>Hamilton, A.<list>
+<item>n.d.</item>
+</list>
+</item>
+<item>Hamilton, John C.<list>
+<item>1858 Mar. 12</item>
+</list>
+</item>
+<item>Hamilton, Mary Morris<list>
+<item>1861 Feb. 24</item>
+</list>
+</item>
+<item>Hamilton, Philip<list>
+<item>1872 Nov. 18</item>
+</list>
+</item>
+<item>Hammett, Charles E., Jr.<list>
+<item>1852 July 09</item>
+</list>
+</item>
+<item>Hannah, George<list>
+<item>1870 Oct. 23</item>
+<item>1870 Nov. 01</item>
+</list>
+</item>
+<item>Harden, William<list>
+<item>1872 Jan. 11</item>
+</list>
+</item>
+<item>Hardie, James A.<list>
+<item>1863 Aug. 18</item>
+</list>
+</item>
+<item>Harpel, Oscar H.<list>
+<item>1874 Sep. 29 (enclosures: 2 copies of broadside, "Prospectus For a Printer's Poems")</item>
+</list>
+</item>
+<item id="hajow">Harper, Joseph Wesley Jr.<list>
+<item>1864 Mar. 05</item>
+<item>1868 Feb. 20</item>
+<item>1868 Feb. 29</item>
+<item>1868 Mar. 18</item>
+<item>1877 Mar. 22</item>
+<item>1878 Mar. 21</item>
+<item>1885 Mar.18</item>
+<item>See also <ref target="frjo">Frost, John</ref></item>
+<item>See also <ref target="aleta">Allen, Ethan A., Jr.</ref></item>
+</list>
+</item>
+<item id="habr">Harper and Brothers<list>
+<item>1857 Nov. 23</item>
+<item>1860 Apr. 28</item>
+<item>1860 Aug. 09?</item>
+<item>1868 July 29</item>
+<item>1870 Oct. 07</item>
+<item>1871 May 10</item>
+<item>1871 Oct. 07</item>
+<item>1872 Dec. 14</item>
+<item>1877 Mar. 19</item>
+<item>1881 Aug. 10</item>
+<item>1882 Oct. 20</item>
+<item>1896 Feb. 04</item>
+<item>1896 Sep. 23</item>
+<item>1887 June 30</item>
+<item>See also <ref target="bomalo">Booth, Mary Louise</ref>; <ref target="hajow">Harper, Joseph W., Jr.</ref></item>
+</list>
+</item>
+<item>Hart, Charles Henry<list>
+<item>1876 Aug. 03</item>
+</list>
+</item>
+<item>Hart, Harriette E.<list>
+<item>1870 Aug. 30</item>
+</list>
+</item>
+<item>Hasbrouck, Abraham Bruyn<list>
+<item>1862 July 16</item>
+<item>1877 Mar. 17</item>
+</list>
+</item>
+<item>Haviland, C. August<list>
+<item>1868 Sep. 02</item>
+<item>1876 Apr. 07</item>
+</list>
+</item>
+<item>Hawley, Charles<list>
+<item>1861 Aug. 29</item>
+</list>
+</item>
+<item>Hazen, William Babcock<list>
+<item>1879 Dec. 22</item>
+<item>1885 Mar. 02</item>
+</list>
+</item>
+<item>Headley, Joel Tyler<list>
+<item>n.d.</item>
+</list>
+</item>
+<item>Hepworth, George Hughes<list>
+<item>1884 Feb. 15</item>
+</list>
+</item>
+<item>Herbert, Sidney<list>
+<item>1865 Jan. 21</item>
+</list>
+</item>
+<item>Holden, A. W.<list>
+<item>1852 Mar. 19</item>
+</list>
+</item>
+<item>Holloway, Laura Carter<list>
+<item>1869 Mar. 08</item>
+<item>1871 Apr. 23</item>
+<item>1886 Aug. 10</item>
+<item>n.d.</item>
+</list>
+</item>
+<item>Holt, Joseph<list>
+<item>1865 July 05</item>
+</list>
+</item>
+<item>Hough, Franklin Benjamin<list>
+<item>1852 July 21</item>
+<item>1870 Dec. 28</item>
+<item>1883 Apr. 09</item>
+</list>
+</item>
+<item>Howard, George W.<list>
+<item>1878 Sep. 05</item>
+</list>
+</item>
+<item>Hubbell, William Wheeler<list>
+<item>1863 May 20</item>
+</list>
+</item>
+<item>Ivison, Henry<list>
+<item>1882 Aug. 28</item>
+<item>1882 Sep. 09</item>
+</list>
+</item>
+<item>Johnson, L. D.<list>
+<item>1860 May 30</item>
+<item>1861 Nov. 15</item>
+<item>n.d.</item>
+</list>
+</item>
+<item>Joline, Adrian Hoffman<list>
+<item>1887 Aug. 16 (misc.)</item>
+</list>
+</item>
+<item>Jones, Charles Colcock<list>
+<item>1872 Sep. 21</item>
+<item>1872 Nov. 06</item>
+<item>1874 Feb. 20</item>
+</list>
+</item>
+<item>Jones, Horatio G.<list>
+<item>1857 Sep. 10</item>
+</list>
+</item>
+<item>Jones, M. M.<list>
+<item>1875 Oct. 13</item>
+</list>
+</item>
+<item>Kelby, William<list>
+<item>1891 Apr. 29</item>
+</list>
+</item>
+<item>Kelly, John<list>
+<item>1882 Oct. 18</item>
+</list>
+</item>
+<item>Kelly, William<list>
+<item>1867 Mar. 08</item>
+</list>
+</item>
+<item>Kennedy, John A.<list>
+<item>1866 Aug. 08</item>
+</list>
+</item>
+<item>Ketchum, John Henry<list>
+<item>1884 Mar. 01</item>
+</list>
+</item>
+<item>Kidder, Edward<list>
+<item>1853 Apr. 14</item>
+</list>
+</item>
+<item>Kidder, Frederic<list>
+<item>1871 Oct. 12</item>
+<item>1871 Oct. 12</item>
+</list>
+</item>
+<item>Kimball, E. A. (Mrs.)<list>
+<item>1866 Nov. 20</item>
+<item>1867 Mar. 26</item>
+</list>
+</item>
+<item>King, Charles R.<list>
+<item>1887 July 29</item>
+</list>
+</item>
+<item>King, John<list>
+<item>1857 Feb. 18</item>
+</list>
+</item>
+<item>Kinney, B. H.<list>
+<item>1851 July 24</item>
+<item>1851 Oct. 27</item>
+</list>
+</item>
+<item>Kip, Leonard<list>
+<item>1870 Jan. 04</item>
+<item>1870 Jan. 06</item>
+</list>
+</item>
+<item>Kip, William F.<list>
+<item>1878 Sep. 11</item>
+</list>
+</item>
+<item>Kirk, Stephen Decatur<list>
+<item>1881 Sep. 13</item>
+<item>1881 Sep. 27</item>
+<item>1881 Oct. 10</item>
+</list>
+</item>
+<item>Kirke, Edmund (See <ref target="gijaro">Gilmore, James Roberts</ref>)</item>
+<item>Knoedler, W.<list>
+<item>1867 Oct. 28</item>
+</list>
+</item>
+<item>Lamb, Martha Joanna Reade Nash<list>
+<item>1888 May 17</item>
+</list>
+</item>
+<item>Lamberton, Benjamin Peffer<list>
+<item>1881 Jan. 07</item>
+</list>
+</item>
+<item>Latimer, Isaac<list>
+<item>1860 Oct. 4</item>
+</list>
+</item>
+<item>LeDuc, William Gates<list>
+<item>n.d.</item>
+</list>
+</item>
+<item>Lee, Herbert A.<list>
+<item>1888 June 20</item>
+</list>
+</item>
+<item>Lee, Mary Ann Randolph Custis<list>
+<item>n.d.</item>
+</list>
+</item>
+<item>Lewis, Edward<list>
+<item>1870 Nov. 27</item>
+</list>
+</item>
+<item>Lieber, Francis<list>
+<item>1872 Mar. 05</item>
+<item>1872 Mar. 06</item>
+</list>
+</item>
+<item>Lillington, Margaret H.<list>
+<item>n.d.</item>
+</list>
+</item>
+<item>Linn, John B.<list>
+<item>1877 Oct. 18</item>
+</list>
+</item>
+<item>Lippincott, Joshua Bertram<list>
+<item>1865 Aug. 09</item>
+</list>
+</item>
+<item>Littell, Eliakim<list>
+<item>1853 Feb. 28</item>
+</list>
+</item>
+<item>Liverman, George<list>
+<item>1860 Jan. 31</item>
+</list>
+</item>
+<item>Lossing, Benson J.<list>
+<item>1852 Apr. 09</item>
+<item>1852 May 21</item>
+<item>1852 June 28</item>
+<item>1853 Feb. 03</item>
+<item>1855 Feb. 03</item>
+<item>1855 Dec. 17</item>
+<item>1856 Apr. 27</item>
+<item>1857 Feb. 17</item>
+<item>1857 Mar. 03</item>
+<item>1857 Apr. 22</item>
+<item>1857 May 13</item>
+<item>1857 May 27</item>
+<item>1857 Aug. 27</item>
+<item>1857 Sep. 02</item>
+<item>1859 May 30</item>
+<item>1859 June 18</item>
+<item>1859 Oct. 22</item>
+<item>1860</item>
+<item>1860 Jan. 04</item>
+<item>1860 Feb. 03</item>
+<item>1860 Apr. 30</item>
+<item>1860 Dec. 04</item>
+<item>1861 Feb. 13</item>
+<item>1862 Mar. 06</item>
+<item>1862 Mar. 27</item>
+<item>1862 Oct. 10</item>
+<item>1862 Dec. 17</item>
+<item>1862 June 10</item>
+<item>1862 July 18</item>
+<item>1862 July 24</item>
+<item>1863 June 27</item>
+<item>1864 Feb. 15</item>
+<item>1864 Feb. 27</item>
+<item>1864 Mar. 05</item>
+<item>1864 Oct. 06</item>
+<item>1865 May 19</item>
+<item>1865 Oct. 03</item>
+<item>1866 June 25</item>
+<item>1866 July 4 (2)</item>
+<item>1866 Nov. 27</item>
+<item>1866 Nov. 29</item>
+<item>1867 Nov. 09</item>
+<item>1868 Feb. 21</item>
+<item>1868 Apr. 13</item>
+<item>1868 Dec. 19</item>
+<item>1869 Jan. 26?</item>
+<item>1869 Feb. 01</item>
+<item>1869 June 07</item>
+<item>1869 July 09</item>
+<item>1869 July 20</item>
+<item>1869 Sep. 06</item>
+<item>1870 Jan. 06</item>
+<item>1870 May 25</item>
+<item>1870 Sep. 25</item>
+<item>1871 May 29</item>
+<item>1871 July 01</item>
+<item>1871 Oct. 02</item>
+<item>1871 Oct. 25</item>
+<item>1871 Oct. 31 (2)</item>
+<item>1872 Feb. 13</item>
+<item>1872 Mar. 18</item>
+<item>1872 Apr. 20</item>
+<item>1872 May 20</item>
+<item>1872 July 27</item>
+<item>1872 Aug. 27</item>
+<item>1873 Oct. 09</item>
+<item>1874 Feb. 05</item>
+<item>1874 Feb. 19</item>
+<item>1874 June 17</item>
+<item>1874 July 14</item>
+<item>1875 Oct. 13</item>
+<item>1876 May 13</item>
+<item>1876 Nov. 25</item>
+<item>1877 Feb. 26</item>
+<item>1877 Oct. 29</item>
+<item>1877 Nov. 25</item>
+<item>1878 May 13 (2)</item>
+<item>1878 Aug. 12</item>
+<item>1878 Aug. 30</item>
+<item>1879 Mar. 28</item>
+<item>1879 July 09</item>
+<item>1880 Jan. 13</item>
+<item>1880 Jan. 17</item>
+<item>1880 June 14</item>
+<item>1880 June 28 (2)</item>
+<item>1880 Dec. 04</item>
+<item>1881 Mar. 18</item>
+<item>1881 Nov. 02</item>
+<item>1881 Dec. 26</item>
+<item>1882 Apr. 01</item>
+<item>1882 Apr. 17</item>
+<item>1882 June 07</item>
+<item>1883 Apr. 03</item>
+<item>1884 Feb. 15</item>
+<item>1884 Mar. 21</item>
+<item>1884 Aug. 21</item>
+<item>1884 Aug. 26</item>
+<item>1885 Jan. 23</item>
+<item>1885 Sep. 03</item>
+<item>1885 Sep. 22</item>
+<item>1886 Aug. 19</item>
+<item>1886 Oct. 30</item>
+<item>1887 June 21</item>
+<item>1887 June 30</item>
+<item>1887 Oct. 07</item>
+<item>1887 Dec. 24</item>
+<item>1888 June 08</item>
+<item>1888 June 20 (2)</item>
+<item>1888 Aug. 24</item>
+<item>1888 Nov. 29</item>
+<item>1889 Apr. 11</item>
+<item>1890 Apr. 19</item>
+<item>1890 May 12</item>
+<item>1890 Sep. 13</item>
+<item>1890 Oct. 14</item>
+<item>1890 Nov. 25</item>
+<item>1891 Mar. 09</item>
+</list>
+</item>
+<item>Luce, Stephen Bleecker<list>
+<item>1881 Sep. 27</item>
+</list>
+</item>
+<item>Ludlow, R. Fulton<list>
+<item>1888 June 18</item>
+</list>
+</item>
+<item>Lyon, I. S.<list>
+<item>1866 Nov. 27</item>
+</list>
+</item>
+<item>McAllister, John A.<list>
+<item>1855 May 09</item>
+<item>1862 Oct. 10</item>
+<item>1863 June 15</item>
+<item>1863 Aug. 18</item>
+<item>1864 Jan. 14</item>
+<item>1864 Jan. 25</item>
+<item>1864 Mar. 25</item>
+</list>
+</item>
+<item>McClelland, R.<list>
+<item>1857 Feb. 04</item>
+</list>
+</item>
+<item>McComb, G. T.<list>
+<item>1885 Jan. 23</item>
+</list>
+</item>
+<item>McCulloch, Robert<list>
+<item>1875 Dec. 21</item>
+</list>
+</item>
+<item>McDonald, John<list>
+<item>1852 July 12</item>
+</list>
+</item>
+<item>Mahan, Dennis Hart<list>
+<item>1861 Mar. 04 (misc.)</item>
+<item>1865 Aug. 08</item>
+<item>1865 Aug. 22</item>
+<item>1865 Aug. 29</item>
+</list>
+</item>
+<item>Marsh, L. R.<list>
+<item>1854 Dec. 22</item>
+</list>
+</item>
+<item>Marshall, Elizabeth C.<list>
+<item>1877 Feb. 26</item>
+</list>
+</item>
+<item>Marshall, Orasmus Holmes<list>
+<item>1874 Apr. 14</item>
+</list>
+</item>
+<item>Martin, H. D.<list>
+<item>1850 Nov. 13</item>
+</list>
+</item>
+<item>Marvin, W. T. R.<list>
+<item>1874 Nov. 12</item>
+</list>
+</item>
+<item>Mason, D.<list>
+<item>1880 June 28</item>
+</list>
+</item>
+<item>Mason, E. Williams<list>
+<item>1868 June 19</item>
+</list>
+</item>
+<item>Mason, J.<list>
+<item>1861 Jan. 28</item>
+</list>
+</item>
+<item>Mason Brothers<list>
+<item>1857 Jan. 06</item>
+<item>1857 Feb. 11</item>
+<item>1857 Feb. 13</item>
+<item>1857 Feb. 21</item>
+<item>1858 Oct. 26</item>
+<item>1858 Dec. 27</item>
+<item>1862 Oct. 17</item>
+<item>1862 Oct. 20</item>
+<item>1863 Aug. 10</item>
+<item>1864 Jan. 19</item>
+<item>1864 Aug. 13</item>
+<item>1864 Aug. 20</item>
+<item>1865 Apr. 11</item>
+<item>1865 May 05</item>
+<item>1865 May 10</item>
+<item>1865 May 16</item>
+<item>1865 May 17</item>
+<item>1865 May 25</item>
+<item>1865 Sep. 14</item>
+<item>1865 Dec. 15</item>
+<item>1867 Apr. 29</item>
+<item>1868 May. 11</item>
+<item>1869 Feb. 12</item>
+<item>1869 Aug. 25</item>
+<item>1881 Oct. 31</item>
+<item>1881 Nov. 02</item>
+</list>
+</item>
+<item>Matthews, James<list>
+<item>1860 June 19</item>
+</list>
+</item>
+<item>Mayer, Brantz<list>
+<item>1861 Jan. 21</item>
+<item>1861 Mar. 04</item>
+<item>1864 Oct. 02</item>
+<item>1864 Oct. 06</item>
+<item>1869 Apr. 28</item>
+<item>1870 Jan. 21</item>
+</list>
+</item>
+<item>Meigs, Montgomery Cunningham<list>
+<item>1868 Dec. 19</item>
+</list>
+</item>
+<item>Meline, James Florant<list>
+<item>1871 Nov. 30</item>
+<item>1872 Feb. 05</item>
+</list>
+</item>
+<item>Merritt, J. P.<list>
+<item>1860 Apr. 02</item>
+</list>
+</item>
+<item>Miles, Pliny<list>
+<item>1854 Dec. 09</item>
+</list>
+</item>
+<item>Mix, R. E.<list>
+<item>1852 Mar. 11</item>
+</list>
+</item>
+<item>Moore, George Henry<list>
+<item>1858 Jan. 22</item>
+<item>1861 Nov. 20</item>
+<item>1870 Sep. 26</item>
+</list>
+</item>
+<item>Moore, Jacob Bailey<list>
+<item>1886 May 06</item>
+</list>
+</item>
+<item>Moreau, Charles C.<list>
+<item>1874 May 15</item>
+</list>
+</item>
+<item>Moreau, Charles S.<list>
+<item>1872 Oct. 20</item>
+</list>
+</item>
+<item>Moreau, John B.<list>
+<item>1854 Dec. 11</item>
+<item>1859 Sep. 21</item>
+<item>1863 Dec. 12</item>
+</list>
+</item>
+<item>Morgan, Edwin Denison<list>
+<item>1882 Oct. 26</item>
+</list>
+</item>
+<item>Morris, George Pope<list>
+<item>1860 Mar. 27</item>
+</list>
+</item>
+<item>Morris, William Hopkins<list>
+<item>1865 May 15</item>
+<item>1865 July 03</item>
+<item>1887 Aug. 17</item>
+</list>
+</item>
+<item>Morse, Samuel F. B.<list>
+<item>1864 Aug. 19</item>
+</list>
+</item>
+<item>Moseley, William<list>
+<item>1854 Oct. 23</item>
+</list>
+</item>
+<item>Moss, John Calvin<list>
+<item>1884 Dec. 17</item>
+</list>
+</item>
+<item>Mott, Jordan Lawrence<list>
+<item>1883 May 29</item>
+</list>
+</item>
+<item>Muhlenberg, Henry Augustus<list>
+<item>1851 Jan. 04</item>
+</list>
+</item>
+<item>Munday, Eng. H.<list>
+<item>1862 Apr. 09</item>
+</list>
+</item>
+<item>Munsell, Joel<list>
+<item>1865 Jan. 31</item>
+<item>1869 Jan. 26?</item>
+</list>
+</item>
+<item>Munson, Lucas<list>
+<item>1849 Nov. 01</item>
+</list>
+</item>
+<item>Murray, David<list>
+<item>1882 Oct. 16</item>
+</list>
+</item>
+<item>Mutual Life Insurance Company<list>
+<item>1891 Mar. 09</item>
+</list>
+</item>
+<item>Myer, Albert James<list>
+<item>1867 Jan. 14</item>
+</list>
+</item>
+<item>Myers, Theodorus Bailey<list>
+<item>1867 Oct. 1?</item>
+<item>1871 Oct. 28</item>
+<item>1871 Oct. 31</item>
+<item>1872 Mar. 18</item>
+<item>1876 Mar. 12</item>
+</list>
+</item>
+<item>Neill, Edward Duffield<list>
+<item>1872 Apr. 12</item>
+<item>1875 Apr. 20</item>
+<item>1875 Nov. 09</item>
+<item>1878 June 05</item>
+</list>
+</item>
+<item>Neilson, Charles<list>
+<item>1848 Aug. 18</item>
+<item>1848 Sep. 04</item>
+</list>
+</item>
+<item>Newell, C. S.<list>
+<item>1863 Dec. 15</item>
+</list>
+</item>
+<item>Nirtne, James<list>
+<item>1860 Dec. 06</item>
+<item>1864 Oct. 06</item>
+</list>
+</item>
+<item>North, Edward<list>
+<item>1862 May 05</item>
+<item>1862 June 30</item>
+</list>
+</item>
+<item>Norton, Charles Benjamin<list>
+<item>1885 Mar. 11</item>
+<item>1885 May 12</item>
+</list>
+</item>
+<item>Oby, Maurice C.<list>
+<item>1855 Jan. 31 (enclosure: letter from Susan Putnam 1855 Jan. 30)</item>
+</list>
+</item>
+<item>O'Callaghan, Dr. (Edmund Balley?)<list>
+<item>1852 Apr. 09</item>
+</list>
+</item>
+<item>Oldroyd, Osborn H.<list>
+<item>26 Oct. 1883</item>
+</list>
+</item>
+<item>Oliver, Henry Kemble<list>
+<item>1853 Apr. 13</item>
+</list>
+</item>
+<item>Onderdonk, Henry Jr.<list>
+<item>1850 Aug. 14</item>
+<item>1852 Jan. 08</item>
+<item>1855 June 04</item>
+<item>1860 Jan. 31</item>
+<item>1868 Dec. 24</item>
+<item>1871 Oct. 24</item>
+<item>1871 Nov.</item>
+<item>1872 Feb. 04</item>
+<item>n.d. (2)</item>
+</list>
+</item>
+<item>Oram, Elizabeth<list>
+<item>1853 Sep. 19</item>
+<item>1854 June 17</item>
+<item>1855 Dec. 03</item>
+<item>1860 May 14</item>
+</list>
+</item>
+<item>Orne, Caroline Frances<list>
+<item>1856 Mar. 07</item>
+<item>1856 Apr. 14</item>
+<item>1856 May 12</item>
+<item>1856 Aug. 29</item>
+<item>1857 Dec. 17</item>
+<item>1860 Apr. 02</item>
+</list>
+</item>
+<item>Orton, William<list>
+<item>1859 June 19</item>
+</list>
+</item>
+<item>Osgood, Sam<list>
+<item>1860 July 11</item>
+</list>
+</item>
+<item>Paige, Lucius R.<list>
+<item>1888 Jan. 03</item>
+</list>
+</item>
+<item>Paine, Nathaniel<list>
+<item>1864 Oct. 2?</item>
+<item>1872 Oct. 22</item>
+<item>1874 May 06</item>
+<item>1875 July 09</item>
+</list>
+</item>
+<item>Palmer, A. W.<list>
+<item>1873 Mar. 08</item>
+<item>1873 Apr. 24?</item>
+</list>
+</item>
+<item>Parker, Amasa Junius Jr.<list>
+<item>1875 Aug. 13</item>
+</list>
+</item>
+<item>Parker, Caroline E.<list>
+<item>1868 Feb. 20</item>
+<item>1868 Mar. 12</item>
+</list>
+</item>
+<item>Parsons, Usher<list>
+<item>1861 Aug. 17</item>
+<item>1861 Aug. 26</item>
+<item>1866 Dec. 30</item>
+</list>
+</item>
+<item id="peap">Peabody, Andrew Preston<list>
+<item>1862 Mar. 19 (misc.)</item>
+</list>
+</item>
+<item>Peale, Mary G.<list>
+<item>1868 Apr. 13</item>
+</list>
+</item>
+<item>Peck, Oren H.<list>
+<item>1856 Apr. 22</item>
+<item>1856 Apr. 27</item>
+</list>
+</item>
+<item>Perine, George Corbin<list>
+<item>1881 Dec. 26</item>
+</list>
+</item>
+<item>Perkins, A. T.<list>
+<item>1875 Feb. 23</item>
+</list>
+</item>
+<item>Perry, William Stevens<list>
+<item>1874 Mar. 30</item>
+</list>
+</item>
+<item>Peterson, Childs<list>
+<item>1860 Feb. 23</item>
+</list>
+</item>
+<item>Phelps, Almira Hart Lincoln<list>
+<item>1851 July 14</item>
+<item>1854 Feb. 16</item>
+</list>
+</item>
+<item>Phoenix, S. Whitney<list>
+<item>1867 May 11</item>
+</list>
+</item>
+<item>Platt, William<list>
+<item>1850 July 24</item>
+</list>
+</item>
+<item>Poignand, D. R.<list>
+<item>1861 June 03</item>
+</list>
+</item>
+<item>Poillon, William<list>
+<item>1882 Jan. 16</item>
+</list>
+</item>
+<item>Polk, Leonidas<list>
+<item>1854 May 20</item>
+</list>
+</item>
+<item>Porter, Peter A.<list>
+<item>1860 Feb. 11</item>
+</list>
+</item>
+<item>Potter, Chandler Eastman<list>
+<item>1855 Jan. 13</item>
+<item>1855 Jan. 29</item>
+</list>
+</item>
+<item>Potter, John E.<list>
+<item>1874 Nov. 04</item>
+</list>
+</item>
+<item>Powell, A. Von Haller<list>
+<item>1861 Nov. 18</item>
+</list>
+</item>
+<item>Powers, C.<list>
+<item>1873 Mar. 13</item>
+</list>
+</item>
+<item>Pratt, George<list>
+<item>1852 June 22</item>
+</list>
+</item>
+<item>Preble, George Henry<list>
+<item>1884 Oct. 22</item>
+</list>
+</item>
+<item>Prime, Samuel Irenaeus<list>
+<item>1876 Dec. 29</item>
+<item>1882 Sep. 11</item>
+<item>n.d.</item>
+</list>
+</item>
+<item>Pugh, George Ellis<list>
+<item>1857 Feb. 18</item>
+</list>
+</item>
+<item>Purcell, John Baptist<list>
+<item>1865 July 23</item>
+</list>
+</item>
+<item>Putnam, George Haven<list>
+<item>1871 July 01</item>
+<item>1871 Aug. 15</item>
+</list>
+</item>
+<item>Putnam, George Palmer<list>
+<item>1857 Mar. 17</item>
+<item>1862 Mar. 27</item>
+</list>
+</item>
+<item>Ralph, Joseph<list>
+<item>1886 Mar. 16</item>
+</list>
+</item>
+<item>Ramsey, James Gettys McGready<list>
+<item>1860 Oct. 24</item>
+</list>
+</item>
+<item>Redfield, Justus Starr<list>
+<item>1868 Apr. 29</item>
+<item>1886 Mar. 12</item>
+<item>1887 Dec. 28</item>
+</list>
+</item>
+<item>Reed, William B.<list>
+<item>1862 Dec. 17</item>
+<item>1862 Dec. 18</item>
+</list>
+</item>
+<item>Renwick, James<list>
+<item>1882 Sep. 26</item>
+</list>
+</item>
+<item>Richards, T. Addison<list>
+<item>1879 Mar. 28</item>
+<item>1890 Oct. 25</item>
+</list>
+</item>
+<item>Richards, W. W.<list>
+<item>1891 Mar. 09</item>
+<item>1891 Mar. 12</item>
+</list>
+</item>
+<item>Richardson, C. W.<list>
+<item>1851 Oct. 23</item>
+</list>
+</item>
+<item>Richardson, Charles Francis<list>
+<item>1882 Jan. 18</item>
+<item>1882 Jan. 20</item>
+<item>1882 Jan. 25</item>
+<item>1882 Apr. 04</item>
+</list>
+</item>
+<item>Riker, James<list>
+<item>1854 Apr. 17</item>
+<item>1878 Mar. 19</item>
+<item>1885 Jan. 10</item>
+</list>
+</item>
+<item>Risley, John E.<list>
+<item>1862 May 21</item>
+</list>
+</item>
+<item>Rives, John Cook<list>
+<item>1857 Feb. 09</item>
+</list>
+</item>
+<item>Rogers, John<list>
+<item>1882 Sep. 16</item>
+<item>1882 Sep. 21</item>
+<item>1882 Nov. 03</item>
+</list>
+</item>
+<item>Roundtable, Publishers<list>
+<item>1866 July 04</item>
+</list>
+</item>
+<item>Ruttenber, Edward Manning<list>
+<item>1855 Oct. 04</item>
+<item>1855 Oct. 18</item>
+<item>1855 Oct. 19</item>
+<item>n.d.</item>
+</list>
+</item>
+<item>Ryan, J. S.<list>
+<item>1855 May 09</item>
+<item>1855 June 12</item>
+</list>
+</item>
+<item>Sage, Aug. B.<list>
+<item>1858 July 09 (enclosure: watercolor of coins)</item>
+</list>
+</item>
+<item>Sammis, D. S. S.<list>
+<item>1877 Sep. 01</item>
+</list>
+</item>
+<item>Saratoga Monument Association<list>
+<item>1860 Apr. 16</item>
+<item>1860 Apr. 26</item>
+<item>1860 May 19</item>
+</list>
+</item>
+<item>Satterlee, Edward<list>
+<item>1877 Apr. 19</item>
+<item>1877 June 12</item>
+</list>
+</item>
+<item>Saunders, Frederick<list>
+<item>1857 Jan. 20</item>
+<item>1871 Dec. 21</item>
+<item>1874 Apr. 08</item>
+</list>
+</item>
+<item>Schuyler, Eliza H.<list>
+<item>1856 Sep. 12</item>
+<item>1858 May 23</item>
+<item>1861 Feb. 24</item>
+<item>1861 Apr. 09</item>
+<item>1861 June 06</item>
+<item>1862 Dec. 03</item>
+</list>
+</item>
+<item>Schuyler, George Lee<list>
+<item>1857 June 08</item>
+<item>1859 Feb. 13</item>
+<item>1860 Feb. 08</item>
+<item>1863 Feb. 04</item>
+<item>1870 Oct. 22</item>
+<item>1871 Sep. 09</item>
+<item>1872 Aug. 26</item>
+<item>1873 Jan. 05</item>
+<item>1873 May 06</item>
+<item>1875 Jan. 30</item>
+<item>1877 Dec. 06</item>
+<item>1890 Apr. 09</item>
+<item>1890 Apr. 16</item>
+<item>1890 Apr. 19</item>
+</list>
+</item>
+<item>Schuyler, John<list>
+<item>1860 Apr. 17</item>
+</list>
+</item>
+<item>Schuyler, Ph?<list>
+<item>1865 Oct. 30</item>
+</list>
+</item>
+<item>Scott, George R.<list>
+<item>1888 June 18</item>
+<item>1888 June 20</item>
+</list>
+</item>
+<item>Sears, Clinton B.<list>
+<item>1881 Aug. 07</item>
+</list>
+</item>
+<item>Sedgwick, C. F.<list>
+<item>1850 Nov. 07</item>
+<item>1850 Nov. 25</item>
+</list>
+</item>
+<item>Seymour, Horatio<list>
+<item>1853 Jan. 12</item>
+</list>
+</item>
+<item>Seymour, John<list>
+<item>1871 July 27</item>
+</list>
+</item>
+<item>Shea, John Dawson Gilmary<list>
+<item>1872 May 20</item>
+<item>1882 Aug.</item>
+</list>
+</item>
+<item>Sherman, John<list>
+<item>1861 July 18 (misc.)</item>
+</list>
+</item>
+<item>Shubrick, William Branford<list>
+<item>1863 July 06</item>
+</list>
+</item>
+<item>Simms, Jeptha Root<list>
+<item>1872 Jan. 15</item>
+<item>1872 June 27</item>
+</list>
+</item>
+<item>Slocum, Joseph<list>
+<item>1850 May 23</item>
+</list>
+</item>
+<item>Smillie, James<list>
+<item>1883 Jan. 01</item>
+<item>1883 Jan. 08</item>
+<item>1883 Mar. 23</item>
+<item>1883 May 07</item>
+</list>
+</item>
+<item>Smith, A. B.<list>
+<item>1890 Sep. 13</item>
+</list>
+</item>
+<item>Smith, Elizabeth Oakes<list>
+<item>1851 Mar. 01</item>
+</list>
+</item>
+<item>Smith, Joub<list>
+<item>1854 June 24</item>
+</list>
+</item>
+<item>Smith, Morgan L.<list>
+<item>1874 Sep. 03</item>
+<item>1874 Sep. 14</item>
+</list>
+</item>
+<item>Smith, Philip H.<list>
+<item>1903 Dec. 28</item>
+</list>
+</item>
+<item>Smith, T. G.<list>
+<item>1853 Dec. 20</item>
+</list>
+</item>
+<item>Smyth, Thomas<list>
+<item>1858 June 17</item>
+</list>
+</item>
+<item>Sommerville, R. A.<list>
+<item>1857 Apr. 18</item>
+</list>
+</item>
+<item>Southwick, Francis<list>
+<item>1862 Sep. 24</item>
+<item>1863 Nov. 11</item>
+</list>
+</item>
+<item>Sparks, Jared<list>
+<item>1857 Feb. 20</item>
+</list>
+</item>
+<item>Spencer, Jesse Ames<list>
+<item>1863 Feb. 17</item>
+</list>
+</item>
+<item>Sprague, William Buell<list>
+<item>1854 Oct. 05</item>
+<item>1862 July 15</item>
+<item>1862 July 18</item>
+<item>1862 July 24</item>
+</list>
+</item>
+<item>Staples, Samuel Elias<list>
+<item>1878 Aug. 23</item>
+</list>
+</item>
+<item>Stetson, Arthur F.<list>
+<item>1873 Nov. 08</item>
+</list>
+</item>
+<item>Stevens, John Austin Jr.<list>
+<item>1863 June 26</item>
+<item>1863 June 27</item>
+<item>1863 Sep. 11</item>
+<item>1896 Oct. 02</item>
+</list>
+</item>
+<item>Stiles, Henry R.<list>
+<item>1888 Dec. 07</item>
+</list>
+</item>
+<item>Stillwell, E. G.<list>
+<item>1890 Oct. 14</item>
+</list>
+</item>
+<item>Stone, William Leete<list>
+<item>[1861] Nov. 26</item>
+<item>1865 Dec. 28</item>
+<item>1873 July 28</item>
+<item>1875 Feb. 02</item>
+<item>1879 Apr. 17</item>
+<item>1879 May ?</item>
+</list>
+</item>
+<item>Strickland, E. F.<list>
+<item>1876 May 13</item>
+</list>
+</item>
+<item>Stryker, William Scudder<list>
+<item>1881 Dec. 05</item>
+</list>
+</item>
+<item>Suffern Edward S.<list>
+<item>10 Dec. 1864</item>
+</list>
+</item>
+<item>Sugden, Thomas D.<list>
+<item>1872 Nov. 25</item>
+</list>
+</item>
+<item>Swain, David Lowry<list>
+<item>1852 Mar. 01</item>
+</list>
+</item>
+<item>Swan, Caleb<list>
+<item>1867 May 22</item>
+</list>
+</item>
+<item>Swasey, Charles S.<list>
+<item>1864 Mar. 15</item>
+</list>
+</item>
+<item>Talbott, E. H.<list>
+<item>1862 Oct. 20</item>
+</list>
+</item>
+<item>Tefft, Benjamin Franklin<list>
+<item>1855 Dec. 07</item>
+</list>
+</item>
+<item>Terry, Alfred Howe<list>
+<item>1885 Apr. 23</item>
+</list>
+</item>
+<item>Thornton, John Wingate<list>
+<item>1850 Nov. 01</item>
+<item>1852 Feb. 02</item>
+<item>1853 Oct. 18</item>
+<item>1871 Oct. 09</item>
+<item>1871 Nov. 20</item>
+</list>
+</item>
+<item>Thrall, George E.<list>
+<item>1871 Feb. 15</item>
+</list>
+</item>
+<item>Tomlinson, A.<list>
+<item>1855 Dec. 31</item>
+</list>
+</item>
+<item>Townsend, Aurelia W.<list>
+<item>1864 Nov. 09</item>
+</list>
+</item>
+<item>Turrill, M. Sherman<list>
+<item>1852 May 23</item>
+<item>1852 June 14</item>
+</list>
+</item>
+<item>Tuttle, Charles Wesley<list>
+<item>1872 May 18</item>
+</list>
+</item>
+<item>Tyler, Moses Coit<list>
+<item>1872 Aug. 02</item>
+<item>1872 Nov. 13</item>
+</list>
+</item>
+<item>Van Benshoten, James Cooke<list>
+<item>1869 Mar. 16</item>
+</list>
+</item>
+<item>Van Ingen, Henry<list>
+<item>1873 Sep. 06</item>
+</list>
+</item>
+<item>Van Rensselaer, Adeline<list>
+<item>1855 Dec. 28</item>
+<item>1856 Jan. 07</item>
+<item>1856 Feb. ?</item>
+<item>1857 Dec. 03</item>
+</list>
+</item>
+<item>Van Schaack, Henry Cruger<list>
+<item>1860 Jan. 31</item>
+</list>
+</item>
+<item>Vanx, George<list>
+<item>1872 Apr. 24</item>
+</list>
+</item>
+<item>Vincent, Frank Jr.<list>
+<item>1889 Mar. 02</item>
+<item>1890 Feb. 15</item>
+<item>1890 Feb. 22</item>
+</list>
+</item>
+<item>Vinton, C. Harrod<list>
+<item>1873 Dec. 29</item>
+</list>
+</item>
+<item>Vinton, Francis<list>
+<item>1859 Dec. 20</item>
+<item>1860 Dec. 20</item>
+</list>
+</item>
+<item>Voelckers, Theo.<list>
+<item>1856 Feb. 01</item>
+</list>
+</item>
+<item>Vose, Reuben<list>
+<item>1862 June 23</item>
+</list>
+</item>
+<item>Walker, Joseph B.<list>
+<item>1855 Jan. 10</item>
+</list>
+</item>
+<item>Ward, Aaron<list>
+<item>1867 Feb. 12</item>
+</list>
+</item>
+<item>Ward, Elijah<list>
+<item>1860 Jan. 16</item>
+</list>
+</item>
+<item>Ward, Richard R. (See <ref target="deni">Dean, Nicholas</ref>)</item>
+<item>Watson, Charles M.<list>
+<item>1860 Jan. 09</item>
+</list>
+</item>
+<item>Watson, John Fanning<list>
+<item>1853 Feb. 24</item>
+<item>1857 May 13</item>
+<item>1857 Aug. 27</item>
+</list>
+</item>
+<item>Watson, Winslow C.<list>
+<item>1871 Dec. 12</item>
+<item>1873 Jan. 07</item>
+<item>n.d. (4)</item>
+</list>
+</item>
+<item>Webb, James Watson<list>
+<item>1883 Feb. 17</item>
+</list>
+</item>
+<item>Weir, Robert Walter<list>
+<item>1863 Oct. 19</item>
+</list>
+</item>
+<item>Wells, Jacob<list>
+<item>1870 June 24</item>
+</list>
+</item>
+<item>Wells, William V.<list>
+<item>1857 Sep. 16</item>
+</list>
+</item>
+<item>West, George R.<list>
+<item>1857 July 12</item>
+</list>
+</item>
+<item>Wetmore, Prosper Montgomery<list>
+<item>1851 June 24</item>
+<item>1860 Dec. 10</item>
+<item>1864 June 29</item>
+</list>
+</item>
+<item>Wheeler, John Hill<list>
+<item>1852 June 28</item>
+</list>
+</item>
+<item>Whitehead, William Adee<list>
+<item>1872 Dec. 29</item>
+<item>1874 Mar. 30</item>
+<item>1876 Mar. 17</item>
+</list>
+</item>
+<item>Whittemore, Henry<list>
+<item>1878 Aug. 06</item>
+<item>1878 Aug. 12</item>
+</list>
+</item>
+<item>Whittlesey, Elisha<list>
+<item>1862 Sep. 03</item>
+</list>
+</item>
+<item>Wilcox, H. K. W.<list>
+<item>1884 Oct 24</item>
+<item>1884 Nov. 20</item>
+</list>
+</item>
+<item>Williams, C. H. S.<list>
+<item>1872 Apr. 06</item>
+</list>
+</item>
+<item>Williams, J.<list>
+<item>1861 Nov. 14</item>
+</list>
+</item>
+<item>Williams, John Fletcher<list>
+<item>1871 Oct. 26</item>
+</list>
+</item>
+<item>W. S. Williams and Company<list>
+<item>1865 Oct. 03</item>
+</list>
+</item>
+<item>Williams, W. W.<list>
+<item>1886 May 17</item>
+</list>
+</item>
+<item>Wilmarth, Lemuel Everett<list>
+<item>1882 Jan. 07</item>
+</list>
+</item>
+<item>Wilson, Archibald<list>
+<item>1869 July 09</item>
+<item>1869 Sep. 06</item>
+<item>1870 Sep. 25</item>
+<item>1874 Sep. 22</item>
+</list>
+</item>
+<item>Wilson, James Grant<list>
+<item>1857 Feb. 06</item>
+<item>1860 Oct. 22</item>
+</list>
+</item>
+<item>Wilson, James Ormond<list>
+<item>1865 Dec. 27</item>
+</list>
+</item>
+<item>Wilson, Joseph T.<list>
+<item>1888 Aug. 04</item>
+</list>
+</item>
+<item>Winsor, Justin<list>
+<item>1887 Mar. 04</item>
+<item>1887 June 23</item>
+</list>
+</item>
+<item>Winthrop, B.<list>
+<item>1854 Apr. 05</item>
+</list>
+</item>
+<item>Woodhull, Anna M.<list>
+<item>1878 May 27</item>
+</list>
+</item>
+<item>Wool, John Ellis<list>
+<item>1861 Jan. 20</item>
+<item>1861 June ?</item>
+<item>1861 July 15</item>
+<item>1861 July 18 (misc.)</item>
+<item>1867 July 04</item>
+</list>
+</item>
+<item>Wollett, Charles<list>
+<item>1852 Sep. 06</item>
+</list>
+</item>
+<item>Woolworth, S. B.<list>
+<item>1874 Mar. 11</item>
+</list>
+</item>
+<item>Wright, William<list>
+<item>1885 Jan. 01</item>
+</list>
+</item>
+<item>Young, Edward<list>
+<item>1875 Aug. 09</item>
+<item>1875 Aug. 13</item>
+</list>
+</item>
+<item>Younglove, Joseph I.<list>
+<item>1866 June 02</item>
+</list>
+</item>
+<item><emph render="italic">The Youth's Companion</emph><list>
+<item>1890 July 15</item>
+</list>
+</item>
+<item>Zabriskie, Andrew Christian<list>
+<item>1874 Aug. 14</item>
+<item>1874 Sep. 05</item>
+<item>1882 June 09</item>
+</list>
+</item>
+</list>
+</odd>
+</c01>
+</dsc>
+</archdesc>
+</ead>

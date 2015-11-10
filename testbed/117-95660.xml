@@ -1,0 +1,2774 @@
+<?xml version="1.0"?>
+<ead>
+  
+  
+  
+  
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" scriptencoding="iso15924" audience="internal" repositoryencoding="iso15511" findaidstatus="unverified-full-draft" langencoding="iso639-2b"><eadid xmlns:cdlpath="http://www.cdlib.org/path/" countrycode="us" identifier="ark:/13030/tf0k4000mq" mainagencycode="CSt-H" publicid="PUBLIC -//Stanford University::Hoover Institution Archives//TEXT(US::CSt-H::XX177::United States. President's Famine Emergency Committee Records)//EN reg_207.sgm" cdlpath:parent="ark:/13030/tf4m3nb8sq">reg_207.xml</eadid><filedesc>
+      <titlestmt>
+        <titleproper>Register of the United States President's Famine Emergency Committee Records, <date calendar="gregorian" era="ce">1946-1947</date></titleproper>
+	<titleproper type="filing">United States President's Famine Emergency Committee Records</titleproper>
+        <author>Processed by Ronald Bulatoff; machine-readable finding aid created by
+James Ryan</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Hoover Institution Archives</publisher>
+        <address>
+          <addressline>Stanford University</addressline>
+          <addressline>Stanford, California 94305-6010</addressline>
+          <addressline>Phone: (650) 723-3563</addressline>
+          <addressline>Fax: (650) 725-3445</addressline>
+          <addressline>Email: archives@hoover.stanford.edu</addressline>
+        </address>
+        <date calendar="gregorian" era="ce"> 1997</date>
+        <p>Hoover Institution Archives. All rights reserved.</p>
+      </publicationstmt>
+    </filedesc><profiledesc>
+      <creation>Machine-readable finding aid derived from Word-11, a Unix VAX-specific word processing program. [Date of source: <date calendar="gregorian" era="ce">1996.</date>]</creation>
+      <langusage>Description is in <language langcode="eng" scriptcode="latn">English.</language></langusage>
+    </profiledesc><revisiondesc>
+      <change>
+        <date calendar="gregorian" era="ce" normal="20120725">July 25, 2012</date>
+        <item>Revised to update encoding and add unitid</item>
+      </change>
+
+      <change>
+        <date calendar="gregorian" era="ce" normal="20090917">September 17, 2009</date>
+        <item>Updated text and combined encoding to one dsc</item>
+      </change>
+      <change>
+        <date calendar="gregorian" era="ce" normal="20040323">March 23, 2004</date>
+        <item>PUBLIC "-//Stanford University::Hoover Institution Archives//TEXT
+(US::CSt-H::::United States. President's Famine Emergency Committee Records)//EN" "reg_207.sgm" converted from EAD 1.0 to 2002 by v1to02.cdl.xsl (2004-09-16).</item>
+      </change>
+    </revisiondesc></eadheader>
+  <frontmatter>
+    <titlepage>
+      <titleproper>Register of the United States President's Famine Emergency Committee Records, <date calendar="gregorian" era="ce">1946-1947</date></titleproper>
+      <publisher>Hoover Institution Archives 
+<lb/><lb/>Stanford University 
+<lb/>Stanford, California</publisher>
+      <list type="simple">
+        <head>Contact Information</head>
+        <item>Hoover Institution Archives</item>
+        <item>Stanford University</item>
+        <item>Stanford, California 94305-6010</item>
+        <item>Phone: (650) 723-3563</item>
+        <item>Fax: (650) 725-3445</item>
+        <item>Email: archives@hoover.stanford.edu</item>
+      </list>
+      <list type="deflist">
+        <defitem>
+          <label>Processed by: </label>
+          <item>Ronald Bulatoff</item>
+        </defitem>
+        <defitem>
+          <label>Date Completed: </label>
+          <item>1996</item>
+        </defitem>
+        <defitem>
+          <label>Encoded by: </label>
+          <item>James Ryan</item>
+        </defitem>
+      </list>
+      <p> 1997 Hoover Institution Archives. All rights reserved.</p>
+    </titlepage>
+  </frontmatter>
+  <archdesc level="collection" id="archdesc-1.3">
+    <did id="did-1.7.1">
+      <head>Descriptive Summary</head>
+      <unittitle label="Title">United States President's Famine Emergency Committee Records, </unittitle><unitdate calendar="gregorian" era="ce" type="inclusive" normal="1946/1947">1946-1947</unitdate>
+      <unitid label="Collection Number" countrycode="us" repositorycode="CSt-H" encodinganalog="099">XX177</unitid>
+      <origination label="Creator">
+        <corpname source="lcnaf" rules="aacr2">United States. President's Famine Emergency Committee</corpname>
+      </origination>
+	<physdesc label="Collection Size" encodinganalog="300$a">
+ 	<extent>31 manuscript boxes, 2 card file boxes, 2 envelopes </extent>
+	<extent>(13 linear feet)</extent>
+	</physdesc>
+      <repository label="Repository">
+        <corpname>Hoover Institution Archives</corpname>
+        <address>
+          <addressline>Stanford, California 94305-6010</addressline>
+        </address>
+      </repository>
+      <abstract label="Abstract">Correspondence, reports, notes, and clippings, relating to food conservation in the United States and to famine conditions throughout the world. Includes memoranda and diaries of Herbert Hoover, honorary chairman of the committee.</abstract>
+<physloc label="Physical Location">Hoover Institution Archives</physloc>
+      <langmaterial label="Language">
+        <language langcode="eng">English.</language>
+      </langmaterial>
+    </did>
+    <descgrp id="descgrp-1.7.2" type="admininfo">
+      <head>Administrative Information</head>
+      <accessrestrict>
+        <head>Access</head>
+        <p>Boxes 31-33 may not be used without written permission of the trustees of the Hoover
+Foundation.</p>
+<p>The Hoover Institution Archives only allows access to <emph render="italic">copies</emph> of audiovisual items. To listen to sound recordings or to  view videos or films during your visit, please contact the Archives at least two working  days before your arrival. We will then advise you of the accessibility of the material you  wish to see or hear. Please note that not all audiovisual material is immediately  accessible.</p>
+      </accessrestrict>
+      <userestrict>
+        <head>Publication Rights</head>
+        <p>For copyright status, please contact the Hoover Institution Archives</p>
+      </userestrict>
+<altformavail><head>Alternative Form Available</head>
+<p>Also available on microfilm (31 reels).</p></altformavail>
+      <prefercite>
+        <head>Preferred Citation</head>
+        <p>[Identification of item], United States President's Famine Emergency Committee Records,
+[Box no.], Hoover Institution Archives.</p>
+      </prefercite>
+<acqinfo encodinganalog="541">
+ <head>Acquisition Information</head>
+ <p>Acquired by the Hoover Institution Archives.</p>
+</acqinfo>
+
+<accruals encodinganalog="525"><head>Accruals</head>
+<p>Materials may have been added to the collection since this finding aid was prepared. To determine if this has occurred, find the collection in Stanford University's online catalog at <extref linktype="simple" href="http://searchworks.stanford.edu/" actuate="onrequest" show="new"> http://searchworks.stanford.edu/</extref>. Materials have been added to the collection if the number of boxes listed in the online catalog is larger than the number of boxes listed in this finding aid.</p>
+</accruals>
+
+
+    </descgrp>
+<scopecontent id="a3" encodinganalog="520">
+<head>Scope and Content of Collection</head>
+<p>Correspondence, reports, notes, and clippings, relating to food conservation in the United States and to famine conditions throughout the world. Includes memoranda and diaries of Herbert Hoover, honorary chairman of the committee.</p>
+</scopecontent>
+    <controlaccess id="controlaccess-1.7.3">
+      <head>Access Points</head>
+      <subject>Famines</subject>
+      <subject>Food conservation</subject>
+      <subject>Food supply</subject>
+      <subject>International relief</subject>
+      <subject>World War, 1939-1945</subject>
+      <subject>World War, 1939-1945--Civilian relief</subject>
+      <geogname>United States--Foreign relations</geogname>
+    </controlaccess>
+    <bioghist id="bioghist-1.7.4">
+      <head>Historical Note</head>
+      <p>The Famine Emergency Committee was established on March 1, 1946, by President Harry S.
+Truman for the purpose of aiding the fight against world famine. Herbert Hoover was named
+Honorary Chairman and Chester Davis, a St. Louis banker, was named Chairman. Together
+with the Department of Agriculture, the Committee sponsored world-wide food missions that
+sent Herbert Hoover to the governments of all important nations to enlist and coordinate
+them in a world front against famine.</p>
+      <p>Thirty-eight countries and states were visited: Great Britain, France, Italy, the
+Vatican, Germany, Austria, Belgium, Holland, Switzerland, Denmark, Norway, Sweden,
+Finland, Yugoslavia, Czechoslovakia, Poland, Greece, Egypt, Iraq, India, Thailand, the
+Philippines, China, Korea, Japan, Hawaii, Canada, Mexico, Panama, Colombia, Ecuador,
+Peru, Chile, Argentina, Uruguay, Brazil, Venezuela, and Cuba.</p>
+      <p>Besides Hoover, members of the mission included Hugh Gibson, Dennis A. Fitzgerald, Perrin
+C. Galpin, Frank E. Mason, Maurice Pate, John B. Masdon, Charles F. Delzell, Hugo Meier,
+and Captain Hallam Tuck (USN).</p>
+      <p>(from Herbert Hoover, <title render="italic">An American Epic</title>, Volume IV, pp. 113-127)</p>
+    </bioghist>
+    <dsc id="dsc-1.7.6" type="combined" score="1" C-ORDER="1" MAX-C-ORDER="441">
+      <head>Container List</head>
+      <c01 id="c01-1.7.6.2" level="series" score="2" C-ORDER="2">
+<did>
+          <unittitle>Honorary Chairman's File, <unitdate calendar="gregorian" era="ce" type="inclusive">1946-1947</unitdate></unittitle>
+          <container>Box 1.-14.</container>
+        </did>
+        <scopecontent>
+          <p>Correspondence, diaries,speeches, writings, reports, statistical data, press releases and
+statements, clippings, and other material relating to Herbert Hoover's role as Honorary
+Chairman of the Famine Emergency Committee, arranged alphabetically by physical form</p>
+        </scopecontent>
+        <c02 id="c02-1.7.6.2.2" score="1" C-ORDER="4">
+          <did>
+            <unittitle>Correspondence</unittitle>
+          </did>
+          <c03 id="c03-1.7.6.2.2.2" score="1" C-ORDER="5">
+            <did>
+              <unittitle>General</unittitle>
+            </did>
+            <c04 id="c04-1.7.6.2.2.2.2" score="1" C-ORDER="6">
+              <did>
+                <container type="Box">1.</container>
+                <container type="Folder">1</container>
+                <unittitle>A</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.2.2.2.3" score="1" C-ORDER="7">
+              <did>
+                <container type="Folder">2-3</container>
+                <unittitle>B</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.2.2.2.4" score="1" C-ORDER="8">
+              <did>
+                <container type="Folder">4-5</container>
+                <unittitle>C</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.2.2.2.5" score="1" C-ORDER="9">
+              <did>
+                <container type="Folder">6</container>
+                <unittitle>D</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.2.2.2.6" score="1" C-ORDER="10">
+              <did>
+                <container type="Folder">7</container>
+                <unittitle>E</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.2.2.2.7" score="1" C-ORDER="11">
+              <did>
+                <container type="Box">2.</container>
+                <container type="Folder">1</container>
+                <unittitle>F</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.2.2.2.8" score="1" C-ORDER="12">
+              <did>
+                <container type="Folder">2</container>
+                <unittitle>G</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.2.2.2.9" score="1" C-ORDER="13">
+              <did>
+                <container type="Folder">3-4</container>
+                <unittitle>H</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.2.2.2.10" score="1" C-ORDER="14">
+              <did>
+                <container type="Folder">5</container>
+                <unittitle>I-J</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.2.2.2.11" score="1" C-ORDER="15">
+              <did>
+                <container type="Folder">6</container>
+                <unittitle>K</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.2.2.2.12" score="1" C-ORDER="16">
+              <did>
+                <container type="Box">3.</container>
+                <container type="Folder">1</container>
+                <unittitle>L</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.2.2.2.13" score="1" C-ORDER="17">
+              <did>
+                <container type="Folder">2-3</container>
+                <unittitle>M</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.2.2.2.14" score="1" C-ORDER="18">
+              <did>
+                <container type="Folder">4</container>
+                <unittitle>N-O</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.2.2.2.15" score="1" C-ORDER="19">
+              <did>
+                <container type="Folder">5</container>
+                <unittitle>P</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.2.2.2.16" score="1" C-ORDER="20">
+              <did>
+                <container type="Folder">6</container>
+                <unittitle>R</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.2.2.2.17" score="1" C-ORDER="21">
+              <did>
+                <container type="Folder">7</container>
+                <unittitle>S</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.2.2.2.18" score="1" C-ORDER="22">
+              <did>
+                <container type="Box">4.</container>
+                <container type="Folder">1</container>
+                <unittitle>S</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.2.2.2.19" score="1" C-ORDER="23">
+              <did>
+                <container type="Folder">2</container>
+                <unittitle>T</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.2.2.2.20" score="1" C-ORDER="24">
+              <did>
+                <container type="Folder">3</container>
+                <unittitle>V-W</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.2.2.2.21" score="1" C-ORDER="25">
+              <did>
+                <container type="Folder">4-6</container>
+                <unittitle>Miscellaneous</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.2.2.2.22" score="1" C-ORDER="26">
+              <did>
+                <container type="Box">5.</container>
+                <container type="Folder">1-6</container>
+                <unittitle>Miscellaneous</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.2.2.2.23" score="1" C-ORDER="27">
+              <did>
+                <container type="Box">6.</container>
+                <container type="Folder">1-2</container>
+                <unittitle>Miscellaneous</unittitle>
+              </did>
+            </c04>
+          </c03>
+          <c03 id="c03-1.7.6.2.2.3" score="1" C-ORDER="28">
+            <did>
+              <container type="Folder">3</container>
+              <unittitle>Anderson, Clinton P.</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.2.2.4" score="1" C-ORDER="29">
+            <did>
+              <container type="Folder">4</container>
+              <unittitle>Davis, Chester C.</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.2.2.5" score="1" C-ORDER="30">
+            <did>
+              <container type="Folder">5</container>
+              <unittitle>Fitzgerald, Dennis A.</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.2.2.6" score="1" C-ORDER="31">
+            <did>
+              <container type="Folder">6</container>
+              <unittitle>Galpin, Perrin</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.2.2.7" score="1" C-ORDER="32">
+            <did>
+              <container type="Folder">7</container>
+              <unittitle>Gibson, Hugh</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.2.2.8" score="1" C-ORDER="33">
+            <did>
+              <container type="Folder">8</container>
+              <unittitle>Klein, Julius</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.2.2.9" score="1" C-ORDER="34">
+            <did>
+              <container type="Folder">9</container>
+              <unittitle>Kleinwaechter, Ludwig</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.2.2.10" score="1" C-ORDER="35">
+            <did>
+              <container type="Folder">10</container>
+              <unittitle>La Guardia, Fiorello</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.2.2.11" score="1" C-ORDER="36">
+            <did>
+              <container type="Folder">11</container>
+              <unittitle>Lochner, Louis P.</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.2.2.12" score="1" C-ORDER="37">
+            <did>
+              <container type="Folder">12</container>
+              <unittitle>Luce, Clare Booth</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.2.2.13" score="1" C-ORDER="38">
+            <did>
+              <container type="Folder">13</container>
+              <unittitle>McCabe, Charles B.</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.2.2.14" score="1" C-ORDER="39">
+            <did>
+              <container type="Folder">14</container>
+              <unittitle>McMullin, Dare Stark</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.2.2.15" score="1" C-ORDER="40">
+            <did>
+              <container type="Folder">15</container>
+              <unittitle>Mason, Frank E.</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.2.2.16" score="1" C-ORDER="41">
+            <did>
+              <container type="Folder">16</container>
+              <unittitle>Miller, Bernice</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.2.2.17" score="1" C-ORDER="42">
+            <did>
+              <container type="Folder">17</container>
+              <unittitle>Pawley, William</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.2.2.18" score="1" C-ORDER="43">
+            <did>
+              <container type="Folder">18</container>
+              <unittitle>Renner, Karl</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.2.2.19" score="1" C-ORDER="44">
+            <did>
+              <container type="Folder">19</container>
+              <unittitle>Stedman, Afred D.</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.2.2.20" score="1" C-ORDER="45">
+            <did>
+              <container type="Folder">20</container>
+              <unittitle>Stolper, Gustav</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.2.2.21" score="1" C-ORDER="46">
+            <did>
+              <container type="Folder">21</container>
+              <unittitle>Thomas, Lowell</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.2.2.22" score="1" C-ORDER="47">
+            <did>
+              <container type="Folder">22</container>
+              <unittitle>Truman, Harry S.</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.2.2.23" score="1" C-ORDER="48">
+            <did>
+              <container type="Folder">23</container>
+              <unittitle>Vogl, Oscar</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.2.2.24" score="1" C-ORDER="49">
+            <did>
+              <container type="Box">7.</container>
+              <container type="Folder">1</container>
+              <unittitle>Voorhees, Tracy</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.2.2.25" score="1" C-ORDER="50">
+            <did>
+              <container type="Folder">2</container>
+              <unittitle>Wacker, Hedwig</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.2.2.26" score="1" C-ORDER="51">
+            <did>
+              <container type="Folder">3</container>
+              <unittitle>Walsh, Edmund A.</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 id="c02-1.7.6.2.3" score="1" C-ORDER="52">
+          <did>
+            <container type="Folder">4</container>
+            <unittitle>Diaries, References to</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.2.4" score="1" C-ORDER="53">
+          <did>
+            <unittitle>Letters to Herbert Hoover</unittitle>
+          </did>
+          <c03 id="c03-1.7.6.2.4.2" score="1" C-ORDER="54">
+            <did>
+              <container type="Folder">5</container>
+              <unittitle>Attacking</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.2.4.3" score="1" C-ORDER="55">
+            <did>
+              <container type="Folder">6</container>
+              <unittitle>Supporting</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 id="c02-1.7.6.2.5" score="1" C-ORDER="56">
+          <did>
+            <unittitle>Speeches and writings</unittitle>
+          </did>
+          <c03 id="c03-1.7.6.2.5.2" score="1" C-ORDER="57">
+            <did>
+              <container type="Folder">7</container>
+              <unittitle>Undated drafts and notes</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.2.5.3" score="1" C-ORDER="58">
+            <did>
+              <container type="Folder">8</container>
+              <unittitle>"Food, Relief, Famine and the Economic Front in World War II," n.d. Printed copy</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.2.5.4" score="1" C-ORDER="59">
+            <did>
+              <container type="Folder">9</container>
+              <unittitle>Miscellaneous articles, 1946-1947</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.2.5.5" score="1" C-ORDER="60">
+            <did>
+              <container type="Folder">10</container>
+              <unittitle>Press release, 1946 February 8. Typescript</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.2.5.6" score="1" C-ORDER="61">
+            <did>
+              <container type="Folder">11</container>
+              <unittitle>"Hoover Mourns Cowles," statement, 1946 February 28. Typescript</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.2.5.7" score="1" C-ORDER="62">
+            <did>
+              <container type="Folder">12</container>
+              <unittitle>Press conference, 1946 March 1. Typescript</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.2.5.8" score="1" C-ORDER="63">
+            <did>
+              <container type="Folder">13</container>
+              <unittitle>Memorandum for Secretary Anderson and Mr. Chester Davis, 1946 March 5. Typescript</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.2.5.9" score="1" C-ORDER="64">
+            <did>
+              <container type="Folder">14</container>
+              <unittitle>Press conference, 1946 March 12. Typescript</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.2.5.10" score="1" C-ORDER="65">
+            <did>
+              <container type="Folder">15</container>
+              <unittitle>Address on world famine, 1946 March 14. Typescript</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.2.5.11" score="1" C-ORDER="66">
+            <did>
+              <container type="Folder">16</container>
+              <unittitle>Address on world famine, 1946 March 17. Typescript</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.2.5.12" score="1" C-ORDER="67">
+            <did>
+              <container type="Folder">17</container>
+              <unittitle>Statement, 1946 May 10. Typescript</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.2.5.13" score="1" C-ORDER="68">
+            <did>
+              <container type="Folder">18</container>
+              <unittitle>"Reporting on the Famine Emergency," press conference, White House, 1946 May 13. Typescript</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.2.5.14" score="1" C-ORDER="69">
+            <did>
+              <container type="Folder">19</container>
+              <unittitle>"World Famine Situation," speech, Chicago, 1946 May 17. Mimeograph copy. Includes Spanish translation</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.2.5.15" score="1" C-ORDER="70">
+            <did>
+              <container type="Folder">20</container>
+              <unittitle>Speech, Washington, D.C., 1946 May 20. Mimeograph Spanish translation</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.2.5.16" score="1" C-ORDER="71">
+            <did>
+              <container type="Folder">21</container>
+              <unittitle>Speech, Bogota, Colombia, 1946 May 31. Mimeograph English translation of press account</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.2.5.17" score="1" C-ORDER="72">
+            <did>
+              <container type="Folder">22</container>
+              <unittitle>Speech, Santiago, Chile, 1946 June 5. Mimeograph Spanish translation</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.2.5.18" score="1" C-ORDER="73">
+            <did>
+              <container type="Folder">23</container>
+              <unittitle>Remarks, Montevideo, Uruguay, 1946 June 11. Mimeograph Spanish translation</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.2.5.19" score="1" C-ORDER="74">
+            <did>
+              <container type="Folder">24</container>
+              <unittitle>Statement on the Latin American food situation, 1946 June 19. Typescript</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.2.5.20" score="1" C-ORDER="75">
+            <did>
+              <container type="Folder">25</container>
+              <unittitle>"To the National Association of Women Directors of the National Association of Broadcasters," 1946 June 19. Typescript</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.2.5.21" score="1" C-ORDER="76">
+            <did>
+              <container type="Folder">26</container>
+              <unittitle>Statement, 1946 August 12. Typescript</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.2.5.22" score="1" C-ORDER="77">
+            <did>
+              <container type="Folder">27</container>
+              <unittitle>Statement, Salt Lake City, 1946 August 12. Typescript</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.2.5.23" score="1" C-ORDER="78">
+            <did>
+              <container type="Folder">28</container>
+              <unittitle>Statement, 1946 November 5. Typescript</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.2.5.24" score="1" C-ORDER="79">
+            <did>
+              <container type="Folder">29</container>
+              <unittitle>Speech at N.I.C. Board, 1946 November 17. Typescript</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.2.5.25" score="1" C-ORDER="80">
+            <did>
+              <unittitle>Report No. 1 - Germany, 1947</unittitle>
+            </did>
+            <c04 id="c04-1.7.6.2.5.25.2" score="1" C-ORDER="81">
+              <did>
+                <container type="Folder">30</container>
+                <unittitle>Printed copies, February</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.2.5.25.3" score="1" C-ORDER="82">
+              <did>
+                <container type="Folder">31</container>
+                <unittitle>Clippings on public reaction to, March-April</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.2.5.25.4" score="1" C-ORDER="83">
+              <did>
+                <container type="Box">8.</container>
+                <container type="Folder">1-2</container>
+                <unittitle>Clippings on public reaction to, March-April</unittitle>
+              </did>
+            </c04>
+          </c03>
+          <c03 id="c03-1.7.6.2.5.26" score="1" C-ORDER="84">
+            <did>
+              <unittitle>Report No. 2 - Austria, 1947</unittitle>
+            </did>
+            <c04 id="c04-1.7.6.2.5.26.2" score="1" C-ORDER="85">
+              <did>
+                <container type="Folder">3</container>
+                <unittitle>Galley proofs, typescripts and printed copies, March</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.2.5.26.3" score="1" C-ORDER="86">
+              <did>
+                <container type="Folder">4</container>
+                <unittitle>Clippings on public reaction to, March-April</unittitle>
+              </did>
+            </c04>
+          </c03>
+          <c03 id="c03-1.7.6.2.5.27" score="1" C-ORDER="87">
+            <did>
+              <unittitle>Report No. 3 - Germany/Austria, March 1947</unittitle>
+            </did>
+            <c04 id="c04-1.7.6.2.5.27.2" score="1" C-ORDER="88">
+              <did>
+                <container type="Folder">5</container>
+                <unittitle>Drafts and galley proofs</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.2.5.27.3" score="1" C-ORDER="89">
+              <did>
+                <container type="Folder">6</container>
+                <unittitle>Printed copies</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.2.5.27.4" score="1" C-ORDER="90">
+              <did>
+                <container type="Folder">7</container>
+                <unittitle>Clippings on public reaction to</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.2.5.27.5" score="1" C-ORDER="91">
+              <did>
+                <container type="Box">9.</container>
+                <container type="Folder">1-2</container>
+                <unittitle>Clippings on public reaction to</unittitle>
+              </did>
+            </c04>
+          </c03>
+        </c02>
+        <c02 id="c02-1.7.6.2.6" score="1" C-ORDER="92">
+          <did>
+            <unittitle>Subject file</unittitle>
+          </did>
+          <c03 id="c03-1.7.6.2.6.2" score="1" C-ORDER="93">
+            <did>
+              <container type="Folder">3</container>
+              <unittitle>Dulles, John Foster</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.2.6.3" score="1" C-ORDER="94">
+            <did>
+              <container type="Folder">4-6</container>
+              <unittitle>Economic assistance - Germany</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.2.6.4" score="1" C-ORDER="95">
+            <did>
+              <container type="Box">10.</container>
+              <container type="Folder">1</container>
+              <unittitle>Economic assistance - Germany</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.2.6.5" score="1" C-ORDER="96">
+            <did>
+              <container type="Folder">2</container>
+              <unittitle>Eisenhower, Dwight D.</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.2.6.6" score="1" C-ORDER="97">
+            <did>
+              <unittitle>Food missions</unittitle>
+            </did>
+            <c04 id="c04-1.7.6.2.6.6.2" score="1" C-ORDER="98">
+              <did>
+                <container type="Folder">3</container>
+                <unittitle>General</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.2.6.6.3" score="1" C-ORDER="99">
+              <did>
+                <unittitle>Countries file. Research material on countries visited by Herbert Hoover</unittitle>
+              </did>
+              <c05 id="c05-1.7.6.2.6.6.3.2" score="1" C-ORDER="100">
+                <did>
+                  <container type="Folder">4-5</container>
+                  <unittitle>Argentina</unittitle>
+                </did>
+              </c05>
+              <c05 id="c05-1.7.6.2.6.6.3.3" score="1" C-ORDER="101">
+                <did>
+                  <container type="Folder">6</container>
+                  <unittitle>Austria</unittitle>
+                </did>
+              </c05>
+              <c05 id="c05-1.7.6.2.6.6.3.4" score="1" C-ORDER="102">
+                <did>
+                  <container type="Folder">7</container>
+                  <unittitle>Brazil</unittitle>
+                </did>
+              </c05>
+              <c05 id="c05-1.7.6.2.6.6.3.5" score="1" C-ORDER="103">
+                <did>
+                  <container type="Folder">8</container>
+                  <unittitle>Chile</unittitle>
+                </did>
+              </c05>
+              <c05 id="c05-1.7.6.2.6.6.3.6" score="1" C-ORDER="104">
+                <did>
+                  <container type="Box">11.</container>
+                  <container type="Folder">1</container>
+                  <unittitle>China</unittitle>
+                </did>
+              </c05>
+              <c05 id="c05-1.7.6.2.6.6.3.7" score="1" C-ORDER="105">
+                <did>
+                  <container type="Folder">2</container>
+                  <unittitle>Colombia</unittitle>
+                </did>
+              </c05>
+              <c05 id="c05-1.7.6.2.6.6.3.8" score="1" C-ORDER="106">
+                <did>
+                  <container type="Folder">3</container>
+                  <unittitle>Cuba</unittitle>
+                </did>
+              </c05>
+              <c05 id="c05-1.7.6.2.6.6.3.9" score="1" C-ORDER="107">
+                <did>
+                  <container type="Folder">4</container>
+                  <unittitle>Czechoslovakia</unittitle>
+                </did>
+              </c05>
+              <c05 id="c05-1.7.6.2.6.6.3.10" score="1" C-ORDER="108">
+                <did>
+                  <container type="Folder">5</container>
+                  <unittitle>Ecuador</unittitle>
+                </did>
+              </c05>
+              <c05 id="c05-1.7.6.2.6.6.3.11" score="1" C-ORDER="109">
+                <did>
+                  <container type="Folder">6</container>
+                  <unittitle>Egypt</unittitle>
+                </did>
+              </c05>
+              <c05 id="c05-1.7.6.2.6.6.3.12" score="1" C-ORDER="110">
+                <did>
+                  <container type="Folder">7</container>
+                  <unittitle>Finland</unittitle>
+                </did>
+              </c05>
+              <c05 id="c05-1.7.6.2.6.6.3.13" score="1" C-ORDER="111">
+                <did>
+                  <container type="Folder">8</container>
+                  <unittitle>France</unittitle>
+                </did>
+              </c05>
+              <c05 id="c05-1.7.6.2.6.6.3.14" score="1" C-ORDER="112">
+                <did>
+                  <unittitle>Germany</unittitle>
+                </did>
+                <c06 id="c06-1.7.6.2.6.6.3.14.2" score="1" C-ORDER="113">
+                  <did>
+                    <container type="Folder">9-11</container>
+                    <unittitle>General</unittitle>
+                  </did>
+                </c06>
+                <c06 id="c06-1.7.6.2.6.6.3.14.3" score="1" C-ORDER="114">
+                  <did>
+                    <container type="Folder">12</container>
+                    <unittitle>Clippings</unittitle>
+                  </did>
+                </c06>
+                <c06 id="c06-1.7.6.2.6.6.3.14.4" score="1" C-ORDER="115">
+                  <did>
+                    <container type="Folder">13</container>
+                    <unittitle>Letters to Herbert Hoover from German citizens</unittitle>
+                  </did>
+                </c06>
+                <c06 id="c06-1.7.6.2.6.6.3.14.5" score="1" C-ORDER="116">
+                  <did>
+                    <container type="Box">12.</container>
+                    <container type="Folder">1-2</container>
+                    <unittitle>Letters to Herbert Hoover from German citizens</unittitle>
+                  </did>
+                </c06>
+              </c05>
+              <c05 id="c05-1.7.6.2.6.6.3.15" score="1" C-ORDER="117">
+                <did>
+                  <container type="Folder">3</container>
+                  <unittitle>Great Britain</unittitle>
+                </did>
+              </c05>
+              <c05 id="c05-1.7.6.2.6.6.3.16" score="1" C-ORDER="118">
+                <did>
+                  <container type="Folder">4</container>
+                  <unittitle>Greece</unittitle>
+                </did>
+              </c05>
+              <c05 id="c05-1.7.6.2.6.6.3.17" score="1" C-ORDER="119">
+                <did>
+                  <container type="Folder">5</container>
+                  <unittitle>India</unittitle>
+                </did>
+              </c05>
+              <c05 id="c05-1.7.6.2.6.6.3.18" score="1" C-ORDER="120">
+                <did>
+                  <container type="Folder">6</container>
+                  <unittitle>Iraq</unittitle>
+                </did>
+              </c05>
+              <c05 id="c05-1.7.6.2.6.6.3.19" score="1" C-ORDER="121">
+                <did>
+                  <container type="Folder">7</container>
+                  <unittitle>Italy</unittitle>
+                </did>
+              </c05>
+              <c05 id="c05-1.7.6.2.6.6.3.20" score="1" C-ORDER="122">
+                <did>
+                  <container type="Folder">8</container>
+                  <unittitle>Japan</unittitle>
+                </did>
+              </c05>
+              <c05 id="c05-1.7.6.2.6.6.3.21" score="1" C-ORDER="123">
+                <did>
+                  <container type="Folder">9</container>
+                  <unittitle>Korea</unittitle>
+                </did>
+              </c05>
+              <c05 id="c05-1.7.6.2.6.6.3.22" score="1" C-ORDER="124">
+                <did>
+                  <container type="Folder">10-11</container>
+                  <unittitle>Mexico</unittitle>
+                </did>
+              </c05>
+              <c05 id="c05-1.7.6.2.6.6.3.23" score="1" C-ORDER="125">
+                <did>
+                  <container type="Folder">12</container>
+                  <unittitle>Panama</unittitle>
+                </did>
+              </c05>
+              <c05 id="c05-1.7.6.2.6.6.3.24" score="1" C-ORDER="126">
+                <did>
+                  <container type="Folder">13-14</container>
+                  <unittitle>Peru</unittitle>
+                </did>
+              </c05>
+              <c05 id="c05-1.7.6.2.6.6.3.25" score="1" C-ORDER="127">
+                <did>
+                  <container type="Box">13.</container>
+                  <container type="Folder">1</container>
+                  <unittitle>Peru</unittitle>
+                </did>
+              </c05>
+              <c05 id="c05-1.7.6.2.6.6.3.26" score="1" C-ORDER="128">
+                <did>
+                  <container type="Folder">2</container>
+                  <unittitle>Philippine Islands</unittitle>
+                </did>
+              </c05>
+              <c05 id="c05-1.7.6.2.6.6.3.27" score="1" C-ORDER="129">
+                <did>
+                  <container type="Folder">3</container>
+                  <unittitle>Poland</unittitle>
+                </did>
+              </c05>
+              <c05 id="c05-1.7.6.2.6.6.3.28" score="1" C-ORDER="130">
+                <did>
+                  <container type="Folder">4</container>
+                  <unittitle>Sweden</unittitle>
+                </did>
+              </c05>
+              <c05 id="c05-1.7.6.2.6.6.3.29" score="1" C-ORDER="131">
+                <did>
+                  <container type="Folder">5</container>
+                  <unittitle>Switzerland</unittitle>
+                </did>
+              </c05>
+              <c05 id="c05-1.7.6.2.6.6.3.30" score="1" C-ORDER="132">
+                <did>
+                  <container type="Folder">6</container>
+                  <unittitle>Thailand</unittitle>
+                </did>
+              </c05>
+              <c05 id="c05-1.7.6.2.6.6.3.31" score="1" C-ORDER="133">
+                <did>
+                  <container type="Folder">7</container>
+                  <unittitle>Uruguay</unittitle>
+                </did>
+              </c05>
+              <c05 id="c05-1.7.6.2.6.6.3.32" score="1" C-ORDER="134">
+                <did>
+                  <container type="Folder">8</container>
+                  <unittitle>Venezuela</unittitle>
+                </did>
+              </c05>
+              <c05 id="c05-1.7.6.2.6.6.3.33" score="1" C-ORDER="135">
+                <did>
+                  <container type="Folder">9</container>
+                  <unittitle>Yugoslavia</unittitle>
+                </did>
+              </c05>
+            </c04>
+            <c04 id="c04-1.7.6.2.6.6.4" score="1" C-ORDER="136">
+              <did>
+                <unittitle>Itineraries</unittitle>
+              </did>
+              <c05 id="c05-1.7.6.2.6.6.4.2" score="1" C-ORDER="137">
+                <did>
+                  <container type="Folder">10</container>
+                  <unittitle>General</unittitle>
+                </did>
+              </c05>
+              <c05 id="c05-1.7.6.2.6.6.4.3" score="1" C-ORDER="138">
+                <did>
+                  <container type="Folder">11</container>
+                  <unittitle>Asian trips</unittitle>
+                </did>
+              </c05>
+              <c05 id="c05-1.7.6.2.6.6.4.4" score="1" C-ORDER="139">
+                <did>
+                  <container type="Folder">12</container>
+                  <unittitle>European trips</unittitle>
+                </did>
+              </c05>
+              <c05 id="c05-1.7.6.2.6.6.4.5" score="1" C-ORDER="140">
+                <did>
+                  <container type="Folder">13</container>
+                  <unittitle>South American trips</unittitle>
+                </did>
+              </c05>
+            </c04>
+            <c04 id="c04-1.7.6.2.6.6.5" score="1" C-ORDER="141">
+              <did>
+                <container type="Folder">14</container>
+                <unittitle>List of members</unittitle>
+              </did>
+            </c04>
+          </c03>
+          <c03 id="c03-1.7.6.2.6.7" score="1" C-ORDER="142">
+            <did>
+              <container type="Box">14.</container>
+              <unittitle>Gibson, Hugh</unittitle>
+            </did>
+            <c04 id="c04-1.7.6.2.6.7.2" score="1" C-ORDER="143">
+              <did>
+                <container type="Folder">1</container>
+                <unittitle>Notes on the European mission, 1946 March 17- May 12</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.2.6.7.3" score="1" C-ORDER="144">
+              <did>
+                <container type="Folder">2</container>
+                <unittitle>Notes on the South American mission, 1946 May 25 - June 19</unittitle>
+              </did>
+            </c04>
+          </c03>
+          <c03 id="c03-1.7.6.2.6.8" score="1" C-ORDER="145">
+            <did>
+              <container type="Folder">3</container>
+              <unittitle>Lend-lease operations (1941-1945) - Soviet Union</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.2.6.9" score="1" C-ORDER="146">
+            <did>
+              <container type="Folder">4</container>
+              <unittitle>Marshall, George C.</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.2.6.10" score="1" C-ORDER="147">
+            <did>
+              <container type="Folder">5</container>
+              <unittitle>United States - Foreign relations - Japan (1947 March)</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.2.6.11" score="1" C-ORDER="148">
+            <did>
+              <container type="Folder">6</container>
+              <unittitle>Miscellany</unittitle>
+            </did>
+          </c03>
+        </c02>
+      </c01>
+      <c01 id="c01-1.7.6.3" level="series" score="2" C-ORDER="149">
+<did>
+          <unittitle>Office File, <unitdate calendar="gregorian" era="ce" type="inclusive">1945-1947</unitdate></unittitle>
+          <container>Box 14.-22.</container>
+        </did>
+        <scopecontent>
+          <p>Correspondence, memoranda, reports, minutes of meetings, statistical data, clippings, and
+printed matter, relating to the daily operations of the Famine Emergency Committee,
+arranged alphabetically by physical form</p>
+        </scopecontent>
+
+        <c02 id="c02-1.7.6.3.2" score="1" C-ORDER="151">
+          <did>
+            <container type="Box">14.</container>
+            <container type="Folder">7</container>
+            <unittitle>Agreements between the U.S. and recipient governments</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.3" score="1" C-ORDER="152">
+          <did>
+            <container type="Folder">8</container>
+            <unittitle>Cable codes</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.4" score="1" C-ORDER="153">
+          <did>
+            <unittitle>Clippings</unittitle>
+          </did>
+          <c03 id="c03-1.7.6.3.4.2" score="1" C-ORDER="154">
+            <did>
+              <unittitle>General, 1946</unittitle>
+            </did>
+            <c04 id="c04-1.7.6.3.4.2.2" score="1" C-ORDER="155">
+              <did>
+                <container type="Folder">9</container>
+                <unittitle>February-March</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.3.4.2.3" score="1" C-ORDER="156">
+              <did>
+                <container type="Folder">10</container>
+                <unittitle>March</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.3.4.2.4" score="1" C-ORDER="157">
+              <did>
+                <container type="Folder">11</container>
+                <unittitle>April</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.3.4.2.5" score="1" C-ORDER="158">
+              <did>
+                <container type="Box">15.</container>
+                <container type="Folder">1-2</container>
+                <unittitle>April</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.3.4.2.6" score="1" C-ORDER="159">
+              <did>
+                <container type="Folder">3-4</container>
+                <unittitle>May</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.3.4.2.7" score="1" C-ORDER="160">
+              <did>
+                <container type="Folder">5</container>
+                <unittitle>June-September</unittitle>
+              </did>
+            </c04>
+          </c03>
+          <c03 id="c03-1.7.6.3.4.3" score="1" C-ORDER="161">
+            <did>
+              <container type="Folder">6</container>
+              <unittitle>Hoover trip to Germany, 1947. In German</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.3.4.4" score="1" C-ORDER="162">
+            <did>
+              <container type="Box">16.</container>
+              <container type="Folder">1-2</container>
+              <unittitle>Hoover trip to Germany, 1947. In German</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.3.4.5" score="1" C-ORDER="163">
+            <did>
+              <container type="Folder">3</container>
+              <unittitle>Office of Price Administration</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.3.4.6" score="1" C-ORDER="164">
+            <did>
+              <container type="Folder">4</container>
+              <unittitle>Roosevelt, Eleanor</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 id="c02-1.7.6.3.5" score="1" C-ORDER="165">
+          <did>
+            <container type="Folder">5</container>
+            <unittitle>Correspondence - American National Red Cross, 1946</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.6" score="1" C-ORDER="166">
+          <did>
+            <container type="Folder">6</container>
+            <unittitle>Exhibits file</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.7" score="1" C-ORDER="167">
+          <did>
+            <container type="Folder">7</container>
+            <unittitle>Membership list</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.8" score="1" C-ORDER="168">
+          <did>
+            <container type="Folder">8</container>
+            <unittitle>Minutes of meetings, 1946 March-April</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.9" score="1" C-ORDER="169">
+          <did>
+            <container type="Folder">9</container>
+            <unittitle>Publicity file</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.3.10" score="1" C-ORDER="170">
+          <did>
+            <unittitle>Subject file</unittitle>
+          </did>
+          <c03 id="c03-1.7.6.3.10.2" score="1" C-ORDER="171">
+            <did>
+              <container type="Folder">10</container>
+              <unittitle>Anti-Nazi League</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.3.10.3" score="1" C-ORDER="172">
+            <did>
+              <container type="Folder">11</container>
+              <unittitle>Child health and welfare. Reports on conditions in various countries by Maurice Pate, 1946</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.3.10.4" score="1" C-ORDER="173">
+            <did>
+              <container type="Box">17.</container>
+              <container type="Folder">1</container>
+              <unittitle>Displaced persons, immigrants, refugees, 1947</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.3.10.5" score="1" C-ORDER="174">
+            <did>
+              <unittitle>Economic assistance, American</unittitle>
+            </did>
+            <c04 id="c04-1.7.6.3.10.5.2" score="1" C-ORDER="175">
+              <did>
+                <container type="Folder">2</container>
+                <unittitle>Greece and Turkey</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.3.10.5.3" score="1" C-ORDER="176">
+              <did>
+                <container type="Folder">3</container>
+                <unittitle>Turkey</unittitle>
+              </did>
+            </c04>
+          </c03>
+          <c03 id="c03-1.7.6.3.10.6" score="1" C-ORDER="177">
+            <did>
+              <container type="Folder">4</container>
+              <unittitle>Economic Cooperation Administration</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.3.10.7" score="1" C-ORDER="178">
+            <did>
+              <container type="Folder">5-6</container>
+              <unittitle>Emergency Economic Committee for Europe</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.3.10.8" score="1" C-ORDER="179">
+            <did>
+              <unittitle>Europe</unittitle>
+            </did>
+            <c04 id="c04-1.7.6.3.10.8.2" score="1" C-ORDER="180">
+              <did>
+                <container type="Folder">7</container>
+                <unittitle>Economic conditions, 1945-1947</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.3.10.8.3" score="1" C-ORDER="181">
+              <did>
+                <container type="Folder">8</container>
+                <unittitle>History - 1945-1947</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.3.10.8.4" score="1" C-ORDER="182">
+              <did>
+                <container type="Folder">9</container>
+                <unittitle>Industries</unittitle>
+              </did>
+            </c04>
+          </c03>
+          <c03 id="c03-1.7.6.3.10.9" score="1" C-ORDER="183">
+            <did>
+              <container type="Folder">10</container>
+              <unittitle>European Recovery Program</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.3.10.10" score="1" C-ORDER="184">
+            <did>
+              <container type="Box">18.</container>
+              <container type="Folder">1-3</container>
+              <unittitle>European Recovery Program</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.3.10.11" score="1" C-ORDER="185">
+            <did>
+              <unittitle>Food consumption</unittitle>
+            </did>
+            <c04 id="c04-1.7.6.3.10.11.2" score="1" C-ORDER="186">
+              <did>
+                <container type="Folder">4</container>
+                <unittitle>Far East</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.3.10.11.3" score="1" C-ORDER="187">
+              <did>
+                <container type="Folder">5</container>
+                <unittitle>Romania</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.3.10.11.4" score="1" C-ORDER="188">
+              <did>
+                <container type="Folder">6</container>
+                <unittitle>South Africa</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.3.10.11.5" score="1" C-ORDER="189">
+              <did>
+                <container type="Folder">7</container>
+                <unittitle>United States</unittitle>
+              </did>
+            </c04>
+          </c03>
+          <c03 id="c03-1.7.6.3.10.12" score="1" C-ORDER="190">
+            <did>
+              <unittitle>Food supply</unittitle>
+            </did>
+            <c04 id="c04-1.7.6.3.10.12.2" score="1" C-ORDER="191">
+              <did>
+                <container type="Folder">8</container>
+                <unittitle>General</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.3.10.12.3" score="1" C-ORDER="192">
+              <did>
+                <container type="Box">19.</container>
+                <container type="Folder">1-3</container>
+                <unittitle>General</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.3.10.12.4" score="1" C-ORDER="193">
+              <did>
+                <container type="Folder">4</container>
+                <unittitle>Europe</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.3.10.12.5" score="1" C-ORDER="194">
+              <did>
+                <container type="Box">20.</container>
+                <container type="Folder">1</container>
+                <unittitle>Europe</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.3.10.12.6" score="1" C-ORDER="195">
+              <did>
+                <container type="Folder">2-3</container>
+                <unittitle>Food for Freedom, Inc.</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.3.10.12.7" score="1" C-ORDER="196">
+              <did>
+                <container type="Folder">4-5</container>
+                <unittitle>Grains</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.3.10.12.8" score="1" C-ORDER="197">
+              <did>
+                <container type="Folder">6</container>
+                <unittitle>Potatoes</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.3.10.12.9" score="1" C-ORDER="198">
+              <did>
+                <container type="Folder">7-8</container>
+                <unittitle>South America</unittitle>
+              </did>
+            </c04>
+          </c03>
+          <c03 id="c03-1.7.6.3.10.13" score="1" C-ORDER="199">
+            <did>
+              <container type="Box">21.</container>
+              <unittitle>Germany - History - 1945-1955</unittitle>
+            </did>
+            <c04 id="c04-1.7.6.3.10.13.2" score="1" C-ORDER="200">
+              <did>
+                <container type="Folder">1-2</container>
+                <unittitle>General</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.3.10.13.3" score="1" C-ORDER="201">
+              <did>
+                <container type="Folder">3</container>
+                <unittitle>U.S. Army food surplus, 1947</unittitle>
+              </did>
+            </c04>
+          </c03>
+          <c03 id="c03-1.7.6.3.10.14" score="1" C-ORDER="202">
+            <did>
+              <unittitle>Health conditions</unittitle>
+            </did>
+            <c04 id="c04-1.7.6.3.10.14.2" score="1" C-ORDER="203">
+              <did>
+                <container type="Folder">4</container>
+                <unittitle>Europe</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.3.10.14.3" score="1" C-ORDER="204">
+              <did>
+                <container type="Folder">5</container>
+                <unittitle>Hungary</unittitle>
+              </did>
+            </c04>
+          </c03>
+          <c03 id="c03-1.7.6.3.10.15" score="1" C-ORDER="205">
+            <did>
+              <container type="Folder">6</container>
+              <unittitle>National Famine Emergency Council. List of members, 1946 March 13</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.3.10.16" score="1" C-ORDER="206">
+            <did>
+              <container type="Folder">7</container>
+              <unittitle>National Retail Committee</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.3.10.17" score="1" C-ORDER="207">
+            <did>
+              <container type="Folder">8</container>
+              <unittitle>Neutral zones in wartime</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.3.10.18" score="1" C-ORDER="208">
+            <did>
+              <container type="Folder">9</container>
+              <unittitle>Raw materials - Africa</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.3.10.19" score="1" C-ORDER="209">
+            <did>
+              <container type="Folder">10</container>
+              <unittitle>Refugees Defence Committee, London</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.3.10.20" score="1" C-ORDER="210">
+            <did>
+              <container type="Folder">11</container>
+              <unittitle>State Food Emergency Program</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.3.10.21" score="1" C-ORDER="211">
+            <did>
+              <container type="Folder">12</container>
+              <unittitle>Turkey - Economic conditions - 1946-1947</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.3.10.22" score="1" C-ORDER="212">
+            <did>
+              <unittitle>United Nations Relief and Rehabilitation Administration (UNRRA)</unittitle>
+            </did>
+            <c04 id="c04-1.7.6.3.10.22.2" score="1" C-ORDER="213">
+              <did>
+                <container type="Folder">13</container>
+                <unittitle>General</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.3.10.22.3" score="1" C-ORDER="214">
+              <did>
+                <unittitle>
+                  <title render="italic">Economic Notes</title>
+                </unittitle>
+              </did>
+              <c05 id="c05-1.7.6.3.10.22.3.2" score="1" C-ORDER="215">
+                <did>
+                  <unittitle>1946</unittitle>
+                </did>
+                <c06 id="c06-1.7.6.3.10.22.3.2.2" score="1" C-ORDER="216">
+                  <did>
+                    <container type="Folder">14</container>
+                    <unittitle>January-September</unittitle>
+                  </did>
+                </c06>
+                <c06 id="c06-1.7.6.3.10.22.3.2.3" score="1" C-ORDER="217">
+                  <did>
+                    <container type="Folder">15</container>
+                    <unittitle>October-December</unittitle>
+                  </did>
+                </c06>
+              </c05>
+              <c05 id="c05-1.7.6.3.10.22.3.3" score="1" C-ORDER="218">
+                <did>
+                  <container type="Folder">16</container>
+                  <unittitle>1947 January-February</unittitle>
+                </did>
+              </c05>
+            </c04>
+          </c03>
+          <c03 id="c03-1.7.6.3.10.23" score="1" C-ORDER="219">
+            <did>
+              <container type="Box">22.</container>
+              <unittitle>United States</unittitle>
+            </did>
+            <c04 id="c04-1.7.6.3.10.23.2" score="1" C-ORDER="220">
+              <did>
+                <container type="Folder">1</container>
+                <unittitle>Appropriations, 1947</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.3.10.23.3" score="1" C-ORDER="221">
+              <did>
+                <container type="Folder">2</container>
+                <unittitle>Food exports, 1945-1946</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.3.10.23.4" score="1" C-ORDER="222">
+              <did>
+                <container type="Folder">3</container>
+                <unittitle>Food saving proposals by the Girl Scouts of America and other organizations</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.3.10.23.5" score="1" C-ORDER="223">
+              <did>
+                <container type="Folder">4</container>
+                <unittitle>Foreign trade</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.3.10.23.6" score="1" C-ORDER="224">
+              <did>
+                <container type="Folder">5</container>
+                <unittitle>Legislation for relief assistance</unittitle>
+              </did>
+            </c04>
+          </c03>
+          <c03 id="c03-1.7.6.3.10.24" score="1" C-ORDER="225">
+            <did>
+              <container type="Folder">6</container>
+              <unittitle>United States. Maritime Commission</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.3.10.25" score="1" C-ORDER="226">
+            <did>
+              <container type="Folder">7</container>
+              <unittitle>United States Information Service. Newsletter issues and press releases, 1946 (in Portuguese)</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.3.10.26" score="1" C-ORDER="227">
+            <did>
+              <container type="Folder">8</container>
+              <unittitle>World War, 1939-1945 - Aerial operations, American</unittitle>
+            </did>
+          </c03>
+        </c02>
+      </c01>
+      <c01 id="c01-1.7.6.4" level="series" score="3" C-ORDER="228">
+<did>
+          <unittitle>Countries File, <unitdate calendar="gregorian" era="ce" type="inclusive">1946-1947</unitdate></unittitle>
+          <container>Box 22.-28.</container>
+        </did>
+        <scopecontent>
+          <p>Correspondence, memoranda, reports, statistical data, surveys, and printed matter,
+relating to the countries visited by Herbert Hoover and the Famine Emergency Committee
+team, arranged alphabetically by name of country</p>
+        </scopecontent>
+
+        <scopecontent>
+          <p>Correspondence, memoranda, reports, statistical data, surveys, and printed matter</p>
+        </scopecontent>
+        <c02 id="c02-1.7.6.4.3" score="1" C-ORDER="231">
+          <did>
+            <container type="Box">22.</container>
+            <unittitle>Argentina</unittitle>
+          </did>
+          <c03 id="c03-1.7.6.4.3.2" score="1" C-ORDER="232">
+            <did>
+              <container type="Folder">9</container>
+              <unittitle>Description</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.4.3.3" score="1" C-ORDER="233">
+            <did>
+              <container type="Folder">10</container>
+              <unittitle>Health and welfare</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.4.3.4" score="1" C-ORDER="234">
+            <did>
+              <container type="Folder">11</container>
+              <unittitle>Relief to other countries</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 id="c02-1.7.6.4.4" score="1" C-ORDER="235">
+          <did>
+            <unittitle>Austria</unittitle>
+          </did>
+          <c03 id="c03-1.7.6.4.4.2" score="1" C-ORDER="236">
+            <did>
+              <container type="Folder">12</container>
+              <unittitle>General</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.4.4.3" score="1" C-ORDER="237">
+            <did>
+              <container type="Folder">13</container>
+              <unittitle>Food consumption</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.4.4.4" score="1" C-ORDER="238">
+            <did>
+              <container type="Folder">14</container>
+              <unittitle>Food supply</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.4.4.5" score="1" C-ORDER="239">
+            <did>
+              <unittitle>Health and welfare</unittitle>
+            </did>
+            <c04 id="c04-1.7.6.4.4.5.2" score="1" C-ORDER="240">
+              <did>
+                <container type="Folder">15</container>
+                <unittitle>General</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.4.4.5.3" score="1" C-ORDER="241">
+              <did>
+                <container type="Box">23.</container>
+                <container type="Folder">1</container>
+                <unittitle>Children</unittitle>
+              </did>
+            </c04>
+          </c03>
+        </c02>
+        <c02 id="c02-1.7.6.4.5" score="1" C-ORDER="242">
+          <did>
+            <unittitle>Brazil</unittitle>
+          </did>
+          <c03 id="c03-1.7.6.4.5.2" score="1" C-ORDER="243">
+            <did>
+              <container type="Folder">2</container>
+              <unittitle>General</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.4.5.3" score="1" C-ORDER="244">
+            <did>
+              <container type="Folder">3</container>
+              <unittitle>Health and welfare</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.4.5.4" score="1" C-ORDER="245">
+            <did>
+              <container type="Folder">4-5</container>
+              <unittitle>Hoover trip to, 1946 June</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 id="c02-1.7.6.4.6" score="1" C-ORDER="246">
+          <did>
+            <container type="Folder">6</container>
+            <unittitle>Chile</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.4.7" score="1" C-ORDER="247">
+          <did>
+            <unittitle>China</unittitle>
+          </did>
+          <c03 id="c03-1.7.6.4.7.2" score="1" C-ORDER="248">
+            <did>
+              <container type="Folder">7</container>
+              <unittitle>Appeal for aid to the U.S.</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.4.7.3" score="1" C-ORDER="249">
+            <did>
+              <container type="Folder">8</container>
+              <unittitle>Food supply</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 id="c02-1.7.6.4.8" score="1" C-ORDER="250">
+          <did>
+            <unittitle>Colombia</unittitle>
+          </did>
+          <c03 id="c03-1.7.6.4.8.2" score="1" C-ORDER="251">
+            <did>
+              <container type="Folder">9</container>
+              <unittitle>Food supply</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.4.8.3" score="1" C-ORDER="252">
+            <did>
+              <container type="Folder">10</container>
+              <unittitle>Health and welfare</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 id="c02-1.7.6.4.9" score="1" C-ORDER="253">
+          <did>
+            <unittitle>Cuba</unittitle>
+          </did>
+          <c03 id="c03-1.7.6.4.9.2" score="1" C-ORDER="254">
+            <did>
+              <container type="Folder">11</container>
+              <unittitle>Food supply</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.4.9.3" score="1" C-ORDER="255">
+            <did>
+              <container type="Folder">12</container>
+              <unittitle>Health and welfare</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 id="c02-1.7.6.4.10" score="1" C-ORDER="256">
+          <did>
+            <container type="Folder">13</container>
+            <unittitle>Czechoslovakia</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.4.11" score="1" C-ORDER="257">
+          <did>
+            <unittitle>Ecuador</unittitle>
+          </did>
+          <c03 id="c03-1.7.6.4.11.2" score="1" C-ORDER="258">
+            <did>
+              <container type="Folder">14</container>
+              <unittitle>Food supply</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.4.11.3" score="1" C-ORDER="259">
+            <did>
+              <container type="Folder">15</container>
+              <unittitle>Health and welfare</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 id="c02-1.7.6.4.12" score="1" C-ORDER="260">
+          <did>
+            <container type="Folder">16</container>
+            <unittitle>Egypt</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.4.13" score="1" C-ORDER="261">
+          <did>
+            <container type="Folder">17</container>
+            <unittitle>Finland</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.4.14" score="1" C-ORDER="262">
+          <did>
+            <unittitle>France</unittitle>
+          </did>
+          <c03 id="c03-1.7.6.4.14.2" score="1" C-ORDER="263">
+            <did>
+              <container type="Folder">18</container>
+              <unittitle>General</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.4.14.3" score="1" C-ORDER="264">
+            <did>
+              <container type="Folder">19-20</container>
+              <unittitle>Health and welfare</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.4.14.4" score="1" C-ORDER="265">
+            <did>
+              <container type="Folder">21</container>
+              <unittitle>Nutrition</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 id="c02-1.7.6.4.15" score="1" C-ORDER="266">
+          <did>
+            <unittitle>Germany</unittitle>
+          </did>
+          <c03 id="c03-1.7.6.4.15.2" score="1" C-ORDER="267">
+            <did>
+              <container type="Folder">22</container>
+              <unittitle>General</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.4.15.3" score="1" C-ORDER="268">
+            <did>
+              <container type="Box">24.</container>
+              <container type="Folder">1</container>
+              <unittitle>Agriculture</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.4.15.4" score="1" C-ORDER="269">
+            <did>
+              <container type="Folder">2</container>
+              <unittitle>Child feeding programs</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.4.15.5" score="1" C-ORDER="270">
+            <did>
+              <container type="Folder">3</container>
+              <unittitle>Concentration camps</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.4.15.6" score="1" C-ORDER="271">
+            <did>
+              <container type="Folder">4</container>
+              <unittitle>Denazification</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.4.15.7" score="1" C-ORDER="272">
+            <did>
+              <container type="Folder">5</container>
+              <unittitle>Economic conditions, 1946-1947</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.4.15.8" score="1" C-ORDER="273">
+            <did>
+              <container type="Folder">6</container>
+              <unittitle>Fisheries</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.4.15.9" score="1" C-ORDER="274">
+            <did>
+              <container type="Folder">7</container>
+              <unittitle>Food consumption</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.4.15.10" score="1" C-ORDER="275">
+            <did>
+              <container type="Folder">8-10</container>
+              <unittitle>Food supply</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.4.15.11" score="1" C-ORDER="276">
+            <did>
+              <container type="Box">25.</container>
+              <container type="Folder">1</container>
+              <unittitle>Foreign relations - Soviet Union</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.4.15.12" score="1" C-ORDER="277">
+            <did>
+              <container type="Folder">2</container>
+              <unittitle>Foreign trade</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.4.15.13" score="1" C-ORDER="278">
+            <did>
+              <container type="Folder">3</container>
+              <unittitle>Forestry</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.4.15.14" score="1" C-ORDER="279">
+            <did>
+              <container type="Folder">4-7</container>
+              <unittitle>Health and welfare</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.4.15.15" score="1" C-ORDER="280">
+            <did>
+              <unittitle>History - 1945-1955</unittitle>
+            </did>
+            <c04 id="c04-1.7.6.4.15.15.2" score="1" C-ORDER="281">
+              <did>
+                <container type="Folder">8</container>
+                <unittitle>British occupied zone</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.4.15.15.3" score="1" C-ORDER="282">
+              <did>
+                <container type="Folder">9</container>
+                <unittitle>Postwar unification</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.4.15.15.4" score="1" C-ORDER="283">
+              <did>
+                <container type="Folder">10</container>
+                <unittitle>Reconstruction</unittitle>
+              </did>
+            </c04>
+          </c03>
+          <c03 id="c03-1.7.6.4.15.16" score="1" C-ORDER="284">
+            <did>
+              <container type="Box">26.</container>
+              <unittitle>Industry</unittitle>
+            </did>
+            <c04 id="c04-1.7.6.4.15.16.2" score="1" C-ORDER="285">
+              <did>
+                <container type="Folder">1</container>
+                <unittitle>General</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.4.15.16.3" score="1" C-ORDER="286">
+              <did>
+                <container type="Folder">2</container>
+                <unittitle>Industrial disarmament</unittitle>
+              </did>
+            </c04>
+          </c03>
+          <c03 id="c03-1.7.6.4.15.17" score="1" C-ORDER="287">
+            <did>
+              <container type="Folder">3</container>
+              <unittitle>Land reform</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.4.15.18" score="1" C-ORDER="288">
+            <did>
+              <unittitle>Nutrition</unittitle>
+            </did>
+            <c04 id="c04-1.7.6.4.15.18.2" score="1" C-ORDER="289">
+              <did>
+                <container type="Folder">4-6</container>
+                <unittitle>General</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.4.15.18.3" score="1" C-ORDER="290">
+              <did>
+                <container type="Folder">7</container>
+                <unittitle>Berlin</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.4.15.18.4" score="1" C-ORDER="291">
+              <did>
+                <container type="Folder">8</container>
+                <unittitle>Cologne and North Rhine region</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.4.15.18.5" score="1" C-ORDER="292">
+              <did>
+                <container type="Folder">9</container>
+                <unittitle>Hamburg</unittitle>
+              </did>
+            </c04>
+          </c03>
+          <c03 id="c03-1.7.6.4.15.19" score="1" C-ORDER="293">
+            <did>
+              <container type="Box">27.</container>
+              <container type="Folder">1</container>
+              <unittitle>Politics and government</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.4.15.20" score="1" C-ORDER="294">
+            <did>
+              <unittitle>Relief organizations</unittitle>
+            </did>
+            <c04 id="c04-1.7.6.4.15.20.2" score="1" C-ORDER="295">
+              <did>
+                <container type="Folder">2</container>
+                <unittitle>General</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.4.15.20.3" score="1" C-ORDER="296">
+              <did>
+                <container type="Folder">3</container>
+                <unittitle>Council of Relief Agencies Licensed for Operation in Germany</unittitle>
+              </did>
+            </c04>
+          </c03>
+          <c03 id="c03-1.7.6.4.15.21" score="1" C-ORDER="297">
+            <did>
+              <container type="Folder">4</container>
+              <unittitle>Shipping</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.4.15.22" score="1" C-ORDER="298">
+            <did>
+              <container type="Folder">5</container>
+              <unittitle>Social conditions</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 id="c02-1.7.6.4.16" score="1" C-ORDER="299">
+          <did>
+            <unittitle>Great Britain</unittitle>
+          </did>
+          <c03 id="c03-1.7.6.4.16.2" score="1" C-ORDER="300">
+            <did>
+              <container type="Folder">6</container>
+              <unittitle>Food supply</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.4.16.3" score="1" C-ORDER="301">
+            <did>
+              <container type="Folder">7</container>
+              <unittitle>Health and welfare</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 id="c02-1.7.6.4.17" score="1" C-ORDER="302">
+          <did>
+            <container type="Folder">8</container>
+            <unittitle>Greece - Economic assistance, American</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.4.18" score="1" C-ORDER="303">
+          <did>
+            <container type="Folder">9</container>
+            <unittitle>India</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.4.19" score="1" C-ORDER="304">
+          <did>
+            <unittitle>Italy</unittitle>
+          </did>
+          <c03 id="c03-1.7.6.4.19.2" score="1" C-ORDER="305">
+            <did>
+              <container type="Folder">10</container>
+              <unittitle>General</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.4.19.3" score="1" C-ORDER="306">
+            <did>
+              <container type="Folder">11</container>
+              <unittitle>Economic assistance, American</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.4.19.4" score="1" C-ORDER="307">
+            <did>
+              <container type="Folder">12</container>
+              <unittitle>Food supply</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.4.19.5" score="1" C-ORDER="308">
+            <did>
+              <container type="Folder">13</container>
+              <unittitle>Health and welfare</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.4.19.6" score="1" C-ORDER="309">
+            <did>
+              <container type="Folder">14</container>
+              <unittitle>United Nations Relief and Rehabilitation Administration (UNRRA)</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.4.19.7" score="1" C-ORDER="310">
+            <did>
+              <container type="Box">28.</container>
+              <container type="Folder">1</container>
+              <unittitle>United States. Embassy (Italy). Office of the Press Attache - U.S. correspondents in Italy, 1947 February</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 id="c02-1.7.6.4.20" score="1" C-ORDER="311">
+          <did>
+            <unittitle>Japan</unittitle>
+          </did>
+          <c03 id="c03-1.7.6.4.20.2" score="1" C-ORDER="312">
+            <did>
+              <container type="Folder">2</container>
+              <unittitle>Fertilizers</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.4.20.3" score="1" C-ORDER="313">
+            <did>
+              <container type="Folder">3-4</container>
+              <unittitle>Food supply</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.4.20.4" score="1" C-ORDER="314">
+            <did>
+              <container type="Folder">5</container>
+              <unittitle>Natural resources</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.4.20.5" score="1" C-ORDER="315">
+            <did>
+              <container type="Folder">6</container>
+              <unittitle>Nutrition</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 id="c02-1.7.6.4.21" score="1" C-ORDER="316">
+          <did>
+            <unittitle>Mexico</unittitle>
+          </did>
+          <c03 id="c03-1.7.6.4.21.2" score="1" C-ORDER="317">
+            <did>
+              <container type="Folder">7</container>
+              <unittitle>General</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.4.21.3" score="1" C-ORDER="318">
+            <did>
+              <container type="Folder">8</container>
+              <unittitle>Food supply</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 id="c02-1.7.6.4.22" score="1" C-ORDER="319">
+          <did>
+            <unittitle>Netherlands</unittitle>
+          </did>
+          <c03 id="c03-1.7.6.4.22.2" score="1" C-ORDER="320">
+            <did>
+              <container type="Folder">9</container>
+              <unittitle>General</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.4.22.3" score="1" C-ORDER="321">
+            <did>
+              <container type="Folder">10</container>
+              <unittitle>Health and welfare</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 id="c02-1.7.6.4.23" score="1" C-ORDER="322">
+          <did>
+            <container type="Folder">11</container>
+            <unittitle>Norway - Fish exports</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.4.24" score="1" C-ORDER="323">
+          <did>
+            <container type="Folder">12</container>
+            <unittitle>Panama</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.4.25" score="1" C-ORDER="324">
+          <did>
+            <unittitle>Peru</unittitle>
+          </did>
+          <c03 id="c03-1.7.6.4.25.2" score="1" C-ORDER="325">
+            <did>
+              <container type="Folder">13</container>
+              <unittitle>Food supply</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.4.25.3" score="1" C-ORDER="326">
+            <did>
+              <container type="Folder">14</container>
+              <unittitle>Health and welfare</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 id="c02-1.7.6.4.26" score="1" C-ORDER="327">
+          <did>
+            <unittitle>Poland</unittitle>
+          </did>
+          <c03 id="c03-1.7.6.4.26.2" score="1" C-ORDER="328">
+            <did>
+              <container type="Folder">15</container>
+              <unittitle>Economic assistance, American</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.4.26.3" score="1" C-ORDER="329">
+            <did>
+              <container type="Folder">16</container>
+              <unittitle>Food supply</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 id="c02-1.7.6.4.27" score="1" C-ORDER="330">
+          <did>
+            <unittitle>Sweden</unittitle>
+          </did>
+          <c03 id="c03-1.7.6.4.27.2" score="1" C-ORDER="331">
+            <did>
+              <container type="Folder">17</container>
+              <unittitle>Food consumption</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.4.27.3" score="1" C-ORDER="332">
+            <did>
+              <container type="Folder">18</container>
+              <unittitle>Food supply</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.4.27.4" score="1" C-ORDER="333">
+            <did>
+              <container type="Folder">19</container>
+              <unittitle>Health and welfare</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.4.27.5" score="1" C-ORDER="334">
+            <did>
+              <container type="Folder">20</container>
+              <unittitle>Relief to other countries</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 id="c02-1.7.6.4.28" score="1" C-ORDER="335">
+          <did>
+            <container type="Folder">21</container>
+            <unittitle>Switzerland</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.4.29" score="1" C-ORDER="336">
+          <did>
+            <container type="Folder">22</container>
+            <unittitle>Thailand</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.4.30" score="1" C-ORDER="337">
+          <did>
+            <unittitle>Uruguay</unittitle>
+          </did>
+          <c03 id="c03-1.7.6.4.30.2" score="1" C-ORDER="338">
+            <did>
+              <container type="Folder">23</container>
+              <unittitle>Food supply</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.4.30.3" score="1" C-ORDER="339">
+            <did>
+              <container type="Folder">24</container>
+              <unittitle>Health and welfare</unittitle>
+            </did>
+          </c03>
+        </c02>
+      </c01>
+      <c01 id="c01-1.7.6.5" level="series" score="2" C-ORDER="340">
+        <did>
+          <unittitle>Card Index File, n.d.</unittitle>
+          <container>Box 29.-30.</container>
+        </did>
+        <scopecontent>
+          <p>Card index file of individual and organizational donors to the Famine Emergency
+Committee, arranged alphabetically by donor</p>
+        </scopecontent>
+        <c02 id="c02-1.7.6.5.2" score="1" C-ORDER="342">
+          <did>
+            <container type="Box">29-30.</container>
+            <unittitle>Card index file of individual and organizational donors to the Famine Emergency Committee. Arranged alphabetically by donor</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.5.3" score="1" C-ORDER="343">
+          <did>
+            <container type="Folder">25</container>
+            <unittitle>Yugoslavia</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 id="c01-1.7.6.6" level="series" score="2" C-ORDER="344">
+ <did>
+          <unittitle>Honorary Chairman's File, <unitdate calendar="gregorian" era="ce" type="inclusive">1945-1947 (Restricted Section) </unitdate></unittitle>
+          <container>Box 31.-33.</container>
+        </did>
+        <scopecontent>
+          <p>Correspondence, diaries, speeches, writings, reports, statistical data, press releases
+and statements, clippings and other material relating to Herbert Hoover's role as
+Honorary Chairman of the Famine Emergency Committee, arranged alphabetically by physical
+form</p>
+        </scopecontent>
+
+        <c02 id="c02-1.7.6.6.2" score="1" C-ORDER="346">
+          <did>
+            <unittitle>Correspondence</unittitle>
+          </did>
+          <c03 id="c03-1.7.6.6.2.2" score="1" C-ORDER="347">
+            <did>
+              <container type="Box">31.</container>
+              <container type="Folder">1</container>
+              <unittitle>Buck, Pearl</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.6.2.3" score="1" C-ORDER="348">
+            <did>
+              <container type="Folder">2</container>
+              <unittitle>La Guardia, Fiorello</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.6.2.4" score="1" C-ORDER="349">
+            <did>
+              <container type="Folder">3</container>
+              <unittitle>Mason, Frank E. Includes letters to Julius Klein</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.6.2.5" score="1" C-ORDER="350">
+            <did>
+              <container type="Folder">4</container>
+              <unittitle>Meier, Hugo. Includes Hugo Meier's diary</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.6.2.6" score="1" C-ORDER="351">
+            <did>
+              <container type="Folder">5</container>
+              <unittitle>Pate, Maurice</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.6.2.7" score="1" C-ORDER="352">
+            <did>
+              <container type="Folder">6</container>
+              <unittitle>Ready, Frank</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 id="c02-1.7.6.6.3" score="1" C-ORDER="353">
+          <did>
+            <unittitle>Diary</unittitle>
+          </did>
+          <c03 id="c03-1.7.6.6.3.2" score="1" C-ORDER="354">
+            <did>
+              <unittitle>1946</unittitle>
+            </did>
+            <c04 id="c04-1.7.6.6.3.2.2" score="1" C-ORDER="355">
+              <did>
+                <container type="Folder">7</container>
+                <unittitle>March 21-25. France</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.6.3.2.3" score="1" C-ORDER="356">
+              <did>
+                <container type="Folder">8</container>
+                <unittitle>March 22-24. Italy</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.6.3.2.4" score="1" C-ORDER="357">
+              <did>
+                <container type="Folder">9</container>
+                <unittitle>March 25. Switzerland</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.6.3.2.5" score="1" C-ORDER="358">
+              <did>
+                <container type="Folder">10</container>
+                <unittitle>March 28. Czechoslovakia</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.6.3.2.6" score="1" C-ORDER="359">
+              <did>
+                <container type="Folder">11</container>
+                <unittitle>March 28-30. Poland</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.6.3.2.7" score="1" C-ORDER="360">
+              <did>
+                <container type="Folder">12</container>
+                <unittitle>March 31 - April 1. Finland</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.6.3.2.8" score="1" C-ORDER="361">
+              <did>
+                <container type="Folder">13</container>
+                <unittitle>April 1-2. Sweden</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.6.3.2.9" score="1" C-ORDER="362">
+              <did>
+                <container type="Folder">14</container>
+                <unittitle>April 2-3. Norway</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.6.3.2.10" score="1" C-ORDER="363">
+              <did>
+                <container type="Folder">15</container>
+                <unittitle>April 4-6. Great Britain</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.6.3.2.11" score="1" C-ORDER="364">
+              <did>
+                <container type="Folder">16</container>
+                <unittitle>April 6-8. Belgium</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.6.3.2.12" score="1" C-ORDER="365">
+              <did>
+                <container type="Folder">17</container>
+                <unittitle>April 9. Netherlands</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.6.3.2.13" score="1" C-ORDER="366">
+              <did>
+                <container type="Folder">18</container>
+                <unittitle>April 10. Denmark</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.6.3.2.14" score="1" C-ORDER="367">
+              <did>
+                <container type="Folder">19</container>
+                <unittitle>April 11-13. Germany</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.6.3.2.15" score="1" C-ORDER="368">
+              <did>
+                <container type="Folder">20</container>
+                <unittitle>April 14-15. Austria</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.6.3.2.16" score="1" C-ORDER="369">
+              <did>
+                <container type="Folder">21</container>
+                <unittitle>April 16. Yugoslavia</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.6.3.2.17" score="1" C-ORDER="370">
+              <did>
+                <container type="Folder">22</container>
+                <unittitle>April 16-18. Greece</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.6.3.2.18" score="1" C-ORDER="371">
+              <did>
+                <container type="Folder">23</container>
+                <unittitle>April 18-20. Egypt</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.6.3.2.19" score="1" C-ORDER="372">
+              <did>
+                <container type="Folder">24</container>
+                <unittitle>April 21-22. Iraq</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.6.3.2.20" score="1" C-ORDER="373">
+              <did>
+                <container type="Folder">25</container>
+                <unittitle>April 22-26. India</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.6.3.2.21" score="1" C-ORDER="374">
+              <did>
+                <container type="Folder">26</container>
+                <unittitle>April 27. Thailand</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.6.3.2.22" score="1" C-ORDER="375">
+              <did>
+                <container type="Folder">27</container>
+                <unittitle>April 28-29. Philippine Islands</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.6.3.2.23" score="1" C-ORDER="376">
+              <did>
+                <container type="Folder">28</container>
+                <unittitle>April 30 - May 3. China</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.6.3.2.24" score="1" C-ORDER="377">
+              <did>
+                <container type="Folder">29</container>
+                <unittitle>May 4. Korea</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.6.3.2.25" score="1" C-ORDER="378">
+              <did>
+                <container type="Folder">30</container>
+                <unittitle>May 4-6. Japan. Includes interview with General Douglas MacArthur</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.6.3.2.26" score="1" C-ORDER="379">
+              <did>
+                <container type="Folder">31</container>
+                <unittitle>May 7-8. Hawaii</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.6.3.2.27" score="1" C-ORDER="380">
+              <did>
+                <container type="Folder">32</container>
+                <unittitle>May 25 - June 20. South America</unittitle>
+              </did>
+            </c04>
+          </c03>
+          <c03 id="c03-1.7.6.6.3.3" score="1" C-ORDER="381">
+            <did>
+              <unittitle>1947</unittitle>
+            </did>
+            <c04 id="c04-1.7.6.6.3.3.2" score="1" C-ORDER="382">
+              <did>
+                <container type="Folder">33</container>
+                <unittitle>Various dates</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.6.3.3.3" score="1" C-ORDER="383">
+              <did>
+                <container type="Folder">34</container>
+                <unittitle>February. Germany</unittitle>
+              </did>
+            </c04>
+          </c03>
+        </c02>
+        <c02 id="c02-1.7.6.6.4" score="1" C-ORDER="384">
+          <did>
+            <container type="Folder">35</container>
+            <unittitle>Founding documents</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.6.5" score="1" C-ORDER="385">
+          <did>
+            <container type="Folder">36</container>
+            <unittitle>Minutes of meetings with Harry S. Truman, Clinton Anderson, Robert Patterson and others, 1946 March 1-12</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.6.6" score="1" C-ORDER="386">
+          <did>
+            <container type="Box">32.</container>
+            <unittitle>Speeches and writings</unittitle>
+          </did>
+          <c03 id="c03-1.7.6.6.6.2" score="1" C-ORDER="387">
+            <did>
+              <unittitle>Untitled drafts and notes</unittitle>
+            </did>
+            <c04 id="c04-1.7.6.6.6.2.2" score="1" C-ORDER="388">
+              <did>
+                <container type="Folder">1</container>
+                <unittitle>Argentina</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.6.6.2.3" score="1" C-ORDER="389">
+              <did>
+                <container type="Folder">2</container>
+                <unittitle>Brazil</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.6.6.2.4" score="1" C-ORDER="390">
+              <did>
+                <container type="Folder">3</container>
+                <unittitle>Columbia</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.6.6.2.5" score="1" C-ORDER="391">
+              <did>
+                <container type="Folder">4</container>
+                <unittitle>Displaced persons</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.6.6.2.6" score="1" C-ORDER="392">
+              <did>
+                <container type="Folder">5</container>
+                <unittitle>Ecuador</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.6.6.2.7" score="1" C-ORDER="393">
+              <did>
+                <unittitle>Food</unittitle>
+              </did>
+              <c05 id="c05-1.7.6.6.6.2.7.2" score="1" C-ORDER="394">
+                <did>
+                  <container type="Folder">6</container>
+                  <unittitle>Statistics</unittitle>
+                </did>
+              </c05>
+              <c05 id="c05-1.7.6.6.6.2.7.3" score="1" C-ORDER="395">
+                <did>
+                  <container type="Folder">7</container>
+                  <unittitle>Surplus</unittitle>
+                </did>
+              </c05>
+            </c04>
+            <c04 id="c04-1.7.6.6.6.2.8" score="1" C-ORDER="396">
+              <did>
+                <container type="Folder">8</container>
+                <unittitle>Germany</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.6.6.2.9" score="1" C-ORDER="397">
+              <did>
+                <container type="Folder">9</container>
+                <unittitle>Greece</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.6.6.2.10" score="1" C-ORDER="398">
+              <did>
+                <container type="Folder">10</container>
+                <unittitle>Latin America</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.6.6.2.11" score="1" C-ORDER="399">
+              <did>
+                <container type="Folder">11</container>
+                <unittitle>Mexico</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.6.6.2.12" score="1" C-ORDER="400">
+              <did>
+                <container type="Folder">12</container>
+                <unittitle>Peru</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.6.6.2.13" score="1" C-ORDER="401">
+              <did>
+                <container type="Folder">13</container>
+                <unittitle>Poland</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.6.6.2.14" score="1" C-ORDER="402">
+              <did>
+                <container type="Folder">14</container>
+                <unittitle>Russia</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.6.6.2.15" score="1" C-ORDER="403">
+              <did>
+                <container type="Folder">15</container>
+                <unittitle>Sweden</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.6.6.2.16" score="1" C-ORDER="404">
+              <did>
+                <container type="Folder">16</container>
+                <unittitle>Thailand</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.6.6.2.17" score="1" C-ORDER="405">
+              <did>
+                <container type="Folder">17</container>
+                <unittitle>Yugoslavia</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.6.6.2.18" score="1" C-ORDER="406">
+              <did>
+                <container type="Folder">18</container>
+                <unittitle>Miscellany</unittitle>
+              </did>
+            </c04>
+          </c03>
+          <c03 id="c03-1.7.6.6.6.3" score="1" C-ORDER="407">
+            <did>
+              <container type="Folder">19</container>
+              <unittitle>"Germany - Mistakes at Potsdam," n.d. Typescript</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.6.6.4" score="1" C-ORDER="408">
+            <did>
+              <container type="Folder">20</container>
+              <unittitle>Memorandum to Chester Davis regarding the broadcasting of Herbert Hoover's final report from Canada, n.d. Holograph</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.6.6.5" score="1" C-ORDER="409">
+            <did>
+              <container type="Folder">21</container>
+              <unittitle>Press conferences and press releases, 1946 March. Drafts, notes, and typescripts</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.6.6.6" score="1" C-ORDER="410">
+            <did>
+              <container type="Folder">22</container>
+              <unittitle>"World Famine Situation," speech, Chicago, 1946 May 17. Handwritten and typewritten drafts</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.6.6.7" score="1" C-ORDER="411">
+            <did>
+              <container type="Folder">23</container>
+              <unittitle>Address in Mexico City, 1946 May 28. Holograph and typescript</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.6.6.8" score="1" C-ORDER="412">
+            <did>
+              <container type="Folder">24</container>
+              <unittitle>Report to President Truman, 1946 June 9. Handwritten and typewritten drafts</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.6.6.9" score="1" C-ORDER="413">
+            <did>
+              <container type="Folder">25</container>
+              <unittitle>Statement on the Latin American food situation, Washington, D.C., 1947 June 19. Typescript</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.6.6.10" score="1" C-ORDER="414">
+            <did>
+              <container type="Folder">26</container>
+              <unittitle>Final report broadcast from Canada, Ottawa, 1946 June 28. Typewritten and printed draft</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.6.6.11" score="1" C-ORDER="415">
+            <did>
+              <container type="Folder">27</container>
+              <unittitle>"Crimes in Food," 1946 September 13. Holograph and typescripts</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.6.6.12" score="1" C-ORDER="416">
+            <did>
+              <container type="Folder">28</container>
+              <unittitle>Economic report to the President, 1947. Handwritten and typewritten drafts</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 id="c02-1.7.6.6.7" score="1" C-ORDER="417">
+          <did>
+            <unittitle>Subject file</unittitle>
+          </did>
+          <c03 id="c03-1.7.6.6.7.2" score="1" C-ORDER="418">
+            <did>
+              <container type="Folder">29</container>
+              <unittitle>Brazil - Food statistics, 1945</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.6.7.3" score="1" C-ORDER="419">
+            <did>
+              <unittitle>Food missions</unittitle>
+            </did>
+            <c04 id="c04-1.7.6.6.7.3.2" score="1" C-ORDER="420">
+              <did>
+                <unittitle>Countries visited</unittitle>
+              </did>
+              <c05 id="c05-1.7.6.6.7.3.2.2" score="1" C-ORDER="421">
+                <did>
+                  <container type="Folder">30</container>
+                  <unittitle>Austria</unittitle>
+                </did>
+              </c05>
+              <c05 id="c05-1.7.6.6.7.3.2.3" score="1" C-ORDER="422">
+                <did>
+                  <container type="Folder">31</container>
+                  <unittitle>Brazil</unittitle>
+                </did>
+              </c05>
+            </c04>
+            <c04 id="c04-1.7.6.6.7.3.3" score="1" C-ORDER="423">
+              <did>
+                <container type="Box">33.</container>
+                <unittitle>European trip</unittitle>
+              </did>
+              <c05 id="c05-1.7.6.6.7.3.3.2" score="1" C-ORDER="424">
+                <did>
+                  <container type="Folder">1</container>
+                  <unittitle>1946 March 17 - May 12</unittitle>
+                </did>
+              </c05>
+              <c05 id="c05-1.7.6.6.7.3.3.3" score="1" C-ORDER="425">
+                <did>
+                  <container type="Folder">2</container>
+                  <unittitle>1947 February</unittitle>
+                </did>
+              </c05>
+            </c04>
+            <c04 id="c04-1.7.6.6.7.3.4" score="1" C-ORDER="426">
+              <did>
+                <container type="Folder">3</container>
+                <unittitle>Pate, Maurice, "Some Notes on the Trip with the Hoover Mission, May-June 1946"</unittitle>
+              </did>
+            </c04>
+            <c04 id="c04-1.7.6.6.7.3.5" score="1" C-ORDER="427">
+              <did>
+                <unittitle>South American trip, 1946</unittitle>
+              </did>
+              <c05 id="c05-1.7.6.6.7.3.5.2" score="1" C-ORDER="428">
+                <did>
+                  <container type="Folder">4</container>
+                  <unittitle>Account by Hugh Gibson of Herbert Hoover's trip</unittitle>
+                </did>
+              </c05>
+              <c05 id="c05-1.7.6.6.7.3.5.3" score="1" C-ORDER="429">
+                <did>
+                  <container type="Folder">5</container>
+                  <unittitle>Correspondence. Includes letters of appreciation</unittitle>
+                </did>
+              </c05>
+              <c05 id="c05-1.7.6.6.7.3.5.4" score="1" C-ORDER="430">
+                <did>
+                  <container type="Folder">6</container>
+                  <unittitle>Immunization record of Herbert Hoover</unittitle>
+                </did>
+              </c05>
+              <c05 id="c05-1.7.6.6.7.3.5.5" score="1" C-ORDER="431">
+                <did>
+                  <container type="Folder">7</container>
+                  <unittitle>Itinerary</unittitle>
+                </did>
+              </c05>
+              <c05 id="c05-1.7.6.6.7.3.5.6" score="1" C-ORDER="432">
+                <did>
+                  <container type="Folder">8</container>
+                  <unittitle>Lists of crew members and participants</unittitle>
+                </did>
+              </c05>
+              <c05 id="c05-1.7.6.6.7.3.5.7" score="1" C-ORDER="433">
+                <did>
+                  <unittitle>Telegrams</unittitle>
+                </did>
+                <c06 id="c06-1.7.6.6.7.3.5.7.2" score="1" C-ORDER="434">
+                  <did>
+                    <container type="Folder">9</container>
+                    <unittitle>General</unittitle>
+                  </did>
+                </c06>
+                <c06 id="c06-1.7.6.6.7.3.5.7.3" score="1" C-ORDER="435">
+                  <did>
+                    <container type="Folder">10</container>
+                    <unittitle>Miller, Bernice</unittitle>
+                  </did>
+                </c06>
+              </c05>
+            </c04>
+          </c03>
+          <c03 id="c03-1.7.6.6.7.4" score="1" C-ORDER="436">
+            <did>
+              <container type="Folder">11</container>
+              <unittitle>Venereal disease incidence among U.S. troops in Europe</unittitle>
+            </did>
+          </c03>
+          <c03 id="c03-1.7.6.6.7.5" score="1" C-ORDER="437">
+            <did>
+              <container type="Folder">12</container>
+              <unittitle>World food conditions</unittitle>
+            </did>
+          </c03>
+        </c02>
+      </c01>
+      <c01 id="c01-1.7.6.7" level="series" score="2" C-ORDER="438">
+ <did>
+          <unittitle>Photographs, <unitdate calendar="gregorian" era="ce" type="inclusive">1946-1947</unitdate></unittitle>
+          <container>Photo file.</container>
+        </did>
+        <scopecontent>
+          <p>137 prints depicting Herbert Hoover and and other members of the Famine Emergency
+Committee European and Asian food mission</p>
+        </scopecontent>
+
+        <c02 id="c02-1.7.6.7.2" score="1" C-ORDER="440">
+          <did>
+            <container type="Box">1.</container>
+            <unittitle>117 prints depicting Herbert Hoover and other members of the Famine Emergency Committee on the European and Asian food missions</unittitle>
+          </did>
+        </c02>
+        <c02 id="c02-1.7.6.7.3" score="1" C-ORDER="441">
+          <did>
+            <container type="Box">2.</container>
+            <unittitle>20 United Press International prints depicting officials and operations of the U.S. President's Famine Emergency Committee</unittitle>
+          </did>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

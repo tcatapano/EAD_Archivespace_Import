@@ -1,0 +1,4965 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+  <eadheader langencoding="iso639-2b" scriptencoding="iso15924" relatedencoding="dc" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" id="a0">
+    <eadid countrycode="us" encodinganalog="identifier" mainagencycode="waww" url="http://nwda.orbiscascade.org/ark:/80444/xv55181" identifier="80444/xv55181">HTM_WCMss48</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper encodinganalog="title">Guide to the William O. Douglas Collection <date encodinganalog="date" normal="1920/1980">1920-1980</date></titleproper>
+        <titleproper type="filing" altrender="nodisplay">William O. Douglas
+					Collection</titleproper>
+        <author encodinganalog="creator">Finding aid prepared by William Huntington,
+					2010</author>
+        <sponsor encodinganalog="contributor" />
+      </titlestmt>
+      <publicationstmt>
+        <publisher encodinganalog="publisher">Whitman College and Northwest
+					Archives</publisher>
+        <date encodinganalog="date" normal="2010">©2010
+					<?xm-replace_text {Year published and/or copyrighted; 
+		  also enter normalized date in NORMAL attribute; required}?></date>
+        <address>
+          <addressline>345 Boyer Avenue</addressline>
+          <addressline>Walla Walla, WA 99362</addressline>
+          <addressline>(509) 527-5922</addressline>
+          <addressline>archives@whitman.edu</addressline>
+          <addressline>http://www.whitman.edu/archives</addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>Finding aid encoded by William Huntington<?xm-replace_text {Name of EAD encoder(s)}?><date normal="2010">2010</date></creation>
+      <langusage>Finding aid written in <language langcode="eng" encodinganalog="language" scriptcode="latn">English</language>.</langusage>
+      <descrules>Finding aid based on DACS ( <title render="italic">Describing Archives: A
+					Content Standard</title>).</descrules>
+    </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>
+          <?xm-replace_text {Enter date of substantial revision of finding aid, if any}?>
+        </date>
+        <item>
+          <?xm-replace_text {Describe the revision(s)}?>
+        </item>
+      </change>
+    </revisiondesc>
+  </eadheader>
+  <archdesc level="collection" type="inventory" relatedencoding="marc21">
+    <did id="a1">
+      <repository>
+        <corpname encodinganalog="852$a">Whitman College and Northwest Archives</corpname>
+        <address>
+          <addressline>345 Boyer Avenue</addressline>
+          <addressline>Walla Walla, WA 99362</addressline>
+          <addressline>(509) 527-5922</addressline>
+          <addressline>archives@whitman.edu</addressline>
+          <addressline>http://www.whitman.edu/archives</addressline>
+        </address>
+      </repository>
+      <unitid encodinganalog="099" countrycode="us" repositorycode="waww">HTM_WCMss48<?xm-replace_text {Mss/A#}?><?xm-replace_text {Enter collection, record group, or 
+		other collection control no., eg., 1990-24.}?></unitid>
+      <origination>
+        <persname encodinganalog="100" role="creator" source="lcnaf" rules="aacr2">
+          <?xm-replace_text {Personal creator's name if appropriate, surname 
+			first; or use famname element for family 
+		  papers or corpname element for organizational records. Add/verify info in SOURCE (enter lcnaf if from authority record), RULES (enter aacr2 if formulated from scratch), and 
+		  ENCODINGANALOG (100 if person / 110 if corporation or organization) attributes}?>Douglas,
+					William O. (William Orville) 1898-1980</persname>
+      </origination>
+      <unittitle encodinganalog="245$a">
+        <?xm-replace_text {Collection title; required}?>William O. Douglas
+				Collection</unittitle>
+      <unitdate type="inclusive" encodinganalog="245$f" normal="1920/1980">
+        <?xm-replace_text {Usually inclusive dates, eg., 1944-1995. Appropriate info in TYPE
+		and NORMAL attributes is required (i.e. indicate bulk or inclusive and NORMALIZE the date). Repeat element if inclusive and bulk dates are recorded. Required}?>1920-1980
+				(bulk 1939-1975)</unitdate>
+      <physdesc>
+        <extent encodinganalog="300$a">
+          <?xm-replace_text {#}?>26 linear feet</extent>
+        <extent encodinganalog="300$a">
+          <?xm-replace_text {#}?>27 boxes, 1 oversize box, 1
+					scrapbook, 4 binders</extent>
+      </physdesc>
+      <abstract encodinganalog="5203_">
+        <?xm-replace_text {Very brief summary of collection contents 
+		and biog./historical info; required -- no period at the end of this statement}?>The
+				William O. Douglas Collection contains the former Supreme Court Justice’s research
+				materials, reports to Congress, book manuscripts, published articles, law practice
+				records, correspondence with friends and associates, and materials relating to his
+				association with Whitman College.</abstract>
+      <langmaterial>Materials are in <language encodinganalog="546" langcode="eng" scriptcode="latn"><?xm-replace_text {Language(s) of the described 
+		materials; use one langcode element for each language (default is English). <langmaterial> is required}?>English</language></langmaterial>
+    </did>
+    <!--To link to an image from the collection, use the following elements. In <daodesc>, enter caption info 
+inside <p> tags. In <daoloc>, enter full URL of the digital image file in HREF attribute;  enter MIME 
+type of digital file (eg., "image/jpeg") in ROLE attribute; enter brief description of image in TITLE attribute. 
+To link to a logo, use <extptr> or <extref> inside <publisher> in <eadheader> instead. Delete daogrp is not used.-->
+    <daogrp>
+      <daodesc>
+        <p>
+          <?xm-replace_text {Enter identifying or caption info}?>
+        </p>
+      </daodesc>
+      <resource label="start" />
+      <daoloc href="" label="image" role="image/jpeg" />
+      <arc show="embed" actuate="onload" from="start" to="image" />
+    </daogrp>
+    <originalsloc encodinganalog="535">
+      <p>
+        <?xm-replace_text {If materials described are reproductions, enter location of originals; optional}?>
+      </p>
+    </originalsloc>
+    <bioghist encodinganalog="5450" id="a2">
+      <head>Biographical
+				Note<?xm-replace_text {Enter heading for Biographical Note or Historical Note as applicable}?></head>
+      <p>Douglas was born in Maine Township, Minnesota. His family moved to California, and
+				then Cleveland, Washington. His father died in Portland, Oregon in 1904, when he was
+				only six years old. In 1916, Douglas won a scholarship to Whitman College in Walla
+				Walla, Washington. He taught at Yakima High School for two years before attending
+				Yale Law School, graduating in 1925. After practicing law and teaching at Yale, he
+				joined the U.S. Securities and Exchange Commission, becoming Chairman in 1937. He
+				finally was appointed by President Franklin D. Roosevelt to the Supreme Court in
+				1939.</p>
+      <p>During his tenure on the bench, Justice Douglas achieved a number of records and
+				distinctions. Along with the longevity record, he also established the records for
+				the most opinions written, the most dissents written, the most speeches given, and
+				the most books authored by any member of the Supreme Court. He also achieved a few
+				less savory records, such as the most wives (four), the most divorces while on the
+				bench (three), and the most attempts at impeachment (three). None of these records
+				have been surpassed.</p>
+    </bioghist>
+    <scopecontent encodinganalog="5202_" id="a3">
+      <p>
+        <?xm-replace_text {Text of the scope and content note, in paragraphs; separate each with 
+		paragraph tags; required}?>The
+				William O. Douglas Collection includes speeches, research materials, correspondence,
+				postcards, forestry management, reports to Congress, invitations, book manuscripts,
+				publications, newspaper clippings, contracts, law practice records, articles and
+				magazines about conservation, correspondence with Len Jansen, and materials
+				collected by Whitman College staff.</p>
+    </scopecontent>
+    <arrangement encodinganalog="351" id="a4">
+      <p>
+        <?xm-replace_text {Describe arrangement of materials}?>By series.</p>
+    </arrangement>
+    <!--use altformavail for specific circumstances.  See Michael to verify use-->
+    <altformavail encodinganalog="530" id="a9">
+      <p>
+        <?xm-replace_text {Describe any alternative formats such as microfilm; use daogrp to link to 
+		digital version(s)}?>
+      </p>
+    </altformavail>
+    <accessrestrict encodinganalog="506" id="a14">
+      <p>
+        <?xm-replace_text {Summary of access restrictions or lack of restrictions; required} If no restrictions: Collection is open for research.?>None.</p>
+    </accessrestrict>
+    <userestrict encodinganalog="540" id="a15">
+      <p>Researchers are responsible for using in accordance with 17 U.S.C. for copyright not
+				held by Whitman College.</p>
+    </userestrict>
+    <prefercite encodinganalog="524" id="a18">
+      <p>William O. Douglas Collection<?xm-replace_text {Title of collection}?>, Whitman
+				College and Northwest Archives.</p>
+    </prefercite>
+    <acqinfo encodinganalog="541" id="a19">
+      <p>
+        <?xm-replace_text {Acquisition details, if known}?>Donated to the Whitman College and
+				Northwest Archives by Leonard F. Jansen, 1995; additional material donated by David
+				Danelski in 1998; material collected by Whitman College.</p>
+    </acqinfo>
+    <separatedmaterial encodinganalog="5440_" id="a7">
+      <p>
+        <?xm-replace_text {Describe materials related by provenance but physically 
+		separated from the collection}?>
+      </p>
+    </separatedmaterial>
+    <relatedmaterial>
+      <p>
+        <?xm-replace_text {Describe materials that are related, but not by provenance}?>
+      </p>
+    </relatedmaterial>
+    <controlaccess id="a12">
+      <persname encodinganalog="600" role="subject" rules="aacr2" source="lcnaf">Douglas,
+				William
+				Orville<?xm-replace_text {Creator of collection, surname first ** Don't forget to enter source attribute (lcnaf) or rule attribute (aacr2) ** Also don't forget to designate role attribute.  Use creator here only if not used in origination tag.} ** Also, encoding analog should be 600 for primary creator and other subjects, 700 for additional authors / creators?>
+				-- Archives.</persname>
+    </controlaccess>
+    <controlaccess>
+      <corpname role="subject" encodinganalog="610">
+        <?xm-replace_text {Corporate body name} ** Additional persname instructions apply
+		   here as well, but encoding analogs are 610 and 710, respectively, for subject and co-creator; 611 and 711 for conference or meeting?>
+      </corpname>
+      <corpname role="subject" encodinganalog="610" rules="aacr2" source="lcnaf">
+        <?xm-replace_text {Corporate body name}?>United States Supreme Court</corpname>
+    </controlaccess>
+    <controlaccess>
+      <subject source="nwda" altrender="nodisplay" encodinganalog="690">
+        <?xm-replace_text {NWDA 
+		  browsing term; at least one is required}?>Civil
+				Procedure and Courts</subject>
+    </controlaccess>
+    <controlaccess>
+      <genreform encodinganalog="655">
+        <?xm-replace_text {Form or genre term}?>
+      </genreform>
+    </controlaccess>
+    <controlaccess>
+      <title encodinganalog="630">
+        <?xm-replace_text {Title of publication included/described in collection}?>
+      </title>
+    </controlaccess>
+    <dsc type="combined" id="a23">
+      <p>The following section contains a detailed listing of the materials in the
+				collection.</p>
+      <c01 level="series">
+        <did>
+          <unitid encodinganalog="099">
+            <?xm-replace_text {Unique identifying number or code}?>Series 1</unitid>
+          <unittitle>Papers created and collected by Douglas</unittitle>
+          <physdesc>
+            <extent encodinganalog="300$a">21 boxes</extent>
+          </physdesc>
+        </did>
+        <scopecontent encodinganalog="5202_">
+          <p>
+            <?xm-replace_text {Brief description of component being described, such as series}?>
+          </p>
+        </scopecontent>
+        <accessrestrict encodinganalog="506">
+          <p>
+            <?xm-replace_text {Summary of access restrictions, or lack of restrictions, on component material}?>
+          </p>
+        </accessrestrict>
+        <c02 level="subseries">
+          <did>
+            <unitid encodinganalog="099">
+              <?xm-replace_text {Unique identifying number or code}?>Sub-Series
+							1</unitid>
+            <unittitle encodinganalog="245$a">
+              <?xm-replace_text {Title of component}?>Credo/Future Speech
+							file</unittitle>
+            <unitdate type="inclusive" encodinganalog="245$f">1940-1972<?xm-replace_text {Date or range of dates of component material, or "undated"; repeatable}?></unitdate>
+            <physdesc>
+            </physdesc>
+          </did>
+          <scopecontent encodinganalog="5202_">
+            <p>
+              <?xm-replace_text {Brief description of component being described}?>Newspaper
+							and other published articles used by Douglas filed by subject
+							matter.</p>
+          </scopecontent>
+          <accessrestrict encodinganalog="506">
+            <p>
+              <?xm-replace_text {Summary of access restrictions, or lack of restrictions on component material}?>
+            </p>
+          </accessrestrict>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">1/1</container>
+              <unittitle>Africa: South Africa, Congo, Algeria, ect. news clippings
+							</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">1/2</container>
+              <unittitle>Africa: Congo and South West Africa news clippings
+							</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">1/3</container>
+              <unittitle>Africa: Wild life, Chad, Congo information books </unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">1/4</container>
+              <unittitle>Agriculture clippings and pamphlet </unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">1/5</container>
+              <unittitle>The Agricultual Unionist </unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">1/6</container>
+              <unittitle>American History magazines and booklets </unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">1/7</container>
+              <unittitle>Cambodia and Thailand bulletin </unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">1/8</container>
+              <unittitle>Artistic and Literary Freedom in USSR </unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">1/9</container>
+              <unittitle>Australia cardboard Ab-original poster </unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">1/10</container>
+              <unittitle>Censorship (movies in US, press Australia) </unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">1/11</container>
+              <unittitle>China: magazines on medicine, art and communism </unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">1/12</container>
+              <unittitle>Civil Rights (US) desegregation news clippings and booklet
+							</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">1/13</container>
+              <unittitle>Cold War </unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">1/14</container>
+              <unittitle>Colleges: clippings and Yale magazine </unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">1/15</container>
+              <unittitle>Commission on Judicial and Congressional Recommendations
+							</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">1/16</container>
+              <unittitle>Community Projects/ Services </unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">1/17</container>
+              <unittitle>Communism (general): magazines, clippings, booklets
+							</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">1/18</container>
+              <unittitle>Comparative history (Roman and American) </unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">1/19</container>
+              <unittitle>Conservation </unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">1/20</container>
+              <unittitle>Corporate Mergers/ Anti Trust </unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">1/20.5</container>
+              <unittitle>Courts: Warren Says Congestion in Courts Rises</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">1/21</container>
+              <unittitle>Cuba: Foreign papers and magazine articles </unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">1/22</container>
+              <unittitle> Cuba: Editorials and Commentary on Missle Crisis
+							</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">1/23</container>
+              <unittitle>Cuba, US, and USSR news clippings </unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">1/24</container>
+              <unittitle>Cuba: Weapons, bases news clippings </unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">1/25</container>
+              <unittitle> Department of Labor, State Unemployment Laws </unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">1/26</container>
+              <unittitle>Eastern Europe: Yugoslovia </unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">1/27</container>
+              <unittitle>Education </unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">1/28</container>
+              <unittitle>FDR 3rd Inaugural Address and Service </unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">1/29</container>
+              <unittitle>5th Amendment </unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">1/30</container>
+              <unittitle>Foreign Aid news clippings </unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">1/31</container>
+              <unittitle>Free Speech in Pakistan </unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">1/32</container>
+              <unittitle>Foreign Policy clippings and booklets </unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">1/33</container>
+              <unittitle>Function of the Military </unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">1/34</container>
+              <unittitle>Government and the Press </unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">1/34.5</container>
+              <unittitle>(Harvard) College Loyalty Upheld by Pusey</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">1/35</container>
+              <unittitle>Health/ WHO </unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">1/36</container>
+              <unittitle>History (US) </unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">1/36.5</container>
+              <unittitle>History of Drug Control</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">1/37</container>
+              <unittitle>India </unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">1/38</container>
+              <unittitle>India and China Conflict (1962), India and Gao, Nehru
+							</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">1/39</container>
+              <unittitle> Intolerance in America </unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">1/40</container>
+              <unittitle>Economic Problems of Free Japan </unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">1/41</container>
+              <unittitle>Full Force of Martial Law will be used: Mischieveous Misuse
+								of Questionnaire: CMLA HQ's Press Note </unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">1/42</container>
+              <unittitle>The Nation of Islam- Black Muslins </unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">1/43</container>
+              <unittitle>Reflections: The New Justice: New Yorker </unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">2/1</container>
+              <unittitle>Korea </unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">2/2</container>
+              <unittitle>Laos news clippings </unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">2/3</container>
+              <unittitle>Law Articles and Journals </unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">2/4</container>
+              <unittitle>Law Articles and Reviews (Connected with a University)
+							</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">2/5</container>
+              <unittitle>Legislative Investigations </unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">2/6</container>
+              <unittitle>Facts about Maine </unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">2/7</container>
+              <unittitle>Malaysia news clippings </unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">2/8</container>
+              <unittitle>Materials for Unwritten Book (Asia news
+								clippings)</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">2/9</container>
+              <unittitle>Memorial/ Obituary: Robert G. Lindsay</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">2/10</container>
+              <unittitle>Mexico and California: Agriculture and Workers</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">2/11</container>
+              <unittitle>Middle East: clippings and magazines</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">2/12</container>
+              <unittitle>Middle East: clippings </unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">2/13</container>
+              <unittitle>Misc. clippings</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">2/14</container>
+              <unittitle>Jean Monnet (1962 Freedom Award)</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">2/15</container>
+              <unittitle>NATO</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">2/16</container>
+              <unittitle>Nation of Islam</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">2/17</container>
+              <unittitle>1941 Unity for Defense/ Military build up </unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">2/18</container>
+              <unittitle>Non Mainstream Political Groups </unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">2/19</container>
+              <unittitle>Non Violence</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">2/20</container>
+              <unittitle>Nuclear Arms Race/ Nuclear Testing </unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">2/21</container>
+              <unittitle>Nuclear Issues: General, Health Hazards, Other Dangers
+							</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">2/22</container>
+              <unittitle>Observer: The Alameda County Weekly</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">2/23</container>
+              <unittitle>Pakistan news clippings</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">2/24</container>
+              <unittitle>The Palestine Refugee Problem</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">2/25</container>
+              <unittitle>Phillippines magazines </unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">2/26</container>
+              <unittitle>Philosophy/ History/ Technology</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">2/27</container>
+              <unittitle>Political Cartoons </unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">3/1</container>
+              <unittitle>Political Commentary clippings and World Liberation
+								publication</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">3/2</container>
+              <unittitle>Political Speeches: Dewey's annual message to legislature,
+								Eisenhower's press conference</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">3/2.5</container>
+              <unittitle>Politics: -- Lemmings</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">3/3</container>
+              <unittitle>Population and Overpopulation publication and census
+								report</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">3/4</container>
+              <unittitle>Poverty and Hunger clippings and feature stories</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">3/5</container>
+              <unittitle>US Red Scare, McCarthyism and foreign service clippings
+							</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">3/6</container>
+              <unittitle>Religion: The Pope Speaks and other publications</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">3/7</container>
+              <unittitle>Religion: clippings from the Christian Science Monitor and
+								other publications </unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">3/7.5</container>
+              <unittitle>Religious Issue: Pressures on Catholic President
+								(JFK)</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">3/8</container>
+              <unittitle> Russia clippings</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">3/9</container>
+              <unittitle>Scientific Exploration/ Need for new Knowledge</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">3/10</container>
+              <unittitle>Security and Secrecy in Science, Oppenheimer Case</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">3/11</container>
+              <unittitle>Socialism, Fortune:Churchill piece</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">3/12</container>
+              <unittitle>Southeast Asia</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">3/13</container>
+              <unittitle>Vital Speeches (publication) and speech
+								announcement</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">3/14</container>
+              <unittitle>Struggles between branches of US government</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">3/15</container>
+              <unittitle>Supreme Court</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">3/16</container>
+              <unittitle>Trade, Common Market, GATT, French-German Treaty</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">3/17</container>
+              <unittitle>Turkey: The Institute of Public Affairs</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">3/18</container>
+              <unittitle>United Nations clippings and magazines</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">3/19</container>
+              <unittitle>US Economy: clippings, brochures, magazines</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">3/20</container>
+              <unittitle>US Defense: Christian Science Monitor article</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">3/21</container>
+              <unittitle>US Politics: War, elections, House information</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">3/22</container>
+              <unittitle>US Propoganda: Overseas information programs
+								documents</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">3/23</container>
+              <unittitle>US, USSR re. Space</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">3/24</container>
+              <unittitle>Court clippings</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">3/25</container>
+              <unittitle>Vietnam clippings</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">3/26</container>
+              <unittitle>Welfare, Federal Housing, Child Labor</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">3/27</container>
+              <unittitle>Western Europe: Switzerland, France documents</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">3/27.5</container>
+              <unittitle>Work on Self-Expression</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">3/28</container>
+              <unittitle>World Economy, Common Markets, Resources</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">3/29</container>
+              <unittitle>World Peace, Turning Point Toward Peace (publication),
+								brochure</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unitid>Sub-Series 2</unitid>
+            <unittitle>Almanac of Liberty</unittitle>
+          </did>
+          <scopecontent>
+            <p>A commentary on human rights that Douglas compiled based on key events in
+							history.</p>
+          </scopecontent>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">5/1</container>
+              <unittitle>Almanac of Liberty: Galley Proofs</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">5/2</container>
+              <unittitle>Almanac of Liberty: Introduction</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">5/3</container>
+              <unittitle>Almanac of Liberty: Interview at Studio One Television
+								Program, New York</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">5/4</container>
+              <unittitle>Almanac of Liberty: Honesty and Morals in America</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">5/5</container>
+              <unittitle>Almanac of Liberty: Confidentiality Rights of Journalists
+								"Right of Silence"</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">5/6</container>
+              <unittitle>Almanac of Liberty: Segregation/Civil Rights</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">5/7</container>
+              <unittitle>Almanac of Liberty: Civil Liberties (including wire tapping)
+								File #1</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">5/8</container>
+              <unittitle>Almanac of Liberty: Civil Liberties (including wire tapping)
+								File #2</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">5/9</container>
+              <unittitle>Almanac of Liberty: Fairness of the Press</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">5/10</container>
+              <unittitle>Almanac of Liberty: Monroe Doctrine</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">5/11</container>
+              <unittitle>Almanac of Liberty: General Politics</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">5/12</container>
+              <unittitle>Almanac of Liberty: Reviews</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">5/13</container>
+              <unittitle>Almanac of Liberty: McCarthyism, Communism and Subversion
+								File #1</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">5/14</container>
+              <unittitle>Almanac of Liberty: McCarthyism, Communism and Subversion
+								File #2</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">5/15</container>
+              <unittitle>Almanac of Liberty: McCarthyism, Communism and Subversion
+								File #3</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">5/16</container>
+              <unittitle>Almanac of Liberty: History, Monarchs, US, Supreme Court
+								Justices etc.</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">5/17</container>
+              <unittitle>Almanac of Liberty: Slavery; Slavery in the Middle East, UN
+								conference on abolition of slavery</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">5/18</container>
+              <unittitle>Almanac of Liberty: Atomic Energy and Bombs</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">5/19</container>
+              <unittitle>Almanac of Liberty: FCC</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">5/20</container>
+              <unittitle>Almanac of Liberty: Censorship, Book Burning and
+								McCarthy</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">5/21</container>
+              <unittitle>Almanac of Liberty: Forward</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">5/22</container>
+              <unittitle>Almanac of Liberty: Misc. articles</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">5/23</container>
+              <unittitle>Postcards Concerning Rosenberg stay (copies)</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">5/24</container>
+              <unittitle>Rosenberg Telegrams (copies) Against Stay of
+								Execution</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">5/25</container>
+              <unittitle>Rosenberg Telegrams (copies) For Stay of
+								Execution</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">5/26</container>
+              <unittitle>Rosenberg Telegrams (copies) For Stay of
+								Execution</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unitid>Sub-Series 3</unitid>
+            <unittitle>Special Correspondence and Invitations</unittitle>
+            <unitdate normal="1937/1979">1937-1979</unitdate>
+          </did>
+          <scopecontent>
+            <p />
+          </scopecontent>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">14/1</container>
+              <unittitle>Securities and Exchange Commission</unittitle>
+              <unitdate>December 1937-July 1938</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">14/2</container>
+              <unittitle>Securities and Exchange Commission Telegrams</unittitle>
+              <unitdate>April 28, 1938-June 16, 1938</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">14/3</container>
+              <unittitle>Special Correspondence: US Supreme Court</unittitle>
+              <unitdate>Undated</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">15</container>
+              <unittitle>Special Correspondence: Invitations to W.O.D.</unittitle>
+              <unitdate>1939-1955</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">14/4</container>
+              <unittitle>Family Correspondence</unittitle>
+              <unitdate>1939-1975</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">14/5-13</container>
+              <unittitle>Special Correspondence: Horse Accident</unittitle>
+              <unitdate>1949</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">14/20-23</container>
+              <unittitle>Request for Autograph</unittitle>
+              <unitdate>1957-1971</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">19</container>
+              <unittitle>Invitations to W.O.D.</unittitle>
+              <unitdate>1957-1979</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">14/14-19</container>
+              <unittitle>Special Correspondence: Hospitalization</unittitle>
+              <unitdate>1968</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">14/24-27</container>
+              <unittitle>Special Correspondence: Fan Mail</unittitle>
+              <unitdate>1974</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">12</container>
+              <unittitle>14 Folders of Get Well Letters, Cards, Newspaper Articles Re:
+								Stroke and Resignation Notice A-G</unittitle>
+              <unitdate>1975</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box">13</container>
+              <unittitle>19 Folders of Get Well Letters, Cards, Newspaper Articles Re:
+								Stroke and Resignation Notice H-Z</unittitle>
+              <unitdate>1975</unitdate>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unitid>Sub-Series 4</unitid>
+            <unittitle>Douglas Subject Files</unittitle>
+          </did>
+          <scopecontent>
+            <p>Part 1: Adventuring-Conservation; Part 2: Misc. Materials on Conservation
+							- Fishing; Part 3: Forestry Management, Reports to Congress; Part 4:
+							Rivers - Yellowstone</p>
+          </scopecontent>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">6/1</container>
+              <unittitle>Adventuring (Camping, Mountaineering, etc.) Explorer's
+								Journals, Outdoor Club Pamphlets</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">6/2</container>
+              <unittitle>Africa: Wildlife Magazine vol.2 no.3</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">6/3</container>
+              <unittitle>Alaska: (Conservation, Camping etc.) Pamphlets, Materials on
+								Conserving Alaska</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">6/4</container>
+              <unittitle>Alaska Conservation Society News Bulletins</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">6/5</container>
+              <unittitle>Antarctic: Geographic Journal vol. 129 part I</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">6/6</container>
+              <unittitle>Appalachia Journals vol.26 no. 3; vol.27, no.3</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">6/7</container>
+              <unittitle>Appalachian Mountain Club Materials</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">6/8</container>
+              <unittitle>Appalachia Journal, vol.26, no.1</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">6/9</container>
+              <unittitle>Appalachia: Report by the President's Appalachian Regional
+								Commission</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">6/10</container>
+              <unittitle>Pamphlets on Bills and Acts: Clean Air, est. Husdon Highlands
+								National Scenic Riverway</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">6/11</container>
+              <unittitle>Buffalo National River: Field Investigation
+								Report</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">6/12</container>
+              <unittitle>Guides, Journals and Pamphlets re: CO Canal</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">6/13</container>
+              <unittitle>California Sierras and Highway Plan and Parks
+								Material</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">6/14</container>
+              <unittitle>Canada: Quetico Newsletters and Foundation</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">6/15</container>
+              <unittitle>Canada: Voyageur Magazine, Canoe Routes of the
+								Voyageurs</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">6/16</container>
+              <unittitle>Material re: Washington Cascades</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">6/17</container>
+              <unittitle>US News and World Report: Why Cattle Prices are
+								Low</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">6/18</container>
+              <unittitle>Congressional Records: Pesticide Hearings</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">6/19</container>
+              <unittitle>Conservation: Allegash (Proposed National Park)</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">6/20</container>
+              <unittitle>Conservation: Bodega Head</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">6/21</container>
+              <unittitle>Conservation: Cape Cod</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">6/22</container>
+              <unittitle>Conservation: Capitol Reef</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">6/23</container>
+              <unittitle>Misc. Conservation Club Newsletters</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">6/24</container>
+              <unittitle>Conservation: Cougar Lakes, WA. Pacific Northwest</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">6/25</container>
+              <unittitle>Conservation: Florida: Cross-State Barge Canal</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">6/26</container>
+              <unittitle>General Conservation Papers</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">7/1</container>
+              <unittitle>Conservation: Indiana Dunes</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">7/2</container>
+              <unittitle>Conservation: International</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">7/3</container>
+              <unittitle>Lake Tahoe</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">7/4</container>
+              <unittitle>Conservation: Minum Valley</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">7/5</container>
+              <unittitle>Counservation: Mount Vernon</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">7/6</container>
+              <unittitle>Conservation: National Parks and Forests</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">7/7</container>
+              <unittitle>Conservation: New York and New Jersey</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">7/8</container>
+              <unittitle>Conservation: Rainbow Bridge</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">7/9</container>
+              <unittitle>Conservation: San Gorgonio Wild Area</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">7/10</container>
+              <unittitle>Newspaper Articles on Various Dams</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">7/11</container>
+              <unittitle>Department of the Interior re: Wildlife</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">7/12</container>
+              <unittitle>Articles on Desalinization</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">7/13</container>
+              <unittitle>Misc. Guide Books, Articles on East Coast Wilderness
+								#1</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">7/14</container>
+              <unittitle>Misc. Guide Books, Articles on East Coast Wilderness
+								#2</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">7/15</container>
+              <unittitle>Economics of Retaining Open Spaces</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">7/16</container>
+              <unittitle>Pamphlet on Green Oaks, Knox College "Education"</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">7/17</container>
+              <unittitle>Newspaper Articles on Energy Sources</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">7/18</container>
+              <unittitle>Pamphlets on Virginian Farms</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">7/19</container>
+              <unittitle>Articles on Farming: "Green Revolution"</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">7/20</container>
+              <unittitle>Atlantic Naturalist Journal, 5 volumes, Misc. Naturalist
+								Journals and Newsletters</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">7/21</container>
+              <unittitle>Fauna Magazine Articles</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">7/22</container>
+              <unittitle>Fauna: Misc.</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">7/23</container>
+              <unittitle>Fauna: Newspaper Clippings</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">7/24</container>
+              <unittitle>Various Publications and Journals re: Fauna</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">7/25</container>
+              <unittitle>Wildlife Review Journal, 4 volumes, 1 copy; Victoria,
+								B.C.</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">7/26</container>
+              <unittitle>World Wildlife Fund Materials</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">7/27</container>
+              <unittitle>Articles and Journals on Fishing</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">8/1</container>
+              <unittitle>Materials on Forest Land Use and "Multiple Use
+								Concept"</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">8/2</container>
+              <unittitle>Bureaucracy and the Forests, Public and Nation's Forests,
+								A.W. Lafferty "Pours on the Coal"</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">8/3</container>
+              <unittitle>Misc. Newspaper Articles on Forest Multiple Use, Land
+								Management Documents</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">8/4</container>
+              <unittitle>Material on the Great Smokies, Wildflower Guide, "Smokies
+								Guide," Newspaper Article on New Highway</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">8/5</container>
+              <unittitle>Richard D. McCarthy Articles, Documents on
+								Herbicides</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">8/6</container>
+              <unittitle>House of Representatives: Acts, Bills and Joint Resolutions
+								re: Wilderness Management</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">8/7</container>
+              <unittitle>House of Representatives: Reports, Copies of Congressional
+								record, US Court of Appeals re: Environment</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">8/8</container>
+              <unittitle>Oregon State Game Commission, Misc. Newspaper Articles re:
+								Hunting</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">8/9</container>
+              <unittitle>Misc. Articles re: Lakes, Marshes, Swamps, Waterways. US
+								Canoes Assoc. Newsletter vol. 2, no.3</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">8/10</container>
+              <unittitle>Living Wilderness Journal: nos. 58, 78 (2 copies, 1 excerpt),
+								80,82,84</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">8/11</container>
+              <unittitle>Articles on Vehicle Use in Trail Country</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">8/12</container>
+              <unittitle>Articles on Man's Connection to Nature</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">8/13</container>
+              <unittitle>Science Articles: DNA Heredity, Peant Mold,
+								Antibiotics</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">8/14</container>
+              <unittitle>Materials on the Mid-West and Cleaning</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">8/15</container>
+              <unittitle>National Parks Magazine: August 1961, December 1962, January
+								1963, February 1964, March 1964, April 1966</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">8/16</container>
+              <unittitle>National Grasslands Story. US Dept. of
+								Agriculture</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">8/17</container>
+              <unittitle>National Parks Service Materials</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">8/18</container>
+              <unittitle>Newspaper Articles Regarding Native Americans: Iroquois,
+								Virgin Islanders, Seminoles, Chinooks</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">8/19</container>
+              <unittitle>Nevada Proposed National Park: 2 maps, Great Basin
+								Range</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">8/20</container>
+              <unittitle>Material on North Cascades Conservation Council:
+								Newsletters</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">8/21</container>
+              <unittitle>North Cascades Conservation Council re: North Cascades
+								National Park</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">8/22</container>
+              <unittitle>North Cascades Conservation Council: Photos of Proposed North
+								Cascades National Park </unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">8/23</container>
+              <unittitle>Articles on Nuclear Radiation, Nuclear Information Vol.III
+								Nos. 4-7, I.F. Stone's Weekly Vols. 810 </unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">8/24</container>
+              <unittitle>
+                <emph render="italic">"The Olympic Seashore,"</emph> Ruth
+								Kirk, Western Outdoor Quarterly Vol. 26 No. 2 </unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">8/25</container>
+              <unittitle>Materials on Pacific NW: Elgin, OR., Minam Lodge, LaPush
+								Shipwreck Memorial Ruth Kirk, </unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">8/26</container>
+              <unittitle>Newspaper Articles/ Editorials on the Use of Pesticides/ The
+								Backlog Vol. 37 No. 2 </unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">8/27</container>
+              <unittitle>Materials on Pesticides (DDT, Agent Orange) and Their Effects
+								on Humans/ Organic Gardening  Farming </unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">8/28</container>
+              <unittitle>Misc. Materials on Pesticides and Their Effects on the
+								Natural World </unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">8/29</container>
+              <unittitle>Misc. Plant Guides; Articles on Plant Life, Logging; Forest
+								Service Handbook on Plant Collections </unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">8/30</container>
+              <unittitle>Misc. Articles on Pollution </unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">8/31</container>
+              <unittitle>Potomic Heritage Trail: A Proposed Trunk in a Nationwide
+								System of Trails (2 Copies) </unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">8/32</container>
+              <unittitle>Proposed Prairie Nat'l Park/ Proposed Allagash Nat'l
+								Recreation Area </unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">8/33</container>
+              <unittitle>Public Land Statistics 1963: US Dept. of the Interior
+							</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">8/34</container>
+              <unittitle>Materials on Reservoirs: "Reservoirs: A Prospectus for Sport
+								Fishery Research"/ Misc. Aricles </unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">8/35</container>
+              <unittitle>Reports to Congress Regarding Pesticides, by the President's
+								Science Advisory Committee </unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">9/1</container>
+              <unittitle>Senate Reports, Acts, Hearings re: Environmental
+								Laws/Concerns. Review of Taylor Grazing Act</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">9/2</container>
+              <unittitle>Senate Hearings RE. Insecticides and Land Preservation/
+								Congressional Record RE. Rivers System </unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">9/3</container>
+              <unittitle>Articles, Journals, Reports RE. Potomac River et. al.
+							</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">9/4</container>
+              <unittitle>Shoreline Management Act of 1971; WA State: The Lakes, Final
+								Proposed Guidelines </unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">9/5</container>
+              <unittitle>Sierra Club Bulletin: 5 Vols. The Argonaut; Sierra Club.
+							</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">9/6</container>
+              <unittitle>Sierra Club Bulletin: 1937; 1957; In One Book: '66, '67, '68
+							</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">9/7</container>
+              <unittitle>Sierra Club Bulletin: November 1958, December 1956
+							</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">9/8</container>
+              <unittitle>Three Newspaper Articles on Smog: Nevada State Journal,
+								Washington Post, NY Times Magazine </unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">9/9</container>
+              <unittitle>Materials on Soil Conservation/ Erosion </unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">9/10</container>
+              <unittitle>Amazon Journal (Belem): Regarding South American Wildlife/
+								Letter # 5 </unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">9/11</container>
+              <unittitle>Materials on Coal Strip Mining in US: Articles, Reports,
+								Journals </unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">9/12</container>
+              <unittitle>Nature's Constant Gift,' Report and Article on the Tennessee
+								Valley </unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">9/13</container>
+              <unittitle>Misc. Materials on the Timber Industry/ Private Forestry
+							</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">9/14</container>
+              <unittitle>Misc. Tourism Pamphlets/ Articles </unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">9/15</container>
+              <unittitle>U.S. Forest Service (Regulations, Reports, Articles on)
+							</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">9/16</container>
+              <unittitle>Materials on Virginia State Parks, White Water Rafting and
+								'Environment News' Vol. 3 No. 9-10 </unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">9/17</container>
+              <unittitle>The Governor's Report on Outdoor Recreation in Washington
+							</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">9/18</container>
+              <unittitle>Misc. Articles, Pamphlets on Water Conservation </unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">9/19</container>
+              <unittitle>Misc. Articles, Materials on Water Pollution/ Ground Water
+								Contamination </unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">9/20</container>
+              <unittitle>Wyoming Federation of Sportsmen's Clubs/ Wyoming Conservation
+								Assoc. Newsletters </unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">9/21</container>
+              <unittitle>Articles Re. Powerboating on Yellowstone Lake </unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">20/1</container>
+              <unittitle>Inventories: Libraries, Homes, Soundtracks, Reels </unittitle>
+              <unitdate>Undated</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">20/2</container>
+              <unittitle>Law: ABA, Record of Law Clerks, </unittitle>
+              <unitdate>1957</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">20/3</container>
+              <unittitle>Memo: On the Ghashghai Problem </unittitle>
+              <unitdate>1956</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">20/4</container>
+              <unittitle>Writings: Travels (Political Situation in Far East, Iran,
+								Himalayas, etc) </unittitle>
+              <unitdate>1952</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">20/5</container>
+              <unittitle>Latin America: Necessity for Economic and Social Change in
+								Latin America </unittitle>
+              <unitdate>Undated</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">20/6</container>
+              <unittitle>Writings: Politics </unittitle>
+              <unitdate>1931-1956</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">20/7</container>
+              <unittitle>Press Conferences </unittitle>
+              <unitdate>3/25/1975</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">20/8</container>
+              <unittitle>News Paper Clippings: "Interfaith Group Elects Protestant
+								Co-Chairman", "Douglas Spurs Lawyers" </unittitle>
+              <unitdate>Undated</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">20/9</container>
+              <unittitle>Itineraries </unittitle>
+              <unitdate>Undated</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">20/10</container>
+              <unittitle>Misc.</unittitle>
+              <unitdate>Undated</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">20/11</container>
+              <unittitle>Conservation </unittitle>
+              <unitdate>Undated</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">20/12</container>
+              <unittitle>Foundations: Roads-to-Peace Committee </unittitle>
+              <unitdate>1957</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">20/13</container>
+              <unittitle>Biographical Sketches </unittitle>
+              <unitdate>Undated</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">20/14</container>
+              <unittitle>Address Lists</unittitle>
+              <unitdate>Undated</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">20/15</container>
+              <unittitle>Colleges</unittitle>
+              <unitdate>Undated</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">20/16</container>
+              <unittitle>Albert Parvin Foundation </unittitle>
+              <unitdate>Undated</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">20/17</container>
+              <unittitle>Publishing (Book) Contracts </unittitle>
+              <unitdate>Undated</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">20/18</container>
+              <unittitle>Instruments of Gift, Agreement, of Deposits to Library of
+								Congress </unittitle>
+              <unitdate>Undated</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">20/19</container>
+              <unittitle>Supreme Court Cases and Decisions </unittitle>
+              <unitdate>Undated</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">20/20</container>
+              <unittitle>Yale</unittitle>
+              <unitdate>1930</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">20/21</container>
+              <unittitle>Columbia Law School Final Exam </unittitle>
+              <unitdate>1927</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">20/22</container>
+              <unittitle>W.O.D. Law Practice </unittitle>
+              <unitdate>1926</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">20/23</container>
+              <unittitle>Supreme Court Misc.</unittitle>
+              <unitdate>Undated</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">20/24</container>
+              <unittitle>W.O.D. Misc.</unittitle>
+              <unitdate>Undated</unitdate>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unitid>Sub-Series 5</unitid>
+            <unittitle>General Correspondence</unittitle>
+            <unitdate>1922-1977</unitdate>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">10/1</container>
+              <unittitle>Christmas Card From Emily; From O.W. Holmes, To Richard K.
+								Stevens, Esq.(2 Copies) </unittitle>
+              <unitdate>1922-1926</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">10/2</container>
+              <unittitle>Photocopy of 5 Articles Regarding Yale Law School's Clinic on
+								Bankruptcy </unittitle>
+              <unitdate>11-Nov-29 </unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">10/3</container>
+              <unittitle>Letter From W.O.D. to The Banking Commissioner of the
+								Commonwealth of Kentucky </unittitle>
+              <unitdate>21-Nov-31 </unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">10/4</container>
+              <unittitle>Memorandum for Dean Clark: Legal Bibliography 
+								Professional Practices (3 Copies)/ Devlp't of Business Units </unittitle>
+              <unitdate>1930-32 </unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">10/5</container>
+              <unittitle>From C.E.C. To Committee on the Curriculum/ From E.M.B. to
+								the Dean (2 Copies) </unittitle>
+              <unitdate>1933</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">10/6</container>
+              <unittitle>"The Plot Against Wallace", I. F. Stone: Article </unittitle>
+              <unitdate>6-Jun-34 </unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">10/7</container>
+              <unittitle>"Legal Accountaing  Business Management  the Law"/
+								Memorandum To": W. W. Werntz, Wm. O. Douglas </unittitle>
+              <unitdate>Undated</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">10/8</container>
+              <unittitle>From Edith Waters, Secretary to Mr. Douglas, To Kristian
+								Falkenberg. Two Letters </unittitle>
+              <unitdate>Undated</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">10/9</container>
+              <unittitle>Misc. correspondence / Report Card Term/ "Integration Of
+								Public Utility Systems"/Photocopy of Knights of the Road/ Hoboes of
+								America Membership Material </unittitle>
+              <unitdate>1939</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">10/10</container>
+              <unittitle>Misc. correspondence : Personal and Business/ Library of
+								Congress Book Return Letter </unittitle>
+              <unitdate>1940</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">10/11</container>
+              <unittitle>Misc. correspondence /Lib. Of Congress Book
+								Return/Bookbinding Order Form </unittitle>
+              <unitdate>1941</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">10/12</container>
+              <unittitle>Misc. correspondence / War Production Board Preference Rating
+								Certificate </unittitle>
+              <unitdate>1942</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">10/13</container>
+              <unittitle>Misc. correspondence</unittitle>
+              <unitdate>January-April 1943</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">10/14</container>
+              <unittitle>Misc. correspondence / Net Cash Sheet </unittitle>
+              <unitdate>May-December 1943</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">10/15</container>
+              <unittitle>Misc. correspondence / Valentine from 'Bumble'/ Letter From
+								R. Forman Captain </unittitle>
+              <unitdate>1944</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">10/16</container>
+              <unittitle>Misc. correspondence / NY Visit Itinerary/US Senate Copy of
+								Senator Maloney Letter/ Bookbinder Invoice/ Letter From Soldier/
+								Letter From Chicago Cardinals Football From 'Jim' </unittitle>
+              <unitdate>January-June 1945</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">10/17</container>
+              <unittitle>Misc. correspondence / Copies of Misc. correspondence </unittitle>
+              <unitdate>July-December 1945</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">10/18</container>
+              <unittitle>General correspondence / From Winslow Anderson to Overseers
+								of WC </unittitle>
+              <unitdate>January-June 1946</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">10/19</container>
+              <unittitle>General correspondence</unittitle>
+              <unitdate>July-December 1946</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">10/20</container>
+              <unittitle>General correspondence</unittitle>
+              <unitdate>January-June 1947</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">10/21</container>
+              <unittitle>General correspondence / From Winslow Anderson WC </unittitle>
+              <unitdate>July-December 1947</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">10/22</container>
+              <unittitle>General correspondence / Constitution WA State and Alaska
+								Society of the Dist. Of Columbia </unittitle>
+              <unitdate>January-July 1948</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">10/23</container>
+              <unittitle> Letters RE. Run For Presidencey/ Yale Law Journal Banquet
+								Speech/'The Great Rehearsal' Van Dorsen </unittitle>
+              <unitdate>1948</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">10/24</container>
+              <unittitle>General correspondence </unittitle>
+              <unitdate>September-December 1948</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">10/25</container>
+              <unittitle>Misc. correspondence / Ninth Circuit Judges, District Judges
+								List </unittitle>
+              <unitdate>January-May 1949</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">10/26</container>
+              <unittitle>Misc. correspondence / 'Plants Collected by W.O.D. In Lebanon
+								in 1949'/ Photocopy of Letter </unittitle>
+              <unitdate>June-December 1949</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">10/27</container>
+              <unittitle>Misc. correspondence </unittitle>
+              <unitdate>January-May 1950</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">10/28</container>
+              <unittitle>Misc. correspondence / 'List of Himalayan Wild Flower Seeds
+								Collected for W.O.D.' (2 Copies) </unittitle>
+              <unitdate>June-December 1950</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">10/29</container>
+              <unittitle>Misc. correspondence / Letter From Joint Commission on Rural
+								Reconstruction </unittitle>
+              <unitdate>January-March 1951</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">10/30</container>
+              <unittitle>Misc. correspondence / Letters Re. W.O.D. Article in Look
+								Magazine </unittitle>
+              <unitdate>April 1951</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">10/31</container>
+              <unittitle>Misc. correspondence </unittitle>
+              <unitdate>May-July 1951</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">10/32</container>
+              <unittitle>Misc. correspondence / Pamphlet on James Forrestal Research
+								Center </unittitle>
+              <unitdate>August-October 1951</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">10/33</container>
+              <unittitle>General correspondence </unittitle>
+              <unitdate>November-December 1951</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">10/34</container>
+              <unittitle>General correspondence</unittitle>
+              <unitdate>January-February 1952</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">10/35</container>
+              <unittitle>General correspondence Re. Presidencial Candidacy </unittitle>
+              <unitdate>March 1952</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">10/36</container>
+              <unittitle>General correspondence / Testimony of Robert M. Hutchins </unittitle>
+              <unitdate>April-May 1952</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">10/37</container>
+              <unittitle>General correspondence/ Books Returned to the Library by EA </unittitle>
+              <unitdate>June-August 1952</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">10/38</container>
+              <unittitle>General correspondence </unittitle>
+              <unitdate>September-October 1952</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">10/39</container>
+              <unittitle>General correspondence</unittitle>
+              <unitdate>November-December 1952</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">11/1</container>
+              <unittitle>General correspondence/ Adlai Stevenson
+								Recommendation/Telegram Copies/ Lunch Invite </unittitle>
+              <unitdate>January-March 1953</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">11/2</container>
+              <unittitle>General correspondence </unittitle>
+              <unitdate>April-October 1953</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">11/3</container>
+              <unittitle>General correspondence / "Mexican Contract Naturals" Chart/
+								Judicial Robe Order Form </unittitle>
+              <unitdate>November-December 1953</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">11/4</container>
+              <unittitle>Misc. correspondence / "America's Bookless Santa Claus: An
+								Editorial", by Stanley Young </unittitle>
+              <unitdate>January-April 1954</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">11/5</container>
+              <unittitle>General correspondence </unittitle>
+              <unitdate>May-September 1954</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">11/6</container>
+              <unittitle>Misc. correspondence / Look Magazine--Russian Trip Expenses
+								(2 Copies)/ Memoir? </unittitle>
+              <unitdate>October-December 1954</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">11/7</container>
+              <unittitle>Misc. correspondence / "Schedule for Visit to Boston" </unittitle>
+              <unitdate>January-April 1955</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">11/8</container>
+              <unittitle>General correspondence </unittitle>
+              <unitdate>May-September 1955</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">11/9</container>
+              <unittitle>General Correspondence</unittitle>
+              <unitdate>October-December 1955</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">11/10</container>
+              <unittitle>General Correspondence 1956 Jan-March </unittitle>
+              <unitdate>January-March 1956</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">11/11</container>
+              <unittitle>Misc. Correspondence / "Acceptances for Dinner for Chief"/ "A
+								Christmas Rarebit" </unittitle>
+              <unitdate>April-July 1956</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">11/12</container>
+              <unittitle>Misc. Correspondence </unittitle>
+              <unitdate>September-December 1956</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">11/13</container>
+              <unittitle>Misc. Correspondence / "Memorandum of Agreement" between
+								W.O.D. and Publisher </unittitle>
+              <unitdate>January-March 1957</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">11/14</container>
+              <unittitle>Misc. Correspondence </unittitle>
+              <unitdate>April-July 1957</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">11/15</container>
+              <unittitle>Misc. Correspondence / "Remarks of W.O.D. on the Presentation
+								of His Collection Of Himalayan Wildflowers to the National Herbarium
+								(3 Copies) </unittitle>
+              <unitdate>August-December 1957</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">11/16</container>
+              <unittitle>Misc. Correspondence / "Multi National Trade Union
+								Specialists: </unittitle>
+              <unitdate>1958</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">11/17</container>
+              <unittitle>Correspondence / Article on Tibet by W.O.D./ Report of
+								Advisory Board of Advanced Religious Studies To Board of Directors
+								of Union Theological Seminary/Report of Ninth Circuit Judicial
+								Conference Bankruptcy Committee/ "Our Historic Freedoms: Where Do
+								They Stand Today?" by Walter L. Pope </unittitle>
+              <unitdate>1959</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">11/18</container>
+              <unittitle>Correspondence / Mining Accident Note/ "Report of the Board
+								of Advisors to the Board of Directors of Union Theological Seminary/
+								"By-Laws of The Albert Parvin Foundation"/ "Articles of
+								Incorporation of The Albert Parvin Foundation" </unittitle>
+              <unitdate>1960</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">11/19</container>
+              <unittitle>Misc. Correspondence / "Law Libraries- Underdeveloped
+								Nations" Book List/ "Reorganization of the Department of State" (3
+								Copies) </unittitle>
+              <unitdate>1961</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">11/20</container>
+              <unittitle>Correspondence / Overseas Education Fund of the League of
+								Women Voters/ Special Events Division Seattle World's Fair- India
+								Week/ "University of the Americas" John Wiley/ Woodrow Wilson School
+								of Public and International Affairs Biographical Data/ Requests for
+								Parvin Lecturers/ Conservation Projects for the Ford Foundation/
+								Memorandum to the Ford Foundation </unittitle>
+              <unitdate>1962</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">11/21</container>
+              <unittitle>Correspondence Jan.-Oct./ NYC Itinerary/ Memorandum to the
+								Board of Directors The Parvin Foundation </unittitle>
+              <unitdate>1963</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">11/22</container>
+              <unittitle>Misc. Correspondence / Misc. Itineraries/ Misc. Receipts/
+								Memorandum Re. Wilderness Movies </unittitle>
+              <unitdate>1964</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">11/23</container>
+              <unittitle>Correspondence / Drawing of W.O.D./Center of the Study of
+								Democratic Institutions Memorandum/Meeting of The Albert Parvin
+								Foundation Minutes/ Excerpt from Letter from Geneva </unittitle>
+              <unitdate>1965</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">11/24</container>
+              <unittitle>General Correspondence / Letter RE. William O. Douglas Award </unittitle>
+              <unitdate>1966</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">11/25</container>
+              <unittitle>Misc. Correspondence / International Banquet in Honor of
+								Ernest Gruening/ Center for the Study of Democratic
+								Institutions:Pacem In Terris II, Geneva Switzerland; Speakers and
+								Panelists (2 Copies)/ Ibid; Participants (2 Copies) / Ibid;
+								Acceptances Panel </unittitle>
+              <unitdate>1967</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">11/26</container>
+              <unittitle>General Correspondence / Assessor's Notices, Yakima County/
+								Materials Re. Young People of America </unittitle>
+              <unitdate>1968</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">11/27</container>
+              <unittitle>General Correspondence/ Materials Re. Mexican Conference </unittitle>
+              <unitdate>1969</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">11/28</container>
+              <unittitle>General Correspondence / Misc. Receipts/ "Memorandum on the
+								Role of Counsel and Related Procedural Matters/ Plans for
+								reorganization of the Center for the Study of Democratic
+								Intsitutions/ </unittitle>
+              <unitdate>1970</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">11/29</container>
+              <unittitle>General Correspondence </unittitle>
+              <unitdate>1971</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">11/30</container>
+              <unittitle>General Correspondence</unittitle>
+              <unitdate>1972</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">11/31</container>
+              <unittitle>General Correspondence/ Misc. Receipts </unittitle>
+              <unitdate>1973</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">11/32</container>
+              <unittitle>General Correspondence / Misc. Receipts/ Enrollment Report;
+								Consortium of Metropolitan Law Schools </unittitle>
+              <unitdate>1974</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">11/33</container>
+              <unittitle>General Correspondence</unittitle>
+              <unitdate>1975</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">11/34</container>
+              <unittitle>General Correspondence</unittitle>
+              <unitdate>1976</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">11/35</container>
+              <unittitle>General Correspondence/ Pamphlet Re. Big Bend National Park
+								Texas </unittitle>
+              <unitdate>1977</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">11/36</container>
+              <unittitle>General Correspondence</unittitle>
+              <unitdate>Undated</unitdate>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unitid>Sub-Series 6</unitid>
+            <unittitle>Manuscripts</unittitle>
+            <unitdate normal="1938/1970">1938-1970</unitdate>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">16/1</container>
+              <unittitle>Writings on the Environment</unittitle>
+              <unitdate>1970</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">16/2</container>
+              <unittitle>We Become Internationalists</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">16/3</container>
+              <unittitle>Writings on Africa</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">16/4</container>
+              <unittitle>Writings on Hunting and Fishing</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">16/5</container>
+              <unittitle>Manuscript on the "Free Exercise" and "Establishment of
+								Religion"</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">16/6</container>
+              <unittitle>Writings on India, Pakistan, Kashmir</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">16/7</container>
+              <unittitle>Writings on Puerto Rico</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">16/8</container>
+              <unittitle>Writings on Australia</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">16/9</container>
+              <unittitle>Writings on Vietnam, Cambodia</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">16/10</container>
+              <unittitle>Writings on Thailand</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">16/11</container>
+              <unittitle>Writings on The Phillipines</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">16/12</container>
+              <unittitle>Writings on Germany</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">16/13</container>
+              <unittitle>Writings on the United States</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">16/14</container>
+              <unittitle>Writings on China, Tibet</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">16/15</container>
+              <unittitle>Writings on Canada</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">16/16</container>
+              <unittitle>Writings on Russia</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">16/17</container>
+              <unittitle>Writings on Middle East</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">16/18</container>
+              <unittitle>Writings on Greece</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">16/19</container>
+              <unittitle>Writings on Japan, Taiwan, Singapore, Korea, Hong Kong,
+								Indonesia, Malaysia</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">16/20</container>
+              <unittitle>Various Quotes, not written by W.O.D.</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">16/21</container>
+              <unittitle>Writings on the Yakima (now Yakama) Tribe</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">16/22</container>
+              <unittitle>Writings on The Cascades/Indian Legends Concerning
+								Cascades</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">16/23</container>
+              <unittitle>Manuscript - "The North Cascades" (National Geographic
+								Expedition</unittitle>
+              <unitdate>1965</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">16/24</container>
+              <unittitle>Fragments of Draft of <emph render="italic">Go East, Young
+									Man</emph></unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">16/25</container>
+              <unittitle>Writings on Legal System (US) Misc.</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">16/26</container>
+              <unittitle>Writings, The Living Bill of Rights</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">16/27</container>
+              <unittitle>Writings, Misc.</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">16/28</container>
+              <unittitle>Manuscripts (2) of Book, "Russian Journey" and Fragments </unittitle>
+              <unitdate>12/21/1955</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">16/29</container>
+              <unittitle>Manuscript "One Hour of Justice": -Tribes of Persia, -Walking
+								Tour of Lebanon, -Summary </unittitle>
+              <unitdate>Undated</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">16/30</container>
+              <unittitle>Manuscripts 3  4, Three Worlds </unittitle>
+              <unitdate>1952</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">16/31</container>
+              <unittitle>Writings, Indo-China </unittitle>
+              <unitdate>1953</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">16/32</container>
+              <unittitle>Manuscript and Fragments, "The On-Going Revolution: China's
+								Problem- and Ours" </unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">16/33</container>
+              <unittitle>Manuscript on "The On-Going Revolution" 1 of 2 </unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">17/1</container>
+              <unittitle>Writings, "The Basic Issues of the Next Ten Years" </unittitle>
+              <unitdate>11/10/1962</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">17/2</container>
+              <unittitle>Writings, Outline of Four Periods in US History" </unittitle>
+              <unitdate>Undated</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">17/3</container>
+              <unittitle>Writings, Outline of US Supreme Court in History </unittitle>
+              <unitdate>Undated</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">17/4</container>
+              <unittitle>Biography on W.O.D. by The Research Division of Americans for
+								Democratic Action </unittitle>
+              <unitdate>Undated</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">17/5</container>
+              <unittitle>Writings, Article: Sovereignty of the Individual, <emph render="italic">Playboy</emph></unittitle>
+              <unitdate>1968</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">17/6</container>
+              <unittitle>Writings, Press Release/ Appeal San Gorgonio Wilderness </unittitle>
+              <unitdate>Undated</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">17/7</container>
+              <unittitle>Writings, Press Release, Russia Today, Knox College </unittitle>
+              <unitdate>5/15/1962 </unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">17/8</container>
+              <unittitle>Misc.</unittitle>
+              <unitdate>Undated</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">17/9</container>
+              <unittitle>Research, Notes from the Journals of Lewis  Clark </unittitle>
+              <unitdate>Undated</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">17/10</container>
+              <unittitle>Technological Advances </unittitle>
+              <unitdate>Undated</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">17/11</container>
+              <unittitle>Editorials </unittitle>
+              <unitdate>Undated</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">17/12</container>
+              <unittitle>Wilderness </unittitle>
+              <unitdate>1941-1965</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">17/13</container>
+              <unittitle>WWII</unittitle>
+              <unitdate>1941-1942</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">17/14</container>
+              <unittitle>SEC</unittitle>
+              <unitdate>1938</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">17/15</container>
+              <unittitle>Articles from Eliot Janeway </unittitle>
+              <unitdate>1943-1960</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">17/16</container>
+              <unittitle>W.O.D. in the News, Yakima </unittitle>
+              <unitdate>1948-1950</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">17/17</container>
+              <unittitle>W.O.D. in the News, Marriage to Mrs. Mercedes Davidson </unittitle>
+              <unitdate>1954</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">17/18</container>
+              <unittitle>W.O.D. in the News, Book Reviews </unittitle>
+              <unitdate>1950</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">17/19</container>
+              <unittitle>Instincts, Culture and Science </unittitle>
+              <unitdate>1958</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">17/20</container>
+              <unittitle>Writings, An Inquest on our Lakes and Rivers </unittitle>
+              <unitdate>Undated</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">17/21</container>
+              <unittitle>Writings, The Public Trial and the Free Press in Nieman
+								Reports </unittitle>
+              <unitdate>July 1960</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">17/22</container>
+              <unittitle>Writings, The Right of Association </unittitle>
+              <unitdate>1963</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">17/23</container>
+              <unittitle>Writings, Law Reviews and Full Disclosure </unittitle>
+              <unitdate>1965</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">17/24</container>
+              <unittitle>Faith in Bill of Rights <emph render="italic">Must Be
+									Reviewed</emph>, says Justice Douglas. Seattle Times </unittitle>
+              <unitdate>12/14/1958</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">17/25</container>
+              <unittitle>Press Releases </unittitle>
+              <unitdate>1956</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">17/26</container>
+              <unittitle>Vagrancy and Arrest on Suspicion (Excerpts from Lecture at U
+								of NM) in the Minority of One </unittitle>
+              <unitdate>May 1960</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">17/27</container>
+              <unittitle>Peace within Our Grasp (From Abridged Speech) in the Nation </unittitle>
+              <unitdate>4/30/1949</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">17/28</container>
+              <unittitle>Biography by Marian D. Irish, U of Florida Law Review </unittitle>
+              <unitdate>Winter 1953</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">17/29</container>
+              <unittitle>Speeches, Announcement for Speech on Managing the Docket of
+								the Supreme Court of the US </unittitle>
+              <unitdate>3/19/1950</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">17/30</container>
+              <unittitle>Trident Press Release RE 6th Vol. in Credo Series, The
+								Anatomy of Liberty </unittitle>
+              <unitdate>1963</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">17/31</container>
+              <unittitle>Writings, The C and O Canal </unittitle>
+              <unitdate>1959</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">17/32</container>
+              <unittitle>Writings, It is Not Too Late to Save Our Wilderness </unittitle>
+              <unitdate>9/26/1965</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">17/33</container>
+              <unittitle>Itineraries and Schedule of Appointments SEC </unittitle>
+              <unitdate>1938-1939</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">17/34</container>
+              <unittitle>Writings, The Aversion to the Military </unittitle>
+              <unitdate>Undated</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">21/1</container>
+              <unittitle>American Legal System: Part 1 Ch. I </unittitle>
+              <unitdate>Undated</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">21/2</container>
+              <unittitle>American Legal System: Part 1 Ch. II </unittitle>
+              <unitdate>1958-1961</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">21/3</container>
+              <unittitle>American Legal System: Part 1 Ch. II Folder 2 </unittitle>
+              <unitdate>1957-1960</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">21/4</container>
+              <unittitle>American Legal System: Part 1 Ch. III Folder 1 </unittitle>
+              <unitdate>1956-1968</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">21/5</container>
+              <unittitle>American Legal System: Part 1 Ch. III Folder 2 </unittitle>
+              <unitdate>1958-1962</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">21/6</container>
+              <unittitle>American Legal System: Part 1 Ch. IV </unittitle>
+              <unitdate>1960-1962</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">21/7</container>
+              <unittitle>American Legal System: Part 1 Ch. V Folder 1 </unittitle>
+              <unitdate>Undated</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">21/8</container>
+              <unittitle>American Legal System: Part 1 Ch. V Folder 2 </unittitle>
+              <unitdate>1960-1962</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">21/9</container>
+              <unittitle>American Legal System: Part 1 Ch. VI </unittitle>
+              <unitdate>1956-1961</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">21/10</container>
+              <unittitle>American Legal System: Part 1 Ch. IX </unittitle>
+              <unitdate>1959</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">17/35</container>
+              <unittitle>American Legal System: Part 2 Ch. I </unittitle>
+              <unitdate>1957-1959</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">17/36</container>
+              <unittitle>American Legal System: Part 3 Ch. I </unittitle>
+              <unitdate>1955-1960</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">17/37</container>
+              <unittitle>American Legal System: Part 3 Ch. II </unittitle>
+              <unitdate>1951-1961</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">17/38</container>
+              <unittitle>American Legal System: Part 3 Ch. III </unittitle>
+              <unitdate>1961</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">17/39</container>
+              <unittitle>American Legal System: Part 3 Ch. IV </unittitle>
+              <unitdate>1958</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">17/40</container>
+              <unittitle>American Legal System: Part 3 Ch. V </unittitle>
+              <unitdate>1960</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">17/41</container>
+              <unittitle>American Legal System: Part 3 Ch. VII </unittitle>
+              <unitdate>1959-1962</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">17/42</container>
+              <unittitle>American Legal System: The Decalogue Journal </unittitle>
+              <unitdate>1955</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">17/43</container>
+              <unittitle>American Legal System: Part 2 Ch. XV, No. 1 </unittitle>
+              <unitdate>1958-1962</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">17/44</container>
+              <unittitle>American Legal System: Part 2 Ch. XV, No. 2 </unittitle>
+              <unitdate>1959-1960</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">17/45</container>
+              <unittitle>American Legal System: Part 2 Ch. XVI </unittitle>
+              <unitdate>1959</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">17/46</container>
+              <unittitle>The Three Hundred Year War </unittitle>
+              <unitdate>Undated</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">17/47</container>
+              <unittitle>American Legal System: Part 2 Ch. II </unittitle>
+              <unitdate>1959-1961</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">17/48</container>
+              <unittitle>American Legal System: Part 2 Ch. VII </unittitle>
+              <unitdate>1958</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">17/49</container>
+              <unittitle>American Legal System: Part 2 Ch. VI </unittitle>
+              <unitdate>1959-1964</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">17/50</container>
+              <unittitle>American Legal System: Part 2 Ch. XI </unittitle>
+              <unitdate>1960</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">17/51</container>
+              <unittitle>American Legal System: Part 2 Ch. XII </unittitle>
+              <unitdate>1958-1959</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">17/52</container>
+              <unittitle>Reports and Law Reviews </unittitle>
+              <unitdate>1954</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">17/53</container>
+              <unittitle>Religion </unittitle>
+              <unitdate>1955-1965</unitdate>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unitid>Sub-Series 7</unitid>
+            <unittitle>Speeches</unittitle>
+            <unitdate>1936-1973</unitdate>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">18/19</container>
+              <unittitle>ABA Address</unittitle>
+              <unitdate>7/29/1936</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">18/20</container>
+              <unittitle>Memorandum RE. Speech Before ABA on Municipal Protective
+								Committees </unittitle>
+              <unitdate>July 1936</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">18/21</container>
+              <unittitle>Moody Lecture, Various Drafts </unittitle>
+              <unitdate>10/ 20-21,26/1936 </unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">18/22</container>
+              <unittitle>Bond Club Speech </unittitle>
+              <unitdate>3/23/1937</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">18/23</container>
+              <unittitle>Dept. of Agriculture Address </unittitle>
+              <unitdate>4/14/1937</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">18/24</container>
+              <unittitle>Scatteration V. Integration of Public Utility Systems </unittitle>
+              <unitdate>1938</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">18/25</container>
+              <unittitle>SEC and Insurance Companies, Connecticut (Hartford) </unittitle>
+              <unitdate>circa 1938</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">18/26</container>
+              <unittitle>Address of W.O.D. to the Association of Stock Exchange Firms,
+								NY,NY </unittitle>
+              <unitdate>5/20/1938</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">18/27</container>
+              <unittitle>The Role of the SEC. Speech Given at Yale </unittitle>
+              <unitdate>4/27/1938</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">18/28</container>
+              <unittitle>SEC Pacific Stock Exchange </unittitle>
+              <unitdate>6/11/1938</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">18/29</container>
+              <unittitle>SEC and Conservative Business Management </unittitle>
+              <unitdate>9/20/1938</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">18/30</container>
+              <unittitle>Peace in Time of War. (and draft) </unittitle>
+              <unitdate>9/28/1938</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">18/31</container>
+              <unittitle>SEC Partial Speech </unittitle>
+              <unitdate>9/27/1938</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">18/32</container>
+              <unittitle>On Legislation, Laissez-faire and Control SEC, NY </unittitle>
+              <unitdate>10/21/1938</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">18/33</container>
+              <unittitle>Partial from NY H-T Forum </unittitle>
+              <unitdate>10/23/1938</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">18/34</container>
+              <unittitle>Cooperation Between Business and Government, Harvard Club </unittitle>
+              <unitdate>11/7/1938</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">18/35</container>
+              <unittitle>SEC: Explanation of Boston Talks </unittitle>
+              <unitdate>11/8/1938</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">18/36</container>
+              <unittitle>SEC</unittitle>
+              <unitdate>11/23/1938</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">18/11</container>
+              <unittitle>Democracy in Industry and Finance (SEC?) </unittitle>
+              <unitdate>circa 1938</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">18/10</container>
+              <unittitle>National Emergency Council's Report on the South </unittitle>
+              <unitdate>circa 1938-1939</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">18/37</container>
+              <unittitle>Remarks at Southern Policy Committee Dinner </unittitle>
+              <unitdate>3/2/1939</unitdate>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box-folder">18/37.5</container>
+              <unittitle>Speech to Baker, Oregon Chamber of Commerce</unittitle>
+              <unitdate>9/1/1942</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">18/38</container>
+              <unittitle>The Remsen Bird Lectures. The College and Society Occidental
+								College </unittitle>
+              <unitdate>1949</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">18/39</container>
+              <unittitle>Address at National Book Award </unittitle>
+              <unitdate>1/27/1953</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">18/30</container>
+              <unittitle>Democratic Fronts Against Communism: The Middle East and
+								South Asia, Ohio State U </unittitle>
+              <unitdate>5/12/1953</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">18/31</container>
+              <unittitle>The Trial of Sir Walter Raleigh and the US Court System:
+								American Law University </unittitle>
+              <unitdate>5/20/1953</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">18/32</container>
+              <unittitle>Marcus Whitman Statue Dedication , Rotunda of the US Capitol </unittitle>
+              <unitdate>5/22/1953</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">18/33</container>
+              <unittitle>Democracy and the Dignity of Man: Symposium at American
+								University, D.C. </unittitle>
+              <unitdate>5/27/1955</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">18/34</container>
+              <unittitle>America and Russia: 1956 </unittitle>
+              <unitdate>3/5/1956</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">18/35</container>
+              <unittitle>Asia's Medical Problems, Jacobi Medical Society, D.C. </unittitle>
+              <unitdate>3/24/1956</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">18/36</container>
+              <unittitle>Misunderstandings Between East and West </unittitle>
+              <unitdate>4/17/1956</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">18/37</container>
+              <unittitle>The Bill of Rights, Franklin and Marshall College, Lancaster,
+								PA </unittitle>
+              <unitdate>5/7-8/1956</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">18/38</container>
+              <unittitle>Commencement Address at Haverford College </unittitle>
+              <unitdate>5/27/1958</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">18/39</container>
+              <unittitle>The Moslem Revolution, Rotary Club, Portland OR. </unittitle>
+              <unitdate>8/12/1958</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">18/40</container>
+              <unittitle>Books Break Barriers, Middle Atlantic Regional Library
+								Conference: Atlantic City, NJ </unittitle>
+              <unitdate>10/2/1958</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">18/41</container>
+              <unittitle>The Role of the Lawyer, Dalhousie University: Halifax, Nova
+								Scotia </unittitle>
+              <unitdate>11/1/1958</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">18/42</container>
+              <unittitle>The Means and the End </unittitle>
+              <unitdate>January 1959</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">18/43</container>
+              <unittitle>Introduction for Mrs. F.D. Roosevelt </unittitle>
+              <unitdate>1959</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">18/44</container>
+              <unittitle>Judges, Juries and Bureaucrats, U of New Hampshire </unittitle>
+              <unitdate>10/28/1959</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">18/45</container>
+              <unittitle>Vagrancy and Arrest on Suspicion, John Fiels Simms Memorial
+								Lecture </unittitle>
+              <unitdate>3/15/1960</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">18/46</container>
+              <unittitle>Vagrancy and Arrest on Suspicion, U of New Mexico Law School </unittitle>
+              <unitdate>3/15/1960</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">18/47</container>
+              <unittitle>Democracy vs. Communism in Asia, LA City College </unittitle>
+              <unitdate>4/16/1959</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">18/48</container>
+              <unittitle>The Public Trial and the Free Press, U of Colorado </unittitle>
+              <unitdate>5/10/1960</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">18/49</container>
+              <unittitle>Arizona's New Judicial Article, Pima County Bar Assoc. </unittitle>
+              <unitdate>10/25/1960</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">18/50</container>
+              <unittitle>Revolutions, Rotary Club of WA </unittitle>
+              <unitdate>8/24/1961</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">18/51</container>
+              <unittitle>The Rule of Law in World Affairs; Athens, Greece </unittitle>
+              <unitdate>10/23/1961</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">18/52</container>
+              <unittitle>Exporting the Law; Kansas City Bar Association </unittitle>
+              <unitdate>5/1/1962</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">18/53</container>
+              <unittitle>Consular Courts; Kansas City Bar Assoc. </unittitle>
+              <unitdate>5/1/1962</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">18/54</container>
+              <unittitle>The Importance of History and the Natural Environment;
+								Minnesota Historical Society, St. Paul, MN </unittitle>
+              <unitdate>5/26/1962</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">18/55</container>
+              <unittitle>Losing Ground in the Undeveloped Countries; Yeshiva
+								University, Detroit, Michigan </unittitle>
+              <unitdate>6/6/1962</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">18/56</container>
+              <unittitle>The Decline of Western Prestige; U of Judaism, Los Angeles,
+								CA </unittitle>
+              <unitdate>7/1/1962</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">18/57</container>
+              <unittitle>Civil Rights, Civil Liberties Educational Foundation;
+								Warrenton, VA </unittitle>
+              <unitdate>11/17/1962</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">18/58</container>
+              <unittitle>Democracy and Revolution Fund for the Republic; Santa
+								Barbara, CA </unittitle>
+              <unitdate>12/1/1962</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">18/59</container>
+              <unittitle>Israel, 15th Annual Hanukah Dinner for Progressive Israel </unittitle>
+              <unitdate>12/9/1962</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">18/60</container>
+              <unittitle>Dinner in Honor of Carl Sandburg; Waldorf Astoria Hotel,
+								NYC,NY </unittitle>
+              <unitdate>1/6/1963</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">18/61</container>
+              <unittitle>Remarks if William O. Douglas Introducing Adlai Stevenson </unittitle>
+              <unitdate>1/22/1963</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">18/62</container>
+              <unittitle>Copy of Speech Given by James T. Brady in Santa Barbara, CA </unittitle>
+              <unitdate>2/12/1963</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">18/63</container>
+              <unittitle>Bill of Rights, National Civil Liberties Clearing House;
+								Wash. D.C. </unittitle>
+              <unitdate>3/28/1963</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">18/64</container>
+              <unittitle>Our Disappearing Wilderness, National Resources Council;
+								Waterville, Maine </unittitle>
+              <unitdate>6/14/1963</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">18/65</container>
+              <unittitle>Education on the Bill of Rights; New Jersey Education
+								Association; Trenton, NJ </unittitle>
+              <unitdate>10/5/1963</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">18/66</container>
+              <unittitle>Bill of Rights, Cedar Lane Unitarian Church; Bethesda, MD </unittitle>
+              <unitdate>10/6/1963</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">18/67</container>
+              <unittitle>Church and State- At Home and Abroad; Phi Beta Kappa
+								Associates </unittitle>
+              <unitdate>11/12/1963</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">18/68</container>
+              <unittitle>Rule of Law, Bnai Zion; NYC </unittitle>
+              <unitdate>12/15/1963</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">18/69</container>
+              <unittitle>Church and State- At Home and Abroad; Jewish Theological
+								Seminary Detroit, MI </unittitle>
+              <unitdate>1/20/1964</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">18/70</container>
+              <unittitle>New Potential Sources of Energy; Harvard Business School Club
+								of PA; Philadelphia, PA </unittitle>
+              <unitdate>3/18/1964</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">18/71</container>
+              <unittitle>Mongolians and Conservation; The Alachua Audubon Society;
+								Gainesville, Florida </unittitle>
+              <unitdate>4/7/1964</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">18/72</container>
+              <unittitle>Mongolians and Conservation; The Conservation Foundation </unittitle>
+              <unitdate>4/30/1964</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">18/73</container>
+              <unittitle>Equality and Apartheid; U of Minnesota; Minneapolis,
+								Minnesota </unittitle>
+              <unitdate>5/7/1964</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">18/74</container>
+              <unittitle>The Establishment and Society; The Guidance Center; New
+								Rochelle, NY </unittitle>
+              <unitdate>5/23/1964</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">18/75</container>
+              <unittitle>Colonialism and America; Parsons College </unittitle>
+              <unitdate>6/6/1964</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">18/76</container>
+              <unittitle>Address by William O. Douglas at a Testimonial Dinner for
+								Seniel Ostrow; Los Angeles, CA </unittitle>
+              <unitdate>7/25/1964</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">18/77</container>
+              <unittitle>The Church and Pluralistic Society; Unitarian Chirch of
+								Rockville </unittitle>
+              <unitdate>11/15/1964</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">18/78</container>
+              <unittitle>Some Aspects of Universal Distrust; Center for the Study of
+								Democratic Institutions </unittitle>
+              <unitdate>12/16/1964</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">18/79</container>
+              <unittitle>Pax America; Address to American Foreigh Law Assoc.; NY,NY </unittitle>
+              <unitdate>2/1/1965</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">18/80</container>
+              <unittitle>American Foreign Law Assoc.; NY, NY </unittitle>
+              <unitdate>2/1/1965</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">18/81</container>
+              <unittitle>The Rule of Law in World Affairs; American Foreign Law
+								Assoc.; NY,Ny </unittitle>
+              <unitdate>2/1/1965</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">18/82</container>
+              <unittitle>Address to the Judicial Conference of the Americas; San Juan,
+								Puerto Rico </unittitle>
+              <unitdate>5/26/1965</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">18/83</container>
+              <unittitle>Universal Distrust; Center for the Study of Democratic
+								Institutions; Santa Barbara, CA. </unittitle>
+              <unitdate>12/26/1965</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">18/8</container>
+              <unittitle>Increase and Need for Legal Services/ Civil Rights </unittitle>
+              <unitdate>circa 1966</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">18/84</container>
+              <unittitle>40th Anniversary- Class of 1926- Columbia Law, Columbia
+								University Club; NY, NY </unittitle>
+              <unitdate>4/2/1966</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">18/85</container>
+              <unittitle>Law in Israel; American Friends of the Hebrew University </unittitle>
+              <unitdate>4/17/1967</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">18/86</container>
+              <unittitle>Economic Man in the US; Ansonia Independent Democrats; NYC </unittitle>
+              <unitdate>4/23/1967</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">18/87</container>
+              <unittitle>Conservation, the Constitution, the Bill of Rights, and
+								Problems in the World </unittitle>
+              <unitdate>4/26/1967</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">18/88</container>
+              <unittitle>Freedom of Speech and Civil Rights; Marguette University;
+								Milwaukee, WI </unittitle>
+              <unitdate>5/1/1967</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">18/89</container>
+              <unittitle>America Revisits Asia; City College; New York, NY </unittitle>
+              <unitdate>5/9/1967</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">18/90</container>
+              <unittitle>Pacem- in- Terris; Geneva, Switzerland </unittitle>
+              <unitdate>5/28/1967</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">18/91</container>
+              <unittitle>Israeli Law; hebrew University, Jerusalem </unittitle>
+              <unitdate>6/23/1967</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">18/92</container>
+              <unittitle>Question of Missiles and Defense Center for the Study of
+								Democratic Institutions; NY, NY </unittitle>
+              <unitdate>11/19/1967</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">18/2</container>
+              <unittitle>Announcements of Lectureship Series: NYU </unittitle>
+              <unitdate>1967-1968</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">18/93</container>
+              <unittitle>Federal Courts and the Democratic System; Alabama Chapter
+								ACLU; Tuscaloosa, Alabama </unittitle>
+              <unitdate>4/20/1968</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">18/94</container>
+              <unittitle>American Attitudes Toward Asia; Center for the Study of
+								Democratic Institutions; Santa Barbara, CA </unittitle>
+              <unitdate>1/24-25/1969</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">18/95</container>
+              <unittitle>Education , Israel and the World Order; N.E. Hebrew Academy </unittitle>
+              <unitdate>3/23/1969</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">18/96</container>
+              <unittitle>Keeping Government Off the Backs of People; Oregon State
+								University; Corvallis, OR </unittitle>
+              <unitdate>4/9/1969</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">18/97</container>
+              <unittitle>Address Given at the Center for the Study of Democratic
+								Institutions Conference; Mexico City, Mexico </unittitle>
+              <unitdate>9/9/1969</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">18/98</container>
+              <unittitle>Memorial of Mr. Justice Holmes; Washington D.C. </unittitle>
+              <unitdate>11/20/1969</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">18/99</container>
+              <unittitle>Headstart Program </unittitle>
+              <unitdate>circa 1970</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">18/100</container>
+              <unittitle>Charles Hughes, Stone, Vinson; Remarks to Multnomah County
+								bar Assoc.; Portland, OR. </unittitle>
+              <unitdate>9/25/1971</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">18/101</container>
+              <unittitle>Simon E. Sobeloff Memorial </unittitle>
+              <unitdate>circa 1973</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">18/102</container>
+              <unittitle>Summary of Remarks at Colgate on</unittitle>
+              <unitdate>6/3/1973</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">18/1</container>
+              <unittitle>Introduction of W.O.D. by Carl Sandburg </unittitle>
+              <unitdate>Undated</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">18/3</container>
+              <unittitle>Boston Press Conference </unittitle>
+              <unitdate>Undated</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">18/4</container>
+              <unittitle>Speech Given at New Haven, New England </unittitle>
+              <unitdate>Undated</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">18/5</container>
+              <unittitle>Man's Inhumanity To Land </unittitle>
+              <unitdate>Undated</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">18/6</container>
+              <unittitle>Administrative Government </unittitle>
+              <unitdate>Undated</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">18/7</container>
+              <unittitle>Administrative Law (ICC) </unittitle>
+              <unitdate>Undated</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">18/9</container>
+              <unittitle>Unknown</unittitle>
+              <unitdate>Undated</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">18/12</container>
+              <unittitle>SEC Investments and the Role of Companies, Missing pgs. 1-2 </unittitle>
+              <unitdate>Undated</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">18/13</container>
+              <unittitle>Sec Changes in the Stock Market, Missing pg. 1 </unittitle>
+              <unitdate>Undated</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">18/14</container>
+              <unittitle>SEC: Public Utility Act of 1935 </unittitle>
+              <unitdate>Undated</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">18/15</container>
+              <unittitle>Foreign Policy: National War College (Outline) </unittitle>
+              <unitdate>Undated</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">18/16</container>
+              <unittitle>Foreign Policy: National War College </unittitle>
+              <unitdate>Undated</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">18/17</container>
+              <unittitle>Vietnam </unittitle>
+              <unitdate>Undated</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">18/18</container>
+              <unittitle>Introduction for Judge Edward S. Silver at Hebrew University </unittitle>
+              <unitdate>Undated</unitdate>
+            </did>
+          </c03>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unitid>Series 2</unitid>
+          <unittitle>Material collected by Leonard Jansen</unittitle>
+        </did>
+        <c02 level="subseries">
+          <did>
+            <unitid>Sub-Series 1</unitid>
+            <unittitle>Articles and memorabilia on Douglas</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">23/1</container>
+              <unittitle>"The Douglas Letters" by Tom Scriber in <emph render="italic">Whitman Magazine</emph></unittitle>
+              <unitdate>Fall 1988</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">23/2</container>
+              <unittitle>"My Recollections of Mr. Justice W.O. Douglas," by L.F.
+								Jansen</unittitle>
+              <unitdate>1989</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">23/3</container>
+              <unittitle>"Douglas Letters"; The <emph render="italic">News
+									Tribune</emph> and <emph render="italic">Oregonian</emph></unittitle>
+              <unitdate>1987</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">23/4</container>
+              <unittitle>Introduction</unittitle>
+              <unitdate>4/10/1994</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">23/5</container>
+              <unittitle>The Late Justice Douglas Still Creates News, <emph render="italic">The Times</emph> San Mateo</unittitle>
+              <unitdate>3/20/1989</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">23/6</container>
+              <unittitle>Douglas Then and Now, <emph render="italic">ABA
+									Journal</emph></unittitle>
+              <unitdate>11/1/1987</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">23/7</container>
+              <unittitle>Douglas Still Stirs Up Passion</unittitle>
+              <unitdate>2/12/1989</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">23/8</container>
+              <unittitle>Douglas, W.O., Jr.; Article about Death</unittitle>
+              <unitdate>2/22/1989</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">23/9</container>
+              <unittitle>W.O.D. Memorial Scholarship, WC </unittitle>
+              <unitdate>Undated</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">23/10</container>
+              <unittitle>W.O.D. Commemorative Symposium, Seattle, WA. 1939- 1989/
+								Program and Invitation </unittitle>
+              <unitdate>4/15/1989</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">23/11</container>
+              <unittitle>Letter to Public from Deal, David </unittitle>
+              <unitdate>10/25/1990</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">23/12</container>
+              <unittitle>9 Presentations RE Douglas/ W.O.D. Institute </unittitle>
+              <unitdate>4/15/1989</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">23/13</container>
+              <unittitle>A Tribute to Mr.Justice W.O. Douglas by Brennan, W. I./ WA
+								Law Review </unittitle>
+              <unitdate>1980</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">23/14</container>
+              <unittitle>Justice Douglas' Advice to the Young: Occupy High Ground, by
+								Fortas, Abe/ <emph render="italic">The Century Magazine</emph></unittitle>
+              <unitdate>March/April 1979</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">23/15</container>
+              <unittitle>excerpt from <emph render="italic">The Brethren</emph> by
+								Woodward, Bob  Armstrong, Scott </unittitle>
+              <unitdate>1979</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">23/16</container>
+              <unittitle>Justice William O. Douglas by Duram, James C. </unittitle>
+              <unitdate>Undated</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">23/17</container>
+              <unittitle>Summary of Biography by Hoyt, Edwin P. </unittitle>
+              <unitdate>Undated</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">23/18</container>
+              <unittitle>Douglas Letters, Urofsky, Melvin </unittitle>
+              <unitdate>Undated</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">23/19</container>
+              <unittitle>Yakima Memorial Takes Shape/ WA State Bar News </unittitle>
+              <unitdate>April 1981</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">23/20</container>
+              <unittitle>Address</unittitle>
+              <unitdate>4/3/1959</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">23/21</container>
+              <unittitle>The Origins of W.O.Douglas's Jurisprudence </unittitle>
+              <unitdate>Undated</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">23/22</container>
+              <unittitle>Letters: Copies w/o Originals or Duplicate from Len Jansen </unittitle>
+              <unitdate>Undated</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">24/1</container>
+              <unittitle>WOD " Independent Journey" </unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">24/2</container>
+              <unittitle>WOD Letters Etc. </unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">24/3</container>
+              <unittitle>WOD Keepsakes </unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">24/4</container>
+              <unittitle>Douglas</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">24/5</container>
+              <unittitle>"Some Glimpses of WOD" </unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">24/6</container>
+              <unittitle>Columbia Law School: Douglas Memorial </unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">24/7</container>
+              <unittitle>WOD Correspondence: Cathy- Mercedes </unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">24/8</container>
+              <unittitle>Recollections </unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">24/9</container>
+              <unittitle>Biographical Data, Articles by </unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">24/10</container>
+              <unittitle>Whitman Symposium- 1998 </unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">24/11</container>
+              <unittitle>Decline and Death </unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">24/12</container>
+              <unittitle>Mens Club</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unitid>Sub-Series 2</unitid>
+            <unittitle>Correspondence between Jansen and Douglas</unittitle>
+            <physdesc>
+              <extent>4 binders</extent>
+            </physdesc>
+          </did>
+          <c03 level="item">
+            <did>
+              <unittitle>Binder: Douglas, W.O. 1940-1959; Jansen, Len
+								1952-1973</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unittitle>Binder: Copies of Letters, Jansen to Douglas 12/1/1952 to
+								10/15/1979</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unittitle>Binder: Douglas to Jansen, 1960-1979</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unittitle>Binder: Jansen, Len, 1962-1979</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unitid>Sub-Series 3</unitid>
+            <unittitle>William O. Douglas 1898-1980</unittitle>
+          </did>
+          <c03>
+            <did>
+              <unittitle>Scrapbook</unittitle>
+            </did>
+          </c03>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unitid>Series 3</unitid>
+          <unittitle>Materials collected by Whitman College</unittitle>
+        </did>
+        <c02 level="subseries">
+          <did>
+            <unitid>Sub-Series 1</unitid>
+            <unittitle>Whitman College file on W.O.Douglas</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">22/1</container>
+              <unittitle>Remarks of the President to a Joint Session of the Congress </unittitle>
+              <unitdate>3/15/1965</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">22/2</container>
+              <unittitle>Sesquicentennical Celebration of the Supreme Court of the US </unittitle>
+              <unitdate>2/1/1940</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">22/3</container>
+              <unittitle>Certificate of Authenticity: W.O.D. Hand-cast Bust by Wendy
+								M. Ross, # 38 </unittitle>
+              <unitdate>12/7/1977</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">22/4</container>
+              <unittitle>Douglas, William O. :Play "Not Guilty" 3 Acts </unittitle>
+              <unitdate>Undated</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">22/5</container>
+              <unittitle>Play: "The Devil and the Lord" Revised</unittitle>
+              <unitdate>1/31/1972</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">22/6</container>
+              <unittitle>Unlabeled Folder</unittitle>
+            </did>
+            <c04 level="otherlevel">
+              <did>
+                <unittitle>Program, Dedication of Douglas Hall </unittitle>
+                <unitdate>10/15/1980</unitdate>
+              </did>
+            </c04>
+            <c04 level="otherlevel">
+              <did>
+                <unittitle>Memorial Articles</unittitle>
+                <unitdate>Various</unitdate>
+              </did>
+            </c04>
+            <c04 level="otherlevel">
+              <did>
+                <unittitle>
+                  <emph render="italic">WA State Bar News</emph>: Yakima
+									Memorial </unittitle>
+                <unitdate>April 1981</unitdate>
+              </did>
+            </c04>
+            <c04 level="otherlevel">
+              <did>
+                <unittitle>Articles on Justice's Death </unittitle>
+                <unitdate>1980</unitdate>
+              </did>
+            </c04>
+            <c04 level="otherlevel">
+              <did>
+                <unittitle>Articles on Cathy Douglas, 4th wife </unittitle>
+                <unitdate>Various</unitdate>
+              </did>
+            </c04>
+            <c04 level="otherlevel">
+              <did>
+                <unittitle>"A Wilderness Bill of Rights", by W.O.D. </unittitle>
+                <unitdate>December 1961</unitdate>
+              </did>
+            </c04>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">22/7</container>
+              <unittitle>Douglas, William O.: Named to Federal Securities and Exchange
+								Commission </unittitle>
+              <unitdate>1935-1936</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">22/8</container>
+              <unittitle>Convocation Speech at Whitman</unittitle>
+              <unitdate>9/15/1939</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">22/9</container>
+              <unittitle>Letter to and From Chester C. Maxey </unittitle>
+              <unitdate>2/3,5/1958</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">22/10</container>
+              <unittitle>
+                <emph render="italic">Tributes to Honorable William O.
+									Douglas</emph>: Hard Cover Edition </unittitle>
+              <unitdate>1975</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">22/11</container>
+              <unittitle>Clippings </unittitle>
+              <unitdate>Various</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">22/12</container>
+              <unittitle>Rotaty Club File</unittitle>
+              <unitdate>Undated</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">22/13</container>
+              <unittitle>Correspondence to Whitman</unittitle>
+              <unitdate>circa 1940</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">22/14</container>
+              <unittitle>Douglas, William O.</unittitle>
+              <unitdate>Various</unitdate>
+            </did>
+            <c04 level="otherlevel">
+              <did>
+                <unittitle>Federal Bar News, A Tribute to Justice William O. Douglas </unittitle>
+                <unitdate>March 1980</unitdate>
+              </did>
+            </c04>
+            <c04 level="otherlevel">
+              <did>
+                <unittitle>"Justice Tells of his Travels through the Explosive
+									Middle East…" </unittitle>
+              </did>
+            </c04>
+            <c04 level="otherlevel">
+              <did>
+                <unittitle>Justice Douglas's Son Married </unittitle>
+              </did>
+            </c04>
+            <c04 level="otherlevel">
+              <did>
+                <unittitle>Articles on Horse Accident </unittitle>
+              </did>
+            </c04>
+            <c04 level="otherlevel">
+              <did>
+                <unittitle>Articles on C  O Canal Hike </unittitle>
+              </did>
+            </c04>
+            <c04 level="otherlevel">
+              <did>
+                <unittitle>"A Boy debator Who Made the Top Team: That Fellow
+									Douglas" by John H. Crider </unittitle>
+              </did>
+            </c04>
+            <c04 level="otherlevel">
+              <did>
+                <unittitle>Misc. Newspaper Articles </unittitle>
+              </did>
+            </c04>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="box-folder">22/15</container>
+              <unittitle>Whitman College transcript and application</unittitle>
+              <unitdate normal="1916/1920">1916-1920</unitdate>
+            </did>
+          </c03>
+          <c03 level="collection">
+            <did>
+              <container type="box">25</container>
+              <unittitle>William O. Douglas Alumni File Class of 1920</unittitle>
+            </did>
+            <c04 level="item">
+              <did>
+                <unittitle> -WC Pioneer Articles RE W.O.D. </unittitle>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <unittitle> -Newspaper Articles </unittitle>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <unittitle> -World Issues, The William O. Douglas Inquiry
+								</unittitle>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <unittitle> -Articles on "Mountain" a Play about W.O.D. </unittitle>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <unittitle> -W.O.D. Alumni Card </unittitle>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <unittitle> -Article RE. Gift of Presidents' Signatures to WC
+								</unittitle>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <unittitle> -Biographical Sketches </unittitle>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <unittitle> -Articles in W.O.D.'s death </unittitle>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <unittitle> -American Bar Association, Mr. Justice Douglas Reaches a
+									Milestone </unittitle>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <unittitle> -Misc. Newspaper Articles RE. W.O.D. </unittitle>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <unittitle> -Misc. Biographical Sketches </unittitle>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <unittitle>Photocopies of Articles</unittitle>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <unittitle>
+                  <emph render="italic">The Intermountain Observer</emph>,
+									A Traveler's Guide, Idaho</unittitle>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <unittitle>Articles on Former Wives</unittitle>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <unittitle>Article of W.O.D. Jr. Mime Acting</unittitle>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <unittitle>
+                  <emph render="italic">The Living Wilderness</emph>,
+									Spring 1954</unittitle>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <unittitle>1971 WC Alumni Directory, W.O.D.</unittitle>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <unittitle>1959 WC Alumni Directory</unittitle>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <unittitle>Photocopy of Douglas Books Category</unittitle>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <unittitle>Clippings Tear Sheets, 1949</unittitle>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <unittitle>Clippings Tear Sheets, 1950</unittitle>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <unittitle>Clippings Tear Sheets, 1951</unittitle>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <unittitle>Clippings Tear Sheets, 1952</unittitle>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <unittitle>Clippings Tear Sheets, 1953</unittitle>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <unittitle>The Supreme Court Justices, A Biographical
+									Dictionary</unittitle>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <unittitle>Remembrances of William O. Douglas by His Friends and
+									Associates</unittitle>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <unittitle>
+                  <emph render="italic">Southern California Law
+										Review</emph>, Symposium Law and Technology, preface by
+									W.O.D.</unittitle>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <unittitle>
+                  <emph render="italic">The American Mercury</emph>, Bill
+									Douglas: American, by Fres Rodell</unittitle>
+                <unitdate>December 1945</unitdate>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <unittitle>
+                  <emph render="italic">Yale Law Journal</emph>A Symposium
+									on Credit for the Urban Employee</unittitle>
+                <unitdate>February 1933</unitdate>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <unittitle>W.O.D.'s articles from American the Beautiful, <emph render="italic">Readers Digest</emph></unittitle>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <unittitle>Article on W.O.D. Siblings to Graduate from Whitman
+									College</unittitle>
+                <unitdate>March 22, 1939</unitdate>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <unittitle>Articles on Douglas's Horse Injury</unittitle>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <unittitle>Articles on Marriage to 24-year-old College
+									Student</unittitle>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <unittitle>Artilces re: Douglas Books</unittitle>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <unittitle>Address before the 10th Annual Convention of the Congress
+									of Industrial Organizations</unittitle>
+                <unitdate>November 24, 1948</unitdate>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <unittitle>W.O.D. Biography: Bulger and Fairhaven
+									College</unittitle>
+              </did>
+            </c04>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unitid>Sub-Series 2</unitid>
+            <container type="box">26</container>
+            <unittitle>Memorabilia collected by Whitman College</unittitle>
+          </did>
+          <c03 level="item">
+            <did>
+              <unittitle>Notebook listing periodical articles about
+								Douglas</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unittitle>Notebook listing periodical articles by Douglas</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unittitle>Box of newspaper clippings about Douglas</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unittitle>
+                <emph render="italic">The Bible and the Schools</emph>, LP by
+								Douglas explaining Supreme Court decisions</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unittitle>Framed photograph of Supreme Court Building autographed by
+								Douglas</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unittitle>Framed autographed photograph of Douglas</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unittitle>Framed caricature of Douglas</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unittitle>
+                <emph render="italic">My Shangri-La</emph>, framed essay
+								about Yakima Valley by Douglas</unittitle>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <unittitle>Nameplate and stand <emph render="bolditalic">"Supreme Court
+									Justice William O. Douglas, 1898-1980"</emph></unittitle>
+            </did>
+          </c03>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unitid>Series 4</unitid>
+          <unittitle>Materials Collected by David Allard</unittitle>
+        </did>
+        <c02 level="item">
+          <did>
+            <container type="box-folder">27/1</container>
+            <unittitle>Bill of Rights Course, Articles about</unittitle>
+            <unitdate>1965</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box-folder">27/2</container>
+            <unittitle>Bill of Rights Course, Handbooks</unittitle>
+            <unitdate>1965</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box-folder">27/3</container>
+            <unittitle>Bill of Rights Course, Speech by Douglas</unittitle>
+            <unitdate>March 9, 1965</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="box-folder">27/4</container>
+            <unittitle>Photographs of the Supreme Court Justices</unittitle>
+            <unitdate type="inclusive" normal="1967/1972">1967-1972</unitdate>
+          </did>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>
+

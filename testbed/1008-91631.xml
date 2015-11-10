@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<!--Template updated 20080408 by J. Allison-Bunnell-->
+<!--Remember to name and save documents using the OCLC code + local filename. Documents that are revised/updated after initial submission much be submitted with precisely the same filename.-->
+<ead> 
+<!--The following section is header information that describes the finding aid-->
+<eadheader langencoding="iso639-2b" scriptencoding="iso15924"
+ relatedencoding="dc" repositoryencoding="iso15511" countryencoding="iso3166-1"
+ dateencoding="iso8601" id="a0"> 
+<eadid countrycode="us" encodinganalog="identifier" mainagencycode="OPV"
+ identifier="80444/xv10626"
+ url="http://nwda.orbiscascade.org/ark:/80444/xv10626">
+OPVELCA7a3_118</eadid> <filedesc> <titlestmt> 
+<titleproper encodinganalog="title">Guide to the Atonement Lutheran Church,
+Missoula, Montana, Records 
+<date encodinganalog="date" era="ce" calendar="gregorian"
+ normal="1961/2012">1961-2012</date> </titleproper> 
+<titleproper type="filing" altrender="nodisplay">Atonement Lutheran Church,
+Missoula, Montana, Records</titleproper> <author
+encodinganalog="creator">Finding aid prepared by Jerilynn Harris</author> 
+<sponsor encodinganalog="contributor">Funding for encoding this finding aid was
+provided through a grant awarded by the National Endowment for the
+Humanities.Processing funded by the National Historical Publications and
+Records Commission</sponsor> </titlestmt> <publicationstmt> 
+<publisher encodinganalog="publisher">Pacific Lutheran University</publisher> 
+<date encodinganalog="date" era="ce" calendar="gregorian" normal="2012">©
+2012</date> <address> <addressline>12180 Park Avenue South</addressline> 
+<addressline>Tacoma, WA 98447</addressline> </address> </publicationstmt>
+</filedesc> <profiledesc> <creation>Finding aid encoded by
+<emph render="italic"> <emph render="underline">P. Dearinger</emph></emph>
+<date era="ce" calendar="gregorian" normal="2012"
+ encodinganalog="date">2012</date> </creation> <langusage>Finding aid written in
+<language langcode="eng" encodinganalog="language"
+ scriptcode="latn">English</language></langusage> <descrules>Finding aid based
+on DACS <title render="italic">(Describing Archives: A Content
+Standard)</title></descrules> </profiledesc> </eadheader> 
+<archdesc level="collection" type="inventory" relatedencoding="marc21"> 
+<did id="a1"> <repository> <corpname encodinganalog="852$a"
+source="lcsh">Pacific Lutheran University</corpname>
+<subarea encodinganalog="852$b"> Archives and Special Collections</subarea>
+<subarea encodinganalog="852$b"> ELCA Region 1 Archives</subarea> <address> 
+<addressline>12180 Park Avenue South</addressline> <addressline>Tacoma, WA
+98447</addressline> <addressline>253-535-7586</addressline> <addressline>Email:
+archives@plu.edu</addressline>
+<addressline>http://www.plu.edu/archives/</addressline>
+</address> </repository> 
+<unitid encodinganalog="099" countrycode="us" repositorycode="opv"
+ type="collection">OPVELCA7a3_118</unitid> <origination> 
+<corpname encodinganalog="110" role="creator" rules="dacs">Atonement Lutheran
+Church (Missoula, Mont.)</corpname> </origination> 
+<unittitle encodinganalog="245$a">Atonement Lutheran Church, Missoula, Montana,
+Records</unittitle>
+<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian"
+ normal="1961/2012">1961-2012</unitdate> <physdesc>
+<extent encodinganalog="300$a">1 file</extent> </physdesc><physdesc>
+<extent>Box 5 File 5</extent></physdesc> <abstract
+encodinganalog="5203_">Collection contains the records of Atonement Lutheran
+Church in Missoula, Montana.</abstract> <langmaterial><language
+encodinganalog="546" langcode="eng">English</language></langmaterial> </did> 
+<bioghist encodinganalog="5451" id="a2"> <head>Historical Note</head>
+<p>Atonement was one of 19 congregations known as “Jubilee Congregations” which
+were formed as part of the celebration of the founding of the American Lutheran
+Church. On September 10, 1961 the first service was held in the building that
+was to become the worship center for the congregation. On November 5, 1961 the
+new church, located at Highway 93 and 39th Street, was dedicated. On December
+10, 1961 the congregation was formally organized with 31 confirmed members.
+February 25, 1967 marked groundbreaking at the site of the present location and
+first services were held in the basement on May 6.</p> </bioghist> 
+<scopecontent encodinganalog="5202_" id="a3"> <p>This folder contains a
+congregational historical record, a brief history of Atonement, a church
+covenant between Atonement Lutheran and Holy Family Catholic Parish, a letter
+from Milton Nesvig.</p> </scopecontent> 
+<accessrestrict encodinganalog="506" id="a14"> <p>Collection is available for
+research</p> </accessrestrict> <userestrict encodinganalog="540" id="a15"> 
+<p>Property rights reside with Archives and Special Collections Department at
+Pacific Lutheran University. Copyright resides with the creator of the
+documents or their heirs. All requests for permission to publish or quote from
+manuscripts must be submitted to the University Archivist. The reader must also
+obtain permission of the copyright holder</p> </userestrict> 
+<prefercite encodinganalog="524" id="a18"> <p>From the Atonement Lutheran
+Church, Missoula, Montana, Records, OPVELCA7a3_118, Archives and Special
+Collections, ELCA Region I Archives, Pacific Lutheran University, 12180 Park
+Avenue South, Tacoma, WA 98447</p> </prefercite> 
+<acqinfo encodinganalog="541" id="a19">
+<p>Transferred to ELCA Region I Archives. .</p> </acqinfo> 
+<relatedmaterial id="a6" encodinganalog="544"> <p>To search and view digitized
+images of congregations, visit our <extref
+href="http://chili.plu.edu/pluindex">Digital Assets Website</extref></p>
+</relatedmaterial> <bibliography encodinganalog="581" id="a11"> <p> <bibref> 
+<persname>Nesvig, Swanson, Nordquist, Emerson </persname> 
+<title render="italic">New Partners. Old Roots.</title> <imprint> 
+<geogname source="lcsh" role="subject" encodinganalog="651">Tacoma
+(Wash.)</geogname> <publisher>ALC, LCA, and ELC</publisher> 
+<date type="publication" era="ce" calendar="gregorian" normal="1986">1986
+</date></imprint></bibref> </p> </bibliography> <controlaccess id="a12"> 
+<p>This collection is indexed under the following headings in the online
+catalog. Researchers desiring materials about related topics, persons, or
+places should search the catalog using these headings.</p> <controlaccess> 
+<persname role="subject" encodinganalog="600" rules="dacs">Gedde, Palmer,
+1961-1970</persname> <persname role="subject" encodinganalog="600"
+rules="dacs"> Sethre, Peter, 1970-1976 </persname> 
+<persname role="subject" encodinganalog="600" rules="dacs">Ferchen, Duane,
+1976-1983</persname> <persname role="subject" encodinganalog="600"
+rules="dacs"> Peterman, Tom, 1983- </persname>
+<persname role="subject" encodinganalog="600" rules="dacs"> Disch, Daniel
+D.</persname></controlaccess> <controlaccess> 
+<corpname role="subject" encodinganalog="610" source="lcsh">American Lutheran
+Church (1961- ) </corpname> 
+<corpname rules="dacs" role="subject" encodinganalog="610">Evangelical Lutheran
+Church -- Montana Synod</corpname>
+<corpname source="lcsh" role="subject" encodinganalog="610">Evangelical
+Lutheran Church--History</corpname></controlaccess> <controlaccess> 
+<geogname role="subject" encodinganalog="651" source="lcsh">Missoula
+(Mont.)</geogname> </controlaccess> <controlaccess> 
+<subject encodinganalog="650"
+ rules="dacs">Lutherans--Montana--History</subject> </controlaccess> 
+<controlaccess> 
+<subject source="nwda" altrender="nodisplay"
+ encodinganalog="690">Religion</subject> </controlaccess> <controlaccess> 
+<occupation encodinganalog="656" source="lcsh">Clergy</occupation>
+</controlaccess> </controlaccess> </archdesc> </ead>

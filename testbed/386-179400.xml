@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead audience="external">
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" scriptencoding="iso15924" dateencoding="iso8601" countryencoding="iso3166-1" relatedencoding="Dublin Core">
+<eadid countrycode="us" mainagencycode="MnU" publicid="-//University of Minnesota, Twin Cities::Immigration History Research Center//TEXT (us::MnU::ihrcrashid::Rashid Family Club of America Records, 1979-1980.)//EN">ihrcrashid</eadid>
+<filedesc>
+<titlestmt>
+<titleproper encodinganalog="Title">Inventory of the Rashid Family Club of America Records, 1979-1980.</titleproper>
+<author encodinganalog="Contributor">Finding aid created by Immigration History Research Center staff, May 12, 1987</author>
+</titlestmt>
+<publicationstmt>
+<publisher encodinganalog="Publisher">University of Minnesota Libraries
+</publisher>
+<date encodinganalog="Date">December 30, 2003</date>
+<address>
+<addressline>Univesity of Minnesota Libraries</addressline>
+<addressline>Minneapolis, MN 55455</addressline>
+</address>
+</publicationstmt>
+</filedesc>
+<profiledesc><creation>EAD encoding by Felicity Hanson<date>December 30, 2003</date></creation>
+<langusage><language encodinganalog="Language" langcode="eng">English</language></langusage>
+</profiledesc></eadheader>
+<archdesc level="collection" relatedencoding="MARC">
+<did>
+<origination>
+<corpname encodinganalog="110">Rashid Family Club of America.</corpname>
+</origination>
+<unittitle encodinganalog="245$a" label="Title: ">Rashid Family Club of America Records,</unittitle>
+<unitdate encodinganalog="245$f" type="inclusive" label="Dates: " normal="1979/1980">1979-1980</unitdate>
+<repository encodinganalog="852$a" label="Repository: ">University of Minnesota Libraries. <subarea>Immigration History Research Center [ihrc]</subarea></repository>
+<physdesc><extent encodinganalog="300" label="Quantity: ">1 booklet.</extent></physdesc>
+<unitid encodinganalog="099" countrycode="mnu" repositorycode="MnU" label="Collection ID: ">NRE</unitid>
+<langmaterial encodinganalog="546" label="Language: ">
+<language encodinganalog="041" langcode="eng">In English.</language></langmaterial></did>
+<scopecontent encodinganalog="520">
+<head>Scope and Content</head>
+<p>Reunion booklet (1979) and newspaper clippings of the Rashid Family Club of America, for a reunion of the Rashid family. Included are letters from President Jimmy Carter and entertainer Danny Thomas. The Rashids are a Lebanese American family, five members of which came to the United States in 1896. They settled in Detroit, Iowa, and Illinois.</p>
+</scopecontent>
+<otherfindaid encodinganalog="555">
+<p>No inventory available.</p>
+</otherfindaid>
+<controlaccess>
+<head>Index Terms</head>
+<p>This collection is indexed under the following headings in the catalog of the University of Minnesota Libraries. Researchers desiring materials about related topics, persons or places should search the catalog using these headings. </p>
+<persname encodinganalog="600 1" source="lcnaf" rules="aacr2">Carter, Jimmy, 1924-</persname><persname encodinganalog="600 1" source="lcnaf" rules="aacr2">Thomas, Danny.</persname>
+<persname encodinganalog="600 0" source="lcnaf" rules="aacr2">Rashid family.</persname>
+<corpname encodinganalog="610" source="lcnaf" rules="aacr2">Rashid Family Club of America.</corpname>
+<genreform encodinganalog="655" source="lcsh">Clippings (Books, newspapers, etc.).</genreform>
+<subject encodinganalog="650" source="lcsh">Lebanese Americans.</subject><subject encodinganalog="650" source="lcsh">Lebanese Americans--Iowa.</subject><subject encodinganalog="650" source="lcsh">Lebanese Americans--Illinois.</subject><subject encodinganalog="650" source="lcsh">Lebanese Americans--Michigan--Detroit.</subject>
+</controlaccess>
+</archdesc></ead>

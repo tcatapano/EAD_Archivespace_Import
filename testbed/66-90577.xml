@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="urn:isbn:1-931666-22-9 ead.xsd http://www.w3.org/1999/xlink xlink.xsd">
+<eadheader langencoding="iso639-2b" scriptencoding="iso15924" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601">
+<eadid countrycode="DE" url="http://startext.net-build.de:8080/barch/MidosaSEARCH/RWD1-31597/index.htm">RWD1-31597</eadid>
+<filedesc>
+<titlestmt>
+<titleproper>"Die Wehrmacht"</titleproper>
+<subtitle/>
+<author>Antje Märke, Ulrike Frauenhoffer</author>
+<sponsor>Bundesarchiv</sponsor>
+</titlestmt>
+<publicationstmt>
+<publisher>Bundesarchiv</publisher>
+<address>
+<addressline>Koblenz</addressline>
+</address>
+<date calendar="gregorian" era="ce">November 2005</date>
+</publicationstmt>
+</filedesc>
+<profiledesc>
+<langusage>deutsch</langusage>
+</profiledesc>
+</eadheader>
+<archdesc level="collection" type="Bestandsfindbuch">
+<did>
+<unitid>RWD 1</unitid>
+<unittitle>"Die Wehrmacht" (Zeitschrift)</unittitle>
+<unitdate calendar="gregorian" era="ce">1936-1944</unitdate>
+<origination label="final">Oberkommando der Wehrmacht</origination>
+<langmaterial>deutsch</langmaterial>
+<repository>Bundesarchiv</repository>
+<physdesc>
+<extent unit="AE">10</extent>
+<genreform>Sammlung</genreform>
+</physdesc>
+<physloc label="Benutzungsort">Freiburg</physloc>
+</did>
+<processinfo>
+<head>Archivische Bearbeitung</head>
+<p>Zu vorliegendem Bestand existierte bereits ein durch Mitarbeiter des
+      Bundesarchiv-Militärarchivs erstelltes Findmittel, das jedoch über eine
+      Ersterfassung nicht hinaus ging.</p>
+<p>Die Erschließung einschließlich der Datenerfassung wurde von Ulrike
+      Frauenhoffer durchgeführt. Grundlage der Erschließung sind die
+      Verzeichnungsrichtlinien des Bundesarchivs. In der Datenbank BASYS-S
+      wurden neben dem Titel auch die Laufzeiten und alten Signaturen der
+      Archivalien festgehalten.</p>
+<p>Das Findbuchvorwort wurde durch Antje Märke erstellt.</p>
+<p>Das Findmittel steht seit November 2005 auf der Homepage des
+      Bundesarchivs als Online-Findmittel zur Verfügung.</p>
+</processinfo>
+<prefercite>
+<head>Zitierweise</head>
+<p>BArch RWD 1/...</p>
+</prefercite>
+<bioghist>
+<head>Aufgaben/Organisation</head>
+<p>Die Zeitschrift "Die Wehrmacht" erschien erstmals am 6. November
+        1936. Bis Januar 1938 gab das Reichskriegsministerium die farbig
+        illustrierte Schrift heraus; ab dem 2. Februar 1938 übernahm dies das
+        Oberkommando der Wehrmacht.</p>
+<p>Neben einem Hauptartikel zu einem bestimmten Thema (z.B. "Die
+        deutsche Luftwaffe", "Die Infanterie") wurden weitere aktuelle
+        militärische Inhalte behandelt. Ferner findet sich meist eine Art
+        Feuilleton, Rätsel und Werbung. "Die Wehrmacht" kostete 25
+        Reichspfennig und erschien zweimal im Monat.</p>
+<dao xlink:href="http://www.bundesarchiv.de/foxpublic/D5DAB4D10A062212000000003DD5F87F/images/Wehrmacht_1a_klein.jpg" xlink:title="Die Wehrmacht - Hrsg.: OKW (BArch RWD 1/4)"/>
+</bioghist>
+<scopecontent encodinganalog="Inhalt">
+<head>Inhaltliche Charakterisierung</head>
+<p>Neben den Jahrgängen 1 (1936/1937) bis 8 (1944) der Zeitschrift
+        "Die Wehrmacht" sind ferner die Sonderausgabe "Ausgabe A" für die
+        Jahre 1939, 1942 und 1943 sowie Sonderhefte zu bestimmten Themen (z.B.
+        "Wir kämpfen in Spanien") erhalten geblieben.</p>
+</scopecontent>
+<userestrict>
+<head>Benutzungsbedingungen</head>
+<p>Grundlagen für jede Benutzung von Archivgut des Bundes sind das
+      Bundesarchivgesetz und die Benutzungsverordnung.</p>
+</userestrict>
+<relatedmaterial>
+<head>Überlieferungsverweis</head>
+<p>RW 1 Reichswehrministerium/Reichskriegsministerium</p>
+<p>RW 2 Chef des Oberkommandos der Wehrmacht</p>
+</relatedmaterial>
+<dsc type="combined">
+<c01 level="collection">
+<did>
+<unitid>RWD 1</unitid>
+<unittitle>RWD 1 "Die Wehrmacht" (Zeitschrift)</unittitle>
+<unitdate calendar="gregorian" era="ce">1936-1944</unitdate>
+</did>
+<c02 level="class">
+<did>
+<unitid>1</unitid>
+<unittitle>Die Wehrmacht</unittitle>
+</did>
+<c03 level="subseries">
+<did>
+<unittitle>"Die Wehrmacht"</unittitle>
+<unitdate calendar="gregorian" era="ce">1936-1944</unitdate>
+</did>
+<c04 level="file">
+<did>
+<unitid type="bestellnummer">RWD 1/1</unitid>
+<unitid type="altsignatur">RWD 1/1</unitid>
+<abstract type="Bandnummer">1</abstract>
+<unitdate calendar="gregorian" era="ce">Nov. 1936 - Dez. 1937</unitdate>
+<abstract>Enthält:<lb/>1. Jg. Nr. 1-28</abstract>
+<origination label="final">Oberkommando der Wehrmacht</origination>
+<physloc>Benutzungsort: Freiburg</physloc>
+</did>
+<accessrestrict>
+<p>Benutzbar ab: 1967</p>
+</accessrestrict>
+</c04>
+<c04 level="file">
+<did>
+<unitid type="bestellnummer">RWD 1/4</unitid>
+<unitid type="altsignatur">RWD 1/1</unitid>
+<abstract type="Bandnummer">2</abstract>
+<unitdate calendar="gregorian" era="ce">1938</unitdate>
+<abstract>Enthält:<lb/>2. Jg. Nr. 1-24</abstract>
+<origination label="final">Oberkommando der Wehrmacht</origination>
+<physloc>Benutzungsort: Freiburg</physloc>
+</did>
+<accessrestrict>
+<p>Benutzbar ab: 1968</p>
+</accessrestrict>
+</c04>
+<c04 level="file">
+<did>
+<unitid type="bestellnummer">RWD 1/5</unitid>
+<unitid type="altsignatur">RWD 1/1</unitid>
+<abstract type="Bandnummer">3</abstract>
+<unitdate calendar="gregorian" era="ce">1939</unitdate>
+<abstract>Enthält:<lb/>3. Jg. Nr. 1-26</abstract>
+<origination label="final">Oberkommando der Wehrmacht</origination>
+<physloc>Benutzungsort: Freiburg</physloc>
+</did>
+<accessrestrict>
+<p>Benutzbar ab: 1969</p>
+</accessrestrict>
+</c04>
+<c04 level="file">
+<did>
+<unitid type="bestellnummer">RWD 1/6</unitid>
+<unitid type="altsignatur">RWD 1/1</unitid>
+<abstract type="Bandnummer">4</abstract>
+<unitdate calendar="gregorian" era="ce">1940</unitdate>
+<abstract>Enthält:<lb/>4. Jg. Nr. 1-26</abstract>
+<origination label="final">Oberkommando der Wehrmacht</origination>
+<physloc>Benutzungsort: Freiburg</physloc>
+</did>
+<accessrestrict>
+<p>Benutzbar ab: 1970</p>
+</accessrestrict>
+</c04>
+<c04 level="file">
+<did>
+<unitid type="bestellnummer">RWD 1/7</unitid>
+<unitid type="altsignatur">RWD 1/1</unitid>
+<abstract type="Bandnummer">5</abstract>
+<unitdate calendar="gregorian" era="ce">1941</unitdate>
+<abstract>Enthält:<lb/>5. Jg. Nr. 1-26</abstract>
+<origination label="final">Oberkommando der Wehrmacht</origination>
+<physloc>Benutzungsort: Freiburg</physloc>
+</did>
+<accessrestrict>
+<p>Benutzbar ab: 1971</p>
+</accessrestrict>
+</c04>
+<c04 level="file">
+<did>
+<unitid type="bestellnummer">RWD 1/8</unitid>
+<unitid type="altsignatur">RWD 1/1</unitid>
+<abstract type="Bandnummer">6</abstract>
+<unitdate calendar="gregorian" era="ce">1942</unitdate>
+<abstract>Enthält:<lb/>6. Jg. Nr. 1-26</abstract>
+<origination label="final">Oberkommando der Wehrmacht</origination>
+<physloc>Benutzungsort: Freiburg</physloc>
+</did>
+<accessrestrict>
+<p>Benutzbar ab: 1972</p>
+</accessrestrict>
+</c04>
+<c04 level="file">
+<did>
+<unitid type="bestellnummer">RWD 1/9</unitid>
+<unitid type="altsignatur">RWD 1/1</unitid>
+<abstract type="Bandnummer">7</abstract>
+<unitdate calendar="gregorian" era="ce">1943</unitdate>
+<abstract>Enthält:<lb/>7. Jg. Nr. 1-26</abstract>
+<origination label="final">Oberkommando der Wehrmacht</origination>
+<physloc>Benutzungsort: Freiburg</physloc>
+</did>
+<accessrestrict>
+<p>Benutzbar ab: 1973</p>
+</accessrestrict>
+</c04>
+<c04 level="file">
+<did>
+<unitid type="bestellnummer">RWD 1/10</unitid>
+<unitid type="altsignatur">RWD 1/1</unitid>
+<abstract type="Bandnummer">8</abstract>
+<unitdate calendar="gregorian" era="ce">1944</unitdate>
+<abstract>Enthält:<lb/>8. Jg. Nr. 1-18</abstract>
+<origination label="final">Oberkommando der Wehrmacht</origination>
+<physloc>Benutzungsort: Freiburg</physloc>
+</did>
+<accessrestrict>
+<p>Benutzbar ab: 1974</p>
+</accessrestrict>
+</c04>
+</c03>
+<c03 level="file">
+<did>
+<unitid type="bestellnummer">RWD 1/2</unitid>
+<unittitle>"Die Wehrmacht" -Ausgabe A-</unittitle>
+<unitdate calendar="gregorian" era="ce">1939-1943</unitdate>
+<abstract>Enthält:<lb/>3. Jg. 1939: Nr. 18 (30. Juli 1939)<lb/>6. Jg. 1942: Nr. 20 (30. Sept. 1942)<lb/>7. Jg. 1943: Nr. 6 (17. März 1943), Nr. 19 (Sept. 1943), Nr. 25 (8. Dez. 1943)<lb/>weitere Ausgaben ohne Titelblatt, ohne Nummern und ohne Datum</abstract>
+<origination label="final">Oberkommando der Wehrmacht</origination>
+<physloc>Benutzungsort: Freiburg</physloc>
+</did>
+<accessrestrict>
+<p>Benutzbar ab: 1973</p>
+</accessrestrict>
+</c03>
+<c03 level="file">
+<did>
+<unitid type="bestellnummer">RWD 1/3</unitid>
+<unittitle>Sonderhefte</unittitle>
+<unitdate calendar="gregorian" era="ce">1937-1939</unitdate>
+<abstract>Enthält:<lb/>1937 "Manöver"<lb/>1938 "Unsere Wehrmacht in Österreich"<lb/>1938 "Italiens Wehrmacht und der Führerbesuch"<lb/>1939 "Wir kämpfen in Spanien"</abstract>
+<origination label="final">Oberkommando der Wehrmacht</origination>
+<physloc>Benutzungsort: Freiburg</physloc>
+</did>
+<accessrestrict>
+<p>Benutzbar ab: 1969</p>
+</accessrestrict>
+</c03>
+</c02>
+</c01>
+</dsc>
+</archdesc>
+</ead>

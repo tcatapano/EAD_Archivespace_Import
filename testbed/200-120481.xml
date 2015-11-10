@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+    <eadheader findaidstatus="4_cataloged_draft" repositoryencoding="iso15511"
+              countryencoding="iso3166-1"
+              dateencoding="iso8601"
+              langencoding="iso639-2b"
+              id="a0"
+              relatedencoding="dc"
+              scriptencoding="iso15924">
+        <eadid countrycode="us" mainagencycode="oru"
+             url="http://nwda.orbiscascade.org/ark:/80444/xv10507"
+             encodinganalog="identifier"
+             identifier="80444/xv10507">ORU_UA073.xml</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper encodinganalog="title">Guide to the Department of Sociology Records
+                    
+                <date encodinganalog="date" normal="1942/1970" type="inclusive">1942-1970</date>
+            </titleproper>
+                <titleproper type="filing" altrender="nodisplay">Department of Sociology records</titleproper>
+                <author encodinganalog="creator">Finding aid prepared by Sam Bouchat;Tanya Parlet</author>
+                <sponsor>Funding for production of this finding aid was provided through a grant awarded by the National Historical Publications and Records Commission (NHPRC).</sponsor>
+            </titlestmt>
+            <publicationstmt>
+                <publisher encodinganalog="publisher">Special Collections and University Archives, University of Oregon Libraries</publisher>
+                <address>
+                    <addressline>1299 University of Oregon</addressline>
+                    <addressline>Eugene, Oregon, 97403-1299</addressline>
+                    <addressline>(541) 346-3068</addressline>
+                    <addressline>spcarref@uoregon.edu</addressline>
+                </address>
+                <date encodinganalog="date" calendar="gregorian" era="ce" normal="2012">2012</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date calendar="gregorian" era="ce" normal="20120622">2012-06-22</date>
+            </creation>
+            <langusage>
+            <language langcode="eng" encodinganalog="language" scriptcode="latn">Finding aid is written in English</language>
+         </langusage>
+            <descrules>Finding aid based on DACS (<title render="italic">Describing Archives: A Content Standard</title>).</descrules>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection" relatedencoding="marc21" type="inventory">
+        <did id="a1">
+            <unittitle encodinganalog="245$a">Department of Sociology records</unittitle>
+            <unitid encodinganalog="099" countrycode="us" repositorycode="oru">UA 073</unitid>
+            <repository>
+                <corpname encodinganalog="852$a">Special Collections and University Archives, University of Oregon Libraries</corpname>
+            <address>
+                    <addressline>1299 University of Oregon</addressline>
+                    <addressline>Eugene, Oregon, 97403-1299</addressline>
+                    <addressline>(541) 346-3068</addressline>
+                    <addressline>spcarref@uoregon.edu</addressline>
+                </address>
+         </repository>
+            <langmaterial>Collection materials are in <language langcode="eng" encodinganalog="546">English</language>.</langmaterial>
+            <container type="box">4; 8-10 (10449; 10450; 10451)</container>
+            <container type="box">5-7 (10327)</container>
+            <container type="box">1-3 (00057)</container>
+            <physdesc>
+                <extent encodinganalog="300$a">15.0 linear feet</extent>
+                <extent encodinganalog="300$a">10 containers</extent>
+            </physdesc>
+            <unitdate normal="1942/1970" type="inclusive" encodinganalog="245$f">1942-1970</unitdate>
+            <abstract id="ref1" encodinganalog="5203_">The Department of Sociology at the University of Oregon was created in 1930. The collection contains records that document the functions, activities, and people of the department.</abstract>
+            <physdesc id="ref7">10 record storage boxes</physdesc>
+            <origination label="creator">
+                <corpname source="lcnaf" encodinganalog="110">Pacific Sociological Association.</corpname>
+            
+                <corpname source="lcnaf" encodinganalog="110">University of Oregon. Dept. of Sociology.</corpname>
+            </origination>
+            
+        </did>
+        <bioghist id="a2" encodinganalog="545">
+            <head>Biographical/Historical note</head>
+            <p>The University of Oregon offered its first sociology class in 1894 and in 1919 the School of Sociology was created. The present day Department of Sociology was created in 1930.</p>
+            <p>Source: UO Sociology website: http://sociology.uoregon.edu/about.php</p>
+        </bioghist>
+        <scopecontent id="a3" encodinganalog="5202_">
+            
+            <p>The collection contains office files, correspondence, publications, reports, Alpha Kappa Delta files, manuscripts, Pacific Sociological Association records and publications, NDEA fellowship files, and files from the Dean's office.</p>
+            <p>Material is organized by accession and includes the following material: (lists are not comprehensive)</p>
+            <p>Accession 00057.A: Office files, general files and correspondence, from 1942-1957.</p>
+            <p>Accession 10327.A: Correspondence (1957-1969), office files, manuscripts (1966-1970), and Pacific Sociological Association records and publications (1958-1969), Annual reports, circulation records, orders, and general organizational data from 1957-1969.</p>
+            <p>Accession 10449.A: Correspondence, Dean's office files, faculty news bulletin, instructor's reports, requisitions, summer session, Sociology program files, Graduate School of Social Work Committee, inventories, and NDEA fellowship files from 1957-1960.</p>
+            <p>Accession 10450.A: Alpha Kappa Delta files, Dean's office files, faculty bulletin, Graduate School newsletters, and instructor’s reports from 1960-1961.</p>
+            <p/>
+        </scopecontent>
+        <accessrestrict id="a14" encodinganalog="506">
+            
+            <p>Collection is open to the public.</p>
+            <p>Collection must be used in Special Collections  University Archives Reading Room.</p>
+            <p>Collection or parts of collection may be stored offsite. Please contact Special Collections  University Archives in advance of your visit to allow for transportation time.</p>
+            <p>Materials may need to be reviewed by the University Archivist for confidential materials prior to access.</p>
+        </accessrestrict>
+        <userestrict id="a15" encodinganalog="540">
+            
+            <p>Property rights reside with Special Collections  University Archives, University of Oregon Libraries. Copyright resides with the creators of the documents or their heirs. All requests for permission to publish collection materials must be submitted to Special Collections  University Archives. The reader must also obtain permission of the copyright holder.</p>
+            <p>Archival material may contain materials with sensitive or confidential information that is protected under federal and/or state right to privacy laws and other regulations.</p>
+            <p>Researchers are advised that the disclosure of certain information pertaining to identifiable living individuals represented in this collection without the consent of those individuals may have legal ramifications (e.g. a cause of action for invasion of privacy may arise if facts concerning an individual's private life are published that would be deemed highly offensive to a reasonable person) for which the University of Oregon assumes no responsibility.</p>
+            <p>If a researcher finds sensitive personal information in a collection, please bring it to the attention of the reading room staff.</p>
+        </userestrict>
+        <arrangement id="a4" encodinganalog="351">
+            
+            <p>Material within this collection has been organized by accession. This organization reflects the fact that the collection has been acquired in increments over time. This organization is also based on the decision not to merge the various accessions and organize them as a whole at this point in time, give the fact that future accruals are anticipated and/or that this organization is deemed sufficient for access.</p>
+            <p>Researchers should note that materials within a series or accession may overlap and/or relate to materials found in other accessions or initially processed materials. For example, correspondence may be found in all or only some groupings. In order to locate all relevant material within this collection, researchers may need to consult each accession.</p>
+            <p>Researchers should also note that similar materials can be arranged differently in each accession, depending on how the material is organized upon receipt or during initial processing. For instance, correspondence is one accession may be arranged alphabetically, while correspondence in another accession is arranged chronologically.</p>
+        </arrangement>
+        <processinfo id="a20" encodinganalog="583">
+            
+            <p>Collection processed by Tanya Parlet, December 2011.</p>
+            <p>This finding aid may be updated periodically to account for new acquisitions to the collection and/or revisions in arrangement and description.</p>
+            <p>This collection received a basic level of processing including minimal to no organization and rehousing.</p>
+            <p>Description information is drawn in part from information supplied with the collection and initial surveys of the contents.</p>
+        </processinfo>
+        <acqinfo id="a19" encodinganalog="541">
+            
+            <p>Donated by the Department of Sociology.</p>
+        </acqinfo>
+        <accruals id="a10" encodinganalog="584">
+            
+            <p>Continued transfers of records from the Department of Sociology are expected indefinitely.</p>
+        </accruals>
+        <prefercite id="a18" encodinganalog="524">
+            
+            <p>[Identification of item], Department of Sociology records, UA 073, Special Collections  University Archives, University of Oregon Libraries, Eugene, Oregon.</p>
+        </prefercite>
+        <controlaccess id="a12">
+         <controlaccess>
+            <corpname source="lcnaf" encodinganalog="610">Pacific Sociological Association--Records and correspondence.</corpname>
+            <corpname source="lcnaf" encodinganalog="610">University of Oregon. Dept. of Sociology--Records and correspondence.</corpname>
+         </controlaccess>
+         <controlaccess>
+            <subject source="lcsh" encodinganalog="650">Education, Higher--Oregon--Eugene</subject>
+            <subject source="lcsh" encodinganalog="650">Sociology--Study and teaching (Higher)--Oregon--Eugene</subject>
+            <subject source="lcsh" encodinganalog="650">Universities and colleges--Oregon--Eugene</subject>
+         </controlaccess>
+         <controlaccess>
+            <subject source="nwda" encodinganalog="690" altrender="nodisplay">Colleges and Universities</subject>
+         </controlaccess>
+         <controlaccess>
+            <genreform source="aat" encodinganalog="655">Correspondence</genreform>
+            <genreform source="aat" encodinganalog="655">Office files</genreform>
+            <genreform source="aat" encodinganalog="655">Reports</genreform>
+         </controlaccess>
+      </controlaccess>
+        
+    </archdesc>
+</ead>

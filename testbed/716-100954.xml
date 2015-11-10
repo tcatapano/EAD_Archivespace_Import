@@ -1,0 +1,1193 @@
+
+<ead audience="external" 
+     xmlns="urn:isbn:1-931666-22-9"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.loc.gov/ead/ http://www.loc.gov/ead/ead.xsd">
+   <eadheader langencoding="iso639-2b" audience="external" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924" relatedencoding="MARC21">
+      <eadid encodinganalog="856$u" mainagencycode="US-LNT" countrycode="US" identifier="ArchonInternalCollectionID:163">LaRC/Manuscripts Collection 986</eadid>
+      <filedesc>
+                  <titlestmt>
+               <titleproper encodinganalog="245">Guide to the Knights dOrleans records</titleproper>
+               <titleproper type="filing">Knights dOrleans records</titleproper>
+                        <author encodinganalog="245$c">Finding Aid Authors: Eira Tansey.</author>
+                  </titlestmt>
+         <publicationstmt>
+            <p> Copyright 2011 Louisiana Research Collection.  All rights reserved.</p>
+                           <publisher encodinganalog="260$b">Louisiana Research Collection</publisher>
+                        <date encodinganalog="260$c" type="publication" normal="2011-12-13">2011-12-13</date>
+
+                           <address>
+                  <addressline>202 Jones Hall</addressline>
+                                 <addressline>6801 Freret Street</addressline>
+                                 <addressline>New Orleans, LA, 70118</addressline>
+                                 <addressline>URL: http://specialcollections.tulane.edu/archon</addressline>
+                                 <addressline>Email: sbenjam@tulane.edu</addressline>
+                                 <addressline>Phone: 504-865-5685</addressline>
+                           </address>
+               
+         </publicationstmt>
+      </filedesc>
+
+      <profiledesc>
+         <creation encodinganalog="500">This finding aid was encoding in EAD by Archon 3.21 from an SQL database source on <date type="encoded" normal="2012-07-18">July 18th, 2012</date>.</creation>
+                           <langusage encodinganalog="546">The collection description/finding aid is written in <language encodinganalog="041" langcode="eng">English</language></langusage>
+                     </profiledesc>
+
+
+                        <revisiondesc>
+            <change encodinganalog="583">
+               <date type="encoded" normal="2012-07-18">July 18th, 2012</date>
+                                       <item>Finding aid information entered in Archon by LAC Group in 2011. Revised by LAC Group 9/15/11.</item>
+                             </change>
+          </revisiondesc>
+
+      </eadheader>
+
+      <frontmatter>
+         <titlepage>
+            <titleproper encodinganalog="245">Guide to the Knights dOrleans records
+                              <date normal="1993/2006" encodinganalog="260$c">1993/2006</date>
+                        </titleproper>
+               <publisher encodinganalog="260$b">Louisiana Research Collection</publisher>
+               </titlepage>
+            </frontmatter>
+
+            <archdesc level="collection" type="inventory" audience="external" relatedencoding="MARC21">
+               <did>
+                  <head>Overview of the Collection</head>
+                           <unittitle label="Collection Title" encodinganalog="245">Knights dOrleans records                              <unitdate label="Dates" encodinganalog="245$f" type="inclusive" normal="1993/2006">1993-2006</unitdate>
+                              </unittitle>
+                  <unitid encodinganalog="035" label="Identification" repositorycode="US-LNT" countrycode="US">LaRC/Manuscripts Collection 986</unitid>
+                     <origination label="Creator" encodinganalog="245$c">
+                     <persname encodinganalog="100" normal="Knights dOrleans (Organization)" source="lcnaf" role="Collector">Knights dOrleans (Organization)</persname>
+                           </origination>
+                           <physdesc label="Physical Description"><extent encodinganalog="300" type="Boxes">5.00</extent></physdesc>
+                           <physdesc label="Alternate Extent Statement" encodinganalog="300$a">2.5 linear feet</physdesc>
+         
+               <langmaterial encodinganalog="546" label="Language of Materials">
+            		<language encodinganalog="041" langcode="eng">English</language>
+               </langmaterial>
+                        <repository encodinganalog="852$b" label="Repository">
+                              <corpname>Louisiana Research Collection</corpname>
+                              <address>
+                     <addressline>202 Jones Hall</addressline>
+                                    <addressline>6801 Freret Street</addressline>
+                                       <addressline>New Orleans, LA, </addressline>
+                                    <addressline>URL: http://specialcollections.tulane.edu/archon</addressline>
+                                    <addressline>Email: sbenjam@tulane.edu</addressline>
+                                    <addressline>Phone: 504-865-5685</addressline>
+                              </address>
+            </repository>
+
+
+                        
+      </did>
+
+
+      <!--COLLECTION LEVEL METADATA: -->
+               <bioghist altrender="Biographical Information" encodinganalog="545"><head>Biographical Information:</head>
+                              <p>The Knights dOrleans was founded in 1974. According to the organizations bylaws, the purpose of this organization shall be the binding together of persons with shared interests in leather and levi and to promote brotherhood, service and aid to the community. The New Orleans-based club assists various Carnival krewes with staffing, presenting, and providing security for events. It also raises funds for its annual Anniversary Run and for other club, social, civic, and charitable activities.</p>
+                           </bioghist>
+         
+
+            <!-- CONTROLLED ACCESS / SUBJECT TERMS -->
+
+                        <controlaccess>
+                     <head>Access Terms</head>
+
+                     <p>This Collection is indexed under the following controlled access subject terms.</p>
+                                 <controlaccess>
+                              <head>Corporate Name:</head>
+                                       <corpname encodinganalog="610" source="lcnaf" role="subject">Knights dOrleans (Organization)</corpname>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Genre/Form of Material:</head>
+                                       <genreform encodinganalog="655" source="aat">Administrative records.</genreform>
+                                       <genreform encodinganalog="655" source="aat">Application forms.</genreform>
+                                       <genreform encodinganalog="655" source="aat">Brochures.</genreform>
+                                       <genreform encodinganalog="655" source="aat">Correspondence.</genreform>
+                                       <genreform encodinganalog="655" source="aat">Financial records.</genreform>
+                                       <genreform encodinganalog="655" source="aat">Membership lists.</genreform>
+                                       <genreform encodinganalog="655" source="aat">Minutes.</genreform>
+                                       <genreform encodinganalog="655" source="aat">Photographs.</genreform>
+                                       <genreform encodinganalog="655" source="aat">Stationery.</genreform>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Geographic Name:</head>
+                                       <geogname encodinganalog="651" source="lcsh" role="subject">New Orleans (La.) -- Social life and customs -- 20th century.</geogname>
+                                       <geogname encodinganalog="651" source="lcsh" role="subject">New Orleans (La.) -- Social life and customs -- 21st century.</geogname>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Topical Term:</head>
+                                       <subject encodinganalog="650" source="lcsh">Carnival -- Louisiana -- New Orleans.</subject>
+                                       <subject encodinganalog="650" source="lcsh">Gay clubs -- Louisiana -- New Orleans.</subject>
+                                       <subject encodinganalog="650" source="lcsh">Gay community -- Louisiana -- New Orleans.</subject>
+                                       <subject encodinganalog="650" source="lcsh">Gays -- Louisiana -- New Orleans.</subject>
+                                       <subject encodinganalog="650" source="lcsh">Leather clubs (Organizations)</subject>
+                                 </controlaccess>
+            </controlaccess>
+            
+
+         <!-- END CONTROLLED ACCESS TERMS -->
+
+            
+            <!-- DIGITAL ARCHIVAL OBJECTS -->
+                              <!-- END DIGITAL ARCHIVAL OBJECTS -->
+                     <!-- ADMINISTRATIVE INFORMATION -->
+
+                  <descgrp>
+                     <head>Administrative Information</head>
+                              <acqinfo encodinganalog="541">
+                           <head>Acquisition Information:</head>
+                           <p>Gift.</p>
+                        </acqinfo>
+                  <accruals encodinganalog="584">
+                     <head>Accruals:</head>
+                                          <p>Additions to the collection may occur in the future.</p>
+                                 </accruals>
+                                 <processinfo encodinganalog="583">
+                           <head>Processing Information:</head>
+                                    <p>Collection processed by Eira Tansey in July 2009. Archon collection-level record originally created in May 2010.</p>
+                              </processinfo>
+                              <userestrict encodinganalog="540">
+                           <head>Conditions Governing Use:</head>
+                                          <p>Physical rights are retained by the Louisiana Research Collection. Copyright is retained in accordance with U.S. copyright laws.</p>
+                              </userestrict>
+                     <accessrestrict encodinganalog="506">
+                        <head>Conditions Governing Access:</head>
+                                          <p>Collection is open to the public. No known restrictions.</p>
+                           </accessrestrict>
+                              <prefercite encodinganalog="524">
+                     <head>Preferred Citation:</head>
+                     <p>Knights dOrleans records, Manuscripts Collection 986, Louisiana Research Collection, Howard-Tilton Memorial Library, Tulane University, New Orleans, LA 70118.</p>
+                     </prefercite>
+                     </descgrp>
+
+                           <arrangement encodinganalog="351">
+                  <head>Arrangement of Materials:</head>
+                                 <p>Arranged generally in chronological order, to accommodate accretions. The collection consists of 5 boxes. It is 2.5 linear feet.</p>
+                        </arrangement>
+            <scopecontent>
+               <head>Scope and Contents</head>
+                                 <p>The collection includes the clubs constitution and bylaws, minutes, brochures, stationery, membership rosters, financial records, property inventory, photographs, correspondence, and memorabilia of activities. The club assists various Carnival krewes with staffing, presenting, and providing security for events. It also raises funds for its annual Anniversary Run and for other club, social, civic, and charitable activities.</p>
+                        </scopecontent>
+            
+
+
+         <!-- END ADMINISTRATIVE INFORMATION -->
+
+         <!-- END COLLECTION LEVEL METADATA -->
+
+                        <!-- BEGIN SUBORDINATE COMPONENTS -->
+            <dsc type="combined">
+               <head>Detailed List of Contents</head>
+               <c01 level="">
+   <did>
+      <unitid label="ArchonID" audience="internal">id118154</unitid>
+         	<container type="Box">1</container>
+      <unittitle>Constitution, bylaws, membership, and early history</unittitle>
+               </did>
+         <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id127785</unitid>
+         	<container type="Box">1</container>
+	<container type="Folder">1</container>
+      <unittitle>Constitution and bylaws</unittitle>
+                  <unitdate>1996 and undated</unitdate>
+               </did>
+         
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id127786</unitid>
+         	<container type="Box">1</container>
+	<container type="Folder">2</container>
+      <unittitle>Brochures, stationery, and stickers</unittitle>
+                  <unitdate>undated</unitdate>
+               </did>
+         
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id127787</unitid>
+         	<container type="Box">1</container>
+	<container type="Folder">3</container>
+      <unittitle>Dues</unittitle>
+                  <unitdate>2000-2002</unitdate>
+               </did>
+         
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id127788</unitid>
+         	<container type="Box">1</container>
+	<container type="Folder">4</container>
+      <unittitle>Membership roster</unittitle>
+                  <unitdate>1999 and undated</unitdate>
+               </did>
+         
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id127789</unitid>
+         	<container type="Box">1</container>
+	<container type="Folder">5</container>
+      <unittitle>Club property inventory</unittitle>
+                  <unitdate>1997-2004</unitdate>
+               </did>
+         
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id127790</unitid>
+         	<container type="Box">1</container>
+	<container type="Folder">6</container>
+      <unittitle>Photographs</unittitle>
+                  <unitdate>undated</unitdate>
+               </did>
+         
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id127791</unitid>
+         	<container type="Box">1</container>
+	<container type="Folder">7</container>
+      <unittitle>Membership forms/applications</unittitle>
+                  <unitdate>1980-2001</unitdate>
+               </did>
+         
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id127792</unitid>
+         	<container type="Box">1</container>
+	<container type="Folder">8</container>
+      <unittitle>Incomplete set of run pins</unittitle>
+                  <unitdate>1999 and undated</unitdate>
+               </did>
+         
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id127793</unitid>
+         	<container type="Box">1</container>
+	<container type="Folder">9</container>
+      <unittitle>Club records and papers</unittitle>
+                  <unitdate>prior 1993</unitdate>
+               </did>
+         
+</c02>
+   
+</c01>
+   <c01 level="">
+   <did>
+      <unitid label="ArchonID" audience="internal">id118155</unitid>
+         	<container type="Box">2</container>
+      <unittitle>Correspondence, 20th anniversary run, and records</unittitle>
+                  <unitdate>1993-2004; 1997-2000</unitdate>
+               </did>
+         <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id127794</unitid>
+         	<container type="Box">2</container>
+	<container type="Folder">1</container>
+      <unittitle>Correspondence</unittitle>
+                  <unitdate>1993</unitdate>
+               </did>
+         
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id127795</unitid>
+         	<container type="Box">2</container>
+	<container type="Folder">2</container>
+      <unittitle>Correspondence</unittitle>
+                  <unitdate>1999</unitdate>
+               </did>
+         
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id127796</unitid>
+         	<container type="Box">2</container>
+	<container type="Folder">3</container>
+      <unittitle>Correspondence</unittitle>
+                  <unitdate>2000</unitdate>
+               </did>
+         
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id127797</unitid>
+         	<container type="Box">2</container>
+	<container type="Folder">4</container>
+      <unittitle>Correspondence</unittitle>
+                  <unitdate>2001</unitdate>
+               </did>
+         
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id127798</unitid>
+         	<container type="Box">2</container>
+	<container type="Folder">5</container>
+      <unittitle>Correspondence</unittitle>
+                  <unitdate>2002</unitdate>
+               </did>
+         
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id127799</unitid>
+         	<container type="Box">2</container>
+	<container type="Folder">6</container>
+      <unittitle>Correspondence</unittitle>
+                  <unitdate>2003</unitdate>
+               </did>
+         
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id127800</unitid>
+         	<container type="Box">2</container>
+	<container type="Folder">7</container>
+      <unittitle>Correspondence</unittitle>
+                  <unitdate>2004</unitdate>
+               </did>
+         
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id127801</unitid>
+         	<container type="Box">2</container>
+	<container type="Folder">8</container>
+      <unittitle>Twentieth Anniversary Run</unittitle>
+                  <unitdate>1994 September/October</unitdate>
+               </did>
+         
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id127802</unitid>
+         	<container type="Box">2</container>
+	<container type="Folder">9</container>
+      <unittitle>Records</unittitle>
+                  <unitdate>1997 February</unitdate>
+               </did>
+         
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id127803</unitid>
+         	<container type="Box">2</container>
+	<container type="Folder">10</container>
+      <unittitle>Records</unittitle>
+                  <unitdate>1997 March</unitdate>
+               </did>
+         
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id127804</unitid>
+         	<container type="Box">2</container>
+	<container type="Folder">11</container>
+      <unittitle>Records</unittitle>
+                  <unitdate>1997 May</unitdate>
+               </did>
+         
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id127805</unitid>
+         	<container type="Box">2</container>
+	<container type="Folder">12</container>
+      <unittitle>Records</unittitle>
+                  <unitdate>1997 August</unitdate>
+               </did>
+         
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id127806</unitid>
+         	<container type="Box">2</container>
+	<container type="Folder">13</container>
+      <unittitle>Records</unittitle>
+                  <unitdate>1997 September</unitdate>
+               </did>
+         
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id127807</unitid>
+         	<container type="Box">2</container>
+	<container type="Folder">14</container>
+      <unittitle>Records</unittitle>
+                  <unitdate>1997 October</unitdate>
+               </did>
+         
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id127808</unitid>
+         	<container type="Box">2</container>
+	<container type="Folder">15</container>
+      <unittitle>Records</unittitle>
+                  <unitdate>1998 October</unitdate>
+               </did>
+         
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id127809</unitid>
+         	<container type="Box">2</container>
+	<container type="Folder">16</container>
+      <unittitle>Records</unittitle>
+                  <unitdate>1998 December</unitdate>
+               </did>
+         
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id127810</unitid>
+         	<container type="Box">2</container>
+	<container type="Folder">17</container>
+      <unittitle>Records</unittitle>
+                  <unitdate>1999 January</unitdate>
+               </did>
+         
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id127811</unitid>
+         	<container type="Box">2</container>
+	<container type="Folder">18</container>
+      <unittitle>Records</unittitle>
+                  <unitdate>1999 February</unitdate>
+               </did>
+         
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id127812</unitid>
+         	<container type="Box">2</container>
+	<container type="Folder">19</container>
+      <unittitle>Records</unittitle>
+                  <unitdate>1999 May</unitdate>
+               </did>
+         
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id127813</unitid>
+         	<container type="Box">2</container>
+	<container type="Folder">20</container>
+      <unittitle>Records</unittitle>
+                  <unitdate>1999 June</unitdate>
+               </did>
+         
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id127814</unitid>
+         	<container type="Box">2</container>
+	<container type="Folder">21</container>
+      <unittitle>Records</unittitle>
+                  <unitdate>1999 July</unitdate>
+               </did>
+         
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id127815</unitid>
+         	<container type="Box">2</container>
+	<container type="Folder">22</container>
+      <unittitle>Records</unittitle>
+                  <unitdate>1999 August</unitdate>
+               </did>
+         
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id127816</unitid>
+         	<container type="Box">2</container>
+	<container type="Folder">23</container>
+      <unittitle>Records</unittitle>
+                  <unitdate>1999 September</unitdate>
+               </did>
+         
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id127817</unitid>
+         	<container type="Box">2</container>
+	<container type="Folder">24</container>
+      <unittitle>Records</unittitle>
+                  <unitdate>1999 October</unitdate>
+               </did>
+         
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id127818</unitid>
+         	<container type="Box">2</container>
+	<container type="Folder">25</container>
+      <unittitle>Records</unittitle>
+                  <unitdate>1999 November</unitdate>
+               </did>
+         
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id127819</unitid>
+         	<container type="Box">2</container>
+	<container type="Folder">26</container>
+      <unittitle>Records</unittitle>
+                  <unitdate>1999 December</unitdate>
+               </did>
+         
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id127820</unitid>
+         	<container type="Box">2</container>
+	<container type="Folder">27</container>
+      <unittitle>Records</unittitle>
+                  <unitdate>2000 January</unitdate>
+               </did>
+         
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id127821</unitid>
+         	<container type="Box">2</container>
+	<container type="Folder">28</container>
+      <unittitle>Records</unittitle>
+                  <unitdate>2000 February</unitdate>
+               </did>
+         
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id127822</unitid>
+         	<container type="Box">2</container>
+	<container type="Folder">29</container>
+      <unittitle>Records</unittitle>
+                  <unitdate>2000 March</unitdate>
+               </did>
+         
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id127823</unitid>
+         	<container type="Box">2</container>
+	<container type="Folder">30</container>
+      <unittitle>Records</unittitle>
+                  <unitdate>2000 April</unitdate>
+               </did>
+         
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id127824</unitid>
+         	<container type="Box">2</container>
+	<container type="Folder">31</container>
+      <unittitle>Records</unittitle>
+                  <unitdate>2000 May</unitdate>
+               </did>
+         
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id127825</unitid>
+         	<container type="Box">2</container>
+	<container type="Folder">32</container>
+      <unittitle>Records</unittitle>
+                  <unitdate>2000 June</unitdate>
+               </did>
+         
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id127826</unitid>
+         	<container type="Box">2</container>
+	<container type="Folder">33</container>
+      <unittitle>Records</unittitle>
+                  <unitdate>2000 July</unitdate>
+               </did>
+         
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id127827</unitid>
+         	<container type="Box">2</container>
+	<container type="Folder">34</container>
+      <unittitle>Records</unittitle>
+                  <unitdate>2000 August</unitdate>
+               </did>
+         
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id127828</unitid>
+         	<container type="Box">2</container>
+	<container type="Folder">35</container>
+      <unittitle>Records</unittitle>
+                  <unitdate>2000 September</unitdate>
+               </did>
+         
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id127829</unitid>
+         	<container type="Box">2</container>
+	<container type="Folder">36</container>
+      <unittitle>Records</unittitle>
+                  <unitdate>2000 October</unitdate>
+               </did>
+         
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id127830</unitid>
+         	<container type="Box">2</container>
+	<container type="Folder">37</container>
+      <unittitle>Records</unittitle>
+                  <unitdate>2000 November</unitdate>
+               </did>
+         
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id127831</unitid>
+         	<container type="Box">2</container>
+	<container type="Folder">38</container>
+      <unittitle>Records</unittitle>
+                  <unitdate>2000 December</unitdate>
+               </did>
+         
+</c02>
+   
+</c01>
+   <c01 level="">
+   <did>
+      <unitid label="ArchonID" audience="internal">id118156</unitid>
+         	<container type="Box">3</container>
+      <unittitle>Records and Mr. and Mrs. Knight contest</unittitle>
+                  <unitdate>2001-2004</unitdate>
+               </did>
+         <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id127832</unitid>
+         	<container type="Box">3</container>
+	<container type="Folder">1</container>
+      <unittitle>Records</unittitle>
+                  <unitdate>2001 January</unitdate>
+               </did>
+         
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id127833</unitid>
+         	<container type="Box">3</container>
+	<container type="Folder">2</container>
+      <unittitle>Records</unittitle>
+                  <unitdate>2001 February</unitdate>
+               </did>
+         
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id127834</unitid>
+         	<container type="Box">3</container>
+	<container type="Folder">3</container>
+      <unittitle>Records</unittitle>
+                  <unitdate>2001 March</unitdate>
+               </did>
+         
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id127835</unitid>
+         	<container type="Box">3</container>
+	<container type="Folder">4</container>
+      <unittitle>Records</unittitle>
+                  <unitdate>2001 April</unitdate>
+               </did>
+         
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id127836</unitid>
+         	<container type="Box">3</container>
+	<container type="Folder">5</container>
+      <unittitle>Records</unittitle>
+                  <unitdate>2001 May</unitdate>
+               </did>
+         
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id127837</unitid>
+         	<container type="Box">3</container>
+	<container type="Folder">6</container>
+      <unittitle>Records</unittitle>
+                  <unitdate>2001 June</unitdate>
+               </did>
+         
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id127838</unitid>
+         	<container type="Box">3</container>
+	<container type="Folder">7</container>
+      <unittitle>Records</unittitle>
+                  <unitdate>2001 July</unitdate>
+               </did>
+         
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id127839</unitid>
+         	<container type="Box">3</container>
+	<container type="Folder">8</container>
+      <unittitle>Records</unittitle>
+                  <unitdate>2001 August</unitdate>
+               </did>
+         
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id127840</unitid>
+         	<container type="Box">3</container>
+	<container type="Folder">9</container>
+      <unittitle>Records</unittitle>
+                  <unitdate>2001 September</unitdate>
+               </did>
+         
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id127841</unitid>
+         	<container type="Box">3</container>
+	<container type="Folder">10</container>
+      <unittitle>Records</unittitle>
+                  <unitdate>2001 October</unitdate>
+               </did>
+         
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id127842</unitid>
+         	<container type="Box">3</container>
+	<container type="Folder">11</container>
+      <unittitle>Records</unittitle>
+                  <unitdate>2001 November</unitdate>
+               </did>
+         
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id127843</unitid>
+         	<container type="Box">3</container>
+	<container type="Folder">12</container>
+      <unittitle>Records</unittitle>
+                  <unitdate>2001 December</unitdate>
+               </did>
+         
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id127844</unitid>
+         	<container type="Box">3</container>
+	<container type="Folder">13</container>
+      <unittitle>Records</unittitle>
+                  <unitdate>2002 January</unitdate>
+               </did>
+         
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id127845</unitid>
+         	<container type="Box">3</container>
+	<container type="Folder">14</container>
+      <unittitle>Records</unittitle>
+                  <unitdate>2002 February</unitdate>
+               </did>
+         
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id127846</unitid>
+         	<container type="Box">3</container>
+	<container type="Folder">15</container>
+      <unittitle>Records</unittitle>
+                  <unitdate>2002 March</unitdate>
+               </did>
+         
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id127847</unitid>
+         	<container type="Box">3</container>
+	<container type="Folder">16</container>
+      <unittitle>Records</unittitle>
+                  <unitdate>2002 April</unitdate>
+               </did>
+         
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id127848</unitid>
+         	<container type="Box">3</container>
+	<container type="Folder">17</container>
+      <unittitle>Records</unittitle>
+                  <unitdate>2002 May</unitdate>
+               </did>
+         
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id127849</unitid>
+         	<container type="Box">3</container>
+	<container type="Folder">18</container>
+      <unittitle>Mr. and Mrs. Knight Contest</unittitle>
+                  <unitdate>2002 May 17</unitdate>
+               </did>
+         
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id127850</unitid>
+         	<container type="Box">3</container>
+	<container type="Folder">19</container>
+      <unittitle>Records</unittitle>
+                  <unitdate>2002 June</unitdate>
+               </did>
+         
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id127851</unitid>
+         	<container type="Box">3</container>
+	<container type="Folder">20</container>
+      <unittitle>Records</unittitle>
+                  <unitdate>2002 July</unitdate>
+               </did>
+         
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id127852</unitid>
+         	<container type="Box">3</container>
+	<container type="Folder">21</container>
+      <unittitle>Records</unittitle>
+                  <unitdate>2002 August</unitdate>
+               </did>
+         
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id127853</unitid>
+         	<container type="Box">3</container>
+	<container type="Folder">22</container>
+      <unittitle>Records</unittitle>
+                  <unitdate>2002 September</unitdate>
+               </did>
+         
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id127854</unitid>
+         	<container type="Box">3</container>
+	<container type="Folder">23</container>
+      <unittitle>Records</unittitle>
+                  <unitdate>2002 October</unitdate>
+               </did>
+         
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id127855</unitid>
+         	<container type="Box">3</container>
+	<container type="Folder">24</container>
+      <unittitle>Records</unittitle>
+                  <unitdate>2002 November</unitdate>
+               </did>
+         
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id127856</unitid>
+         	<container type="Box">3</container>
+	<container type="Folder">25</container>
+      <unittitle>Records</unittitle>
+                  <unitdate>2002 December</unitdate>
+               </did>
+         
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id127857</unitid>
+         	<container type="Box">3</container>
+	<container type="Folder">26</container>
+      <unittitle>Records</unittitle>
+                  <unitdate>2003 January</unitdate>
+               </did>
+         
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id127858</unitid>
+         	<container type="Box">3</container>
+	<container type="Folder">27</container>
+      <unittitle>Records</unittitle>
+                  <unitdate>2003 February</unitdate>
+               </did>
+         
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id127859</unitid>
+         	<container type="Box">3</container>
+	<container type="Folder">28</container>
+      <unittitle>Records</unittitle>
+                  <unitdate>2003 March</unitdate>
+               </did>
+         
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id127860</unitid>
+         	<container type="Box">3</container>
+	<container type="Folder">29</container>
+      <unittitle>Records</unittitle>
+                  <unitdate>2003 April</unitdate>
+               </did>
+         
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id127861</unitid>
+         	<container type="Box">3</container>
+	<container type="Folder">30</container>
+      <unittitle>Records</unittitle>
+                  <unitdate>2003 May</unitdate>
+               </did>
+         
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id127862</unitid>
+         	<container type="Box">3</container>
+	<container type="Folder">31</container>
+      <unittitle>Records</unittitle>
+                  <unitdate>2003 June</unitdate>
+               </did>
+         
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id127863</unitid>
+         	<container type="Box">3</container>
+	<container type="Folder">32</container>
+      <unittitle>Records</unittitle>
+                  <unitdate>2003 July</unitdate>
+               </did>
+         
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id127864</unitid>
+         	<container type="Box">3</container>
+	<container type="Folder">33</container>
+      <unittitle>Records</unittitle>
+                  <unitdate>2003 August</unitdate>
+               </did>
+         
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id127865</unitid>
+         	<container type="Box">3</container>
+	<container type="Folder">34</container>
+      <unittitle>Records</unittitle>
+                  <unitdate>2003 September</unitdate>
+               </did>
+         
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id127866</unitid>
+         	<container type="Box">3</container>
+	<container type="Folder">35</container>
+      <unittitle>Records</unittitle>
+                  <unitdate>2003 October</unitdate>
+               </did>
+         
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id127867</unitid>
+         	<container type="Box">3</container>
+	<container type="Folder">36</container>
+      <unittitle>Records</unittitle>
+                  <unitdate>2003 November</unitdate>
+               </did>
+         
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id127868</unitid>
+         	<container type="Box">3</container>
+	<container type="Folder">37</container>
+      <unittitle>Records</unittitle>
+                  <unitdate>2003 December</unitdate>
+               </did>
+         
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id127869</unitid>
+         	<container type="Box">3</container>
+	<container type="Folder">38</container>
+      <unittitle>Records</unittitle>
+                  <unitdate>2004 January</unitdate>
+               </did>
+         
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id127870</unitid>
+         	<container type="Box">3</container>
+	<container type="Folder">39</container>
+      <unittitle>Records</unittitle>
+                  <unitdate>2004 February</unitdate>
+               </did>
+         
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id127871</unitid>
+         	<container type="Box">3</container>
+	<container type="Folder">40</container>
+      <unittitle>Records</unittitle>
+                  <unitdate>2004 March</unitdate>
+               </did>
+         
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id127872</unitid>
+         	<container type="Box">3</container>
+	<container type="Folder">41</container>
+      <unittitle>Records</unittitle>
+                  <unitdate>2004 April</unitdate>
+               </did>
+         
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id127873</unitid>
+         	<container type="Box">3</container>
+	<container type="Folder">42</container>
+      <unittitle>Records</unittitle>
+                  <unitdate>2004 May</unitdate>
+               </did>
+         
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id127874</unitid>
+         	<container type="Box">3</container>
+	<container type="Folder">43</container>
+      <unittitle>Records</unittitle>
+                  <unitdate>2004 June</unitdate>
+               </did>
+         
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id127875</unitid>
+         	<container type="Box">3</container>
+	<container type="Folder">44</container>
+      <unittitle>Records</unittitle>
+                  <unitdate>2004 July</unitdate>
+               </did>
+         
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id127876</unitid>
+         	<container type="Box">3</container>
+	<container type="Folder">45</container>
+      <unittitle>Records</unittitle>
+                  <unitdate>2004 August</unitdate>
+               </did>
+         
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id127877</unitid>
+         	<container type="Box">3</container>
+	<container type="Folder">46</container>
+      <unittitle>Records</unittitle>
+                  <unitdate>2004 September</unitdate>
+               </did>
+         
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id127878</unitid>
+         	<container type="Box">3</container>
+	<container type="Folder">47</container>
+      <unittitle>Records</unittitle>
+                  <unitdate>2004 October</unitdate>
+               </did>
+         
+</c02>
+   
+</c01>
+   <c01 level="">
+   <did>
+      <unitid label="ArchonID" audience="internal">id118157</unitid>
+         	<container type="Box">4</container>
+      <unittitle>Records</unittitle>
+                  <unitdate>2005-2006</unitdate>
+               </did>
+         <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id127879</unitid>
+         	<container type="Box">4</container>
+	<container type="Folder">1</container>
+      <unittitle>Records</unittitle>
+                  <unitdate>2005</unitdate>
+               </did>
+         
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id127880</unitid>
+         	<container type="Box">4</container>
+	<container type="Folder">2</container>
+      <unittitle>Records</unittitle>
+                  <unitdate>2006</unitdate>
+               </did>
+         
+</c02>
+   
+</c01>
+   <c01 level="">
+   <did>
+      <unitid label="ArchonID" audience="internal">id118158</unitid>
+         	<container type="Box">5</container>
+      <unittitle>Unprocessed additions</unittitle>
+               </did>
+         
+</c01>
+   
+            </dsc>
+               <!-- END SUBORDINATE COMPONENTS -->
+   </archdesc>
+</ead>
+

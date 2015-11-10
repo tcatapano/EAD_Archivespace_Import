@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+<eadheader id="a0" langencoding="iso639-2b" scriptencoding="iso15924" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" relatedencoding="dc">
+<eadid countrycode="us" encodinganalog="identifier" mainagencycode="MtBC" identifier="80444/xv88983" url="http://nwda.orbiscascade.org/ark:/80444/xv88983">MZFCollection0851.xml</eadid>
+<filedesc><titlestmt>
+<titleproper encodinganalog="title">Guide to the Fort Ellis and Gustavus C. Doane Collection <date era="ce" calendar="gregorian" encodinganalog="date" normal="1865/1930">1865-1930</date></titleproper>
+<titleproper type="filing" altrender="nodisplay">Fort Ellis and Gustavus C. Doane Collection</titleproper>
+<author encodinganalog="creator">Kim Allen Scott, 2009</author>
+<sponsor encodinganalog="contributor">Funding for encoding this finding aid was provided by a grant from the National Endowment for the Humanities</sponsor></titlestmt>
+<publicationstmt>
+<publisher encodinganalog="publisher">Montana State University-Bozeman Library</publisher>
+<address><addressline>Merrill G Burlingame Special Collections</addressline><addressline>P.O. Box 173320</addressline><addressline>Bozeman, MT 59717-3320</addressline><addressline>United States</addressline><addressline>Phone (406) 994-4242</addressline><addressline>Fax (406) 994-2851</addressline><addressline>http://www.lib.montana.edu/archives/</addressline><addressline>University Archivist</addressline><addressline>spcoll@www.lib.montana.edu</addressline></address></publicationstmt>
+</filedesc>
+<profiledesc><creation>Finding aid encoded by <emph render="italic"><emph render="underline">ArchProteus</emph></emph> <date era="ce" calendar="gregorian" normal="2012">2012</date></creation>
+<langusage>Finding aid written in <language langcode="eng" encodinganalog="language" scriptcode="latn">English</language></langusage>
+<descrules>Finding aid based on DACS (<title render="italic">Describing Archives: A Content Standard</title>)</descrules></profiledesc>
+</eadheader>
+<archdesc level="collection" type="inventory" relatedencoding="marc21">
+<did id="a1">
+    <repository><corpname encodinganalog="852$a">Montana State University-Bozeman Library, Merrill G Burlingame Special Collections</corpname>
+        <address><addressline>P.O. Box 173320</addressline><addressline>Bozeman, MT 59717-3320</addressline><addressline>United States</addressline><addressline>Phone (406) 994-4242</addressline><addressline>Fax (406) 994-2851</addressline><addressline>http://www.lib.montana.edu/archives/</addressline><addressline>University Archivist</addressline><addressline>spcoll@www.lib.montana.edu</addressline></address></repository>
+<unitid encodinganalog="099" countrycode="us" repositorycode="MtBC" type="collection">Collection 851, MtBC, us</unitid>
+<unittitle encodinganalog="245$a" type="collection">Fort Ellis and Gustavus C. Doane Collection</unittitle>
+<unitdate datechar="creation" era="ce" calendar="gregorian" encodinganalog="245$f" normal="1865/1930">1865-1930</unitdate>
+<physdesc><extent encodinganalog="300$a">.8 linear feet</extent></physdesc>
+<abstract encodinganalog="5203_">The Fort Ellis and Gustavus C. Doane Collection contains papers collected by the Museum of the Rockies pertaining to both Fort Ellis and Lieutenant Doane, including: the complete handwritten report of Doane regarding the Howgate expedition of 1880; quartermaster and ordnance returns from the Second Cavalry signed by Doane and lieutenant E.J. McClernand at various posts including Fort Ellis and Fort Maginnis, Montana Territory, and the Presido, San Francisco, California; military returns from the first battalion Mississippi Marine brigade 1865-1867; prescription book from Dr. John H. Kuhle, Fort Ellis, 1876; file of correspondence by Mary L. Doane; various printed materials pertaining to military matters and the Grand Army of the Republic.</abstract>
+<langmaterial encodinganalog="546">Collection materials are in <language langcode="eng">English</language></langmaterial></did>
+<bioghist id="a2" encodinganalog="5451_"><head>Historical Note</head><p>Fort Ellis was a military post established by the United States Army near Bozeman, Montana Territory, in 1867. Established to protect settlers in the Gallatin Valley from a perceived Indian threat, the post housed troops from a number of different regiments prior to its deactivation in 1886. Among the cavalry units stationed at Fort Ellis was the Second United States Cavalry, and an officer from that regiment, Lieutenant Gustavus C. Doane, became well known for his exploration of Yellowstone National Park. Doane also explored the Snake River during his career and accompanied the Howgate Arctic expedition in Greenland in 1880. He died in 1892 and his widow, Mary L. Doane, tried unsuccessfully to copyright his diary of the 1870 Yellowstone trip in the 1930s.</p></bioghist>
+<scopecontent id="a3" encodinganalog="5202_"><p>The collection contains papers collected by the Museum of the Rockies pertaining to both Fort Ellis and Lieutenant Doane, including: the complete handwritten report of Doane regarding the Howgate expedition of 1880; quartermaster and ordnance returns from the Second Cavalry signed by Doane and lieutenant E.J. McClernand at various posts including Fort Ellis and Fort Maginnis, Montana Territory, and the Presido, San Francisco, California; military returns from the first battalion Mississippi Marine brigade 1865-1867; prescription book from Dr. John H. Kuhle, Fort Ellis, 1876; file of correspondence by Mary L. Doane; various printed materials pertaining to military matters and the Grand Army of the Republic. The collection has been inventoried.</p></scopecontent>
+<accessrestrict id="a14" encodinganalog="506"><p>This collection is open for research.</p></accessrestrict>
+<acqinfo id="a19" encodinganalog="541"><p>Military records and personal papers pertaining to Fort Ellis, Montana Territory, and Lieutenant Gustavus C. Doane, Second United States Cavalry, were transferred to Special Collections by the Museum of the Rockies in the summer of 1970.</p></acqinfo>
+<processinfo id="a20" encodinganalog="583"><p>This collection was processed 2009 February 16</p></processinfo>
+    <otherfindaid id="a8" encodinganalog="555"><p>An alternative form of this finding aid can be found at <extref actuate="onrequest" show="new" href="http://www.lib.montana.edu/collect/spcoll/findaid/0851.html">http://www.lib.montana.edu/collect/spcoll/findaid/0851.html</extref></p></otherfindaid>
+<controlaccess id="a12"><controlaccess>
+<persname encodinganalog="600" role="subject" source="lcnaf">Doane, Mary Hunter, 1859-1952-Correspondence</persname>
+<persname encodinganalog="600" role="subject" source="lcnaf">Howgate, Henry W.</persname>
+<persname encodinganalog="700" role="creator" source="lcnaf">Doane, Gustavus Cheyney, 1840-1892</persname>
+<persname encodinganalog="700" role="creator" source="lcnaf">Kuhle, John H.</persname>
+<persname encodinganalog="700" role="creator" source="lcnaf">McClernand, Edward J. (Edward John), 1848-1926</persname>
+</controlaccess><controlaccess>
+<corpname encodinganalog="610" role="subject" source="lcnaf">Grand Army of the Republic</corpname>
+<corpname encodinganalog="710" role="creator" source="lcnaf">United States-Army-Cavalry, 2nd</corpname>
+<corpname encodinganalog="710" role="creator" source="lcnaf">United States-Army-Mississippi Marine Brigade</corpname>
+</controlaccess><controlaccess>
+<geogname encodinganalog="651" role="subject" source="lcnaf">Arctic regions-Discovery and exploration</geogname>
+<geogname encodinganalog="651" role="subject" source="lcnaf">Fort Ellis (Mont.)</geogname>
+<geogname encodinganalog="651" role="subject" source="lcnaf">Fort Maginnis (Mont.)</geogname>
+<geogname encodinganalog="651" role="subject" source="lcnaf">Presidio of San Francisco (San Francisco, Calif.)</geogname>
+</controlaccess><controlaccess>
+<subject altrender="nodisplay" encodinganalog="690" source="nwda">Expeditions and Adventure</subject>
+<subject altrender="nodisplay" encodinganalog="690" source="nwda">Military</subject>
+<subject altrender="nodisplay" encodinganalog="690" source="nwda">Montana</subject>
+</controlaccess></controlaccess>
+
+<dsc id="a23" type="combined">
+<c01 level="file">
+<did>
+<container type="box-folder">1/1</container>
+<unittitle encodinganalog="245$a">Howgate Arctic Expedition of 1880 authorized by W.H. Howgate, commanded by Gustavus C. Doane</unittitle></did>
+<scopecontent encodinganalog="5202_"><p>Purpose was the scientific and geographical exploration of Greenland. Preliminary handwritten report with original supporting manuscripts attached.</p><p>Preliminary report by G.C. Doane, March 16, 1881, unpaged.</p><p>Chap. 1 - order for the expedition, pp. 1-11.</p><p>Chap. 2 - departure of the expedition, pp. 12-27.</p><p>Chap. 3 - description of personnel, the arrival, the natives, animal life, etc., pp. 28-60 (the pages are complicated with official affidavits glued in place and are paged on the verso).</p><p>Chap. 4 - continued the outfitting of the expedition and the description of the island to the withdrawal by sail in the absence of coal authorized by H.W. Howgate, pp. 61-94.</p><p>Chap. 5 - report on the conduct of the expedition and the findings. The entire report was prepared by G.C. Doane, pp. 95-159.</p><p>Appendix C - to G.C. Doane from David S. Snively, Ft. Ellis, MT, Jan. 21, 1881.</p></scopecontent>
+</c01><c01 level="file">
+<did>
+<container type="box-folder">1/2</container>
+<unittitle encodinganalog="245$a">Quarterly return of clothing and equipage</unittitle>
+<unitdate datechar="creation" era="ce" calendar="gregorian" encodinganalog="245$f"
+                        normal="18831001/18831231">quarter ending 1883 December 31</unitdate></did>
+</c01><c01 level="file">
+<did>
+<container type="box-folder">1/3</container>
+<unittitle encodinganalog="245$a">Quarterly return of clothing and equipage</unittitle>
+<unitdate datechar="creation" era="ce" calendar="gregorian" encodinganalog="245$f"
+                        normal="18840101/18840331">quarter ending 1884 March 31</unitdate></did>
+</c01><c01 level="file">
+<did>
+<container type="box-folder">1/4</container>
+<unittitle encodinganalog="245$a">Quarterly return of clothing and equipage</unittitle>
+<unitdate datechar="creation" era="ce" calendar="gregorian" encodinganalog="245$f"
+                        normal="18840401/18840630">quarter ending 1884 June 30</unitdate></did>
+</c01><c01 level="file">
+<did>
+<container type="box-folder">1/5</container>
+<unittitle encodinganalog="245$a">Quarterly return of clothing and equipage</unittitle>
+<unitdate datechar="creation" era="ce" calendar="gregorian" encodinganalog="245$f"
+                        normal="18840701/18840930">quarter ending 1884 September 30</unitdate></did>
+</c01><c01 level="file">
+<did>
+<container type="box-folder">1/6</container>
+<unittitle encodinganalog="245$a">Quarterly return of clothing and equipage</unittitle>
+<unitdate datechar="creation" era="ce" calendar="gregorian" encodinganalog="245$f"
+                        normal="18841001/18841130">the first part of the fourth quarter ending 1884
+                        November 30</unitdate></did>
+</c01><c01 level="file">
+<did>
+<container type="box-folder">1/7</container>
+<unittitle encodinganalog="245$a">Quarterly return of ordnance and ordnance stores</unittitle>
+<unitdate datechar="creation" era="ce" calendar="gregorian" encodinganalog="245$f"
+                        normal="18850401/18850630">quarter ending 1885 June 30</unitdate></did>
+</c01><c01 level="file">
+<did>
+<container type="box-folder">1/8</container>
+<unittitle encodinganalog="245$a">Quarterly return of clothing, camp and garrison equipage</unittitle>
+<unitdate datechar="creation" era="ce" calendar="gregorian" encodinganalog="245$f"
+                        normal="18851001/18851231">quarter ending 1885 December 31</unitdate></did>
+</c01><c01 level="file">
+<did>
+<container type="box-folder">2/1</container>
+<unittitle encodinganalog="245$a">Certificates of non-indebtedness</unittitle>
+<unitdate datechar="creation" era="ce" calendar="gregorian" encodinganalog="245$f"
+                        normal="186512/186705">1865 December - 1867 May</unitdate></did>
+</c01><c01 level="file">
+<did>
+<container type="box-folder">2/2</container>
+<unittitle encodinganalog="245$a">Receipts for the acceptance of returns for clothing, equipage, and ordnance stores</unittitle>
+<unitdate datechar="creation" era="ce" calendar="gregorian" encodinganalog="245$f" normal="1875/1882">1875-1882</unitdate></did>
+</c01><c01 level="file">
+<did>
+<container type="box-folder">2/3</container>
+<unittitle encodinganalog="245$a">Receipts for the acceptance of returns for clothing, equipage, and ordnance stores</unittitle>
+<unitdate datechar="creation" era="ce" calendar="gregorian" encodinganalog="245$f" normal="1883/1892">1883-1892</unitdate></did>
+</c01><c01 level="file">
+<did>
+<container type="box-folder">2/4</container>
+<unittitle encodinganalog="245$a">Commissary book of G.C. Doane</unittitle>
+<unitdate datechar="creation" era="ce" calendar="gregorian" encodinganalog="245$f" normal="1884/1889">1884-1889</unitdate></did>
+</c01><c01 level="file">
+<did>
+<container type="box-folder">2/5</container>
+<unittitle encodinganalog="245$a">Hearing to account for supplies destroyed because they were worn out in service</unittitle>
+<unitdate datechar="creation" era="ce" calendar="gregorian" encodinganalog="245$f" normal="1882/1887">1882-1887</unitdate></did>
+</c01><c01 level="file">
+<did>
+<container type="box-folder">2/6</container>
+<unittitle encodinganalog="245$a">Doane Correspondence</unittitle>
+<unitdate datechar="creation" era="ce" calendar="gregorian" encodinganalog="245$f" normal="1886">1886</unitdate>
+<unitdate datechar="creation" era="ce" calendar="gregorian" encodinganalog="245$f" normal="1930">1930</unitdate></did>
+<scopecontent encodinganalog="5202_"><p>Efforts by Mrs. Mary L. Doane to get copyright for her husband's diary of the so called Yellowstone Expedition of 1870. Letter from his mother (N. Doane) while he was in Arizona.</p></scopecontent>
+</c01><c01 level="file">
+<did>
+<container type="box-folder">2/7</container>
+<unittitle encodinganalog="245$a">Journal of the Military Association of the Pacific</unittitle>
+<unitdate datechar="creation" era="ce" calendar="gregorian" encodinganalog="245$f" normal="188507"
+                        >1885 July</unitdate>
+<unitdate datechar="creation" era="ce" calendar="gregorian" encodinganalog="245$f" normal="188511"
+                        >1885 November</unitdate></did>
+</c01><c01 level="file">
+<did>
+<container type="box-folder">2/8</container>
+<unittitle encodinganalog="245$a">Kuhle, Dr. John H. Prescription and account book apparently used at Ft. Ellis about 1876, found in an old building by Steve Skaar</unittitle>
+<unitdate datechar="creation" era="ce" calendar="gregorian" encodinganalog="245$f" normal="19620520"
+                        >1962 May 20</unitdate></did>
+</c01><c01 level="file">
+<did>
+<container type="box-folder">2/9</container>
+<unittitle encodinganalog="245$a">Ballads and Roster</unittitle>
+<unitdate datechar="creation" era="ce" calendar="gregorian" encodinganalog="245$f" normal="1886">1886</unitdate>
+<unitdate datechar="creation" era="ce" calendar="gregorian" encodinganalog="245$f" normal="1892">1892</unitdate></did>
+<scopecontent encodinganalog="5202_"><p>Grand Army of the Republic. Battle Ballads by Fred Emerson Brooks. Roster, By-Laws, and Roll of deceased members, Geo. H. Thomas Post N. 2, Dept. of Calif.</p></scopecontent>
+</c01><c01 level="file">
+<did>
+<container type="box-folder">2/10</container>
+<unittitle encodinganalog="245$a">Decisions and Reports</unittitle>
+<unitdate datechar="creation" era="ce" calendar="gregorian" encodinganalog="245$f" normal="1891">1891</unitdate>
+<unitdate datechar="creation" era="ce" calendar="gregorian" encodinganalog="245$f" normal="1888/1889">1888-1889</unitdate></did>
+<scopecontent encodinganalog="5202_"><p>Decisions, orders, etc. affecting target practice and the small-arms firing regulations. 10th Annual Report Army Mutual Aid Association. Covering board for enclosures which were not in the collection, notes on the board may be meaningful.</p></scopecontent>
+</c01><c01 level="file">
+<did>
+<container type="box-folder">2/11</container>
+<unittitle encodinganalog="245$a">Official Army Register</unittitle>
+<unitdate datechar="creation" era="ce" calendar="gregorian" encodinganalog="245$f" normal="189001"
+                        >1890 January</unitdate></did>
+</c01></dsc></archdesc></ead>

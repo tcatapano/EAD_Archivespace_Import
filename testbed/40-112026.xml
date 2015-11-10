@@ -1,0 +1,3833 @@
+<?xml version="1.0" standalone="no"?>
+
+
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<?xml-stylesheet type="text/xsl" href="webead.xsl"?>
+<ead audience="external" relatedencoding="MARC">
+	
+	<eadheader audience="internal" countryencoding="iso3166-1" dateencoding="iso8601"
+		langencoding="iso639-2" repositoryencoding="iso15511" scriptencoding="iso15924">
+		<eadid countrycode="us" mainagencycode="MnHi">gr00089</eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper>Hennepin County</titleproper>
+				<subtitle>An Inventory of Its Marriage, Birth, and Death Records at the Minnesota Historical
+					Society</subtitle>
+				<author>Finding aid prepared by Cheri Thies.</author>
+			</titlestmt>
+			<publicationstmt>
+				<publisher encodinganalog="Publisher">Minnesota Historical Society</publisher>
+				<address><addressline>St. Paul, MN.</addressline></address>
+			</publicationstmt>
+		             <seriesstmt><p>Government Records</p></seriesstmt>         </filedesc>
+		<profiledesc>
+			<creation>Finding aid encoded by Cheri Thies, <date>August 2010.</date></creation>
+			<langusage>Finding aid written in <language langcode="eng">English</language>. </langusage>
+		</profiledesc>
+		
+	</eadheader>
+	
+	<archdesc level="collection" type="inventory" relatedencoding="MARC">
+		<did>
+			<head id="a1">OVERVIEW</head>
+			<repository label="Label:"><corpname>Minnesota Historical Society</corpname></repository>
+			<origination label="Creator:"><corpname role="creator" encodinganalog="110">Hennepin County (Minn.).</corpname></origination>
+			<unittitle label="Title:" encodinganalog="245$a">Marriage, birth, and death records.</unittitle>
+			
+			<unitdate label="Date:" encodinganalog="245$f" type="inclusive" normal="1853/1996">1853-1996.</unitdate>
+			
+			<langmaterial label="Language of Materials">Materials in <language langcode="eng"
+				>English</language>. </langmaterial>
+			<abstract label="Abstract:"> Marriage certificates (1853-1996) and index (1853-1989), birth certificates (1866-1902) and index (ca. 1870-1931), and death certificates (1870-1909) and index (1890-1931).</abstract>
+			<physdesc label="Quantity:" encodinganalog="300">6.0 cu. ft. (467 microfilm reels).</physdesc>
+			
+			<physloc label="Location:"> See <ref target="a9">Detailed Description</ref> for shelf
+				locations.</physloc>
+		</did>
+		<arrangement><head id="a4">ARRANGEMENT</head><p>The records are arranged in the following sections:</p> 
+			<list>
+				<head>Marriage Certificate Index, 1853-1989 (SAM 447-I, 31 reels)</head> 
+				<item></item>
+			</list>
+			<list>
+				<head>Marriage Certificates , 1853-1996 (SAM 447, 366 reels)</head>  
+				<item></item></list>
+			<list>
+				<head>Birth Certificate Index, ca. 1870-1931 (SAM 448-I, 2 reels)</head>  
+				<item></item></list>
+			<list>
+				<head>Birth Certificates, 1866-1902 (SAM 448, 50 reels)</head>  
+				<item></item></list>
+			<list>
+				<head>Death Certificate Index, 1890-1931 (SAM 449-I, 1 reel)</head>  
+				<item></item></list>
+			<list>
+				<head>Death Certificates, 1870-1909 (SAM 449, 47 reels)</head>  
+				<item></item>	</list></arrangement>
+		<controlaccess>
+			<head id="a7">CATALOG HEADINGS</head>
+			<p>This collection is indexed under the following headings in the catalog of the Minnesota
+				Historical Society. Researchers desiring materials about related topics should <extref
+					href="http://mnhs.mnpals.net/F" show="new" actuate="onrequest">search the
+					catalog</extref> using these headings.</p>
+			<controlaccess>
+				<head>Topics:</head>
+				<subject encodinganalog="650">Marriages -- Minnesota -- Hennepin County.</subject>
+				<subject encodinganalog="650">Vital statistics -- Minnesota -- Hennepin County.</subject>
+			</controlaccess>
+			<controlaccess>
+				<head>Document Types:</head>
+				<genreform encodinganalog="655">Birth records.</genreform>
+				<genreform encodinganalog="655">Death records.</genreform>
+				<genreform encodinganalog="655">Marriage records.</genreform>
+				<genreform encodinganalog="655">Microforms.</genreform>
+			</controlaccess>
+	</controlaccess>
+
+			<descgrp type="admininfo">
+			<head id="a8">ADMINISTRATIVE INFORMATION</head>
+			<prefercite encodinganalog="524">
+				<head>Preferred Citation:</head>
+				<p><emph render="italic">[Indicate the cited item and/or series here]. </emph>Hennepin County (Minn.). Marriage, Birth, and Death Records. Minnesota Historical Society.</p>
+				<p><emph render="italic">See the Chicago Manual of Style for additional
+					examples.</emph></p>
+			</prefercite>
+			<originalsloc encodinganalog="535">
+				<head>Location of Originals:</head>
+				<p>Location of originals is unknown; presumed to have been destroyed following microfilming.</p>
+			</originalsloc>
+			<custodhist encodinganalog="561">
+				<head>Provenance:</head>
+				<p>Film received from Hennepin County Taxpayer Services, June 2009.</p>
+			</custodhist>
+			<acqinfo encodinganalog="541">
+				<head>Accession Information:</head>
+				<p>Accession number: 2011-1</p>
+			</acqinfo>
+			<processinfo>
+				<head>Processing Information:</head>
+				<p>Catalog ID number: 7166541</p>
+			</processinfo>
+				</descgrp>
+			<dsc type="combined">
+			<head id="a9">DETAILED DESCRIPTION OF THE RECORDS</head>
+			<c01 level="series">
+				<did>
+					<unittitle>Marriage Certificate Index,</unittitle>
+					<unitdate>1853-1989 </unitdate>
+				</did>
+				<scopecontent>
+					<p>Alphabetical listing by male and female surnames, along with corresponding
+						marriage certificate volume and page number.</p>
+				</scopecontent>
+
+				<c02>
+					<did>
+						<physloc>SAM 447-I</physloc>
+						<container type="reel"> 1</container>
+						<unittitle>Volume 1,</unittitle>
+						<unitdate>1853-1882. </unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Volume 2,</unittitle>
+						<unitdate>1883-1888. </unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447-I</physloc>
+						<container type="reel"> 2</container>
+						<unittitle>Volume 3,</unittitle>
+						<unitdate>1889-1892. </unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Volume 4,</unittitle>
+						<unitdate>1893-1895. </unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447-I</physloc>
+						<container type="reel"> 3</container>
+						<unittitle>Volume 5,</unittitle>
+						<unitdate>1896-1900. </unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Volume 6,</unittitle>
+						<unitdate>1901-1905. </unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447-I</physloc>
+						<container type="reel"> 4</container>
+						<unittitle>Volume 7,</unittitle>
+						<unitdate>1906-1909. </unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Volume 8,</unittitle>
+						<unitdate>1910-1913. </unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447-I</physloc>
+						<container type="reel"> 5</container>
+						<unittitle>Volume 9,</unittitle>
+						<unitdate>1914-1915. </unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Volume 10,</unittitle>
+						<unitdate>1916-1917. </unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447-I</physloc>
+						<container type="reel"> 6</container>
+						<unittitle>Volume 11,</unittitle>
+						<unitdate>1918-1919. </unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Volume 12,</unittitle>
+						<unitdate>1920-1921. </unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447-I</physloc>
+						<container type="reel"> 7</container>
+						<unittitle>Volume 13,</unittitle>
+						<unitdate>1922-1923. </unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Volume 14,</unittitle>
+						<unitdate>1924-1925. </unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447-I</physloc>
+						<container type="reel"> 8</container>
+						<unittitle>Volume 15,</unittitle>
+						<unitdate>1926-1928. </unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Volume 16,</unittitle>
+						<unitdate>1929-1930. </unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447-I</physloc>
+						<container type="reel"> 9</container>
+						<unittitle>Volume 17,</unittitle>
+						<unitdate>1931-1933. </unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Volume 18,</unittitle>
+						<unitdate>1934-1936. </unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447-I</physloc>
+						<container type="reel"> 10</container>
+						<unittitle>Volume 19,</unittitle>
+						<unitdate>1937-1939. </unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Volume 20,</unittitle>
+						<unitdate>1940-1942. </unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447-I</physloc>
+						<container type="reel"> 11</container>
+						<unittitle>Volume 21,</unittitle>
+						<unitdate>1942-1944. </unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Volume 22,</unittitle>
+						<unitdate>1945-1946. </unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447-I</physloc>
+						<container type="reel"> 12</container>
+						<unittitle>Volume 23,</unittitle>
+						<unitdate>1947-1948. </unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Volume 24,</unittitle>
+						<unitdate>1949-1950. </unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447-I</physloc>
+						<container type="reel"> 13</container>
+						<unittitle>Volume 25,</unittitle>
+						<unitdate>1951-1952. </unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Volume 26,</unittitle>
+						<unitdate>1953-1954. </unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447-I</physloc>
+						<container type="reel"> 14</container>
+						<unittitle>Volume 27,</unittitle>
+						<unitdate>1955-1956. </unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Volume 28,</unittitle>
+						<unitdate>1957-1958. </unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447-I</physloc>
+						<container type="reel"> 15</container>
+						<unittitle>Volume 29,</unittitle>
+						<unitdate>1959-1960. </unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Volume 30,</unittitle>
+						<unitdate>1961-1962. </unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447-I</physloc>
+						<container type="reel"> 16</container>
+						<unittitle>Volume 31,</unittitle>
+						<unitdate>1963-1964. </unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Volume 32,</unittitle>
+						<unitdate>1965-1966. </unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447-I</physloc>
+						<container type="reel"> 17</container>
+						<unittitle>Volume 33,</unittitle>
+						<unitdate>1967-1968. </unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447-I</physloc>
+						<container type="reel"> 18</container>
+						<unittitle>Volume 34,</unittitle>
+						<unitdate>1969. </unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447-I</physloc>
+						<container type="reel"> 19</container>
+						<unittitle>Volume 35,</unittitle>
+						<unitdate>1970. </unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Volume 36,</unittitle>
+						<unitdate>1971-1972. </unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447-I</physloc>
+						<container type="reel"> 20</container>
+						<unittitle>Volume 37,</unittitle>
+						<unitdate>1973. </unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447-I</physloc>
+						<container type="reel"> 21</container>
+						<unittitle>Volume 38,</unittitle>
+						<unitdate>1974. </unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447-I</physloc>
+						<container type="reel"> 22</container>
+						<unittitle>Volume 39,</unittitle>
+						<unitdate>1975. </unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447-I</physloc>
+						<container type="reel"> 23</container>
+						<unittitle>Volume 40,</unittitle>
+						<unitdate>1976. </unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447-I</physloc>
+						<container type="reel"> 24</container>
+						<unittitle>Volume 41,</unittitle>
+						<unitdate>1977. </unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447-I</physloc>
+						<container type="reel"> 25</container>
+						<unittitle>Volume 42,</unittitle>
+						<unitdate>1978. </unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447-I</physloc>
+						<container type="reel"> 26</container>
+						<unittitle>Volume 43,</unittitle>
+						<unitdate>1979. </unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447-I</physloc>
+						<container type="reel"> 27</container>
+						<unittitle>Volume 44,</unittitle>
+						<unitdate>1980. </unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447-I</physloc>
+						<container type="reel"> 28</container>
+						<unittitle>Volume 45,</unittitle>
+						<unitdate>1981. </unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447-I</physloc>
+						<container type="reel"> 29</container>
+						<unittitle>Volume 46,</unittitle>
+						<unitdate>1982. </unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447-I</physloc>
+						<container type="reel"> 30</container>
+						<unittitle>Volume 47,</unittitle>
+						<unitdate>1983-1985. </unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447-I</physloc>
+						<container type="reel"> 31</container>
+						
+						<unitdate>1986-1989. </unitdate>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>Marriage Certificates,</unittitle>
+					<unitdate>1853-1996. </unitdate>
+				</did>
+				<scopecontent>
+					<p>Numerical listing of marriage certificates; on rolls with more than one
+						volume, the volumes may appear in reverse numerical order.</p>
+				</scopecontent>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 1</container>
+						<unittitle>Volumes 1-4,</unittitle>
+						<unitdate>1853-1868. </unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 2</container>
+						<unittitle>Volumes 5-8,</unittitle>
+						<unitdate>1868-1873. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 3</container>
+						<unittitle>Volumes 9-12,</unittitle>
+						<unitdate>1873-1878. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 4</container>
+						<unittitle>Volumes 13-16,</unittitle>
+						<unitdate>1878-1880. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 5</container>
+						<unittitle>Volumes 17-20,</unittitle>
+						<unitdate>1881-1882. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 6</container>
+						<unittitle>Volumes 21-24,</unittitle>
+						<unitdate>1883-1884. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 7</container>
+						<unittitle>Volumes 25-28,</unittitle>
+						<unitdate>1884-1885. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 8</container>
+						<unittitle>Volumes 29-32,</unittitle>
+						<unitdate>1885-1886. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 9</container>
+						<unittitle>Volumes 33-36,</unittitle>
+						<unitdate>1886-1887. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 10</container>
+						<unittitle>Volumes 37-40,</unittitle>
+						<unitdate>1887-1888. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 11</container>
+						<unittitle>Volumes 41-44,</unittitle>
+						<unitdate>1888-1889. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 12</container>
+						<unittitle>Volumes 45-48,</unittitle>
+						<unitdate>1890. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 13</container>
+						<unittitle>Volumes 49-52,</unittitle>
+						<unitdate>1890-1891. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 14</container>
+						<unittitle>Volumes 53-56,</unittitle>
+						<unitdate>1891-1892. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 15</container>
+						<unittitle>Volumes 57-60,</unittitle>
+						<unitdate>1892-1894. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 16</container>
+						<unittitle>Volumes 61-64,</unittitle>
+						<unitdate>1893-1894. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 17</container>
+						<unittitle>Volumes 65-68,</unittitle>
+						<unitdate>1894-1895. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 18</container>
+						<unittitle>Volumes 69-72,</unittitle>
+						<unitdate>1895-1897. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 19</container>
+						<unittitle>Volumes 73-76,</unittitle>
+						<unitdate>1897-1898. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 20</container>
+						<unittitle>Volumes 77-80,</unittitle>
+						<unitdate>1898-1899. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 21</container>
+						<unittitle>Volumes 81-84,</unittitle>
+						<unitdate>1899-1900. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 22</container>
+						<unittitle>Volumes 85-88,</unittitle>
+						<unitdate>1900-1901. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 23</container>
+						<unittitle>Volumes 89-92,</unittitle>
+						<unitdate>1901-1902. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 24</container>
+						<unittitle>Volumes 93-96,</unittitle>
+						<unitdate>1902. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 25</container>
+						<unittitle>Volumes 97-100,</unittitle>
+						<unitdate>1902-1903. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 26</container>
+						<unittitle>Volumes 101-104,</unittitle>
+						<unitdate>1903-1904. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 27</container>
+						<unittitle>Volumes 105-108,</unittitle>
+						<unitdate>1904-1905. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 28</container>
+						<unittitle>Volumes 109-112,</unittitle>
+						<unitdate>1905. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 29</container>
+						<unittitle>Volumes 113-116,</unittitle>
+						<unitdate>1905-1906. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 30</container>
+						<unittitle>Volumes 117-120,</unittitle>
+						<unitdate>1906-1907. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 31</container>
+						<unittitle>Volumes 121-124,</unittitle>
+						<unitdate>1906-1906. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 32</container>
+						<unittitle>Volumes 125-128,</unittitle>
+						<unitdate>1908. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 33</container>
+						<unittitle>Volumes 129-132,</unittitle>
+						<unitdate>1908-1909. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 34</container>
+						<unittitle>Volumes 133-136,</unittitle>
+						<unitdate>1908-1909. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 35</container>
+						<unittitle>Volumes 137-140,</unittitle>
+						<unitdate>1909-1910. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 36</container>
+						<unittitle>Volumes 141-144,</unittitle>
+						<unitdate>1910-1911. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 37</container>
+						<unittitle>Volumes 145-148,</unittitle>
+						<unitdate>1910-1911. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 38</container>
+						<unittitle>Volumes 149-152,</unittitle>
+						<unitdate>1911. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 39</container>
+						<unittitle>Volumes 153-156,</unittitle>
+						<unitdate>1911-1912. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 40</container>
+						<unittitle>Volumes 157-160,</unittitle>
+						<unitdate>1912-1913. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 41</container>
+						<unittitle>Volumes 161-164,</unittitle>
+						<unitdate>1912-1913. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 42</container>
+						<unittitle>Volumes 165-168,</unittitle>
+						<unitdate>1913. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 43</container>
+						<unittitle>Volumes 169-172,</unittitle>
+						<unitdate>1913-1914. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 44</container>
+						<unittitle>Volumes 173-176,</unittitle>
+						<unitdate>1914. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 45</container>
+						<unittitle>Volumes 177-180,</unittitle>
+						<unitdate>1914-1915. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 46</container>
+						<unittitle>Volumes 181-184,</unittitle>
+						<unitdate>1915. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 47</container>
+						<unittitle>Volumes 185-188,</unittitle>
+						<unitdate>1915. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 48</container>
+						<unittitle>Volumes 189-192,</unittitle>
+						<unitdate>1915-1916. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 49</container>
+						<unittitle>Volumes 193-196,</unittitle>
+						<unitdate>1916. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 50</container>
+						<unittitle>Volumes 197-200,</unittitle>
+						<unitdate>1916-1917. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 51</container>
+						<unittitle>Volumes 201-204,</unittitle>
+						<unitdate>1917. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 52</container>
+						<unittitle>Volumes 205-208,</unittitle>
+						<unitdate>1917-1918. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 53</container>
+						<unittitle>Volumes 209-212,</unittitle>
+						<unitdate>1917-1918. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 54</container>
+						<unittitle>Volumes 213-216,</unittitle>
+						<unitdate>1918. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 55</container>
+						<unittitle>Volumes 217-220,</unittitle>
+						<unitdate>1918-1919. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 56</container>
+						<unittitle>Volumes 221-224,</unittitle>
+						<unitdate>1919. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 57</container>
+						<unittitle>Volumes 225-228,</unittitle>
+						<unitdate>1919. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 58</container>
+						<unittitle>Volumes 229-232,</unittitle>
+						<unitdate>1919-1920. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 59</container>
+						<unittitle>Volumes 233-236,</unittitle>
+						<unitdate>1920. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 60</container>
+						<unittitle>Volumes 237-240,</unittitle>
+						<unitdate>1920. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 61</container>
+						<unittitle>Volumes 241-244,</unittitle>
+						<unitdate>1920-1921. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 62</container>
+						<unittitle>Volumes 245-248,</unittitle>
+						<unitdate>1921. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 63</container>
+						<unittitle>Volumes 249-252,</unittitle>
+						<unitdate>1921. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 64</container>
+						<unittitle>Volumes 253-256,</unittitle>
+						<unitdate>1921-1922. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 65</container>
+						<unittitle>Volumes 257-260,</unittitle>
+						<unitdate>1922. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 66</container>
+						<unittitle>Volumes 261-264,</unittitle>
+						<unitdate>1922. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 67</container>
+						<unittitle>Volumes 265-268,</unittitle>
+						<unitdate>1922-1923. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 68</container>
+						<unittitle>Volumes 269-272,</unittitle>
+						<unitdate>1923. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 69</container>
+						<unittitle>Volumes 273-276,</unittitle>
+						<unitdate>1923-1924. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 70</container>
+						<unittitle>Volumes 277-280,</unittitle>
+						<unitdate>1923-1924. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 71</container>
+						<unittitle>Volumes 281-284,</unittitle>
+						<unitdate>1924. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 72</container>
+						<unittitle>Volumes 285-288,</unittitle>
+						<unitdate>1924-1925. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 73</container>
+						<unittitle>Volumes 289-292,</unittitle>
+						<unitdate>1925. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 74</container>
+						<unittitle>Volumes 293-296,</unittitle>
+						<unitdate>1925. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 75</container>
+						<unittitle>Volumes 297-300,</unittitle>
+						<unitdate>1925-1926. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 76</container>
+						<unittitle>Volumes 301-304,</unittitle>
+						<unitdate>1926. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 77</container>
+						<unittitle>Volumes 301, 305-308,</unittitle>
+						<unitdate>1926-1927. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 78</container>
+						<unittitle>Volumes 309-312,</unittitle>
+						<unitdate>1926-1927. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 79</container>
+						<unittitle>Volumes 313-316,</unittitle>
+						<unitdate>1927. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 80</container>
+						<unittitle>Volumes 317-320,</unittitle>
+						<unitdate>1927-1928. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 81</container>
+						<unittitle>Volumes 321-324,</unittitle>
+						<unitdate>1928. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 82</container>
+						<unittitle>Volumes 325-328,</unittitle>
+						<unitdate>1928-1929. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 83</container>
+						<unittitle>Volumes 329-332,</unittitle>
+						<unitdate>1928. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 84</container>
+						<unittitle>Volumes 333-336,</unittitle>
+						<unitdate>1929. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 85</container>
+						<unittitle>Volumes 337-340,</unittitle>
+						<unitdate>1929-1930. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 86</container>
+						<unittitle>Volumes 341-344,</unittitle>
+						<unitdate>1930. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 87</container>
+						<unittitle>Volumes 345-348,</unittitle>
+						<unitdate>1930-1931. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 88</container>
+						<unittitle>Volumes 349-352,</unittitle>
+						<unitdate>1931. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 89</container>
+						<unittitle>Volumes 353-356,</unittitle>
+						<unitdate>1931-1932. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 90</container>
+						<unittitle>Volumes 357-360,</unittitle>
+						<unitdate>1932. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 91</container>
+						<unittitle>Volumes 361-364,</unittitle>
+						<unitdate>1932-1933. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 92</container>
+						<unittitle>Volumes 365-368,</unittitle>
+						<unitdate>1933. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 93</container>
+						<unittitle>Volumes 369-372,</unittitle>
+						<unitdate>1933-1934. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 94</container>
+						<unittitle>Volumes 373-376,</unittitle>
+						<unitdate>1934-1935. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 95</container>
+						<unittitle>Volumes 377-380,</unittitle>
+						<unitdate>1934-1935. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 96</container>
+						<unittitle>Volumes 381-384,</unittitle>
+						<unitdate>1935. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 97</container>
+						<unittitle>Volumes 385-388,</unittitle>
+						<unitdate>1935-1936. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 98</container>
+						<unittitle>Volumes 389-392,</unittitle>
+						<unitdate>1935-1936. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 99</container>
+						<unittitle>Volumes 393-396,</unittitle>
+						<unitdate>1936. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 100</container>
+						<unittitle>Volumes 397-400,</unittitle>
+						<unitdate>1936-1938. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 101</container>
+						<unittitle>Volumes 401-404,</unittitle>
+						<unitdate>1937. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 102</container>
+						<unittitle>Volumes 405-408,</unittitle>
+						<unitdate>1937. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 103</container>
+						<unittitle>Volumes 409-412,</unittitle>
+						<unitdate>1937-1938. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 104</container>
+						<unittitle>Volumes 413-416,</unittitle>
+						<unitdate>1938. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 105</container>
+						<unittitle>Volumes 417-420,</unittitle>
+						<unitdate>1938-1939. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 106</container>
+						<unittitle>Volumes 421-424,</unittitle>
+						<unitdate>1939. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 107</container>
+						<unittitle>Volumes 425-428,</unittitle>
+						<unitdate>1939-1940. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 108</container>
+						<unittitle>Volumes 429-432,</unittitle>
+						<unitdate>1939-1940. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 109</container>
+						<unittitle>Volumes 433-436,</unittitle>
+						<unitdate>1940. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 110</container>
+						<unittitle>Volumes 437-440,</unittitle>
+						<unitdate>1940-1941. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 111</container>
+						<unittitle>Volumes 441-444,</unittitle>
+						<unitdate>1941. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 112</container>
+						<unittitle>Volumes 445-448,</unittitle>
+						<unitdate>1941. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 113</container>
+						<unittitle>Volumes 449-452,</unittitle>
+						<unitdate>1941. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 114</container>
+						<unittitle>Volumes 453-456,</unittitle>
+						<unitdate>1941-1942. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 115</container>
+						<unittitle>Volumes 457-460,</unittitle>
+						<unitdate>1942. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 116</container>
+						<unittitle>Volumes 461-464,</unittitle>
+						<unitdate>1942. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 117</container>
+						<unittitle>Volumes 465-468,</unittitle>
+						<unitdate>1942-1943. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 118</container>
+						<unittitle>Volumes 469-472,</unittitle>
+						<unitdate>1943-1943. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 119</container>
+						<unittitle>Volumes 473-476,</unittitle>
+						<unitdate>1943. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 120</container>
+						<unittitle>Volumes 477-480,</unittitle>
+						<unitdate>1943-1944. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 121</container>
+						<unittitle>Volumes 481-484,</unittitle>
+						<unitdate>1944. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 122</container>
+						<unittitle>Volumes 485-488,</unittitle>
+						<unitdate>1944. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 123</container>
+						<unittitle>Volumes 489-492,</unittitle>
+						<unitdate>1944-1945. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 124</container>
+						<unittitle>Volumes 493-496,</unittitle>
+						<unitdate>1945. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 125</container>
+						<unittitle>Volumes 497-500,</unittitle>
+						<unitdate>1945. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 126</container>
+						<unittitle>Volumes 501-504,</unittitle>
+						<unitdate>1945-1946. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 127</container>
+						<unittitle>Volumes 505-508,</unittitle>
+						<unitdate>1946. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 128</container>
+						<unittitle>Volumes 509-512,</unittitle>
+						<unitdate>1946. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 129</container>
+						<unittitle>Volumes 513-516,</unittitle>
+						<unitdate>1946. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 130</container>
+						<unittitle>Volumes 517-520,</unittitle>
+						<unitdate>1946. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 131</container>
+						<unittitle>Volumes 521-524,</unittitle>
+						<unitdate>1946-1947. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 132</container>
+						<unittitle>Volumes 525-528,</unittitle>
+						<unitdate>1947. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 133</container>
+						<unittitle>Volumes 529-532,</unittitle>
+						<unitdate>1947.  </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 134</container>
+						<unittitle>Volumes 533-536,</unittitle>
+						<unitdate>1947.  </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 135</container>
+						<unittitle>Volumes 537-540,</unittitle>
+						<unitdate>1947-1948.  </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 136</container>
+						<unittitle>Volumes 541-544,</unittitle>
+						<unitdate>1947-1948. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 137</container>
+						<unittitle>Volumes 545-548,</unittitle>
+						<unitdate>1948. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 138</container>
+						<unittitle>Volumes 549-552,</unittitle>
+						<unitdate>1948. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 139</container>
+						<unittitle>Volumes 553-556,</unittitle>
+						<unitdate>1948. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 140</container>
+						<unittitle>Volumes 557-560,</unittitle>
+						<unitdate>1948-1949. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 141</container>
+						<unittitle>Volumes 561-564,</unittitle>
+						<unitdate>1949. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 142</container>
+						<unittitle>Volumes 565-568,</unittitle>
+						<unitdate>1949. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 143</container>
+						<unittitle>Volumes 569-572,</unittitle>
+						<unitdate>1949. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 144</container>
+						<unittitle>Volumes 573-576,</unittitle>
+						<unitdate>1949-1950. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 145</container>
+						<unittitle>Volumes 577-580,</unittitle>
+						<unitdate>1950. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 146</container>
+						<unittitle>Volumes 581-584,</unittitle>
+						<unitdate>1950. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 147</container>
+						<unittitle>Volumes 585-588,</unittitle>
+						<unitdate>1950-1951. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 148</container>
+						<unittitle>Volumes 589-592,</unittitle>
+						<unitdate>1951. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 149</container>
+						<unittitle>Volumes 593-595,</unittitle>
+						<unitdate>1951. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 150</container>
+						<unittitle>Volumes 596-599,</unittitle>
+						<unitdate>1951-1952. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 151</container>
+						<unittitle>Volumes 600-603,</unittitle>
+						<unitdate>1951-1952. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 152</container>
+						<unittitle>Volumes 604-607,</unittitle>
+						<unitdate>1952. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 153</container>
+						<unittitle>Volumes 608-611,</unittitle>
+						<unitdate>1952. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 154</container>
+						<unittitle>Volumes 612-615,</unittitle>
+						<unitdate>1952-1953. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 155</container>
+						<unittitle>Volumes 616-619,</unittitle>
+						<unitdate>1953. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 156</container>
+						<unittitle>Volumes 620-623,</unittitle>
+						<unitdate>1953. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 157</container>
+						<unittitle>Volumes 624-627,</unittitle>
+						<unitdate>1953-1954. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 158</container>
+						<unittitle>Volumes 628-631,</unittitle>
+						<unitdate>1954. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 159</container>
+						<unittitle>Volumes 632-635,</unittitle>
+						<unitdate>1954. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 160</container>
+						<unittitle>Volumes 636-639,</unittitle>
+						<unitdate>1954-1955. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 161</container>
+						<unittitle>Volumes 640-643,</unittitle>
+						<unitdate>1955. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 162</container>
+						<unittitle>Volumes 644-647,</unittitle>
+						<unitdate>1955. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 163</container>
+						<unittitle>Volumes 648-651,</unittitle>
+						<unitdate>1955-1956. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 164</container>
+						<unittitle>Volumes 652-655,</unittitle>
+						<unitdate>1956. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 165</container>
+						<unittitle>Volumes 656-659,</unittitle>
+						<unitdate>1956. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 166</container>
+						<unittitle>Volumes 660-663,</unittitle>
+						<unitdate>1956-1957. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 167</container>
+						<unittitle>Volumes 664-667,</unittitle>
+						<unitdate>1957. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 168</container>
+						<unittitle>Volumes 668-671,</unittitle>
+						<unitdate>1957. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 169</container>
+						<unittitle>Volumes 672-675,</unittitle>
+						<unitdate>1957-1958. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 170</container>
+						<unittitle>Volumes 676-679,</unittitle>
+						<unitdate>1958. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 171</container>
+						<unittitle>Volumes 680-682,</unittitle>
+						<unitdate>1958. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 172</container>
+						<unittitle>Volumes 683-685,</unittitle>
+						<unitdate>1958-1959. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 173</container>
+						<unittitle>Volumes 686-688,</unittitle>
+						<unitdate>1959. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 174</container>
+						<unittitle>Volumes 689-691,</unittitle>
+						<unitdate>1959. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 175</container>
+						<unittitle>Volumes 692-694,</unittitle>
+						<unitdate>1959-1960. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 176</container>
+						<unittitle>Volumes 695-697 (December 1959),</unittitle>
+						<unitdate>1959-1960. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 177</container>
+						<unittitle>Volumes 698-700,</unittitle>
+						<unitdate>1960. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 178</container>
+						<unittitle>Volumes 701-703,</unittitle>
+						<unitdate>1960. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 179</container>
+						<unittitle>Volumes 704-706,</unittitle>
+						<unitdate>1960. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 180</container>
+						<unittitle>Volumes 707-709,</unittitle>
+						<unitdate>1960-1961. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 181</container>
+						<unittitle>Volumes 710-712,</unittitle>
+						<unitdate>1960-1961. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 182</container>
+						<unittitle>Volumes 713-715,</unittitle>
+						<unitdate>1961. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 183</container>
+						<unittitle>Volumes 716-718,</unittitle>
+						<unitdate>1961. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 184</container>
+						<unittitle>Volumes 719-721,</unittitle>
+						<unitdate>1961. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 185</container>
+						<unittitle>Volumes 722-724,</unittitle>
+						<unitdate>1961-1962. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 186</container>
+						<unittitle>Volumes 725-727,</unittitle>
+						<unitdate>1962. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 187</container>
+						<unittitle>Volumes 728-730,</unittitle>
+						<unitdate>1962. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 188</container>
+						<unittitle>Volumes 731-733,</unittitle>
+						<unitdate>1962. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 189</container>
+						<unittitle>Volumes 734-736,</unittitle>
+						<unitdate>1962-1963. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 190</container>
+						<unittitle>Volumes 737-739,</unittitle>
+						<unitdate>1963. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 191</container>
+						<unittitle>Volumes 740-742,</unittitle>
+						<unitdate>1963. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 192</container>
+						<unittitle>Volumes 743-745,</unittitle>
+						<unitdate>1963. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 193</container>
+						<unittitle>Volumes 746-748,</unittitle>
+						<unitdate>1963. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 194</container>
+						<unittitle>Volumes 749-751,</unittitle>
+						<unitdate>1963-1964. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 195</container>
+						<unittitle>Volumes 752-754,</unittitle>
+						<unitdate>1964. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 196</container>
+						<unittitle>Volumes 755-757,</unittitle>
+						<unitdate>1964.  </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 197</container>
+						<unittitle>Volumes 758-760,</unittitle>
+						<unitdate>1964.  </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 198</container>
+						<unittitle>Volumes 761-763,</unittitle>
+						<unitdate>1964. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 199</container>
+						<unittitle>Volumes 764-766,</unittitle>
+						<unitdate>1964-1965.  </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 200</container>
+						<unittitle>Volumes 767-769,</unittitle>
+						<unitdate>1965. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 201</container>
+						<unittitle>Volumes 770-772,</unittitle>
+						<unitdate>1965. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 202</container>
+						<unittitle>Volumes 773-775,</unittitle>
+						<unitdate>1965-1966. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 203</container>
+						<unittitle>Volumes 776-778,</unittitle>
+						<unitdate>1965. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 204</container>
+						<unittitle>Volumes 779-781,</unittitle>
+						<unitdate>1965-1966. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 205</container>
+						<unittitle>Volumes 782-784,</unittitle>
+						<unitdate>1966. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 206</container>
+						<unittitle>Volumes 785-787,</unittitle>
+						<unitdate>1966. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 207</container>
+						<unittitle>Volumes 788-790,</unittitle>
+						<unitdate>1966. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 208</container>
+						<unittitle>Volumes 791-793,</unittitle>
+						<unitdate>1966.  </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 209</container>
+						<unittitle>Volumes 794-796,</unittitle>
+						<unitdate>1966. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 210</container>
+						<unittitle>Volumes 797-799,</unittitle>
+						<unitdate>1966-1967. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 211</container>
+						<unittitle>Volumes 800-802,</unittitle>
+						<unitdate>1967. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 212</container>
+						<unittitle>Volumes 803-805,</unittitle>
+						<unitdate>1967. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 213</container>
+						<unittitle>Volumes 806-808,</unittitle>
+						<unitdate>1967. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 214</container>
+						<unittitle>Volumes 809-811,</unittitle>
+						<unitdate>1967. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 215</container>
+						<unittitle>Volumes 812-814,</unittitle>
+						<unitdate>1967. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 216</container>
+						<unittitle>Volumes 815-816,</unittitle>
+						<unitdate>1967-1968.</unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 217</container>
+						<unittitle>Volume 817,</unittitle>
+						<unitdate>1968. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 218</container>
+						<unittitle>Volume 818,</unittitle>
+						<unitdate>1968.  </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 219</container>
+						<unittitle>Volume 819,</unittitle>
+						<unitdate>1968.  </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 220</container>
+						<unittitle>Volume 820,</unittitle>
+						<unitdate>1968-1969.  </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 221</container>
+						<unittitle>Volume 821,</unittitle>
+						<unitdate>1968-1969. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 222</container>
+						<unittitle>Volume 822,</unittitle>
+						<unitdate>1969. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 223</container>
+						<unittitle>Volume 823,</unittitle>
+						<unitdate>1969. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 224</container>
+						<unittitle>Volume 824,</unittitle>
+						<unitdate>1969. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 225</container>
+						<unittitle>Volume 825,</unittitle>
+						<unitdate>1969-1970. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 226</container>
+						<unittitle>Volume 826,</unittitle>
+						<unitdate>1969-1970. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 227</container>
+						<unittitle>Volume 827,</unittitle>
+						<unitdate>1970. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 228</container>
+						<unittitle>Volume 828,</unittitle>
+						<unitdate>1970.  </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 229</container>
+						<unittitle>Volume 829,</unittitle>
+						<unitdate>1970. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 230</container>
+						<unittitle>Volume 830,</unittitle>
+						<unitdate>1970.  </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 231</container>
+						<unittitle>Volume 831,</unittitle>
+						<unitdate>1970-1971. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 232</container>
+						<unittitle>Volume 832,</unittitle>
+						<unitdate>1971. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 233</container>
+						<unittitle>Volume 833,</unittitle>
+						<unitdate>1971. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 234</container>
+						<unittitle>Volume 834,</unittitle>
+						<unitdate>1971. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 235</container>
+						<unittitle>Volume 835,</unittitle>
+						<unitdate>1971-1972. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 236</container>
+						<unittitle>Volume 836,</unittitle>
+						<unitdate>1972. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 237</container>
+						<unittitle>Volume 837,</unittitle>
+						<unitdate>1972-1973. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 238</container>
+						<unittitle>Volume 838,</unittitle>
+						<unitdate>1972-1973. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 239</container>
+						<unittitle>Volume 839,</unittitle>
+						<unitdate>1972. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 240</container>
+						<unittitle>Volume 840,</unittitle>
+						<unitdate>1972-1973. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 241</container>
+						<unittitle>Volume 841,</unittitle>
+						<unitdate>1973. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 242</container>
+						<unittitle>Volume 842,</unittitle>
+						<unitdate>1973. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 243</container>
+						<unittitle>Volume 843,</unittitle>
+						<unitdate>1973. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 244</container>
+						<unittitle>Volume 844,</unittitle>
+						<unitdate>1973-1974. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 245</container>
+						<unittitle>Volume 845,</unittitle>
+						<unitdate>1973-1974. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 246</container>
+						<unittitle>Volume 846,</unittitle>
+						<unitdate>1973-1974. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 247</container>
+						<unittitle>Volume 847,</unittitle>
+						<unitdate>1974. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 248</container>
+						<unittitle>Volume 848,</unittitle>
+						<unitdate>1974-1975. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 249</container>
+						<unittitle>Volume 849,</unittitle>
+						<unitdate>1974-1975.  </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 250</container>
+						<unittitle>Volume 850,</unittitle>
+						<unitdate>1974-1975. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 251</container>
+						<unittitle>Volume 851,</unittitle>
+						<unitdate>1975-1976. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 252</container>
+						<unittitle>Volume 852,</unittitle>
+						<unitdate>1975. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 253</container>
+						<unittitle>Volume 853,</unittitle>
+						<unitdate>1975-1976. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 254</container>
+						<unittitle>Volume 854,</unittitle>
+						<unitdate>1976. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 255</container>
+						<unittitle>Volume 855,</unittitle>
+						<unitdate>1976. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 256</container>
+						<unittitle>Volume 856,</unittitle>
+						<unitdate>1976-1977. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 257</container>
+						<unittitle>Volume 857,</unittitle>
+						<unitdate>1976. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 258</container>
+						<unittitle>Volume 858,</unittitle>
+						<unitdate>1976-1977. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 259</container>
+						<unittitle>Volume 859,</unittitle>
+						<unitdate>1976-1978. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 260</container>
+						<unittitle>Volume 860,</unittitle>
+						<unitdate>1977. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 261</container>
+						<unittitle>Volume 861,</unittitle>
+						<unitdate>1977-1978. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 262</container>
+						<unittitle>Volume 862,</unittitle>
+						<unitdate>1977-1978. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 263</container>
+						<unittitle>Volume 863,</unittitle>
+						<unitdate>1977-1978.  </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 264</container>
+						<unittitle>Volume 864,</unittitle>
+						<unitdate>1977-1978.  </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 265</container>
+						<unittitle>Volume 865,</unittitle>
+						<unitdate>1978. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 266</container>
+						<unittitle>Volume 866,</unittitle>
+						<unitdate>1978-1979. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 267</container>
+						<unittitle>Volume 867,</unittitle>
+						<unitdate>1978-1979. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 268</container>
+						<unittitle>Volume 868,</unittitle>
+						<unitdate> 1979. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 269</container>
+						<unittitle>Volume 869,</unittitle>
+						<unitdate> 1979.  </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 270</container>
+						<unittitle>Volume 870,</unittitle>
+						<unitdate> 1979.  </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 271</container>
+						<unittitle>Volume 871,</unittitle>
+						<unitdate>1979-1980. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 272</container>
+						<unittitle>Volume 872,</unittitle>
+						<unitdate>1979-1980.  </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 273</container>
+						<unittitle>Volume 873,</unittitle>
+						<unitdate>1979-1980.  </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 274</container>
+						<unittitle>Volume 874,</unittitle>
+						<unitdate>1979-1980. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 275</container>
+						<unittitle>Volume 875,</unittitle>
+						<unitdate>1980. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 276</container>
+						<unittitle>Volume 876,</unittitle>
+						<unitdate>1980-1981. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 277</container>
+						<unittitle>Volume 877,</unittitle>
+						<unitdate>1980-1981. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 278</container>
+						<unittitle>Volume 878,</unittitle>
+						<unitdate>1980-1981. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 279</container>
+						<unittitle>Volume 879,</unittitle>
+						<unitdate>1980-1981. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 280</container>
+						<unittitle>Volume 880,</unittitle>
+						<unitdate>1981. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 281</container>
+						<unittitle>Volume 881,</unittitle>
+						<unitdate>1981. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 282</container>
+						<unittitle>Volume 882,</unittitle>
+						<unitdate>1981-1982. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 283</container>
+						<unittitle>Volume 883,</unittitle>
+						<unitdate>1981-1982. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 284</container>
+						<unittitle>Volume 884,</unittitle>
+						<unitdate>1981-1982. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 285</container>
+						<unittitle>Volume 885,</unittitle>
+						<unitdate>1981-1983. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 286</container>
+						<unittitle>Volume 886,</unittitle>
+						<unitdate>1981-1982. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 287</container>
+						<unittitle>Volume 887,</unittitle>
+						<unitdate>1982. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 288</container>
+						<unittitle>Volume 888,</unittitle>
+						<unitdate>1982-1983. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 289</container>
+						<unittitle>Volume 889,</unittitle>
+						<unitdate>1982-1983.  </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 290</container>
+						<unittitle>Volume 890,</unittitle>
+						<unitdate>1982-1983.  </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 291</container>
+						<unittitle>Volume 891,</unittitle>
+						<unitdate>1982-1983. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 292</container>
+						<unittitle>Volume 892,</unittitle>
+						<unitdate>1982-1983. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 293</container>
+						<unittitle>Volume 893,</unittitle>
+						<unitdate>1983. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 294</container>
+						<unittitle>Volume 894,</unittitle>
+						<unitdate>1983. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 295</container>
+						<unittitle>Volume 895,</unittitle>
+						<unitdate>1983-1984. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 296</container>
+						<unittitle>Volume 896,</unittitle>
+						<unitdate>1983-1984. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 297</container>
+						<unittitle>Volume 897,</unittitle>
+						<unitdate>1983-1984.  </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 298</container>
+						<unittitle>Volume 898,</unittitle>
+						<unitdate>1983-1984.  </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 299</container>
+						<unittitle>Volume 899,</unittitle>
+						<unitdate>1984. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 300</container>
+						<unittitle>Volume 900,</unittitle>
+						<unitdate>1984-1985. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 301</container>
+						<unittitle>Volume 901,</unittitle>
+						<unitdate>1984-1985. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 302</container>
+						<unittitle>Volume 902,</unittitle>
+						<unitdate>1984-1985. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 303</container>
+						<unittitle>Volume 903,</unittitle>
+						<unitdate>1984-1985.  </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 304</container>
+						<unittitle>Volume 904,</unittitle>
+						<unitdate>1985. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 305</container>
+						<unittitle>Volume 905,</unittitle>
+						<unitdate>1985-1986. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 306</container>
+						<unittitle>Volume 906,</unittitle>
+						<unitdate>1985-1986. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 307</container>
+						<unittitle>Volume 907,</unittitle>
+						<unitdate>1985-1986.  </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 308</container>
+						<unittitle>Volume 908,</unittitle>
+						<unitdate>1985-1986.  </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 309</container>
+						<unittitle>Volume 909,</unittitle>
+						<unitdate>1986. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 310</container>
+						<unittitle>Volume 910,</unittitle>
+						<unitdate>1986. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 311</container>
+						<unittitle>Volume 911,</unittitle>
+						<unitdate>1986-1987. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 312</container>
+						<unittitle>Volume 912,</unittitle>
+						<unitdate>1986-1987.  </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 313</container>
+						<unittitle>Volume 913,</unittitle>
+						<unitdate>1986-1987. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 314</container>
+						<unittitle>Volume 914,</unittitle>
+						<unitdate>1986-1987.  </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 315</container>
+						<unittitle>Volume 915,</unittitle>
+						<unitdate>1987. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 316</container>
+						<unittitle>Volume 916,</unittitle>
+						<unitdate>1987-1988. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 317</container>
+						<unittitle>Volume 917,</unittitle>
+						<unitdate>1987-1988.. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 318</container>
+						<unittitle>Volume 918,</unittitle>
+						<unitdate>1987-1988.. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 319</container>
+						<unittitle>Volume 919,</unittitle>
+						<unitdate>1987-1988.  </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 320</container>
+						<unittitle>Volume 920,</unittitle>
+						<unitdate>1987-1988. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 321</container>
+						<unittitle>Volume 921,</unittitle>
+						<unitdate>1988-1989. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 322</container>
+						<unittitle>Volume 922,</unittitle>
+						<unitdate>1988-1989. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 323</container>
+						<unittitle>Volume 923,</unittitle>
+						<unitdate>1988-1989. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 324</container>
+						<unittitle>Volume 924,</unittitle>
+						<unitdate>1988-1989.</unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 325</container>
+						<unittitle>Volume 925,</unittitle>
+						<unitdate>1988-1989. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 326</container>
+						<unittitle>Volumes 926-927,</unittitle>
+						<unitdate>1988-1989. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 327</container>
+						<unittitle>Volume 928,</unittitle>
+						<unitdate>1989-1990. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 328</container>
+						<unittitle>Volume 929,</unittitle>
+						<unitdate>1989-1990. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 329</container>
+						<unittitle>Volume 930,</unittitle>
+						<unitdate>1989-1990. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 330</container>
+						<unittitle>Volume 931,</unittitle>
+						<unitdate>1990. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 331</container>
+						<unittitle>Volume 932,</unittitle>
+						<unitdate>1990. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 332</container>
+						<unittitle>Volume 933,</unittitle>
+						<unitdate>1990-1991. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 333</container>
+						<unittitle>Volume 934,</unittitle>
+						<unitdate>1990-1991. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 334</container>
+						<unittitle>Volume 935,</unittitle>
+						<unitdate>1990-1991.</unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 335</container>
+						<unittitle>Volume 936,</unittitle>
+						<unitdate>1991. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 336</container>
+						<unittitle>Volume 937,</unittitle>
+						<unitdate>1991.  </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 337</container>
+						<unittitle>Volume 938,</unittitle>
+						<unitdate>1991. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 338</container>
+						<unittitle>Volume 939,</unittitle>
+						<unitdate>1991-1992. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 339</container>
+						<unittitle>Volume 940,</unittitle>
+						<unitdate>1991-1992. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 340</container>
+						<unittitle>Volume 941,</unittitle>
+						<unitdate>1992. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 341</container>
+						<unittitle>Volume 942,</unittitle>
+						<unitdate>1992. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 342</container>
+						<unittitle>Volume 943,</unittitle>
+						<unitdate>1992-1993. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 343</container>
+						<unittitle>Volume 944,</unittitle>
+						<unitdate>1992-1993. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 344</container>
+						<unittitle>Volume 945,</unittitle>
+						<unitdate>1993. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 345</container>
+						<unittitle>Volume 946,</unittitle>
+						<unitdate>1993. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 346</container>
+						<unittitle>Volume 947,</unittitle>
+						<unitdate>1993-1994. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 347</container>
+						<unittitle>Volume 948,</unittitle>
+						<unitdate>1993-1994. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 348</container>
+						<unittitle>Volume 949,</unittitle>
+						<unitdate>1994. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 349</container>
+						<unittitle>Volume 950,</unittitle>
+						<unitdate>1994. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 350</container>
+						<unittitle>Volume 951,</unittitle>
+						<unitdate>1994. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 351</container>
+						<unittitle>Volume 952,</unittitle>
+						<unitdate>1994-1995. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 352</container>
+						<unittitle>Volume 953,</unittitle>
+						<unitdate>1994-1995. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 353</container>
+						<unittitle>Volume 954,</unittitle>
+						<unitdate>1995. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 354</container>
+						<unittitle>Volume 955,</unittitle>
+						<unitdate>1995. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 355</container>
+						<unittitle>Volume 956,</unittitle>
+						<unitdate>1995-1996. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 356</container>
+						<unittitle>Volume 957,</unittitle>
+						<unitdate>1995-1996. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 357</container>
+						<unittitle>Volume 958,</unittitle>
+						<unitdate>1995-1996. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 358</container>
+						<unittitle>Volume 959,</unittitle>
+						<unitdate>1996. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 359</container>
+						<unittitle>Volume 960,</unittitle>
+						<unitdate>1996. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 360</container>
+						<unittitle>Volume 961,</unittitle>
+						<unitdate>1996-1997. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 361</container>
+						<unittitle>Volume 962,</unittitle>
+						<unitdate>1996-1997. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 362</container>
+						<unittitle>Volume 963,</unittitle>
+						<unitdate>1997. </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 363</container>
+						<unittitle>Volume 964,</unittitle>
+						<unitdate>1997.  </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 364</container>
+						<unittitle>Volume 965,</unittitle>
+						<unitdate>1997.  </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 365</container>
+						<unittitle>Volume 966,</unittitle>
+						<unitdate>1997.  </unitdate>					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 447</physloc>
+						<container type="reel"> 366</container>
+						<unittitle>Volume 967,</unittitle>
+						<unitdate>1997-1998.  </unitdate>					</did>
+				</c02>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>Birth Certificate Index,</unittitle>
+					<unitdate>ca. 1870-1931. </unitdate>
+				</did>
+				<scopecontent>
+					<p>Alphabetical listing by surname.</p>
+				</scopecontent>
+				<c02>
+					<did>
+						<physloc>SAM 448-I</physloc>
+						<container type="reel"> 1</container>
+												<unitdate>ca. 1870-ca. 1910. </unitdate>
+					</did>
+					<scopecontent>
+						<p>At the beginning of each letter of the alphabet, supplemental births for
+							the years 1876, 1878, and 1881 are listed.</p>
+					</scopecontent>
+				</c02>
+				<c02>
+					<did>
+						<physloc>SAM 448-I</physloc>
+						<container type="reel"> 2</container>
+						<unittitle>Volume 1,</unittitle>
+						<unitdate>ca. 1890-1920. </unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Volume 2,</unittitle>
+						<unitdate>1920-1931. </unitdate>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series"><did>
+					<unittitle>Birth Certificates,</unittitle>
+					<unitdate>1866-1902. </unitdate>
+				</did><scopecontent>
+					<p>Numerical listing of birth certificates.</p>
+				</scopecontent>
+				<c02>
+					<did>
+						<unittitle>Reels 1-6: Hennepin County (does not include the City of
+							Minneapolis), </unittitle>
+						<unitdate>1870-1902. </unitdate>
+					</did>
+					<c03>
+						<did>
+							<physloc>SAM 448</physloc>
+							<container type="reel"> 1</container>
+							<unitdate>1870-1879. </unitdate>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<physloc>SAM 448</physloc>
+							<container type="reel"> 2</container>
+							<unitdate>1880-1883. </unitdate>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<physloc>SAM 448</physloc>
+							<container type="reel"> 3</container>
+							<unitdate>1884-1887. </unitdate>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<physloc>SAM 448</physloc>
+							<container type="reel"> 4</container>
+							<unitdate>1888-1892. </unitdate>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<physloc>SAM 448</physloc>
+							<container type="reel"> 5</container>
+							<unitdate>1893-1897. </unitdate>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<physloc>SAM 448</physloc>
+							<container type="reel"> 6</container>
+							<unitdate>1898-1902. </unitdate>
+						</did>
+					</c03>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Reels 7-50: City of Minneapolis, </unittitle>
+						<unitdate>1866-1900. </unitdate>
+					</did>
+					<scopecontent>
+						<p>Many of the earlier dated records appear to be delayed birth
+							certificates.</p>
+					</scopecontent>
+					<c03>
+						<did>
+							<physloc>SAM 448</physloc>
+							<container type="reel"> 7</container>
+							<unitdate>December 17, 1866-December 10, 1885. </unitdate>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<physloc>SAM 448</physloc>
+							<container type="reel"> 8</container>
+							<unitdate>January 2, 1886-December 30, 1887. </unitdate>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<physloc>SAM 448</physloc>
+							<container type="reel"> 9</container>
+							<unitdate>January-April 1888. </unitdate>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<physloc>SAM 448</physloc>
+							<container type="reel"> 10</container>
+							<unitdate>May-August 1888. </unitdate>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<physloc>SAM 448</physloc>
+							<container type="reel"> 11</container>
+							<unitdate>September-December 1888. </unitdate>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<physloc>SAM 448</physloc>
+							<container type="reel"> 12</container>
+							<unitdate>January-April 1889. </unitdate>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<physloc>SAM 448</physloc>
+							<container type="reel"> 13</container>
+							<unitdate>May-August 1889. </unitdate>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<physloc>SAM 448</physloc>
+							<container type="reel"> 14</container>
+							<unitdate>September-December 1889. </unitdate>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<physloc>SAM 448</physloc>
+							<container type="reel"> 15</container>
+							<unitdate>January-April 1890. </unitdate>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<physloc>SAM 448</physloc>
+							<container type="reel"> 16</container>
+							<unitdate>May-August 1890. </unitdate>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<physloc>SAM 448</physloc>
+							<container type="reel"> 17</container>
+							<unitdate>September-December 1890. </unitdate>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<physloc>SAM 448</physloc>
+							<container type="reel"> 18</container>
+							<unitdate>January-April 1891. </unitdate>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<physloc>SAM 448</physloc>
+							<container type="reel"> 19</container>
+							<unitdate>May-August 1891. </unitdate>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<physloc>SAM 448</physloc>
+							<container type="reel"> 20</container>
+							<unitdate>September-December 1891. </unitdate>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<physloc>SAM 448</physloc>
+							<container type="reel"> 21</container>
+							<unitdate>January-April 1892. </unitdate>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<physloc>SAM 448</physloc>
+							<container type="reel"> 22</container>
+							<unitdate>May-August 1892. </unitdate>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<physloc>SAM 448</physloc>
+							<container type="reel"> 23</container>
+							<unitdate>September-December 1892. </unitdate>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<physloc>SAM 448</physloc>
+							<container type="reel"> 24</container>
+							<unitdate>January-April 1893. </unitdate>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<physloc>SAM 448</physloc>
+							<container type="reel"> 25</container>
+							<unitdate>May-August 1893. </unitdate>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<physloc>SAM 448</physloc>
+							<container type="reel"> 26</container>
+							<unitdate>September-December 1893. </unitdate>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<physloc>SAM 448</physloc>
+							<container type="reel"> 27</container>
+							<unitdate>January-April 1894. </unitdate>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<physloc>SAM 448</physloc>
+							<container type="reel"> 28</container>
+							<unitdate>May-August 1894. </unitdate>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<physloc>SAM 448</physloc>
+							<container type="reel"> 29</container>
+							<unitdate>September-December 1894. </unitdate>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<physloc>SAM 448</physloc>
+							<container type="reel"> 30</container>
+							<unitdate>January-April 1895. </unitdate>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<physloc>SAM 448</physloc>
+							<container type="reel"> 31</container>
+							<unitdate>May-August 1895. </unitdate>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<physloc>SAM 448</physloc>
+							<container type="reel"> 32</container>
+							<unitdate>September-December 1895. </unitdate>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<physloc>SAM 448</physloc>
+							<container type="reel"> 33</container>
+							<unitdate>January-April 1896. </unitdate>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<physloc>SAM 448</physloc>
+							<container type="reel"> 34</container>
+							<unitdate>May-August 1896. </unitdate>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<physloc>SAM 448</physloc>
+							<container type="reel"> 35</container>
+							<unitdate>September-December 1896. </unitdate>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<physloc>SAM 448</physloc>
+							<container type="reel"> 36</container>
+							<unitdate>January-April 1897. </unitdate>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<physloc>SAM 448</physloc>
+							<container type="reel"> 37</container>
+							<unitdate>May-August 1897. </unitdate>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<physloc>SAM 448</physloc>
+							<container type="reel"> 38</container>
+							<unitdate>September-December 1897. </unitdate>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<physloc>SAM 448</physloc>
+							<container type="reel"> 39</container>
+							<unitdate>January-April 1898. </unitdate>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<physloc>SAM 448</physloc>
+							<container type="reel"> 40</container>
+							<unitdate>May-August 1898. </unitdate>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<physloc>SAM 448</physloc>
+							<container type="reel"> 41</container>
+							<unitdate>September-December 1898. </unitdate>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<physloc>SAM 448</physloc>
+							<container type="reel"> 42</container>
+							<unitdate>January-April 1899. </unitdate>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<physloc>SAM 448</physloc>
+							<container type="reel"> 43</container>
+							<unitdate>May-August 1899. </unitdate>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<physloc>SAM 448</physloc>
+							<container type="reel"> 44</container>
+							<unitdate>September-December 1899. </unitdate>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<physloc>SAM 448</physloc>
+							<container type="reel"> 45</container>
+							<unitdate>January-February 1900. </unitdate>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<physloc>SAM 448</physloc>
+							<container type="reel"> 46</container>
+							<unitdate>March-April 1900. </unitdate>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<physloc>SAM 448</physloc>
+							<container type="reel"> 47</container>
+							<unitdate>May-June 1900. </unitdate>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<physloc>SAM 448</physloc>
+							<container type="reel"> 48</container>
+							<unitdate>July-August 1900. </unitdate>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<physloc>SAM 448</physloc>
+							<container type="reel"> 49</container>
+							<unitdate>September-October 1900. </unitdate>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<physloc>SAM 448</physloc>
+							<container type="reel"> 50</container>
+							<unitdate>November-December 1900. </unitdate>
+						</did>
+					</c03>
+				</c02></c01> <c01 level="series"> 
+					<did>
+						<unittitle>Death Certificate Index,</unittitle>
+						<unitdate>1890-1931. </unitdate>
+					</did>
+					<scopecontent>
+						<p>Alphabetical listing by surname.</p>
+					</scopecontent>
+					<c02>
+						<did>
+							<physloc>SAM 449-I</physloc>
+							<container type="reel"> 1</container>
+							<unitdate>1890-1919. </unitdate>
+						</did>
+					</c02>
+					<c02>
+						<did>
+							<unittitle>Volume 2, </unittitle>
+							<unitdate>1920-1931. </unitdate>
+						</did>
+					</c02>
+				</c01>
+				<c01 level="series">
+					<did>
+						<unittitle>Death Certificates,</unittitle>
+						<unitdate>1870-1909. </unitdate>
+					</did>
+					<scopecontent>
+						<p>Numerical listing of death certificates.</p>
+					</scopecontent>
+					<c02>
+						<did>
+							<unittitle>Reels 1-5: Hennepin County (does not include the City of
+								Minneapolis), </unittitle>
+							<unitdate>1870-1909. </unitdate>
+						</did>
+					
+				
+				<c03>
+					<did>
+						<physloc>SAM 449</physloc>
+						<container type="reel"> 1</container>
+						<unitdate>1870-1879. </unitdate>
+					</did>
+				</c03>
+				<c03>
+					<did>
+						<physloc>SAM 449</physloc>
+						<container type="reel"> 2</container>
+						<unitdate>1880-1889. </unitdate>
+					</did>
+				</c03>
+				<c03>
+					<did>
+						<physloc>SAM 449</physloc>
+						<container type="reel"> 3</container>
+						<unitdate>1890-1899. </unitdate>
+					</did>
+				</c03>
+				<c03>
+					<did>
+						<physloc>SAM 449</physloc>
+						<container type="reel"> 4</container>
+						<unitdate>1900-1907. </unitdate>
+					</did>
+				</c03>
+				<c03>
+					<did>
+						<physloc>SAM 449</physloc>
+						<container type="reel"> 5</container>
+						<unitdate>1908-1909. </unitdate>
+					</did>
+				</c03></c02>
+				<c02>
+					<did>
+						<unittitle>Reels 6-47: City of Minneapolis, </unittitle>
+						<unitdate>1870-1908. </unitdate>
+					</did>
+					<scopecontent>
+						<p>Many of the earlier dated records appear to be delayed death
+							certificates.</p>
+					</scopecontent>
+				
+			<c03>
+				<did>
+					<physloc>SAM 449</physloc>
+					<container type="reel"> 6</container>
+					<unitdate>1870-1875. </unitdate>
+				</did>
+			</c03>
+			<c03>
+				<did>
+					<physloc>SAM 449</physloc>
+					<container type="reel"> 7</container>
+					<unitdate>1876-1879. </unitdate>
+				</did>
+			</c03>
+			<c03>
+				<did>
+					<physloc>SAM 449</physloc>
+					<container type="reel"> 8</container>
+					<unitdate>1880-1881. </unitdate>
+				</did>
+			</c03>
+			<c03>
+				<did>
+					<physloc>SAM 449</physloc>
+					<container type="reel"> 9</container>
+					<unitdate>1882. </unitdate>
+				</did>
+			</c03>
+			<c03>
+				<did>
+					<physloc>SAM 449</physloc>
+					<container type="reel"> 10</container>
+					<unitdate>1883. </unitdate>
+				</did>
+			</c03>
+			<c03>
+				<did>
+					<physloc>SAM 449</physloc>
+					<container type="reel"> 11</container>
+					<unitdate>1884. </unitdate>
+				</did>
+			</c03>
+			<c03>
+				<did>
+					<physloc>SAM 449</physloc>
+					<container type="reel"> 12</container>
+					<unitdate>1885. </unitdate>
+				</did>
+			</c03>
+			<c03>
+				<did>
+					<physloc>SAM 449</physloc>
+					<container type="reel"> 13</container>
+					<unitdate>1886. </unitdate>
+				</did>
+			</c03>
+			<c03>
+				<did>
+					<physloc>SAM 449</physloc>
+					<container type="reel"> 14</container>
+					<unitdate>January-October 16, 1888. </unitdate>
+				</did>
+			</c03>
+			<c03>
+				<did>
+					<physloc>SAM 449</physloc>
+					<container type="reel"> 15</container>
+					<unitdate>October 17-December 1888. </unitdate>
+				</did>
+			</c03>
+			<c03>
+				<did>
+					<physloc>SAM 449</physloc>
+					<container type="reel"> 16</container>
+					<unitdate>1889. </unitdate>
+				</did>
+			</c03>
+			<c03>
+				<did>
+					<physloc>SAM 449</physloc>
+					<container type="reel"> 17</container>
+					<unitdate>1890. </unitdate>
+				</did>
+			</c03>
+			<c03>
+				<did>
+					<physloc>SAM 449</physloc>
+					<container type="reel"> 18</container>
+					<unitdate>1891. </unitdate>
+				</did>
+			</c03>
+			<c03>
+				<did>
+					<physloc>SAM 449</physloc>
+					<container type="reel"> 19</container>
+					<unitdate>January-December 16, 1892. </unitdate>
+				</did>
+			</c03>
+			<c03>
+				<did>
+					<physloc>SAM 449</physloc>
+					<container type="reel"> 20</container>
+					<unitdate>December 16-31, 1892. </unitdate>
+				</did>
+			</c03>
+			<c03>
+				<did>
+					<physloc>SAM 449</physloc>
+					<container type="reel"> 21</container>
+					<unitdate>1893. </unitdate>
+				</did>
+			</c03>
+			<c03>
+				<did>
+					<physloc>SAM 449</physloc>
+					<container type="reel"> 22</container>
+					<unitdate>1894. </unitdate>
+				</did>
+			</c03>
+			<c03>
+				<did>
+					<physloc>SAM 449</physloc>
+					<container type="reel"> 23</container>
+					<unitdate>1895. </unitdate>
+				</did>
+			</c03>
+			<c03>
+				<did>
+					<physloc>SAM 449</physloc>
+					<container type="reel"> 24</container>
+					<unitdate>1896. </unitdate>
+				</did>
+			</c03>
+			<c03>
+				<did>
+					<physloc>SAM 449</physloc>
+					<container type="reel"> 25</container>
+					<unitdate>September-December 1897. </unitdate>
+				</did>
+			</c03>
+			<c03>
+				<did>
+					<physloc>SAM 449</physloc>
+					<container type="reel"> 26</container>
+					<unitdate>1898. </unitdate>
+				</did>
+			</c03>
+			<c03>
+				<did>
+					<physloc>SAM 449</physloc>
+					<container type="reel"> 27</container>
+					<unitdate>1899. </unitdate>
+				</did>
+			</c03>
+			<c03>
+				<did>
+					<physloc>SAM 449</physloc>
+					<container type="reel"> 28</container>
+					<unitdate>1900. </unitdate>
+				</did>
+			</c03>
+			<c03>
+				<did>
+					<physloc>SAM 449</physloc>
+					<container type="reel"> 29</container>
+					<unitdate>January-November 1901. </unitdate>
+				</did>
+			</c03>
+			<c03>
+				<did>
+					<physloc>SAM 449</physloc>
+					<container type="reel"> 30</container>
+					<unitdate>December 1901. </unitdate>
+				</did>
+			</c03>
+			<c03>
+				<did>
+					<physloc>SAM 449</physloc>
+					<container type="reel"> 31</container>
+					<unitdate>1902. </unitdate>
+				</did>
+			</c03>
+			<c03>
+				<did>
+					<physloc>SAM 449</physloc>
+					<container type="reel"> 32</container>
+					<unitdate>January-September 1903. </unitdate>
+				</did>
+			</c03>
+			<c03>
+				<did>
+					<physloc>SAM 449</physloc>
+					<container type="reel"> 33</container>
+					<unitdate>January-April 1904. </unitdate>
+				</did>
+			</c03>
+			<c03>
+				<did>
+					<physloc>SAM 449</physloc>
+					<container type="reel"> 34</container>
+					<unitdate>May-August 1904. </unitdate>
+				</did>
+			</c03>
+			<c03>
+				<did>
+					<physloc>SAM 449</physloc>
+					<container type="reel"> 35</container>
+					<unitdate>September-December 1904. </unitdate>
+				</did>
+			</c03>
+			<c03>
+				<did>
+					<physloc>SAM 449</physloc>
+					<container type="reel"> 36</container>
+					<unitdate>January-April 1905. </unitdate>
+				</did>
+			</c03>
+			<c03>
+				<did>
+					<physloc>SAM 449</physloc>
+					<container type="reel"> 37</container>
+					<unitdate>May-August 1905. </unitdate>
+				</did>
+			</c03>
+			<c03>
+				<did>
+					<physloc>SAM 449</physloc>
+					<container type="reel"> 38</container>
+					<unitdate>September-December 1905. </unitdate>
+				</did>
+			</c03>
+			<c03>
+				<did>
+					<physloc>SAM 449</physloc>
+					<container type="reel"> 39</container>
+					<unitdate>January-April 1906. </unitdate>
+				</did>
+			</c03>
+			<c03>
+				<did>
+					<physloc>SAM 449</physloc>
+					<container type="reel"> 40</container>
+					<unitdate>May-August 1906. </unitdate>
+				</did>
+			</c03>
+			<c03>
+				<did>
+					<physloc>SAM 449</physloc>
+					<container type="reel"> 41</container>
+					<unitdate>September-December 1906. </unitdate>
+				</did>
+			</c03>
+			<c03>
+				<did>
+					<physloc>SAM 449</physloc>
+					<container type="reel"> 42</container>
+					<unitdate>January-April 1907. </unitdate>
+				</did>
+			</c03>
+			<c03>
+				<did>
+					<physloc>SAM 449</physloc>
+					<container type="reel"> 43</container>
+					<unitdate>May-August 1907. </unitdate>
+				</did>
+			</c03>
+			<c03>
+				<did>
+					<physloc>SAM 449</physloc>
+					<container type="reel"> 44</container>
+					<unitdate>September-December 1907. </unitdate>
+				</did>
+			</c03>
+			<c03>
+				<did>
+					<physloc>SAM 449</physloc>
+					<container type="reel"> 45</container>
+					<unitdate>January-April 1908. </unitdate>
+				</did>
+			</c03>
+			<c03>
+				<did>
+					<physloc>SAM 449</physloc>
+					<container type="reel"> 46</container>
+					<unitdate>May-August 1908. </unitdate>
+				</did>
+			</c03>
+			<c03>
+				<did>
+					<physloc>SAM 449</physloc>
+					<container type="reel"> 47</container>
+					<unitdate>September-December 1908. </unitdate>
+				</did>
+			</c03></c02></c01>
+		</dsc>
+	</archdesc>
+</ead>

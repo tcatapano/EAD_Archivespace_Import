@@ -1,0 +1,99 @@
+<?xml version="1.0" standalone="no"?>
+
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-9//DTD ead.dtd Encoded Archival Description (EAD) Version 2002//EN" "ead.dtd">
+
+<ead><!--Template for BLAC use. Incorporates elements added in editing of initial TARO files. Designed by Bob Stewart and Christian Kelleher. -->
+<eadheader audience="internal" langencoding="iso639-2b" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924" findaidstatus="edited-full-draft" relatedencoding="MARC21">
+<eadid countrycode="us" mainagencycode="TxU-LA" url="www.lib.utexas.edu/taro/utlac/00054.xml" encodinganalog="856$u">urn:taro:utexas.blac.00054</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="245$a">Christian Heilskov Rasmussen Photographs, 1983-1987</titleproper>
+<author encodinganalog="245$c">Benson Latin American Collection</author></titlestmt>
+<publicationstmt><publisher encodinganalog="260$b">University of Texas Libraries, </publisher><date encodinganalog="260$c">2008</date></publicationstmt></filedesc>
+<profiledesc><creation encodinganalog="500">Finding aid encoded by Megan Jorgeson, <date>February 2008</date></creation><langusage>Finding aid written in<language encodinganalog="546" langcode="eng" scriptcode="arab">English.</language></langusage></profiledesc>
+
+<revisiondesc><change encodinganalog="583"><date><?xm-replace_text {date}?></date><item><?xm-replace_text {item}?></item></change></revisiondesc></eadheader>
+
+<archdesc level="collection" type="inventory" relatedencoding="MARC21"><did><head>Descriptive Summary</head>
+<origination label="Creator"><persname source="lcnaf" encodinganalog="100">Heilskov Rasmussen, Christian</persname></origination>
+<unittitle label="Title" encodinganalog="245">Christian Heilskov Rasmussen Photographs</unittitle>
+<unitdate type="inclusive" encodinganalog="245$f" normal="1983/1987">1983-1987</unitdate>
+<!-- Use ISO 8601 as the date standard within <unitdate> "normal" attribute. -->
+<langmaterial label="Language"><language langcode="spa" scriptcode="arab" encodinganalog="546">Spanish</language></langmaterial>
+<unitid label="Accession No." encodinganalog="099" countrycode="us" repositorycode="TxU-LA"></unitid>
+<unitid label="OCLC Record No." encodinganalog="001" countrycode="us" repositorycode="TxU-LA">33288354</unitid>
+<physdesc label="Extent" encodinganalog="300$a"><extent>approx. 176 </extent><genreform>photographic prints;  </genreform><dimensions>4 x 5 inches to 8 x 10 inches</dimensions></physdesc>
+<repository label="Repository" encodinganalog="852$a"><extref href="http://www.lib.utexas.edu/benson/" actuate="onrequest" show="new"><corpname><subarea>Benson Latin American Collection, </subarea>The University of Texas at Austin</corpname></extref></repository>
+
+<abstract label="Abstract" encodinganalog="520$a">Twenty-one black and white photographs and five postcards by Christian Heilskov Rasmussen of churches in Yucatán (Mexico)</abstract></did>
+
+<bioghist encodinganalog="545"><head>Biographical Sketch</head>
+<p>Anthropologist and photographer Christian Heilskov Rasmussen was born in Denmark in 1943. Rasmussen lived in Mexico from around 1974 until at least 1987. He worked at the Instituto Nacional de Antropología e Historia in Mérida and did field work among the Maya Indians.</p></bioghist>
+
+<scopecontent encodinganalog="520"><head>Scope and Contents Note</head>
+<p>Series one, <ref target="series1">Photographs</ref>, contains twenty-one photographs of architectural and artistics details of churches in Yucatán, Mexico taken between 1983-1986.</p>
+<p>Series two, <ref target="series2">Postcards</ref>, contains five postcards of Rasmussen's photographs.</p>
+<p>Series three, <ref target="series3">Ephemera</ref>, contains one pamphlet for the Museo Regional de Valladolid</p>
+<p>The churches pictured are located in Ichmul, Dzibichaltun, Dzidzantun, Paraíso, Maní, Mérida, Tabi, Pustunich, Tixpéual, Tixcacaltuyub, Tixcuytún, Yascabá, and Yohtolín. </p></scopecontent>
+
+<accessrestrict encodinganalog="506"><head>Access Restrictions</head><p>Unrestricted.</p></accessrestrict>
+
+<userestrict encodinganalog="540"><head>Use Restrictions</head><p>Standard copyright restrictions apply.</p></userestrict>
+
+<prefercite encodinganalog="524"><head>Preferred Citation</head><p>Cite as: Christian Heilskov Rasmussen Photographs, Benson Latin American Collection, University of Texas Libraries, the University of Texas at Austin.</p></prefercite>
+
+<controlaccess><head>Index Terms</head><p>The Christian Heilskov Rasmussen Photographs are classified under the following <emph render="bold">Subject Headings</emph> in the University of Texas Libraries catalog:</p>
+<controlaccess><head>Subjects</head>
+<subject source="lcsh" encodinganalog="650">Churches--Mexico--Yucatán (State)--Photographs</subject>
+<geogname source="lcsh" encodinganalog="651">Yucatán (Mexico : State)--Photographs
+</geogname></controlaccess>
+<controlaccess><head>Document Types</head>
+<genreform source="aat" encodinganalog="655">Photographs</genreform>
+</controlaccess></controlaccess>
+
+
+<dsc type="combined"><head>Box and Folder Inventory</head>
+
+<c01 level="series" id="series1"><did><unittitle>Photographs, </unittitle><unitdate>1983-1987</unitdate></did>
+<c02 level="subseries"><did><container type="box">1</container><unittitle>Photographs, </unittitle><unitdate>1983-1986</unitdate></did>
+<c03 level="file"><did><container type="box">1</container><container type="folder">1</container><unittitle>Ichmul, Chikindzonot, </unittitle><unitdate>1986</unitdate></did></c03>
+<c03 level="file"><did><container type="box">1</container><container type="folder">2</container><unittitle>Ichmul, Chikindzonot, </unittitle><unitdate>1986</unitdate></did></c03>
+<c03 level="file"><did><container type="box">1</container><container type="folder">3</container><unittitle>Ichmul, Chikindzonot, </unittitle><unitdate>1986</unitdate></did></c03>
+<c03 level="file"><did><container type="box">1</container><container type="folder">4</container><unittitle>Dzibichaltun, Mérida, </unittitle><unitdate>1985</unitdate></did></c03>
+<c03 level="file"><did><container type="box">1</container><container type="folder">5</container><unittitle>Dzidzantun, Dzidzantun, </unittitle><unitdate>1984</unitdate></did></c03>
+<c03 level="file"><did><container type="box">1</container><container type="folder">6</container><unittitle>Paraíso, Halachó, </unittitle><unitdate>1985</unitdate></did></c03>
+<c03 level="file"><did><container type="box">1</container><container type="folder">7</container><unittitle>Maní, Maní, </unittitle><unitdate>1986</unitdate></did></c03>
+<c03 level="file"><did><container type="box">1</container><container type="folder">8</container><unittitle>Maní, Maní, </unittitle><unitdate>1983</unitdate></did></c03>
+<c03 level="file"><did><container type="box">1</container><container type="folder">9</container><unittitle>Maní, Maní, </unittitle><unitdate>1984</unitdate></did></c03>
+<c03 level="file"><did><container type="box">1</container><container type="folder">10</container><unittitle>Maní, Maní, </unittitle><unitdate>1984</unitdate></did></c03>
+<c03 level="file"><did><container type="box">1</container><container type="folder">11</container><unittitle>Mérida-Catedral, Mérida, </unittitle><unitdate>1985</unitdate></did></c03>
+<c03 level="file"><did><container type="box">1</container><container type="folder">12</container><unittitle>Mérida-Catedral, Mérida, </unittitle><unitdate>1984</unitdate></did></c03>
+<c03 level="file"><did><container type="box">1</container><container type="folder">13</container><unittitle>Tabi, Sotuta, </unittitle><unitdate>1985</unitdate></did></c03>
+<c03 level="file"><did><container type="box">1</container><container type="folder">14</container><unittitle>Tabi, Sotuta, </unittitle><unitdate>1985</unitdate></did></c03>
+<c03 level="file"><did><container type="box">1</container><container type="folder">15</container><unittitle>Tabi, Sotuta, </unittitle><unitdate>1985</unitdate></did></c03>
+<c03 level="file"><did><container type="box">1</container><container type="folder">16</container><unittitle>Pustunich, Ticul, </unittitle><unitdate>1986</unitdate></did></c03>
+<c03 level="file"><did><container type="box">1</container><container type="folder">17</container><unittitle>Tixpéual, Tixpéual, </unittitle><unitdate>1986</unitdate></did></c03>
+<c03 level="file"><did><container type="box">1</container><container type="folder">18</container><unittitle>Tixcacaltuyub, Yascabá, </unittitle><unitdate>1984</unitdate></did></c03>
+<c03 level="file"><did><container type="box">1</container><container type="folder">19</container><unittitle>Tixcacaltuyub, Yascabá, </unittitle><unitdate>1984</unitdate></did></c03>
+<c03 level="file"><did><container type="box">1</container><container type="folder">20</container><unittitle>Tixcacaltuyub, Yascabá, </unittitle><unitdate>1984</unitdate></did></c03>
+<c03 level="file"><did><container type="box">1</container><container type="folder">21</container><unittitle>Yascabá, Yascabá, </unittitle><unitdate>1985</unitdate></did></c03>
+</c02>
+<c02 level="subseries"><did><container type="box">2</container><unittitle>Huasteca Potosina Photographs, </unittitle><unitdate>1987[?]</unitdate><physdesc>[approx. 150 b/w prints]</physdesc></did></c02>
+
+</c01>
+
+<c01 level="series" id="series2"><did><unittitle>Postcards, </unittitle><unitdate>1987, n.d.</unitdate></did>
+<c02 level="file"><did><container type="box">1</container><container type="folder">22</container><unittitle>Burro de piedra, Ichmul, </unittitle><unitdate>n.d.</unitdate></did></c02>
+<c02 level="file"><did><container type="box">1</container><container type="folder">23</container><unittitle>Angeles, catedral de Mérida, </unittitle><unitdate>n.d.</unitdate></did></c02>
+<c02 level="file"><did><container type="box">1</container><container type="folder">24</container><unittitle>Iglesia de Tixcuytún, </unittitle><unitdate>n.d.</unitdate></did></c02>
+<c02 level="file"><did><container type="box">1</container><container type="folder">25</container><unittitle>Espaldaña de iglesia, Yohtolín, </unittitle><unitdate>n.d.</unitdate></did></c02>
+<c02 level="file"><did><container type="box">1</container><container type="folder">26</container><unittitle>Nuestras plantas, </unittitle><unitdate>1987</unitdate></did></c02>
+
+</c01>
+
+<c01 level="series" id="series3"><did><unittitle>Printed Material, </unittitle><unitdate>n.d.</unitdate></did>
+<c02 level="file"><did><container type="box">1</container><container type="folder">27</container><unittitle>Museo Regional de Valladolid, </unittitle><unitdate>n.d.</unitdate></did></c02></c01>
+
+</dsc>
+</archdesc>
+</ead>
+

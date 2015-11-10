@@ -1,0 +1,156 @@
+<?xml version="1.0" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="webead.xsl"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead audience="external" relatedencoding="MARC">
+   
+   <eadheader audience="internal" countryencoding="iso3166-1" dateencoding="iso8601"
+      langencoding="iso639-2" repositoryencoding="iso15511" scriptencoding="iso15924">
+      <eadid countrycode="us" mainagencycode="MnHi">gr00270.xml</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>Becker County: Justice of the Peace</titleproper>
+            <subtitle>An Inventory of Its Justice of the Peace Records at the Minnesota Historical Society</subtitle>
+            
+            <sponsor>National Historical Publications and Records Commission.</sponsor>
+         </titlestmt>
+         <publicationstmt>
+            <publisher encodinganalog="Publisher">Minnesota Historical Society</publisher>
+            <address><addressline>St. Paul, MN.</addressline></address>
+         </publicationstmt>
+                   <seriesstmt><p>Government Records</p></seriesstmt>         </filedesc>
+      <profiledesc>
+         <creation>Finding aid encoded by
+            Cheri Thies, <date>April 2011.</date></creation>
+         <langusage>Finding aid written in <language langcode="eng">English</language>. </langusage>
+      </profiledesc>
+      
+   </eadheader>
+   <archdesc level="collection" type="inventory" relatedencoding="MARC"><did>
+         <head id="a1">OVERVIEW</head>
+         <repository label="Label:"><corpname>Minnesota Historical Society</corpname></repository>
+         <origination label="Creator:"><corpname role="creator" encodinganalog="110">Becker County
+               (Minn.). Justice of the Peace.</corpname></origination>
+         <unittitle label="Title:" encodinganalog="245$a">Justice of the peace records.</unittitle>
+       
+         <unitdate label="Date:" encodinganalog="245$f" type="inclusive" normal="1949/1966"
+            >1949-1966.</unitdate>
+        
+         <langmaterial label="Language of Materials">Materials in <language langcode="eng"
+               >English</language>. </langmaterial>
+         <abstract label="Abstract:">Records created by this justice court with county-wide
+            jurisdiction, during the terms of G. E. Teague and Halvor Langslet. Includes
+            docket books, 1949-1961, and marriage records, 1939-1966. There are also criminal docket
+            entries for April-July 1951.</abstract>
+         <physdesc label="Quantity:" encodinganalog="300">1.0 cu. ft. (1 box).</physdesc>
+         
+         <physloc label="Location:"> See <ref target="a9">Detailed Description</ref> for shelf
+            locations.</physloc>
+      </did> <controlaccess>
+         <head id="a7">CATALOG HEADINGS</head>
+         <p>This collection is indexed under the following headings in the catalog of the Minnesota
+            Historical Society. Researchers desiring materials about related topics should <extref
+               href="http://mnhs.mnpals.net/F" show="new" actuate="onrequest">search the
+               catalog</extref> using these headings.</p>
+         <controlaccess>
+            <head>Topics:</head>
+            <subject encodinganalog="650">Criminal procedure -- Minnesota -- Becker
+               County.</subject>
+            <subject encodinganalog="650">Justices of the peace -- Minnesota -- Becker
+               County.</subject>
+         </controlaccess>
+         <controlaccess>
+            <head>Persons:</head>
+            <persname role="creator" encodinganalog="700">Langslet, Halvor.</persname>
+            <persname role="creator" encodinganalog="700">Teague, Guy E.</persname>
+         </controlaccess>
+         <controlaccess>
+            <head>Document Types:</head>
+            <genreform encodinganalog="655">Dockets -- Minnesota -- Becker County.</genreform>
+            <genreform encodinganalog="655">Marriage records -- Minnesota -- Becker
+               County.</genreform>
+         </controlaccess>
+      </controlaccess><descgrp type="admininfo">
+         <head id="a8">ADMINISTRATIVE INFORMATION</head>
+         <prefercite encodinganalog="524">
+            <head>Preferred Citation:</head>
+            <p><emph render="italic">[Indicate the cited item and/or series here]. </emph>Becker
+               County (Minn.). Justice of the Peace. Justice of the Peace Records. Minnesota
+               Historical Society.</p>
+            <p><emph render="italic">See the Chicago Manual of Style for additional
+               examples.</emph></p>
+         </prefercite>
+         <acqinfo encodinganalog="541">
+            <head>Accession Information:</head>
+            <p>Accession numbers: 996-121; 2011-50</p>
+         </acqinfo>
+         <processinfo>
+            <head>Processing Information:</head>
+            <p><extref actuate="onrequest" audience="external" show="new"
+                  href="http://www.archives.gov/nhprc/"><extptr show="embed" altrender="right"
+                     title="NHPRC logo" href="images/nhprc-178x178.jpg"/></extref></p>
+            <p>Processing and cataloging of this collection was supported with a Basic Project grant
+               awarded by the National Historical Publications and Records Commission <extref
+                  actuate="onrequest" audience="external" href="http://www.archives.gov/nhprc/"
+                  >(NHPRC)</extref>.</p>
+            <p>Catalog ID number: 001733723</p>
+         </processinfo>
+      </descgrp>
+      <dsc type="combined">
+         <head id="a9">DETAILED DESCRIPTION</head>
+         <c01>
+            <did>
+               <physloc>118.C.20.9B</physloc>
+               <unittitle>Docket books,</unittitle>
+               <unitdate> 1949-1961. </unitdate>
+               <physdesc>4 volumes and 4 folders. </physdesc>
+            </did>
+          <c02><did>
+              <unitdate>September 1949-April 1951.</unitdate>
+             <physdesc>1 volume.</physdesc>
+          </did><scopecontent><p>Justices G. E. Teague and Halvor Langslet.</p></scopecontent>
+          </c02>
+            <c02><did>
+               <unitdate>April-December 1951.</unitdate>
+               <physdesc>1 volume.</physdesc>
+            </did><scopecontent><p>Justice Halvor Langslet; civil cases, June-December, on pages 1-75; criminal cases, April-July 1951, on pages 76-101.</p></scopecontent>
+            </c02>
+            <c02><did>
+               <unitdate>December 1951-1954.</unitdate>
+               <physdesc>1 volume and 2 folders.</physdesc>
+            </did><scopecontent><p>Justice Halvor Langslet.</p></scopecontent>
+            </c02>
+            <c02><did>
+               <unitdate>February 1955-1956.</unitdate>
+            
+            </did><scopecontent><p>Justice Halvor Langslet.</p></scopecontent>
+            </c02>
+            <c02><did>
+               <unitdate>March 1957-October 1958.</unitdate>
+      
+            </did><scopecontent><p>Justice Halvor Langslet.</p></scopecontent>
+            </c02>
+            <c02><did>
+               <unitdate>February 1959-January 1961.</unitdate>
+               <physdesc>1 volume.</physdesc>
+            </did><scopecontent><p>Justice Halvor Langslet.</p></scopecontent>
+            </c02>
+          
+         </c01>
+         <c01>
+            <did>
+               <physloc>118.C.20.9B</physloc>
+               <unittitle>Marriage records, </unittitle>
+               <unitdate>June 1939-October 1966. </unitdate>
+               <physdesc>1 volume in 1 folder. </physdesc>
+            </did>
+            <scopecontent>
+               <p>Kept by Justices G. E. Teague and Halvor Langslet; includes name, date,
+                  and county of marriages held. Also contains marriages officiated by Justice
+                  Langslet in several other Minnesota counties.</p>
+            </scopecontent>
+         </c01>
+         
+         
+      </dsc>
+   </archdesc>
+</ead>

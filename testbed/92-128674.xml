@@ -1,0 +1,248 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "-//Society of American Archivists//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead relatedencoding="MARC21"> 
+<eadheader langencoding="ISO639-2" findaidstatus="edited-full-draft"
+ audience="internal" id="a0"> 
+  <eadid encodinganalog="852$a" countrycode="us"
+	mainagencycode="TXHR"> urn:taro:rice.wrc.00049</eadid> 
+  <filedesc> 
+	 <titlestmt> 
+		<titleproper>Guide to Houston area land records for the Little, Dickson
+		  and Pastoriza additions, 1877-1935</titleproper> 
+		<author>Inventory prepared by Todd Samuelson</author> 
+	 </titlestmt> 
+	 <publicationstmt> 
+		<publisher>Woodson Research Center</publisher> 
+		<address> 
+		  <addressline>Rice University, Houston, Texas</addressline> 
+		</address> 
+		<date>August 2001</date> 
+	 </publicationstmt> 
+  </filedesc> 
+  <profiledesc> 
+	 <creation>Finding aid encoded by Philip Montgomery , Fondren Library 
+		<date>February 24, 2003</date></creation> 
+	 <langusage>Finding aid written in<language>English.</language></langusage> 
+  </profiledesc> 
+  <revisiondesc> 
+	 <change> 
+		<date>20030630</date> 
+		<item>Edited by Mandy York with XMetal 3 according to instructions in 
+		  <title>TARO 2 EAD 2002 Editing Instructions</title>.</item> 
+	 </change> 
+  </revisiondesc> 
+</eadheader> 
+<archdesc level="collection" type="inventory"> 
+  <did id="a1"> 
+	 <head>Descriptive Summary</head> 
+	 <repository label="Repository:" encodinganalog="852$a"> 
+		<corpname encodinganalog="852$a">Woodson Research Center,
+		  <subarea>Fondren Library, Rice University, Houston, TX</subarea></corpname>
+		</repository> 
+	 <unittitle label="Title:" encodinganalog="245">Houston area land records
+		for the Little, Dickson and Pastoriza additions</unittitle> 
+	 <unitdate type="inclusive" label="Dates:"
+	  encodinganalog="245$f">1877-1935</unitdate> 
+	 <physdesc label="Quantity:" encodinganalog="300$a">0.25 linear
+		feet</physdesc> 
+	 <abstract label="Abstract:" encodinganalog="520$a">This collection consists
+		of 11 abstracts of title and one warranty deed for property in the city of
+		Houston and Harris County, filed from 1877 to 1935. </abstract> 
+	 <unitid label="Identification:" encodinganalog="099" repositorycode="TxHR"
+	  countrycode="us">MS 432</unitid> <langmaterial label="Language:">Materials are
+	 in <language langcode="eng">English</language>.</langmaterial> 
+  </did> 
+  <scopecontent id="a3" encodinganalog="520"> 
+	 <head>Scope and Contents</head> 
+	 <p>This collection consists of 11 abstracts of title and one warranty deed
+		for property in the city of Houston and Harris County, filed from 1877 to 1935.
+		The first series deals with property in the R.J. Little Addition, north side of
+		Buffalo Bayou, and the John Dickinson Addition, north side of Buffalo Bayou.
+		The warranty deed was for property belonging to Martha J. Blalock. The second
+		series of property was part of the Pastoriza Addition, southside of Buffalo
+		Bayou from the Luke Moore League (survey).</p> 
+  </scopecontent> 
+  <arrangement id="a4" encodinganalog="351$a"> 
+	 <head>Arrangement</head> 
+	 <p>This collection is arranged in one box with each of the two series
+		consisting of items donated by the individual whose name is included in the
+		series title where the item is located.</p> 
+	 <list type="simple"> 
+		<item>Series I. Gift of Mrs. Clifton N. Hancock; property North of
+		  Buffalo Bayou, 1902-1910.</item> 
+		<item>Series II. Gift of Mrs. Ida Siegel; property south of Buffalo
+		  Bayou. 1877-1935, n.d.</item> 
+	 </list> 
+  </arrangement> 
+  <accessrestrict id="a14" encodinganalog="506"> 
+	 <head>Restrictions on Access</head> 
+	 <p>This material is open for research.</p> 
+  </accessrestrict> 
+  <userestrict id="a15" encodinganalog="540"> 
+	 <head>Restrictions on Use</head> 
+	 <p> Permission to publish from the Little, Dickson and Pastoriza families
+		Houston land records must be obtained from the Woodson Research Center, Fondren
+		Library, Rice University.</p> 
+  </userestrict> 
+  <controlaccess id="a12"> 
+	 <head> Index Terms</head> 
+	 <controlaccess> 
+		<head>Subjects (Persons)</head> 
+		<persname source="lcnaf" encodinganalog="700">Hancock, Clifton N., Mrs.
+		  -- donor.</persname> 
+		<persname>Siegel, Ida -- donor.</persname> 
+	 </controlaccess> 
+	 <controlaccess> 
+		<head>Places</head> 
+		<geogname encodinganalog="651" source="lcnaf">Harris County (Tex.) - land
+		  development.</geogname> 
+		<geogname encodinganalog="651" source="lcnaf">Houston (Tex.) - land
+		  development.</geogname> 
+	 </controlaccess> 
+	 <controlaccess> 
+		<head>Subjects:</head> 
+		<subject source="lcsh" encodinganalog="650">Land Records</subject> 
+		<subject source="lcsh" encodinganalog="650">Abstract Records</subject> 
+	 </controlaccess> 
+  </controlaccess> 
+  <prefercite id="a18" encodinganalog="524"> 
+	 <head>Preferred Citation</head> 
+	 <p> Little, Dickson and Pastoriza familes Houston land records, MS432,
+		Woodson Research Center, Fondren Library, Rice University.</p> 
+  </prefercite> 
+  <acqinfo id="a19" encodinganalog="541"> 
+	 <head>Acquisition Information</head> 
+	 <p>The first series of three abstracts and one deed was given to the
+		Woodson by Mrs. Clifton N. Hancock in December 1987. The second series was
+		given by Mrs. Ida Siegel in January 1987.</p> 
+  </acqinfo> 
+  <accruals id="a22" encodinganalog="584"> 
+	 <head>Accruals</head> 
+	 <p>No future additions are expected for this material.</p> 
+  </accruals> 
+  <dsc type="combined" id="a23"> 
+	 <head>Detailed Description of the Collection</head> 
+	 <c01 level="series" id="ser1"> 
+		<did> 
+		  <unittitle>Series I: Gift of Mrs. Clifton N. Hancock, 
+			 <unitdate>1902-1910.</unitdate></unittitle> 
+		</did> 
+		<scopecontent><p> Containing abstracts of title for property north of
+			 Buffalo bayou, and a warranty deed for property belonging to Martha J.
+			 Blalaock, 1902-1910.</p> 
+		</scopecontent> 
+		<c02> 
+		  <did> 
+			 <unitid>1.</unitid> 
+			 <unittitle>Abstract of Title no. 874. For "Lots 7  8 in block 27
+				of J.R. Little addition to the city of Houston, on the north side of Buffalo
+				Bayou."</unittitle> 
+			 <unitdate>Filed in 1902</unitdate> 
+		  </did> 
+		</c02> 
+		<c02> 
+		  <did> 
+			 <unitid>2.</unitid> 
+			 <unittitle>Abstract of Title no. 1133. For "Lot 7 Block 27 Little
+				addition to the city of Houston, Harris County, Texas."</unittitle> 
+			 <unitdate>Filed in 1909</unitdate> 
+		  </did> 
+		</c02> 
+		<c02> 
+		  <did> 
+			 <unitid>3.</unitid> 
+			 <unittitle>Abstract of Title no. 1133. For "Lot number 7, block
+				number 27 in the John Dickinson Addition, Norht side of Buffalo
+				Bayou."</unittitle> 
+			 <unitdate>Filed in 1910</unitdate> 
+		  </did> 
+		</c02> 
+		<c02> 
+		  <did> 
+			 <unitid>4.</unitid> 
+			 <unittitle>General Warranty Deed. For "lot 7 in block 27 in the John
+				Dickinson Addition to the City of Houston, Texas, or north side of Buffalo
+				Bayou." To Martha Blalock</unittitle> 
+			 <unitdate>Filed in 1909</unitdate> 
+		  </did> 
+		</c02> 
+	 </c01> 
+	 <c01 id="ser2" level="series"> 
+		<did> 
+		  <unittitle>Series II: Gift of Mrs. Ida Siegel</unittitle> 
+		</did> 
+		<scopecontent><p>Containing abstracts of title for property south of
+			 Buffalo Bayou. 1877-1935, n.d.</p> 
+		</scopecontent> 
+		<c02> 
+		  <did> 
+			 <unitid>5.</unitid> 
+			 <unittitle>Supplemental Abstract of Title. For "15.53 acres out of
+				the Southern portion of the East half of Lot 1 of the West half of the Luke
+				Moore League, ... Harris County, Texas." </unittitle> 
+			 <unitdate>Filed in 1908</unitdate> 
+		  </did> 
+		</c02> 
+		<c02> 
+		  <did> 
+			 <unitid>6.</unitid> 
+			 <unittitle>Two copies of Supplemental Abstract of Title no. 4489. For
+				"15.53 acres out of the Southern portion of hte East half of Lot 1 of the West
+				half of hte Luke Moore League, in the City of Houston, as described in deed
+				from T.W. Archer to J.J Pastoriza."</unittitle> 
+			 <unitdate>Filed in 1908</unitdate> 
+		  </did> 
+		</c02> 
+		<c02> 
+		  <did> 
+			 <unitid>7.</unitid> 
+			 <unittitle>Two copies of Abstract of Title. For "32 and 1840/5640
+				acres of land out of Lot no. 1, of the west half of the Luke Moore League,
+				Harris County, Texas, owned by W. J. Coulter and R.J. Thacker." </unittitle> 
+			 <unitdate>n.d.</unitdate> 
+		  </did> 
+		</c02> 
+		<c02> 
+		  <did> 
+			 <unitid>8.</unitid> 
+			 <unittitle>Abstract of Title no. 31948. For "Lot no. 12, block no. 5
+				of Pastoriza Addition to the City of Houston."</unittitle> 
+			 <unitdate>n.d. With copy of 1906 abstract attached.</unitdate> 
+		  </did> 
+		</c02> 
+		<c02> 
+		  <did> 
+			 <unitid>9.</unitid> 
+			 <unittitle>Abstract of Title no. 31948. For "Lot no. 12, block no. 5
+				of Pastoriaza Addition to the City of Houston."</unittitle> 
+			 <unitdate>Filed in 1913</unitdate> 
+		  </did> 
+		</c02> 
+		<c02> 
+		  <did> 
+			 <unitid>10.</unitid> 
+			 <unittitle>Abstract of Title no. 107/172. For "Lot 9 in block 1 and
+				lot 11 in block 5 of the Pastoriza Addition to the City of Houston, on the
+				South Side of Buffalo Bayou." </unittitle> 
+			 <unitdate>Filed in 1877</unitdate> 
+		  </did> 
+		</c02> 
+		<c02> 
+		  <did> 
+			 <unitid>11.</unitid> 
+			 <unittitle>Abstract of Title no. 59561. For "Lot Number 12, in Block
+				Number 5, J.J. Pastoriza Addition, an Addition of the City of Houston, on the
+				South Side of Buffalo Bayou."</unittitle> 
+			 <unitdate>Filed in 1935</unitdate> 
+		  </did> 
+		</c02> 
+		<c02> 
+		  <did> 
+			 <unitid>12.</unitid> 
+			 <unittitle>Abstract of Title no. 13101. For "Lots 2 and 9, block 1;
+				Lot 11, block 5, Pastoriza Addition to the city of Houston."</unittitle> 
+			 <unitdate>Filed in 1915</unitdate> 
+		  </did> 
+		</c02> 
+	 </c01></dsc> 
+</archdesc> </ead> 

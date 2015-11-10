@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<!-- wiarchives version:2012-09-20 -->
+<ead id="uw-whs-whit000s">
+  <eadheader langencoding="iso639-2b" scriptencoding="iso15924" dateencoding="iso8601" countryencoding="iso3166-1" repositoryencoding="iso15511">
+    <eadid countrycode="US" mainagencycode="whi">uw-whs-whit000s</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Register of the LeGrand Rockwell Papers, 1831-1868</titleproper>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Wisconsin Historical Society</publisher>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>Text converted and initial EAD tagging done with an in-house web form, <date era="ce" calendar="gregorian" type="publication" normal="2005-12">December, 2005.</date></creation>
+      <langusage>
+        <language langcode="eng">English</language>
+      </langusage>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <unittitle label="Title">LeGrand Rockwell Papers, <unitdate type="inclusive" era="ce" calendar="gregorian" certainty="y" normal="1831/1868">1831-1868</unitdate></unittitle>
+      <origination label="Creator">
+        <persname>Rockwell, LeGrand</persname>
+      </origination>
+      <unitid label="Call Number">Whitewater Mss S</unitid>
+      <physdesc label="Quantity">0.2 c.f. (1 archives box)</physdesc>
+      <repository label="Repository"><extptr entityref="whslogo" show="embed" actuate="onload" altrender="center" title="Wisconsin Historical Society logo" role="logoimage"/>
+Housed at the <extref linktype="simple" href="http://library.uww.edu/archives/">University Archives  Area Research Center, Harold Andersen Library, University of Wisconsin-Whitewater</extref>; owned by the <extref linktype="simple" href="http://digital.library.wisc.edu/1711.dl/whsead.contact">Wisconsin Historical Society, Library-Archives Division</extref></repository>
+      <physloc>
+        <extref linktype="simple" href="http://digital.library.wisc.edu/1711.dl/whsead.catalog?repl1=rlin+%22wihv87-a897%22" role="handle" title="Persistent catalog URL">See the catalog entry for information on possible additional materials and shelf locations.</extref>
+      </physloc>
+      <physloc type="locationcode" audience="internal">wwhiwu</physloc>
+      <abstract>Papers of an Elkhorn, Wisconsin, man including diaries, 1836, 1837, 1848, 1849, and correspondence dealing with the settlement of Walworth County; plans for a railroad, 1855-1857, called the Wisconsin Central Railroad; and family matters. Correspondents include Charles M. Baker, Simeon Mills, and John H. Tweedy.</abstract>
+      <langmaterial label="Language">
+        <language langcode="eng">English</language>
+      </langmaterial>
+    </did>
+    <bioghist>
+      <p>This is a small collection of papers, 1831-1868, of an early resident of southeastern Wisconsin. LeGrand Rockwell, according to information in the Wisconsin Historical Collections, volumes 1 and 6, came to Oconomowoc in 1836 and settled in Elkhorn in 1837. At the latter place he became the first county register of deeds and clerk of the district court for Walworth County. Several other members of his family seem to have moved to Wisconsin to Oconomowoc, Milwaukee, and Platteville--but his father, A. S. Rockwell, remained at Otego, New York.</p>
+    </bioghist>
+    <scopecontent>
+      <p>The earliest item of importance in these papers is a fragment of a diary, partly in pencil, kept by Rockwell in February and March, 1837, when he was locating his property in and around Elkhorn, and is valuable as a record of an early arrival in territorial Wisconsin. Two small diaries for 1848 and 1849 contain, for the most part, memoranda on purchases, the weather, etc. although at the end of the volume for 1848 is a list of varieties of apple trees that he presumably set out on his farm.</p>
+      <p>Early correspondence is devoted largely to family affairs, routine records of taxation, law cases, and other matters connected with his county offices. Among the letters are a few from persons who took leading parts in territorial affairs, although the letters themselves are relatively unimportant: John H. Tweedy, C. M. Baker, Simeon Mills, and others.</p>
+      <p>From about 1855 to 1857 there is correspondence on a projected railroad, called the Wisconsin Central Railroad, of which Rockwell was president. Plans were made to extend an Illinois railroad across the state boundary line through Geneva and Elkhorn and thence somewhere in the region of Lake Mills. Information on the project is in the form of mortgage bonds, estimates of finances, and correspondence with bond-holders, promoters, officials of the company, and other railroad companies. Among the writers of letters on the subject are E. M. Joslin of Lake Mills, James T. Lewis of Columbus (later governor of Wisconsin), B. W. Raymond of Chicago who was in charge of the Illinois section of the road, and M. Smith, chief engineer.</p>
+      <p>There are occasional letters regarding the Elkhorn bank, of which Rockwell was president, in connection with railroad matters and continuing to the end of the collection. After 1860, however, the papers are largely confined to receipts, notes, local affairs, and family correspondence.</p>
+    </scopecontent>
+  </archdesc>
+</ead>

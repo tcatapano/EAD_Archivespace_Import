@@ -1,0 +1,267 @@
+<?xml version="1.0"?>
+<!-- wiarchives version:2012-09-20 -->
+<ead id="uw-whs-mss00688">
+  <eadheader langencoding="iso639-2b" scriptencoding="iso15924" dateencoding="iso8601" countryencoding="iso3166-1" repositoryencoding="iso15511">
+    <eadid countrycode="US" mainagencycode="whi">uw-whs-mss00688</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Register of the Emil Schaefer Papers, 1927-1974</titleproper>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Wisconsin Historical Society</publisher>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>Text converted and initial EAD tagging done with an in-house template, <date era="ce" calendar="gregorian" type="publication" normal="2008-09">September, 2008.</date>
+    </creation>
+      <langusage>
+        <language langcode="eng">English</language>
+      </langusage>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <unittitle label="Title">Emil Schaefer Papers, <unitdate type="inclusive" era="ce" calendar="gregorian" certainty="y" normal="1927/1974">1927-1974</unitdate></unittitle>
+      <origination label="Creator">
+        <persname>Schaefer, Emil, 1892-1973</persname>
+      </origination>
+      <unitid label="Call Number">Mss 688</unitid>
+      <physdesc label="Quantity">0.8 c.f. (2 archives boxes)</physdesc>
+      <repository label="Repository">
+        <extptr entityref="whslogo" show="embed" actuate="onload" altrender="center" title="Wisconsin Historical Society logo" role="logoimage"/>
+        <extref linktype="simple" href="http://digital.library.wisc.edu/1711.dl/whsead.contact">Wisconsin Historical Society, Library-Archives Division</extref>
+      </repository>
+      <physloc type="locationcode" audience="internal">whi</physloc>
+      <physloc>
+        <extref href="http://digital.library.wisc.edu/1711.dl/whsead.catalog?repl1=rlin+%22wihv85-a1766%22" role="handle">See the catalog entry for information on possible additional materials and shelf locations.</extref>
+      </physloc>
+      <abstract>Papers of Emil Schaefer, a former farm worker, teacher, and school principal who was active in Swiss-American groups in Wisconsin. The collection mainly concerns Schaefer's long involvement with the Swiss American Historical Society, and documents the activities of the Society during the Second World War and post-war years. Schaefer's correspondence files mainly concern official matters of the Swiss American Historical Society, and his personal friendships with many of the members. There is correspondence with Alfred Senn, Heinz K. Meier, and J. P. Von Grueningen, all officers of the Society; Lukas Burckhardt, the Swiss ambassador to the United States; and the Swiss Embassy and the Swiss Consulate in Chicago. A part of the correspondence is in German. Records of the Swiss American Historical Society consist of constitutions; lists of officers and members; annual reports of officers; announcements of meetings, projects, and publications; clippings; and a typescript history of the Society. There are also a few bulletins and other materials collected by Schaefer from Swiss government agencies.</abstract>
+      <langmaterial label="Language">
+        <language langcode="eng">English</language>
+        <language langcode="ger">German</language>
+      </langmaterial>
+    </did>
+<!-- TOP LEVEL METADATA GO HERE: -->
+    <bioghist>
+      <p><emph render="underline">Emil Schaefer</emph> was born in 1892 in Jurich-hong, Switzerland. He attended primary and secondary schools in Winterthur, Switzerland. Originally intending to immigrate to Brazil and take up farming, Schaefer had received agricultural training as an apprentice on a large farm in Oberdiesbach (Canton Berne). He had also attended the Gymnasium (Industrischule) Winterthur. Instead, Schaefer immigrated to the United States at the age of nineteen. He went first to Monticello, Wisconsin, where he worked on the farm of Ernest Robert, a Swiss from Chaux-de-Fonds. Farm work was followed by short term jobs in Milwaukee, and Zion and Elgin, Illinois. He then spent three years at Naperville, Illinois, where he attended North Central College and received a Bachelor of Science degree.</p>
+      <p>Schaefer spent several years in the West, teaching high school in Buckley and Seattle, Washington. He then returned to Illinois and taught high school courses in chemistry, zoology, and botany. He eventually became a high school principal in Zion, Illinois, and also taught at the small College of Zion. During the summers he attended courses at the University of Chicago and Northwestern University. Schaefer then moved to Wisconsin and joined the faculty of Madison Vocational and Adult School as instructor of distributive education. By the time of his retirement in 1960 Schaefer had become the head of his department which had expanded to a faculty of 18 and an enrollment of 900. While living in Madison, Schaefer attended the University of Wisconsin and earned a Master of Adult Education degree. He was also director and announcer of a weekly half-hour radio program of Swiss music, Alpine Melodies, which he broadcast on radio station WHA for 37 years. In 1938 Schaefer was one of the founding members of the Madison Swiss Club.</p>
+      <p>In 1940 Schaefer was elected president of the Swiss American Historical Society (SAHS), an organization which remained one of his chief concerns until his death. Though he became president at a time when the SAHS was plagued by dissension and factionalism, and though the years of his presidency were difficult ones for German speaking Americans, Schaefer managed, in an unassuming and friendly way, to hold the Society together. During Schaefer's administration the SAHS enjoyed its largest membership and three publications were produced under its imprimatur: <title render="italic">The Swiss in the United States</title>, edited by J. P. Von Grueningen, and two volumes of <title render="italic">The Swiss Record</title>, edited by Alfred Senn. Schaefer remained active in SAHS long after he resigned the presidency in 1952. He served as acting president in 1964 and as treasurer in 1965. In 1966 he was vice-president and from 1968 to 1971 librarian. As librarian Schaefer assumed responsibility for the sale and distribution of the Society's publications. Following his retirement Schaefer taught English for a brief period at the Kantonsschule in Winterthur, Switzerland. He died in Madison in April 1973.</p>
+      <p>The <emph render="underline">Swiss American Historical Society</emph> was founded in Chicago on July 4, 1927, for the purpose of collecting, preserving and disseminating historical and biographical information about Swiss settlers in the United States, and to satisfy a widely expressed desire to have the collected material published in book form. Membership in SAHS has fluctuated greatly over the years. From a high point of 175 members in 1942, membership declined until in 1960 there were only 24 members. The Society was reorganized under a new constitution in 1963 and entered a period of growth and renewed activity. The Swiss American Historical Society was small in numbers but it included among its officers several prominent Swiss-American academics. Heinz K. Meier, Professor of History at Old Dominion University, and Alfred Senn, Professor of Germanic Languages at the Universities of Wisconsin and Pennsylvania, served as presidents. J. P. Von Grueningen of the University of Wisconsin German Department was also an active member.</p>
+    </bioghist>
+    <scopecontent>
+      <p>The Emil Schaefer papers are confined primarily to the years 1940-1973 and are concerned mainly with affairs of the Swiss American Historical Society. The papers offer extensive documentation of the activities of a small German-speaking ethnic group during the Second World War and post-war years. The collection is arranged in three series: Correspondence, Records of the Swiss American Historical Society, and Bulletins and Other Materials from Swiss Government Agencies.</p>
+      <p>Emil Schaefer's CORRESPONDENCE is arranged by correspondent and by subject. Within each file the letters have been organized in chronological order. One file of correspondence relates to Schaefer's radio program Alpine Melodies and a few items pertain to the Madison Swiss Club. The vast majority of the letters concern official matters of the Swiss American Historical Society, but over the years Schaefer developed personal friendships with many of his correspondents and some of the mail transcends purely business concerns. A typescript of a history of the Swiss American Historical Society is included in Schaefer's correspondence with Heinz Meier. In the correspondence with Lukas Burckhardt, the Swiss ambassador to the United States, issues of concern to Swiss Americans, such as attitudes toward use of the German language during the war, are discussed. The correspondence with the Swiss Embassy and the Swiss Consulate in Chicago illustrate the role of those institutions in the Swiss community of the United States. Biographical information on Schaefer is included in the correspondence with Heinz K. Meier (May 28, 1973) and in the general correspondence (January 27, 1970). A part of the correspondence is in German. The most important correspondents, with the exception of Burckhardt, were officers of the SAHS: Alfred Senn, Heinz K. Meier, and J. P. Von Grueningen.</p>
+      <p>The RECORDS OF THE SWISS AMERICAN HISTORICAL SOCIETY consist of organizational materials such as constitutions, lists of officers and members, and annual reports of officers. A file of form letters and bulletins consists mainly of announcements of meetings, projects, and publications. Other records include clipping files. A history of the Swiss American Historical Society appeared in the Society's <title render="italic">Newsletter</title>, vol. IX, numbers 1 and 2 (February and May 1973); the typescript of the history is filed in the correspondence series, as noted above. The Society's newsletters are available in the Historical Society Library.</p>
+      <p>Schaefer's collection of BULLETINS AND OTHER MATERIALS FROM SWISS GOVERNMENT AGENCIES is comprised of bulletins, newsletters, lectures, and essays distributed by the Swiss Embassy, the Swiss Consulate of Chicago, and the Office for Swiss in Foreign Lands.</p>
+    </scopecontent>
+    <relatedmaterial>
+      <p>The Historical Society also holds the papers of Alfred Senn, a president of the Swiss American Historical Society, an editor of its publications, and a close friend of Schaefer's.</p>
+    </relatedmaterial>
+<!-- END TOP LEVEL METADATA -->
+<!-- ADMINISTRATIVE INFORMATION GOES HERE: -->
+    <descgrp type="admininfo">
+      <head>Administrative/Restriction Information</head>
+      <acqinfo>
+        <p>Presented by Mrs. Emil J. Schaefer, Madison, Wisconsin, 1976. <num type="accession">M76-164</num></p>
+      </acqinfo>
+      <processinfo>
+        <p>Processed by David Kinnett and Joanne Hohler, 1977, and by Bill Beaudreau and Menzi Behrnd-Klodt, 1986.</p>
+      </processinfo>
+    </descgrp>
+<!-- END ADMINISTRATIVE INFORMATION -->
+<!-- START DESCRIPTION OF SUBORDINATE COMPONENTS-->
+    <dsc type="in-depth">
+      <head>Contents List</head>
+<!--PASTE CONTAINER LIST HERE-->
+      <c01 level="series">
+        <did>
+          <unittitle>Correspondence</unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="box" label="Box">1</container>
+            <container type="folder" label="Folder">1</container>
+            <unittitle>General Correspondence and Speeches, <unitdate>1940-1972</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <unittitle>Correspondence with specific individuals/organizations</unittitle>
+          </did>
+          <c03>
+            <did>
+              <container type="box" label="Box">1</container>
+              <container type="folder" label="Folder">2</container>
+              <unittitle>Alfred Senn, <unitdate>1938-1973</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box" label="Box">1</container>
+              <container type="folder" label="Folder">3-4</container>
+              <unittitle>J. P. Von Grueningen, <unitdate>1940-1964</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box" label="Box">1</container>
+              <container type="folder" label="Folder">5-6</container>
+              <unittitle>Lukas Burckhardt, <unitdate>1953-1971</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box" label="Box">1</container>
+              <container type="folder" label="Folder">7-8</container>
+              <unittitle>Swiss Consulate, Chicago, <unitdate>1958-1973</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box" label="Box">1</container>
+              <container type="folder" label="Folder">9</container>
+              <unittitle>Maurice Rohrbach, <unitdate>1962-1964</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box" label="Box">1</container>
+              <container type="folder" label="Folder">10</container>
+              <unittitle>Ernest Kuhn, <unitdate>1962-1964</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box" label="Box">1</container>
+              <container type="folder" label="Folder">11</container>
+              <unittitle>Hans Frey, <unitdate>1963</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box" label="Box">1</container>
+              <container type="folder" label="Folder">12</container>
+              <unittitle>Augustin Maisson, <unitdate>1964-1968</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box" label="Box">1</container>
+              <container type="folder" label="Folder">13</container>
+              <unittitle>Heinz Meier, <unitdate>1964-1974</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03>
+            <did>
+              <container type="box" label="Box">1</container>
+              <container type="folder" label="Folder">14</container>
+              <unittitle>Agathon Aerni, <unitdate>1965-1966</unitdate></unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02>
+          <did>
+            <container type="box" label="Box">1</container>
+            <container type="folder" label="Folder">15</container>
+            <unittitle>Correspondence concerning the radio program, Alpine Melodies, <unitdate>1961-1967</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box" label="Box">1</container>
+            <container type="folder" label="Folder">16</container>
+            <unittitle>Correspondence concerning publications of the Swiss American Historical Society, <unitdate>1963-1973</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Records of the Swiss American Historical Society</unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="box" label="Box">1</container>
+            <container type="folder" label="Folder">17</container>
+            <unittitle>Constitutions and Revised Constitutions of the Swiss American Historical Society, <unitdate>1927-1970</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box" label="Box">1</container>
+            <container type="folder" label="Folder">18</container>
+            <unittitle>Annual Reports of Officers, <unitdate>1936-1969</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box" label="Box">1</container>
+            <container type="folder" label="Folder">19</container>
+            <unittitle>Annual Inventories and Reports on Publications, <unitdate>1965-1973</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box" label="Box">1</container>
+            <container type="folder" label="Folder">20</container>
+            <unittitle>List of Officers and Members, <unitdate>1965-1972</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box" label="Box">1</container>
+            <container type="folder" label="Folder">21</container>
+            <unittitle>Form Letters and Bulletins, <unitdate>1931-1973</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box" label="Box">2</container>
+            <container type="folder" label="Folder">1</container>
+            <unittitle>Reviews and Clippings on <title render="italic">The Swiss in the United States</title>, <unitdate>1940-1941</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box" label="Box">2</container>
+            <container type="folder" label="Folder">2</container>
+            <unittitle>Clippings Concerning Swiss Americans, <unitdate>1928-1971</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Bulletins and Other Materials from Swiss Government Agencies</unittitle>
+        </did>
+        <c02>
+          <did>
+            <container type="box" label="Box">2</container>
+            <container type="folder" label="Folder">3</container>
+            <unittitle>Office for Swiss in Foreign Lands (Auslandschweizersekretariat), <unitdate>1940-1970</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box" label="Box">2</container>
+            <container type="folder" label="Folder">4</container>
+            <unittitle>Swiss Embassy, <unitdate>1964-1968</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box" label="Box">2</container>
+            <container type="folder" label="Folder">5</container>
+            <unittitle>Lectures and Essays Distributed by the Swiss Embassy, <unitdate>1947-1967</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box" label="Box">2</container>
+            <container type="folder" label="Folder">6-7</container>
+            <unittitle><title render="italic">Switzerland Today</title>, quarterly bulletin of the Swiss Consulate, Chicago, <unitdate>1963-1973</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+    </dsc>
+<!-- END DESCRIPTION OF SUBORDINATE COMPONENTS-->
+  </archdesc>
+</ead>

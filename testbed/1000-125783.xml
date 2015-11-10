@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+  <eadheader langencoding="iso639-2b" scriptencoding="iso15924" relatedencoding="dc" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" id="a0">
+    <eadid countrycode="us" encodinganalog="identifier" mainagencycode="ohy" url="http://nwda.orbiscascade.org/ark:/80444/xv49960" identifier="80444/xv49960">OHY_Mss2759</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper encodinganalog="title">Eldon G. Chuinard Papers<date encodinganalog="Date">circa 1967-1984.</date></titleproper>
+        <titleproper type="filing" altrender="nodisplay">Eldon G. Chuinard Papers</titleproper>
+        <author encodinganalog="creator">Finding aid prepared by MarcEdit</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher encodinganalog="publisher"> Oregon Historical Society Davies Family Research
+                Library<extptr actuate="onload" show="embed" href="http://ohs.org/images/logo_2.gif"/></publisher>
+        <date encodinganalog="date" type="inclusive" era="ce" calendar="gregorian" normal="2012">2012</date>
+        <address>
+          <addressline>Portland, OR  97205</addressline>
+          <addressline>503-306-5240</addressline>
+          <addressline>http://www.ohs.org/</addressline>
+          <addressline>libreference@ohs.org</addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation encodinganalog="description"> Finding aid encoded by MarcEdit <date era="ce" calendar="gregorian" normal="2012">2012</date></creation>
+      <langusage> Finding aid written in <language langcode="eng" encodinganalog="language" scriptcode="latn">English.</language></langusage>
+      <descrules>Finding aid based on DACS (<title render="italic">Describing Archives: A Content Standard</title>)</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection" type="inventory" relatedencoding="marc21">
+    <did id="a1">
+      <repository>
+        <corpname encodinganalog="852$a"> Oregon Historical Society <subarea encodinganalog="852$b">Research Library</subarea></corpname>
+        <address>
+          <addressline>Oregon Historical Society Davies Family Research Library</addressline>
+          <addressline>Portland, OR  97205</addressline>
+          <addressline>503-306-5205</addressline>
+          <addressline>http://www.ohs.org/</addressline>
+          <addressline>libreference@ohs.org</addressline>
+        </address>
+      </repository>
+      <unitid encodinganalog="099" countrycode="us" repositorycode="orhi">Mss 2759</unitid>
+      <origination>
+        <persname encodinganalog="100" source="lcnaf" role="creator" rules="dacs">Chuinard, Eldon G.</persname>
+      </origination>
+      <unittitle encodinganalog="245$a" type="collection">Eldon G. Chuinard papers</unittitle>
+      <unitdate type="inclusive" era="ce" calendar="gregorian" encodinganalog="245$f" certainty="approximate" normal="circa 1967/1984">circa 1967-1984</unitdate>
+      <physdesc>
+        <extent encodinganalog="300$a">.23 cubic feet (1 document case)</extent>
+      </physdesc>
+      <abstract encodinganalog="5203_">Collection includes: Correspondence, ca. 1967-1980; Documents relating to Columbia Gorge legislation, 1983-1984; Historical biographies by Chuinard on John McLoughlin and Marcus Whitman.  </abstract>
+      <langmaterial>
+        <language encodinganalog="546" langcode="Eng">English</language>
+      </langmaterial>
+    </did>
+    <scopecontent encodinganalog="520$a">
+      <p>Collection includes: Correspondence, ca. 1967-1980; Documents relating to Columbia Gorge legislation, 1983-1984; Historical biographies by Chuinard on John McLoughlin and Marcus Whitman.</p>
+    </scopecontent>
+    <accessrestrict encodinganalog="506" id="a14">
+      <p>The collection is open to the public.</p>
+    </accessrestrict>
+    <userestrict encodinganalog="540" id="a15">
+      <p>The Oregon Historical Society owns the materials in the Research Library and makes available reproductions for research, publication, and other uses. Written permission must be obtained from the Research Library prior to any reproduction use. The Society does not necessarily hold copyright to all materials in the collections, In some cases, permission for use may require seeking additional authorization from copyright owners.</p>
+    </userestrict>
+    <prefercite encodinganalog="524" id="a18">
+      <p>Eldon G. Chuinard Papers, Mss 2759, Oregon Historical Society Research Library.</p>
+    </prefercite>
+    <controlaccess id="a12">
+      <controlaccess>
+        <famname source="lcnaf" rules="aacr2r" role="subject" encodinganalog="600">Chuinard, Eldon G. -- Archives.</famname>
+      </controlaccess>
+      <controlaccess>
+        <famname source="lcnaf" rules="aacr2r" role="subject" encodinganalog="600">McLoughin, John, -- 1784-1857 -- Biography.</famname>
+      </controlaccess>
+      <controlaccess>
+        <famname source="lcnaf" rules="aacr2r" role="subject" encodinganalog="600">Whitman, Marcus, -- 1802-1847 -- Biography.</famname>
+      </controlaccess>
+      <controlaccess>
+        <geogname source="lcsh" rules="scm" role="subject" encodinganalog="651">Columbia River Gorge (Or. and Wash.) -- Environmental conditions -- Law and legislation.</geogname>
+      </controlaccess>
+      <controlaccess>
+        <subject source="lcsh" encodinganalog="650" rules="scm">Authors -- Oregon.</subject>
+      </controlaccess>
+      <controlaccess>
+        <genreform source="lcsh" encodinganalog="655">Legal documents. -- aat</genreform>
+      </controlaccess>
+      <controlaccess>
+        <genreform source="lcsh" encodinganalog="655">Letters (correspondence) -- aat</genreform>
+      </controlaccess>
+      <controlaccess>
+        <genreform source="lcsh" encodinganalog="655">Manuscripts for publication. -- aat</genreform>
+      </controlaccess>
+      <controlaccess>
+        <subject altrender="nodisplay" source="nwda" encodinganalog="690">Oregon</subject>
+      </controlaccess>
+    </controlaccess>
+  </archdesc>
+</ead>

@@ -1,0 +1,2168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+  <!--The following section is header information that describes the finding aid-->
+  <eadheader id="a0" langencoding="iso639-2b" scriptencoding="iso15924" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" relatedencoding="dc">
+    <eadid countrycode="us" encodinganalog="identifier" mainagencycode="OPV" identifier="80444/xv11986" url="http://nwda.orbiscascade.org/ark:/80444/xv11986">OPVARCH1_20</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper encodinganalog="title">Guide to the Campus Ministry
+			 Records 
+			 <date era="ce" calendar="gregorian" encodinganalog="date" normal="1954/1995">1954-1995</date></titleproper>
+        <titleproper type="filing" altrender="nodisplay">Campus Ministry
+			 Records</titleproper>
+        <author encodinganalog="creator">Finding aid prepared by Kerstin
+			 Ringdahl</author>
+        <sponsor encodinganalog="contributor">Funding for encoding this finding
+			 aid was provided through a grant awarded by the National Endowment for the
+			 Humanities.</sponsor>
+      </titlestmt>
+      <publicationstmt>
+        <publisher encodinganalog="publisher">Pacific Lutheran University,
+			 Archives and Special Collections</publisher>
+        <date era="ce" calendar="gregorian" normal="2006" encodinganalog="date">
+        </date>
+        <address>
+          <addressline>12180 Park Avenue S.</addressline>
+          <addressline>Tacoma, WA 98447</addressline>
+          <addressline>253-535-7586</addressline>
+          <addressline>http://www.plu.edu/archives</addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>Finding aid encoded by <emph render="italic"><emph render="underline">ArchProteus</emph></emph><date era="ce" calendar="gregorian" normal="2006">2006</date></creation>
+      <langusage>Finding aid is in<language langcode="eng" encodinganalog="language" scriptcode="latn"> English</language></langusage>
+      <descrules>Finding aid based on DACS ( 
+		<title render="italic">Describing Archives: A Content
+		  Standard</title>)</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection" type="inventory" relatedencoding="marc21">
+    <did id="a1">
+      <repository>
+        <corpname encodinganalog="852$a" source="lcsh">Pacific Lutheran
+			 University</corpname>
+        <subarea encodinganalog="852$b">Archives and Special
+		  Collections</subarea>
+        <address>
+          <addressline>12180 Park Avenue S.</addressline>
+          <addressline>Tacoma, WA 98447</addressline>
+          <addressline>253-531-6900</addressline>
+          <addressline>http://www.plu.edu/archives</addressline>
+        </address>
+      </repository>
+      <unitid countrycode="us" encodinganalog="099" repositorycode="OPV" identifier="80444/xv11986">OPVARCH1_20 </unitid>
+      <origination>
+        <corpname encodinganalog="110" role="creator" rules="dacs">Campus
+			 Ministry</corpname>
+      </origination>
+      <unittitle encodinganalog="245$a" type="collection">Campus Ministry
+		  Records </unittitle>
+      <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1954/1995">1954-1995</unitdate>
+      <physdesc>
+        <extent encodinganalog="300$a">10 boxes (15 lin.ft), 1
+		  scrapbook, 85 photographs</extent>
+      </physdesc>
+      <abstract encodinganalog="5203_">Records documenting the founding,
+		  organization, management and running of Campus Ministry from the years 1955 to
+		  1995.</abstract>
+      <langmaterial>
+        <language langcode="eng" scriptcode="latin" encodinganalog="546">Englisg</language>
+      </langmaterial>
+    </did>
+    <bioghist id="a2" encodinganalog="5451_">
+      <head>Historical note:</head>
+      <p>The Student Congregation of Pacific Lutheran College (PLC) was formed
+		  in 1955 through the combined efforts of President Eastvold, the PLC faculty and
+		  the student body. It was created with the intent to be a congregation made up
+		  of and run by the students of PLC, functioning under the Evangelical Lutheran
+		  Church (ELC). It functioned the same as any ELC congregation of the time, with
+		  a Church Council and its officers, a Board of Trustees to handle material
+		  matters, and a Board of Deacons of handle spiritual matters. The recently
+		  constructed Chapel-Music-Speech Building was to function as its place of
+		  worship, and the first pastor called to minister to the Student Congregation
+		  was Reverend Robert W. Lutnes.</p>
+      <p>Pastor Lutnes served as Pastor to the Student Congregation during its
+		  formative years, at first only overseeing the congregation and its needs, but
+		  by his final year (1958) acting as official advisor to all of the religious
+		  clubs on campus. Also in 1958, he was officially asked to assist the Dean of
+		  students in arranging speakers for the required Chapel services that took place
+		  four days a week in the Chapel-Music-Speech Building--a task that had
+		  previously been the responsibility of the Dean and the President.</p>
+      <p>Reverend John Larsgaard was called to be the second pastor to the
+		  Student Congregation in 1959. In 1960, Pacific Lutheran College became Pacific
+		  Lutheran University (PLU), and in 1962 President Eastvold resigned, to be
+		  replaced by Dr. Mortvedt. With the steady growth of the Student Congregation,
+		  the workload quickly became too heavy for one pastor to handle everything.
+		  Thus, a number of different Associate Pastors--many of them housefathers--were
+		  hired part-time to help ease the burden. They included Pastor "Pops" Malmin
+		  (housefather of Old Main (Harstad)), Pastor S.M. Moe (housefather in Ivy Hall),
+		  Pastor Alf Kraabel (housefather in Pflueger), and Joseph Shefveland (Foss
+		  Hall). By 1966 the work load became heavy enough that a second full-time pastor
+		  became necessary and Reverend Morris Dalton was called to be Associate Pastor
+		  to the Student Congregation.</p>
+      <p>In addition to his duties as Pastor to the University Congregation,
+		  Pastor Larsgaard was also University Chaplain, and therefore in charge of
+		  organizing Chapel. Ever since the Chapel-Music-Speech Building was built in
+		  1952, all students had been required to attend Chapel four days a week. In
+		  1966, though, the student body began to argue against mandatory Chapel
+		  attendance. Pastor Larsgaard agreed with the students, supporting voluntary
+		  Chapel for everyone, and the school year of 1967-1968 was the first year that
+		  students were not required to attend Chapel.</p>
+      <p>Both Pastor Larsgaard and President Mortvedt left PLU in 1969.
+		  President Mortvedt was replaced by Dr. Wiegman, and Pastor Larsgaard by
+		  Reverend Don Taylor. This was a time of upheaval and change at PLU. It was
+		  generally considered that the Student Congregation was not meeting the needs of
+		  the students on campus, and President Weigman felt that it was important to
+		  find alternate worship possibilities and a different form of organization for
+		  religious groups on campus. In response to this, the Religious Life Council was
+		  formed as a governing body for all religious groups on campus. Additionally,
+		  the Religious Life Council was given the authority to appoint ministers to the
+		  university. Thus, the ministers called to the University were no longer Pastors
+		  to the Student Congregation, but Ministers to the University at large, with the
+		  Student Congregation being only one of their responsibilities.</p>
+      <p>Following this change in structure, Pastor Dalton's contract was not
+		  renewed, and Pastor Taylor's was only renewed for one year. In 1971, Reverend
+		  Gordon Lathrop was called to be University Minister. He worked as the only
+		  pastor on campus for two years, though he had interns to help him with his
+		  duties. In 1973, the Student Congregation revised its constitution and changed
+		  its name to the University Congregation. In that same year, the workload again
+		  became too heavy for one pastor, even with the help of interns, and Reverend
+		  James Beckman was called to minister alongside Pastor Lathrop. During their two
+		  years together, the PLU administration reached a point of upheaval. President
+		  Wiegman took a leave of absence for his final year as University President, and
+		  Provost Jungkuntz took over for him. In 1975, Dr. William Rieke was chosen as
+		  PLU's next president.</p>
+      <p>Pastor Lathrop left PLU in 1975, and Reverend Donald Jerke was called
+		  to take his place. Pastor Jerke worked alongside Pastor Beckman until 1976,
+		  when Pastor Beckman died of cancer. That year Reverend Ronald Tellefson was
+		  called to be Campus Minister alongside Pastor Jerke. In 1978, the Religious
+		  Life Council revised its constitution and changed its name to the Campus
+		  Ministry Council. One year later, Pastor Jerke resigned his post as University
+		  Minister and accepted a position as Vice President for Student Life.</p>
+      <p>Pastor Tellefson stayed as University Minister for ten years. During
+		  that time the Beckman Memorial Lectureship Series was initiated in Memory of
+		  Pastor Beckman, the first being held in 1978. In 1980, Reverend Ron Pierre
+		  Vignec was called to be Associate Pastor. Together he and Tellefson saw the
+		  establishment of ties between PLU and Africa, the creation of the Chicago Folk
+		  Services, the 1982 Peacemaking Conference, and another revision of the Campus
+		  Ministry Council's constitution. Pastor Vignec left PLU in 1985, the same year
+		  that the University Congregation celebrated its 30th Anniversary. Pastor
+		  Tellefson stayed as Campus Minister until 1987, when he accepted the
+		  appointment as Director of Church and University Support at PLU.</p>
+      <p>In 1987, three University Ministers were called simultaneously to
+		  serve PLU. Reverends Daniel Erlander, Susan Briehl and Martin Wells ministered
+		  to PLU until 1994.</p>
+    </bioghist>
+    <scopecontent id="a3" encodinganalog="5202_">
+      <p>Records documenting the history of Campus ministry at Pacific Lutheran
+		  University. Collection includes sermons, backgrounds of pastors, chapel papers
+		  and bulletins, religious life council records, student congregation records and
+		  university congregation records including papers and bulletins.</p>
+    </scopecontent>
+    <arrangement id="a4" encodinganalog="351">
+      <p>Series I. Campus Pastors</p>
+      <p>Subseries A. The Lutnes Years, 1955-1958</p>
+      <p>Subseries B. The Larsgaard Years, 1959-1969</p>
+      <p>Subseries C. The Taylor Years, 1969-1971</p>
+      <p>Subseries D. The Beckman/Lathrop/Jerke Years, 1971-1978</p>
+      <p>Subseries E. The Tellefson/Vignec/Rieke Years, 1978-1987</p>
+      <p>Subseries F. The Erlander/Wells/Briehl Years, 1987-1994</p>
+      <p>Subseries H. Job Descriptions/Internships</p>
+      <p>Subseries I. Publicity</p>
+      <p>Series II. Chapel</p>
+      <p>Subseries A. Chapel Papers</p>
+      <p>Subseries B. Chapel Bulletins</p>
+      <p>Series III. Religious Life Council/Campus Ministry Council,
+		  1970-1994</p>
+      <p>Series IV. Student Congregation/University Congregation, 1955-1994</p>
+      <p>Subseries A. Student Congregation Records</p>
+      <p>Subseries B. Student Congregation Bulletins</p>
+    </arrangement>
+    <accessrestrict encodinganalog="506" id="a14">
+      <p>The local histories are available for research</p>
+    </accessrestrict>
+    <userestrict encodinganalog="540" id="a15">
+      <p>Property rights reside with Archives and Special Collections and
+		  copyright resides with the creators of the documents or their heirs. All
+		  requests for permission to publish or quote from manuscripts or records must be
+		  submitted to the University Archivist. The reader must also obtain permission
+		  of the copyright holder</p>
+    </userestrict>
+    <prefercite encodinganalog="524" id="a18">
+      <p>[identification of item]Campus Ministry Records, Archives and Special
+		  Collections, Pacific Lutheran University, Tacoma, Washington, 98447</p>
+    </prefercite>
+    <acqinfo encodinganalog="541" id="a19">
+      <p>Transferred to archives by Campus Ministry </p>
+    </acqinfo>
+    <relatedmaterial encodinganalog="5441_" id="a6">
+      <p>To search and view digitized images relating to this and other
+		  collections, visit our 
+		  <extref href="http://chili.plu.edu/pluindex">Digital Assets
+			 Website</extref></p>
+    </relatedmaterial>
+    <controlaccess id="a12">
+      <p>This collection is indexed under the following headings in the online
+		  catalog. Researchers desiring materials about related topics, persons, or
+		  places should search the catalog using these headings.</p>
+      <controlaccess>
+        <persname role="subject" encodinganalog="600" rules="aacr2">Lutnes,
+			 Robert W.</persname>
+        <persname role="subject" encodinganalog="600" rules="aacr2">Larsgaard,
+			 John</persname>
+        <persname role="subject" encodinganalog="600" rules="aacr2">Kraabel,
+			 Alf M.</persname>
+        <persname role="subject" encodinganalog="600" rules="aacr2">Dalton,
+			 Morris</persname>
+        <persname role="subject" encodinganalog="600" rules="aacr2">Taylor,
+			 Donald</persname>
+        <persname role="subject" encodinganalog="600" source="lcnaf">Lathrop,
+			 Gordon</persname>
+        <persname role="subject" encodinganalog="600" source="lcnaf">Beckman,
+			 James</persname>
+        <persname role="subject" encodinganalog="600" rules="aacr2">Jerke,
+			 Donald</persname>
+        <persname role="subject" encodinganalog="600" rules="aacr2">Tellefson,
+			 Ronald</persname>
+        <persname role="subject" encodinganalog="600" rules="aacr2">Vignec, Ron
+			 Pierre</persname>
+        <persname role="subject" encodinganalog="600" rules="aacr2">Rieke,
+			 Stephen</persname>
+      </controlaccess>
+      <controlaccess>
+        <corpname role="creator" encodinganalog="710" rules="dacs">Campus
+			 Ministry</corpname>
+        <corpname role="subject" encodinganalog="610" rules="dacs">Student
+			 Congregation</corpname>
+        <corpname role="subject" encodinganalog="610" source="lcnaf">Evangelical Lutheran Church</corpname>
+        <corpname role="subject" encodinganalog="610" rules="dacs">Chapel-Music-Speech Building</corpname>
+        <corpname role="subject" encodinganalog="610" rules="dacs">Religious
+			 Life Council</corpname>
+        <corpname role="subject" encodinganalog="610" rules="dacs">Campus
+			 Ministry Council</corpname>
+        <corpname role="subject" encodinganalog="610" rules="dacs">University
+			 Congregation</corpname>
+        <corpname role="subject" encodinganalog="610" source="lcsh"> Bread for
+			 the World (Organization)</corpname>
+      </controlaccess>
+      <controlaccess>
+        <subject encodinganalog="650" rules="dacs">Chapel</subject>
+        <subject encodinganalog="650" source="lcsh">Sermons</subject>
+        <subject encodinganalog="650" source="lcsh">Peace</subject>
+        <subject encodinganalog="650" source="lcsh">
+        </subject>
+      </controlaccess>
+      <controlaccess>
+        <geogname>Africa</geogname>
+        <geogname>Namibia</geogname>
+      </controlaccess>
+      <controlaccess>
+        <subject source="nwda" altrender="nodisplay" encodinganalog="690">Religion</subject>
+      </controlaccess>
+      <controlaccess>
+        <occupation encodinganalog="656" source="lcsh">University and college
+			 chaplains</occupation>
+        <occupation encodinganalog="656" rules="dacs">University
+			 minister</occupation>
+        <occupation encodinganalog="656" rules="dacs">Campus
+			 Minister</occupation>
+      </controlaccess>
+    </controlaccess>
+    <dsc id="a23" type="combined">
+      <p>The following section contains a detailed listing of the materials in
+		  the collection.</p>
+      <c01 id="G133" level="series">
+        <did>
+          <unitid type="series">1</unitid>
+          <unittitle encodinganalog="245$a">Campus Pastors </unittitle>
+        </did>
+        <c02 id="G134" level="subseries">
+          <did>
+            <unitid type="subseries">A</unitid>
+            <unittitle encodinganalog="245$a">The Lutnes Years </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1955/1958">1955-1958</unitdate>
+          </did>
+          <scopecontent>
+            <p>Pastor Robert W. Lutnes was Pastor for the Student Congregation
+				  at Pacific Lutheran College (PLC) from the time that it was established in 1955
+				  until 1958. Prior to being pastor at PLC, he taught English there for two
+				  years. He is the author of Ever One God (Augsburg Publishing House, 1955). In
+				  1954 he wrote a pageant called "The Eternal Slave" for PLC's Sixtieth
+				  Anniversary Celebration. Events that took place during his time as pastor were
+				  Mission Emphasis Week, Spiritual Emphasis Week, Family Life Conference, and the
+				  founding of the Student Congregation.</p>
+          </scopecontent>
+          <c03 id="G135" level="file">
+            <did>
+              <container type="box-folder">1.1</container>
+              <unittitle encodinganalog="245$a">Mission Emphasis Week
+					 </unittitle>
+              <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1954">1954</unitdate>
+            </did>
+          </c03>
+          <c03 id="G136" level="file">
+            <did>
+              <container type="box-folder">1.2</container>
+              <unittitle encodinganalog="245$a">Eternal Slave </unittitle>
+              <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1954">1954</unitdate>
+            </did>
+          </c03>
+          <c03 id="G137" level="file">
+            <did>
+              <container type="box-folder">1.3</container>
+              <unittitle encodinganalog="245$a">Pilgrim </unittitle>
+              <unitdate era="ce" calendar="gregorian" encodinganalog="245$f">date unknown</unitdate>
+            </did>
+          </c03>
+          <c03 id="G138" level="file">
+            <did>
+              <container type="box-folder">1.4</container>
+              <unittitle encodinganalog="245$a">Spiritual Emphasis Week
+					 </unittitle>
+              <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1955/1958">1955-1958</unitdate>
+            </did>
+          </c03>
+          <c03 id="G139" level="file">
+            <did>
+              <container type="box-folder">1.5</container>
+              <unittitle encodinganalog="245$a">Seedtime </unittitle>
+              <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1958">1958</unitdate>
+            </did>
+          </c03>
+          <c03 id="G140" level="file">
+            <did>
+              <container type="box-folder">1.6</container>
+              <unittitle encodinganalog="245$a">Correspondence </unittitle>
+              <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1983/1984">1983-1984</unitdate>
+            </did>
+          </c03>
+        </c02>
+        <c02 id="G142" level="subseries">
+          <did>
+            <unitid>B</unitid>
+            <unittitle encodinganalog="245$a">The Larsgaard Years </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1959/1969">1959-1969</unitdate>
+          </did>
+          <scopecontent>
+            <p>Pastor Larsgaard was Pastor of Student Congregation and
+				  University Chaplain at Pacific Lutheran University (PLU) from 1959 to 1969.
+				  During Larsgaard's time, PLU hosted Spiritual Emphasis Week, Mission Emphasis
+				  Week, and Faith in Life Week, as well as the Family Life Conference. In 1967,
+				  chapel attendance was changed from mandatory to voluntary. Associate Pastors
+				  during Larsgaard's time were Malmin (1960-1962), Moe (1961-1967), Kraabel
+				  (1962-1967), Shefveland (1965-1967) and Dalton (1967-1969).</p>
+          </scopecontent>
+          <c03 id="G143" level="file">
+            <did>
+              <container type="box-folder">1.7</container>
+              <unittitle encodinganalog="245$a">Spiritual Emphasis Week
+					 </unittitle>
+              <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1959/1962">1959-1962</unitdate>
+            </did>
+          </c03>
+          <c03 id="G144" level="file">
+            <did>
+              <container type="box-folder">1.8</container>
+              <unittitle encodinganalog="245$a">Larsgaard Correspondence
+					 </unittitle>
+              <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1958/1959">1958-1959</unitdate>
+            </did>
+          </c03>
+          <c03 id="G145" level="file">
+            <did>
+              <container type="box-folder">1.9</container>
+              <unittitle encodinganalog="245$a">Larsgaard Correspondence
+					 </unittitle>
+              <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1959/1960">1959-1960</unitdate>
+            </did>
+          </c03>
+          <c03 id="G146" level="file">
+            <did>
+              <container type="box-folder">1.10</container>
+              <unittitle encodinganalog="245$a">Larsgaard Correspondence
+					 </unittitle>
+              <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1960/1961">1960-1961</unitdate>
+            </did>
+          </c03>
+          <c03 id="G147" level="file">
+            <did>
+              <container type="box-folder">1.11</container>
+              <unittitle encodinganalog="245$a">Larsgaard Correspondence
+					 </unittitle>
+              <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1961/1962">1961-1962</unitdate>
+            </did>
+          </c03>
+          <c03 id="G148" level="file">
+            <did>
+              <container type="box-folder">1.12</container>
+              <unittitle encodinganalog="245$a">Larsgaard Correspondence
+					 </unittitle>
+              <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1962/1963">1962-1963</unitdate>
+            </did>
+          </c03>
+          <c03 id="G149" level="file">
+            <did>
+              <container type="box-folder">1.13</container>
+              <unittitle encodinganalog="245$a">Larsgaard Correspondence
+					 </unittitle>
+              <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1964/1965">1964-1965</unitdate>
+            </did>
+          </c03>
+          <c03 id="G150" level="file">
+            <did>
+              <container type="box-folder">1.14</container>
+              <unittitle encodinganalog="245$a">Larsgaard Correspondence
+					 </unittitle>
+              <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1965/1966">1965-1966</unitdate>
+            </did>
+          </c03>
+          <c03 id="G151" level="file">
+            <did>
+              <container type="box-folder">1.15</container>
+              <unittitle encodinganalog="245$a">Larsgaard Correspondence
+					 </unittitle>
+              <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1966/1967">1966-1967</unitdate>
+            </did>
+          </c03>
+          <c03 id="G152" level="file">
+            <did>
+              <container type="box-folder">1.16</container>
+              <unittitle encodinganalog="245$a">Larsgaard Correspondence
+					 </unittitle>
+              <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1967/1968">1967-1968</unitdate>
+            </did>
+          </c03>
+          <c03 id="G153" level="file">
+            <did>
+              <container type="box-folder">1.17</container>
+              <unittitle encodinganalog="245$a">Larsgaard Correspondence
+					 </unittitle>
+              <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1968/1969">1968-1969</unitdate>
+            </did>
+          </c03>
+          <c03 id="G154" level="file">
+            <did>
+              <container type="box-folder">2.1</container>
+              <unittitle encodinganalog="245$a">Pastor's Inquirers' Class
+					 </unittitle>
+              <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="n.d.">n.d.</unitdate>
+            </did>
+          </c03>
+          <c03 id="G155" level="file">
+            <did>
+              <container type="box-folder">2.2</container>
+              <unittitle encodinganalog="245$a">Family Life Conference
+					 </unittitle>
+              <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1959">1959</unitdate>
+            </did>
+          </c03>
+          <c03 id="G156" level="file">
+            <did>
+              <container type="box-folder">2.3</container>
+              <unittitle encodinganalog="245$a">LSA </unittitle>
+              <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1960/1961">1960-1961</unitdate>
+            </did>
+          </c03>
+          <c03 id="G157" level="file">
+            <did>
+              <container type="box-folder">2.4</container>
+              <unittitle encodinganalog="245$a">Reformation Festival
+					 </unittitle>
+              <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1960/1961">1960-1961</unitdate>
+            </did>
+          </c03>
+          <c03 id="G158" level="file">
+            <did>
+              <container type="box-folder">2.5</container>
+              <unittitle encodinganalog="245$a">Faith in Life Week </unittitle>
+              <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1963/1966">1963-1966</unitdate>
+            </did>
+          </c03>
+          <c03 id="G159" level="file">
+            <did>
+              <container type="box-folder">2.6</container>
+              <unittitle encodinganalog="245$a">League Interest Fellowship Team
+					 </unittitle>
+              <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1965/1967">1965-1967</unitdate>
+            </did>
+          </c03>
+          <c03 id="G160" level="file">
+            <did>
+              <container type="box-folder">2.7</container>
+              <unittitle encodinganalog="245$a">Listening Witness </unittitle>
+              <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1965/1968">1965-1968</unitdate>
+            </did>
+          </c03>
+          <c03 id="G161" level="file">
+            <did>
+              <container type="box-folder">2.8</container>
+              <unittitle encodinganalog="245$a">Lutheran World Federation
+					 </unittitle>
+              <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1967/1968">1967-1968</unitdate>
+            </did>
+          </c03>
+          <c03 id="G162" level="file">
+            <did>
+              <container type="box-folder">2.9</container>
+              <unittitle encodinganalog="245$a">CALL committee </unittitle>
+              <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1968/1969">1968-1969</unitdate>
+            </did>
+          </c03>
+          <c03 id="G163" level="file">
+            <did>
+              <container type="box-folder">2.10</container>
+              <unittitle encodinganalog="245$a">Chapel Attendance </unittitle>
+              <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1967/1968">1967-1968</unitdate>
+            </did>
+          </c03>
+        </c02>
+        <c02 id="G164" level="subseries">
+          <did>
+            <unitid>C</unitid>
+            <unittitle encodinganalog="245$a">The Taylor/Dalton Years
+				  </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1969/1971">1969-1971</unitdate>
+          </did>
+          <scopecontent>
+            <p>Donald W. Taylor was Pastor for the Student Congregation and
+				  University Chaplain for Pacific Lutheran University (PLU) from 1969 to 1971.
+				  During his time at PLU, the Religious Life committee was formed to address the
+				  religious needs of the students (1971). Though the Student Congregation
+				  continued to be the dominant worship community at PLU, other religious groups
+				  gained popularity and attendance. Efforts were made to give students the
+				  opportunity to worship with off-campus congregations. Student Congregation
+				  services were moved to the Chris Knudsen Hall in the University Center. Morris
+				  Dalton was his Associate Pastor from 1969-1970.</p>
+          </scopecontent>
+          <c03 id="G165" level="file">
+            <did>
+              <container type="box-folder">2.11</container>
+              <unittitle encodinganalog="245$a">Dalton Correspondence
+					 </unittitle>
+              <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1969/1970">1969-1970</unitdate>
+            </did>
+          </c03>
+          <c03 id="G166" level="file">
+            <did>
+              <container type="box-folder">2.12</container>
+              <unittitle encodinganalog="245$a">Taylor Correspondence
+					 </unittitle>
+              <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1969/1970">1969-1970</unitdate>
+            </did>
+          </c03>
+          <c03 id="G167" level="file">
+            <did>
+              <container type="box-folder">2.13</container>
+              <unittitle encodinganalog="245$a">Taylor Correspondence
+					 </unittitle>
+              <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1970/1971">1970-1971</unitdate>
+            </did>
+          </c03>
+        </c02>
+        <c02 id="G169" level="subseries">
+          <did>
+            <unitid>D</unitid>
+            <unittitle encodinganalog="245$a">The Lathrop/Beckman /Jerke Years
+				  </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1971/1978">1971-1978</unitdate>
+          </did>
+          <scopecontent>
+            <p>Gordon Lathrop was University Minister for Pacific Lutheran
+				  University (PLU) from 1971 to 1975. James Beckman served as University Minister
+				  at Pacific Lutheran University (PLU) from 1973 until his death in 1976. He
+				  spent one year as an intern at PLU before he was called to be University
+				  Minister. Don Jerke served as University Minister of Pacific Lutheran
+				  University from 1975 to 1978. He became vice president of student life in 1978
+				  and retained the position until his death in 1981. Events during Lathrop's time
+				  as Pastor at PLU include the Staley Distinguished Christian Lectureship Series,
+				  "The Church and Social Change" symposium, "The Celebration of the Gospel with
+				  Herb Brokering," the first All Campus Fast, Student Congregation's name change
+				  to University Congregation, and the renovation of Tower Chapel. In 1973, the
+				  need for two full time pastors was expressed and Beckman was hired as a second
+				  University Minister. Bread for the World was founded, PLU was host to Madelyn
+				  Murray O'Hare in 1974 and Dr. Helmut Thielicke in 1975. Pastor Jerke took over
+				  for Pastor Lathrop in 1975. Notable events to happen during Jerke's time
+				  include the tragic death of Pastor James Beckman and the installation of Pastor
+				  Ron Tellefson; the revision of the Religious Life Council's constitution in
+				  which the council's name was changed to Campus Ministry Council, additions made
+				  to Tower Chapel, and the Faith in Life forum.</p>
+          </scopecontent>
+          <c03 id="G170" level="file">
+            <did>
+              <container type="box-folder">2.14</container>
+              <unittitle encodinganalog="245$a">Lathrop Correspondence
+					 </unittitle>
+              <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1971/1972">1971-1972</unitdate>
+            </did>
+          </c03>
+          <c03 id="G171" level="file">
+            <did>
+              <container type="box-folder">2.15</container>
+              <unittitle encodinganalog="245$a">Lathrop Correspondence
+					 </unittitle>
+              <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1972/1973">1972-1973</unitdate>
+            </did>
+          </c03>
+          <c03 id="G172" level="file">
+            <did>
+              <container type="box-folder">2.16</container>
+              <unittitle encodinganalog="245$a">Lathrop Correspondence
+					 </unittitle>
+              <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1973/1974">1973-1974</unitdate>
+            </did>
+          </c03>
+          <c03 id="G173" level="file">
+            <did>
+              <container type="box-folder">2.17</container>
+              <unittitle encodinganalog="245$a">Lathrop Correspondence
+					 </unittitle>
+              <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1974/1975">1974-1975</unitdate>
+            </did>
+          </c03>
+          <c03 id="G174" level="file">
+            <did>
+              <container type="box-folder">2.18</container>
+              <unittitle encodinganalog="245$a">Lutheran Youth Alive
+					 </unittitle>
+              <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1974/1975">1974-1975</unitdate>
+            </did>
+          </c03>
+          <c03 id="G175" level="file">
+            <did>
+              <container type="box-folder">3.1</container>
+              <unittitle encodinganalog="245$a">Staley Distinguished Scholar
+					 Lectureship </unittitle>
+              <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1972/1976">1972-1976</unitdate>
+            </did>
+          </c03>
+          <c03 id="G176" level="file">
+            <did>
+              <container type="box-folder">3.2</container>
+              <unittitle encodinganalog="245$a">Lutheran Student Movement
+					 </unittitle>
+              <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1974/1975">1974-1975</unitdate>
+            </did>
+          </c03>
+          <c03 id="G177" level="file">
+            <did>
+              <container type="box-folder">3.3</container>
+              <unittitle encodinganalog="245$a">Beckman correspondence
+					 </unittitle>
+              <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1973/1976">1973-1976</unitdate>
+            </did>
+          </c03>
+          <c03 id="G178" level="file">
+            <did>
+              <container type="box-folder">3.4</container>
+              <unittitle encodinganalog="245$a">Beckman Sermons </unittitle>
+              <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1970/1973">1970-1973</unitdate>
+            </did>
+          </c03>
+          <c03 id="G179" level="file">
+            <did>
+              <container type="box-folder">3.5</container>
+              <unittitle encodinganalog="245$a">Beckman Sermons </unittitle>
+              <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1974">1974</unitdate>
+            </did>
+          </c03>
+          <c03 id="G180" level="file">
+            <did>
+              <container type="box-folder">3.6</container>
+              <unittitle encodinganalog="245$a">Beckman Sermons </unittitle>
+              <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1975/1976">1975-1976</unitdate>
+            </did>
+          </c03>
+          <c03 id="G181" level="file">
+            <did>
+              <container type="box-folder">3.7</container>
+              <unittitle encodinganalog="245$a">The Beckman Files, Index
+					 </unittitle>
+            </did>
+          </c03>
+          <c03 id="G182" level="file">
+            <did>
+              <container type="box-folder">3.8</container>
+              <unittitle encodinganalog="245$a">The Beckman Files, B
+					 </unittitle>
+            </did>
+          </c03>
+          <c03 id="G183" level="file">
+            <did>
+              <container type="box-folder">3.9</container>
+              <unittitle encodinganalog="245$a">The Beckman Files, C
+					 </unittitle>
+            </did>
+          </c03>
+          <c03 id="G184" level="file">
+            <did>
+              <container type="box-folder">3.10</container>
+              <unittitle encodinganalog="245$a">The Beckman Files, D
+					 </unittitle>
+            </did>
+          </c03>
+          <c03 id="G185" level="file">
+            <did>
+              <container type="box-folder">3.11</container>
+              <unittitle encodinganalog="245$a">The Beckman Files, E
+					 </unittitle>
+            </did>
+          </c03>
+          <c03 id="G186" level="file">
+            <did>
+              <container type="box-folder">3.12</container>
+              <unittitle encodinganalog="245$a">The Beckman Files, F
+					 </unittitle>
+            </did>
+          </c03>
+          <c03 id="G187" level="file">
+            <did>
+              <container type="box-folder">3.13</container>
+              <unittitle encodinganalog="245$a">The Beckman Files, G
+					 </unittitle>
+            </did>
+          </c03>
+          <c03 id="G188" level="file">
+            <did>
+              <container type="box-folder">3.14</container>
+              <unittitle encodinganalog="245$a">The Beckman Files, H
+					 </unittitle>
+            </did>
+          </c03>
+          <c03 id="G189" level="file">
+            <did>
+              <container type="box-folder">3.15</container>
+              <unittitle encodinganalog="245$a">The Beckman Files, I
+					 </unittitle>
+            </did>
+          </c03>
+          <c03 id="G190" level="file">
+            <did>
+              <container type="box-folder">4.1</container>
+              <unittitle encodinganalog="245$a">The Beckman Files, J
+					 </unittitle>
+            </did>
+          </c03>
+          <c03 id="G191" level="file">
+            <did>
+              <container type="box-folder">4.2</container>
+              <unittitle encodinganalog="245$a">The Beckman Files, L
+					 </unittitle>
+            </did>
+          </c03>
+          <c03 id="G192" level="file">
+            <did>
+              <container type="box-folder">4.3</container>
+              <unittitle encodinganalog="245$a">The Beckman Files, M
+					 </unittitle>
+            </did>
+          </c03>
+          <c03 id="G193" level="file">
+            <did>
+              <container type="box-folder">4.4</container>
+              <unittitle encodinganalog="245$a">The Beckman Files, N
+					 </unittitle>
+            </did>
+          </c03>
+          <c03 id="G194" level="file">
+            <did>
+              <container type="box-folder">4.5</container>
+              <unittitle encodinganalog="245$a">The Beckman Files, O
+					 </unittitle>
+            </did>
+          </c03>
+          <c03 id="G195" level="file">
+            <did>
+              <container type="box-folder">4.6</container>
+              <unittitle encodinganalog="245$a">The Beckman Files, P
+					 </unittitle>
+            </did>
+          </c03>
+          <c03 id="G196" level="file">
+            <did>
+              <container type="box-folder">4.7</container>
+              <unittitle encodinganalog="245$a">The Beckman Files, Q R
+					 </unittitle>
+            </did>
+          </c03>
+          <c03 id="G197" level="file">
+            <did>
+              <container type="box-folder">4.8</container>
+              <unittitle encodinganalog="245$a">The Beckman Files, S
+					 </unittitle>
+            </did>
+          </c03>
+          <c03 id="G198" level="file">
+            <did>
+              <container type="box-folder">4.9</container>
+              <unittitle encodinganalog="245$a">The Beckman Files, T
+					 </unittitle>
+            </did>
+          </c03>
+          <c03 id="G199" level="file">
+            <did>
+              <container type="box-folder">4.10</container>
+              <unittitle encodinganalog="245$a">The Beckman Files, U V
+					 </unittitle>
+            </did>
+          </c03>
+          <c03 id="G200" level="file">
+            <did>
+              <container type="box-folder">4.11</container>
+              <unittitle encodinganalog="245$a">The Beckman Files, W X Y Z
+					 </unittitle>
+            </did>
+          </c03>
+          <c03 id="G201" level="file">
+            <did>
+              <container type="box-folder">4.12</container>
+              <unittitle encodinganalog="245$a">The Beckman Files, Worship and
+					 Liturgy </unittitle>
+            </did>
+          </c03>
+          <c03 id="G202" level="file">
+            <did>
+              <container type="box-folder">4.13</container>
+              <unittitle encodinganalog="245$a">The Beckman Files, Christmas
+					 </unittitle>
+            </did>
+          </c03>
+          <c03 id="G203" level="file">
+            <did>
+              <container type="box-folder">4.14</container>
+              <unittitle encodinganalog="245$a">The Beckman Files, Lent
+					 </unittitle>
+            </did>
+          </c03>
+          <c03 id="G204" level="file">
+            <did>
+              <container type="box-folder">4.15</container>
+              <unittitle encodinganalog="245$a">The Beckman Files, Easter
+					 </unittitle>
+            </did>
+          </c03>
+          <c03 id="G205" level="file">
+            <did>
+              <container type="box-folder">4.16</container>
+              <unittitle encodinganalog="245$a">The Beckman Files, Offertory
+					 </unittitle>
+            </did>
+          </c03>
+          <c03 id="G206" level="file">
+            <did>
+              <container type="box-folder">4.17</container>
+              <unittitle encodinganalog="245$a">The Beckman Files, Sermons
+					 </unittitle>
+            </did>
+          </c03>
+          <c03 id="G207" level="file">
+            <did>
+              <container type="box-folder">5.1</container>
+              <unittitle encodinganalog="245$a">The Beckman Files, Day of
+					 Pentecost </unittitle>
+            </did>
+          </c03>
+          <c03 id="G208" level="file">
+            <did>
+              <container type="box-folder">5.2</container>
+              <unittitle encodinganalog="245$a">The Beckman Files, Santa Lucia
+					 </unittitle>
+            </did>
+          </c03>
+          <c03 id="G209" level="file">
+            <did>
+              <container type="box-folder">5.3</container>
+              <unittitle encodinganalog="245$a">The Beckman Files, Third Sunday
+					 in Advent </unittitle>
+            </did>
+          </c03>
+          <c03 id="G210" level="file">
+            <did>
+              <container type="box-folder">5.4</container>
+              <unittitle encodinganalog="245$a">The Beckman Files, Christmas
+					 Day </unittitle>
+            </did>
+          </c03>
+          <c03 id="G211" level="file">
+            <did>
+              <container type="box-folder">5.5</container>
+              <unittitle encodinganalog="245$a">The Beckman Files, First Sunday
+					 after Christmas </unittitle>
+            </did>
+          </c03>
+          <c03 id="G212" level="file">
+            <did>
+              <container type="box-folder">5.6</container>
+              <unittitle encodinganalog="245$a">The Beckman Files, Second
+					 Sunday after Christmas </unittitle>
+            </did>
+          </c03>
+          <c03 id="G213" level="file">
+            <did>
+              <container type="box-folder">5.7</container>
+              <unittitle encodinganalog="245$a">The Beckman Files, Topical
+					 Outlines </unittitle>
+            </did>
+          </c03>
+          <c03 id="G214" level="file">
+            <did>
+              <container type="box-folder">5.8</container>
+              <unittitle encodinganalog="245$a">The Beckman Files, Saints
+					 Days/Feast Days </unittitle>
+            </did>
+          </c03>
+          <c03 id="G215" level="file">
+            <did>
+              <container type="box-folder">5.9</container>
+              <unittitle encodinganalog="245$a">The Beckman Files, Pentecost
+					 </unittitle>
+            </did>
+          </c03>
+          <c03 id="G216" level="file">
+            <did>
+              <container type="box-folder">5.10</container>
+              <unittitle encodinganalog="245$a">The Beckman Files, Church Year
+					 </unittitle>
+            </did>
+          </c03>
+          <c03 id="G217" level="file">
+            <did>
+              <container type="box-folder">5.11</container>
+              <unittitle encodinganalog="245$a">The Beckman Files, Epiphany
+					 </unittitle>
+            </did>
+          </c03>
+          <c03 id="G218" level="file">
+            <did>
+              <container type="box-folder">5.12</container>
+              <unittitle encodinganalog="245$a">The Beckman Files, Luke
+					 </unittitle>
+            </did>
+          </c03>
+          <c03 id="G219" level="file">
+            <did>
+              <container type="box-folder">5.13</container>
+              <unittitle encodinganalog="245$a">The Beckman Files, Matthew
+					 </unittitle>
+            </did>
+          </c03>
+          <c03 id="G220" level="file">
+            <did>
+              <container type="box-folder">5.14</container>
+              <unittitle encodinganalog="245$a">The Beckman Files, Mark
+					 </unittitle>
+            </did>
+          </c03>
+          <c03 id="G221" level="file">
+            <did>
+              <container type="box-folder">5.15</container>
+              <unittitle encodinganalog="245$a">The Beckman Files, John
+					 </unittitle>
+            </did>
+          </c03>
+          <c03 id="G222" level="file">
+            <did>
+              <container type="box-folder">5.16</container>
+              <unittitle encodinganalog="245$a">The Beckman Files, Acts
+					 </unittitle>
+            </did>
+          </c03>
+          <c03 id="G223" level="file">
+            <did>
+              <container type="box-folder">5.17</container>
+              <unittitle encodinganalog="245$a">The Beckman Files, Romans
+					 </unittitle>
+            </did>
+          </c03>
+          <c03 id="G224" level="file">
+            <did>
+              <container type="box-folder">5.18</container>
+              <unittitle encodinganalog="245$a">The Beckman Files, I
+					 Corinthians </unittitle>
+            </did>
+          </c03>
+          <c03 id="G225" level="file">
+            <did>
+              <container type="box-folder">5.19</container>
+              <unittitle encodinganalog="245$a">The Beckman Files, II
+					 Corinthians </unittitle>
+            </did>
+          </c03>
+          <c03 id="G226" level="file">
+            <did>
+              <container type="box-folder">5.20</container>
+              <unittitle encodinganalog="245$a">The Beckman Files, Galatians
+					 </unittitle>
+            </did>
+          </c03>
+          <c03 id="G227" level="file">
+            <did>
+              <container type="box-folder">5.21</container>
+              <unittitle encodinganalog="245$a">The Beckman Files, Ephesians
+					 </unittitle>
+            </did>
+          </c03>
+          <c03 id="G228" level="file">
+            <did>
+              <container type="box-folder">5.22</container>
+              <unittitle encodinganalog="245$a">The Beckman Files, Philippians
+					 </unittitle>
+            </did>
+          </c03>
+          <c03 id="G229" level="file">
+            <did>
+              <container type="box-folder">5.23</container>
+              <unittitle encodinganalog="245$a">The Beckman Files, Philemon
+					 </unittitle>
+            </did>
+          </c03>
+          <c03 id="G230" level="file">
+            <did>
+              <container type="box-folder">5.24</container>
+              <unittitle encodinganalog="245$a">The Beckman Files, Hebrews
+					 </unittitle>
+            </did>
+          </c03>
+          <c03 id="G231" level="file">
+            <did>
+              <container type="box-folder">5.25</container>
+              <unittitle encodinganalog="245$a">The Beckman Files, James
+					 </unittitle>
+            </did>
+          </c03>
+          <c03 id="G232" level="file">
+            <did>
+              <container type="box-folder">5.26</container>
+              <unittitle encodinganalog="245$a">The Beckman Files, Revelations
+					 </unittitle>
+            </did>
+          </c03>
+          <c03 id="G233" level="file">
+            <did>
+              <container type="box-folder">5.27</container>
+              <unittitle encodinganalog="245$a">The Beckman Files, The
+					 Disciples </unittitle>
+            </did>
+          </c03>
+          <c03 id="G234" level="file">
+            <did>
+              <container type="box-folder">5.28</container>
+              <unittitle encodinganalog="245$a">The Beckman Files, "James
+					 Beckman" </unittitle>
+            </did>
+          </c03>
+          <c03 id="G235" level="file">
+            <did>
+              <container type="box-folder">5.29</container>
+              <unittitle encodinganalog="245$a">The Beckman Files, Synoptic
+					 Parallels </unittitle>
+            </did>
+          </c03>
+          <c03 id="G236" level="file">
+            <did>
+              <container type="box-folder">5.30</container>
+              <unittitle encodinganalog="245$a">The Beckman Worship Handbook
+					 </unittitle>
+            </did>
+          </c03>
+          <c03 id="G237" level="file">
+            <did>
+              <container type="box-folder">6.1</container>
+              <unittitle encodinganalog="245$a">Beckman Death and Memorial
+					 </unittitle>
+              <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1976">1976</unitdate>
+            </did>
+          </c03>
+          <c03 id="G238" level="file">
+            <did>
+              <container type="box-folder">6.2</container>
+              <unittitle encodinganalog="245$a">Jerke Correspondence
+					 </unittitle>
+              <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1975/1976">1975-1976</unitdate>
+            </did>
+          </c03>
+          <c03 id="G239" level="file">
+            <did>
+              <container type="box-folder">6.3</container>
+              <unittitle encodinganalog="245$a">Jerke Sermons </unittitle>
+              <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1976/1978">1976-1978</unitdate>
+            </did>
+          </c03>
+          <c03 id="G240" level="file">
+            <did>
+              <container type="box-folder">6.4</container>
+              <unittitle encodinganalog="245$a">Jerke Notes and Correspondence
+					 </unittitle>
+              <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1976/1978">1976-1978</unitdate>
+            </did>
+          </c03>
+          <c03 id="G241" level="file">
+            <did>
+              <container type="box-folder">6.5</container>
+              <unittitle encodinganalog="245$a">Jerke Publication </unittitle>
+              <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1984">1984</unitdate>
+            </did>
+          </c03>
+        </c02>
+        <c02 id="G243" level="subseries">
+          <did>
+            <unitid>E</unitid>
+            <unittitle encodinganalog="245$a">The Tellefson/Vignec/Rieke Years
+				  </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1977/1987">1977-1987</unitdate>
+          </did>
+          <scopecontent>
+            <p>Ronald Tellefson was University Pastor at Pacific Lutheran
+				  University from 1977 until 1987. Significant events during his time include the
+				  Faith in Life Forum, Beckman Memorial Lectureship, the creation of Chicago Folk
+				  Services, the Peacemaking Conference, the PLU for Africa Week, the
+				  establishment of ties with Namibia, and the University Congregation's 30th
+				  Anniversary Celebration. After leaving his post as University Pastor, Tellefson
+				  was appointed Director of Church and University Support at PLU. Associate
+				  Pastors to Tellefson were Ron Pierre Vignec (1980-1985) and Stephen Rieke
+				  (1985-1986).</p>
+          </scopecontent>
+          <c03 id="G244" level="file">
+            <did>
+              <container type="box-folder">6.1</container>
+              <unittitle encodinganalog="245$a">Beckman Memorial Lectureship
+					 </unittitle>
+              <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1978/1984">1978-1984</unitdate>
+            </did>
+          </c03>
+          <c03 id="G245" level="file">
+            <did>
+              <container type="box-folder">6.2</container>
+              <unittitle encodinganalog="245$a">Religious Emphasis Student
+					 Questionnaire </unittitle>
+              <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1977">1977</unitdate>
+            </did>
+          </c03>
+          <c03 id="G246" level="file">
+            <did>
+              <container type="box-folder">6.3</container>
+              <unittitle encodinganalog="245$a">Religious Emphasis Student
+					 Questionnaire </unittitle>
+              <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1979">1979</unitdate>
+            </did>
+          </c03>
+          <c03 id="G247" level="file">
+            <did>
+              <container type="box-folder">7.1</container>
+              <unittitle encodinganalog="245$a">Religious Emphasis Student
+					 Questionnaire </unittitle>
+              <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1979">1979</unitdate>
+            </did>
+          </c03>
+          <c03 id="G248" level="file">
+            <did>
+              <container type="box-folder">7.2</container>
+              <unittitle encodinganalog="245$a">Religious Emphasis Student
+					 Questionnaire </unittitle>
+              <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1980">1980</unitdate>
+            </did>
+          </c03>
+          <c03 id="G249" level="file">
+            <did>
+              <container type="box-folder">7.3</container>
+              <unittitle encodinganalog="245$a">Religious Emphasis Student
+					 Survey </unittitle>
+              <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="n.d.">n.d.</unitdate>
+            </did>
+          </c03>
+          <c03 id="G250" level="file">
+            <did>
+              <container type="box-folder">7.4</container>
+              <unittitle encodinganalog="245$a">Banners and Vestments
+					 </unittitle>
+              <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1975/1979">1975-1979</unitdate>
+            </did>
+          </c03>
+          <c03 id="G251" level="file">
+            <did>
+              <container type="box-folder">7.5</container>
+              <unittitle encodinganalog="245$a">Sermons </unittitle>
+              <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="n.d.">n.d.</unitdate>
+            </did>
+          </c03>
+          <c03 id="G252" level="file">
+            <did>
+              <container type="box-folder">7.6</container>
+              <unittitle encodinganalog="245$a">Ronald Tellefson </unittitle>
+              <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1976/1985">1976-1985</unitdate>
+            </did>
+          </c03>
+          <c03 id="G253" level="file">
+            <did>
+              <container type="box-folder">7.7</container>
+              <unittitle encodinganalog="245$a">Vicar Larson </unittitle>
+              <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1978/1979">1978-1979</unitdate>
+            </did>
+          </c03>
+          <c03 id="G254" level="file">
+            <did>
+              <container type="box-folder">7.8</container>
+              <unittitle encodinganalog="245$a">Vicar Briehl </unittitle>
+              <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1979">1979</unitdate>
+            </did>
+          </c03>
+          <c03 id="G255" level="file">
+            <did>
+              <container type="box-folder">7.9</container>
+              <unittitle encodinganalog="245$a">Vignec Call </unittitle>
+              <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1979/1980">1979-1980</unitdate>
+            </did>
+          </c03>
+          <c03 id="G256" level="file">
+            <did>
+              <container type="box-folder">7.10</container>
+              <unittitle encodinganalog="245$a">Peace Literature/Nuclear Papers
+					 </unittitle>
+              <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1981">1981</unitdate>
+            </did>
+          </c03>
+          <c03 id="G257" level="file">
+            <did>
+              <container type="box-folder">7.11</container>
+              <unittitle encodinganalog="245$a">World Hunger Week </unittitle>
+              <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1981/1983">1981-1983</unitdate>
+            </did>
+          </c03>
+          <c03 id="G258" level="file">
+            <did>
+              <container type="box-folder">7.12</container>
+              <unittitle encodinganalog="245$a">Ron Pierre Vignec </unittitle>
+              <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1984">1984</unitdate>
+            </did>
+          </c03>
+          <c03 id="G259" level="file">
+            <did>
+              <container type="box-folder">7.13</container>
+              <unittitle encodinganalog="245$a">News Clippings </unittitle>
+              <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1981/1984">1981-1984</unitdate>
+            </did>
+          </c03>
+          <c03 id="G260" level="file">
+            <did>
+              <container type="box-folder">7.14</container>
+              <unittitle encodinganalog="245$a">Thirtieth Anniversary
+					 </unittitle>
+              <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1985">1985</unitdate>
+            </did>
+          </c03>
+          <c03 id="G261" level="file">
+            <did>
+              <container type="box-folder">7.15</container>
+              <unittitle encodinganalog="245$a">Rieke, Stephen </unittitle>
+              <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1985">1985</unitdate>
+            </did>
+          </c03>
+        </c02>
+        <c02 id="G263" level="subseries">
+          <did>
+            <unitid>F</unitid>
+            <unittitle encodinganalog="245$a">The Erlander/Wells/Briehl Years
+				  </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1987/1994">1987-1994</unitdate>
+          </did>
+          <scopecontent>
+            <p>Daniel Erlander, Martin Wells, and Susan Briehl were University
+				  Pastors at Pacific Lutheran University (PLU) from 1986 to 1994.</p>
+          </scopecontent>
+          <c03 id="G264" level="file">
+            <did>
+              <container type="box-folder">7.16</container>
+              <unittitle encodinganalog="245$a">Briehl/Erlander/Wells
+					 </unittitle>
+              <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1986/1994">1986-1994</unitdate>
+            </did>
+          </c03>
+          <c03 id="G265" level="file">
+            <did>
+              <container type="box-folder">7.17</container>
+              <unittitle encodinganalog="245$a">Erlander--Agnes and Donna
+					 </unittitle>
+            </did>
+          </c03>
+          <c03 id="G266" level="file">
+            <did>
+              <container type="box-folder">7.18</container>
+              <unittitle encodinganalog="245$a">Erlander Publications
+					 </unittitle>
+              <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1981">1981</unitdate>
+            </did>
+          </c03>
+        </c02>
+      </c01>
+      <c01 id="G274" level="series">
+        <did>
+          <unitid>Series II</unitid>
+          <unittitle encodinganalog="245$a">Chapel </unittitle>
+        </did>
+        <c02 id="G275" level="subseries">
+          <did>
+            <unitid>A</unitid>
+            <unittitle encodinganalog="245$a">Chapel Papers </unittitle>
+          </did>
+          <scopecontent>
+            <p>Includes bulletins for Convocations, Chapel Schedules, papers
+				  pertaining directly to Chapel at Pacific Lutheran University, and
+				  advertisements for chapel from 1966 to 2005.</p>
+          </scopecontent>
+          <c03 id="G276" level="file">
+            <did>
+              <container type="box-folder">8.1</container>
+              <unittitle encodinganalog="245$a">Convocations </unittitle>
+              <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1950/1976">1950-1976</unitdate>
+            </did>
+          </c03>
+          <c03 id="G277" level="file">
+            <did>
+              <container type="box-folder">8.2</container>
+              <unittitle encodinganalog="245$a">Chapel Schedules </unittitle>
+              <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1966/1975">1966-1975</unitdate>
+            </did>
+          </c03>
+          <c03 id="G278" level="file">
+            <did>
+              <container type="box-folder">8.3</container>
+              <unittitle encodinganalog="245$a">Chapel Papers </unittitle>
+              <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1962/1992">1962-1992</unitdate>
+            </did>
+          </c03>
+          <c03 id="G279" level="file">
+            <did>
+              <container type="box-folder">8.4</container>
+              <unittitle encodinganalog="245$a">Chapel Advertisements and
+					 Announcements </unittitle>
+              <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1966/1995">1966-1995</unitdate>
+            </did>
+          </c03>
+          <c03 id="G280" level="file">
+            <did>
+              <container type="box-folder">8.5</container>
+              <unittitle encodinganalog="245$a">Chapel Advertisements and
+					 Announcements </unittitle>
+              <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1996/2005">1996-2005</unitdate>
+            </did>
+          </c03>
+        </c02>
+        <c02 id="G281" level="subseries">
+          <did>
+            <unitid>B</unitid>
+            <unittitle encodinganalog="245$a">Chapel Bulletins </unittitle>
+          </did>
+          <c03 id="G282" level="file">
+            <did>
+              <container type="box-folder">8.6</container>
+              <unittitle encodinganalog="245$a">Chapel Bulletins </unittitle>
+              <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1962/1963">1962-1963</unitdate>
+            </did>
+          </c03>
+          <c03 id="G283" level="file">
+            <did>
+              <container type="box-folder">8.7</container>
+              <unittitle encodinganalog="245$a">Chapel Bulletins </unittitle>
+              <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1963/1964">1963-1964</unitdate>
+            </did>
+          </c03>
+          <c03 id="G284" level="file">
+            <did>
+              <container type="box-folder">8.8</container>
+              <unittitle encodinganalog="245$a">Chapel Bulletins </unittitle>
+              <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1964/1965">1964-1965</unitdate>
+            </did>
+          </c03>
+          <c03 id="G285" level="file">
+            <did>
+              <container type="box-folder">9.1</container>
+              <unittitle encodinganalog="245$a">Chapel Bulletins </unittitle>
+              <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1965/1966">1965-1966</unitdate>
+            </did>
+          </c03>
+          <c03 id="G286" level="file">
+            <did>
+              <container type="box-folder">9.2</container>
+              <unittitle encodinganalog="245$a">Chapel Bulletins </unittitle>
+              <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1966/1967">1966-1967</unitdate>
+            </did>
+          </c03>
+          <c03 id="G287" level="file">
+            <did>
+              <container type="box-folder">9.3</container>
+              <unittitle encodinganalog="245$a">Chapel Bulletins </unittitle>
+              <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1967/1968">1967-1968</unitdate>
+            </did>
+          </c03>
+          <c03 id="G288" level="file">
+            <did>
+              <container type="box-folder">9.4</container>
+              <unittitle encodinganalog="245$a">Chapel Bulletins </unittitle>
+              <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1968/1969">1968-1969</unitdate>
+            </did>
+          </c03>
+          <c03 id="G289" level="file">
+            <did>
+              <container type="box-folder">9.5</container>
+              <unittitle encodinganalog="245$a">Chapel Bulletins </unittitle>
+              <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1969/1970">1969-1970</unitdate>
+            </did>
+          </c03>
+          <c03 id="G290" level="file">
+            <did>
+              <container type="box-folder">9.6</container>
+              <unittitle encodinganalog="245$a">Chapel Bulletins </unittitle>
+              <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1970/1971">1970-1971</unitdate>
+            </did>
+          </c03>
+          <c03 id="G291" level="file">
+            <did>
+              <container type="box-folder">9.7</container>
+              <unittitle encodinganalog="245$a">Chapel Bulletins </unittitle>
+              <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1971/1972">1971-1972</unitdate>
+            </did>
+          </c03>
+          <c03 id="G292" level="file">
+            <did>
+              <container type="box-folder">9.8</container>
+              <unittitle encodinganalog="245$a">Chapel Bulletins </unittitle>
+              <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1972/1973">1972-1973</unitdate>
+            </did>
+          </c03>
+          <c03 id="G293" level="file">
+            <did>
+              <container type="box-folder">9.9</container>
+              <unittitle encodinganalog="245$a">Chapel Bulletins </unittitle>
+              <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1972/1973">1972-1973</unitdate>
+            </did>
+          </c03>
+          <c03 id="G294" level="file">
+            <did>
+              <container type="box-folder">10.1</container>
+              <unittitle encodinganalog="245$a">Chapel Bulletins </unittitle>
+              <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1973/1974">1973-1974</unitdate>
+            </did>
+          </c03>
+          <c03 id="G295" level="file">
+            <did>
+              <container type="box-folder">10.2</container>
+              <unittitle encodinganalog="245$a">Chapel Bulletins </unittitle>
+              <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1973/1974">1973-1974</unitdate>
+            </did>
+          </c03>
+          <c03 id="G296" level="file">
+            <did>
+              <container type="box-folder">10.3</container>
+              <unittitle encodinganalog="245$a">Chapel Bulletins </unittitle>
+              <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1974/1975">1974-1975</unitdate>
+            </did>
+          </c03>
+          <c03 id="G297" level="file">
+            <did>
+              <container type="box-folder">10.4</container>
+              <unittitle encodinganalog="245$a">Chapel Bulletins </unittitle>
+              <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1975/1976">1975-1976</unitdate>
+            </did>
+          </c03>
+          <c03 id="G298" level="file">
+            <did>
+              <container type="box-folder">10.5</container>
+              <unittitle encodinganalog="245$a">Chapel Bulletins </unittitle>
+              <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1975/1976">1975-1976</unitdate>
+            </did>
+          </c03>
+          <c03 id="G299" level="file">
+            <did>
+              <container type="box-folder">10.6</container>
+              <unittitle encodinganalog="245$a">Chapel Bulletins </unittitle>
+              <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1976/1977">1976-1977</unitdate>
+            </did>
+          </c03>
+          <c03 id="G300" level="file">
+            <did>
+              <container type="box-folder">10.7</container>
+              <unittitle encodinganalog="245$a">Chapel Bulletins </unittitle>
+              <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1976/1977">1976-1977</unitdate>
+            </did>
+          </c03>
+          <c03 id="G301" level="file">
+            <did>
+              <container type="box-folder">10.8</container>
+              <unittitle encodinganalog="245$a">Chapel Bulletins </unittitle>
+              <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1977/1978">1977-1978</unitdate>
+            </did>
+          </c03>
+          <c03 id="G302" level="file">
+            <did>
+              <container type="box-folder">10.9</container>
+              <unittitle encodinganalog="245$a">Chapel Bulletins </unittitle>
+              <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1977/1978">1977-1978</unitdate>
+            </did>
+          </c03>
+          <c03 id="G303" level="file">
+            <did>
+              <container type="box-folder">10.10</container>
+              <unittitle encodinganalog="245$a">Chapel Bulletins </unittitle>
+              <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1978/1979">1978-1979</unitdate>
+            </did>
+          </c03>
+          <c03 id="G304" level="file">
+            <did>
+              <container type="box-folder">10.11</container>
+              <unittitle encodinganalog="245$a">Chapel Bulletins </unittitle>
+              <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1979/1980">1979-1980</unitdate>
+            </did>
+          </c03>
+          <c03 id="G305" level="file">
+            <did>
+              <container type="box-folder">10.12</container>
+              <unittitle encodinganalog="245$a">Chapel Bulletins </unittitle>
+              <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1980/1981">1980-1981</unitdate>
+            </did>
+          </c03>
+          <c03 id="G306" level="file">
+            <did>
+              <container type="box-folder">10.13</container>
+              <unittitle encodinganalog="245$a">Chapel Bulletins </unittitle>
+              <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1981/1982">1981-1982</unitdate>
+            </did>
+          </c03>
+          <c03 id="G307" level="file">
+            <did>
+              <container type="box-folder">10.14</container>
+              <unittitle encodinganalog="245$a">Chapel Bulletins </unittitle>
+              <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1982/1983">1982-1983</unitdate>
+            </did>
+          </c03>
+          <c03 id="G308" level="file">
+            <did>
+              <container type="box-folder">10.15</container>
+              <unittitle encodinganalog="245$a">Chapel Bulletins </unittitle>
+              <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1983/1984">1983-1984</unitdate>
+            </did>
+          </c03>
+        </c02>
+      </c01>
+      <c01 id="G309" level="series">
+        <did>
+          <unitid>Series III</unitid>
+          <unittitle encodinganalog="245$a">Religious Life Council/Campus
+				Ministry Council </unittitle>
+          <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1969/1994">1969-1994</unitdate>
+        </did>
+        <scopecontent>
+          <p>Includes minutes from Religious Life Council meetings, includes
+				Religious life Council Constitution and Religious Clubs.</p>
+        </scopecontent>
+        <c02 id="G310" level="file">
+          <did>
+            <container type="box-folder">11.1</container>
+            <unittitle encodinganalog="245$a">Religious Life Council
+				  </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1969/1970">1969-1970</unitdate>
+          </did>
+        </c02>
+        <c02 id="G311" level="file">
+          <did>
+            <container type="box-folder">11.2</container>
+            <unittitle encodinganalog="245$a">Religious Life Council
+				  </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1970/1071">1970-1071</unitdate>
+          </did>
+        </c02>
+        <c02 id="G312" level="file">
+          <did>
+            <container type="box-folder">11.3</container>
+            <unittitle encodinganalog="245$a">Religious Life Council
+				  </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1971/1972">1971-1972</unitdate>
+          </did>
+        </c02>
+        <c02 id="G313" level="file">
+          <did>
+            <container type="box-folder">11.4</container>
+            <unittitle encodinganalog="245$a">Religious Life Council
+				  </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1972/1973">1972-1973</unitdate>
+          </did>
+        </c02>
+        <c02 id="G314" level="file">
+          <did>
+            <container type="box-folder">11.5</container>
+            <unittitle encodinganalog="245$a">Religious Life Council
+				  </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1973/1974">1973-1974</unitdate>
+          </did>
+        </c02>
+        <c02 id="G315" level="file">
+          <did>
+            <container type="box-folder">11.6</container>
+            <unittitle encodinganalog="245$a">Religious Life Council
+				  </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1974/1975">1974-1975</unitdate>
+          </did>
+        </c02>
+        <c02 id="G316" level="file">
+          <did>
+            <container type="box-folder">11.7</container>
+            <unittitle encodinganalog="245$a">Religious Life Council
+				  </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1975/1976">1975-1976</unitdate>
+          </did>
+        </c02>
+        <c02 id="G317" level="file">
+          <did>
+            <container type="box-folder">11.8</container>
+            <unittitle encodinganalog="245$a">Religious Life Council
+				  </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1976/1977">1976-1977</unitdate>
+          </did>
+        </c02>
+        <c02 id="G318" level="file">
+          <did>
+            <container type="box-folder">11.9</container>
+            <unittitle encodinganalog="245$a">Religious Life Council
+				  </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1977/1978">1977-1978</unitdate>
+          </did>
+        </c02>
+        <c02 id="G319" level="file">
+          <did>
+            <container type="box-folder">11.10</container>
+            <unittitle encodinganalog="245$a">Religious Life Council
+				  </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1978/1979">1978-1979</unitdate>
+          </did>
+        </c02>
+        <c02 id="G320" level="file">
+          <did>
+            <container type="box-folder">11.11</container>
+            <unittitle encodinganalog="245$a">Religious Life Council
+				  </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1979/1980">1979-1980</unitdate>
+          </did>
+        </c02>
+        <c02 id="G321" level="file">
+          <did>
+            <container type="box-folder">11.12</container>
+            <unittitle encodinganalog="245$a">Religious Life Council
+				  </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1980/1981">1980-1981</unitdate>
+          </did>
+        </c02>
+        <c02 id="G322" level="file">
+          <did>
+            <container type="box-folder">11.13</container>
+            <unittitle encodinganalog="245$a">Religious Life Council
+				  </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1981/1982">1981-1982</unitdate>
+          </did>
+        </c02>
+        <c02 id="G323" level="file">
+          <did>
+            <container type="box-folder">11.14</container>
+            <unittitle encodinganalog="245$a">Religious Life Council
+				  </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1982/1983">1982-1983</unitdate>
+          </did>
+        </c02>
+        <c02 id="G324" level="file">
+          <did>
+            <container type="box-folder">11.15</container>
+            <unittitle encodinganalog="245$a">Religious Life Council
+				  </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1983/1984">1983-1984</unitdate>
+          </did>
+        </c02>
+        <c02 id="G325" level="file">
+          <did>
+            <container type="box-folder">11.16</container>
+            <unittitle encodinganalog="245$a">Religious Life Council
+				  </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1984/1985">1984-1985</unitdate>
+          </did>
+        </c02>
+        <c02 id="G326" level="file">
+          <did>
+            <container type="box-folder">11.17</container>
+            <unittitle encodinganalog="245$a">Religious Life Council
+				  </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1985/1986">1985-1986</unitdate>
+          </did>
+        </c02>
+        <c02 id="G327" level="file">
+          <did>
+            <container type="box-folder">11.18</container>
+            <unittitle encodinganalog="245$a">Religious Life Council
+				  </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1986/1987">1986-1987</unitdate>
+          </did>
+        </c02>
+        <c02 id="G328" level="file">
+          <did>
+            <container type="box-folder">11.19</container>
+            <unittitle encodinganalog="245$a">Religious Life Council
+				  </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1987/1988">1987-1988</unitdate>
+          </did>
+        </c02>
+        <c02 id="G329" level="file">
+          <did>
+            <container type="box-folder">11.20</container>
+            <unittitle encodinganalog="245$a">Religious Life Council
+				  </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1988/1989">1988-1989</unitdate>
+          </did>
+        </c02>
+        <c02 id="G330" level="file">
+          <did>
+            <container type="box-folder">11.21</container>
+            <unittitle encodinganalog="245$a">Religious Life Council
+				  </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1989/1990">1989-1990</unitdate>
+          </did>
+        </c02>
+        <c02 id="G331" level="file">
+          <did>
+            <container type="box-folder">11.22</container>
+            <unittitle encodinganalog="245$a">Religious Life Council
+				  </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1990/1991">1990-1991</unitdate>
+          </did>
+        </c02>
+        <c02 id="G332" level="file">
+          <did>
+            <container type="box-folder">11.23</container>
+            <unittitle encodinganalog="245$a">Religious Life Council
+				  </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1991/1992">1991-1992</unitdate>
+          </did>
+        </c02>
+        <c02 id="G333" level="file">
+          <did>
+            <container type="box-folder">11.24</container>
+            <unittitle encodinganalog="245$a">Religious Life Council
+				  </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1993/1994">1993-1994</unitdate>
+          </did>
+        </c02>
+        <c02 id="G334" level="file">
+          <did>
+            <container type="box-folder">11.25</container>
+            <unittitle encodinganalog="245$a">Religious Life Council
+				  Constitutions </unittitle>
+          </did>
+        </c02>
+        <c02 id="G335" level="file">
+          <did>
+            <container type="box-folder">11.26</container>
+            <unittitle encodinganalog="245$a">Religious Life Council Clubs
+				  </unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 id="G337" level="series">
+        <did>
+          <unitid>Series IV</unitid>
+          <unittitle encodinganalog="245$a">Student Congregation/University
+				Congregation </unittitle>
+          <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1955/1994">1955-1994</unitdate>
+        </did>
+        <c02 id="G338" level="subseries">
+          <did>
+            <unitid>A</unitid>
+            <unittitle encodinganalog="245$a">Student Congregation Papers
+				  </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1955/1994">1955-1994</unitdate>
+          </did>
+          <scopecontent>
+            <p>Includes minutes of Student Congregation meetings, minutes of
+				  Board of Trustees for the Student Congregation , minutes of the Board of
+				  Deacons, Constitutions of the Student Congregation, limited correspondence
+				  directly related to Student Congregation, Budgets., Treasurers' log books,
+				  ballots and congratulatory letters for the election of officers.</p>
+          </scopecontent>
+          <c03 id="G339" level="file">
+            <did>
+              <container type="box-folder">12.1</container>
+              <unittitle encodinganalog="245$a">Student Congregation
+					 </unittitle>
+              <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1955/1956">1955-1956</unitdate>
+            </did>
+          </c03>
+          <c03 id="G340" level="file">
+            <did>
+              <container type="box-folder">12.2</container>
+              <unittitle encodinganalog="245$a">Student Congregation
+					 </unittitle>
+              <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1956/1957">1956-1957</unitdate>
+            </did>
+          </c03>
+          <c03 id="G341" level="file">
+            <did>
+              <container type="box-folder">12.3</container>
+              <unittitle encodinganalog="245$a">Student Congregation
+					 </unittitle>
+              <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1957/1958">1957-1958</unitdate>
+            </did>
+          </c03>
+          <c03 id="G342" level="file">
+            <did>
+              <container type="box-folder">12.4</container>
+              <unittitle encodinganalog="245$a">Treasurer's Book </unittitle>
+              <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1955/1958">1955-1958</unitdate>
+            </did>
+          </c03>
+          <c03 id="G343" level="file">
+            <did>
+              <container type="box-folder">12.5</container>
+              <unittitle encodinganalog="245$a">Student Congregation
+					 </unittitle>
+              <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1958/1959">1958-1959</unitdate>
+            </did>
+          </c03>
+          <c03 id="G344" level="file">
+            <did>
+              <container type="box-folder">12.6</container>
+              <unittitle encodinganalog="245$a">Student Congregation
+					 </unittitle>
+              <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1959/1960">1959-1960</unitdate>
+            </did>
+          </c03>
+          <c03 id="G345" level="file">
+            <did>
+              <container type="box-folder">12.7</container>
+              <unittitle encodinganalog="245$a">Student Congregation
+					 </unittitle>
+              <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1960/1961">1960-1961</unitdate>
+            </did>
+          </c03>
+          <c03 id="G346" level="file">
+            <did>
+              <container type="box-folder">12.8</container>
+              <unittitle encodinganalog="245$a">Student Congregation
+					 </unittitle>
+              <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1961/1962">1961-1962</unitdate>
+            </did>
+          </c03>
+          <c03 id="G347" level="file">
+            <did>
+              <container type="box-folder">12.9</container>
+              <unittitle encodinganalog="245$a">Student Congregation
+					 </unittitle>
+              <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1962/1963">1962-1963</unitdate>
+            </did>
+          </c03>
+          <c03 id="G348" level="file">
+            <did>
+              <container type="box-folder">12.10</container>
+              <unittitle encodinganalog="245$a">Student Congregation
+					 </unittitle>
+              <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1963/1964">1963-1964</unitdate>
+            </did>
+          </c03>
+          <c03 id="G349" level="file">
+            <did>
+              <container type="box-folder">12.11</container>
+              <unittitle encodinganalog="245$a">Student Congregation
+					 </unittitle>
+              <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1964/1965">1964-1965</unitdate>
+            </did>
+          </c03>
+          <c03 id="G350" level="file">
+            <did>
+              <container type="box-folder">12.12</container>
+              <unittitle encodinganalog="245$a">Student Congregation
+					 </unittitle>
+              <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1965/1966">1965-1966</unitdate>
+            </did>
+          </c03>
+          <c03 id="G351" level="file">
+            <did>
+              <container type="box-folder">12.13</container>
+              <unittitle encodinganalog="245$a">Treasurer's Log </unittitle>
+              <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1965/1966">1965-1966</unitdate>
+            </did>
+          </c03>
+          <c03 id="G352" level="file">
+            <did>
+              <container type="box-folder">12.14</container>
+              <unittitle encodinganalog="245$a">Treasurer's Book </unittitle>
+              <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1964/1966">1964-1966</unitdate>
+            </did>
+          </c03>
+          <c03 id="G353" level="file">
+            <did>
+              <container type="box-folder">12.15</container>
+              <unittitle encodinganalog="245$a">Student Congregation
+					 </unittitle>
+              <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1966/1967">1966-1967</unitdate>
+            </did>
+          </c03>
+          <c03 id="G354" level="file">
+            <did>
+              <container type="box-folder">12.16</container>
+              <unittitle encodinganalog="245$a">Treasurer's Log </unittitle>
+              <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1966/1967">1966-1967</unitdate>
+            </did>
+          </c03>
+          <c03 id="G355" level="file">
+            <did>
+              <container type="box-folder">12.17</container>
+              <unittitle encodinganalog="245$a">Treasurer's Log </unittitle>
+              <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1967/1968">1967-1968</unitdate>
+            </did>
+          </c03>
+          <c03 id="G356" level="file">
+            <did>
+              <container type="box-folder">12.18</container>
+              <unittitle encodinganalog="245$a">Student Congregation
+					 </unittitle>
+              <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1967/1969">1967-1969</unitdate>
+            </did>
+          </c03>
+          <c03 id="G357" level="file">
+            <did>
+              <container type="box-folder">13.1</container>
+              <unittitle encodinganalog="245$a">Student Congregation
+					 </unittitle>
+              <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1969/1970">1969-1970</unitdate>
+            </did>
+          </c03>
+          <c03 id="G358" level="file">
+            <did>
+              <container type="box-folder">13.2</container>
+              <unittitle encodinganalog="245$a">Student Congregation
+					 </unittitle>
+              <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1970/1978">1970-1978</unitdate>
+            </did>
+          </c03>
+          <c03 id="G359" level="file">
+            <did>
+              <container type="box-folder">13.3</container>
+              <unittitle encodinganalog="245$a">Student Congregation
+					 </unittitle>
+              <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1979/1980">1979-1980</unitdate>
+            </did>
+          </c03>
+          <c03 id="G360" level="file">
+            <did>
+              <container type="box-folder">13.4</container>
+              <unittitle encodinganalog="245$a">Student Congregation
+					 </unittitle>
+              <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1981/1985">1981-1985</unitdate>
+            </did>
+          </c03>
+          <c03 id="G361" level="file">
+            <did>
+              <container type="box-folder">13.5</container>
+              <unittitle encodinganalog="245$a">Student Congregation
+					 </unittitle>
+              <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1986/1994">1986-1994</unitdate>
+            </did>
+          </c03>
+        </c02>
+        <c02 id="G362" level="subseries">
+          <did>
+            <unitid>B</unitid>
+            <unittitle encodinganalog="245$a">Student Congregation Bulletins
+				  </unittitle>
+          </did>
+          <c03 id="G364" level="file">
+            <did>
+              <container type="box-folder">13.6</container>
+              <unittitle encodinganalog="245$a">Student Congregation Bulletins
+					 </unittitle>
+              <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1955/1956">1955-1956</unitdate>
+            </did>
+          </c03>
+          <c03 id="G365" level="file">
+            <did>
+              <container type="box-folder">13.7</container>
+              <unittitle encodinganalog="245$a">Student Congregation Bulletins
+					 </unittitle>
+              <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1956/1957">1956-1957</unitdate>
+            </did>
+          </c03>
+          <c03 id="G366" level="file">
+            <did>
+              <container type="box-folder">13.8</container>
+              <unittitle encodinganalog="245$a">Student Congregation Bulletins
+					 </unittitle>
+              <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1957/1958">1957-1958</unitdate>
+            </did>
+          </c03>
+          <c03 id="G367" level="file">
+            <did>
+              <container type="box-folder">13.9</container>
+              <unittitle encodinganalog="245$a">Student Congregation Bulletins
+					 </unittitle>
+              <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1958/1959">1958-1959</unitdate>
+            </did>
+          </c03>
+          <c03 id="G368" level="file">
+            <did>
+              <container type="box-folder">13.10</container>
+              <unittitle encodinganalog="245$a">Student Congregation Bulletins
+					 </unittitle>
+              <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1959/1960">1959-1960</unitdate>
+            </did>
+          </c03>
+          <c03 id="G369" level="file">
+            <did>
+              <container type="box-folder">13.11</container>
+              <unittitle encodinganalog="245$a">Student Congregation Bulletins
+					 </unittitle>
+              <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1960/1961">1960-1961</unitdate>
+            </did>
+          </c03>
+          <c03 id="G370" level="file">
+            <did>
+              <container type="box-folder">13.12</container>
+              <unittitle encodinganalog="245$a">Student Congregation Bulletins
+					 </unittitle>
+              <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1961/1962">1961-1962</unitdate>
+            </did>
+          </c03>
+          <c03 id="G371" level="file">
+            <did>
+              <container type="box-folder">13.13</container>
+              <unittitle encodinganalog="245$a">Student Congregation Bulletins
+					 </unittitle>
+              <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1962/1963">1962-1963</unitdate>
+            </did>
+          </c03>
+          <c03 id="G372" level="file">
+            <did>
+              <container type="box-folder">14.1</container>
+              <unittitle encodinganalog="245$a">Student Congregation Bulletins
+					 </unittitle>
+              <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1963/1964">1963-1964</unitdate>
+            </did>
+          </c03>
+          <c03 id="G373" level="file">
+            <did>
+              <container type="box-folder">14.2</container>
+              <unittitle encodinganalog="245$a">Student Congregation Bulletins
+					 </unittitle>
+              <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1964/1965">1964-1965</unitdate>
+            </did>
+          </c03>
+          <c03 id="G374" level="file">
+            <did>
+              <container type="box-folder">14.3</container>
+              <unittitle encodinganalog="245$a">Student Congregation Bulletins
+					 </unittitle>
+              <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1965/1966">1965-1966</unitdate>
+            </did>
+          </c03>
+          <c03 id="G375" level="file">
+            <did>
+              <container type="box-folder">14.4</container>
+              <unittitle encodinganalog="245$a">Student Congregation Bulletins
+					 </unittitle>
+              <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1966/1967">1966-1967</unitdate>
+            </did>
+          </c03>
+          <c03 id="G376" level="file">
+            <did>
+              <container type="box-folder">14.5</container>
+              <unittitle encodinganalog="245$a">Student Congregation Bulletins
+					 </unittitle>
+              <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1967/1968">1967-1968</unitdate>
+            </did>
+          </c03>
+          <c03 id="G377" level="file">
+            <did>
+              <container type="box-folder">14.6</container>
+              <unittitle encodinganalog="245$a">Student Congregation Bulletins
+					 </unittitle>
+              <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1968/1969">1968-1969</unitdate>
+            </did>
+          </c03>
+          <c03 id="G378" level="file">
+            <did>
+              <container type="box-folder">14.7</container>
+              <unittitle encodinganalog="245$a">Student Congregation Bulletins
+					 </unittitle>
+              <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1969/1970">1969-1970</unitdate>
+            </did>
+          </c03>
+          <c03 id="G379" level="file">
+            <did>
+              <container type="box-folder">14.8</container>
+              <unittitle encodinganalog="245$a">Student Congregation Bulletins
+					 </unittitle>
+              <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1970/1971">1970-1971</unitdate>
+            </did>
+          </c03>
+          <c03 id="G380" level="file">
+            <did>
+              <container type="box-folder">14.9</container>
+              <unittitle encodinganalog="245$a">Student Congregation Bulletins
+					 </unittitle>
+              <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1974/1975">1974-1975</unitdate>
+            </did>
+          </c03>
+          <c03 id="G381" level="file">
+            <did>
+              <container type="box-folder">14.10</container>
+              <unittitle encodinganalog="245$a">Student Congregation Bulletins
+					 </unittitle>
+              <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1978/1979">1978-1979</unitdate>
+            </did>
+          </c03>
+          <c03 id="G382" level="file">
+            <did>
+              <container type="box-folder">14.11</container>
+              <unittitle encodinganalog="245$a">Student Congregation Bulletins
+					 </unittitle>
+              <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1979/1980">1979-1980</unitdate>
+            </did>
+          </c03>
+          <c03 id="G383" level="file">
+            <did>
+              <container type="box-folder">14.12</container>
+              <unittitle encodinganalog="245$a">Student Congregation Bulletins
+					 </unittitle>
+              <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1980/1981">1980-1981</unitdate>
+            </did>
+          </c03>
+          <c03 id="G384" level="file">
+            <did>
+              <container type="box-folder">14.13</container>
+              <unittitle encodinganalog="245$a">Student Congregation Bulletins
+					 </unittitle>
+              <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1981/1982">1981-1982</unitdate>
+            </did>
+          </c03>
+          <c03 id="G385" level="file">
+            <did>
+              <container type="box-folder">14.14</container>
+              <unittitle encodinganalog="245$a">Student Congregation Bulletins
+					 </unittitle>
+              <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1982/1983">1982-1983</unitdate>
+            </did>
+          </c03>
+          <c03 id="G386" level="file">
+            <did>
+              <container type="box-folder">14.15</container>
+              <unittitle encodinganalog="245$a">Student Congregation Bulletins
+					 </unittitle>
+              <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1983/1989">1983-1989</unitdate>
+            </did>
+          </c03>
+          <c03 id="G387" level="file">
+            <did>
+              <container type="box-folder">14.16</container>
+              <unittitle encodinganalog="245$a">Student Congregation Bulletins
+					 </unittitle>
+              <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1989/2001">1989-2001</unitdate>
+            </did>
+          </c03>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

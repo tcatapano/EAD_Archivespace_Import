@@ -1,0 +1,136 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "http://lcweb2.loc.gov/xmlcommon/dtds/ead2002/ead.dtd">
+<ead>
+<eadheader relatedencoding="Dublin Core" findaidstatus="edited-full-draft" langencoding="iso639-2b" scriptencoding="iso15924" audience="internal" id="a0">
+<eadid encodinganalog="Identifier" url="http://hdl.handle.net/10407/6382252593" identifier="10407/6382252593">ksrl.sc.brownsamuel</eadid>
+<filedesc>
+<titlestmt>
+<titleproper encodinganalog="Title">Guide to the Samuel Brown Letter</titleproper>
+<subtitle>Samuel Brown letter. Portobello. Scotland. [1843]</subtitle>
+<author encodinganalog="Creator">Finding aid prepared by mab, 2008.</author>
+
+</titlestmt>
+
+
+<publicationstmt>
+<publisher encodinganalog="Publisher">University of Kansas</publisher>
+<address><addressline>1450 Poplar Lane, Lawrence, KS 66045-7616</addressline>
+<addressline>Phone: (785)864-4334</addressline>
+<addressline>Fax: (785)864-5803</addressline>
+<addressline>URL: http://spencer.lib.ku.edu</addressline></address>
+
+<date encodinganalog="Date">2008</date>
+
+</publicationstmt>
+
+</filedesc>
+
+<profiledesc>
+<creation>Finding aid encoded by mab, <date>2008</date>
+</creation>
+<langusage>Finding aid written in<language encodinganalog="language">English.</language></langusage>
+</profiledesc>
+</eadheader>
+
+
+
+<archdesc relatedencoding="MARC21" level="collection" type="inventory">
+<did id="a1">
+<head>COLLECTION SUMMARY</head>
+
+<repository label="Repository:" encodinganalog="852$a">
+<corpname>University of Kansas<subarea>Kenneth Spencer Research Library</subarea> <subarea>Department of Special Collections</subarea></corpname>
+<address><addressline>1450 Poplar Lane, Lawrence, KS 66045-7616</addressline>
+<addressline>Phone: (785)864-4334</addressline>
+<addressline>Fax: (785)864-5803</addressline>
+<addressline>URL: http://spencer.lib.ku.edu</addressline></address>
+</repository>
+
+<origination label="Creator:"><persname encodinganalog="100">Brown, Samuel, 1817-1856</persname></origination>
+
+<unittitle label="Title:" encodinganalog="245$a">Samuel Brown letter. </unittitle>
+
+<unitdate type="inclusive" encodinganalog="245$f" label="Dates:">February 28, [1843]</unitdate>
+
+<langmaterial label="Language(s):"> <language>English </language></langmaterial>
+
+<physdesc>
+<extent label="Quantity:" encodinganalog="300$a">1 folder (1 leaf) </extent>
+<geogname>Portobello. Scotland.</geogname>
+</physdesc>
+
+<abstract encodinganalog="520$a" label="Abstract:">Samuel Brown (1817-1856) was a chemist and author.  In this letter to an unidentified friend, he writes about the people with whom he dined at a dinner party, including his dinner partner, Miss Helen Faucit (1814-1989), an actress. </abstract>
+
+<unitid encodinganalog="099" type="call#" label="Identification:" countrycode="US" repositorycode="KFS">MS P667</unitid>
+
+</did>
+
+
+
+
+
+
+<!-- Top Level Metadata Goes Here: -->
+
+	<!-- Arrangement/Series Info Goes Here: -->
+
+	<!-- End Arrangement/Series Info -->
+
+<!-- End Top Level Metadata -->
+
+
+<!-- Controlled Access Terms Go Here: -->
+
+<controlaccess id="a12">
+<head>INDEX TERMS</head>
+<controlaccess>
+<head>Names:</head>
+<persname role="subject" encodinganalog="^700" source="local">Brown, Samuel, 1817-1856</persname>
+<persname role="subject" encodinganalog="^700" source="local">Faucit, Helen, 1814-1898</persname>
+
+	</controlaccess>
+</controlaccess>
+<!-- End Controlled Access Terms -->
+
+
+<!-- Administrative Information Goes Here: -->
+
+<accessrestrict id="a14" encodinganalog="506">
+<head>Restrictions on Access</head>
+<p>None</p>
+</accessrestrict>
+
+
+<prefercite encodinganalog="524" id="a18">
+<head>Preferred Citation</head>
+<p>Brown, Samuel, 1817-1856.  Samuel Brown letter. Department of Special Collections, MS P667, Kenneth Spencer Research Library, University of Kansas Libraries</p>
+</prefercite>
+
+<processinfo encodinganalog="583" id="a20">
+<head>Processing Information</head>
+<p>Former SC temporary call number: MS (Box) 38: 52</p>
+<p>Former temporary collection name: Collection of 19th c. letters: Miscellaneous group of mainly English letters: mostly 19th c, some 20th c, a few 18th c.</p>
+</processinfo>
+
+
+<acqinfo encodinganalog="541" id="a19">
+<head>Acquisition Information</head>
+<p>Purchased from Maggs Bros Rare Books, June 27, 1966</p>
+</acqinfo>
+
+<userestrict encodinganalog="540" id="a15">
+<head>Restrictions on Use</head>
+<p/>
+<p>Spencer Library staff may determine use restrictions dependent on the physical condition of manuscript materials.</p>
+</userestrict>
+
+<!-- End Administrative Information -->
+
+
+<!-- Start Description of Subordinate Components-->
+
+
+<!-- End Description of Subordinate Components-->
+
+</archdesc>
+</ead>

@@ -1,0 +1,1028 @@
+<?xml version="1.0"?> 
+<?xml-stylesheet type="text/xsl" href="https://libwebspace.library.cmu.edu:4430/Research/Archives/ead/xsl/ead2002.xsl" index-result="yes"?>
+<ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="https://libwebspace.library.cmu.edu:4430/Research/Archives/ead/2002/ead.xsd"
+    xmlns="http://library.cmu.edu/ead/">
+    
+    <eadheader relatedencoding="MARC21" countryencoding="iso3166-1" dateencoding="iso8601">
+        <eadid countrycode="us" encodinganalog="856$u">https://libwebspace.library.cmu.edu:4430/Research/Archives/UnivArchives/ead/Carra.xml
+        </eadid>
+        
+        <filedesc>
+            <titlestmt>              
+                <titleproper encodinganalog="245$a">Carra, Lawrence, Papers
+                <date>1931-1997
+                </date>
+                </titleproper>
+                <subtitle>Carnegie Mellon University Archives, Staff and Faculty Collections 
+                </subtitle>
+            </titlestmt> 
+            <publicationstmt>
+                <date>July 12, 2007 <!-- [date for bottom of page]-->
+                </date>
+                <date type="copyright">2007</date>  <!-- date to appear in copyright statement at bottom of page -->
+                <publisher>Carnegie Mellon University</publisher> <!--  -->
+            </publicationstmt>
+        </filedesc>
+    </eadheader>
+    
+    <frontmatter>
+    </frontmatter>
+    
+    <archdesc level="collection"> 
+        <did>            
+            <physdesc> 
+                <extent encodinganalog="300">Four boxes (Boxes 1-4); 4 linear feet
+               </extent>
+            </physdesc>
+               <unitdate type="inclusive">
+               </unitdate>
+            <physloc>Shelf 84</physloc>
+            <repository>Carnegie Mellon University Archives, Hunt Library, 5000 Forbes Avenue, Pittsburgh, PA</repository>
+            <origination>  <!-- Creators and/or 'Authors' of this work -->
+                <persname>Carra, Lawrence, 1909-2006</persname>
+                <corpname>Carnegie Mellon University</corpname>
+            </origination>
+        </did>
+        
+        <controlaccess> 
+            <!--  Subjects (people, places, things) covered in this work
+                These will be placedin the MARC record's 6xx and 7xx fields.
+                (use role='subject' to put them in the 6xxx, otherwise they are in 7xxx)
+            -->
+            <persname role="subject">Shakespeare, William, 1564-1616--Dramatic works</persname>
+            
+            <!--  items without role=subject  are 'Added entries' in the MARC 7xx fields-->
+            <subject>College and school drama, American--Pennsylvania--Pittsburgh</subject>
+            <subject>College and school drama, American--Texas--Austin</subject>  
+            <subject>College and school drama, American--Illinois--Evanston</subject>
+            <subject>Universities and colleges--Faculty</subject>
+            <subject>Commedia dell'arte</subject>
+            <subject>Television plays</subject>
+            <subject>Theater--Production and direction</subject>
+            <subject>Theater, Municipal--Pennsylvania--Pittsburgh</subject>
+            <subject>Drama festivals--Great Lakes</subject>
+            <subject>Acting teachers</subject>
+            <subject>Musical theater</subject>
+        </controlaccess>
+        
+        <bioghist> <!-- EAD Cookbook 3.3.2 -->
+            <head>Biographical Sketch
+            </head>
+            <p>  Lawrence (Larry) Carra was a professor of the Carnegie Mellon University drama department for 31 years, from 1946-1977.  He directed over 350 plays in Texas, Boston, New Jersey, Chicago, and Pittsburgh.  He is also the co-author of the definitive text on directing, <emph altrender="italic">Fundamentals of Play Directing</emph>, which is now in its fifth edition.  At Carnegie Mellon he was appointed the Chairman of the General Committee on Television in 1957 where he worked closely with WQED and KDKA to produced educational programming about theater.  He directed a summer theater program at CMU from 1975-1980.  He produced local music festivals and participated in many different types of drama outreach.  He helped establish the Pittsburgh Music Tent in 1958-1959, and also directed plays for the Civic Light Opera from 1959-1963.  In addition to his stage activities, Carra also worked in television production.
+            </p>
+
+            <p>In retirement, Mr. Carra lectured at NYU, UCLA, and USC, while also appearing as a guest director occasionally.  He also served as a consultant for the Ice Capades and Norman Lear Productions.  Carra's former students include William Ball (American Conservatory Theatre, San Francisco), Mel Shapiro (Broadway producer), John Tebelak (author of 'Godspell'), Sada Thompson ('Family'), Jack Klugman ('Quincy' and 'Odd Couple'), and Ken Welch (music and lyrics for 'Roots').
+            </p>
+        </bioghist>
+        
+        <scopecontent> <!-- EAD Cookbook 3.3.3 -->
+            <head>Scope and Content Note</head>
+            <p>The Lawrence Carra Papers are housed in four archival boxes and arranged into six series.  Series have been designated for biographical information, project files, reference files, stage productions, television and radio productions, and oversized materials.  Generally, these papers include informal and business correspondence, newspaper clippings, playbills, scripts, production notes, and set designs.  The majority of the collection is information about the vast number of stage and television productions directed by Mr. Carra. These subject folders can include playbills, scripts, attendance sheets, rehearsal schedules and other production notes.  The amount of information about each production varies widely.  The collection contains little information about his personal life, aside from brief mentions in scattered correspondence throughout the collection.  There is little information about the operation of the broader Carnegie Mellon University drama department in the collection.
+            </p>
+        </scopecontent>
+        
+        
+        <!-- SERIES SUMMARY WILL GO HERE FROM MAP -->
+        
+        
+        <custodhist> <!-- EAD Cookbook 3.3.9.3 -->
+            <head>Provenance</head>
+            <p>These materials were received in one accession as a gift from Mr. Larry Carra, Jr.
+            </p>
+         </custodhist>
+             
+        <accessrestrict> <!-- EAD Cookbook 3.3.9.(1,2) -->
+            <head>Restrictions</head>
+            <p>None.
+            </p>
+        </accessrestrict>
+        
+        <separatedmaterial> <!-- EAD Cookbook 3.3.6.2 -->
+            <head>Separations</head>
+            <p>A half foot of photographs have been separately arranged and described as the Carra, Lawrence, Photographs collection.  Also, oversized materials in this collection have been separated from their original folders and stored together for preservation reasons. They are stored in the second floor map case in drawer 8.  A list of materials can be found in series six.</p>
+        </separatedmaterial>
+        
+        <processinfo> 
+                <head>Processor
+                </head>
+                <p>  Cassandra Pyle   
+                </p>
+        </processinfo>
+        
+        
+  <!--  Structure  
+      Note: If  you want the 'Series summary' to be created on the
+      
+        <dsc type="analyticover">
+            <c01 level="series">
+              <did>   <unittitle>Registrar's Records   </unittitle> 
+                          <abstract>The Registrar's Records consist of three sub-series of registration cards.  </abstract>
+              </did>            
+            </c01>
+            <c01 level="series">   <did><unittitle>Annual Reports   </unittitle> 
+                  <abstract>The Annual Reports run from 1908-1973.
+      </abstract> </did>
+            </c01>
+        </dsc>
+  -->    
+        
+        
+        <!--  Structure -->         
+        <dsc type="combined">
+            <head>Container List</head>
+            <!--<container type="box">1</container> -->                   
+ 
+            <c01 level="series">
+                <did>   <unittitle>Biographical information (1936-1997)
+                </unittitle> 
+                    <abstract>The biographical information about Lawrence Carra is housed in one folder.  It contains newspaper and magazine articles about his work in Chicago, Texas, New Jersey, Ohio, and Pittsburgh.  Some of the articles are written by him and one article is a transcript of an interview held in 1976.  This folder also contains a published history of the CMU drama department which describes his time as the head of the department.  His obituary from the Pittsburgh Post-Gazette was added to this file.</abstract>
+                </did>
+                <c02 level="file">
+                    <did><physloc>Box 1</physloc><container type="folder">1</container><unittitle>Biographical information<unitdate>1936-1997</unitdate></unittitle></did>
+                </c02>
+            </c01>
+            
+            
+            <c01 level="series">
+                <did>   <unittitle>Project files (1936-1995)
+                </unittitle> 
+                    <abstract>The project files are housed in 15 folders arranged alphabetically by the folder title provided by the creator.  They contain materials on various activities in which Mr. Carra was active (as a director, lecturer, or consultant) and contain mostly articles, correspondence, and various project reports or playbills.  These activity files span almost 60 years and provide the majority of the documentation of his activities in retirement.  Of particular interest are the materials about his tenure as chairman of the general television committee at CMU in 1957, which provide some insight into the intentions and procedures of CMU's involvement with WQED and KDKA. 
+                    </abstract>
+                </did>
+                <c02 level="file">
+                    <did><container type="folder">2</container><unittitle>Carnegie Institute of Technology<unitdate>1950-1957</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">3</container><unittitle>Civic Light Opera<unitdate>1961-1995</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">4</container><unittitle>Cochese College Teachers' Seminar<unitdate>1983-1988</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">5</container><unittitle>Curtain Club, University of Texas Experimental Theater<unitdate>1941-1945</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">6</container><unittitle>Great Lakes Shakespeare Festival<unitdate>1966-1991</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">7</container><unittitle>Ice Capades<unitdate>1965</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">8</container><unittitle>Mill Playhouse<unitdate>1953-1956</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">9</container><unittitle>New Haven Drama Tournament<unitdate>1936-1937</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">10</container><unittitle>Norman Lear Productions (Wilde Oates and Beaux Stratagem)<unitdate>1977-1978</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">11</container><unittitle>Pearce-Sunsites Lifestyle Improvement Project (Arizona)<unitdate>1981-1989</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">12</container><unittitle>Pittsburgh Melody Tent<unitdate>1958-1959</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">13</container><unittitle>Shimer College Summer Theater<unitdate>1939-1942</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">14</container><unittitle>South Shore Music Circus<unitdate>1956-1958</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">15</container><unittitle>University of California, Los Angles<unitdate>1980-1984</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">16</container><unittitle>University of Southern California<unitdate>1985-1989</unitdate></unittitle></did>
+                </c02>
+            </c01>
+            
+            
+            
+            <c01 level="series">
+                <did>   <unittitle>Reference files (1947-1989)</unittitle> 
+                    <abstract>The reference files series is housed in 23 folders and is arranged alphabetically by the folder title provided by the creator.  It contains information about different historical periods pertaining to manners, dress, and speech- presumably used to coach actors in period plays. Some period files also contain selected scenes from plays set within that historical period.  This series also contains various notes and lectures on general theater and television topics, providing some insight to Carra's classroom style.</abstract>
+                </did>
+                <c02 level="file">
+                    <did><container type="folder">17</container><unittitle>Bible Stories<unitdate>undated</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">18</container><unittitle>Directing (approaches and controls)<unitdate>undated</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">19</container><unittitle>Directing courses, Lecture Outlines, Acting<unitdate>undated</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">20</container><unittitle>Eighteenth century<unitdate>undated</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">21</container><unittitle>Elizabethan and Stuart<unitdate>undated</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">22</container><unittitle>French Renaissance<unitdate>undated</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">23</container><unittitle>Greek	<unitdate>undated</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">24</container><unittitle>Lectures and Speeches<unitdate>1960-1989</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">25</container><unittitle>Manual for Crew Heads (Carnegie Mellon University)<unitdate>undated</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">26</container><unittitle>Medieval<unitdate>undated</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">27</container><unittitle>Nineteenth century (first half)<unitdate>undated</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">28</container><unittitle>Nineteenth century (second half)<unitdate>undated</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">29</container><unittitle>Period Plays<unitdate>undated</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">30</container><unittitle>Pre-Elizabethan and Elizabethan <unitdate>undated</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">31</container><unittitle>Renaissance<unitdate>undated</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">32</container><unittitle>Restoration<unitdate>undated</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">33</container><unittitle>Scene fundamentals<unitdate>undated</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">34</container><unittitle>Shakespeare comedy scenes<unitdate>undated</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">35</container><unittitle>Shakespeare tragedy scenes<unitdate>undated</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">36</container><unittitle>Staging<unitdate>undated</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">37</container><unittitle>"The Telephone" (script)<unitdate>1947</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">38</container><unittitle>Television production<unitdate>undated</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">39</container><unittitle>Twentieth century<unitdate>1978</unitdate></unittitle></did>
+                </c02>
+            </c01>
+            
+            
+            <c01 level="series">
+                <did>   <unittitle>Stage productions (1931-1988)</unittitle> 
+                    <abstract>The stage production files account for the majority of the collection and cover 183 plays. These materials are housed in four boxes and arranged alphabetically by the title of the play.  Following the title of the play, the location or group that performed the play is provided to assist researchers interested in particular groups or locations.  For the most repeated locations or companies, an acronym has been assigned.  The list of the acronyms and their meanings is provided above the container listing for this series.  The amount of material in each folder varies widely but most include a playbill and newspaper articles.  Other materials may include scripts, character charts, costume and set designs, correspondence, or other production notes.  A typed script of Carra's thesis "The Great Magician" is included in folder 47. </abstract>
+                    <note><list type="simple">
+                        <item>CIT (Carnegie Institute of Technology- Pittsburgh, Penna.)</item>
+                        <item>CLO (Civic Light Opera- Pittsburgh, Penna.)</item>
+                        <item>CMU (Carnegie Mellon University- Pittsburgh, Penna.)</item>
+                        <item>FSC (Frances Shimer College- Waukegan, Ill.)</item>
+                        <item>GLSF (Great Lakes Shakespeare Festival- Lakewood, Ohio)</item>
+                        <item>IP (Interstate Players- Texas)</item>
+                        <item>MP (Mill Playhouse- Pleasant Mills, New Jersey)</item>
+                        <item>NWU (Northwestern University- Evanston, Ill.)</item>
+                        <item>SSMC (South Shore Music Circus- Boston, Mass.)</item>
+                        <item>UT (University of Texas- Austin, Texas)</item>
+                    </list></note>
+                </did>
+                <c02 level="file">
+                    <did><container type="folder">40</container><unittitle>"The Adding Machine" (CMU)<unitdate>1967-1968</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">41</container><unittitle>"The Affected Young Ladies" (UT, FSC, CIT)<unitdate>1944-1955</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">42</container><unittitle>"All's Well That Ends Well" (GLSF)<unitdate>1967</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">43</container><unittitle>"Annie Get Your Gun" (CLO)<unitdate>1960</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">44</container><unittitle>"Arms and the Man" (MP)<unitdate>1954</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">45</container><unittitle>"Arsenic and Old Lace" (UT)<unitdate>1942</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">46</container><unittitle>"As You Like It" (UT, CIT, GLSF)<unitdate>1944-1975</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">47</container><unittitle>"Athens to Broadway" (NWU)<unitdate>1939</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">48</container><unittitle>"Ball on a Rubber Chain" (or "Altruism")<unitdate>1937</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">49</container><unittitle>"The Bartered Bride" (UT)<unitdate>1945</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">50</container><unittitle>"Beaux Stratagem" (CMU, GLSF)<unitdate>1949-1968</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">51</container><unittitle>"The Beggar's Opera" (GLSF, CMU)<unitdate>1972-1979</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">52</container><unittitle>"Bell, Book, and Candle" (MP)<unitdate>1954</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">53</container><unittitle>"Bells Are Ringing" (CLO, Tenthouse Music Theatre, Chicago)<unitdate>1959-1964</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><physloc>Box 2</physloc><container type="folder">1</container><unittitle>"La Boheme" (UT)<unitdate>1945</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">2</container><unittitle>"Born King of the Jews" (Somerville County Theatre, Mass.)<unitdate>1931-1932</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">3</container><unittitle>"Born Yesterday" (MP)<unitdate>1953</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">4</container><unittitle>"Le Bourgeois Gentilhomme" (UT, GLSF)<unitdate>1942-1969</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">5</container><unittitle>"The Boy Friend" (SSMC)<unitdate>1957</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">6</container><unittitle>"Brigadoon" (SSMC, CLO)<unitdate>1957-1960</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">7</container><unittitle>"The Cage" (CIT)<unitdate>1964</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">8</container><unittitle>"Calamity Jane" (CLO)<unitdate>1961</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">9</container><unittitle>"Can Can" (SSMC, CLO)<unitdate>1957-1962</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">10</container><unittitle>"Candida" (GLSF, Longacre Theater, New York)<unitdate>1969-1970</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">11</container><unittitle>"Candle Light" (MP)<unitdate>1953</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">12</container><unittitle>"Cannibal Carnival" (Harvard Dramatic Club)<unitdate>1938</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">13</container><unittitle>"Captain Carvallo" (MP)<unitdate>1953</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">14</container><unittitle>"Carousel" (CLO)<unitdate>1963</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">15</container><unittitle>"The Caucasian Chalk Circle" (CIT)<unitdate>1959</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">16</container><unittitle>"Charm" (MP)	<unitdate>1953</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">17</container><unittitle>"The Cherry Orchard" (UT, CIT, NWU, FSC)<unitdate>1944-1948</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">18</container><unittitle>"The Chocolate Soldier" (Indiana University, CLO)<unitdate>1950-1961</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">19</container><unittitle>"Clérambard" (CIT)<unitdate>1961</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">20</container><unittitle>"The College Widow" or "Leave it to Jane" (CIT, Sheridan Square, New York)<unitdate>1946-1962</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">21</container><unittitle>"Comedy" (Colonial Theater, Boston)<unitdate>1972</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">22</container><unittitle>"Comedy of Errors" (GLSF)<unitdate>1974</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">23</container><unittitle>"Cornor of God" (New Dramatists Committee)<unitdate>1953</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">24</container><unittitle>"Cymbeline" (CIT, GLSF)<unitdate>1957-1968</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">25</container><unittitle>"Cyrano de Bergerac" (GLSF)<unitdate>1967</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">26</container><unittitle>"Damn Yankees" (SSMC, CLO)<unitdate>1958-1961</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">27</container><unittitle>"Destry Rides Again" (CLO)<unitdate>1961</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">28</container><unittitle>"La Dolce Vita" (Yale Experimental Theater)<unitdate>1937</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">29</container><unittitle>"Don Juan" (MP, CIT)<unitdate>1954-1965</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">30</container><unittitle>"The Dramatist" (CIT)<unitdate>1960</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">31</container><unittitle>"An Evening Without Desdamona Fink"<unitdate>1962-1963</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">32</container><unittitle>"Excursion" (CIT)<unitdate>1950</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">33</container><unittitle>"Fanny" (SSMC, CLO)<unitdate>1958-1962</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">34</container><unittitle>"Figaro's Marriage" (CIT)<unitdate>1961</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">35</container><unittitle>"Finian's Rainbow" (SSMC)<unitdate>1956</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">36</container><unittitle>"Firefly" (CLO)<unitdate>1963</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">37</container><unittitle>"Flower Drum Song" (CLO)<unitdate>1962</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">38</container><unittitle>"Follies" (CMU)<unitdate>1976</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">39</container><unittitle>"The Fortune Teller" (San Antonio Civic Opera)<unitdate>1946</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">40</container><unittitle>"The Frogs" (GLSF)<unitdate>1975</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">41</container><unittitle>"George and Margaret" (MP)<unitdate>1953</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">42</container><unittitle>"Getting Married" (Lenox Hill Playhouse)<unitdate>1952</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">43</container><unittitle>"Glass Menagerie" (Theatre-on-the-Green, Fullerton, Calif.)<unitdate>1983</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">44</container><unittitle>"The Good Women of Setzuan" (CIT)<unitdate>1949</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">45</container><unittitle>"Le Grande Tour"<unitdate>1963</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">46</container><unittitle>"The Great Campaign" (UT)<unitdate>1945</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">47</container><unittitle>"The Great Magician"<unitdate>1937-1948</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">48</container><unittitle>"Guys and Dolls" (SSMC, CLO, CMU)<unitdate>1958-1968</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">49</container><unittitle>"Hamlet" (GLSF)<unitdate>1968</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">50</container><unittitle>"Hansel and Gretel" (UT)<unitdate>1943-1944</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">51</container><unittitle>"Happy Hunting" (SSMC)<unitdate>1958</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">52</container><unittitle>"Hazel Kirke" (CIT)<unitdate>1948</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">53</container><unittitle>"Hedda Gabler" (Rockport, Mass., and Providence, Rhode Island)<unitdate>1937-1938</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">54</container><unittitle>"Henry IV" (NWU, GLSF)<unitdate>1939-1971</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">55</container><unittitle>"Home is a Sacred Place" and "In the French Style" (California)<unitdate>1983</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">56</container><unittitle>"How to Succeed in the Utility Business Without Really Trying"<unitdate>1964</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">57</container><unittitle>"The Importance of Being Earnest" (GLSF)<unitdate>1966</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">58</container><unittitle>"The Incredible Saga of Montmorency Clutchrider" (CMU)<unitdate>1973</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">59</container><unittitle>"Irma La Douce" (White Barn Theatre)<unitdate>1963</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">60</container><unittitle>"The Italian Straw Hat" (CIT, GLSF)<unitdate>1957-1973</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><physloc>Box 3</physloc><container type="folder">1</container><unittitle>"It's Up To You" (UT)<unitdate>1943</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">2</container><unittitle>"The Jass Story"(Broadway)<unitdate>1958-1960</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">3</container><unittitle>"Julius Caesar" (GLSF)<unitdate>1970</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">4</container><unittitle>"Kind Lady" (FSC, IP)<unitdate>1941-1946</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">5</container><unittitle>"The King and I" (SSMC, CLO)<unitdate>1956-1960</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">6</container><unittitle>"King Lear" (GLSF)<unitdate>1966-1974</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">7</container><unittitle>"Kismet" (SSMC, CLO)<unitdate>1956-1960</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">8</container><unittitle>"Kiss Me Kate" (SSMC, CLO, CMU)<unitdate>1956-1977</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">9</container><unittitle>"Knight of the Burning Pestle" (UT)<unitdate>1941</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">10</container><unittitle>"Lady in the Dark" (SSMC)<unitdate>1957</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">11</container><unittitle>"Lady Ride My Shoulder" (CIT)<unitdate>1950</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">12</container><unittitle>"The Lady's at Work" (CIT Scotch and Soda Club)<unitdate>1948</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">13</container><unittitle>"Land of the Free" (FSC)<unitdate>1940</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">14</container><unittitle>"Lil'Abner" (CLO)<unitdate>1959</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">15</container><unittitle>"Liliom" (CIT)<unitdate>1950</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">16</container><unittitle>"Little Foxes" (MP)<unitdate>1953</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">17</container><unittitle>"Little Women" (Rockport, Mass.)<unitdate>1937</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">18</container><unittitle>"Lost in the Stars" (Indiana University)<unitdate>1950-1951</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">19</container><unittitle>"Lysistrata" (Rockport, Mass.)<unitdate>1937</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">20</container><unittitle>"Macbeth" (GLSF)<unitdate>1969</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">21</container><unittitle>"Madness in Two Parts" (Hammonton, New Jersey)<unitdate>1956</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">22</container><unittitle>"Madness on Bellevue Avenue" (Hammonton, New Jersey) <unitdate>undated</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">23</container><unittitle>"The Man Who Came to Dinner" (IP)<unitdate>1946</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">24</container><unittitle>"Me and Juliet" (SSMC)<unitdate>1956</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">25</container><unittitle>"Merchant of Venice" (CIT, GLSF)<unitdate>1967-1970</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">26</container><unittitle>"The Merry Widow" (San Antonio Civic Opera, and CLO)<unitdate>1947-1963</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">27</container><unittitle>"The Merry Wives of Windsor" (GLSF)<unitdate>1972</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">28</container><unittitle>"A Midsummer Night's Dream" (GLSF, CMU)<unitdate>1973-1975</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">29</container><unittitle>"Mikado" (San Antonio Civic Opera and Indiana University)<unitdate>1947-1951</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">30</container><unittitle>"Misalliance" (GLSF)<unitdate>1967</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">31</container><unittitle>Miscellaneous programs<unitdate>1940-1988</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">32</container><unittitle>"La Moglie Ideale" (Yale Italian Society)<unitdate>1936</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">33</container><unittitle>"The Most Happy Fella" (SSMC, CLO)<unitdate>1958-1959</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">34</container><unittitle>"Mr. Lincoln, the President" <unitdate>1981</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">35</container><unittitle>"Music Man" (CLO)<unitdate>1963</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">36</container><unittitle>"My Fair Lady" (Tenthouse Theatre, Chicago)<unitdate>1964</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">37</container><unittitle>"My Maryland" (San Antonio Civic Opera)<unitdate>1944</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">38</container><unittitle>"Naughty Marietta" (CLO)<unitdate>1959</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">39</container><unittitle>"Oklahoma!" (CLO)<unitdate>1962</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">40</container><unittitle>"One Warm Saturday" (CIT)<unitdate>1965</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">41</container><unittitle>"Othello" (CIT, GLSF)<unitdate>1962-1971</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">42</container><unittitle>"Our Town" (NWU, CMU, GLSF)<unitdate>1939-1975</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">43</container><unittitle>"Pajama Game" (SSMC, CLO)<unitdate>1957-1960</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">44</container><unittitle>"Pecos Bill"<unitdate>1957-1989</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">45</container><unittitle>"The People, Yes" (UT)<unitdate>1941</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">46</container><unittitle>"Pericles" (CMU)<unitdate>1971</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">47</container><unittitle>"Physicians for Fools" (CIT)<unitdate>1962</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">48</container><unittitle>"Picnic" (MP, CIT)<unitdate>1955-1958</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">49</container><unittitle>"Pillars of Society" (CIT)<unitdate>1950</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">50</container><unittitle>"Pipe Dream" (SSMC)<unitdate>1957</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">51</container><unittitle>"Pittsburgh in Music" Music Festival<unitdate>1949</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">52</container><unittitle>"Pittsburgh Sings" Music Festival<unitdate>1950</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">53</container><unittitle>"Plain and Fancy" (SSMC)<unitdate>1956</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">54</container><unittitle>"Playboy of the Western World" (GLSF)<unitdate>1974</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">55</container><unittitle>"Post Road" (Rockport, Mass.)<unitdate>1937</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">56</container><unittitle>"The Prince and the Piper" (UT, CIT)<unitdate>undated</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">57</container><unittitle>"Rhinoceros" (Playhouse, Pittsburgh)<unitdate>1966</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">58</container><unittitle>"Richard III" (GLSF)<unitdate>1972</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">59</container><unittitle>"Right You Are, If-" (UT, Wells College)<unitdate>1938-1945</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">60</container><unittitle>"Rio Rita" (San Antonio Civic Opera)<unitdate>1944</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">61</container><unittitle>"Rock n' Riot" (CIT Scotch and Soda Club)<unitdate>1947</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">62</container><unittitle>"Romeo and Juliet" (GLSF, CMU)<unitdate>1967-1974</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">63</container><unittitle>"Rosalinda" (CLO)<unitdate>1959</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">64</container><unittitle>"Rose Marie" (CLO)<unitdate>1960</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">65</container><unittitle>"Sally" (San Antonio Civic Opera)<unitdate>1947</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">66</container><unittitle>"Say, Darling" (CLO)<unitdate>1959</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">67</container><unittitle>"Irma La Douce" (White Barn Theatre)<unitdate>1966</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><physloc>Box 4</physloc><container type="folder">1</container><unittitle>Scout-O-Rama "On to Eagle"<unitdate>1951</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">2</container><unittitle>"She Stoops to Conquer" (GLSF)<unitdate>1966</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">3</container><unittitle>"Show Off" (MP)<unitdate>1953</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">4</container><unittitle>"Silk Stockings" (SSMC)<unitdate>1957</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">5</container><unittitle>"Situation Comedy" (CMU)<unitdate>1971</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">6</container><unittitle>"The Skin of Our Teeth" (UT)<unitdate>1944</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">7</container><unittitle>"South Pacific" (SSMC, CLO)<unitdate>1957-1960</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">8</container><unittitle>"Squaring the Circle" (UT)<unitdate>1943</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">9</container><unittitle>"Step into my Parlor" (MP)<unitdate>1954</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">10</container><unittitle>"Stormy Weather"<unitdate>1953-1964</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">11</container><unittitle>"A Streetcar Named Desire" (MP)<unitdate>1954</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">12</container><unittitle>"Streets of New York" (FSC, MP)<unitdate>1941-1953</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">13</container><unittitle>"The Student Prince" (CLO)<unitdate>1959</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">14</container><unittitle>"A Sudden Spring" (SSMC and Ogunquit Playhouse, Maine)<unitdate>1956</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">15</container><unittitle>"Summer and Smoke" (MP)<unitdate>1953</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">16</container><unittitle>"Take Me Along" (CLO)<unitdate>1961</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">17</container><unittitle>"Taming of the Shrew" (GLSF)<unitdate>1971</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">18</container><unittitle>"Tartuffe" (GLSF)<unitdate>1973</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">19</container><unittitle>"The Tempest" (CIT, GLSF)<unitdate>1953-1968</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">20</container><unittitle>"The Texas Destiny" (IP)<unitdate>1946</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">21</container><unittitle>"The Texas Round-up Revue and Ball" (UT)<unitdate>1945</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">22</container><unittitle>"They Die for Peace" (UT)<unitdate>1943</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">23</container><unittitle>"Thieves' Carnival" (Washington, D.C.)<unitdate>1953</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">24</container><unittitle>"This is the Draft Board" (UT)<unitdate>1943</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">25</container><unittitle>"Today Just Like Tomorrow" (CIT)<unitdate>1950</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">26</container><unittitle>"Tonight at 8:30" (UT)<unitdate>1944</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">27</container><unittitle>"Tosca" (UT)<unitdate>1944</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">28</container><unittitle>"The Town Square" <unitdate>undated</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">29</container><unittitle>"Trial By Jury" (San Antonio Civic Opera)<unitdate>1947</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">30</container><unittitle>"Tribal Warfare" (CMU)<unitdate>1981</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">31</container><unittitle>"Troilus and Cressida" (GLSF, CMU)<unitdate>1968-1969</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">32</container><unittitle>"Trouble in Tahiti" (MP)<unitdate>1955</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">33</container><unittitle>"Twelfth Night" (UT, CIT, GLSF)<unitdate>1941-1973</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">34</container><unittitle>"Two Dozen Roses" (MP)<unitdate>1954</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">35</container><unittitle>"Under the Gaslight" (FSC, GLSF)<unitdate>1942-1974</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">36</container><unittitle>"The Unsinkable Molly Brown" (CLO)<unitdate>1963</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">37</container><unittitle>"Volpone" (CMU, GLSF)<unitdate>1970</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">38</container><unittitle>"The Way of the World" (CMU)<unitdate>1972</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">39</container><unittitle>"Where's Charley?" (SSMC)<unitdate>1958</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">40</container><unittitle>"The Winter's Tale" (NWU, GLSF)<unitdate>1938-1966</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">41</container><unittitle>"Wonderful Town" (CLO)<unitdate>1963</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">42</container><unittitle>"You Can't Take It With You" (IP, Little Theatre, New  Jersey, CIT)<unitdate>1946-1955</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">43</container><unittitle>"You Never Can Tell" (GLSF)<unitdate>1971</unitdate></unittitle></did>
+                </c02>
+            </c01>
+            
+            <c01 level="series">
+                <did>   <unittitle>Television and Radio productions (1938-1983)</unittitle> 
+                    <abstract>The television and radio production files are housed in one box and arranged alphabetically by the title of the production.  The materials in this series are similar to those in the stage productions series including scripts, newspaper articles, correspondence, and production notes.  There are two folders worth of information about the Pulitzer Playhouse series in this series as well as a script for the television adaptation of Carra's own "The Great Magician."  Some materials were more difficult to date than the stage production files due to the lack of a playbill or other dated material for a television production. </abstract>
+                </did>
+                <c02 level="file">
+                    <did><container type="folder">44</container><unittitle>"Antony and Cleopatra"<unitdate>1983</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">45</container><unittitle>"Arbie, the bug boy"<unitdate>undated</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">46</container><unittitle>"Black Death"	<unitdate>undated</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">47</container><unittitle>Game Show ideas<unitdate>undated</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">48</container><unittitle>"Good Vibes"<unitdate>1981-1982</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">49</container><unittitle>"The Great Magician"<unitdate>1938</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">50</container><unittitle>Ideas<unitdate>1952-1980</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">51</container><unittitle>"Live On Tape" (musical revue)<unitdate>1964</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">52</container><unittitle>"The Matter of the Pots"<unitdate>1965-1967</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">53</container><unittitle>"Pulitzer Prize Playhouse" (folder 1)<unitdate>1951-1952</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">54</container><unittitle>"Pulitzer Prize Playhouse" (folder 2)<unitdate>1951-1952</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">55</container><unittitle>"Stormy Weather"<unitdate>undated</unitdate></unittitle></did>
+                </c02>
+                <c02 level="file">
+                    <did><container type="folder">56</container><unittitle>"The Tempest"<unitdate>1983</unitdate></unittitle></did>
+                </c02>
+            </c01>
+            
+            
+            <c01 level="series">
+                <did>   <unittitle>Oversized materials (1946-1986)</unittitle>
+                    <abstract>The oversized materials are housed in one folder in the second floor map case in drawer number eight.  These materials are arranged following the order of the other materials in the collection and therefore subseries have been designated for project files, stage productions and television productions.  Generally, these materials are architectural drawings and set designs.  However, this series does include some advertising posters and oversized production notes.</abstract>
+                </did>
+                <c02 level="subseries">
+                    <did><physloc>Drawer 8</physloc><unittitle>Projects</unittitle></did>
+                    <c03 level="file">
+                        <did><container type="folder">0</container><unittitle>Pearce-Sunsites Theater<unitdate>1986</unitdate></unittitle></did>
+                    </c03>
+                    <c03 level="file">
+                        <did><container type="folder">0</container><unittitle>Pittsburgh Music Tent<unitdate>1958-1959</unitdate></unittitle></did>
+                    </c03>
+                </c02>
+                <c02 level="subseries">
+                    <did><unittitle>Stage</unittitle></did>
+                    <c03 level="file">
+                        <did><container type="folder">0</container><unittitle>"As You Like It"<unitdate>1965-1975</unitdate></unittitle></did>
+                    </c03>
+                    <c03 level="file">
+                        <did><container type="folder">0</container><unittitle>"Beggar's Opera"<unitdate>1979</unitdate></unittitle></did>
+                    </c03>
+                    <c03 level="file">
+                        <did><container type="folder">0</container><unittitle>"Can Can"<unitdate>1962</unitdate></unittitle></did>
+                    </c03>
+                    <c03 level="file">
+                        <did><container type="folder">0</container><unittitle>"Candida"<unitdate>1970</unitdate></unittitle></did>
+                    </c03>
+                    <c03 level="file">
+                        <did><container type="folder">0</container><unittitle>"Carousel"<unitdate>1963</unitdate></unittitle></did>
+                    </c03>
+                    <c03 level="file">
+                        <did><container type="folder">0</container><unittitle>"The Caucasian Chalk Circle"<unitdate>1959</unitdate></unittitle></did>
+                    </c03>
+                    <c03 level="file">
+                        <did><container type="folder">0</container><unittitle>"College Widow"/ "Leave It To Jane"<unitdate>1959-1962</unitdate></unittitle></did>
+                    </c03>
+                    <c03 level="file">
+                        <did><container type="folder">0</container><unittitle>"Comedy"<unitdate>1972</unitdate></unittitle></did>
+                    </c03>
+                    <c03 level="file">
+                        <did><container type="folder">0</container><unittitle>"Fanny"<unitdate>1962</unitdate></unittitle></did>
+                    </c03>
+                    <c03 level="file">
+                        <did><container type="folder">0</container><unittitle>"Firefly"<unitdate>1963</unitdate></unittitle></did>
+                    </c03>
+                    <c03 level="file">
+                        <did><container type="folder">0</container><unittitle>"Flower Drum Song"<unitdate>1962</unitdate></unittitle></did>
+                    </c03>
+                    <c03 level="file">
+                        <did><container type="folder">0</container><unittitle>"Glass Menagerie"<unitdate>1983</unitdate></unittitle></did>
+                    </c03>
+                    <c03 level="file">
+                        <did><container type="folder">0</container><unittitle>"Guys and Dolls"<unitdate>1958-1968</unitdate></unittitle></did>
+                    </c03>
+                    <c03 level="file">
+                        <did><container type="folder">0</container><unittitle>"Kind Lady"<unitdate>1946</unitdate></unittitle></did>
+                    </c03>
+                    <c03 level="file">
+                        <did><container type="folder">0</container><unittitle>"Kismet"<unitdate>1960</unitdate></unittitle></did>
+                    </c03>
+                    <c03 level="file">
+                        <did><container type="folder">0</container><unittitle>"Kiss Me Kate"<unitdate>1977</unitdate></unittitle></did>
+                    </c03>
+                    <c03 level="file">
+                        <did><container type="folder">0</container><unittitle>"Liliom"<unitdate>1950</unitdate></unittitle></did>
+                    </c03>
+                    <c03 level="file">
+                        <did><container type="folder">0</container><unittitle>"The Man Who Came To Dinner"<unitdate>1946</unitdate></unittitle></did>
+                    </c03>
+                    <c03 level="file">
+                        <did><container type="folder">0</container><unittitle>"Merry Widow"<unitdate>1963</unitdate></unittitle></did>
+                    </c03>
+                    <c03 level="file">
+                        <did><container type="folder">0</container><unittitle>"Merry Wives of Windsor"<unitdate>1972</unitdate></unittitle></did>
+                    </c03>
+                    <c03 level="file">
+                        <did><container type="folder">0</container><unittitle>"Molly Brown"<unitdate>c1962</unitdate></unittitle></did>
+                    </c03>
+                    <c03 level="file">
+                        <did><container type="folder">0</container><unittitle>"Music Man"<unitdate>1963</unitdate></unittitle></did>
+                    </c03>
+                    <c03 level="file">
+                        <did><container type="folder">0</container><unittitle>"Oklahoma!"<unitdate>1962</unitdate></unittitle></did>
+                    </c03>
+                    <c03 level="file">
+                        <did><container type="folder">0</container><unittitle>"One Warm Saturday"<unitdate>1965</unitdate></unittitle></did>
+                    </c03>
+                    <c03 level="file">
+                        <did><container type="folder">0</container><unittitle>"Othello"<unitdate>1962-1971</unitdate></unittitle></did>
+                    </c03>
+                    <c03 level="file">
+                        <did><container type="folder">0</container><unittitle>"Pittsburgh in Music"<unitdate>1949</unitdate></unittitle></did>
+                    </c03>
+                    <c03 level="file">
+                        <did><container type="folder">0</container><unittitle>"Pittsburgh Sings"<unitdate>1950</unitdate></unittitle></did>
+                    </c03>
+                    <c03 level="file">
+                        <did><container type="folder">0</container><unittitle>"Skin of Our Teeth"<unitdate>1946</unitdate></unittitle></did>
+                    </c03>
+                    <c03 level="file">
+                        <did><container type="folder">0</container><unittitle>"Summer and Smoke"<unitdate>1953</unitdate></unittitle></did>
+                    </c03>
+                    <c03 level="file">
+                        <did><container type="folder">0</container><unittitle>"Troilus and Cressida"<unitdate>1968</unitdate></unittitle></did>
+                    </c03>
+                    <c03 level="file">
+                        <did><container type="folder">0</container><unittitle>"As You Like It"<unitdate>1965-1975</unitdate></unittitle></did>
+                    </c03>
+                    <c03 level="file">
+                        <did><container type="folder">0</container><unittitle>"Way of the World"<unitdate>1972</unitdate></unittitle></did>
+                    </c03>
+                    <c03 level="file">
+                        <did><container type="folder">0</container><unittitle>"Wonderful Town"<unitdate>1963</unitdate></unittitle></did>
+                    </c03>
+                    <c03 level="file">
+                        <did><container type="folder">0</container><unittitle>"You Can't Take It With You"<unitdate>1946</unitdate></unittitle></did>
+                    </c03>
+                    <c03 level="file">
+                        <did><container type="folder">0</container><unittitle>"You Never Can Tell"<unitdate>1971</unitdate></unittitle></did>
+                    </c03>
+                </c02>
+                <c02 level="subseries">
+                    <did><unittitle>Television</unittitle></did>
+                    <c03 level="file">
+                    <did><container type="folder">0</container><unittitle>"Pulitzer Prize Playhouse"<unitdate>1952</unitdate></unittitle></did>
+                </c03>
+                <c03 level="file">
+                    <did><container type="folder">0</container><unittitle>"The Tempest"<unitdate>1981</unitdate></unittitle></did>
+                </c03>
+                    </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>
+

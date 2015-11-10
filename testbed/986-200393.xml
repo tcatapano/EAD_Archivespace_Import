@@ -1,0 +1,463 @@
+﻿<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+	<!--The following section is header information that describes the finding aid-->
+	<eadheader langencoding="iso639-2b" scriptencoding="iso15924" relatedencoding="dc"
+		repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" id="a0">
+		<eadid countrycode="us" encodinganalog="identifier"
+			url="http://nwda.orbiscascade.org/ark:/80444/xv53854" mainagencycode="OrPL"
+			identifier="80444/xv53854">OLPb136DIC.xml</eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper encodinganalog="title">Guide to the Charles Dickens Collection
+					<date encodinganalog="date" normal="1836/1896">1836-1896</date></titleproper>
+				<titleproper type="filing" altrender="nodisplay">Dickens (Charles) Collection</titleproper>
+				<author encodinganalog="creator">Alice Whitaker</author>
+			</titlestmt>
+			<publicationstmt>
+				<!--To link to your logo, click on the diamond in the <extptr> tag below and enter the fullURL of the digital logo file in the HREF attribute. Describe image in TITLE attribute, eg., University of Oregon logo-->
+				<publisher encodinganalog="publisher">Lewis  Clark College Special Collections
+					and Archives<extptr actuate="onload" show="embed" role="image/gif"
+						href="http://library.lclark.edu/images/eadlogo.gif"
+						title="Lewis  Clark College Special Collections"/></publisher>
+				<date encodinganalog="date" normal="2012">© 2012</date>
+				<address> 
+			 <addressline>Lewis  Clark College Special Collections and
+				Archives</addressline> 
+			 <addressline>Aubrey R. Watzek Library</addressline> 
+			 <addressline>0615 SW Palatine Hill Rd.</addressline> 
+			 <addressline>Portland, OR 97219</addressline> 
+			 <addressline>archives@lclark.edu</addressline> 
+			 <addressline>503-768-7254</addressline> 
+		  </address>
+			</publicationstmt>
+		</filedesc>
+		<profiledesc>
+			<creation>Jeremy Skinner
+				<date normal="2012">2012</date></creation>
+			<langusage>Finding aid written in <language langcode="eng" encodinganalog="language"
+					scriptcode="latn">English</language>.</langusage>
+			<descrules>Finding aid based on DACS ( <title render="italic">Describing Archives: A
+					Content Standard</title>).</descrules>
+		</profiledesc>
+	</eadheader>
+	<archdesc level="collection" type="inventory" relatedencoding="marc21">
+		<did id="a1">
+			<repository>
+				<corpname encodinganalog="852$a">Lewis  Clark College<subarea
+						encodinganalog="852$b"> Special Collections and
+					Archives</subarea></corpname>
+				<address> 
+			 <addressline>Lewis  Clark College Special Collections and
+				Archives</addressline> 
+			 <addressline>Aubrey R. Watzek Library</addressline> 
+			 <addressline>0615 SW Palatine Hill Rd.</addressline> 
+			 <addressline>Portland, OR 97219</addressline> 
+			 <addressline>archives@lclark.edu</addressline> 
+			 <addressline>503-768-7254</addressline> 
+		  </address>
+			</repository>
+			<unitid encodinganalog="099" countrycode="us" repositorycode="OLP">OLPb136DIC</unitid>
+			<unittitle encodinganalog="245$a">The Charles Dickens Collection</unittitle>
+			<unitdate type="inclusive" encodinganalog="245$f" normal="1836/1896">
+				1836-1896</unitdate>
+			<physdesc>
+				<extent encodinganalog="300$a">2 cubic feet</extent>
+				<extent encodinganalog="300$a">3 boxes</extent>
+			</physdesc>
+			<abstract encodinganalog="5203_"
+				>Includes serial publications, original parts, proofs, photographs, and articles about the great English novelist, Charles Dickens. Most of the materials were produced during Dickens' life.</abstract>
+			<physloc>Special Collections Rare Books PR4500</physloc>
+			<langmaterial><language encodinganalog="546" langcode="eng">English</language></langmaterial>
+		</did>
+		<bioghist encodinganalog="5451" id="a2">
+			<!--Enter ENCODINGANALOG value of 5450_ for biog. or 5451_ for historical note, or use <head> element-->
+			<head>Historical Note</head>
+			<p><?xm-replace_text {Text of biographical or historical note, in paragraphs; separate each with paragraph tags}?></p>
+		</bioghist>
+		<scopecontent encodinganalog="5202_" id="a3">
+			<p>Includes serial publications, original parts, proofs, photographs, and articles.</p>
+		</scopecontent>
+		<arrangement encodinganalog="351" id="a4">
+			<p>Arranged alphabetically by novel title, and by format and date for materials not associated with a specific novel.</p>
+		</arrangement>
+		<accessrestrict encodinganalog="506" id="a14">
+			<p>This collection has no restrictions and is open for research.</p>
+		</accessrestrict>
+		<userestrict encodinganalog="540" id="a15">
+			<p>Permission to publish, exhibit, broadcast, or quote from materials in the Watzek
+				Library Archives  Special Collections requires written permission of the Head
+				of Archives  Special Collections.</p>
+		</userestrict>
+		<prefercite encodinganalog="524" id="a18">
+			<p>The Charles Dickens Collection, Lewis  Clark College Aubrey
+				Watzek Library Archives  Special Collections, Portland, Oregon.</p>
+		</prefercite>
+		<acqinfo encodinganalog="541" id="a19">
+			<p>Assembled by Paul Merchant and donated to Lewis  Clark College in 2011.</p>
+		</acqinfo>
+		<accruals encodinganalog="584" id="a10">
+			<p>The collection will be periodically supplemented with similar materials by Charles Dickens.</p>
+		</accruals>
+		<processinfo encodinganalog="583" id="a20">
+			<p>Processed in 2012.</p>
+		</processinfo>
+		<relatedmaterial encodinganalog="5441_" id="a6">
+			<p>Other books by Dickens are housed with Special Collections Rare Books.</p>
+		</relatedmaterial>
+		<controlaccess id="a12">
+			<p>This collection is indexed under the following headings in the online catalog.
+				Researchers desiring materials about related topics, persons, or places should
+				search the catalog using these headings.</p>
+			<controlaccess>
+				<persname encodinganalog="600" role="subject" source="lcnaf">Dickens, Charles, 1812-1870</persname>
+			</controlaccess>
+			<controlaccess>
+				<subject encodinganalog="650" source="lcsh">Novelists, English -- 19th century</subject>
+			</controlaccess>
+			<controlaccess>
+				<subject source="nwda" altrender="nodisplay" encodinganalog="690">Literature</subject>
+			</controlaccess>
+		</controlaccess>
+		<dsc type="combined" id="a23">
+			<p>The following section contains a detailed listing of the materials in the
+				collection.</p>
+			<c01 level="file">
+				<did>
+					<container type="box-folder" label="Box/Folder">1.1</container>
+					<unittitle encodinganalog="245$a"><title>The Posthumous Papers of the Pickwick Club</title>,
+						proof cover</unittitle>
+					<unitdate type="inclusive" encodinganalog="245$f" normal="1836">1836</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container type="box-folder" label="Box/Folder">1.2</container>
+					<unittitle encodinganalog="245$a"><title>Nicholas Nickleby</title>, proof cover and 5
+						illustrations</unittitle>
+					<unitdate type="inclusive" encodinganalog="245$f" normal="1838">1838</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container type="box-folder" label="Box/Folder">1.3</container>
+					<unittitle encodinganalog="245$a"><title>Martin Chuzzlewit</title>, proof cover</unittitle>
+					<unitdate type="inclusive" encodinganalog="245$f" normal="183401">Jan.
+						1843</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container type="box-folder" label="Box/Folder">1.4</container>
+					<unittitle encodinganalog="245$a"><title>Dombey and Son</title>, proof cover</unittitle>
+					<unitdate type="inclusive" encodinganalog="245$f" normal="184612">Dec.
+						1846</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container type="box-folder" label="Box/Folder">1.5</container>
+					<unittitle encodinganalog="245$a"><title>Dombey and Son</title>, no. 4</unittitle>
+					<unitdate type="inclusive" encodinganalog="245$f" normal="184703">Mar.
+						1847</unitdate>
+				</did>
+				<scopecontent encodinganalog="5202_">
+					<p>Chapters 17-19; London: Bradbury and Evans</p>
+				</scopecontent>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container type="box-folder" label="Box/Folder">1.6</container>
+					<unittitle encodinganalog="245$a"><title>David Copperfield</title>, no. 1</unittitle>
+					<unitdate type="inclusive" encodinganalog="245$f" normal="184905">May
+						1849</unitdate>
+				</did>
+				<scopecontent encodinganalog="5202_">
+					<p>Chapters 1-3; London: Bradbury and Evans</p>
+				</scopecontent>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container type="box-folder" label="Box/Folder">1.7</container>
+					<unittitle encodinganalog="245$a"><title>Bleak House</title>, 15 proofs for original
+						plates</unittitle>
+					<unitdate type="inclusive" encodinganalog="245$f" normal="1852">1852</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container type="box-folder" label="Box/Folder">1.8</container>
+					<unittitle encodinganalog="245$a"><title>Bleak House</title>, no. 1</unittitle>
+					<unitdate type="inclusive" encodinganalog="245$f" normal="185203">Mar.
+						1852</unitdate>
+				</did>
+				<scopecontent encodinganalog="5202_">
+					<p>Chapters 1-4; London: Bradbury and Evans</p>
+				</scopecontent>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container type="box-folder" label="Box/Folder">1.9</container>
+					<unittitle encodinganalog="245$a"><title>The New York Journal</title>, vol. 2 part
+						2</unittitle>
+					<unitdate type="inclusive" encodinganalog="245$f" normal="185406">Jun.
+						1854</unitdate>
+				</did>
+				<scopecontent encodinganalog="5202_">
+					<p><title>Hard Times</title>, chapters 7-10; New York: P.D. Orius</p>
+				</scopecontent>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container type="box-folder" label="Box/Folder">1.10</container>
+					<unittitle encodinganalog="245$a"><title>Household Words</title>, vol. 9 no. 5</unittitle>
+					<unitdate type="inclusive" encodinganalog="245$f" normal="185409">Sep.
+						1854</unitdate>
+				</did>
+				<scopecontent encodinganalog="5202_">
+					<p><title>Hard Times</title>, chapters 20-36; New York: T.L. McElrath and Co.</p>
+				</scopecontent>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container type="box-folder" label="Box/Folder">1.11</container>
+					<unittitle encodinganalog="245$a"><title>Little Dorrit</title>, no. 3</unittitle>
+					<unitdate type="inclusive" encodinganalog="245$f" normal="185602">Feb.
+						1856</unitdate>
+				</did>
+				<scopecontent encodinganalog="5202_">
+					<p>Chapters 9-11; London: Bradbury and Evans</p>
+				</scopecontent>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container type="box-folder" label="Box/Folder">1.12</container>
+					<unittitle encodinganalog="245$a"><title>>Harpers's New Monthly Magazine</title>, vol. 8 no.
+						68</unittitle>
+					<unitdate type="inclusive" encodinganalog="245$f" normal="">undated</unitdate>
+				</did>
+				<scopecontent encodinganalog="5202_">
+					<p><title>Little Dorrit</title>, chapters 5-18</p>
+				</scopecontent>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container type="box-folder" label="Box/Folder">1.13</container>
+					<unittitle encodinganalog="245$a"><title>A Tale of Two Cities</title>, proof cover</unittitle>
+					<unitdate type="inclusive" encodinganalog="245$f" normal="1859">1859</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container type="box-folder" label="Box/Folder">1.14</container>
+					<unittitle encodinganalog="245$a"><title>Our Mutual Friend</title>, proof cover</unittitle>
+					<unitdate type="inclusive" encodinganalog="245$f" normal="186405">May
+						1864</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container type="box-folder" label="Box/Folder">1.15</container>
+					<unittitle encodinganalog="245$a"><title>Our Mutual Friend</title>, no. 1</unittitle>
+					<unitdate type="inclusive" encodinganalog="245$f" normal="186405">May
+						1864</unitdate>
+				</did>
+				<scopecontent encodinganalog="5202_">
+					<p>Partial copy, chapters 1-4; London: Chapman and Hall</p>
+				</scopecontent>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container type="box-folder" label="Box/Folder">1.16</container>
+					<unittitle encodinganalog="245$a"><title>The Leisure Hour Library</title>, vol. 3 no.
+						255</unittitle>
+					<unitdate type="inclusive" encodinganalog="245$f" normal="188908">Aug.
+						1889</unitdate>
+				</did>
+				<scopecontent encodinganalog="5202_">
+					<p><title>Our Mutual Friend</title>, entire novel; New York: F.M. Lupton</p>
+				</scopecontent>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container type="box-folder" label="Box/Folder">1.17</container>
+					<unittitle encodinganalog="245$a"><title>The Mystery of Edwin Drood</title>, no. 1</unittitle>
+					<unitdate type="inclusive" encodinganalog="245$f" normal="187004">Apr.
+						1870</unitdate>
+				</did>
+				<scopecontent encodinganalog="5202_">
+					<p>Chapters 1-5; London: Chapman and Hall</p>
+				</scopecontent>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container type="box-folder" label="Box/Folder">2.1</container>
+					<unittitle encodinganalog="245$a"><title>Household Words</title>, vol. 8 no. 176</unittitle>
+					<unitdate type="inclusive" encodinganalog="245$f" normal="185308">Aug.
+						1853</unitdate>
+				</did>
+				<scopecontent encodinganalog="5202_">
+					<p>1 original copy, 1 photocopy</p>
+				</scopecontent>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container type="box-folder" label="Box/Folder">2.2</container>
+					<unittitle encodinganalog="245$a"><title>Household Words</title>, part 91 nos.
+						393-397</unittitle>
+					<unitdate type="inclusive" encodinganalog="245$f" normal="185710">Oct.
+						1857</unitdate>
+				</did>
+				<scopecontent encodinganalog="5202_">
+					<p><title>The Lazy Tour of Two Idle Apprentices</title> (not by Dickens)</p>
+				</scopecontent>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container type="box-folder" label="Box/Folder">2.3</container>
+					<unittitle encodinganalog="245$a"><title>Doctor Marigold's Prescriptions</title>, the Extra
+						Christmas Number</unittitle>
+					<unitdate type="inclusive" encodinganalog="245$f" normal="186512">Dec.
+						1865</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container type="box-folder" label="Box/Folder">2.4</container>
+					<unittitle encodinganalog="245$a"><title>Mugby Junction</title>, the Extra Christmas
+						Number</unittitle>
+					<unitdate type="inclusive" encodinganalog="245$f" normal="186612">Dec.
+						1866</unitdate>
+				</did>
+				<scopecontent encodinganalog="5202_">
+					<p>Contains 8 stories, 4 by Charles Dickens: "Barbox Brothers"; "Barbox Brothers
+						and Co."; "Main Line: the Boy at Mugby"; "No. 1 Branch Line: The
+						Signalman"</p>
+				</scopecontent>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container type="box-folder" label="Box/Folder">2.5</container>
+					<unittitle encodinganalog="245$a">Advertisements</unittitle>
+					<unitdate type="inclusive" encodinganalog="245$f" normal="">undated</unitdate>
+				</did>
+				<scopecontent encodinganalog="5202_">
+					<p>"The Lazy Tour of Two Idle Apprentices"; "Hard Times"; "New Work of
+						Fiction"</p>
+				</scopecontent>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container type="box-folder" label="Box/Folder">2.6</container>
+					<unittitle encodinganalog="245$a">Charles Dickens, portrait</unittitle>
+					<unitdate type="inclusive" encodinganalog="245$f" normal="1839">1839</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container type="box-folder" label="Box/Folder">2.7</container>
+					<unittitle encodinganalog="245$a">Charles Dickens, portrait
+						photograph</unittitle>
+					<unitdate type="inclusive" encodinganalog="245$f" normal="1968">c.
+						1868</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container type="box-folder" label="Box/Folder">2.8</container>
+					<unittitle encodinganalog="245$a"><title>Emlyn Williams as Dickens</title></unittitle>
+					<unitdate type="inclusive" encodinganalog="245$f" normal="1958">c.
+						1958</unitdate>
+				</did>
+				<scopecontent encodinganalog="5202_">
+					<p>playbill</p>
+				</scopecontent>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container type="box-folder" label="Box/Folder">2.9</container>
+					<unittitle encodinganalog="245$a">book jacket for <title>The Disappearance of Edwin Drood</title>, by Peter
+						Rowland, cover</unittitle>
+					<unitdate type="inclusive" encodinganalog="245$f" normal="1991">1991</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container type="box-folder" label="Box/Folder">2.10</container>
+					<unittitle encodinganalog="245$a">book jacket for <title>Dickens, Drood, and the Detectives</title>, by Ray
+						Dubberke, cover</unittitle>
+					<unitdate type="inclusive" encodinganalog="245$f" normal="1992">1992</unitdate>
+				</did>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container type="box-folder" label="Box/Folder">3.1</container>
+					<unittitle encodinganalog="245$a"><title>The Illustrated London News</title></unittitle>
+					<unitdate type="inclusive" encodinganalog="245$f" normal="185806">Jul.
+						1858</unitdate>
+				</did>
+				<scopecontent encodinganalog="5202_">
+					<p>Illustration and brief description of Dickens reading</p>
+				</scopecontent>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container type="box-folder" label="Box/Folder">3.2</container>
+					<unittitle encodinganalog="245$a"><title>Harper's Weekly, a Journal of Civilization</title>,
+						vol. 4 no. 204</unittitle>
+					<unitdate type="inclusive" encodinganalog="245$f" normal="186011">Nov.
+						1860</unitdate>
+				</did>
+				<scopecontent encodinganalog="5202_">
+					<p><title>Great Expectations</title>, chapters 1-3</p>
+				</scopecontent>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container type="box-folder" label="Box/Folder">3.3</container>
+					<unittitle encodinganalog="245$a"><title>Harper's Weekly</title></unittitle>
+					<unitdate type="inclusive" encodinganalog="245$f" normal="186902">Feb.
+						1869</unitdate>
+				</did>
+				<scopecontent encodinganalog="5202_">
+					<p>Article titled "Mr. Charles Dickens's New Reading"</p>
+				</scopecontent>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container type="box-folder" label="Box/Folder">3.4</container>
+					<unittitle encodinganalog="245$a"><title>Every Saturday, an Illustrated Journal of
+						Choice Reading</title>, vol. 1 no. 15</unittitle>
+					<unitdate type="inclusive" encodinganalog="245$f" normal="187004">Apr.
+						1870</unitdate>
+				</did>
+				<scopecontent encodinganalog="5202_">
+					<p>Article on Dickens, illustrations, and chapters 1-2 of T<title>he Mystery of Edwin
+						Drood</title></p>
+				</scopecontent>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container type="box-folder" label="Box/Folder">3.5</container>
+					<unittitle encodinganalog="245$a"><title>The Graphic</title></unittitle>
+					<unitdate type="inclusive" encodinganalog="245$f" normal="187112">Dec.
+						1871</unitdate>
+				</did>
+				<scopecontent encodinganalog="5202_">
+					<p>Portrait of Wilkie Collins</p>
+				</scopecontent>
+			</c01>
+			<c01 level="file">
+				<did>
+					<container type="box-folder" label="Box/Folder">3.6</container>
+					<unittitle encodinganalog="245$a">Sheet Music for <title>Dombey and Son</title></unittitle>
+					<unitdate type="inclusive" encodinganalog="245$f" normal="1896">1896</unitdate>
+				</did>
+				<scopecontent encodinganalog="5202_">
+					<p>"What Are the Wild Waves Saying?", a duet between Paul and Florence; music by
+						Stephen Glover; Boston: F. Trifet</p>
+				</scopecontent>
+			</c01>
+		</dsc>
+	</archdesc>
+</ead>

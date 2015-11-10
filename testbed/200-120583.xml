@@ -1,0 +1,3461 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+    <eadheader findaidstatus="uo_export_me" repositoryencoding="iso15511"
+              countryencoding="iso3166-1"
+              dateencoding="iso8601"
+              langencoding="iso639-2b"
+              id="a0"
+              relatedencoding="dc"
+              scriptencoding="iso15924">
+        <eadid countrycode="us" mainagencycode="oru"
+             url="http://nwda.orbiscascade.org/ark:/80444/xv58845"
+             encodinganalog="identifier"
+             identifier="80444/xv58845">ORU_Ax352.xml</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper encodinganalog="title">Guide to the Rutherford Montgomery Papers
+                    
+                <date encodinganalog="date" normal="1931/1973" type="inclusive">1931-1973</date>
+            </titleproper>
+                <titleproper type="filing" altrender="nodisplay">Montgomery (Rutherford) Papers</titleproper>
+                <author encodinganalog="creator">Finding aid prepared by Finding aid prepared by Processing Staff</author>
+                <sponsor>Funding for encoding this finding aid was provided through a grant awarded by the National Endowment for the Humanities.</sponsor>
+            </titlestmt>
+            <publicationstmt>
+                <publisher encodinganalog="publisher">Special Collections and University Archives, University of Oregon Libraries</publisher>
+                <address>
+                    <addressline>1299 University of Oregon</addressline>
+                    <addressline>Eugene, Oregon, 97403-1299</addressline>
+                    <addressline>(541) 346-3068</addressline>
+                    <addressline>spcarref@uoregon.edu</addressline>
+                </address>
+                <date encodinganalog="date" calendar="gregorian" era="ce" normal="2007">©2007</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date calendar="gregorian" era="ce" normal="20120512">2012-05-12</date>
+            </creation>
+            <langusage>Finding aid written in 
+                <language langcode="eng" encodinganalog="language" scriptcode="latn">English</language>.</langusage>
+            <descrules>Finding aid based on DACS (<title render="italic">Describing Archives: A Content Standard</title>).</descrules>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection" relatedencoding="marc21" type="inventory">
+        <did id="a1">
+            <unittitle encodinganalog="245$a">Rutherford Montgomery papers</unittitle>
+            <unitid encodinganalog="099" countrycode="us" repositorycode="oru">Ax 352</unitid>
+            <repository>
+                <corpname encodinganalog="852$a">Special Collections and University Archives, University of Oregon Libraries</corpname>
+            <address>
+                    <addressline>1299 University of Oregon</addressline>
+                    <addressline>Eugene, Oregon, 97403-1299</addressline>
+                    <addressline>(541) 346-3068</addressline>
+                    <addressline>spcarref@uoregon.edu</addressline>
+                </address>
+         </repository>
+            <langmaterial>Collection materials are in <language langcode="eng" encodinganalog="546">English</language>.</langmaterial>
+            <container type="box">2-3, 5-18</container>
+            <container type="package">1</container>
+            <container type="box">4</container>
+            <container type="box">1</container>
+            <physdesc>
+                <extent encodinganalog="300$a">25.75 linear feet</extent>
+                <extent encodinganalog="300$a">19 containers</extent>
+            </physdesc>
+            <unitdate normal="1931/1973" type="inclusive" encodinganalog="245$f">1931-1973</unitdate>
+            <abstract id="ref2" encodinganalog="5203_">The collection of Rutherford Montgomery includes manuscripts (book length, short story and anthology), published works, correspondence, miscellaneous items (such as speeches, screenplays and screeplay ideas for television and movies), tearsheets, illustrations, scrapbooks, articles, other writings, third party manuscripts, photographs and several other materials that represent Montgomery's career as an author and his career at Walt Disney Studios.</abstract>
+            <physdesc id="ref1">18 containers</physdesc>
+            <origination label="creator">
+                <persname source="ingest" encodinganalog="100">Montgomery, Rutherford George, 1896-</persname>
+            </origination>
+        </did>
+        <bioghist id="a2" encodinganalog="545">
+            <head>Biographical/Historical note</head>
+            <p>Rutherford George Montgomery (April 12, 1894-July 3, 1985) was born in Straubville, North Dakota to George Y. and Matilda (Proctor) Montgomery. He married Eunice Opal Kirks on February 14, 1930. They had three children: Earl, Polly Montgomery Hecathorn and Marylin Montgomery Fitch. Montgomery attended school at Colorado Agricultural College, at the Western State College of Colorado and the University of Nebraska. He loved flying and the outdoor life. During his life he was a member of the Society of authors, Western Writers of America and Writers Guild of America West.</p>
+            <p>During his career, Montgomery was a teacher at Hot Springs Elementary School in Hot Springs, Wyoming from 1915 to 1917. From 1917 to 1919 he served in the U.S. Army Air Corps. When he left the service he went back into education as a teacher and principal at Delta County High Schools in Cedar Ridge, Colorado from 1921 to 1924. He then served as principal at Montrose County Junior High School in Montrose, Colorado from 1924 to 1928. Later, for the state of Colorado Montgomery served as Gunnison county judge from 1931 to 1936 and as budget commissioner from 1932 to 1938. Following ths Montgomery spent several years in the literary world, as a freelance writer of children's books from 1939 on. He was a ghost writer for the Dick Tracy series from 1941 to 1946 then became a teacher of creative writing at Los Gatos, California from 1955 to 1957 before going to the Walt Disney Studios in Burbank, California as a writer from 1958 to 1962.</p>
+        </bioghist>
+        <scopecontent id="a3" encodinganalog="5202_">
+            
+            <p>This collection contains a variety of contents ranging from manuscripts to published works to correspondence and a variety of other items. This collection includes tearsheets, articles, screenplays and screenplay ideas.</p>
+        </scopecontent>
+        <arrangement id="a4" encodinganalog="351">
+            
+            <p>Collection is organized into the following series: 
+                <list>
+                    <item>Correspondence</item>
+                    <item>Manuscripts</item>
+                    <item>Miscellaneous</item>
+                    <item>Addenda 1</item>
+                    <item>Addenda 2</item>
+                    <item>Addenda 3</item>
+                    <item>Addenda 4</item>
+                    <item>Addenda 5</item>
+                    <item>Addenda 6</item>
+                    <item>Addenda 7</item>
+                    <item>Addenda 8</item>
+                    <item>Addenda 9</item>
+                    <item>Addenda 10</item>
+                </list>
+         </p>
+        </arrangement>
+        <accessrestrict id="a14" encodinganalog="506">
+            
+            <p>Collection is open to the public.</p>
+            <p>Collection must be used in Special Collections  University Archives Reading Room.</p>
+        </accessrestrict>
+        <userestrict id="a15" encodinganalog="540">
+            
+            <p>Property rights reside with Special Collections  University Archives, University of Oregon Libraries. Copyright resides with the creators of the documents or their heirs. All requests for permission to publish collection materials must be submitted to Special Collections  University Archives. The reader must also obtain permission of the copyright holder.</p>
+            <p>Archival may contain materials with sensitive or confidential information that is protected under federal and/or state right to privacy laws and other regulations.</p>
+            <p>Researchers are advised that the disclosure of certain information pertaining to identifiable living individuals represented in this collection without the consent of those individuals may have legal ramifications (e.g. a cause of action for invasion of privacy may arise if facts concerning an individual's private life are published that would be deemed highly offensive to a reasonable person) for which the University of Oregon assumes no responsibility.</p>
+            <p>If a researcher finds sensitive personal information in a collection, please bring it to the attention of the reading room staff.</p>
+        </userestrict>
+        <prefercite id="a18" encodinganalog="524">
+            
+            <p>[Identification of item], Rutherford Montgomery Papers, Ax 352, Special Collections  University Archives, University of Oregon Libraries, Eugene, Oregon.</p>
+        </prefercite>
+        <processinfo id="a20" encodinganalog="583">
+            
+            <p>Collection processed by John Bistolas.</p>
+            <p>This finding aid may be updated periodically to account for new acquisitions to the collection and/or revisions in arrangement and description.</p>
+        </processinfo>
+        <relatedmaterial id="a6" encodinganalog="5441_">
+            
+            <p>There is a collection of Rutherford Montgomery papers at the University of Southern Mississippi, William David McCain Library. NIDS# 4.47.106.</p>
+        </relatedmaterial>
+        <controlaccess id="a12">
+         <controlaccess>
+            <persname source="ingest" encodinganalog="600">Montgomery, Rutherford George, 1896---Correspondence</persname>
+            <persname source="ingest" encodinganalog="600">Montgomery, Rutherford George, 1896-</persname>
+         </controlaccess>
+         <controlaccess>
+            <corpname source="ingest" encodinganalog="610">Walt Disney Productions</corpname>
+         </controlaccess>
+         <controlaccess>
+            <subject source="lcsh" encodinganalog="650">Authors, American--20th century</subject>
+            <subject source="lcsh" encodinganalog="650">Children's literature, American--Authorship</subject>
+            <subject source="lcsh" encodinganalog="650">Screenwriters--United States</subject>
+         </controlaccess>
+         <controlaccess>
+            <subject source="nwda" encodinganalog="690" altrender="nodisplay">Children and Youth</subject>
+            <subject source="nwda" encodinganalog="690" altrender="nodisplay">Literature</subject>
+         </controlaccess>
+         <controlaccess>
+            <genreform source="gmgpc" encodinganalog="655">Book illustrations</genreform>
+            <genreform source="gmgpc" encodinganalog="655">Photographs</genreform>
+            <genreform source="rbgenr" encodinganalog="655">Scenarios</genreform>
+            <genreform source="aat" encodinganalog="655">Scrapbooks.</genreform>
+            <genreform source="aat" encodinganalog="655">Screenplays</genreform>
+            <genreform source="aat" encodinganalog="655">Speeches</genreform>
+            <genreform source="aat" encodinganalog="655">Tear sheets</genreform>
+         </controlaccess>
+      </controlaccess>
+        <dsc id="a23" type="analyticover">
+            <c01 level="series">
+                <did>
+                    <unittitle encodinganalog="245$a">Correspondence</unittitle>
+                    <unitid>Series</unitid>
+                </did>
+                <c02 level="subseries">
+                    <did>
+                        <unittitle encodinganalog="245$a">Outgoing correspondence</unittitle>
+                        <unitid>Subseries</unitid>
+                    </did>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Outgoing correspondence</unittitle>
+                            <container type="box">1</container>
+                            <container type="folder">1</container>
+                            <unitdate normal="1931/1965" type="inclusive" encodinganalog="245$f">1931-1965</unitdate>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 level="subseries">
+                    <did>
+                        <unittitle encodinganalog="245$a">Incoming correspondence</unittitle>
+                        <unitid>Subseries</unitid>
+                    </did>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">A-M</unittitle>
+                            <container type="box">1</container>
+                            <container type="folder">2</container>
+                            <unitdate normal="1933/1962" type="inclusive" encodinganalog="245$f">1933-1962</unitdate>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">N-Z</unittitle>
+                            <container type="box">1</container>
+                            <container type="folder">3</container>
+                            <unitdate normal="1933/1962" type="inclusive" encodinganalog="245$f">1933-1962</unitdate>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">A-Z</unittitle>
+                            <container type="box">1</container>
+                            <container type="folder">4</container>
+                            <unitdate normal="1939/1962" type="inclusive" encodinganalog="245$f">1939-1962</unitdate>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Jacob Bates Abbott</unittitle>
+                            <container type="box">1</container>
+                            <container type="folder">5</container>
+                            <unitdate normal="1939/1940" type="inclusive" encodinganalog="245$f">1939-1940</unitdate>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Caxton Printers, Ltd.</unittitle>
+                            <container type="box">1</container>
+                            <container type="folder">6</container>
+                            <unitdate normal="1936/1953" type="inclusive" encodinganalog="245$f">1936-1953</unitdate>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Board of Christian Education</unittitle>
+                            <container type="box">1</container>
+                            <container type="folder">7</container>
+                            <unitdate normal="1939/1950" type="inclusive" encodinganalog="245$f">1939-1950</unitdate>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Boys Today</unittitle>
+                            <container type="box">1</container>
+                            <container type="folder">8</container>
+                            <unitdate normal="1941/1945" type="inclusive" encodinganalog="245$f">1941-1945</unitdate>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Derrydale Press</unittitle>
+                            <container type="box">1</container>
+                            <container type="folder">9</container>
+                            <unitdate normal="1938/1940" type="inclusive" encodinganalog="245$f">1938-1940</unitdate>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Doubleday and Co., Inc.</unittitle>
+                            <container type="box">1</container>
+                            <container type="folder">10</container>
+                            <unitdate normal="1948/1964" type="inclusive" encodinganalog="245$f">1948-1964</unitdate>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Grosset and Dunlap, Inc.</unittitle>
+                            <container type="box">1</container>
+                            <container type="folder">11</container>
+                            <unitdate normal="1939/1961" type="inclusive" encodinganalog="245$f">1939-1961</unitdate>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Henry Holt and Co. Inc.</unittitle>
+                            <container type="box">1</container>
+                            <container type="folder">12</container>
+                            <unitdate normal="1939/1961" type="inclusive" encodinganalog="245$f">1939-1961</unitdate>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Houghton Mifflin Co.</unittitle>
+                            <container type="box">1</container>
+                            <container type="folder">13</container>
+                            <unitdate normal="1938/1950" type="inclusive" encodinganalog="245$f">1938-1950</unitdate>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Alfred A. Knopf, Inc.</unittitle>
+                            <container type="box">1</container>
+                            <container type="folder">14</container>
+                            <unitdate normal="1955/1961" type="inclusive" encodinganalog="245$f">1955-1961</unitdate>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Lenniger Literary Agency</unittitle>
+                            <container type="box">1</container>
+                            <container type="folder">15</container>
+                            <unitdate normal="1940/1941" type="inclusive" encodinganalog="245$f">1940-1941</unitdate>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">David McKay Co.</unittitle>
+                            <container type="box">1</container>
+                            <container type="folder">16</container>
+                            <unitdate normal="1936/1946" type="inclusive" encodinganalog="245$f">1936-1946</unitdate>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Julian Messner, Inc.</unittitle>
+                            <container type="box">1</container>
+                            <container type="folder">17</container>
+                            <unitdate normal="1941/1947" type="inclusive" encodinganalog="245$f">1941-1947</unitdate>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Geo. A. Pflaum, Pub.</unittitle>
+                            <container type="box">1</container>
+                            <container type="folder">18</container>
+                            <unitdate normal="1940/1949" type="inclusive" encodinganalog="245$f">1940-1949</unitdate>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Joseph T. Shaw</unittitle>
+                            <container type="box">1</container>
+                            <container type="folder">19</container>
+                            <unitdate normal="1938/1941" type="inclusive" encodinganalog="245$f">1938-1941</unitdate>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Regarding State Budget Commission</unittitle>
+                            <container type="box">1</container>
+                            <container type="folder">20</container>
+                            <unitdate normal="1935/1939" type="inclusive" encodinganalog="245$f">1935-1939</unitdate>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">U.S. Air Force</unittitle>
+                            <container type="box">1</container>
+                            <container type="folder">21</container>
+                            <unitdate normal="1956/1961" type="inclusive" encodinganalog="245$f">1956-1961</unitdate>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Western Writers of America</unittitle>
+                            <container type="box">1</container>
+                            <container type="folder">22</container>
+                            <unitdate normal="1958/1958">1958</unitdate>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Westminster Press</unittitle>
+                            <container type="box">1</container>
+                            <container type="folder">23</container>
+                            <unitdate normal="1943/1960" type="inclusive" encodinganalog="245$f">1943-1960</unitdate>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Whitman Publishing Co.</unittitle>
+                            <container type="box">1</container>
+                            <container type="folder">24</container>
+                            <unitdate normal="1943/1946" type="inclusive" encodinganalog="245$f">1943-1946</unitdate>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Whitman Publishing Co.</unittitle>
+                            <container type="box">1</container>
+                            <container type="folder">25</container>
+                            <unitdate normal="1943/1946" type="inclusive" encodinganalog="245$f">1943-1946</unitdate>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Willis Kingsley Wing, Author's Representative</unittitle>
+                            <container type="box">1</container>
+                            <container type="folder">26</container>
+                            <unitdate normal="1947/1950" type="inclusive" encodinganalog="245$f">1947-1950</unitdate>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">World Publishing Co.</unittitle>
+                            <container type="box">1</container>
+                            <container type="folder">27</container>
+                            <unitdate normal="1962/1963" type="inclusive" encodinganalog="245$f">1962-1963</unitdate>
+                        </did>
+                    </c03>
+                </c02>
+            </c01>
+            <c01 level="series">
+                <did>
+                    <unittitle encodinganalog="245$a">Manuscripts</unittitle>
+                    <unitid>Series</unitid>
+                </did>
+                <c02 level="subseries">
+                    <did>
+                        <unittitle encodinganalog="245$a">Booklength</unittitle>
+                        <unitid>Subseries</unitid>
+                    </did>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Amikuk</unittitle>
+                            <container type="box">1</container>
+                            <container type="folder">28</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Beaver Water</unittitle>
+                            <container type="box">1</container>
+                            <container type="folder">29</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Beaver Water</unittitle>
+                            <container type="box">1</container>
+                            <container type="folder">30</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Capture of the West Wind</unittitle>
+                            <container type="box">1</container>
+                            <container type="folder">31</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Claim Jumpers of Marble Canyon</unittitle>
+                            <container type="box">1</container>
+                            <container type="folder">32</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">The Defiant Heart</unittitle>
+                            <container type="box">1</container>
+                            <container type="folder">33</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">The Defiant Heart</unittitle>
+                            <container type="box">1</container>
+                            <container type="folder">34</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Dolphins As They Are</unittitle>
+                            <container type="box">1</container>
+                            <container type="folder">35</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Dolphins As They Are</unittitle>
+                            <container type="box">1</container>
+                            <container type="folder">36</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Kent Barstow Aboard the Dyna-Soar</unittitle>
+                            <container type="box">2</container>
+                            <container type="folder">1</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Kent Barstow and the Commando Flight</unittitle>
+                            <container type="box">2</container>
+                            <container type="folder">2</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Kent Barstow and the Commando Flight</unittitle>
+                            <container type="box">2</container>
+                            <container type="folder">3</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Kent Barstow and the Commando Flight</unittitle>
+                            <container type="box">2</container>
+                            <container type="folder">4</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Kent Barstow and the Commando Flight</unittitle>
+                            <container type="box">2</container>
+                            <container type="folder">5</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Kent Barstow on a B-70 Mission</unittitle>
+                            <container type="box">2</container>
+                            <container type="folder">6</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Kent Barstow, Spaceman</unittitle>
+                            <container type="box">2</container>
+                            <container type="folder">7</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Kent Barstow, Spaceman</unittitle>
+                            <container type="box">2</container>
+                            <container type="folder">8</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Kent Barstow, Spaceman</unittitle>
+                            <container type="box">2</container>
+                            <container type="folder">9</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">A Kinkajou on the Town</unittitle>
+                            <container type="box">2</container>
+                            <container type="folder">10</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">A Kinkajou on the Town</unittitle>
+                            <container type="box">2</container>
+                            <container type="folder">11</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">McNulty's Holiday</unittitle>
+                            <container type="box">2</container>
+                            <container type="folder">12</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Mr. Jim</unittitle>
+                            <container type="box">2</container>
+                            <container type="folder">13</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Mr. Jim</unittitle>
+                            <container type="box">2</container>
+                            <container type="folder">14</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Mr. Jim</unittitle>
+                            <container type="box">2</container>
+                            <container type="folder">15</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Mr. Jim</unittitle>
+                            <container type="box">2</container>
+                            <container type="folder">16</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">See Catch</unittitle>
+                            <container type="box">2</container>
+                            <container type="folder">17</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Shag of Pine Valley</unittitle>
+                            <container type="box">2</container>
+                            <container type="folder">18</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">The Silver Hills</unittitle>
+                            <container type="box">2</container>
+                            <container type="folder">19</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Snowman</unittitle>
+                            <container type="box">2</container>
+                            <container type="folder">20</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Snowman</unittitle>
+                            <container type="box">2</container>
+                            <container type="folder">21</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Snowman</unittitle>
+                            <container type="box">2</container>
+                            <container type="folder">22</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">The Stubborn One</unittitle>
+                            <container type="box">2</container>
+                            <container type="folder">23</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">The Stubborn One</unittitle>
+                            <container type="box">2</container>
+                            <container type="folder">24</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">White Mountaineer</unittitle>
+                            <container type="box">2</container>
+                            <container type="folder">25</container>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 level="subseries">
+                    <did>
+                        <unittitle encodinganalog="245$a">Short Stories</unittitle>
+                        <unitid>Subseries</unitid>
+                    </did>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">A-Z</unittitle>
+                            <container type="box">2</container>
+                            <container type="folder">26</container>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 level="subseries">
+                    <did>
+                        <unittitle encodinganalog="245$a">Scripts and Scenarios</unittitle>
+                        <unitid>Subseries</unitid>
+                    </did>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Cougar (Walt Disney Productions)</unittitle>
+                            <container type="box">2</container>
+                            <container type="folder">27</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">El Blanco, Legend of the White Stallion (Walt Disney Productions)</unittitle>
+                            <container type="box">2</container>
+                            <container type="folder">28</container>
+                        </did>
+                    </c03>
+                </c02>
+            </c01>
+            <c01 level="series">
+                <did>
+                    <unittitle encodinganalog="245$a">Miscellaneous</unittitle>
+                    <unitid>Series</unitid>
+                </did>
+                <c02 level="subseries">
+                    <did>
+                        <unittitle encodinganalog="245$a">Materials and Memorabilia</unittitle>
+                        <unitid>Subseries</unitid>
+                    </did>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Working Notes</unittitle>
+                            <container type="box">2</container>
+                            <container type="folder">29</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Collected Manuscript</unittitle>
+                            <container type="box">2</container>
+                            <container type="folder">30</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Reviews and Promotions</unittitle>
+                            <container type="box">2</container>
+                            <container type="folder">31</container>
+                        </did>
+                    </c03>
+                </c02>
+            </c01>
+            <c01 level="series">
+                <did>
+                    <unittitle encodinganalog="245$a">Addenda 1</unittitle>
+                    <unitid>Series</unitid>
+                </did>
+                <c02 level="subseries">
+                    <did>
+                        <unittitle encodinganalog="245$a">Manuscripts</unittitle>
+                        <unitid>Subseries</unitid>
+                    </did>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Wild Animals As I Know Them</unittitle>
+                            <container type="box">3</container>
+                            <container type="folder">1</container>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 level="subseries">
+                    <did>
+                        <unittitle encodinganalog="245$a">Correspondence</unittitle>
+                        <unitid>Subseries</unitid>
+                    </did>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">General correspondence</unittitle>
+                            <container type="box">3</container>
+                            <container type="folder">2</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Brandt and Brandt</unittitle>
+                            <container type="box">3</container>
+                            <container type="folder">3</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Caxton Printers</unittitle>
+                            <container type="box">3</container>
+                            <container type="folder">4</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Doubleday, Doran and Co.</unittitle>
+                            <container type="box">3</container>
+                            <container type="folder">5</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Dresser, Davis</unittitle>
+                            <container type="box">3</container>
+                            <container type="folder">6</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Halliday and McCloy</unittitle>
+                            <container type="box">3</container>
+                            <container type="folder">7</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Dresser, Davis (cont.)</unittitle>
+                            <container type="box">3</container>
+                            <container type="folder">8</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Dresser Davis: Contracts</unittitle>
+                            <container type="box">3</container>
+                            <container type="folder">9</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Kline, Otis A.</unittitle>
+                            <container type="box">3</container>
+                            <container type="folder">10</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Lenniger Literary Agency</unittitle>
+                            <container type="box">3</container>
+                            <container type="folder">11</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Serial Publication</unittitle>
+                            <container type="box">3</container>
+                            <container type="folder">12</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Shaw, Joseph T.</unittitle>
+                            <container type="box">3</container>
+                            <container type="folder">13</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Fan letters</unittitle>
+                            <container type="box">3</container>
+                            <container type="folder">14</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Royalty Reports</unittitle>
+                            <container type="box">3</container>
+                            <container type="folder">15</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">The P.F. Volland Co.</unittitle>
+                            <container type="box">3</container>
+                            <container type="folder">16</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">2 Scrapbooks of letters</unittitle>
+                            <container type="box">3</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Outgoing correspondence</unittitle>
+                            <container type="box">3</container>
+                            <container type="folder">17</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Incoming correspondence</unittitle>
+                            <container type="box">3</container>
+                            <container type="folder">18</container>
+                            <unitdate>1956-1969</unitdate>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Miscellaneous</unittitle>
+                            <container type="box">3</container>
+                            <container type="folder">19</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Miscellaneous</unittitle>
+                            <container type="box">3</container>
+                            <container type="folder">20</container>
+                        </did>
+                    </c03>
+                </c02>
+            </c01>
+            <c01 level="series">
+                <did>
+                    <unittitle encodinganalog="245$a">Addenda 2</unittitle>
+                    <unitid>Series</unitid>
+                </did>
+                <c02 level="subseries">
+                    <did>
+                        <unittitle encodinganalog="245$a">Film Scripts and Scenarios</unittitle>
+                        <unitid>Subseries</unitid>
+                    </did>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Basic Seance</unittitle>
+                            <container type="box">4</container>
+                            <container type="folder">1</container>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 level="subseries">
+                    <did>
+                        <unittitle encodinganalog="245$a">Manuscripts</unittitle>
+                        <unitid>Subseries</unitid>
+                    </did>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Beaver Water</unittitle>
+                            <container type="box">4</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Dark Interlude (Two Versions)</unittitle>
+                            <container type="box">4</container>
+                            <container type="folder">2</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">The Defiant Heart</unittitle>
+                            <container type="box">4</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Dolphins As They Are</unittitle>
+                            <container type="box">4</container>
+                            <container type="folder">3</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Ghost Town Gold</unittitle>
+                            <container type="box">4</container>
+                            <container type="folder">4</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Untitled Proofs</unittitle>
+                            <container type="box">4</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Kent Barstow Aboard the Dyna-Soar</unittitle>
+                            <container type="box">4</container>
+                            <container type="folder">5</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Kent Barstow On a B-70 Mission</unittitle>
+                            <container type="box">4</container>
+                            <container type="folder">6</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">McNulty's Holiday</unittitle>
+                            <container type="box">4</container>
+                            <container type="folder">7</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Missile Away</unittitle>
+                            <container type="box">4</container>
+                            <container type="folder">8</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Snowman</unittitle>
+                            <container type="box">4</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Tom Pittman, USAF</unittitle>
+                            <container type="box">4</container>
+                            <container type="folder">9</container>
+                        </did>
+                    </c03>
+                </c02>
+            </c01>
+            <c01 level="series">
+                <did>
+                    <unittitle encodinganalog="245$a">Addenda 3</unittitle>
+                    <unitid>Series</unitid>
+                </did>
+                <c02 level="subseries">
+                    <did>
+                        <unittitle encodinganalog="245$a">Manuscripts</unittitle>
+                        <unitid>Subseries</unitid>
+                    </did>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">All About Beavers</unittitle>
+                            <container type="box">5</container>
+                            <container type="folder">1</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">At the Foot of Sleepy Cat</unittitle>
+                            <container type="box">5</container>
+                            <container type="folder">2</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">At the Foot of Sleepy Cat</unittitle>
+                            <container type="box">5</container>
+                            <container type="folder">3</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">BoBus</unittitle>
+                            <container type="box">5</container>
+                            <container type="folder">4</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Croppy's Journey</unittitle>
+                            <container type="box">5</container>
+                            <container type="folder">5</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Dolphins As They Are</unittitle>
+                            <container type="box">5</container>
+                            <container type="folder">6</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Dolphins As They Are</unittitle>
+                            <container type="box">5</container>
+                            <container type="folder">7</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">The End of the Rainbow</unittitle>
+                            <container type="box">5</container>
+                            <container type="folder">8</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Ghost Town Gold</unittitle>
+                            <container type="box">5</container>
+                            <container type="folder">9</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Ghost Town in Carbon Canyon</unittitle>
+                            <container type="box">5</container>
+                            <container type="folder">10</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Ice Blink</unittitle>
+                            <container type="box">5</container>
+                            <container type="folder">11</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">In Your Hands</unittitle>
+                            <container type="box">5</container>
+                            <container type="folder">12</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Into the Groove</unittitle>
+                            <container type="box">5</container>
+                            <container type="folder">13</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Jerome Kildee Builds a House</unittitle>
+                            <container type="box">5</container>
+                            <container type="folder">14</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Jerome Kildee's Pilgrimage</unittitle>
+                            <container type="box">5</container>
+                            <container type="folder">15</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">A Kinkajou on the Town</unittitle>
+                            <container type="box">5</container>
+                            <container type="folder">16</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Little Tim's Raccoon</unittitle>
+                            <container type="box">5</container>
+                            <container type="folder">17</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Monte the Bear</unittitle>
+                            <container type="box">5</container>
+                            <container type="folder">18</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">McGonnigle's Lake</unittitle>
+                            <container type="box">5</container>
+                            <container type="folder">19</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Midnight</unittitle>
+                            <container type="box">5</container>
+                            <container type="folder">20</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Pekan the Shadow</unittitle>
+                            <container type="box">5</container>
+                            <container type="folder">21</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Side by Side</unittitle>
+                            <container type="box">5</container>
+                            <container type="folder">22</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Snowman</unittitle>
+                            <container type="box">5</container>
+                            <container type="folder">23</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">The Stubborn One</unittitle>
+                            <container type="box">5</container>
+                            <container type="folder">24</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Tim's Mountain</unittitle>
+                            <container type="box">5</container>
+                            <container type="folder">25</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Whitetail</unittitle>
+                            <container type="box">5</container>
+                            <container type="folder">26</container>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 level="subseries">
+                    <did>
+                        <unittitle encodinganalog="245$a">Miscellaneous</unittitle>
+                        <unitid>Subseries</unitid>
+                    </did>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Short Stories</unittitle>
+                            <container type="box">6</container>
+                            <container type="folder">1</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">WWA Anthology</unittitle>
+                            <container type="box">6</container>
+                            <container type="folder">2</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Untitled</unittitle>
+                            <container type="box">6</container>
+                            <container type="folder">3</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Correspondence</unittitle>
+                            <container type="box">6</container>
+                            <container type="folder">4</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Research</unittitle>
+                            <container type="box">6</container>
+                            <container type="folder">5</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Research</unittitle>
+                            <container type="box">6</container>
+                            <container type="folder">6</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Miscellaneous</unittitle>
+                            <container type="box">6</container>
+                            <container type="folder">7</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">6 books and other miscellaneous loose items</unittitle>
+                            <container type="box">6</container>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 level="subseries">
+                    <did>
+                        <unittitle encodinganalog="245$a">Manuscripts</unittitle>
+                        <unitid>Subseries</unitid>
+                    </did>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Amikuk</unittitle>
+                            <container type="box">7</container>
+                            <container type="folder">1</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Beaver Water</unittitle>
+                            <container type="box">7</container>
+                            <container type="folder">2</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Black Powder Empire</unittitle>
+                            <container type="box">7</container>
+                            <container type="folder">3</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Comanche Trail</unittitle>
+                            <container type="box">7</container>
+                            <container type="folder">4</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Mountain Man</unittitle>
+                            <container type="box">7</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Posted Water</unittitle>
+                            <container type="box">7</container>
+                            <container type="folder">5</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Snowman</unittitle>
+                            <container type="box">7</container>
+                        </did>
+                    </c03>
+                </c02>
+            </c01>
+            <c01 level="series">
+                <did>
+                    <unittitle encodinganalog="245$a">Addenda 4</unittitle>
+                    <unitid>Series</unitid>
+                </did>
+                <c02 level="subseries">
+                    <did>
+                        <unittitle encodinganalog="245$a">Outgoing correspondence</unittitle>
+                        <unitid>Subseries</unitid>
+                    </did>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Letters Sent</unittitle>
+                            <container type="box">7</container>
+                            <container type="folder">6</container>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 level="subseries">
+                    <did>
+                        <unittitle encodinganalog="245$a">Incoming correspondence</unittitle>
+                        <unitid>Subseries</unitid>
+                    </did>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Letters Received</unittitle>
+                            <container type="box">7</container>
+                            <container type="folder">7</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Caxton Printers</unittitle>
+                            <container type="box">7</container>
+                            <container type="folder">8</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Doubleday and Co.</unittitle>
+                            <container type="box">7</container>
+                            <container type="folder">9</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Duell, Sloan and Pearce</unittitle>
+                            <container type="box">7</container>
+                            <container type="folder">10</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Meredith Press</unittitle>
+                            <container type="box">7</container>
+                            <container type="folder">11</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">World Publishing Co.</unittitle>
+                            <container type="box">7</container>
+                            <container type="folder">12</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Writers Guild of America</unittitle>
+                            <container type="box">7</container>
+                            <container type="folder">13</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Walt Disney Productions</unittitle>
+                            <container type="box">7</container>
+                            <container type="folder">14</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Caxton Printers</unittitle>
+                            <container type="box">8</container>
+                            <container type="folder">1</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Barthold, Fles</unittitle>
+                            <container type="box">8</container>
+                            <container type="folder">2</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Meredith Press- Duell Sloan and Pearce</unittitle>
+                            <container type="box">8</container>
+                            <container type="folder">3</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Incoming correspondence</unittitle>
+                            <container type="box">8</container>
+                            <container type="folder">4</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">World Publishing Co.</unittitle>
+                            <container type="box">8</container>
+                            <container type="folder">5</container>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 level="subseries">
+                    <did>
+                        <unittitle encodinganalog="245$a">Outgoing correspondence</unittitle>
+                        <unitid>Subseries</unitid>
+                    </did>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Outgoing correspondence</unittitle>
+                            <container type="box">8</container>
+                            <container type="folder">6</container>
+                        </did>
+                    </c03>
+                </c02>
+            </c01>
+            <c01 level="series">
+                <did>
+                    <unittitle encodinganalog="245$a">Addenda 5</unittitle>
+                    <unitid>Series</unitid>
+                </did>
+                <c02 level="subseries">
+                    <did>
+                        <unittitle encodinganalog="245$a">Manuscripts</unittitle>
+                        <unitid>Subseries</unitid>
+                    </did>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Bear by the Tail</unittitle>
+                            <container type="box">8</container>
+                            <container type="folder">7</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">El Blanco</unittitle>
+                            <container type="box">8</container>
+                            <container type="folder">8</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Broken Trails</unittitle>
+                            <container type="box">8</container>
+                            <container type="folder">9</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Claim Jumpers of Marble Canyon</unittitle>
+                            <container type="box">8</container>
+                            <container type="folder">10</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Cougar</unittitle>
+                            <container type="box">8</container>
+                            <container type="folder">11</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Dolphins As They Are</unittitle>
+                            <container type="box">8</container>
+                            <container type="folder">12</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Folly Mountain Gold</unittitle>
+                            <container type="box">8</container>
+                            <container type="folder">13</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">The Invasion of Carbon Canyon</unittitle>
+                            <container type="box">8</container>
+                            <container type="folder">14</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Ghost Town in Carbon Canyon</unittitle>
+                            <container type="box">8</container>
+                            <container type="folder">15</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">The Golden Stallion</unittitle>
+                            <container type="box">8</container>
+                            <container type="folder">16</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">The Golden Stallion's Mystery Feud</unittitle>
+                            <container type="box">8</container>
+                            <container type="folder">17</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">The Golden Stallion to the Rescue</unittitle>
+                            <container type="box">8</container>
+                            <container type="folder">18</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">In Happy Hollow</unittitle>
+                            <container type="box">8</container>
+                            <container type="folder">19</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Into the Groove</unittitle>
+                            <container type="box">8</container>
+                            <container type="folder">20</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Joe Meek, Mountain Man</unittitle>
+                            <container type="box">8</container>
+                            <container type="folder">21</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Kent Barstow and the Dyna Soar Mission</unittitle>
+                            <container type="box">8</container>
+                            <container type="folder">22</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Kent Barstow, Secret Agent</unittitle>
+                            <container type="box">8</container>
+                            <container type="folder">23</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Klepty</unittitle>
+                            <container type="box">8</container>
+                            <container type="folder">24</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">The Living Wilderness</unittitle>
+                            <container type="box">8</container>
+                            <container type="folder">25</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">The Living Wilderness</unittitle>
+                            <container type="box">9</container>
+                            <container type="folder">1</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">McGonnigle's Lake</unittitle>
+                            <container type="box">9</container>
+                            <container type="folder">2</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">McNulty's Holiday</unittitle>
+                            <container type="box">9</container>
+                            <container type="folder">3</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Maverick Mountain</unittitle>
+                            <container type="box">9</container>
+                            <container type="folder">4</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Mountain Maid</unittitle>
+                            <container type="box">9</container>
+                            <container type="folder">5</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Oddessy of an Otter</unittitle>
+                            <container type="box">9</container>
+                            <container type="folder">6</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Posted Water</unittitle>
+                            <container type="box">9</container>
+                            <container type="folder">10</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Rufus</unittitle>
+                            <container type="box">9</container>
+                            <container type="folder">11</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Red Runs the River</unittitle>
+                            <container type="box">9</container>
+                            <container type="folder">12</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            
+                            <container type="box">9</container>
+                            <container type="folder">13</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">SAC World Series</unittitle>
+                            <container type="box">9</container>
+                            <container type="folder">14</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">See Catch</unittitle>
+                            <container type="box">9</container>
+                            <container type="folder">15</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Sex Isn't Everything</unittitle>
+                            <container type="box">9</container>
+                            <container type="folder">16</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">The Shadow Strikes</unittitle>
+                            <container type="box">9</container>
+                            <container type="folder">17</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Smoky Trail</unittitle>
+                            <container type="box">9</container>
+                            <container type="folder">18</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Snow Man</unittitle>
+                            <container type="box">9</container>
+                            <container type="folder">19</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">The Stubborn One</unittitle>
+                            <container type="box">9</container>
+                            <container type="folder">20</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">The Vanishing Herds</unittitle>
+                            <container type="box">9</container>
+                            <container type="folder">21</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">The Weary Land</unittitle>
+                            <container type="box">9</container>
+                            <container type="folder">22</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Weecha, The Racoon</unittitle>
+                            <container type="box">9</container>
+                            <container type="folder">23</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Short Fiction</unittitle>
+                            <container type="box">9</container>
+                            <container type="folder">24</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Outlines, Miscellaneous</unittitle>
+                            <container type="box">9</container>
+                            <container type="folder">25</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Tear sheets</unittitle>
+                            <container type="box">9</container>
+                            <container type="folder">26</container>
+                        </did>
+                    </c03>
+                </c02>
+            </c01>
+            <c01 level="series">
+                <did>
+                    <unittitle encodinganalog="245$a">Addenda 6</unittitle>
+                    <unitid>Series</unitid>
+                </did>
+                <c02 level="subseries">
+                    <did>
+                        <unittitle encodinganalog="245$a">Outgoing correspondence</unittitle>
+                        <unitid>Subseries</unitid>
+                    </did>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Outgoing correspondence</unittitle>
+                            <container type="box">10</container>
+                            <container type="folder">1</container>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 level="subseries">
+                    <did>
+                        <unittitle encodinganalog="245$a">Incoming correspondence</unittitle>
+                        <unitid>Subseries</unitid>
+                    </did>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Incoming correspondence</unittitle>
+                            <container type="box">10</container>
+                            <container type="folder">2</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Fan letters</unittitle>
+                            <container type="box">10</container>
+                            <container type="folder">3</container>
+                        </did>
+                    </c03>
+                </c02>
+            </c01>
+            <c01 level="series">
+                <did>
+                    <unittitle encodinganalog="245$a">Addenda 7</unittitle>
+                    <unitid>Series</unitid>
+                </did>
+                <c02 level="subseries">
+                    <did>
+                        <unittitle encodinganalog="245$a">Manuscripts</unittitle>
+                        <unitid>Subseries</unitid>
+                    </did>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Dick's Blue Streak</unittitle>
+                            <container type="box">10</container>
+                            <container type="folder">4</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Dolphins As They Are</unittitle>
+                            <container type="box">10</container>
+                            <container type="folder">5</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">The Golden Stallion on the Adventure Trail</unittitle>
+                            <container type="box">10</container>
+                            <container type="folder">6</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Pocket Money</unittitle>
+                            <container type="box">10</container>
+                            <container type="folder">7</container>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 level="subseries">
+                    <did>
+                        <unittitle encodinganalog="245$a">Miscellaneous</unittitle>
+                        <unitid>Subseries</unitid>
+                    </did>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Magazines</unittitle>
+                            <container type="box">10</container>
+                            <container type="folder">8</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Royalties</unittitle>
+                            <container type="box">10</container>
+                            <container type="folder">9</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Royalties</unittitle>
+                            <container type="box">10</container>
+                            <container type="folder">10</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Royalties</unittitle>
+                            <container type="box">10</container>
+                            <container type="folder">11</container>
+                        </did>
+                    </c03>
+                </c02>
+            </c01>
+            <c01 level="series">
+                <did>
+                    <unittitle encodinganalog="245$a">Addenda 8</unittitle>
+                    <unitid>Series</unitid>
+                </did>
+                <c02 level="subseries">
+                    <did>
+                        <unittitle encodinganalog="245$a">Correspondence</unittitle>
+                        <unitid>Subseries</unitid>
+                        <unitdate>1950-1973</unitdate>
+                    </did>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Correspondence</unittitle>
+                            <container type="box">11</container>
+                            <container type="folder">1</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Fan Mail</unittitle>
+                            <container type="box">11</container>
+                            <container type="folder">2</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Fan Mail</unittitle>
+                            <container type="box">11</container>
+                            <container type="folder">3</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Fan Mail</unittitle>
+                            <container type="box">11</container>
+                            <container type="folder">4</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Fan Mail</unittitle>
+                            <container type="box">11</container>
+                            <container type="folder">5</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Fan Mail</unittitle>
+                            <container type="box">11</container>
+                            <container type="folder">6</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Fan Mail</unittitle>
+                            <container type="box">11</container>
+                            <container type="folder">7</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Fan Mail</unittitle>
+                            <container type="box">11</container>
+                            <container type="folder">8</container>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 level="subseries">
+                    <did>
+                        <unittitle encodinganalog="245$a">Manuscripts</unittitle>
+                        <unitid>Subseries</unitid>
+                    </did>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Flash the Teenage Otter</unittitle>
+                            <container type="box">11</container>
+                            <container type="folder">9</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Golden Stallion and the Mysterious Feud</unittitle>
+                            <container type="box">11</container>
+                            <container type="folder">10</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">The Hoofbeats of Sinful Sam</unittitle>
+                            <container type="box">11</container>
+                            <container type="folder">11</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Into the Groove</unittitle>
+                            <container type="box">11</container>
+                            <container type="folder">12</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Jack Knapp, Hero of the Teslin Trail</unittitle>
+                            <container type="box">11</container>
+                            <container type="folder">13</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Jeff and the Jaguarundi</unittitle>
+                            <container type="box">11</container>
+                            <container type="folder">14</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Jerome Kildee Builds a House</unittitle>
+                            <container type="box">11</container>
+                            <container type="folder">15</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Mystery Has Craighead</unittitle>
+                            <container type="box">11</container>
+                            <container type="folder">16</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">The Mystery of the Old Quarry</unittitle>
+                            <container type="box">11</container>
+                            <container type="folder">17</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Night Ride</unittitle>
+                            <container type="box">11</container>
+                            <container type="folder">18</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Klepty</unittitle>
+                            <container type="box">11</container>
+                            <container type="folder">19</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Pekan the Shadow</unittitle>
+                            <container type="box">11</container>
+                            <container type="folder">20</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">The Shadowed Hills</unittitle>
+                            <container type="box">11</container>
+                            <container type="folder">21</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">The Shadowed Hills</unittitle>
+                            <container type="box">11</container>
+                            <container type="folder">22</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Yosemite</unittitle>
+                            <container type="box">11</container>
+                            <container type="folder">23</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Published Animal Stories</unittitle>
+                            <container type="box">11</container>
+                            <container type="folder">24</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Tear Sheets</unittitle>
+                            <container type="box">11</container>
+                            <container type="folder">25</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">SAC Series</unittitle>
+                            <container type="box">11</container>
+                            <container type="folder">26</container>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 level="subseries">
+                    <did>
+                        <unittitle encodinganalog="245$a">Miscellaneous</unittitle>
+                        <unitid>Subseries</unitid>
+                    </did>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Notes and General Research</unittitle>
+                            <container type="box">11</container>
+                            <container type="folder">27</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Publicity/ Miscellaneous</unittitle>
+                            <container type="box">11</container>
+                            <container type="folder">28</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Scrapbook of Rejections</unittitle>
+                            <container type="box">11</container>
+                            <container type="folder">29</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Speaking Engagements</unittitle>
+                            <container type="box">11</container>
+                            <container type="folder">30</container>
+                            <unitdate>1950-1972</unitdate>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Wilderness photographs</unittitle>
+                            <container type="box">11</container>
+                            <container type="folder">31</container>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 level="subseries">
+                    <did>
+                        <unittitle encodinganalog="245$a">Manuscripts</unittitle>
+                        <unitid>Subseries</unitid>
+                    </did>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">All That Glitters</unittitle>
+                            <container type="box">12</container>
+                            <container type="folder">1</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Death Has Yellow Eyes</unittitle>
+                            <container type="box">12</container>
+                            <container type="folder">2</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Death Has Yellow Eyes</unittitle>
+                            <container type="box">12</container>
+                            <container type="folder">3</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Hill Ranch</unittitle>
+                            <container type="box">12</container>
+                            <container type="folder">4</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Hill Ranch</unittitle>
+                            <container type="box">12</container>
+                            <container type="folder">5</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Hill Ranch</unittitle>
+                            <container type="box">12</container>
+                            <container type="folder">6</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">The Mystery of Crystal Canyon</unittitle>
+                            <container type="box">12</container>
+                            <container type="folder">7</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">The Mystery of Crystal Canyon</unittitle>
+                            <container type="box">12</container>
+                            <container type="folder">8</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Seecatchie</unittitle>
+                            <container type="box">12</container>
+                            <container type="folder">9</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Seecatchie</unittitle>
+                            <container type="box">12</container>
+                            <container type="folder">10</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Seecatchie</unittitle>
+                            <container type="box">12</container>
+                            <container type="folder">11</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Seecatchie</unittitle>
+                            <container type="box">12</container>
+                            <container type="folder">12</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Treasure at Craghead</unittitle>
+                            <container type="box">12</container>
+                            <container type="folder">13</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Treasure at Craghead</unittitle>
+                            <container type="box">12</container>
+                            <container type="folder">14</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Yellow Eyes</unittitle>
+                            <container type="box">12</container>
+                            <container type="folder">15</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Untitled</unittitle>
+                            <container type="box">12</container>
+                            <container type="folder">16</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Miscellaneous Leaves</unittitle>
+                            <container type="box">12</container>
+                            <container type="folder">17</container>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 level="subseries">
+                    <did>
+                        <unittitle encodinganalog="245$a">Manuscripts by Other Authors</unittitle>
+                        <unitid>Subseries</unitid>
+                    </did>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Olde English by Robert Wilson</unittitle>
+                            <container type="box">12</container>
+                            <container type="folder">18</container>
+                        </did>
+                    </c03>
+                </c02>
+            </c01>
+            <c01 level="series">
+                <did>
+                    <unittitle encodinganalog="245$a">Addenda 9</unittitle>
+                    <unitid>Series</unitid>
+                </did>
+                <c02 level="subseries">
+                    <did>
+                        <unittitle encodinganalog="245$a">Correspondence</unittitle>
+                        <unitid>Subseries</unitid>
+                    </did>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Outgoing</unittitle>
+                            <container type="box">12</container>
+                            <container type="folder">19</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Incoming</unittitle>
+                            <container type="box">12</container>
+                            <container type="folder">20</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Robert Carlisle</unittitle>
+                            <container type="box">12</container>
+                            <container type="folder">21</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Eunice Montgomery</unittitle>
+                            <container type="box">12</container>
+                            <container type="folder">22</container>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 level="subseries">
+                    <did>
+                        <unittitle encodinganalog="245$a">Manuscripts</unittitle>
+                        <unitid>Subseries</unitid>
+                    </did>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Bobus</unittitle>
+                            <container type="box">12</container>
+                            <container type="folder">23</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">The Cats Have Shared</unittitle>
+                            <container type="box">12</container>
+                            <container type="folder">24</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">The Golden Stallion's Rival</unittitle>
+                            <container type="box">12</container>
+                            <container type="folder">25</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Hockey Champ</unittitle>
+                            <container type="box">12</container>
+                            <container type="folder">26</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">The Invasion of Carbon Canyon</unittitle>
+                            <container type="box">12</container>
+                            <container type="folder">27</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Mission Intruder</unittitle>
+                            <container type="box">12</container>
+                            <container type="folder">28</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">The Shadowed Hills</unittitle>
+                            <container type="box">12</container>
+                            <container type="folder">29</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Carcajou Illustrations</unittitle>
+                            <container type="box">12a</container>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 level="subseries">
+                    <did>
+                        <unittitle encodinganalog="245$a">Manuscripts</unittitle>
+                        <unitid>Subseries</unitid>
+                    </did>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Shiny on Your Side</unittitle>
+                            <container type="box">13</container>
+                            <container type="folder">1</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Song Dog of the Dawn</unittitle>
+                            <container type="box">13</container>
+                            <container type="folder">2</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Survival in a Cat's World</unittitle>
+                            <container type="box">13</container>
+                            <container type="folder">3</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Weary Land</unittitle>
+                            <container type="box">13</container>
+                            <container type="folder">4</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Yosemite</unittitle>
+                            <container type="box">13</container>
+                            <container type="folder">5</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Screenplays</unittitle>
+                            <container type="box">13</container>
+                            <container type="folder">6</container>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 level="subseries">
+                    <did>
+                        <unittitle encodinganalog="245$a">Miscellaneous</unittitle>
+                        <unitid>Subseries</unitid>
+                    </did>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Fan Mail and Drawings</unittitle>
+                            <container type="box">13</container>
+                            <container type="folder">7</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Contracts, Royalty Payments, etc.</unittitle>
+                            <container type="box">13</container>
+                            <container type="folder">8</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Photos, Certificates, Awards and Memorabilia</unittitle>
+                            <container type="box">13</container>
+                            <container type="folder">9</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Writer's Guild</unittitle>
+                            <container type="box">13</container>
+                            <container type="folder">10</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Two books by Al Avery</unittitle>
+                            <container type="box">13</container>
+                        </did>
+                    </c03>
+                </c02>
+            </c01>
+            <c01 level="series">
+                <did>
+                    <unittitle encodinganalog="245$a">Addenda 10</unittitle>
+                    <unitid>Series</unitid>
+                </did>
+                <c02 level="subseries">
+                    <did>
+                        <unittitle encodinganalog="245$a">Outgoing correspondence</unittitle>
+                        <unitid>Subseries</unitid>
+                    </did>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">1943-1960</unittitle>
+                            <container type="box">14</container>
+                            <container type="folder">1</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">1961-73</unittitle>
+                            <container type="box">14</container>
+                            <container type="folder">2</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">A-Car</unittitle>
+                            <container type="box">14</container>
+                            <container type="folder">3</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Caxton Printers</unittitle>
+                            <container type="box">14</container>
+                            <container type="folder">4</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Ch-D</unittitle>
+                            <container type="box">14</container>
+                            <container type="folder">5</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">E-Fi</unittitle>
+                            <container type="box">14</container>
+                            <container type="folder">6</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Fles, Barthold</unittitle>
+                            <container type="box">14</container>
+                            <container type="folder">7</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Fo-Go</unittitle>
+                            <container type="box">14</container>
+                            <container type="folder">8</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Gr-I</unittitle>
+                            <container type="box">14</container>
+                            <container type="folder">9</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">J-K</unittitle>
+                            <container type="box">14</container>
+                            <container type="folder">10</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">L-Lee</unittitle>
+                            <container type="box">14</container>
+                            <container type="folder">11</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Lenninger</unittitle>
+                            <container type="box">14</container>
+                            <container type="folder">12</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Leu-Ly</unittitle>
+                            <container type="box">14</container>
+                            <container type="folder">13</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">M</unittitle>
+                            <container type="box">14</container>
+                            <container type="folder">14</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">N</unittitle>
+                            <container type="box">14</container>
+                            <container type="folder">15</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">O-P</unittitle>
+                            <container type="box">14</container>
+                            <container type="folder">16</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">R-S</unittitle>
+                            <container type="box">14</container>
+                            <container type="folder">17</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">T-U</unittitle>
+                            <container type="box">14</container>
+                            <container type="folder">18</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">W</unittitle>
+                            <container type="box">14</container>
+                            <container type="folder">19</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Z</unittitle>
+                            <container type="box">14</container>
+                            <container type="folder">20</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Miscellaneous</unittitle>
+                            <container type="box">14</container>
+                            <container type="folder">21</container>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 level="subseries">
+                    <did>
+                        <unittitle encodinganalog="245$a">Manuscripts</unittitle>
+                        <unitid>Subseries</unitid>
+                    </did>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Amikuk 1</unittitle>
+                            <container type="box">14</container>
+                            <container type="folder">22</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Amikuk 2</unittitle>
+                            <container type="box">14</container>
+                            <container type="folder">23</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Big Red</unittitle>
+                            <container type="box">14</container>
+                            <container type="folder">24</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Catch a Sea Lion</unittitle>
+                            <container type="box">14</container>
+                            <container type="folder">25</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Choppy's Journey 1</unittitle>
+                            <container type="box">15</container>
+                            <container type="folder">1</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Choppy's Journey 2</unittitle>
+                            <container type="box">15</container>
+                            <container type="folder">2</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Choppy's Journey 3</unittitle>
+                            <container type="box">15</container>
+                            <container type="folder">3</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Comanche Trail</unittitle>
+                            <container type="box">15</container>
+                            <container type="folder">4</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Corey's Monster</unittitle>
+                            <container type="box">15</container>
+                            <container type="folder">5</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Danger Flight</unittitle>
+                            <container type="box">15</container>
+                            <container type="folder">6</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Disaster Canyon</unittitle>
+                            <container type="box">15</container>
+                            <container type="folder">7</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Dolphin on the Loose</unittitle>
+                            <container type="box">15</container>
+                            <container type="folder">8</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Ghost Town Gold</unittitle>
+                            <container type="box">15</container>
+                            <container type="folder">9</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">The Golden Stallion</unittitle>
+                            <container type="box">15</container>
+                            <container type="folder">10</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">The Hills are Home</unittitle>
+                            <container type="box">15</container>
+                            <container type="folder">11</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Jet Navigator</unittitle>
+                            <container type="box">15</container>
+                            <container type="folder">12</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Jungle Boy #1</unittitle>
+                            <container type="box">15</container>
+                            <container type="folder">13</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Jungle Boy #2</unittitle>
+                            <container type="box">15</container>
+                            <container type="folder">14</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Kilgee House</unittitle>
+                            <container type="box">15</container>
+                            <container type="folder">15</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Kit</unittitle>
+                            <container type="box">15</container>
+                            <container type="folder">16</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Klepty</unittitle>
+                            <container type="box">15</container>
+                            <container type="folder">17</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Little Tim's Racoon</unittitle>
+                            <container type="box">15</container>
+                            <container type="folder">18</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Missile Army</unittitle>
+                            <container type="box">15</container>
+                            <container type="folder">19</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Mister Jim</unittitle>
+                            <container type="box">15</container>
+                            <container type="folder">20</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Mystery of the Turquoise Frog</unittitle>
+                            <container type="box">15</container>
+                            <container type="folder">21</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Old Grizzly</unittitle>
+                            <container type="box">15</container>
+                            <container type="folder">22</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Pocket Monkey</unittitle>
+                            <container type="box">15</container>
+                            <container type="folder">23</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Posted Water</unittitle>
+                            <container type="box">15</container>
+                            <container type="folder">24</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Prisoner in the Circle</unittitle>
+                            <container type="box">15</container>
+                            <container type="folder">25</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Rufus</unittitle>
+                            <container type="box">15</container>
+                            <container type="folder">26</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Rufus</unittitle>
+                            <container type="box">15</container>
+                            <container type="folder">27</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Shadowed Hills</unittitle>
+                            <container type="box">16</container>
+                            <container type="folder">1</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Shadowed Hills</unittitle>
+                            <container type="box">16</container>
+                            <container type="folder">2</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Shadowed Hills</unittitle>
+                            <container type="box">16</container>
+                            <container type="folder">3</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Shorty</unittitle>
+                            <container type="box">16</container>
+                            <container type="folder">4</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Side by Side</unittitle>
+                            <container type="box">16</container>
+                            <container type="folder">5</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">The Silver Mug</unittitle>
+                            <container type="box">16</container>
+                            <container type="folder">6</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Skippy</unittitle>
+                            <container type="box">16</container>
+                            <container type="folder">7</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Show Man</unittitle>
+                            <container type="box">16</container>
+                            <container type="folder">8</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Survival in a Cat's World</unittitle>
+                            <container type="box">16</container>
+                            <container type="folder">9</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Survival in a Cat's World</unittitle>
+                            <container type="box">16</container>
+                            <container type="folder">10</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Trail Dust</unittitle>
+                            <container type="box">16</container>
+                            <container type="folder">11</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Tracy Twins South of the Border</unittitle>
+                            <container type="box">16</container>
+                            <container type="folder">12</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Treasure at Craghead</unittitle>
+                            <container type="box">16</container>
+                            <container type="folder">13</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">West of Muddy River</unittitle>
+                            <container type="box">16</container>
+                            <container type="folder">13</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">West of Muddy River</unittitle>
+                            <container type="box">16</container>
+                            <container type="folder">14</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Yellow Eyes</unittitle>
+                            <container type="box">16</container>
+                            <container type="folder">15</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Black Bear</unittitle>
+                            <container type="box">16</container>
+                            <container type="folder">16</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Brown Clown</unittitle>
+                            <container type="box">16</container>
+                            <container type="folder">17</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Come to Mountain</unittitle>
+                            <container type="box">16</container>
+                            <container type="folder">18</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Cougar</unittitle>
+                            <container type="box">16</container>
+                            <container type="folder">19</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Dark Interlude</unittitle>
+                            <container type="box">16</container>
+                            <container type="folder">20</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Disney Material</unittitle>
+                            <container type="box">16</container>
+                            <container type="folder">21</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">El Blanco</unittitle>
+                            <container type="box">16</container>
+                            <container type="folder">22</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Face in the Window</unittitle>
+                            <container type="box">16</container>
+                            <container type="folder">23</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Flash</unittitle>
+                            <container type="box">16</container>
+                            <container type="folder">24</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Flash</unittitle>
+                            <container type="box">16</container>
+                            <container type="folder">25</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Flash</unittitle>
+                            <container type="box">16</container>
+                            <container type="folder">26</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">High Button</unittitle>
+                            <container type="box">16</container>
+                            <container type="folder">27</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Man Against the House</unittitle>
+                            <container type="box">16</container>
+                            <container type="folder">28</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Matter of Rank</unittitle>
+                            <container type="box">17</container>
+                            <container type="folder">1</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Matter of Rank</unittitle>
+                            <container type="box">17</container>
+                            <container type="folder">2</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">The Pack</unittitle>
+                            <container type="box">17</container>
+                            <container type="folder">3</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">SAC Series</unittitle>
+                            <container type="box">17</container>
+                            <container type="folder">4</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Sancho</unittitle>
+                            <container type="box">17</container>
+                            <container type="folder">5</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Trooper's Three</unittitle>
+                            <container type="box">17</container>
+                            <container type="folder">6</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Up in Henry's Room</unittitle>
+                            <container type="box">17</container>
+                            <container type="folder">7</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Uranium</unittitle>
+                            <container type="box">17</container>
+                            <container type="folder">8</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Weecha</unittitle>
+                            <container type="box">17</container>
+                            <container type="folder">9</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Yellow Eyes</unittitle>
+                            <container type="box">17</container>
+                            <container type="folder">10</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Almost a Man</unittitle>
+                            <container type="box">17</container>
+                            <container type="folder">11</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Bring in Your Ship</unittitle>
+                            <container type="box">17</container>
+                            <container type="folder">12</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Chickaree</unittitle>
+                            <container type="box">17</container>
+                            <container type="folder">13</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">The Door</unittitle>
+                            <container type="box">17</container>
+                            <container type="folder">14</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Eye Witness</unittitle>
+                            <container type="box">17</container>
+                            <container type="folder">15</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Fragile Tenancy</unittitle>
+                            <container type="box">17</container>
+                            <container type="folder">16</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">The Hungry Jaguar</unittitle>
+                            <container type="box">17</container>
+                            <container type="folder">17</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">An Inch of Time</unittitle>
+                            <container type="box">17</container>
+                            <container type="folder">18</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">It Pays to Be Lazy</unittitle>
+                            <container type="box">17</container>
+                            <container type="folder">19</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">King</unittitle>
+                            <container type="box">17</container>
+                            <container type="folder">20</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Not to Be a Frosh</unittitle>
+                            <container type="box">17</container>
+                            <container type="folder">21</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">The Road</unittitle>
+                            <container type="box">17</container>
+                            <container type="folder">22</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Under the Mountain</unittitle>
+                            <container type="box">17</container>
+                            <container type="folder">23</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Welcome Home</unittitle>
+                            <container type="box">17</container>
+                            <container type="folder">24</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">The White Killer</unittitle>
+                            <container type="box">17</container>
+                            <container type="folder">25</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Angles on Writing the Western Juvenile</unittitle>
+                            <container type="box">17</container>
+                            <container type="folder">26</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">King Sized Rat</unittitle>
+                            <container type="box">17</container>
+                            <container type="folder">27</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">One Grizzly</unittitle>
+                            <container type="box">17</container>
+                            <container type="folder">28</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Uranium Widow</unittitle>
+                            <container type="box">17</container>
+                            <container type="folder">29</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Hockey Champ</unittitle>
+                            <container type="box">17</container>
+                            <container type="folder">30</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Kinkajpu</unittitle>
+                            <container type="box">17</container>
+                            <container type="folder">31</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Ways of the Wild</unittitle>
+                            <container type="box">17</container>
+                            <container type="folder">32</container>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 level="subseries">
+                    <did>
+                        <unittitle encodinganalog="245$a">Miscellaneous</unittitle>
+                        <unitid>Subseries</unitid>
+                    </did>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Untitled Narrative</unittitle>
+                            <container type="box">17</container>
+                            <container type="folder">33</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Story Outlines</unittitle>
+                            <container type="box">17</container>
+                            <container type="folder">34</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Pitman Material</unittitle>
+                            <container type="box">17</container>
+                            <container type="folder">35</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Outline for "The Story"</unittitle>
+                            <container type="box">17</container>
+                            <container type="folder">36</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Biographical Material</unittitle>
+                            <container type="box">17</container>
+                            <container type="folder">37</container>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 level="subseries">
+                    <did>
+                        <unittitle encodinganalog="245$a">Third Party Manuscripts</unittitle>
+                        <unitid>Subseries</unitid>
+                    </did>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Aley, Al. Little Lost Burro</unittitle>
+                            <container type="box">17</container>
+                            <container type="folder">38</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Barker, Elliot. Four in a Day</unittitle>
+                            <container type="box">17</container>
+                            <container type="folder">39</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Barker, Elsa. Line Camp Christmas</unittitle>
+                            <container type="box">17</container>
+                            <container type="folder">40</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Barker, O.S. The Button and the Bronc</unittitle>
+                            <container type="box">17</container>
+                            <container type="folder">41</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Bunch, Charlie. Men Are That Way</unittitle>
+                            <container type="box">17</container>
+                            <container type="folder">42</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Charman, John. Navajo Common Law</unittitle>
+                            <container type="box">17</container>
+                            <container type="folder">43</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Croy, Harlan. Homer the Pig.</unittitle>
+                            <container type="box">17</container>
+                            <container type="folder">44</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Dashew, Martha. Diaper a Weigh</unittitle>
+                            <container type="box">17</container>
+                            <container type="folder">45</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Dashew, Martha. Diaper a Weigh</unittitle>
+                            <container type="box">17</container>
+                            <container type="folder">46</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Dashew, Martha. Diaper a Weigh</unittitle>
+                            <container type="box">17</container>
+                            <container type="folder">47</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Dashew, Stanley. Skipper of the Constellation</unittitle>
+                            <container type="box">17</container>
+                            <container type="folder">48</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Ellis, Ray G. Thundercloud</unittitle>
+                            <container type="box">17</container>
+                            <container type="folder">49</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Halacy, Jr. D.S. Brong For a Greenhorn</unittitle>
+                            <container type="box">17</container>
+                            <container type="folder">50</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Lane, Fred</unittitle>
+                            <container type="box">17</container>
+                            <container type="folder">51</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Marx, S.</unittitle>
+                            <container type="box">17</container>
+                            <container type="folder">52</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">McCornack</unittitle>
+                            <container type="box">17</container>
+                            <container type="folder">53</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">McGowan</unittitle>
+                            <container type="box">17</container>
+                            <container type="folder">54</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Mellinger</unittitle>
+                            <container type="box">17</container>
+                            <container type="folder">55</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Nelson, A.</unittitle>
+                            <container type="box">17</container>
+                            <container type="folder">56</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Taylor, S.W.</unittitle>
+                            <container type="box">17</container>
+                            <container type="folder">57</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Thurston, J.H.</unittitle>
+                            <container type="box">17</container>
+                            <container type="folder">58</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Vance, W.</unittitle>
+                            <container type="box">17</container>
+                            <container type="folder">59</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Warren, Beatrice</unittitle>
+                            <container type="box">17</container>
+                            <container type="folder">60</container>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 level="subseries">
+                    <did>
+                        <unittitle encodinganalog="245$a">Miscellaneous</unittitle>
+                        <unitid>Subseries</unitid>
+                    </did>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Photographs</unittitle>
+                            <container type="box">17</container>
+                            <container type="folder">61</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">News clippings: Biographical material</unittitle>
+                            <container type="box">17</container>
+                            <container type="folder">62</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">News clippings and reviews of Montgomery books</unittitle>
+                            <container type="box">17</container>
+                            <container type="folder">63</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Tear sheets</unittitle>
+                            <container type="box">17</container>
+                            <container type="folder">64</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Artwork and miscellaneous loose items</unittitle>
+                            <container type="box">17</container>
+                        </did>
+                    </c03>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

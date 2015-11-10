@@ -1,0 +1,131 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead audience="external" relatedencoding="MARC21">
+  <eadheader langencoding="iso639-2b" audience="internal" countryencoding="iso3166-1"
+    dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924"
+    relatedencoding="MARC21">
+    <eadid mainagencycode="DSI-AI" countrycode="us"
+      identifier="http://siarchives.si.edu/findingaids/FA08-127.xml" encodinganalog="856$u">
+      http://siarchives.si.edu/findingaids/FA08-127.xml</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper encodinganalog="245$a">Architecture and Construction Records, <date>1983</date></titleproper>
+        <author encodinganalog="245$c">Finding aid prepared by Smithsonian Institution
+          Archives</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher encodinganalog="260$b">Smithsonian Institution Archives </publisher>
+        <address>
+          <addressline>Washington, D.C. </addressline>
+          <addressline>Contact us at <emph render="italic">osiaref@si.edu</emph></addressline>
+        </address>
+        <date type="publication"/>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>Finding aid encoded on <date normal="2000-01-01">7-14-2011</date></creation>
+      <langusage encodinganalog="546"> Finding aid written in <language encodinganalog="041"
+          langcode="eng">English</language>
+      </langusage>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection" type="inventory" relatedencoding="MARC21">
+    <did>
+      <head>Collection Overview</head>
+      <repository label="Repository:" encodinganalog="852$a">
+        <corpname encodinganalog="110">Smithsonian Institution Archives, </corpname>
+        <address>
+          <addressline>Washington, D.C., </addressline>
+          <addressline><emph render="italic">osiaref@si.edu</emph></addressline>
+        </address>
+      </repository>
+      <origination label="Creator:">
+        <persname encodinganalog="100">National Air and Space Museum </persname>
+      </origination>
+      <note>
+        <p>SI Records</p>
+      </note>
+      <unittitle label="Title:" encodinganalog="245$a">Architecture and Construction Records</unittitle>
+      <unitdate label="Dates:" encodinganalog="245$f" normal="1971/2004">1983</unitdate>
+      <physdesc label="Quantity:" encodinganalog="300$a">
+        <extent>1 oversize folder.</extent>
+      </physdesc>
+      <unitid encodinganalog="099" label="Collection:" countrycode="iso3166-1"
+        repositorycode="DSI-AI">Accession 08-127</unitid>
+      <langmaterial encodinganalog="546" label="Language of Materials:">
+        <language encodinganalog="041" langcode="eng">English</language>
+      </langmaterial>
+    </did>
+    <prefercite encodinganalog="510">
+      <head>Preferred Citation</head>
+      <p>Smithsonian Institution Archives, Accession 08-127, National Air and Space Museum , Architecture and Construction Records</p>
+    </prefercite>
+    
+ 
+    
+    <scopecontent>
+    <head>Descriptive Entry</head>
+     <p>This accession consists of records documenting the construction of the restaurant addition to the National Air and Space Museum Building. Materials include concept 
+    drawings, site plans, floor plans and elevations.</p> </scopecontent> 
+     
+ 
+    
+    
+    
+    
+        
+      <controlaccess id="a12">
+      <head>Index Terms</head>
+      <p>This collection is indexed under the following access terms. These are links to collections
+      with related topics, persons or places.</p>
+        
+         <controlaccess>
+           <head>Name</head>
+           <famname encodinganalog="600" source="local">National Air and Space Museum Building (Washington, D.C.)</famname>
+         </controlaccess>
+        
+        
+         <controlaccess>
+           <head>Subject</head>
+           <subject encodinganalog="650" source="local">Aeronautical museums</subject>
+           <subject encodinganalog="650" source="local">Museum architecture</subject>
+           <subject encodinganalog="650" source="local">Museum buildings</subject>
+         </controlaccess>
+        
+        
+        
+        
+         <controlaccess>
+           <head>Physical Characteristics of Materials in the Collection</head>
+           <genreform encodinganalog="655$a" source="aat">Architectural drawings</genreform>
+           <genreform encodinganalog="655$a" source="aat">Floor plans</genreform>
+           <genreform encodinganalog="655$a" source="aat">Drawings</genreform>
+         </controlaccess>
+        
+      
+      </controlaccess>
+    <dsc type="combined" id="a23">
+      
+      <c01 level="file">
+        <did>
+          <unittitle>Oversize</unittitle>
+        </did>
+        <c02 level="file">
+          <did>
+            <container label="Box">Oversize</container>
+            <unittitle>Folder 1 Concept Drawing - Restaurant Addition Interior</unittitle>
+          </did>
+          <note>
+            <list>
+              <item>Concept Drawing - Restaurant Addition Exterior</item>
+              <item>First Floor Plan - Restaurant Addition, 1983</item>
+              <item>Site Plan - Restaurant Addition, 1983 (2 sheets)</item>
+              <item>North Elevation - Restaurant Addition, 1983 (2 sheets)</item>
+            </list>
+          </note>
+        </c02>
+      
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

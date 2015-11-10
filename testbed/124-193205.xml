@@ -1,0 +1,559 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "../ead_dtd/ead.dtd" [
+<!ENTITY scrc_name SYSTEM "scrc_name.txt">
+<!ENTITY su_address SYSTEM "su_address.txt">
+<!ENTITY su_name SYSTEM "su_name.txt">
+<!ENTITY subjindex SYSTEM "subjindex.txt">
+<!ENTITY summitref SYSTEM "summit_ref.txt">
+]>
+
+<!-- TEMPLATE VERSION 1.5, 5/26/2006 -->
+<!--Added description of how to enter revisions-->
+
+<ead relatedencoding="MARC21">
+	<!--All items are required unless marked OPT.  Any optional items 
+not used should be commented out so that they don't appear in the viewable
+ document.-->
+
+<eadheader audience="internal" langencoding="iso639-2b" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924" relatedencoding="DC">
+		<eadid countrycode="us" mainagencycode="NSyU" identifier="kordalewski_j">kordalewski_j</eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper encodinganalog="Title">Jean Kordalewski Papers</titleproper>
+				<subtitle>An inventory of her papers at Syracuse University</subtitle>
+			<author encodinganalog="Creator">MRR</author></titlestmt>
+			<publicationstmt>
+				<publisher encodinganalog="Publisher"><lb/></publisher>
+				
+				<date normal="2006-05-30" encodinganalog="Date">30 May 2006</date>
+			</publicationstmt>
+		</filedesc>
+		<profiledesc>
+			<creation>Michele Rothenberger
+				<date normal="2006-05-30">30 May 2006</date>
+			</creation>
+			<langusage>
+				<language langcode="eng" encodinganalog="Language">English</language>
+			</langusage>
+		</profiledesc>
+		<!--Enter revisions in the format "## date - ## change (## initials)"--><revisiondesc>
+			<list>
+				<item>19 Jul 2006 - minor changes to subject headings (MRR)</item><item>10 Jan 2007 - additions, reboxed (MRR)</item>
+			</list>
+		</revisiondesc>
+	</eadheader>
+	<archdesc level="collection" type="inventory" relatedencoding="MARC21">
+		<did>
+			<head>Overview of the Collection</head>
+			<repository encodinganalog="852$a" label="Repository: ">
+			 <lb/> 
+			</repository>
+			<origination label="Creator: ">
+				<persname encodinganalog="100">Kordalewski, Jean B.</persname>
+			</origination>
+			<unittitle encodinganalog="245$a" label="Title: ">Jean Kordalewski Papers</unittitle>
+			<unitdate encodinganalog="245$f" normal="1971/1990" type="inclusive" label="Inclusive Dates: ">1971-1990</unitdate>
+			  <physdesc encodinganalog="300$a" label="Quantity: "><extent>2 linear ft.</extent></physdesc>
+			<abstract encodinganalog="520$a" label="Abstract: ">Correspondence, conference material, proposals, reports, most concerning the Regional Learning Service (RLS) of which Kordalewski was the first executive director, and the Education Information Centers (EIC) set up by the RLS.</abstract>
+			<unitid encodinganalog="099" label="Identification: " countrycode="us" repositorycode="NSyU">2458713</unitid>
+			<langmaterial label="Language: " encodinganalog="546"><language langcode="eng">English</language>
+			</langmaterial>
+		</did>
+				
+		<bioghist encodinganalog="545">
+			<head>Biographical History</head>
+			
+		<p>Jean Kordalewski was a pioneer in the field of adult education, particularly in the areas of connecting people with educational information and services, and widening their options through education, career and job counseling.   She was a consultant for and later the first executive director of the Regional Learning Service (RLS), which today (2006) is the RLS Career Center and which provides assistance and information to adults wishing to find, change or improve their employment.   RLS began as a project of the Syracuse Research Corporation in 1974; Kordalewski was instrumental in establishing it as an independent, non-profit agency.  She also worked on various projects aiming to recognize non-traditional learning such as the External High School Diploma program and the External Degree Program.</p></bioghist>
+		
+		<scopecontent encodinganalog="520">
+			<head>Scope and Contents of the Collection</head>
+			<p>The <emph render="bold">Jean Kordalewski Papers</emph> reflects Kordalewski's interest in a wide range of adult and continuing education issues, particularly her work with the Regional Learning Service (RLS) and Education Information Centers (EICs) in Central New York.  </p><p><emph render="bold">Correspondence-subject files</emph> contains letters, proposals, meeting minutes and other material relating to a variety of adult and continuing education activities such as the External High School Diploma, the External Degree Program, relevant state legislation, Guidance Team Training, and more.  <emph render="bold">Conferences and workshops</emph> includes correspondence and conference material from conferences which Kordalewski organized, participated in, or presented at; of particular interest are the EIC Training Workshops which cover a number of relevant issues for EIC personnel such as serving special-needs population and publicizing the value of EICs; and the Regents' Regional Conferences.  The <emph render="bold">Education Information Center (EIC)</emph> series, arranged chronologically to better represent the evolution of the EICs, includes client surveys, reports, summative evaluations, project descriptions and more.  The <emph render="bold">Regional Learning Service (RLS)</emph> series includes two proposals for funding, press releases for a regular Madison County newspaper column, weekly reports, and an important paper by Stephen K. Bailey and Francis U. Macy, <ref target="skb-fum">"Regional Learning Service: A Design for Educational Flexibility"</ref> (1974).   (Bailey, a New York State Regent and Chairman of Syracuse Research Corporation's Policy Institute, and Macy, also of the Policy Institute,  formulated the notion of a brokering service that would provide career and educational counseling to adults; one result of this was the RLS.) Four folders of <emph render="bold">Miscellaneous printed material</emph> complete the  collection.</p>
+		</scopecontent>
+		
+		<!--<arrangement encodinganalog="351$a">
+			<head>Arrangement of the Collection</head>
+			<p>## OPT (MARC 351$a)</p>
+		</arrangement>-->
+		
+		<relatedmaterial encodinganalog="544 1">
+			<head>Related Material</head>
+			<p>The library holds a considerable number of collections related to adult and continuing education.  Please refer to  for a complete listing. </p><p>In particular, additional information on External Degree Programs may be found in the <extref href="../c/cceu.htm">Council on the Continuing Education Unit (CCEU) Records</extref>.  A small amount of material on the Regional Learning Service may be found in the <extref href="../c/crea.htm">Clearinghouse Resources for Educators of Adults (CREA) Records</extref>.</p>  <p>The circulating collection has a copy of Jean Kordalewski's <emph render="italic">The Regional Learning Service : an experiment in freeing up lives</emph>.  Please use  to locate it.</p>
+		</relatedmaterial>
+		
+		<!--<separatedmaterial encodinganalog="544 0">
+			<head>Separated Material</head>
+			<p>## OPT (MARC 544 0)</p>
+		</separatedmaterial>-->
+		
+		<!--<otherfindaid encodinganalog="555">
+			<head>Other Related Finding Aids</head>
+			<p>## OPT (MARC 555)</p>
+		</otherfindaid>-->
+		
+		<controlaccess>
+			<head>Subject and Genre Headings</head><subject encodinganalog="650" source="local">Adult education</subject>
+			<!--For each, include source if possible (aat, lcsh, local, etc).  
+Some have defaults set in the template.-->
+            <persname encodinganalog="600" source="lcnaf"> Kordalewski, Jean B.</persname>
+			
+            <corpname encodinganalog="610" source="lcnaf">Regional Learning Service of Central New York</corpname>
+            
+            <subject encodinganalog="650" source="lcsh">Counseling in adult education</subject><subject encodinganalog="650" source="lcsh">Educational consultants</subject><subject encodinganalog="650" source="lcsh">Vocational guidance</subject>
+			<subject encodinganalog="650" source="lcsh">Adult education</subject><subject encodinganalog="650" source="lcsh">Alternative education</subject><subject encodinganalog="650" source="lcsh">Continuing education</subject>
+			
+            
+			
+            
+            <genreform encodinganalog="655" source="aat">Correspondence</genreform><genreform encodinganalog="655" source="aat">Minutes</genreform><genreform encodinganalog="655" source="aat">Proposals</genreform><genreform encodinganalog="655" source="aat">Reports</genreform><genreform encodinganalog="655" source="aat">Workshops (seminars)</genreform>
+			<occupation encodinganalog="656" source="lcsh">Adult education teachers</occupation><occupation encodinganalog="656" source="lcsh">Teachers</occupation>
+			
+			
+			</controlaccess>
+		
+		<accessrestrict encodinganalog="506">
+			<head>Access Restrictions</head>
+			<p>There are no access restrictions on this material.</p>
+		</accessrestrict>
+		
+		<userestrict encodinganalog="540">
+			<head>Use Restrictions</head>
+			<p>Written permission must be obtained from SCRC and all relevant rights holders before publishing quotations, excerpts or images from any materials in this collection.</p>
+		</userestrict>
+		
+		<prefercite encodinganalog="524">
+			<head>Preferred Citation</head>
+			<p>Preferred citation for this material is as follows:</p>
+			<p> Jean Kordalewski Papers, <lb/>  </p>
+		</prefercite>
+		
+		<acqinfo encodinganalog="541">
+			<head>Acquisition Information</head>
+			<p>Gift of <persname role="donor">Jean Kordalewski</persname>, 1994.</p>
+		</acqinfo>
+		
+		<!--<appraisal encodinganalog="583">
+			<head>Appraisal Information</head>
+			<p>## OPT (MARC 583)</p>
+		</appraisal>-->
+		
+		<!--<accruals encodinganalog="584">
+			<head>Accruals</head>
+			<p>## OPT (MARC 584)</p>
+		</accruals>-->
+		
+		<dsc type="combined">
+			<head>Inventory</head>
+			<c01 level="series">
+				<did>
+					<unittitle>Correspondence-subject files</unittitle>
+				</did>
+				<c02>
+					<did>
+						<unittitle>Advisory Council on Adult Learning Services</unittitle>
+						
+						<unitdate normal="1978" type="inclusive">1978</unitdate><container type="Box">1</container>
+						
+						
+						
+					</did>
+				</c02>
+			<c02>
+					<did>
+						<unittitle>Community Council on Careers</unittitle>
+						
+						<unitdate normal="1978/1979" type="inclusive">1978-1979</unitdate><container type="Box">1</container>
+						
+						
+						
+					</did>
+				</c02><c02 level="subseries">
+					<did>
+						<unittitle>External Degree Program</unittitle>
+						
+						
+						
+						
+						
+					</did>
+				<c03><did><unittitle>Areas of competency</unittitle><unitdate normal="1971" type="inclusive">1971</unitdate><physdesc><extent>2 folders</extent></physdesc><container type="Box">1</container></did></c03><c03><did><unittitle>Clippings</unittitle><unitdate normal="1972/1973" type="inclusive">1972-1973, </unitdate><unitdate normal="1975" type="inclusive">1975, </unitdate><unitdate normal="1979" type="inclusive">1979, </unitdate><unitdate normal="1980" type="inclusive">1980, </unitdate><unitdate normal="1985/1986" type="inclusive">1985-1986, </unitdate><unitdate normal="1990" type="inclusive">1990, </unitdate><unitdate normal="1971/1990" type="inclusive">undated</unitdate><container type="Box">1</container></did></c03><c03><did><unittitle>Correspondence</unittitle><unitdate normal="1973/1992" type="inclusive">1973-1992</unitdate><container type="Box">1</container></did></c03><c03><did><unittitle>Newsletters</unittitle><unitdate normal="1973/1992" type="inclusive">1971-1972, </unitdate><unitdate normal="1973/1992" type="inclusive">1977</unitdate><container type="Box">1</container></did></c03><c03><did><unittitle>Printed material (photocopies)</unittitle></did></c03></c02><c02 level="subseries">
+					<did>
+						<unittitle>External High School Diploma Program</unittitle>
+						
+						
+						
+						
+						
+					</did>
+				<c03><did><unittitle>"Alternative paths to the high school diploma" (Stephen Bailey, Francis Macy, Donn Vickers)</unittitle><physdesc><extent>2 folders</extent></physdesc><container type="Box">1</container></did></c03><c03><did><unittitle>Proposal</unittitle><unitdate normal="1973" type="inclusive">1973</unitdate><container type="Box">1</container></did></c03><c03><did><unittitle>Reports</unittitle><unitdate normal="1975/1976" type="inclusive">1975-1976</unitdate><container type="Box">1</container></did></c03><c03><did><unittitle>Miscellaneous</unittitle><container type="Box">2</container></did></c03></c02><c02>
+					<did>
+						<unittitle>Guidance Team Training</unittitle>
+						
+						<unitdate normal="1980" type="inclusive">1980</unitdate><container type="Box">2</container>
+						
+						
+						
+					</did>
+				</c02><c02>
+					<did>
+						<unittitle>"The Heavenly Seven"</unittitle>
+						
+						<abstract>informal name of an organization formed of alumnae from the Seven Sister schools (Bryn Mawr, Wellesley, Radcliffe, Barnard, Mount Holyoke, Vassar, Smith) focused on womens' careers; bulk concerns "DIRECTIONS," a workshop offered by the group in Sep 1979</abstract><unitdate normal="1978/1979" type="inclusive">1978-1979</unitdate><container type="Box">2</container>
+						
+						
+						
+					</did>
+				</c02><c02>
+					<did>
+						<unittitle>Higher Education Library Advisory Service (HELAS)  project</unittitle>
+						
+						<unitdate normal="1972/1982" type="inclusive">1977?</unitdate><container type="Box">2</container>
+						
+						
+						
+					</did>
+				</c02><c02 id="kefo">
+					<did>
+						<unittitle>Kellogg Foundation</unittitle>
+						
+						<unitdate normal="1977" type="inclusive">1977</unitdate><container type="Box">2</container>
+						
+						
+						
+					</did>
+				<note><p>See also Regional Learning Service (RLS): <ref target="pkf">Proposal to Kellogg Foundation</ref></p></note></c02><c02 id="legi">
+					<did>
+						<unittitle>Legislation</unittitle>
+						
+						<abstract>legislation to continue funding for Education Information Centers (EICs)</abstract><unitdate normal="1983" type="inclusive">1983, </unitdate><unitdate normal="1988" type="inclusive">1988</unitdate><container type="Box">2</container>
+						
+						
+						
+					</did>
+				</c02><c02>
+					<did>
+						<unittitle>New York State Plan for Career Education</unittitle>
+						
+						<abstract>covers elementary, secondary, post-secondary</abstract><unitdate normal="1979" type="inclusive">1979</unitdate><container type="Box">2</container>
+						
+						
+						
+					</did>
+				</c02><c02 level="subseries">
+					<did>
+						<unittitle>Proposals</unittitle>
+						
+						</did>
+				<c03><did><unittitle>"Establishment of an Educational Opportunity Center in Central New York"</unittitle><unitdate normal="1974" type="inclusive">1974</unitdate><container type="Box">2</container>
+						
+						
+						
+					</did></c03><c03><did><unittitle>"Projects in Womens' Counseling and Educational Change"</unittitle><unitdate normal="1977" type="inclusive">1977</unitdate><container type="Box">2</container>
+						
+						
+						
+					</did></c03></c02><c02>
+					<did>
+						<unittitle>"Recognizing Adult Education in Onondaga County" (exhibit)</unittitle>
+						
+						<unitdate normal="1991/1992" type="inclusive">1991-1992</unitdate><container type="Box">2</container>
+						
+						
+						
+					</did>
+				</c02><c02>
+					<did>
+						<unittitle>Syracuse Research Corporation affirmative action plan</unittitle>
+						
+						<unitdate normal="1977" type="inclusive">1977</unitdate><container type="Box">2</container>
+						
+						
+						
+					</did>
+				</c02><c02>
+					<did>
+						<unittitle>Women's Project</unittitle>
+						
+						<unitdate normal="1981" type="inclusive">1981</unitdate><container type="Box">2</container>
+						
+						
+						
+					</did>
+				</c02></c01><c01 level="series"><did>
+						<unittitle>Conferences and workshops</unittitle>
+						
+						
+						
+						
+						
+					</did><c02 id="eict">
+					<did>
+						<unittitle>EIC Training Workshop</unittitle>
+						
+						<physdesc><extent>5 folders</extent></physdesc><unitdate normal="1988" type="inclusive">1988, </unitdate><unitdate normal="1989" type="inclusive">1989, </unitdate><unitdate normal="1990" type="inclusive">1990</unitdate><container type="Box">2</container>
+						
+						
+						
+					</did>
+				<note><p>See also <ref target="eics">Education Information Centers (EICs)</ref></p></note></c02><c02>
+					<did>
+						<unittitle>Literacy teleconference</unittitle>
+						
+						<unitdate normal="1984/1985" type="inclusive">1984-1985</unitdate><container type="Box">3</container>
+						
+						
+						
+					</did>
+				</c02><c02>
+					<did>
+						<unittitle>"Next Century" seminar</unittitle>
+						
+						<unitdate normal="1982/1983" type="inclusive">1982-1983</unitdate><container type="Box">3</container>
+						
+						
+						
+					</did>
+				</c02><c02>
+					<did>
+						<unittitle>Regents' Regional Conference</unittitle>
+						
+						<physdesc><extent>6 folders</extent></physdesc><unitdate normal="1977/1984" type="inclusive">1977-1984</unitdate><container type="Box">3</container>
+						
+						
+						
+					</did>
+				</c02></c01><c01 level="series" id="eics"><did><unittitle>Education Information Center (EIC)</unittitle></did><note><p>See also Conferences and workshops: <ref target="eict">EIC Training Workshop</ref></p></note><c02>
+					<did>
+						<unitdate normal="1978" type="inclusive">1978</unitdate><unittitle>"New York State Plan for the Administration of the Education Information Center"</unittitle>
+						
+						<container type="Box">3</container>
+						
+						
+						
+					</did>
+				</c02><c02>
+					<did>
+						<unitdate normal="1980" type="inclusive">1980</unitdate><unittitle>EIC Advisory Committee meeting</unittitle>
+						
+						<container type="Box">3</container>
+						
+						
+						
+					</did>
+				</c02><c02>
+					<did>
+						<unitdate normal="1982" type="inclusive">1982</unitdate><unittitle>Annual report</unittitle>
+						
+						<container type="Box">3</container>
+						
+						
+						
+					</did>
+				</c02><c02>
+					<did>
+						<unitdate normal="1983" type="inclusive">1983</unitdate><unittitle>Client survey tally</unittitle>
+						
+						<container type="Box">3</container>
+						
+						
+						
+					</did>
+				</c02><c02>
+					<did>
+						<unitdate normal="1983" type="inclusive">1983</unitdate><unittitle>Evaluation and progress report</unittitle>
+						
+						<container type="Box">3</container>
+						
+						
+						
+					</did>
+				</c02><c02>
+					<did>
+						<unitdate normal="1983" type="inclusive">1983</unitdate><unittitle>Summative evaluation report</unittitle>
+						
+						<container type="Box">3</container>
+						
+						
+						
+					</did>
+				</c02><c02>
+					<did>
+						<unitdate normal="1984" type="inclusive">1984</unitdate><unittitle>Press release</unittitle>
+						
+						<container type="Box">3</container>
+						
+						
+						
+					</did>
+				</c02><c02>
+					<did>
+						<unitdate normal="1984/1985" type="inclusive">1984-1985</unitdate><unittitle>Project description</unittitle>
+						
+						<container type="Box">3</container>
+						
+						
+						
+					</did>
+				</c02><c02>
+					<did>
+						<unitdate normal="1985" type="inclusive">1985</unitdate><unittitle>Final report</unittitle>
+						
+						<container type="Box">3</container>
+						
+						
+						
+					</did>
+				</c02><c02>
+					<did>
+						<unitdate normal="1986/1987" type="inclusive">1986-1987</unitdate><unittitle>Project description</unittitle>
+						
+						<container type="Box">3</container>
+						
+						
+						
+					</did>
+				</c02><c02>
+					<did>
+						<unitdate normal="1988/1989" type="inclusive">1988-1989</unitdate><unittitle>Plans</unittitle>
+						
+						<container type="Box">3</container>
+						
+						
+						
+					</did>
+				</c02><c02>
+					<did>
+						<unittitle>Project description</unittitle>
+						
+						<unitdate type="inclusive" normal="1971/1990">undated</unitdate><container type="Box">3</container>
+						
+						
+						
+					</did>
+				</c02><c02>
+					<did>
+						<unittitle>Miscellaneous</unittitle>
+						
+						<container type="Box">3</container>
+						
+						
+						
+					</did>
+				</c02></c01><c01 level="series"><did><unittitle>Regional Learning Service (RLS)</unittitle></did><c02>
+					<did>
+						<unittitle>Madison County newspaper column</unittitle>
+						
+						<unitdate normal="1979" type="inclusive">1979</unitdate><container type="Box">4</container>
+						
+						
+						
+					</did>
+				</c02><c02>
+					<did>
+						<unittitle>Overview</unittitle>
+						
+						<unitdate type="inclusive" normal="1971/1990">undated</unitdate><container type="Box">4</container>
+						
+						
+						
+					</did>
+				</c02><c02>
+					<did>
+						<unittitle>Proposal to Carnegie Corporation</unittitle>
+						
+						<unitdate type="inclusive" normal="1977">1977</unitdate><container type="Box">4</container>
+						
+						
+						
+					</did>
+				</c02><c02 id="pkf">
+					<did>
+						<unittitle>Proposal to Kellogg Foundation</unittitle>
+						
+						<unitdate type="inclusive" normal="1977">1977</unitdate><container type="Box">4</container>
+						
+						
+						
+					</did>
+				<note><p>See also Correspondence-subject files: <ref target="kefo">Kellogg Foundation</ref></p></note></c02><c02 level="subseries">
+					<did>
+						<unittitle>Reports</unittitle>
+						
+						
+						
+						
+						
+					</did>
+				<c03><did>
+						<unittitle>"Evaluation Planning Site Visit Note" (Seeley, John A.)</unittitle>
+						
+						<unitdate normal="1983" type="inclusive">1983</unitdate><container type="Box">4</container>
+						
+						
+						
+					</did></c03><c03><did>
+						<unittitle>"Home Management and Human Service Competencies" (Nickse, Ruth S. et al)</unittitle>
+						
+						<unitdate type="inclusive" normal="1975">1975</unitdate><container type="Box">4</container>
+						
+						
+						
+					</did></c03><c03 id="skb-fum"><did>
+						<unittitle>"Regional Learning Service: A Design for Educational Flexibility" (Bailey, Stephen K. and Macy, Francis U.)</unittitle>
+						
+						<unitdate normal="1974" type="inclusive">1974</unitdate><container type="Box">4</container>
+						
+						
+						
+					</did></c03><c03><did>
+						<unittitle>"Rural Women Activity Report" (Simberg, B. Marion)</unittitle>
+						
+						<unitdate type="inclusive" normal="1971/1990">undated</unitdate><container type="Box">4</container>
+						
+						
+						
+					</did></c03><c03><did>
+						<unittitle>Weekly reports</unittitle>
+						
+						<unitdate type="inclusive" normal="1978/1980">1978-1980</unitdate><physdesc><extent>3 folders</extent></physdesc><container type="Box">4, 5</container>
+						
+						
+						
+					</did></c03><c03><did>
+						<unittitle>Women's Career Handbook</unittitle>
+						
+						<unitdate type="inclusive" normal="1974">1974</unitdate><container type="Box">5</container>
+						
+						
+						
+					</did></c03></c02></c01><c01 level="series"><did><unittitle>Miscellaneous</unittitle></did><c02 level="subseries"><did><unittitle>Printed material</unittitle></did><c03><did>
+						<unittitle>"Federal Programs Authorizing Educational and Occupational Information Services" (Christoffel, Pamela et al)</unittitle>
+						
+						<unitdate type="inclusive" normal="1978">1978</unitdate><container type="Box">5</container>
+						
+						
+						
+					</did></c03><c03><did>
+						<unittitle>"History of Occupational and Continuing Education in New York State" (presentation by Poczik, Robert)</unittitle>
+						
+						<unitdate type="inclusive" normal="1971/1990">undated</unitdate><container type="Box">5</container>
+						
+						
+						
+					</did></c03><c03 id="gals"><did>
+						<unittitle><emph render="italic">New York State Goals for Adult Learning Services</emph> (University of the State of New York, State Education Department)</unittitle>
+						
+						<unitdate type="inclusive" normal="1981">1981</unitdate><container type="Box">5</container>
+						
+						
+						
+					</did></c03><c03><did>
+						<unittitle><emph render="italic">Recognition of Nontraditional Educational Experience</emph> (University of the State of New York, State Education Department)</unittitle>
+						
+						<unitdate type="inclusive" normal="1987">1987</unitdate><container type="Box">5</container>
+						
+						
+						
+					</did></c03></c02></c01>
+		</dsc>
+	</archdesc>
+</ead>

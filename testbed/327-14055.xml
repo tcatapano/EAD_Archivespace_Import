@@ -1,0 +1,867 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead audience="external" relatedencoding="MARC21">
+  <eadheader langencoding="iso639-2b" audience="internal" countryencoding="iso3166-1"
+    dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924"
+    relatedencoding="MARC21">
+    <eadid mainagencycode="DSI-AI" countrycode="us"
+      identifier="http://siarchives.si.edu/findingaids/FA10-152.xml" encodinganalog="856$u">
+      http://siarchives.si.edu/findingaids/FA10-152.xml</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper encodinganalog="245$a">Departmental Records, <date>1973-2008</date></titleproper>
+        <author encodinganalog="245$c">Finding aid prepared by Smithsonian Institution
+          Archives</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher encodinganalog="260$b">Smithsonian Institution Archives </publisher>
+        <address>
+          <addressline>Washington, D.C. </addressline>
+          <addressline>Contact us at <emph render="italic">osiaref@si.edu</emph></addressline>
+        </address>
+        <date type="publication"/>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>Finding aid encoded on <date normal="2000-01-01">7-11-2011</date></creation>
+      <langusage encodinganalog="546"> Finding aid written in <language encodinganalog="041"
+          langcode="eng">English</language>
+      </langusage>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection" type="inventory" relatedencoding="MARC21">
+    <did>
+      <head>Collection Overview</head>
+      <repository label="Repository:" encodinganalog="852$a">
+        <corpname encodinganalog="110">Smithsonian Institution Archives, </corpname>
+        <address>
+          <addressline>Washington, D.C., </addressline>
+          <addressline><emph render="italic">osiaref@si.edu</emph></addressline>
+        </address>
+      </repository>
+      <origination label="Creator:">
+        <persname encodinganalog="100">National Museum of Natural History,Dept. of Botany</persname>
+      </origination>
+      <note>
+        <p>SI Records</p>
+      </note>
+      <unittitle label="Title:" encodinganalog="245$a">Departmental Records</unittitle>
+      <unitdate label="Dates:" encodinganalog="245$f" normal="1971/2004">1973-2008</unitdate>
+      <physdesc label="Quantity:" encodinganalog="300$a">
+        <extent>5 cu. ft. (5 record storage boxes)</extent>
+      </physdesc>
+      <unitid encodinganalog="099" label="Collection:" countrycode="iso3166-1"
+        repositorycode="DSI-AI">Accession 10-152</unitid>
+      <langmaterial encodinganalog="546" label="Language of Materials:">
+        <language encodinganalog="041" langcode="eng">English</language>
+      </langmaterial>
+    </did>
+    <prefercite encodinganalog="510">
+      <head>Preferred Citation</head>
+      <p>Smithsonian Institution Archives, Accession 10-152, National Museum of Natural History,Dept. of Botany, Departmental Records</p>
+    </prefercite>
+    
+ 
+    
+    <scopecontent>
+    <head>Descriptive Entry</head>
+     <p>This accession documents the professional collaborations of the National Museum of Natural History, Department of Botany, with numerous organizations-most notably the 
+    Association for Tropical Biology. Materials also include exhibition records, memoranda and correspondence. All records were created or maintained by W. John Kress.</p> </scopecontent> 
+     
+     
+ 
+    
+    
+    
+    
+        
+      <controlaccess id="a12">
+      <head>Index Terms</head>
+      <p>This collection is indexed under the following access terms. These are links to collections
+      with related topics, persons or places.</p>
+        
+         <controlaccess>
+           <head>Name</head>
+           <famname encodinganalog="600" source="local">Kress, W. John</famname>
+           <famname encodinganalog="600" source="local">Association for Tropical Biology</famname>
+         </controlaccess>
+        
+        
+         <controlaccess>
+           <head>Subject</head>
+           <subject encodinganalog="650" source="local">Botany</subject>
+         </controlaccess>
+        
+        
+        
+        
+         <controlaccess>
+           <head>Physical Characteristics of Materials in the Collection</head>
+           <genreform encodinganalog="655$a" source="aat">Manuscripts</genreform>
+         </controlaccess>
+        
+      
+      </controlaccess>
+    <dsc type="combined" id="a23">
+      
+      <c01 level="file">
+        <did>
+          <unittitle>Box 1</unittitle>
+        </did>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 1 of 5</container>
+            <unittitle>Folder 1 Marquis, Bob 1995-1997</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 1 of 5</container>
+            <unittitle>Folder 2 Denslow Association for Tropical Biology (ATB) Information 1996-1998</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 1 of 5</container>
+            <unittitle>Folder 3 Travel Award Winners, ATB 1999-2001</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 1 of 5</container>
+            <unittitle>Folder 4 Travel Reimbursement 1999</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 1 of 5</container>
+            <unittitle>Folder 5 ATB Finances 1998</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 1 of 5</container>
+            <unittitle>Folder 6 ATB Key Papers Book 1998-2000</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 1 of 5</container>
+            <unittitle>Folder 7 ATB T-shirts 1999</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 1 of 5</container>
+            <unittitle>Folder 8 BioOne Electronic Licensing Agreement 2001</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 1 of 5</container>
+            <unittitle>Folder 9 ATB Bloomington Meeting 2000</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 1 of 5</container>
+            <unittitle>Folder 10 ATB Biotropica 1998-1999</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 1 of 5</container>
+            <unittitle>Folder 11 ATB Alwyn Gentry Student Paper Awards 1995-1998</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 1 of 5</container>
+            <unittitle>Folder 12 ATB Honorary Fellows 1984-1999</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 1 of 5</container>
+            <unittitle>Folder 13 ATB Travel Awards 1998-1999</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 1 of 5</container>
+            <unittitle>Folder 14 ATB JSTOR 1998-1999</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 1 of 5</container>
+            <unittitle>Folder 15 ATB Council Meeting 1998</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 1 of 5</container>
+            <unittitle>Folder 16 ATB General Correspondence 1998-2001</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 1 of 5</container>
+            <unittitle>Folder 17 ATB Strategic Plan 1998</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 1 of 5</container>
+            <unittitle>Folder 18 ATB The American Institute of Biological Sciences (AIBS) Affairs 1999</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 1 of 5</container>
+            <unittitle>Folder 19 ATB Allen Press 1998-1999</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 1 of 5</container>
+            <unittitle>Folder 20 ATB Biotropica 1997-1998</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 1 of 5</container>
+            <unittitle>Folder 21 1999 Meeting and Beyond 1999-2003</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 1 of 5</container>
+            <unittitle>Folder 22 ATB Catalogs, Services, etc. 1998-1999</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 1 of 5</container>
+            <unittitle>Folder 23 ATB Abstracts, Tropinet, American Funds Group (AFG) 1998-1999</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 1 of 5</container>
+            <unittitle>Folder 24 ATB Action! 1998</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 1 of 5</container>
+            <unittitle>Folder 25 ATB Nominations and Awards 1998</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 1 of 5</container>
+            <unittitle>Folder 26 J. Kress ATB 1997</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 1 of 5</container>
+            <unittitle>Folder 27 ATB Correspondence/Tropinet 1997</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 1 of 5</container>
+            <unittitle>Folder 28 ATB at International Botanical Congress (IBC) 1999</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 1 of 5</container>
+            <unittitle>Folder 29 ATB Council Meeting in St. Louis 1999</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 1 of 5</container>
+            <unittitle>Folder 30 Allen Press Proofs Biotropica 2001</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 1 of 5</container>
+            <unittitle>Folder 31 ATB Annual Reports to Council 1986-1994</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 1 of 5</container>
+            <unittitle>Folder 32 ATB Awards 1986-1996</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 1 of 5</container>
+            <unittitle>Folder 33 ATB Ballots 1982-1997</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 1 of 5</container>
+            <unittitle>Folder 34 ATB By-Laws 1973-1996</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Box 2</unittitle>
+        </did>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 2 of 5</container>
+            <unittitle>Folder 1 ATB Council Correspondence 1983-1998</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 2 of 5</container>
+            <unittitle>Folder 2 ATB Forms, Addresses, Phone Numbers 1990-1991</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 2 of 5</container>
+            <unittitle>Folder 3 ATB Associate Management Renewal Records 1994-1997</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 2 of 5</container>
+            <unittitle>Folder 4 Biotropica Online Services 1997-1998</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 2 of 5</container>
+            <unittitle>Folder 5 ATB Editor, Board of Editors (BOE) 1995-1998</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 2 of 5</container>
+            <unittitle>Folder 6 Allen Press, Contract 1993-1998</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 2 of 5</container>
+            <unittitle>Folder 7 ATB Evans 1994-1997</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 2 of 5</container>
+            <unittitle>Folder 8 Evans Fund - Current 1996-1998</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 2 of 5</container>
+            <unittitle>Folder 9 ATB Gratis Subscriptions 1996</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 2 of 5</container>
+            <unittitle>Folder 10 ATB Home Page 1995-1998</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 2 of 5</container>
+            <unittitle>Folder 11 U.S. Forest Service (USFS) Literacy Project Latin American Library Enhancement Project (LALEP) 1991-1992</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 2 of 5</container>
+            <unittitle>Folder 12 ATB Organization for Tropical Studies (OTS) Meeting 1996-1997</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 2 of 5</container>
+            <unittitle>Folder 13 ATB Meetings Plans 1991-1996</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 2 of 5</container>
+            <unittitle>Folder 14 ATB Meetings 1979-1990</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 2 of 5</container>
+            <unittitle>Folder 15 Reprint Permissions 1991-1997</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 2 of 5</container>
+            <unittitle>Folder 16 ATB Rhode Island 1995-1997</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 2 of 5</container>
+            <unittitle>Folder 17 ATB San Diego 1995</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 2 of 5</container>
+            <unittitle>Folder 18 Association for Tropical Biology and Conservation (ATBC) Name Change 2001- 2003</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 2 of 5</container>
+            <unittitle>Folder 19 ATBC Aberdeen Meeting 2002-2003</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 2 of 5</container>
+            <unittitle>Folder 20 Banquet 2003</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 2 of 5</container>
+            <unittitle>Folder 21 Tropinet 2001</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 2 of 5</container>
+            <unittitle>Folder 22 ATB Web 2002</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 2 of 5</container>
+            <unittitle>Folder 23 ATB Discussion, Next Meeting Location 2001-2002</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 2 of 5</container>
+            <unittitle>Folder 24 Biotropica, Allen Press, Budget 2001-2002</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 2 of 5</container>
+            <unittitle>Folder 25 ATB Meeting 2002 Panama 2002</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 2 of 5</container>
+            <unittitle>Folder 26 ATB Meeting 2001 Bangalore 2000-2001</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 2 of 5</container>
+            <unittitle>Folder 27 Notes/Messages for John Kress 1998-2008</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 2 of 5</container>
+            <unittitle>Folder 28 Notes/Messages for John Kress 2002-2005</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Box 3</unittitle>
+        </did>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 3 of 5</container>
+            <unittitle>Folder 1 ATB Retreat February 2002, 2001-2002</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 3 of 5</container>
+            <unittitle>Folder 2 ATB Retreat Expenses 2002</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 3 of 5</container>
+            <unittitle>Folder 3 Bangalore Trip July 2001, 2001</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 3 of 5</container>
+            <unittitle>Folder 4 Research Priorities in Tropical Biology, No Date</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 3 of 5</container>
+            <unittitle>Folder 5 ATB Council Materials Bangalore 2001</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 3 of 5</container>
+            <unittitle>Folder 6 Ashoka Trust for Research in Ecology and the Environment 1999-2001</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 3 of 5</container>
+            <unittitle>Folder 7 ATB Council Bangalore 2001</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 3 of 5</container>
+            <unittitle>Folder 8 Electronic Biotropica/Meeting Minutes 2000-2001</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 3 of 5</container>
+            <unittitle>Folder 9 Kress Correspondence, Messages, Notes 1998-1999</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 3 of 5</container>
+            <unittitle>Folder 10 Kress Correspondence, Messages, Notes 1999-2000</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 3 of 5</container>
+            <unittitle>Folder 11 Kress Correspondence, Messages, Notes 2001-2002</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 3 of 5</container>
+            <unittitle>Folder 12 Kress Correspondence, Messages, Notes 1999-2004</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 3 of 5</container>
+            <unittitle>Folder 13 Kress Correspondence, Messages, Notes 2004-2005</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 3 of 5</container>
+            <unittitle>Folder 14 Vision Statement for the National Museum of Natural History (NMNH) Collections 2001</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 3 of 5</container>
+            <unittitle>Folder 15 Draft Report of FY 2000 Collections Profiling Project 2000</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 3 of 5</container>
+            <unittitle>Folder 16 Smithsonian Science Strategic Direction 2001</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 3 of 5</container>
+            <unittitle>Folder 17 Global Environmental Alliance - China 2000</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 3 of 5</container>
+            <unittitle>Folder 18 Kress Correspondence, Notes 2000</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 3 of 5</container>
+            <unittitle>Folder 19 Kress Correspondence 2003</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 3 of 5</container>
+            <unittitle>Folder 20 Botany 2002</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 3 of 5</container>
+            <unittitle>Folder 21 Kress Miscellaneous Correspondence 2003-2004</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 3 of 5</container>
+            <unittitle>Folder 22 Publications 2003-2004</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 3 of 5</container>
+            <unittitle>Folder 23 Kress Notes 2002-2004</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 3 of 5</container>
+            <unittitle>Folder 24 Kress Miscellaneous 2001</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Box 4</unittitle>
+        </did>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 4 of 5</container>
+            <unittitle>Folder 1 Unites States Botanical Gardens (USBG) Luncheon 2002</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 4 of 5</container>
+            <unittitle>Folder 2 Caribbean Islands Project Overview 2001</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 4 of 5</container>
+            <unittitle>Folder 3 Coalition for Excellence in Tropical Biology (CETroB) National Science Foundation (NSF) 2001</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 4 of 5</container>
+            <unittitle>Folder 4 The Coalition for Excellence in Tropical Biology 2001</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 4 of 5</container>
+            <unittitle>Folder 5 Islands in the Storm 2001</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 4 of 5</container>
+            <unittitle>Folder 6 Memorandum of Understanding (MOU) for CETroB 2000</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 4 of 5</container>
+            <unittitle>Folder 7 CETroB and World Wildlife Fund (WWF) Meeting 2001</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 4 of 5</container>
+            <unittitle>Folder 8 CETroB Symposium 2000</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 4 of 5</container>
+            <unittitle>Folder 9 CETroB Miami Meeting 1999</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 4 of 5</container>
+            <unittitle>Folder 10 Mammals Hall 1998-2000</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 4 of 5</container>
+            <unittitle>Folder 11 USBG Exhibits 1999-2001</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 4 of 5</container>
+            <unittitle>Folder 12 USBG MOU Signing 2000</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 4 of 5</container>
+            <unittitle>Folder 13 USBG MOU Signing NMNH Original 2000</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 4 of 5</container>
+            <unittitle>Folder 14 CETroB 1999-2000</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 4 of 5</container>
+            <unittitle>Folder 15 CETroB Miami, 1999</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 4 of 5</container>
+            <unittitle>Folder 16 USBG 1999-2000</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 4 of 5</container>
+            <unittitle>Folder 17 CETroB - Miami 1998</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 4 of 5</container>
+            <unittitle>Folder 18 USBG 1998</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 4 of 5</container>
+            <unittitle>Folder 19 Biology Exhibits 1997-1999</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 4 of 5</container>
+            <unittitle>Folder 20 Biology Exhibits - Animal Hall 1998</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 4 of 5</container>
+            <unittitle>Folder 21 Biology Exhibits 1997</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Box 5</unittitle>
+        </did>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 5 of 5</container>
+            <unittitle>Folder 1 Beyond Paradise Presentation 2004</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 5 of 5</container>
+            <unittitle>Folder 2 Beyond Paradise Biotropica 2004</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 5 of 5</container>
+            <unittitle>Folder 3 Beyond Paradise Brochures 2004</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 5 of 5</container>
+            <unittitle>Folder 4 Beyond Paradise Science 2004</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 5 of 5</container>
+            <unittitle>Folder 5 Beyond Paradise Press Release 2004</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 5 of 5</container>
+            <unittitle>Folder 6 Beyond Paradise Articles and Draft Outline 2004</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 5 of 5</container>
+            <unittitle>Folder 7 Beyond Paradise Plan of Action 2004</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 5 of 5</container>
+            <unittitle>Folder 8 ATB Retreat II, 2001-2003</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 5 of 5</container>
+            <unittitle>Folder 9 Beyond Paradise Aberdeen 2003</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 5 of 5</container>
+            <unittitle>Folder 10 ATB White Paper Drafts</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 5 of 5</container>
+            <unittitle>Folder 11 Sherwood Exhibit at National Museum of Natural History (NMNH) 2001-2002</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 5 of 5</container>
+            <unittitle>Folder 12 Sherwood Exhibit Letters, Articles 2003</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 5 of 5</container>
+            <unittitle>Folder 13 ATB Retreat 2001-2002</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 5 of 5</container>
+            <unittitle>Folder 14 Sherwood Exhibit Press Preview 2001-2003</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 5 of 5</container>
+            <unittitle>Folder 15 ATB Priorities Workshop 2001-2002</unittitle>
+          </did>
+        </c02>
+      
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

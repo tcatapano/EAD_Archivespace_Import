@@ -1,0 +1,1613 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd Encoded Archival Description (EAD) Version 2002//EN" "/eadcb/shared/ead/ead.dtd">
+
+<ead>
+  <eadheader audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" id="a0" langencoding="iso639-2b" relatedencoding="MARC21" repositoryencoding="iso15511" scriptencoding="iso15924">
+    <eadid countrycode="us" encodinganalog="856$u" mainagencycode="ICIU" url="http://www.uic.edu/depts/lib/specialcoll/services/rjd/findingaids/OffStreet.xml">OffStreet</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper encodinganalog="245$a">Off-The-Street Club Records</titleproper>
+        <subtitle>An inventory of the collection at the University of Illinois at Chicago</subtitle>
+      </titlestmt>
+      <publicationstmt>
+        <publisher encodinganalog="260$b">University of Illinois at Chicago</publisher>
+        <date encodinganalog="260$c" type="publication">2006-02-15</date>
+        <address>
+          <addressline>University Library</addressline>
+          <addressline>Chicago, IL</addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation encodinganalog="500">Finding aid encoded by Aaron Berkowitz on
+
+        <date>2006-02-15</date></creation>
+      <langusage>Finding aid written in 
+        <language encodinganalog="546" langcode="eng" scriptcode="latn">English</language></langusage>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection" relatedencoding="MARC21" type="inventory">
+    <did id="a1">
+      <head>Collection Summary</head>
+      <repository encodinganalog="852" label="Repository:">
+        <corpname>University of Illinois at Chicago</corpname>
+      </repository>
+      <origination encodinganalog="110" label="Creator:">
+        <corpname>Off-The-Street Club</corpname>
+      </origination>
+      <unittitle encodinganalog="245$a" label="Title:">Off-The-Street Club Records</unittitle>
+      <unitdate encodinganalog="245$f" label="Dates:" normal="1902/1975" type="inclusive">1902-1975</unitdate>
+      <physdesc encodinganalog="300$a" label="Quantity:">
+        <extent encodinganalog="300">9 linear ft.</extent>
+      </physdesc>
+      <abstract encodinganalog="520" label="Abstract:">The Off-The-Street Club (OTSC), Chicago's oldest boys and girls club, is a club for children and young adults located on Chicago's west side. The collection consists of annual reports, correspondence, organizational charts, newspaper clippings, newsletters, radio and television scripts, surveys, manuals, programs, published material, and photographs. </abstract>
+      <unitid countrycode="us" encodinganalog="099" label="Identification:" repositorycode="ICIU">OffStreet</unitid>
+      <langmaterial encodinganalog="546$a">
+        <language langcode="eng" scriptcode="latn">English</language>
+      </langmaterial>
+    </did>
+    <!-- COLLECTION METADATA (i.e., Biography, Scope, Bibliography, etc.) GO HERE: -->
+    <bioghist altrender="biography" encodinganalog="545" id="a2">
+      <head>Administrative History</head>
+      <p>The Off-The-Street Club (OTSC), Chicago's oldest boys and girls club, is a club for children and young adults located on Chicago's west side. The Club, originally named "Juniors," was founded by John McMurray in 1898 as a safe place for unsupervised children to play. The Club was funded in its early years by the Chicago Advertising Club. Gradually, the Club began expanding its services from simply providing facilities to sponsoring programs including health care programs, and a summer camp in Wheaton, Illinois. In 1955, the Club moved from its Jackson Boulevard premises to the West Garfield Park community.</p>
+    </bioghist>
+    <scopecontent encodinganalog="520" id="a3">
+      <head>Scope and Contents</head>
+      <p>The collection consists of annual reports, correspondence, organizational charts, newspaper clippings, newsletters, radio and television scripts, surveys, manuals, programs, published material, and photographs. The materials pertain to the OTSC programs and activities, fundraising appeals, conventions, August Mathieu, and Work Projects Administration activities.</p>
+    </scopecontent>
+    <!-- END COLLECTION METADATA -->
+<!-- CONTROLLED ACCESS TERMS GO HERE: -->
+    <controlaccess id="a12">
+      <head>Index Terms</head>
+      <p>This record series is indexed under the following controlled access subject terms.</p>
+      <controlaccess>
+        <head>Subjects:</head>
+        <subject encodinganalog="650" source="lcsh">Mathieu, August--Sources.</subject>
+        <subject encodinganalog="650" source="lcsh">Off-the-Street Club (Chicago, Ill.)--Archives.</subject>
+        <subject encodinganalog="650" source="lcsh">United States. Work Projects Administration (Ill.)--Sources.</subject>
+        <subject encodinganalog="650" source="lcsh">Garfield Park (Chicago, Ill.)--Sources.</subject>
+      </controlaccess>
+      <controlaccess>
+        <subject source="local">Hull-House and Settlement House History</subject>
+      </controlaccess>
+    </controlaccess>
+    <!-- END CONTROLLED ACCESS TERMS -->
+<!-- ADMINISTRATIVE INFORMATION (i.e., Access Restrictions) GOES HERE: -->
+
+
+
+<!-- END ADMINISTRATIVE INFORMATION -->
+
+
+<!-- START DESCRIPTION OF SUBORDINATE COMPONENTS-->
+    <dsc id="a23" type="combined">
+      <head>Detailed Description/Box and Folder Listing</head>
+      <c01 level="series">
+        <did>
+          <unittitle>Series I</unittitle>
+        </did>
+        <c02 level="file">
+          <did>
+            <container type="box">0</container>
+            <container type="folder">1</container>
+            <unittitle>Annual reports, 
+              <unitdate encodinganalog="245$f" normal="1902/1931" type="inclusive">1902-1931</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">0</container>
+            <container type="folder">2</container>
+            <unittitle>Annual reports, 
+              <unitdate encodinganalog="245$f" normal="1932" type="inclusive">1932</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">0</container>
+            <container type="folder">3</container>
+            <unittitle>Annual reports, 
+              <unitdate encodinganalog="245$f" normal="1937/1940" type="inclusive">1937-1940</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">0</container>
+            <container type="folder">4</container>
+            <unittitle>Annual reports, 
+              <unitdate encodinganalog="245$f" normal="1941" type="inclusive">1941</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">0</container>
+            <container type="folder">5</container>
+            <unittitle>Annual reports, 
+              <unitdate encodinganalog="245$f" normal="1943/1964" type="inclusive">1943-1964</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">0</container>
+            <container type="folder">6</container>
+            <unittitle>Appeal to Wieboldt Foundation, 
+              <unitdate encodinganalog="245$f" normal="1937/1940" type="inclusive">1937-1940</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">0</container>
+            <container type="folder">7</container>
+            <unittitle>Boys Club conventions, 
+              <unitdate encodinganalog="245$f" normal="1937/1962" type="inclusive">1937-1962</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">0</container>
+            <container type="folder">8</container>
+            <unittitle>Character guild, 
+              <unitdate encodinganalog="245$f" normal="1920/1932" type="inclusive">1920-1932</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">0</container>
+            <container type="folder">9</container>
+            <unittitle>Charles Stoddard Jubilee Dinner, 
+              <unitdate encodinganalog="245$f" normal="1925" type="inclusive">1925</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">0</container>
+            <container type="folder">10</container>
+            <unittitle>Cheating the Streets, 
+              <unitdate encodinganalog="245$f" normal="1939" type="inclusive">1939</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">0</container>
+            <container type="folder">11</container>
+            <unittitle>Club members' activities, 
+              <unitdate encodinganalog="245$f" normal="1945/1961" type="inclusive">1945-1961</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">0</container>
+            <container type="folder">12</container>
+            <unittitle>Community Fund allocations, 
+              <unitdate encodinganalog="245$f" normal="1938" type="inclusive">1938</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">0</container>
+            <container type="folder">13</container>
+            <unittitle>Correspondence - letters from soldiers, 
+              <unitdate encodinganalog="245$f" normal="1942/1951" type="inclusive">1942-1951</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">0</container>
+            <container type="folder">14</container>
+            <unittitle>Correspondence, 
+              <unitdate encodinganalog="245$f" normal="1940/1964" type="inclusive">1940-1964</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">0</container>
+            <container type="folder">15</container>
+            <unittitle>Early history of club, 
+              <unitdate encodinganalog="245$f" normal="1916/1929" type="inclusive">1916-1929</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">0</container>
+            <container type="folder">16</container>
+            <unittitle>Financial aid - Atlas Club benefits, 
+              <unitdate encodinganalog="245$f" normal="1909/1926" type="inclusive">1909-1926</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">0</container>
+            <container type="folder">17</container>
+            <unittitle>Financial aid - baseball games, 
+              <unitdate encodinganalog="245$f" normal="1917/1925" type="inclusive">1917-1925</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">0</container>
+            <container type="folder">18</container>
+            <unittitle>Financial aid - Grand Beach County Fair, 
+              <unitdate encodinganalog="245$f" normal="1918/1923" type="inclusive">1918-1923</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">0</container>
+            <container type="folder">19</container>
+            <unittitle>Financial aid - Junior Women's Advertising Club Fashion Show, 
+              <unitdate encodinganalog="245$f" normal="1957/1962" type="inclusive">1957-1962</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">0</container>
+            <container type="folder">20</container>
+            <unittitle>Financial aid - benefits, 
+              <unitdate encodinganalog="245$f" normal="1920/1962" type="inclusive">1920-1962</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">0</container>
+            <container type="folder">21</container>
+            <unittitle>Founders of club, 
+              <unitdate encodinganalog="245$f" normal="1903/1961" type="inclusive">1903-1961</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">0</container>
+            <container type="folder">22</container>
+            <unittitle>Garfield Community Organizations, 
+              <unitdate encodinganalog="245$f" normal="1941/1966" type="inclusive">1941-1966</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">0</container>
+            <container type="folder">23</container>
+            <unittitle>General information and organizational charts, 
+              <unitdate encodinganalog="245$f" normal="1945/1957" type="inclusive">1945-1957</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">0</container>
+            <container type="folder">24</container>
+            <unittitle>Instructors' reports, 
+              <unitdate encodinganalog="245$f" normal="1939/1940" type="inclusive">1939-1940</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">0</container>
+            <container type="folder">25</container>
+            <unittitle>Jackson branch, 
+              <unitdate encodinganalog="245$f" normal="1938/1957" type="inclusive">1938-1957</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">0</container>
+            <container type="folder">26</container>
+            <unittitle>Karlov Club, 
+              <unitdate encodinganalog="245$f" normal="1955" type="inclusive">1955</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">0</container>
+            <container type="folder">27</container>
+            <unittitle>Letterhead, 
+              <unitdate encodinganalog="245$f" normal="1928/1969" type="inclusive">1928-1969</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">0</container>
+            <container type="folder">28</container>
+            <unittitle>Mathieu - misc, 
+              <unitdate encodinganalog="245$f" normal="1930/1966" type="inclusive">1930-1966</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">0</container>
+            <container type="folder">29</container>
+            <unittitle>Membership in club, 
+              <unitdate encodinganalog="245$f" normal="1953/1954" type="inclusive">1953-1954</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">0</container>
+            <container type="folder">30</container>
+            <unittitle>Midwest Community Council -- Administration, 
+              <unitdate encodinganalog="245$f" normal="1950/1952" type="inclusive">1950-1952</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">0</container>
+            <container type="folder">31</container>
+            <unittitle>Midwest Community Council - Better homes and yards, 
+              <unitdate encodinganalog="245$f" normal="1950/1952" type="inclusive">1950-1952</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">0</container>
+            <container type="folder">32</container>
+            <unittitle>Midwest Community Council - Camping, 
+              <unitdate encodinganalog="245$f" normal="1951" type="inclusive">1951</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">0</container>
+            <container type="folder">33</container>
+            <unittitle>Midwest Community Council - Clean-up campaign, 
+              <unitdate encodinganalog="245$f" normal="1950/1957" type="inclusive">1950-1957</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">0</container>
+            <container type="folder">34</container>
+            <unittitle>Midwest Community Council - council agencies, 
+              <unitdate encodinganalog="245$f" normal="1902/1975" type="inclusive">undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">0</container>
+            <container type="folder">35</container>
+            <unittitle>Midwest Community Council - housing, 
+              <unitdate encodinganalog="245$f" normal="1951" type="inclusive">1951</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">0</container>
+            <container type="folder">36</container>
+            <unittitle>Midwest Community Council - recreation - volunteer training, 
+              <unitdate encodinganalog="245$f" normal="1949/1950" type="inclusive">1949-1950</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">0</container>
+            <container type="folder">37</container>
+            <unittitle>Midwest Community Council - schools, 
+              <unitdate encodinganalog="245$f" normal="1902/1975" type="inclusive">undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">0</container>
+            <container type="folder">38</container>
+            <unittitle>Midwest Community Council, 
+              <unitdate encodinganalog="245$f" normal="1948/1962" type="inclusive">1948-1962</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">0</container>
+            <container type="folder">39</container>
+            <unittitle>Morris B. Sachs Radio Program, 
+              <unitdate encodinganalog="245$f" normal="1941/1942" type="inclusive">1941-1942</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">0</container>
+            <container type="folder">40</container>
+            <unittitle>Newspaper clippings, 
+              <unitdate encodinganalog="245$f" normal="1940/1945" type="inclusive">1940-1945</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">0</container>
+            <container type="folder">41</container>
+            <unittitle>Newspaper clippings, 
+              <unitdate encodinganalog="245$f" normal="1940/1945" type="inclusive">1940-1945</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">0</container>
+            <container type="folder">42</container>
+            <unittitle>Newspaper clippings, 
+              <unitdate encodinganalog="245$f" normal="1946/1949" type="inclusive">1946-1949</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">0</container>
+            <container type="folder">43</container>
+            <unittitle>Newspaper clippings, 
+              <unitdate encodinganalog="245$f" normal="1950" type="inclusive">1950</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">0</container>
+            <container type="folder">44</container>
+            <unittitle>Newspaper clippings, 
+              <unitdate encodinganalog="245$f" normal="1951/1953" type="inclusive">1951-1953</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">0</container>
+            <container type="folder">45</container>
+            <unittitle>Newspaper clippings, 
+              <unitdate encodinganalog="245$f" normal="1954/1955" type="inclusive">1954-1955</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">0</container>
+            <container type="folder">46</container>
+            <unittitle>Newspaper clippings, 
+              <unitdate encodinganalog="245$f" normal="1956" type="inclusive">1956</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">0</container>
+            <container type="folder">47</container>
+            <unittitle>Newspaper clippings, 
+              <unitdate encodinganalog="245$f" normal="1957" type="inclusive">1957</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">0</container>
+            <container type="folder">48</container>
+            <unittitle>Newspaper clippings, 
+              <unitdate encodinganalog="245$f" normal="1958" type="inclusive">1958</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">0</container>
+            <container type="folder">49</container>
+            <unittitle>Newspaper clippings, 
+              <unitdate encodinganalog="245$f" normal="1959" type="inclusive">1959</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">0</container>
+            <container type="folder">50</container>
+            <unittitle>Newspaper clippings, 
+              <unitdate encodinganalog="245$f" normal="1960" type="inclusive">1960</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">0</container>
+            <container type="folder">51</container>
+            <unittitle>Newspaper clippings, 
+              <unitdate encodinganalog="245$f" normal="1961" type="inclusive">1961</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">0</container>
+            <container type="folder">52</container>
+            <unittitle>Newspaper clippings, 
+              <unitdate encodinganalog="245$f" normal="1962/1967" type="inclusive">1962-1967</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">0</container>
+            <container type="folder">53</container>
+            <unittitle>Newspaper clippings, 
+              <unitdate encodinganalog="245$f" normal="1902/1975" type="inclusive">undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">0</container>
+            <container type="folder">54</container>
+            <unittitle>Newspaper clippings, 
+              <unitdate encodinganalog="245$f" normal="1940/1965" type="inclusive">1940-1965</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">0</container>
+            <container type="folder">55</container>
+            <unittitle>Notebook - friends, 
+              <unitdate encodinganalog="245$f" normal="1939/1965" type="inclusive">1939-1965</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">0</container>
+            <container type="folder">56</container>
+            <unittitle>Notebook - friends, 
+              <unitdate encodinganalog="245$f" normal="1913/1968" type="inclusive">1913-1968</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">0</container>
+            <container type="folder">57</container>
+            <unittitle>Notebook - friends, 
+              <unitdate encodinganalog="245$f" normal="1957/1968" type="inclusive">1957-1968</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">0</container>
+            <container type="folder">58</container>
+            <unittitle>Notebook - friends, 
+              <unitdate encodinganalog="245$f" normal="1965/1968" type="inclusive">1965-1968</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">0</container>
+            <container type="folder">59</container>
+            <unittitle>Notebook - Mathieu retirement, 
+              <unitdate encodinganalog="245$f" normal="1966/1968" type="inclusive">1966-1968</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">0</container>
+            <container type="folder">60</container>
+            <unittitle>Notebook - Off the Street Club, 
+              <unitdate encodinganalog="245$f" normal="1946/1952" type="inclusive">1946-1952</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">0</container>
+            <container type="folder">61</container>
+            <unittitle>Notebook - published material -- lectures #1, 
+              <unitdate encodinganalog="245$f" normal="1928/1965" type="inclusive">1928-1965</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">0</container>
+            <container type="folder">62</container>
+            <unittitle>Notebook - published material - lectures, 
+              <unitdate encodinganalog="245$f" normal="1944/1964" type="inclusive">1944-1964</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">0</container>
+            <container type="folder">63</container>
+            <unittitle>Off the Street Club manual, 
+              <unitdate encodinganalog="245$f" normal="1940" type="inclusive">1940</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">0</container>
+            <container type="folder">64</container>
+            <unittitle>Photographs - Christmas, 
+              <unitdate encodinganalog="245$f" normal="1950/1965" type="inclusive">1950-1965</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">0</container>
+            <container type="folder">65</container>
+            <unittitle>Photographs - Day Camp, 
+              <unitdate encodinganalog="245$f" normal="1902/1975" type="inclusive">undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">0</container>
+            <container type="folder">66</container>
+            <unittitle>Photographs - early activities, 
+              <unitdate encodinganalog="245$f" normal="1907/1922" type="inclusive">1907-1922</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">0</container>
+            <container type="folder">67</container>
+            <unittitle>Photographs - from notebooks, 
+              <unitdate encodinganalog="245$f" normal="1913/1968" type="inclusive">1913-1968</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">0</container>
+            <container type="folder">68</container>
+            <unittitle>Photographs - misc., 
+              <unitdate encodinganalog="245$f" normal="1936/1960" type="inclusive">1936-1960</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">0</container>
+            <container type="folder">69</container>
+            <unittitle>Proceedings of Boys Clubs Association of Chicago Conference, 
+              <unitdate encodinganalog="245$f" normal="1930" type="inclusive">1930</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">0</container>
+            <container type="folder">70</container>
+            <unittitle>Program - activities outside of club, 
+              <unitdate encodinganalog="245$f" normal="1961" type="inclusive">1961</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">0</container>
+            <container type="folder">71</container>
+            <unittitle>Program - Christmas activities, 
+              <unitdate encodinganalog="245$f" normal="1941/1965" type="inclusive">1941-1965</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">0</container>
+            <container type="folder">72</container>
+            <unittitle>Program - Day camp, 
+              <unitdate encodinganalog="245$f" normal="1939/1941" type="inclusive">1939-1941</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">0</container>
+            <container type="folder">73</container>
+            <unittitle>Program - early  programs, 
+              <unitdate encodinganalog="245$f" normal="1904/1920" type="inclusive">1904-1920</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">0</container>
+            <container type="folder">74</container>
+            <unittitle>Program - report and notebook, 
+              <unitdate encodinganalog="245$f" normal="1931/1942" type="inclusive">1931-1942</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">0</container>
+            <container type="folder">75</container>
+            <unittitle>Program - schedules, 
+              <unitdate encodinganalog="245$f" normal="1933/1962" type="inclusive">1933-1962</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">0</container>
+            <container type="folder">76</container>
+            <unittitle>Program - special events, 
+              <unitdate encodinganalog="245$f" normal="1932/1961" type="inclusive">1932-1961</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">0</container>
+            <container type="folder">77</container>
+            <unittitle>Program - sports, 
+              <unitdate encodinganalog="245$f" normal="1937/1960" type="inclusive">1937-1960</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">0</container>
+            <container type="folder">78</container>
+            <unittitle>Program - summer activities, 
+              <unitdate encodinganalog="245$f" normal="1936/1944" type="inclusive">1936-1944</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">0</container>
+            <container type="folder">79</container>
+            <unittitle>Program - summer camp, 
+              <unitdate encodinganalog="245$f" normal="1945/1964" type="inclusive">1945-1964</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">0</container>
+            <container type="folder">80</container>
+            <unittitle>Program - summer programs report, 
+              <unitdate encodinganalog="245$f" normal="1941" type="inclusive">1941</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">0</container>
+            <container type="folder">81</container>
+            <unittitle>Program - misc., 
+              <unitdate encodinganalog="245$f" normal="1929/1959" type="inclusive">1929-1959</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">0</container>
+            <container type="folder">82</container>
+            <unittitle>Publications - administrative bulletin, 
+              <unitdate encodinganalog="245$f" normal="1941/1942" type="inclusive">1941-1942</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">0</container>
+            <container type="folder">83</container>
+            <unittitle>Publications - The Bulletin, 
+              <unitdate encodinganalog="245$f" normal="1916/1922" type="inclusive">1916-1922</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">0</container>
+            <container type="folder">84</container>
+            <unittitle>Publications - Newsletter, 
+              <unitdate encodinganalog="245$f" normal="1957/1966" type="inclusive">1957-1966</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">0</container>
+            <container type="folder">85</container>
+            <unittitle>Publications - Our Compass, 
+              <unitdate encodinganalog="245$f" normal="1931/1938" type="inclusive">1931-1938</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">0</container>
+            <container type="folder">86</container>
+            <unittitle>Publications - Sport Comments, 
+              <unitdate encodinganalog="245$f" normal="1941/1943" type="inclusive">1941-1943</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">0</container>
+            <container type="folder">87</container>
+            <unittitle>Publications - Staff Bulletin, 
+              <unitdate encodinganalog="245$f" normal="1939/1941" type="inclusive">1939-1941</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">0</container>
+            <container type="folder">88</container>
+            <unittitle>Publications - West Side Inter-Club Council Newsletter, 
+              <unitdate encodinganalog="245$f" normal="1940/1941" type="inclusive">1940-1941</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">0</container>
+            <container type="folder">89</container>
+            <unittitle>Publications - You Should Know, 
+              <unitdate encodinganalog="245$f" normal="1946/1953" type="inclusive">1946-1953</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">0</container>
+            <container type="folder">90</container>
+            <unittitle>Publicity, magazine articles, 
+              <unitdate encodinganalog="245$f" normal="1941/1966" type="inclusive">1941-1966</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">0</container>
+            <container type="folder">91</container>
+            <unittitle>Radio Programs, 
+              <unitdate encodinganalog="245$f" normal="1932/1946" type="inclusive">1932-1946</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">0</container>
+            <container type="folder">92</container>
+            <unittitle>Recreation conferences, 
+              <unitdate encodinganalog="245$f" normal="1941/1966" type="inclusive">1941-1966</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">0</container>
+            <container type="folder">93</container>
+            <unittitle>Rehabilitation of parolees, 
+              <unitdate encodinganalog="245$f" normal="1941" type="inclusive">1941</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">0</container>
+            <container type="folder">94</container>
+            <unittitle>Sacramento club, 
+              <unitdate encodinganalog="245$f" normal="1958" type="inclusive">1958</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">0</container>
+            <container type="folder">95</container>
+            <unittitle>Scouting, 
+              <unitdate encodinganalog="245$f" normal="1931/1958" type="inclusive">1931-1958</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">0</container>
+            <container type="folder">96</container>
+            <unittitle>Statement of objectives and early club history, 
+              <unitdate encodinganalog="245$f" normal="1929" type="inclusive">1929</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">0</container>
+            <container type="folder">97</container>
+            <unittitle>Survey of Off the Street Club by Northwestern, 
+              <unitdate encodinganalog="245$f" normal="1929" type="inclusive">1929</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">0</container>
+            <container type="folder">98</container>
+            <unittitle>True Story Series, 
+              <unitdate encodinganalog="245$f" normal="1941/1961" type="inclusive">1941-1961</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">0</container>
+            <container type="folder">99</container>
+            <unittitle>TV Program, 
+              <unitdate encodinganalog="245$f" normal="1949" type="inclusive">1949</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">0</container>
+            <container type="folder">100</container>
+            <unittitle>Van Buren Club, 
+              <unitdate encodinganalog="245$f" normal="1914/1940" type="inclusive">1914-1940</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">0</container>
+            <container type="folder">101</container>
+            <unittitle>Works Projects Administration activities, 
+              <unitdate encodinganalog="245$f" normal="1938/1941" type="inclusive">1938-1941</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Supplement I</unittitle>
+        </did>
+        <c02 level="file">
+          <did>
+            <container type="box">0</container>
+            <container type="folder">1</container>
+            <unittitle>Advertising Club News and Christmas benefit programs, 
+              <unitdate encodinganalog="245$f" normal="1905/1975" type="inclusive">1905-1975</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">0</container>
+            <container type="folder">2</container>
+            <unittitle>Articles about gangs, 
+              <unitdate encodinganalog="245$f" normal="1972/1973" type="inclusive">1972-973</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">0</container>
+            <container type="folder">3</container>
+            <unittitle>Articles of incorporation, 
+              <unitdate encodinganalog="245$f" normal="1916" type="inclusive">1916</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">0</container>
+            <container type="folder">4</container>
+            <unittitle>Auditors examination of records, 
+              <unitdate encodinganalog="245$f" normal="1916/1936" type="inclusive">1916-1936</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">0</container>
+            <container type="folder">5</container>
+            <unittitle>Boys clubs, 
+              <unitdate encodinganalog="245$f" normal="1933/1956" type="inclusive">1933-1956</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">0</container>
+            <container type="folder">6</container>
+            <unittitle>Boys clubs association of Chicago Conference, 
+              <unitdate encodinganalog="245$f" normal="1940" type="inclusive">1940</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">0</container>
+            <container type="folder">7</container>
+            <unittitle>Cheating the Streets, 
+              <unitdate encodinganalog="245$f" normal="1939" type="inclusive">1939</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">0</container>
+            <container type="folder">8</container>
+            <unittitle>Correspondence about closing the Van Burn branch, 
+              <unitdate encodinganalog="245$f" normal="1942" type="inclusive">1942</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">0</container>
+            <container type="folder">9</container>
+            <unittitle>Correspondence, 
+              <unitdate encodinganalog="245$f" normal="1943/1955" type="inclusive">1943-1955</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">0</container>
+            <container type="folder">10</container>
+            <unittitle>Jackie's column from the Midwest News, 
+              <unitdate encodinganalog="245$f" normal="1944/1945" type="inclusive">1944-1945</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">0</container>
+            <container type="folder">11</container>
+            <unittitle>Letterhead, 
+              <unitdate encodinganalog="245$f" normal="1016/1953" type="inclusive">1016-1953</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">0</container>
+            <container type="folder">12</container>
+            <unittitle>Mathieu - biographical information, 
+              <unitdate encodinganalog="245$f" normal="1957/1976" type="inclusive">1957-1976</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">0</container>
+            <container type="folder">13</container>
+            <unittitle>Mathieu - misc. activities, 
+              <unitdate encodinganalog="245$f" normal="1944/1971" type="inclusive">1944-1971</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">0</container>
+            <container type="folder">14</container>
+            <unittitle>Mathieu - personal, 
+              <unitdate encodinganalog="245$f" normal="1948/1975" type="inclusive">1948-1975</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">0</container>
+            <container type="folder">15</container>
+            <unittitle>Miscellaneous, 
+              <unitdate encodinganalog="245$f" normal="1918/1957" type="inclusive">1918-1957</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">0</container>
+            <container type="folder">16</container>
+            <unittitle>Newspaper clippings, 
+              <unitdate encodinganalog="245$f" normal="1937/1964" type="inclusive">1937-1964</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">0</container>
+            <container type="folder">17</container>
+            <unittitle>Notebook - camp, 
+              <unitdate encodinganalog="245$f" normal="1956/1958" type="inclusive">1956-1958</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">0</container>
+            <container type="folder">18</container>
+            <unittitle>Notebook - camp, 
+              <unitdate encodinganalog="245$f" normal="1945/1959" type="inclusive">1945-1959</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">0</container>
+            <container type="folder">19</container>
+            <unittitle>Notebook - club activities, 
+              <unitdate encodinganalog="245$f" normal="1954/1956" type="inclusive">1954-1956</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">0</container>
+            <container type="folder">20</container>
+            <unittitle>Notebook - history, 
+              <unitdate encodinganalog="245$f" normal="1955/1956" type="inclusive">1955-1956</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">0</container>
+            <container type="folder">21</container>
+            <unittitle>Notebook - history, 
+              <unitdate encodinganalog="245$f" normal="1938/1955" type="inclusive">1938-1955</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">0</container>
+            <container type="folder">22</container>
+            <unittitle>Notebook - Midwest Community Council, 
+              <unitdate encodinganalog="245$f" normal="1951/1975" type="inclusive">1951-1975</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">0</container>
+            <container type="folder">23</container>
+            <unittitle>Photographs - Mathieu, 
+              <unitdate encodinganalog="245$f" normal="1960/1964" type="inclusive">1960 -1964</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">0</container>
+            <container type="folder">24</container>
+            <unittitle>Photographs - misc., 
+              <unitdate encodinganalog="245$f" normal="1920/1956" type="inclusive">1920 -1956</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">0</container>
+            <container type="folder">25</container>
+            <unittitle>Photographs - camp, 
+              <unitdate encodinganalog="245$f" normal="1956/1958" type="inclusive">1956-1958</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">0</container>
+            <container type="folder">26</container>
+            <unittitle>Photographs - camp, 
+              <unitdate encodinganalog="245$f" normal="1035/1950" type="inclusive">1035-1950</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">0</container>
+            <container type="folder">27</container>
+            <unittitle>Photographs - Club activities, 
+              <unitdate encodinganalog="245$f" normal="1942/1952" type="inclusive">19422-1952</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">0</container>
+            <container type="folder">28</container>
+            <unittitle>Photographs - Club activities, 
+              <unitdate encodinganalog="245$f" normal="1949/1960" type="inclusive">1949-1960</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">0</container>
+            <container type="folder">29</container>
+            <unittitle>Photographs - history, 
+              <unitdate encodinganalog="245$f" normal="1955/1956" type="inclusive">1955-1956</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">0</container>
+            <container type="folder">30</container>
+            <unittitle>Photographs - history, 
+              <unitdate encodinganalog="245$f" normal="1934/1958" type="inclusive">1934-958</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">0</container>
+            <container type="folder">31</container>
+            <unittitle>Photographs - summer 1964, 
+              <unitdate encodinganalog="245$f" normal="1960/1964" type="inclusive">1960-1964</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">0</container>
+            <container type="folder">32</container>
+            <unittitle>Program, 
+              <unitdate encodinganalog="245$f" normal="1913/1964" type="inclusive">1913-1964</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">0</container>
+            <container type="folder">33</container>
+            <unittitle>Program, home camp, 
+              <unitdate encodinganalog="245$f" normal="1938/1940" type="inclusive">1938-1940</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">0</container>
+            <container type="folder">34</container>
+            <unittitle>Publications - administrative bulletins, 
+              <unitdate encodinganalog="245$f" normal="1941/1942" type="inclusive">1941-1942</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">0</container>
+            <container type="folder">35</container>
+            <unittitle>Publications - "Of Mutual Interest", 
+              <unitdate encodinganalog="245$f" normal="1940/1943" type="inclusive">1940-1943</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">0</container>
+            <container type="folder">36</container>
+            <unittitle>Publications - Staff bulletins, 
+              <unitdate encodinganalog="245$f" normal="1939/1941" type="inclusive">1939-1941</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">0</container>
+            <container type="folder">37</container>
+            <unittitle>Report to Community Fund and Welfare Council, 
+              <unitdate encodinganalog="245$f" normal="1941" type="inclusive">1941</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">0</container>
+            <container type="folder">38</container>
+            <unittitle>Seventy-fifth anniversary letters, 
+              <unitdate encodinganalog="245$f" normal="1975" type="inclusive">1975</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">0</container>
+            <container type="folder">39</container>
+            <unittitle>Youth on Parade program, 
+              <unitdate encodinganalog="245$f" normal="1945/1948" type="inclusive">1945-1948</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">0</container>
+            <container type="folder">40</container>
+            <unittitle>Oversized: Photographs - Mark Twain Adventure camp, 
+              <unitdate encodinganalog="245$f" normal="1902/1975" type="inclusive">undated</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unittitle>Supplement 2</unittitle>
+        </did>
+        <c02 level="file">
+          <did>
+            <container type="box">0</container>
+            <container type="folder">1</container>
+            <unittitle>Correspondence: Mathieu Family - 1768-21 June, 
+              <unitdate encodinganalog="245$f" normal="1952" type="inclusive">1952</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">0</container>
+            <container type="folder">2</container>
+            <unittitle>Documents: Gove Family - 29 Apr., 1838-22 Oct., 
+              <unitdate encodinganalog="245$f" normal="1919" type="inclusive">1919</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">0</container>
+            <container type="folder">3</container>
+            <unittitle>Documents: A.Mathieu - Personal, 
+              <unitdate encodinganalog="245$f" normal="1901/1979" type="inclusive">1901-1979</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">0</container>
+            <container type="folder">4</container>
+            <unittitle>Photographs: A.Mathieu, 
+              <unitdate encodinganalog="245$f" normal="1932/1966" type="inclusive">1932-1966</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">0</container>
+            <container type="folder">5</container>
+            <unittitle>Automatic Canteen Company - September, 
+              <unitdate encodinganalog="245$f" normal="1932" type="inclusive">1932</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">0</container>
+            <container type="folder">6</container>
+            <unittitle>Publications: Century of Progress Exhibit, 
+              <unitdate encodinganalog="245$f" normal="1933" type="inclusive">1933</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">0</container>
+            <container type="folder">7</container>
+            <unittitle>Correspondence: A. Mathieu - Business - 11 Oct., 1933-21 Jun., 
+              <unitdate encodinganalog="245$f" normal="1982" type="inclusive">1982</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">0</container>
+            <container type="folder">8</container>
+            <unittitle>Program: Training Course - 1 Oct., 1935-16 Nov., 
+              <unitdate encodinganalog="245$f" normal="1936" type="inclusive">1936</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">0</container>
+            <container type="folder">9</container>
+            <unittitle>Speeches: A. Mathieu - 23 March, 1936-20 Oct., 
+              <unitdate encodinganalog="245$f" normal="1966" type="inclusive">1966</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">0</container>
+            <container type="folder">10</container>
+            <unittitle>Program: BCC Annual Conference - 23 March, 1936-March, 
+              <unitdate encodinganalog="245$f" normal="1939" type="inclusive">1939</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">0</container>
+            <container type="folder">11</container>
+            <unittitle>Newspaper Clippings: OTSC - 5 Sep., 1937-7 June, 
+              <unitdate encodinganalog="245$f" normal="1989" type="inclusive">1989</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">0</container>
+            <container type="folder">12</container>
+            <unittitle>Program: BCA Annual Convention - 15-18 May, 1939-13 May, 
+              <unitdate encodinganalog="245$f" normal="1968" type="inclusive">1968</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">0</container>
+            <container type="folder">13</container>
+            <unittitle>Correspondence: A. Mathieu - Personal - 8 June, 1939-12 Feb., 
+              <unitdate encodinganalog="245$f" normal="1980" type="inclusive">1980</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">0</container>
+            <container type="folder">14</container>
+            <unittitle>Publications: Staff Bulletins - 1 Sept., 1939-1 Apr., 
+              <unitdate encodinganalog="245$f" normal="1941" type="inclusive">1941</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">0</container>
+            <container type="folder">15</container>
+            <unittitle>Photographs: Club Activities - 1940-1982</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">0</container>
+            <container type="folder">16</container>
+            <unittitle>Publications: OTSC Events - 21 Dec., 1940-3 March, 
+              <unitdate encodinganalog="245$f" normal="1947" type="inclusive">1947</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">0</container>
+            <container type="folder">17</container>
+            <unittitle>Photographs: Day Camp- 1941-1981</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">0</container>
+            <container type="folder">18</container>
+            <unittitle>Morris B. Sachs Amateur Hour - May, 
+              <unitdate encodinganalog="245$f" normal="1941" type="inclusive">1941</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">0</container>
+            <container type="folder">19</container>
+            <unittitle>Program: Victory Volunteers - 27 May, 
+              <unitdate encodinganalog="245$f" normal="1942" type="inclusive">1942</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">0</container>
+            <container type="folder">20</container>
+            <unittitle>Program: Pure Milk Farm Visit - 7 June, 
+              <unitdate encodinganalog="245$f" normal="1941" type="inclusive">1941</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">0</container>
+            <container type="folder">21</container>
+            <unittitle>Report to Community Fund and Welfare Council - 14 Oct., 
+              <unitdate encodinganalog="245$f" normal="1941" type="inclusive">1941</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">0</container>
+            <container type="folder">22</container>
+            <unittitle>Program: Youth on Parade - 12 June, 1945-25 June, 
+              <unitdate encodinganalog="245$f" normal="1948" type="inclusive">1948</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">0</container>
+            <container type="folder">23</container>
+            <unittitle>Publications: "You Should Know" - 5 July, 1945-27 May, 
+              <unitdate encodinganalog="245$f" normal="1947" type="inclusive">1947</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">0</container>
+            <container type="folder">24</container>
+            <unittitle>Publications: CFDC News - Dec. 1945-Feb. 1953</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">0</container>
+            <container type="folder">25</container>
+            <unittitle>Program: Annual Christmas Party - 22 Dec., 1945-8 Dec., 
+              <unitdate encodinganalog="245$f" normal="1978" type="inclusive">1978</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">0</container>
+            <container type="folder">26</container>
+            <unittitle>OTSC Christmas Letter - December, 
+              <unitdate encodinganalog="245$f" normal="1946" type="inclusive">1946</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">0</container>
+            <container type="folder">27</container>
+            <unittitle>Newspaper Clippings: Day Camp - 21 Aug., 1955-22 Aug., 
+              <unitdate encodinganalog="245$f" normal="1979" type="inclusive">1979</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">0</container>
+            <container type="folder">28</container>
+            <unittitle>Midwest Community Council: Annual Dinner Meeting - 22 May, 
+              <unitdate encodinganalog="245$f" normal="1961" type="inclusive">1961</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">0</container>
+            <container type="folder">29</container>
+            <unittitle>Publications: Attendance - March, 
+              <unitdate encodinganalog="245$f" normal="1963" type="inclusive">1963</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">0</container>
+            <container type="folder">30</container>
+            <unittitle>Garfield Family Council: Invitation - 7 March, 
+              <unitdate encodinganalog="245$f" normal="1963" type="inclusive">1963</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">0</container>
+            <container type="folder">31</container>
+            <unittitle>Publications: Survey Report - June, 
+              <unitdate encodinganalog="245$f" normal="1963" type="inclusive">1963</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">0</container>
+            <container type="folder">32</container>
+            <unittitle>Publications: Day Camp Christmas News - 14 Dec., 
+              <unitdate encodinganalog="245$f" normal="1963" type="inclusive">1963</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">0</container>
+            <container type="folder">33</container>
+            <unittitle>Publications: Annual Meeting - 22 June, 
+              <unitdate encodinganalog="245$f" normal="1965" type="inclusive">1965</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">0</container>
+            <container type="folder">34</container>
+            <unittitle>Program: Acceptance of Club Program by Community Leaders - 17 Jan., 
+              <unitdate encodinganalog="245$f" normal="1966" type="inclusive">1966</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">0</container>
+            <container type="folder">35</container>
+            <unittitle>75th Anniversary Letters - 25 Apr., 1975-Dec., 
+              <unitdate encodinganalog="245$f" normal="1975" type="inclusive">1975</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container type="box">0</container>
+            <container type="folder">36</container>
+            <unittitle>Publications: OTSC Pamphlets - 1979-1993</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">0</container>
+            <container type="folder">37</container>
+            <unittitle>Publications: Pro Files - Spring, 
+              <unitdate encodinganalog="245$f" normal="1979" type="inclusive">1979</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">0</container>
+            <container type="folder">38</container>
+            <unittitle>Program: Annual Christmas Party - 20 Dec., 1979-15 Dec., 
+              <unitdate encodinganalog="245$f" normal="1989" type="inclusive">1989</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">0</container>
+            <container type="folder">39</container>
+            <unittitle>Magazine: Connections - Summer, 
+              <unitdate encodinganalog="245$f" normal="1981" type="inclusive">1981</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">0</container>
+            <container type="folder">40</container>
+            <unittitle>OTSC 82nd Annual Meeting - 16 Jun., 
+              <unitdate encodinganalog="245$f" normal="1982" type="inclusive">1982</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">0</container>
+            <container type="folder">41</container>
+            <unittitle>Newspaper Clippings: Green Chicago - 18 Sept., 
+              <unitdate encodinganalog="245$f" normal="1994" type="inclusive">1994</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">0</container>
+            <container type="folder">42</container>
+            <unittitle>Midwest Community Council: Invitation, 
+              <unitdate encodinganalog="245$f" normal="1902/1975" type="inclusive">undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">0</container>
+            <container type="folder">43</container>
+            <unittitle>Photographs: A.Mathieu, Photographer, 
+              <unitdate encodinganalog="245$f" normal="1902/1975" type="inclusive">undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">0</container>
+            <container type="folder">44</container>
+            <unittitle>Program: An Evening of the Nations, 
+              <unitdate encodinganalog="245$f" normal="1902/1975" type="inclusive">undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">0</container>
+            <container type="folder">45</container>
+            <unittitle>Program: Roller Skating Program, 
+              <unitdate encodinganalog="245$f" normal="1902/1975" type="inclusive">undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">0</container>
+            <container type="folder">46</container>
+            <unittitle>Publications: Community Churches of America, 
+              <unitdate encodinganalog="245$f" normal="1902/1975" type="inclusive">undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">0</container>
+            <container type="folder">47</container>
+            <unittitle>Publications: Delphian, vol. 3, 
+              <unitdate encodinganalog="245$f" normal="1902/1975" type="inclusive">undated</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">0</container>
+            <container type="folder">48</container>
+            <unittitle>Publications: Junior Leader Club Members, 
+              <unitdate encodinganalog="245$f" normal="1902/1975" type="inclusive">undated</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+    </dsc>
+  
+<!-- END DESCRIPTION OF SUBORDINATE COMPONENTS-->
+
+</archdesc>
+</ead>

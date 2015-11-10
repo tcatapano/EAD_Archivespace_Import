@@ -1,0 +1,2314 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead relatedencoding="marc21"> 
+  <eadheader audience="internal"> 
+  <!--Change the last five numbers to the five number collection number from TARO log and name and save file as that five digit number.-->
+	 <eadid countrycode="US" mainagencycode="TxU-TH"
+	  encodinganalog="852$a">urn:taro:utexas.cah.01360</eadid> 
+	 <filedesc> 
+		<titlestmt> 
+		<!--Type the title just as you would say it and use type (e.g. Papers, Collection, Archive) as appropriate. Follow with dates. Example: John Doe Papers, 1910-1920-->
+		  <titleproper>A Guide to the Barefoot Sanders Papers,
+			 1940s-2009</titleproper> 
+		</titlestmt> 
+	 </filedesc> 
+	 <profiledesc> 
+	 <!--Add your name and the date (format: January 2008) of encoding below.-->
+		<creation>Original EAD encoding by Megan Mummey according to TARO 2 EAD
+		  2002 Editing Instructions. 
+		  <date>November 2009</date></creation> 
+		<langusage>Finding aid written in
+		  <language>English.</language></langusage> 
+	 </profiledesc> 
+  	<revisiondesc>
+  		<change>
+  			<date>October 2010</date>
+  			<item>added accessions 2009-359; 2010-009; 2010-092 by Ryder Kouba</item>
+  		</change>
+  		
+  	</revisiondesc>
+  </eadheader> 
+  <archdesc type="inventory" level="collection"> 
+	 <did> 
+		<head>Descriptive Summary</head> 
+		<origination label="Creator:"><!--Select the appropriate tag depending on if the creator is an individual (name: LAST, FIRST, YEAR OF BIRTH-YEAR OF DEATH), 
+family (name: LAST Family, add individual name and dates in parentheses if desired), or entity. Delete the other tags you don't use.-->
+		  <persname encodinganalog="100">Sanders, Barefoot (1925-2008)</persname>
+		  </origination>
+	 
+	 
+	 <!--Type the unittitle just as you would say it and use type (e.g. Papers, Collection, Archive) as appropriate. Example: John Doe Papers-->
+		<unittitle encodinganalog="245" label="Title:">Barefoot Sanders
+		  Papers</unittitle> 
+		<unitdate type="inclusive" encodinganalog="245"
+		label="Dates:">1940s-2009</unitdate>
+	 <!--Modify the language of material if appropriate and update 3 letter langcode in the upper-right table.-->
+		<langmaterial label="Language:">Materials are written in
+		  <language langcode="eng">English.</language></langmaterial> 
+	 <!--This is the accession number(s) or other applicable indentifier.-->
+		<unitid label="Accession No.:">2009-220; 2009-295; 2009-359; 2010-009; 2010-092</unitid> 
+	 <!--This is the OCLC  record number(s) or other applicable indentifier.-->
+<!--This is the extent. For example: 4 ft., 10 in.-->
+		<physdesc label="Extent:" encodinganalog="300$a">23 ft., 2 in.</physdesc> 
+		<repository label="Repository:" encodinganalog="852$a"> 
+		  <extref href="http://www.cah.utexas.edu" show="new"
+		  actuate="onrequest"> 
+			 <corpname><subarea> Dolph Briscoe Center for American
+				History,</subarea> The University of Texas at
+				Austin</corpname></extref></repository> 
+	 <!--This is typically the first sentences from scope and content note, as appropriate.-->
+		<abstract label="Abstract:" encodinganalog="520$a">Barefoot Sanders, born
+		  Harold Barefoot Sanders, Jr., was a Federal Judge on the United States District
+		  Court for the Northern District of Texas from 1979-2006, nominated by Jimmy
+		  Carter. Correspondence, news clippings, printed materials, photographs, notes,
+		  campaign material, and speeches document Barefoot Sanders personal and public
+		  life. </abstract> 
+	 </did> 
+	 <bioghist encodinganalog="545"> 
+	 <!--If an individual, heading should read Biographical Note; for an organization or subject, it should read Historical Note.-->
+		<head>Biographical Note</head><p>Barefoot Sanders, born Harold Barefoot
+		  Sanders, Jr., was a Federal Judge on the United States District Court for the
+		  Northern District of Texas from 1979-2006, nominated by Jimmy Carter. He is
+		  most well known for overseeing the lawsuit to desegregate the Dallas
+		  Independent School District. Sanders had a long and distinguished career
+		  serving as a congressman in the Texas legislature, as a U.S. Attorney, as an
+		  assistant deputy attorney general, as legislative counsel to President Lyndon
+		  B. Johnson, and as a Federal Judge. </p> 
+		<p>Barefoot Sanders was born in 1925, attended North Dallas High School,
+		  graduating in 1942. Sanders served in the Navy during World War II (1943-1946)
+		  on a destroyer in the Pacific Theater. He underwent training at Mercer
+		  University in Georgia and Notre Dame in Indiana. Following, his time in the
+		  military, Sanders received an A.B. (1949) from the University of Texas and a
+		  J.D. (1950) from the University of Texas School of Law. While attending UT,
+		  Barefoot was elected student body president in 1947. Furthermore, Sanders was
+		  associated with many different organizations including, Phi Delta Theta, Blue
+		  Key, Phi Delta Phi, Phi Delta Kappa and the Texas Cowboys. </p><p>Following his
+		  graduation, Sanders went into practice with the Dallas law firm Clark, West,
+		  Keller, Sanders and Butler (1950-1961, 1969-1979). Sanders married Jan Scurlock
+		  in 1952 and they had four children together. He served on the Texas Legislature
+		  for three terms from 1953 to 1958. In 1960, Sanders was instrumental in helping
+		  the Kennedy-Johnson ticket win Texas. After the election, Kennedy appointed
+		  Sanders a United States attorney. During President Johnson’s terms, Sanders was
+		  Assistant Deputy Attorney General and Assistant Attorney General (1965-1967),
+		  and legislative counsel to President Johnson (1967-1968). Sander played a small
+		  part in the transfer of power from President’s Kennedy to Johnson, when he was
+		  asked to find Federal Judge Sarah Hughes to administer the oath of office to
+		  Johnson. As legislative counsel to the president, Sanders helped shepherd many
+		  Great Society initiatives through Congress, such as the Voting Rights Act. In
+		  1968, before leaving office, President Johnson appointed Sanders as a Federal
+		  Appellate Judge for the District of Columbia Circuit. However, Johnson’s term
+		  expired before Sanders’ confirmation by the Senate and Nixon nominated George
+		  McKinnon instead. In 1969, Sanders returned to private practice in Dallas. He
+		  ran for the United States Senate in 1972, but lost to John Tower as part of the
+		  Nixon landslide. In 1978 Sanders contemplated running again, but eventually decided against it.  </p> 
+		<p>Sanders returned to public service, in 1979 when President Carter
+		  appointed him to the United States District Court for the Northern District of
+		  Texas. Furthermore, he served as chief judge of the court from 1989-1995.
+		  During his time on the bench, Sanders oversaw the Tasby litigation, a
+		  desegregation plan for the Dallas Independent School District that lasted for
+		  decades until it was finally settled in 2003. During the litigation he ordered
+		  the construction of magnet schools and made most busing voluntary. Sanders also
+		  supervised the restructuring of the state hospitals for the mentally ill after
+		  a civil rights reform lawsuit, R.A.J. vs. TDMHMR. The restructuring improved
+		  living conditions and the treatment of patients in Texas’ eight state
+		  psychiatric hospitals. Sanders retired in 2006 and died of natural causes
+		  September 21, 2008 at the age of eighty-three.</p> 
+	 </bioghist> 
+	 <scopecontent encodinganalog="520"> 
+		<head>Scope and Contents</head><p>Correspondence, news clippings, printed
+		  materials, photographs, notes, campaign material, and speeches document
+		  Barefoot Sanders personal and public life. The bulk of Sanders’ papers consist
+		  of news clippings concerning his various careers as a lawyer, Texas
+		  congressman, U.S. attorney, assistant deputy attorney general, legislative
+		  counsel to the president, and federal judge. The papers include material from
+		  Sanders’ time in the Navy and at the University of Texas. Furthermore, the
+		  papers document Sanders’ campaigns for various public offices, such as his 1972
+		  campaign for U.S. senator as well as his deliberations about running again in 1978.  The material from Sanders’ time as a federal judge
+		  consists mainly of clippings, printed material, and speeches. </p>
+	 
+	 <!--If applicable include statement in p tag: Forms part of the NAME (Institute for Studies in American Military History, Archives of American Mathematics, 
+Professional Touring Entertainment Archives, etc.).-->
+	 </scopecontent> 
+	 <accessrestrict encodinganalog="506"> 
+	 <!--Select appropriate statement(s) and delete those tags that are not applicable.-->
+		<head>Access Restrictions</head> 
+		<p>Artifacts require an appointment with artifacts curator. Contact
+		  repository.</p> 
+	 </accessrestrict> 
+	 <userestrict encodinganalog="540"> 
+	 <!--Delete userestrict if not applicable. Select and edit appropraite statement(s) and delete those tages that are not applicable.-->
+		<head>Use Restrictions</head><p>A portion of these papers are stored
+		  remotely. Advance notice required for retrieval. Contact repository for
+		  retrieval.</p> 
+	 </userestrict> 
+	 <controlaccess> 
+	 <!--Delete this section(s) as appropriate depending on the presence of  index terms.-->
+		<head>Index Terms</head> 
+		<controlaccess> 
+		  <head>Subjects (Persons)</head> 
+		  <persname encodinganalog="600">Sanders, Barefoot, 1925-2009 --
+			 Archives.</persname> 
+		  <persname encodinganalog="700" source="lcnaf">Johnson, Lyndon B.
+			 (Lyndon Baines), 1908-1973.</persname> 
+		  <persname encodinganalog="700" source="lcnaf">Kennedy, John F. (John
+			 Fitzgerald), 1917-1963.</persname> 
+		</controlaccess> 
+		<controlaccess> 
+		  <head>Subjects (Organizations)</head> 
+		  <corpname encodinganalog="610">University of Texas at
+			 Austin.</corpname> 
+		  <corpname encodinganalog="710" source="lcnaf">University of Texas.
+			 School of Law.</corpname> 
+		</controlaccess> 
+		<controlaccess> 
+		  <head>Subjects</head> 
+		  <subject encodinganalog="650">Judges -- United States.</subject> 
+		  <subject encodinganalog="650" source="lcsh">Presidents--United
+			 States--Staff.</subject> 
+		  <subject encodinganalog="650" source="lcsh">World War,
+			 1939-1945--Campaigns--Pacific Ocean.</subject> 
+		</controlaccess> 
+		<controlaccess> 
+		  <head>Places</head> 
+		  <geogname encodinganalog="651" source="lcnaf">Dallas (Tex.)</geogname> 
+		  <geogname encodinganalog="651" source="lcnaf">United States.
+			 Navy.</geogname> 
+		  <geogname encodinganalog="651" source="lcnaf">Washington
+			 (D.C.)</geogname> 
+		</controlaccess> 
+	 </controlaccess> 
+	 <prefercite encodinganalog="524"> 
+		<head>Preferred Citation</head><p>Barefoot Sanders Papers, 1940s-2009,
+		  Dolph Briscoe Center for American History, The University of Texas at
+		  Austin.</p> 
+	 </prefercite> 
+	 <separatedmaterial><!--Delete relatedmaterial if not applicable.-->
+		<head>Separated Material</head><p>Artifacts separated to Artifact
+		  Collection and require an appointment with artifacts curator. Contact
+		  repository.</p> 
+	 </separatedmaterial> 
+	 <relatedmaterial> 
+	 <!--Delete relatedmaterial if not applicable.-->
+		<head>Related Material</head><!--If you are referencing another CAH collection on TARO leave the extref tag and then type in the URL in href in the table to the upper-right. If it is not on 
+TARO, delete the extref tag and just type in the collection name.--><p>Barefoot
+		  Sanders’ other professional papers have been archived at the following
+		  institutions:</p> 
+		<p><emph render="bold">LBJ Presidential Library and Museum</emph> - all
+		  papers related to his service in the LBJ administration.</p> 
+		<p><emph render="bold">Tarlton Law Library, the University of Texas
+		  School of Law</emph> - all judicial papers from his career as a United States
+		  Federal District Judge for the Northern District of Texas.</p><p><emph
+		  render="bold">Southern Methodist University Law Library</emph> - all judicial
+		  papers related to the Tasby case surrounding the integration of the Dallas
+		  Public Schools.</p> 
+	 </relatedmaterial> 
+	 <processinfo><!--Delete processinfo if not known.-->
+		<head>Processing Information</head><!--Add additional revisions by adding a semi-colon and NAME, DATE. Remove sentence about revisions if none were made or sentence about original processor if unknown.--><p>This
+		  collection was processed by Megan Mummey, November 2009. The collection was revised by Ryder Kouba, October 2010.</p> 
+	 </processinfo><dsc type="in-depth"> 
+		<head>Detailed Description of the Papers</head> 
+		<c01 level="series" id="ser1"> 
+		  <did> 
+		  <!--For c01 unititle, if inventory is basically a container list type Inventory, if it is a series, type the series title for each c01. Delete Folder Tags.-->
+			 <unittitle>Inventory </unittitle> 
+		  </did> 
+		  <c02> 
+			 <did> 
+				<note><p><emph render="bold">[Stored off-site at LSF]</emph></p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02> 
+			 <did> 
+				<container type="box">2009-220/1</container> 
+				<unittitle>North Dallas High School</unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02> 
+			 <did> 
+				<unittitle>Military:</unittitle> 
+			 </did> 
+			 <c03> 
+				<did> 
+				  <unittitle>Mercer College and Notre Dame</unittitle> 
+				</did> 
+			 </c03> 
+			 <c03> 
+				<did> 
+				  <unittitle>Mercer and the Navy</unittitle> 
+				</did> 
+			 </c03> 
+			 <c03> 
+				<did> 
+				  <unittitle>Navy – Military, 
+					 <unitdate>1944</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03> 
+				<did> 
+				  <unittitle>Diary, 
+					 <unitdate>1946</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03> 
+				<did> 
+				  <unittitle>Navy – Photographs</unittitle> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		  <c02> 
+			 <did> 
+				<unittitle>University of Texas:</unittitle> 
+			 </did> 
+			 <c03> 
+				<did> 
+				  <unittitle>General Correspondence, 
+					 <unitdate>1947-1949</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03> 
+				<did> 
+				  <unittitle>Telegrams, 
+					 <unitdate>1948</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03> 
+				<did> 
+				  <unittitle>“Texas Ranger,” 
+					 <unitdate>1943, 1949</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03> 
+				<did> 
+				  <unittitle>History Notes</unittitle> 
+				</did> 
+			 </c03> 
+			 <c03> 
+				<did> 
+				  <unittitle>Travel in Central America, 
+					 <unitdate>1946-1947</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03> 
+				<did> 
+				  <unittitle>Hildebrand Moot Court Contest, 
+					 <unitdate>1949</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03> 
+				<did> 
+				  <unittitle>General Papers</unittitle> 
+				</did> 
+			 </c03> 
+			 <c03> 
+				<did> 
+				  <unittitle> Photographs</unittitle> 
+				</did> 
+			 </c03> 
+			 <c03> 
+				<did> 
+				  <unittitle> Ephemera</unittitle> 
+				</did> 
+			 </c03> 
+			 <c03> 
+				<did> 
+				  <unittitle>Clippings</unittitle> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		  <c02> 
+			 <did> 
+				<unittitle>Dallas 
+				  <unitdate>1950s:</unitdate></unittitle> 
+			 </did> 
+			 <c03> 
+				<did> 
+				  <unittitle>Attorney Barr Association work</unittitle> 
+				</did> 
+			 </c03> 
+			 <c03> 
+				<did> 
+				  <unittitle>Correspondence with Jan Scurlock, 
+					 <unitdate>1950-1951</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03> 
+				<did> 
+				  <unittitle> Ephemera</unittitle> 
+				</did> 
+			 </c03> 
+			 <c03> 
+				<did> 
+				  <unittitle>Clippings</unittitle> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		  <c02> 
+			 <did> 
+				<unittitle>Texas Congress, 
+				  <unitdate>1952-1959:</unitdate></unittitle> 
+			 </did> 
+			 <c03> 
+				<did> 
+				  <unittitle>Clippings</unittitle> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		  <c02> 
+			 <did> 
+				<unittitle>Kennedy Campaign:</unittitle> 
+			 </did> 
+			 <c03> 
+				<did> 
+				  <unittitle>Planning Campaign, 
+					 <unitdate>1960</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		  <c02> 
+			 <did> 
+				<unittitle>U.S. Attorney:</unittitle> 
+			 </did> 
+			 <c03> 
+				<did> 
+				  <unittitle> U.S. Attorney, 
+					 <unitdate>1960s</unitdate></unittitle> 
+				</did> 
+			 </c03> 
+			 <c03> 
+				<did> 
+				  <unittitle>LBJ Inauguration, 
+					 <unitdate>1965</unitdate> </unittitle> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		  <c02> 
+			 <did> 
+				<unittitle>Legislative Counsel:</unittitle> 
+			 </did> 
+			 <c03> 
+				<did> 
+				  <unittitle>Legislative Counsel on LBJ’s staff</unittitle> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		  <c02> 
+			 <did> 
+				<container type="box">2009-295/2</container> 
+				<unittitle>Failed Federal Judgeship:</unittitle> 
+			 </did> 
+			 <c03> 
+				<did> 
+				  <unittitle>Congratulatory Mail – Judgeship – Vol. One,
+					 </unittitle> 
+				  <unitdate>1968</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03> 
+				<did> 
+				  <unittitle>Coming Back to Texas, </unittitle> 
+				  <unitdate>1969</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03> 
+				<did> 
+				  <unittitle>Speech File – Barefoot Sanders, </unittitle> 
+				  <unitdate>August 1, 1969</unitdate> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		  <c02> 
+			 <did> 
+				<unittitle>LBJ Library, </unittitle> 
+				<unitdate>1971</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02> 
+			 <did> 
+				<unittitle>Speech Notes</unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02> 
+			 <did> 
+				<unittitle>Speech Material</unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02> 
+			 <did> 
+				<unittitle>Speech File, </unittitle> 
+				<unitdate>January 17, 1975</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02> 
+			 <did> 
+				<unittitle>1972 Senate Campaign:</unittitle> 
+			 </did> 
+			 <c03> 
+				<did> 
+				  <unittitle>1972 Senate Campaign Material</unittitle> 
+				</did> 
+			 </c03> 
+			 <c03> 
+				<did> 
+				  <unittitle> Jan Sanders’ Campaign Notes, </unittitle> 
+				  <unitdate>1971</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03> 
+				<did> 
+				  <unittitle>Itineraries, </unittitle> 
+				  <unitdate>1972</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03> 
+				<did> 
+				  <unittitle>Press Release Pool to Barefoot </unittitle> 
+				</did> 
+			 </c03> 
+			 <c03> 
+				<did> 
+				  <unittitle>Barefoot Sanders – Campaign Manual, </unittitle> 
+				  <unitdate>1971</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03> 
+				<did> 
+				  <unittitle>Campaign Chairmen, Address Book, </unittitle> 
+				  <unitdate>1972</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03> 
+				<did> 
+				  <unittitle>Senate Campaign Photographs,</unittitle> 
+				  <unitdate> 1971-1972</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03> 
+				<did> 
+				  <unittitle>Campaign Ephemera – bumper stickers, invitations,
+					 flyers, and envelopes, </unittitle> 
+				  <unitdate>1972</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03> 
+				<did> 
+				  <unittitle>Ephemera, </unittitle> 
+				  <unitdate>1970s</unitdate> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		  <c02> 
+			 <did> 
+				<unittitle>Federal Judgeship:</unittitle> 
+			 </did> 
+			 <c03> 
+				<did> 
+				  <unittitle> Printed Materials</unittitle> 
+				</did> 
+			 </c03> 
+			 <c03> 
+				<did> 
+				  <unittitle>Ephemera</unittitle> 
+				</did> 
+			 </c03> 
+			 <c03> 
+				<did> 
+				  <unittitle> Correspondence</unittitle> 
+				</did> 
+			 </c03> 
+			 <c03> 
+				<did> 
+				  <unittitle>Case Material</unittitle> 
+				</did> 
+			 </c03> 
+			 <c03> 
+				<did> 
+				  <unittitle>Photographs</unittitle> 
+				</did> 
+			 </c03> 
+			 <c03> 
+				<did> 
+				  <unittitle>Clippings, Court Cases</unittitle> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		  <c02> 
+			 <did> 
+				<unittitle>Memorial:</unittitle> 
+			 </did> 
+			 <c03> 
+				<did> 
+				  <unittitle>Portrait unveiling, </unittitle> 
+				  <unitdate>2009</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03> 
+				<did> 
+				  <unittitle>Memorial Service – Research by Larry Temple, Oral
+					 History Interview from LBJ Library</unittitle> 
+				</did> 
+			 </c03> 
+			 <c03> 
+				<did> 
+				  <unittitle>Memorial Materials, </unittitle> 
+				  <unitdate>2008-2009</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03> 
+				<did> 
+				  <unittitle>Tribute to the Sanders, </unittitle> 
+				  <unitdate>2008-2009</unitdate> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		  <c02> 
+			 <did> 
+				<container type="box">2009-220/3</container> 
+				<unittitle>Federal Judgeship:</unittitle> 
+			 </did> 
+			 <c03> 
+				<did> 
+				  <unittitle>Speeches:</unittitle> 
+				</did> 
+				<c04> 
+				  <did> 
+					 <unittitle>Speech notes, </unittitle> 
+					 <unitdate>1979-2005</unitdate> 
+				  </did> 
+				</c04> 
+				<c04> 
+				  <did> 
+					 <unittitle>U.S. Constitution</unittitle> 
+				  </did> 
+				  <c05> 
+					 <did> 
+						<unittitle>Speech outline, </unittitle> 
+						<unitdate>1987</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05> 
+					 <did> 
+						<unittitle>Notes – Material, </unittitle> 
+						<unitdate>September 1987-2005</unitdate> 
+					 </did> 
+				  </c05> 
+				</c04> 
+				<c04> 
+				  <did> 
+					 <unittitle>Black History Month Speech, </unittitle> 
+					 <unitdate>February 26, 2004</unitdate> 
+				  </did> 
+				</c04> 
+				<c04> 
+				  <did> 
+					 <unittitle>Info-References: Other material for
+						speeches</unittitle> 
+				  </did> 
+				</c04> 
+				<c04> 
+				  <did> 
+					 <unittitle>“Complex Litigation: - State Bar Talk, </unittitle> 
+					 <unitdate>March 18, 1888</unitdate> 
+				  </did> 
+				</c04> 
+				<c04> 
+				  <did> 
+					 <unittitle>Dallas Bar Association – Future of Business Dispute
+						Resolution, </unittitle> 
+					 <unitdate>December 8, 1997</unitdate> 
+				  </did> 
+				</c04> 
+				<c04> 
+				  <did> 
+					 <unittitle>Criminal Defense Lawyers Seminar – speech notes,
+						</unittitle> 
+					 <unitdate>October 1988</unitdate> 
+				  </did> 
+				</c04> 
+				<c04> 
+				  <did> 
+					 <unittitle>Kennedy Assassination </unittitle> 
+				  </did> 
+				  <c05> 
+					 <did> 
+						<unittitle>Kennedy Dedication, </unittitle> 
+						<unitdate>November 22, 1993</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05> 
+					 <did> 
+						<unittitle>Notes regarding assassination, </unittitle> 
+						<unitdate>November 22, 1963</unitdate> 
+					 </did> 
+				  </c05> 
+				</c04> 
+				<c04> 
+				  <did> 
+					 <unittitle>Federal Rules Amendments Speech outline,
+						</unittitle> 
+					 <unitdate>December 1, 1993</unitdate> 
+				  </did> 
+				</c04> 
+				<c04> 
+				  <did> 
+					 <unittitle>The Brethren: Book review info.</unittitle> 
+				  </did> 
+				</c04> 
+				<c04> 
+				  <did> 
+					 <unittitle>Larry Temple: Lecture “Higher Education ,”
+						</unittitle> 
+					 <unitdate>November 1986</unitdate> 
+				  </did> 
+				</c04> 
+				<c04> 
+				  <did> 
+					 <unittitle>DISD Learning Centers Remarks, </unittitle> 
+					 <unitdate>1995</unitdate> 
+				  </did> 
+				</c04> 
+				<c04> 
+				  <did> 
+					 <unittitle>Commencement Ceremony Science/Engineering Magnet,
+						</unittitle> 
+					 <unitdate>May 12, 1995</unitdate> 
+				  </did> 
+				</c04> 
+				<c04> 
+				  <did> 
+					 <unittitle>DISD Townview Ribbon Cutting, </unittitle> 
+					 <unitdate>August 13, 1995</unitdate> 
+				  </did> 
+				</c04> 
+				<c04> 
+				  <did> 
+					 <unittitle>Federal Bar Association – Installation and Update
+						Remarks, </unittitle> 
+					 <unitdate>June 1995</unitdate> 
+				  </did> 
+				</c04> 
+			 </c03> 
+			 <c03> 
+				<did> 
+				  <unittitle>Honors, articles, reunions:</unittitle> 
+				</did> 
+				<c04> 
+				  <did> 
+					 <unittitle>Honors:</unittitle> 
+				  </did> 
+				  <c05> 
+					 <did> 
+						<unittitle>Barefoot Sanders Endowed Presidential Scholarship,
+						  UT, </unittitle> 
+						<unitdate>1994</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05> 
+					 <did> 
+						<unittitle>Martin Luther King Justice Award, </unittitle> 
+						<unitdate>2006</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05> 
+					 <did> 
+						<unittitle>University of Texas Justice Award, </unittitle> 
+						<unitdate>November 3, 2005</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05> 
+					 <did> 
+						<unittitle>SMU Reception, </unittitle> 
+						<unitdate>January 12, 2005</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05> 
+					 <did> 
+						<unittitle>SMU Degree of Doctor of Law, honoris causa,
+						  </unittitle> 
+						<unitdate>May 16, 1999</unitdate> 
+					 </did> 
+				  </c05>
+				  <c05> 
+					 <did> 
+						<container type="box">2009-220/4</container> 
+						<unittitle>Hispanic Bar Association Award,</unittitle> 
+						<unitdate> 2007</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05> 
+					 <did> 
+						<unittitle>DISD Luncheon, Magnet School Award, </unittitle> 
+						<unitdate>October 30, 2003</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05> 
+					 <did> 
+						<unittitle>CASA Dinner, etc.</unittitle> 
+					 </did> 
+				  </c05> 
+				  <c05> 
+					 <did> 
+						<unittitle>Dallas Bar Association Professionalism
+						  Award,</unittitle> 
+						<unitdate> 2002</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05> 
+					 <did> 
+						<unittitle>Texas Bar Foundation, Outstanding 50-year lawyers,
+						  </unittitle> 
+						<unitdate>2002</unitdate> 
+					 </did> 
+				  </c05> 
+				</c04> 
+				<c04> 
+				  <did> 
+					 <unittitle>Articles:</unittitle> 
+				  </did> 
+				  <c05> 
+					 <did> 
+						<unittitle>Legal Legends, </unittitle> 
+						<unitdate>2000</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05> 
+					 <did> 
+						<unittitle>American Bar Association Litigation Article
+						  (Portia and Barry McNeil)</unittitle> 
+					 </did> 
+				  </c05> 
+				  <c05> 
+					 <did> 
+						<unittitle>Westward Portrait article</unittitle> 
+					 </did> 
+				  </c05> 
+				  <c05> 
+					 <did> 
+						<unittitle>Dallas City Herald, </unittitle> 
+						<unitdate>June 1, 1986</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05> 
+					 <did> 
+						<unittitle>High profile, Dallas Morning News, </unittitle> 
+						<unitdate>June 19, 1988</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05> 
+					 <did> 
+						<unittitle> American Bar Association Journal, </unittitle> 
+						<unitdate>February 1987</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05> 
+					 <did> 
+						<unittitle>Dallas Bar Headnotes Profile, </unittitle> 
+						<unitdate>1988</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05> 
+					 <did> 
+						<unittitle>American Board of Trial Advocates, Honor the
+						  Judiciary, </unittitle> 
+						<unitdate>November 1989</unitdate> 
+					 </did> 
+				  </c05> 
+				</c04> 
+				<c04> 
+				  <did> 
+					 <unittitle>Reunions:</unittitle> 
+				  </did> 
+				  <c05> 
+					 <did> 
+						<unittitle>UT Law School, 50th Reunion, </unittitle> 
+						<unitdate>April 14-15, 2000</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05> 
+					 <did> 
+						<unittitle>Legal Services of North Texas Annual Equal Justice
+						  Award Event, </unittitle> 
+						<unitdate>June 25, 2002</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05> 
+					 <did> 
+						<unittitle>Law School Honor, </unittitle> 
+						<unitdate>April 17, 1999</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05> 
+					 <did> 
+						<unittitle>“Barefoot Sanders Award,” Greater Dallas Crime
+						  Commission, </unittitle> 
+						<unitdate>November 1999</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05> 
+					 <did> 
+						<unittitle>UT 50th Reunion, </unittitle> 
+						<unitdate>April 12, 2008</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05> 
+					 <did> 
+						<unittitle>Reunion, </unittitle> 
+						<unitdate>2004</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05> 
+					 <did> 
+						<unittitle>SMU Dedication Ceremony, (pictures)</unittitle> 
+						<unitdate>January 2005 </unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05> 
+					 <did> 
+						<unittitle>Murnane, Thomas G., NOHS Award Nomination
+						  Information</unittitle> 
+					 </did> 
+				  </c05> 
+				  <c05> 
+					 <did> 
+						<unittitle>UT alumni Awards Dinner, </unittitle> 
+						<unitdate>March 20, 2002</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05> 
+					 <did> 
+						<unittitle>UT 100 years celebration, </unittitle> 
+						<unitdate>April 6, 2002</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05> 
+					 <did> 
+						<unittitle>NDHS Homecoming Parade, </unittitle> 
+						<unitdate>2001</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05> 
+					 <did> 
+						<unittitle>50th Reunion (non-law school) </unittitle> 
+						<unitdate>April 6 – 7, 2000</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05> 
+					 <did> 
+						<unittitle>Texas Cowboys Alumni Association</unittitle> 
+					 </did> 
+				  </c05> 
+				  <c05> 
+					 <did> 
+						<unittitle>Class of 1949, University of Texas Reunion,
+						  Steering committee, </unittitle> 
+						<unitdate>1999</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05> 
+					 <did> 
+						<unittitle>UT Law School Reunions,</unittitle> 
+						<unitdate> 1990, 1995</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05> 
+					 <did> 
+						<unittitle>USNSA Anthology Project, </unittitle> 
+						<unitdate>December 1997</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05> 
+					 <did> 
+						<unittitle>UT Cheerleader Alumni</unittitle> 
+					 </did> 
+				  </c05> 
+				  <c05> 
+					 <did> 
+						<unittitle>Kennedy Reunion, </unittitle> 
+						<unitdate>November 15, 1994</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05> 
+					 <did> 
+						<unittitle>North Dallas High School Directory, </unittitle> 
+						<unitdate>1995</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05> 
+					 <did> 
+						<unittitle>Law School Honors, </unittitle> 
+						<unitdate>1999</unitdate> 
+					 </did> 
+				  </c05> 
+				  <c05> 
+					 <did> 
+						<unittitle>North Dallas High School Distinguished
+						  Alumnus,</unittitle> 
+						<unitdate> March 1995</unitdate> 
+					 </did> 
+				  </c05> 
+				</c04> 
+			 </c03> 
+		  </c02> 
+		  <c02> 
+			 <did> 
+				<container type="box">2009-220/5</container> 
+				<unittitle>1972 Senate Campaign:</unittitle> 
+			 </did> 
+			 <c03> 
+				<did> 
+				  <unittitle>Senate Campaign Supporter’s Numbers, </unittitle> 
+				  <unitdate>1972</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03> 
+				<did> 
+				  <unittitle>Senate Campaign Supporters, </unittitle> 
+				  <unitdate>1972</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03> 
+				<did> 
+				  <unittitle>Calendars, </unittitle> 
+				  <unitdate>1970-1972</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03> 
+				<did> 
+				  <unittitle>Barefoot’s Tower Cards</unittitle> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		  <c02> 
+			 <did> 
+				<unittitle>Calendar, </unittitle> 
+				<unitdate>1963</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02> 
+			 <did> 
+				<unittitle>Calendar, </unittitle> 
+				<unitdate>1969</unitdate> 
+			 </did> 
+		  </c02>
+			<c02>
+			<did>
+				<container type="box">2010-009/1</container>
+				<unittitle>Senate Campaign, <unitdate>1972</unitdate></unittitle>
+			</did>
+				<c03>
+					<did>
+						<unittitle>Out-of-State Campaign Contributions correspondence</unittitle>
+					</did>
+				</c03>
+				<c03>
+					<did>
+						<unittitle>Polls</unittitle>
+					</did>
+				</c03>
+				<c03>
+					<did>
+						<unittitle>Press Releases (by date of release)</unittitle>
+					</did>
+				</c03>
+				<c03>
+					<did>
+						<unittitle>Press Releases (by subject matter</unittitle>
+					</did>
+				</c03>
+				<c03>
+					<did>
+						<unittitle>Questionnaires</unittitle>
+					</did>
+				</c03>
+				<c03>
+					<did>
+						<unittitle>Scheduling</unittitle>
+					</did>
+				</c03>
+				<c03>
+					<did>
+						<unittitle>Tower, John information about</unittitle>
+					</did>
+				
+					<c04>
+						<did>
+							<unittitle>Tower</unittitle>
+						</did>
+					</c04>
+					<c04>
+						<did>
+							<unittitle>Significant absences</unittitle>
+						</did>
+					</c04>
+					<c04>
+						<did>
+							<unittitle>Record</unittitle>
+						</did>
+					
+					</c04>
+				</c03>
+				<c03>
+					<did>
+						<unittitle>Vote Registration</unittitle>
+					</did>
+				</c03>
+				<c03>
+					<did>
+						<unittitle>County Lists</unittitle>
+					</did>
+				</c03>
+				<c03>
+					<did>
+						<unittitle>Washington D.C. correspondence</unittitle>
+					</did>
+				</c03>	
+			</c02>
+		  	<c02>
+		  		<did><container type="box">2010-009/5</container>
+		  			<unittitle>Senate Campaign, <unitdate>1972</unitdate></unittitle>
+		  		</did>
+				<c03>
+					<did>
+						<unittitle>State Headquarters Mailing Lists</unittitle>
+					</did>
+				
+					<c04>
+						<did>
+							<unittitle>Bentsen Managers</unittitle>
+						</did>
+					</c04>
+					<c04>
+						<did>
+							<unittitle>County and District Clerks</unittitle>
+						</did>
+					</c04>
+					<c04>
+						<did>
+							<unittitle>Dallas County Precinct Chairman</unittitle>
+						</did>
+					</c04>
+					<c04>
+						<did>
+							<unittitle>Environmentalists</unittitle>
+						</did>
+					</c04>
+					<c04>
+						<did>
+							<unittitle>Fairmont Luncheon</unittitle>
+						</did>
+					</c04>
+					<c04>
+						<did>
+							<unittitle>Miscellaneous</unittitle>
+						</did>
+					</c04>
+					<c04>
+						<did>
+							<unittitle>State Democratic Executive Committee (SDEC) contacts</unittitle>
+						</did>
+					</c04>
+					<c04>
+						<did>
+							<unittitle>State Convention Delegates and Alternates</unittitle>
+						</did>
+					</c04>
+					<c04>
+						<did>
+							<unittitle>Teachers</unittitle>
+						</did>
+					</c04>
+					<c04>
+						<did>
+							<unittitle>Texas Motor Transport Association</unittitle>
+						</did>
+					</c04>
+					<c04>
+						<did>
+							<unittitle>University of Texas (UT) Law Graduates, <unitdate>1949-1951</unitdate></unittitle>
+						</did>
+					</c04>
+					<c04>
+						<did>
+							<unittitle>Young Democrats</unittitle>
+						</did>
+					</c04>
+					<c04>
+						<did>
+							<unittitle>Youth</unittitle>
+						</did>
+					</c04>
+				</c03>
+				<c03>
+					<did>
+						<unittitle>Media</unittitle>
+					</did>
+					<c04>
+						<did>
+							<unittitle>Media Buys</unittitle>
+						</did>
+					</c04>
+					<c04>
+						<did>
+							<unittitle>Newspapers</unittitle>
+						</did>
+					</c04>
+					<c04>
+						<did>
+							<unittitle>Television Stations</unittitle>
+						</did>
+					</c04>
+		  		</c03>
+				<c03>
+					<did>
+						<unittitle>Mexican-American Affairs</unittitle>
+					</did>
+				
+					<c04>
+						<did>
+							<unittitle>Advance man, etc.</unittitle>
+						</did>
+					</c04>
+					<c04>
+						<did>
+							<unittitle>Campaign manual</unittitle>
+						</did>
+					</c04>
+					<c04>
+						<did>
+							<unittitle>Manager mailings</unittitle>
+						</did>
+					</c04>
+					<c04>
+						<did>
+							<unittitle>Personnel</unittitle>
+						</did>
+					</c04>
+					<c04>
+						<did>
+							<unittitle>Rental Agreement</unittitle>
+						</did>
+					</c04>
+					<c04>
+						<did>
+							<unittitle>Strategy meetings</unittitle>
+						</did>
+					</c04>
+				</c03>
+		  	</c02>	
+			<c02>
+				<did><container type="box">2010-009/5</container>
+					<unittitle>Senate Campaign, <unitdate>1972</unitdate></unittitle>
+				</did>
+			
+				<c03>
+					<did>
+						<unittitle>Itinerary #2</unittitle>
+					</did>
+				</c03>
+				<c03>
+					<did>
+						<unittitle>Itineraries - General election</unittitle>
+					</did>
+				</c03>
+				<c03>
+					<did>
+						<unittitle>Bentsen Mailing list</unittitle>
+					</did>
+				</c03>
+				<c03>
+					<did>
+						<unittitle>Barefoot-Personal</unittitle>
+					</did>
+				</c03>
+				<c03>
+					<did>
+						<unittitle>Campaign Materials</unittitle>
+					</did>
+			
+					<c04>
+						<did>
+							<unittitle>Other races, Yarborough manual</unittitle>
+						</did>
+					</c04>
+					<c04>
+						<did>
+							<unittitle>Ad copy - Spots</unittitle>
+						</did>
+					</c04>
+					<c04>
+						<did>
+							<unittitle>Barefoot's positions</unittitle>
+						</did>
+					</c04>
+					<c04>
+						<did>
+							<unittitle>Sanders biographies</unittitle>
+						</did>
+					</c04>
+				</c03>	
+				<c03>
+					<did>
+						<unittitle>Election results</unittitle>
+					</did>
+				
+					<c04>
+						<did>
+							<unittitle>Primary and runoff</unittitle>
+						</did>
+					</c04>
+					<c04>
+						<did>
+							<unittitle>November 7</unittitle>
+						</did>
+					</c04>
+					<c04>
+						<did>
+							<unittitle>Tower-Bush analysis</unittitle>
+						</did>
+					</c04>
+				</c03>
+				<c03>
+					<did>
+						<unittitle>Financial reports</unittitle>
+					</did>
+				
+					<c04>
+						<did>
+							<unittitle>Federal</unittitle>
+						</did>
+					</c04>
+					<c04>
+						<did>
+							<unittitle>State</unittitle>
+						</did>
+					</c04>
+				</c03>
+				<c03>
+					<did>
+						<unittitle>Invoices</unittitle>
+					</did>
+				</c03>
+				<c03>
+					<did>
+						<unittitle>Itinerary-Pre-primary</unittitle>
+					</did>
+				</c03>
+				<c03>
+					<did>
+						<unittitle>Mailing lists</unittitle>
+					</did>
+				
+					<c04>
+						<did>
+							<unittitle>Johnson, Lyndon B.<unitdate>1964</unitdate></unittitle>
+						</did>
+					</c04>
+					<c04>
+						<did>
+							<unittitle>Labor</unittitle>
+						</did>
+					</c04>
+					<c04>
+						<did>
+							<unittitle>Agriculture</unittitle>
+						</did>
+					</c04>
+				</c03>	
+			</c02>
+			<c02>
+				<did><container type="box">2009-359/3</container>
+					<unittitle>Campaign Contributors correspondence, <unitdate>1972</unitdate></unittitle>
+				</did>
+				<c03>
+					<did>
+						<unittitle>By county (Texas)</unittitle>
+					</did>
+					<c04>
+						<did>
+							<unittitle>Anderson-Zavala</unittitle>
+						</did>
+					</c04>
+				</c03>
+				<c03>
+					<did>
+						<unittitle>Washington D.C.</unittitle>
+					</did>
+				</c03>
+				<c03>
+					<did>
+						<unittitle>Miscellaneous out-of-state</unittitle>
+					</did>
+				</c03>
+				<c03>
+					<did>
+						<unittitle>Pre-primary contributions</unittitle>
+					</did>
+				</c03>	
+			</c02>
+			<c02>
+				<did>
+					<unittitle>Dallas County campaign, 1972</unittitle>
+				</did>
+			</c02>
+			<c02>
+				<did>
+					<container type="box">2009-359/1</container>
+					<unittitle>Campaign correspondence by county, <unitdate>1972</unitdate></unittitle>
+				</did>
+				<c03>
+					<did>
+						<unittitle>Anderson-Dallas #3</unittitle>
+					</did>
+				</c03>						
+				<c03>
+					<did>
+						<container type="box">2010-009/3</container>
+						<unittitle>Dallas #4-Gregg</unittitle>
+					</did>
+				</c03>
+				<c03>
+					<did>
+						<container type="box">2009-359/5</container>
+						<unittitle>Grimes-Lampasas</unittitle>
+					</did>
+				</c03>
+				<c03>
+					<did>
+						<container type="box">2009-359/2</container>
+						<unittitle>La Salle-San Jacinto</unittitle>
+					</did>
+				</c03>
+					<c03>
+					<did>
+						<container type="box">2010-009/4</container>
+						<unittitle>San Patrico-Zavala</unittitle>
+					</did>
+				</c03>	
+			</c02>
+			<c02> 
+			 <did> 
+				<container type="box">2009-295/1</container> 
+				<unittitle>North Dallas High School, Debate Team, </unittitle> 
+				<unitdate>1940-1942</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02> 
+			 <did> 
+				<unittitle>Military: </unittitle> 
+			 </did> 
+			 <c03> 
+				<did> 
+				  <unittitle>“The Mercer Cluster,” </unittitle> 
+				  <unitdate>1944</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03> 
+				<did> 
+				  <unittitle>Navy Record and I.D., </unittitle> 
+				  <unitdate>1940s</unitdate> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		  <c02> 
+			 <did> 
+				<unittitle>University of Texas:</unittitle> 
+			 </did> 
+			 <c03> 
+				<did> 
+				  <unittitle>Annual Roundup Rodeo, </unittitle> 
+				  <unitdate>1947</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03> 
+				<did> 
+				  <unittitle>Rodeo Photographs, </unittitle> 
+				  <unitdate>1940s</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03> 
+				<did> 
+				  <unittitle>Photographs and Ephemera, </unittitle> 
+				  <unitdate>1940s and undated</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03> 
+				<did> 
+				  <unittitle>Central America</unittitle> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		  <c02> 
+			 <did> 
+				<unittitle>Dallas 1950s:</unittitle> 
+			 </did> 
+			 <c03> 
+				<did> 
+				  <unittitle>Award of Merit Application, </unittitle> 
+				  <unitdate>1951</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03> 
+				<did> 
+				  <unittitle> Personal, </unittitle> 
+				  <unitdate>1950s</unitdate> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		  <c02> 
+			 <did> 
+				<unittitle>Texas Congress, </unittitle> 
+				<unitdate>1952-1959:</unitdate> 
+			 </did> 
+			 <c03> 
+				<did> 
+				  <unittitle> Scrapbook – Clippings – Texas Congress, </unittitle> 
+				  <unitdate>1950s</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03> 
+				<did> 
+				  <unittitle>Campaign Speeches and Radio, </unittitle> 
+				  <unitdate>1952</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03> 
+				<did> 
+				  <unittitle> Texas Legislative Directories, </unittitle> 
+				  <unitdate>1950s</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03> 
+				<did> 
+				  <unittitle>Clippings and Printed Material, </unittitle> 
+				  <unitdate>1950s</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03> 
+				<did> 
+				  <unittitle>Texas Legislature, </unittitle> 
+				  <unitdate>1952-1957</unitdate> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		  <c02> 
+			 <did> 
+				<unittitle>U.S. Attorney:</unittitle> 
+			 </did> 
+			 <c03> 
+				<did> 
+				  <unittitle>Clippings, Printed Material, and Ephemera,
+					 </unittitle> 
+				  <unitdate>1960s</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03> 
+				<did> 
+				  <unittitle>Personal, </unittitle> 
+				  <unitdate>October-December 1963</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03> 
+				<did> 
+				  <unittitle>Personal, </unittitle> 
+				  <unitdate>April 1-June 30, 1963</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03> 
+				<did> 
+				  <unittitle>Personal, </unittitle> 
+				  <unitdate>January-March 1963</unitdate> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		  <c02> 
+			 <did> 
+				<unittitle>Printed Material, </unittitle> 
+				<unitdate>1970s-1960s</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02> 
+			 <did> 
+				<unittitle>Political Pre-Judgeship Material, </unittitle> 
+				<unitdate>1950s-1970s</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02> 
+			 <did> 
+				<unittitle>1972 Senate Campaign:</unittitle> 
+			 </did> 
+			 <c03> 
+				<did> 
+				  <unittitle>Clippings from George Christian, </unittitle> 
+				  <unitdate>1972</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03> 
+				<did> 
+				  <unittitle>Political Pre-Judgeship Clippings, </unittitle> 
+				  <unitdate>1970s</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03> 
+				<did> 
+				  <container type="box">2009-295/2</container> 
+				  <unittitle>Political Pre-Judgeship Clippings, </unittitle> 
+				  <unitdate>1972</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03> 
+				<did> 
+				  <unittitle>Barefoot’s Press Releases</unittitle> 
+				</did> 
+			 </c03> 
+			 <c03> 
+				<did> 
+				  <unittitle>Press Release Pool, </unittitle> 
+				  <unitdate>1972</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03> 
+				<did> 
+				  <unittitle>Barefoot Press II</unittitle> 
+				</did> 
+			 </c03> 
+			 <c03> 
+				<did> 
+				  <unittitle>Run-off Releases</unittitle> 
+				</did> 
+			 </c03> 
+			 <c03> 
+				<did> 
+				  <unittitle>Duplicate Clippings</unittitle> 
+				</did> 
+			 </c03> 
+			 <c03> 
+				<did> 
+				  <unittitle>Campaign Materials, </unittitle> 
+				  <unitdate>1972</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03> 
+				<did> 
+				  <unittitle>Clippings, Photocopies,</unittitle> 
+				  <unitdate> 1972</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03> 
+				<did> 
+				  <unittitle>Clippings, </unittitle> 
+				  <unitdate>1972</unitdate> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		  <c02> 
+			 <did> 
+				<unittitle>Federal Judgeship:</unittitle> 
+			 </did> 
+			 <c03> 
+				<did> 
+				  <unittitle>News clippings – Judgeship, </unittitle> 
+				  <unitdate>1979-2006</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03> 
+				<did> 
+				  <unittitle>Judgeship Material, </unittitle> 
+				  <unitdate>1980s-1990s</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03> 
+				<did> 
+				  <unittitle>Judgeship,</unittitle> 
+				  <unitdate> 1979-2006</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03> 
+				<did> 
+				  <unittitle>Historic Dem. 06</unittitle> 
+				</did> 
+			 </c03> 
+			 <c03> 
+				<did> 
+				  <unittitle>Oral History – (Dallas Public Library)</unittitle> 
+				  <unitdate>Draft 1984 </unitdate> 
+				</did> 
+			 </c03> 
+			 <c03> 
+				<did> 
+				  <unittitle>Judicial, </unittitle> 
+				  <unitdate>1979 -2006</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03> 
+				<did> 
+				  <unittitle>Judge – Poems – Clerks</unittitle> 
+				</did> 
+			 </c03> 
+			 <c03> 
+				<did> 
+				  <unittitle>Correspondence, </unittitle> 
+				  <unitdate>1990s</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03> 
+				<did> 
+				  <unittitle>Judgeship, photos, </unittitle> 
+				  <unitdate>1990s</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03> 
+				<did> 
+				  <unittitle>Judgeship, </unittitle> 
+				  <unitdate>1990s</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03> 
+				<did> 
+				  <unittitle>Texas Exes Membership, </unittitle> 
+				  <unitdate>1994</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03> 
+				<did> 
+				  <unittitle>November 6 Luncheon, Judges list plus
+					 Clerks</unittitle> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		  <c02>
+		  	<did>
+		  		<container type="box">2010-092/1</container>
+		  		<unittitle>Political files, <unitdate>1961-1978</unitdate></unittitle>
+		  	</did>
+		  		<c03>
+		  			<did>
+		  				<unittitle>Political correspondence, <unitdate>1975</unitdate></unittitle>
+		  			</did>
+		  		</c03>
+		  		<c03>
+		  			<did>
+		  				<unittitle>Political correspondence, <unitdate>1976</unitdate></unittitle>
+		  			</did>
+		  		</c03>
+		  		<c03>
+		  			<did>
+		  				<unittitle>Political correspondence, <unitdate>1977</unitdate></unittitle>
+		  			</did>
+		  		</c03>
+		  		<c03>
+		  			<did>
+		  				<unittitle>Gary Weber for Mayor contributions, <unitdate>1976</unitdate></unittitle>
+		  			</did>
+		  		</c03>
+		  		<c03>
+		  			<did>
+		  				<unittitle>Election Analyses, <unitdate>1976</unitdate></unittitle>
+		  			</did>
+		  		</c03>
+		  		<c03>
+		  			<did>
+		  				<unittitle>John Tower info (empty)</unittitle>
+		  			</did>
+		  		</c03>
+		  		<c03>
+		  			<did>
+		  				<unittitle>Bob Krueger info, <unitdate>1977</unitdate></unittitle>
+		  			</did>
+		  		</c03>
+		  		<c03>
+		  			<did>
+		  				<unittitle>Press clippings, <unitdate>1977</unitdate></unittitle>
+		  			</did>
+		  		</c03>
+		  		<c03>
+		  			<did>
+		  				<unittitle>Energy-President's program, <unitdate>1977</unitdate></unittitle>
+		  			</did>
+		  		</c03>
+		  		<c03>
+		  			<did>
+		  				<unittitle>Ralph Yarborough's record (including financial disclosure, <unitdate>1972</unitdate></unittitle>
+		  			</did>
+		  		</c03>
+		  		<c03>
+		  			<did>
+		  				<unittitle>Congratulatory letters, <unitdate>1965</unitdate></unittitle>
+		  			</did>
+		  		</c03>
+		  		<c03>
+		  			<did><unittitle>Personal file-Corresondence, <unitdate>1961-1964</unitdate></unittitle>
+		  			</did>
+		  		</c03>
+		  		<c03>
+		  			<did>
+		  				<unittitle>Travel around state prior to 1978 campaign</unittitle>
+		  			</did>
+		  			<c04>
+		  				<did>
+		  					<unittitle>Collin-McKinney</unittitle>
+		  				</did>
+		  			</c04>
+		  			<c04>
+		  				<did>
+		  					<unittitle>Tarrant-Fort Worth</unittitle>
+		  				</did>
+		  			</c04>
+		  			<c04>
+		  				<did>
+		  					<unittitle>Gregg County-Longview</unittitle>
+		  				</did>		  					
+		  			</c04>
+		  			<c04>
+		  				<did>
+		  					<unittitle>Waco</unittitle>
+		  				</did>
+		  			</c04>
+		  			<c04>
+		  				<did>
+		  					<unittitle>John Hannah-East Texas</unittitle>
+		  				</did>
+		  			</c04>
+		  			<c04>
+		  				<did>
+		  					<unittitle>Valley (Harlingen, McAllen, Raymondville, etc.</unittitle>
+		  				</did>
+		  			</c04>
+		  			<c04>
+		  				<did>
+		  					<unittitle>Houston</unittitle>
+		  				</did>
+		  			</c04>
+		  			<c04>
+		  				<did>
+		  					<unittitle>Nueces County and Area</unittitle>
+		  				</did>
+		  			</c04>
+		  			<c04>
+		  				<did>
+		  					<unittitle>Sherman-Denison</unittitle>
+		  				</did>
+		  			</c04>
+		  			<c04>
+		  				<did>
+		  					<unittitle>Austin</unittitle>
+		  				</did>
+		  			</c04>
+		  			<c04>
+		  				<did>
+		  					<unittitle>Denton</unittitle>
+		  				</did>
+		  			</c04>
+		  			<c04>
+		  				<did>
+		  					<unittitle>San Antonio</unittitle>
+		  				</did>
+		  			</c04>
+		  			<c04>
+		  				<did>
+		  					<unittitle>Midland-Odessa</unittitle>
+		  				</did>
+		  			</c04>
+		  			<c04>
+		  				<did>
+		  					<unittitle>El Paso</unittitle>
+		  				</did>
+		  			</c04>
+		  			<c04>
+		  				<did>
+		  					<unittitle>Wichita Falls</unittitle>
+		  				</did>
+		  			</c04>
+		  			<c04>
+		  				<did>
+		  					<unittitle>Amarillo</unittitle>
+		  				</did>
+		  			</c04>
+		  			<c04>
+		  				<did>
+		  					<unittitle>Lubbock</unittitle>
+		  				</did>
+		  			</c04>
+		  			<c04>
+		  				<did>
+		  					<unittitle>Beaumont</unittitle>
+		  				</did>
+		  			</c04>
+		  			<c04>
+		  				<did>
+		  					<unittitle>Travel</unittitle>
+		  				</did>
+		  			</c04>
+		  		</c03>		  	
+		  </c02>
+		  <c02>
+		  	<did>
+		  		<container type="bpx">2010-009/6</container>
+		  		<unittitle>Correspondence, <unitdate>1958-1960</unitdate></unittitle>
+		  	</did>			
+		  		<c03>
+		  			<did>
+		  				<unittitle>Dallas County, re: Congressional campaign, <unitdate>1958</unitdate></unittitle>
+		  			</did>
+		  		</c03>
+		  		<c03>
+		  			<did>
+		  				<unittitle>Sanders' Personal, <unitdate>1959</unitdate></unittitle>
+		  			</did>
+		  		</c03>
+		  		<c03>
+		  			<did>
+		  				<unittitle>Thank you letters and congratulations, <unitdate>1958</unitdate></unittitle>
+		  			</did>
+		  		</c03>
+		  		<c03>
+		  			<did>
+		  				<unittitle>Miscellaneous campaign, <unitdate>1958</unitdate></unittitle>
+		  			</did>
+		  		</c03>
+		  		<c03>
+		  			<did>
+		  				<unittitle>Truman Diamond Jubilee, <unitdate>1959</unitdate></unittitle>
+		  			</did>
+		  		</c03>
+		  		<c03>
+		  			<did>
+		  				<unittitle>Correspondence, <unitdate>1958</unitdate></unittitle>
+		  			</did>
+		  		</c03>
+		  		<c03>
+		  			<did>
+		  				<unittitle>Miscellaneous, <unitdate>1960</unitdate></unittitle>
+		  			</did>
+		  		</c03>
+		 	
+		  		<c03>
+		  			<did>
+		  				<unittitle>Texas Mental Health Code, <unitdate>1957</unitdate></unittitle>
+		  			</did>
+		  		</c03>
+		  		<c03>
+		  			<did>
+		  				<unittitle>Sanders' Personal correspondence, <unitdate>1957</unitdate></unittitle>
+		  			</did>
+		  		</c03>	
+		  		<c03>
+		  			<did>
+		  				<unittitle>Sanders' Personal correspondence, <unitdate>1966</unitdate></unittitle>
+		  			</did>
+		  		</c03>
+			 </c02>
+			<c02>
+				<did>
+					<container type="box">2010-009/2</container>
+					<unittitle>Correspondence, <unitdate>1957-1964</unitdate></unittitle>
+				</did>
+				<c03>
+					<did>
+						<unittitle>Dallas Grand Jury, <unitdate>1962</unitdate></unittitle>
+					</did>
+				</c03>
+				<c03>
+					<did>
+						<unittitle>Southern Methodist University (SMU) Seminar, <unitdate>1962</unitdate></unittitle>
+					</did>
+				</c03>
+				<c03>
+					<did>
+						<unittitle>Vice President's visit, <unitdate>1963</unitdate></unittitle>
+					</did>
+				</c03>
+				<c03>
+					<did>
+						<unittitle>Federal Grand Jury-Lubbock, <unitdate>1963</unitdate></unittitle>
+					</did>
+				</c03>
+				<c03>
+					<did>
+						<unittitle>Federal Grand Jury-Wichita Falls, <unitdate>1963</unitdate></unittitle>
+					</did>
+				</c03>
+				<c03>
+					<did>
+						<unittitle>Sanders' Personal, <unitdate>October 1961-January 1962</unitdate></unittitle>
+					</did>
+				</c03>
+				<c03>
+					<did>
+						<unittitle>Texas Bar Joural-Civil Rights Article, <unitdate>1964</unitdate></unittitle>
+					</did>
+				</c03>
+				<c03>
+					<did>
+						<unittitle>Briefs, <unitdate>1961-1962</unitdate></unittitle>
+					</did>
+				</c03>
+				<c03>
+					<did>
+						<unittitle>Correspondence with Senator Ralph Yarborough, <unitdate>1963</unitdate></unittitle>
+					</did>
+				</c03>
+				<c03>
+					<did>
+						<unittitle>Summary Witness-Criminal Tax Trial-Testimony by Joe Houston</unittitle>
+					</did>
+				</c03>
+				<c03>
+					<did>
+						<unittitle>Federal Grand Jury-Amarillo, <unitdate>1963</unitdate></unittitle>
+					</did>
+				</c03>
+				<c03>
+					<did>
+						<unittitle>Lists-Personal, <unitdate>1962, 1964</unitdate></unittitle>
+					</did>
+				</c03>
+				<c03>
+					<did>
+						<unittitle>Luncheon Lists, <unitdate>1963</unitdate></unittitle>
+					</did>
+				</c03>
+				<c03>
+					<did>
+						<unittitle>Class Cocktail Party-Bar Convention, <unitdate>1963</unitdate></unittitle>
+					</did>
+				</c03>
+				<c03>
+					<did>
+						<unittitle>Archibald Cox Reception, <unitdate>1963</unitdate></unittitle>
+					</did>
+				</c03>					
+			<c03>
+				<did>
+					<container type="box">2009-359/6</container>
+					<unittitle>1950-1986, 2000</unittitle>
+				</did>
+			</c03>
+			<c03>
+				<did>
+					<unittitle>Miscellaneous material</unittitle>
+				</did>
+			</c03>
+			<c03>
+				<did>
+					<unittitle>Christmas cards</unittitle>
+				</did>
+			</c03>
+			<c03>
+				<did>
+					<unittitle>Letters from VIPs</unittitle>
+				</did>
+			</c03>
+			</c02>
+			<c02>
+				<did>
+					<unittitle>Article on name "Barefoot"</unittitle>
+				</did>
+			</c02>
+			<c02>
+				<did>
+					<unittitle>Photographs</unittitle>
+				</did>
+				<c03>
+					<did>
+						<unittitle>US Attorney</unittitle>
+					</did>
+				</c03>
+				<c03>
+					<did>
+						<unittitle>1960</unittitle>
+					</did>
+				</c03>
+				<c03>
+					<did>
+						<unittitle>1963</unittitle>
+					</did>
+				</c03>
+				<c03>
+					<did>
+						<unittitle>1964-1970</unittitle>
+					</did>
+				</c03>
+				<c03>
+					<did>
+						<unittitle>1970</unittitle>
+					</did>
+				</c03>
+				<c03>
+					<did>
+						<unittitle>Law Clerks</unittitle>
+					</did>
+				</c03>
+				<c03>
+					<did>
+						<unittitle>Lyndon B. Johnson photos</unittitle>
+					</did>
+				</c03>
+				<c03>
+					<did>
+						<container type="box">3S182</container>
+						<unittitle>Lyndon B. Johnson oversized photo</unittitle>
+					</did>
+				</c03>
+				<c03>
+					<did>
+						<container type="box">2009-359/6</container>
+						<unittitle>1940-1950</unittitle>
+					</did>
+				</c03>
+				<c03>
+					<did>
+						<unittitle>1950-1960</unittitle>
+					</did>
+				</c03>
+				<c03>
+					<did>
+						<unittitle>1970-1980</unittitle>
+					</did>
+				</c03>
+				<c03>
+					<did>
+						<unittitle>1980-2000</unittitle>
+					</did>
+				</c03>
+				<c03>
+					<did>
+						<unittitle>2000</unittitle>
+					</did>
+				</c03>
+				<c03>
+					<did>
+						<unittitle>Campaign/Congress, <unitdate>1958</unitdate></unittitle>
+					</did>
+				</c03>
+				<c03>
+					<did>
+						<unittitle>Campaign, <unitdate>1960</unitdate></unittitle>
+					</did>
+				</c03>
+				<c03>
+					<did>
+						<unittitle>Campaign/Senate<unitdate>1972</unitdate></unittitle>
+					</did>
+				</c03>
+				<c03>
+					<did>
+						<unittitle>Judicial</unittitle>
+					</did>
+				</c03>
+				<c03>
+					<did>
+						<unittitle>Portrait photo of Sanders</unittitle>
+					</did>
+				</c03>
+				<c03>
+					<did>
+						<unittitle>Attorney General's visit, <unitdate>1961</unitdate></unittitle>
+					</did>
+				</c03>
+				<c03>
+					<did>
+						<unittitle>Sanders' Personal-Industrial Investments, <unitdate>1962</unitdate></unittitle>
+					</did>
+				</c03>
+				<c03>
+					<did>
+						<unittitle>Rambler Road Roofing Repairs, <unitdate>1963</unitdate></unittitle>
+					</did>
+				</c03>
+				<c03>
+					<did>
+						<unittitle>Sale of Newcombe Property, <unitdate>1963</unitdate></unittitle>
+					</did>
+				</c03>
+				<c03>
+					<did>
+						<unittitle>Speech file, <unitdate>1961-1962</unitdate></unittitle>
+					</did>
+				</c03>
+				<c03>
+					<did>
+						<unittitle>Congratulatory mail-Judgeship, Vol. II <unitdate>1968</unitdate></unittitle>
+					</did>
+				</c03>
+				<c03>
+					<did>
+						<unittitle>Sanders' Personal, <unitdate>1961</unitdate></unittitle>
+					</did>
+				</c03>
+				<c03>
+					<did>
+						<unittitle>Sanders' Personal-Oil Venture (Schneider and Murray Well), <unitdate>1963</unitdate></unittitle>
+					</did>
+				</c03>
+				<c03>
+					<did>
+						<unittitle>Sanders' Personal, <unitdate>July-September 1963</unitdate></unittitle>
+					</did>
+				</c03>
+				<c03>
+					<did>
+						<unittitle>Speech file, <unitdate>1963</unitdate></unittitle>
+					</did>
+				</c03>
+				<c03>
+					<did>
+						<unittitle>Sanders' Personal, <unitdate>1957</unitdate></unittitle>
+					</did>
+				</c03>
+			</c02>
+			<c02>
+				<did>
+					<container type="box">2010-009/7-8</container>
+					<unittitle>Card catalogs of various individuals throughout Texas related to Sanders' career and campaigns. There is also a photograph of a WWII Destroyer, possibly the one Sanders served on.</unittitle>
+				</did>
+			</c02>
+			
+			
+				
+
+			
+		  		
+		  	<c02> 
+			 <did> 
+				<note><p><emph render="bold">[Stored on-site at SRH]</emph></p> 
+				</note> 
+			 </did> 
+		  </c02> 
+		  <c02> 
+			 <did> 
+				<container type="box">2AA13</container> 
+				<unittitle>Oversize Materials:</unittitle> 
+			 </did> 
+			 <c03> 
+				<did> 
+				  <unittitle>Clippings – “Bare Facts” and Mercer University,
+					 </unittitle> 
+				  <unitdate>1944</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03> 
+				<did> 
+				  <unittitle>Oversize photos, </unittitle> 
+				  <unitdate>1940s, 1970s, 1990s</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03> 
+				<did> 
+				  <unittitle>Clippings, </unittitle> 
+				  <unitdate>1950s</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03> 
+				<did> 
+				  <unittitle>University of Texas Diploma and Seal, </unittitle> 
+				  <unitdate>1949</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03> 
+				<did> 
+				  <unittitle>Clippings, </unittitle> 
+				  <unitdate>1940s</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03> 
+				<did> 
+				  <unittitle> U.S. Congressional campaign, scrapbook pages,
+					 </unittitle> 
+				  <unitdate>1958</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03> 
+				<did> 
+				  <unittitle>U.S. Congressional campaign, </unittitle> 
+				  <unitdate>1958</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03> 
+				<did> 
+				  <container type="box">2AA14</container> 
+				  <unittitle>Clippings, Kennedy-Johnson Campaign, </unittitle> 
+				  <unitdate>1960</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03> 
+				<did> 
+				  <unittitle>Sketch, U.S. attorney, </unittitle> 
+				  <unitdate>1960s</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03> 
+				<did> 
+				  <unittitle>Clippings, U.S. attorney, </unittitle> 
+				  <unitdate>1960s</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03> 
+				<did> 
+				  <unittitle>Clippings, Washington D.C., </unittitle> 
+				  <unitdate>1960s</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03> 
+				<did> 
+				  <container type="box">2AA15</container> 
+				  <unittitle>Clippings, </unittitle> 
+				  <unitdate>1970s</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03> 
+				<did> 
+				  <unittitle>Clippings, Senate Campaign, </unittitle> 
+				  <unitdate>1972</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03> 
+				<did> 
+				  <container type="box">2AA16</container> 
+				  <unittitle>Federal Court Improvement Act, </unittitle> 
+				  <unitdate>1994</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03> 
+				<did> 
+				  <unittitle>Obituaries, </unittitle> 
+				  <unitdate>2008</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03> 
+				<did> 
+				  <unittitle>Clippings on Appointment, </unittitle> 
+				  <unitdate>1978-1979</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03> 
+				<did> 
+				  <unittitle>Clippings, non-case related </unittitle> 
+				</did> 
+			 </c03> 
+			 <c03> 
+				<did> 
+				  <unittitle>Clippings, DISD de-segregation Case, </unittitle> 
+				  <unitdate>1981-2005</unitdate> 
+				</did> 
+			 </c03> 
+			 <c03> 
+				<did> 
+				  <unittitle>Clippings, Hunt, R.A.J. Cases</unittitle> 
+				</did> 
+			 </c03> 
+			 <c03> 
+				<did> 
+				  <unittitle>Clippings on Cases</unittitle> 
+				</did> 
+			 </c03> 
+			 <c03> 
+				<did> 
+				  <container type="box">OD1316</container> 
+				  <unittitle>U.S. Senate Campaign Posters, </unittitle> 
+				  <unitdate>1972</unitdate> 
+				</did> 
+			 </c03> 
+		  </c02> 
+		</c01></dsc> 
+  </archdesc>
+</ead>

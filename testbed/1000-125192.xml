@@ -1,0 +1,1797 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead> 
+<eadheader id="a0" langencoding="iso639-2b" scriptencoding="iso15924" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" relatedencoding="dc"> 
+	 <eadid countrycode="us" encodinganalog="identifier" mainagencycode="OHY" identifier="80444/xv50289" url="http://nwda.orbiscascade.org/ark:/80444/xv50289">OHY_Mss231</eadid>
+	 
+	 <filedesc> 
+		  <titlestmt> 
+				<titleproper encodinganalog="title">Guide to the Thompson Coit
+					 Elliott Papers 
+					 <date era="ce" calendar="gregorian" encodinganalog="date" normal="1903/1937">1903-1937</date></titleproper> 
+				<titleproper type="filing" altrender="nodisplay">Elliott (Thompson
+					 Coit) Papers</titleproper> 
+				<author encodinganalog="creator">Finding aid prepared by Geoffrey
+					 B. Wexler</author> 
+				<sponsor encodinganalog="contributor">Funding for encoding this
+					 finding aid was provided through a grant awarded by the National Endowment for
+					 the Humanities. Additional support provided by a Preservation Assistance Grant
+					 from the National Endowment for the Humanities.</sponsor> 
+		  </titlestmt> 
+		  <publicationstmt> 
+				<publisher encodinganalog="publisher">Oregon Historical Society,
+					 Research Library</publisher> 
+				<date encodinganalog="date" normal="2006">© 2006</date> 
+				<address> 
+					 <addressline>1200 SW Park Avenue</addressline> 
+					 <addressline>Portland, Oregon 97205</addressline> 
+					 <addressline>Phone: 503-306-5240</addressline> 
+					 <addressline>Fax: 503-219-2040</addressline> 
+					 <addressline>E-mail: libreference@ohs.org</addressline> 
+				</address> 
+		  </publicationstmt> 
+	 </filedesc> 
+	 <profiledesc> 
+		  <creation>Finding aid encoded by <emph render="italic"><emph render="underline">ArchProteus</emph></emph> 
+				<date era="ce" calendar="gregorian" normal="2006">2006</date></creation> 
+		  <langusage>Finding aid is in<language langcode="eng" encodinganalog="language" scriptcode="latn"> English</language></langusage> 
+		  <descrules>Finding aid based on DACS ( 
+		  <title render="italic">Describing Archives: A Content
+				Standard</title>)</descrules> 
+	 </profiledesc> 
+</eadheader> 
+<archdesc level="collection" type="inventory" relatedencoding="marc21"> 
+<did id="a1"> 
+	 <repository> 
+		  <corpname encodinganalog="852$a" source="lcnaf">Oregon Historical
+				Society</corpname><subarea encodinganalog="852$b">Research Library</subarea> 
+		  <address> 
+				<addressline>1200 SW Park Avenue</addressline> 
+				<addressline>Portland, Oregon 97205</addressline> 
+				<addressline>Phone: 503-306-5240</addressline> 
+				<addressline>Fax: 503-219-2040</addressline> 
+				<addressline>E-mail: libreference@ohs.org</addressline> 
+		  </address></repository> 
+	 <unitid countrycode="us" encodinganalog="099" repositorycode="OHY">Mss231</unitid> 
+	 <origination> 
+		  <persname encodinganalog="100" role="creator" source="lcnaf">Elliott,
+				T. C. (Thompson Coit), 1862-1943</persname></origination> 
+	 <unittitle encodinganalog="245$a" type="collection">Thompson Coit Elliott
+		  Papers</unittitle> 
+	 <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1903/1937">1903-1937</unitdate> 
+
+	 <physdesc><extent encodinganalog="300$a">2.5 cubic feet (5 document
+		  cases)</extent></physdesc>
+	 <abstract encodinganalog="5203_">Papers of historian Thompson Coit Elliott
+		  who came west to Walla Walla, Washington in 1886. Includes correspondence,
+		  notes, copies of historical documents, speeches, published articles, and
+		  publication manuscripts on subjects relating to early exploration and trade in
+		  Inland Empire of the Pacific Northwest and the Oregon coast.</abstract> 
+	 <langmaterial>This collection is in <language langcode="eng">English</language>.</langmaterial> 
+</did> 
+<bioghist id="a2" encodinganalog="5451_"> 
+	 <head>Biography of Thompson Coit Elliott:</head> 
+	 <p>Thompson Coit Elliott resided in Walla Walla, Washington, from 1886
+		  until his death in 1943 at the age of 80. Born in Newington, Connecticut and
+		  educated at Amherst College in Massachusetts, Elliott traveled west and made
+		  his living as an investment banker. He married Anna A. Baker in Walla Walla in
+		  1890.</p> 
+	 <p>T. C. Elliott's passion for history is revealed by an outpouring of
+		  historical publications, mostly in the <emph render="italic">Oregon Historical
+		  Quarterly</emph> and the <emph render="italic">Washington Historical
+		  Quarterly</emph>, and in his years of service on the board of directors of both
+		  the Oregon Historical Society and the Washington State Historical Society.
+		  Elliott was also an active member in the American Historical Association. He
+		  received honorary degrees from the University of Oregon and Amherst College,
+		  and an honorary membership from the British Columbia Historical Society. Elliot
+		  was also elected Fellow of the Royal Historical Society.</p> 
+	 <p>T. C. Elliott wrote widely on subjects relating to Pacific Northwest
+		  history. Much of his work focused on the early fur trade and explorations of
+		  the Inland Empire, with later work devoted to early contact along the Oregon
+		  coast. Although he principally wrote for historical publications, he did for a
+		  time pen a column in the <emph render="italic">Oregonian</emph> under the
+		  pseudonym C. T. Johnson. Elliott gave numerous public addresses and
+		  participated enthusiastically in community events celebrating local history. He
+		  was a member of the First Congregational Church, and a supporter of the Walla
+		  Walla public library and Whitman College.</p> 
+</bioghist> 
+<scopecontent id="a3" encodinganalog="5202_"> 
+	 <p>This collection includes correspondence between T. C. Elliott and
+		  members of the historical profession, as well as other individuals with
+		  knowledge of historical events in his area of interest. Also included are
+		  Elliott's notes and copies of historical documents used in his research. Other
+		  correspondence relates to Elliott's book purchases for his extensive library,
+		  and to his involvement in history organizations and activities. A number of
+		  speeches, publication manuscripts, and published articles are also found in the
+		  historical subject files.</p> 
+</scopecontent> 
+<arrangement id="a4" encodinganalog="351"> 
+	 <p>The collection is arranged into the following series:</p> 
+	 <p> 
+		  <list> 
+				<item>Series A: Historical Subject Files, 1765-1936 and
+					 undated</item> 
+				<item>Series B: Correspondence, 1908-1937</item> 
+				<item>Series C: Ephemera, 1909, 1921, and undated</item> 
+		  </list></p> 
+</arrangement> 
+<accessrestrict id="a14" encodinganalog="506"> 
+	 <p>The collection is open to the public.</p> 
+</accessrestrict> 
+<userestrict id="a15" encodinganalog="540"> 
+	 <p>The Oregon Historical Society is the owner of the materials in the
+		  Research Library and makes available reproductions for research, publication,
+		  and other uses. Written permission must be obtained from the Research Library
+		  before any publication use. The Society does not necessarily hold copyright to
+		  all of the materials in the collections. In some cases, permission for use may
+		  require seeking additional authorization from the copyright owners.</p> 
+</userestrict> 
+<prefercite id="a18" encodinganalog="524"> 
+	 <p>Thompson Coit Elliott Papers, MSS 231, Oregon Historical Society
+		  Research Library</p> 
+</prefercite> 
+<acqinfo id="a19" encodinganalog="541"> 
+	 <p>Gift of Thompson Coit Elliott, 1947. Library Accessions 229-319</p> 
+</acqinfo> 
+<processinfo id="a20" encodinganalog="583"> 
+	 <p>Subject files are largely those recorded in the accessions record and
+		  assumed to be those created by Mr. Elliott, although a few new subject files
+		  have been added. Where appropriate, correspondence and materials previously
+		  filed as "miscellaneous" was redistributed to subject files.</p> 
+</processinfo> 
+<bibliography id="a11" encodinganalog="510"> 
+	 <bibref>"Biography- Elliott, T. C.," Vertical File, Oregon Historical
+		  Society Research Library, Portland.</bibref> 
+	 <bibref>Howay, F. W., "Thomson Coit Elliott, 1862-1943: A Tribute,"
+		  <emph render="italic">Oregon Historical Quarterly</emph> 44: 228-31.</bibref> 
+	 <bibref>Powers, Alfred. <emph render="italic">History of Oregon
+		  Literature</emph>. Portland, OR: Metropolitan Press, 1935, pp. 550-52.</bibref>
+	 
+</bibliography> 
+<relatedmaterial id="a6" encodinganalog="5441_"> 
+	 <p>Davies, Barbara Coit Elliott . Interview by Charles Digregorio of Mrs.
+		  David Lloyd Davies. Portland, OR, 18 June 1976. SR 9372, Oregon Historical
+		  Society Research Library, Portland.</p> 
+	 <p>Elliott, T. C. <emph render="italic">Historical Papers and
+		  Addresses.</emph> Walla Walla, WA: T. C. Elliott, 1933.</p> 
+</relatedmaterial> 
+<controlaccess id="a12"> 
+	 <p>The collection is indexed under the following headings in the online
+		  catalog. Researchers desiring materials about related topics, persons, or
+		  places should search the catalog using these headings:</p> 
+	 <controlaccess> 
+		  <persname encodinganalog="600" source="lcnaf" role="creator">Elliott,
+				T. C. (Thompson Coit), 1862-1943 - Correspondence</persname> 
+		  <persname encodinganalog="600" source="lcnaf">Ermatinger, Edward,
+				1797-1876.</persname> 
+		  <persname encodinganalog="600" source="lcnaf">Ermatinger, Francis,
+				1798-1858.</persname> 
+		  <persname encodinganalog="600" rules="aacr2">Grant, Richard,
+				1794-1862.</persname> 
+		  <persname encodinganalog="600" source="lcnaf">Howay, Frederic William,
+				1867-1943 - Correspondence</persname> 
+		  <persname encodinganalog="600" source="lcnaf">Marshall, William I.
+				(William Isaac), 1840-1906.</persname> 
+		  <persname encodinganalog="600" rules="aacr2">Meyers, Jacob
+				A.</persname> 
+		  <persname encodinganalog="600" source="lcnaf">Newell, Robert,
+				1807-1869.</persname> 
+		  <persname encodinganalog="600" source="lcnaf">Ogden, Peter Skene,
+				1790-1854.</persname> 
+		  <persname encodinganalog="600" source="lcnaf">Simpson, George, Sir,
+				1786 or 7-1860.</persname> 
+		  <persname encodinganalog="600" source="lcnaf">Spalding, Henry Harmon,
+				1803-1874.</persname> 
+		  <persname encodinganalog="600" source="lcnaf">Thompson, David,
+				1770-1857.</persname> 
+		  <persname encodinganalog="600" source="lcnaf">Vancouver, George,
+				1757-1798.</persname> 
+		  <persname encodinganalog="600" source="lcnaf">Whitman, Marcus,
+				1802-1847.</persname> 
+	 </controlaccess> 
+	 <controlaccess> 
+		  <corpname encodinganalog="610" source="lcnaf">United States. General
+				Land Office</corpname> 
+		  <corpname encodinganalog="610" source="lcnaf">United States. Office of
+				Indian Affairs</corpname> 
+		  <corpname encodinganalog="610" source="lcnaf">United States. Office of
+				Indian Affairs. Oregon Superintendency</corpname> 
+		  <corpname encodinganalog="610" source="lcnaf">United States. Office of
+				Indian Affairs. Washington Superintendency</corpname> 
+		  <corpname encodinganalog="610" source="lcnaf">Hudson's Bay
+				Company.</corpname> 
+		  <corpname encodinganalog="610" source="lcnaf">North West
+				Company.</corpname> 
+		  <corpname encodinganalog="610" rules="aacr2">Inland Empire Historical
+				Society</corpname> 
+		  <corpname encodinganalog="610" source="lcnaf">Oregon Historical
+				Society.</corpname> 
+	 </controlaccess> 
+	 <controlaccess> 
+		  <geogname encodinganalog="651" source="lcsh">Columbia River -
+				History</geogname> 
+		  <geogname encodinganalog="651" source="lcsh">Idaho - History</geogname>
+		  
+		  <geogname encodinganalog="651" source="lcsh">Oregon -
+				History</geogname> 
+		  <geogname encodinganalog="651" source="lcsh">Spokane House
+				(Wash.)</geogname> 
+		  <geogname encodinganalog="651" source="lcsh">Walla Walla (Wash.) -
+				History</geogname> 
+		  <geogname encodinganalog="651" source="lcsh">Washington (State) -
+				History</geogname> 
+	 </controlaccess> 
+	 <controlaccess> 
+		  <subject encodinganalog="650" source="lcsh">Exploration and
+				Discovery</subject> 
+		  <subject encodinganalog="650" source="lcsh">Fur Trade</subject> 
+		  <subject encodinganalog="650" source="lcsh">Indians of North America -
+				Cayuse Indians</subject> 
+		  <subject encodinganalog="650" source="lcsh">Indians of North America -
+				Salish Indians</subject> 
+		  <subject encodinganalog="650" source="lcsh">Indians of North America -
+				Kalispel Indians</subject> 
+		  <subject encodinganalog="650" source="lcsh">Indians of North America -
+				Nez Percé Indians</subject> 
+		  <subject encodinganalog="650" source="lcsh">Indian councils --
+				Washington (State)</subject> 
+		  <subject encodinganalog="650" source="lcsh">Indians of North America --
+				Oregon -- Wars</subject> 
+		  <subject encodinganalog="650" source="lcsh">Bannock Indians -- Wars,
+				1878</subject> 
+		  <subject encodinganalog="650" source="lcsh">Modoc Indians - Wars,
+				1873.</subject> 
+		  <subject encodinganalog="650" source="lcsh">Nez Percé Indians Wars,
+				1877</subject> 
+		  <subject encodinganalog="650" source="lcsh">Names, Geographical -
+				Oregon</subject> 
+		  <subject encodinganalog="650" source="lcsh">Overland journeys to the
+				Pacific.</subject> 
+		  <subject encodinganalog="650" source="lcsh">Ships - Jenny of
+				Bristol</subject> 
+		  <subject encodinganalog="650" source="lcsh">Whitman Massacre,
+				1847</subject> 
+	 </controlaccess> 
+	 <controlaccess> 
+		  <subject source="nwda" altrender="nodisplay" encodinganalog="590">Idaho</subject> 
+		  <subject source="nwda" altrender="nodisplay" encodinganalog="590">Oregon</subject> 
+		  <subject source="nwda" altrender="nodisplay" encodinganalog="590">Washington (State)</subject> 
+		  <subject source="nwda" altrender="nodisplay" encodinganalog="590">Expeditions and Adventure</subject> 
+		  <subject source="nwda" altrender="nodisplay" encodinganalog="590">Native Americans</subject> 
+		  <subject source="nwda" altrender="nodisplay" encodinganalog="590">Overland Journeys to the Northwestern United States</subject> 
+		  <subject source="nwda" altrender="nodisplay" encodinganalog="590">Pacific Northwest History</subject> 
+		  <subject source="nwda" altrender="nodisplay" encodinganalog="590">Pioneers</subject> 
+	 </controlaccess> 
+	 <controlaccess> 
+		  <genreform encodinganalog="655" source="aat">Correspondence</genreform>
+		  
+		  <genreform encodinganalog="655" source="aat">Printed
+				Ephemera</genreform> 
+		  <genreform encodinganalog="655" source="aat">Manuscripts for
+				Publication</genreform> 
+		  <genreform encodinganalog="655" source="aat">Notes</genreform> 
+		  <genreform encodinganalog="655" source="aat">Publications</genreform> 
+		  <genreform encodinganalog="655" source="aat">Speeches</genreform> 
+	 </controlaccess> 
+</controlaccess> 
+<dsc id="a23" type="combined"> 
+	 <c01 level="series"> 
+		  <did> 
+				<unitid encodinganalog="099">Series A</unitid> 
+				<unittitle encodinganalog="245$a">Historical Subject
+					 Files.</unittitle> 
+				<unitdate era="ce" calendar="gregorian" encodinganalog="245$f">1765-1936 and undated</unitdate> 
+
+				<physdesc><extent encodinganalog="300$a">90
+					 folders</extent></physdesc>
+		  </did> 
+		  <scopecontent> 
+				<p>Historical research, copies of documents, and writings, and
+					 related correspondence to and from T. C. Elliott. Folders are Aarranged
+					 alphabetically by subject. Subject-related correspondence within each folder is
+					 arranged chronologically.</p> 
+				<p>List of Correspondents in Historical Subject Files: 
+					 <list> 
+						  <item>Amory, Copley</item> 
+						  <item>Austin, John T.</item> 
+						  <item>Bagley, C. B.</item> 
+						  <item>Ballou, Howard M.</item> 
+						  <item>Barrett, C. A.</item> 
+						  <item>Barry, J. Neilson</item> 
+						  <item>Baxter, P. L.</item> 
+						  <item>Benoist, Theo.</item> 
+						  <item>Benton, John H.</item> 
+						  <item>Bridge, William D.</item> 
+						  <item>Brosnan, Cornelius J.</item> 
+						  <item>Brown, William C.</item> 
+						  <item>Budd, Ralph</item> 
+						  <item>Burgunder, Benjamin</item> 
+						  <item>Burpee, Lawrence J.</item> 
+						  <item>Campbell, John V.</item> 
+						  <item>Cannon, Miles</item> 
+						  <item>Coates, Grace Stone</item> 
+						  <item>Coburn, C. P.</item> 
+						  <item>Coyne, James H.</item> 
+						  <item>Derr, A. R.</item> 
+						  <item>Douglas, Walter B.</item> 
+						  <item>Draper, Sarah Ogden</item> 
+						  <item>Drumm, Stella M.</item> 
+						  <item>Dye, Eva Emery</item> 
+						  <item>Edwards, Charles A.</item> 
+						  <item>Eels, Edwin</item> 
+						  <item>Emmons, G. T.</item> 
+						  <item>Ermatinger, C. O.</item> 
+						  <item>Fisher, S. G.</item> 
+						  <item>Fry, M. M.</item> 
+						  <item>Hall, R. H.</item> 
+						  <item>Hamilton, Gavin</item> 
+						  <item>Harrison, J. Scott</item> 
+						  <item>Hewen, H. W. B.</item> 
+						  <item>Himes, George H.</item> 
+						  <item>Hodder, Frank Heywood</item> 
+						  <item>Holman, Frederick V.</item> 
+						  <item>Howay, Frederic William</item> 
+						  <item>Howell, J. A.</item> 
+						  <item>Huston, S. B.</item> 
+						  <item>Ivy, M. M.</item> 
+						  <item>Jameson, J. Franklin</item> 
+						  <item>Laut, Agnes C.</item> 
+						  <item>Leeper, Robert D.</item> 
+						  <item>Lengby, J. A.</item> 
+						  <item>Lewis, William S.</item> 
+						  <item>Lindenborn, W. E.</item> 
+						  <item>Loomis, L. E.</item> 
+						  <item>Macdonald, Duncan</item> 
+						  <item>MacFarland, R.</item> 
+						  <item>McIntyre, Annie E.</item> 
+						  <item>Marshall, W. J.</item> 
+						  <item>Martin, Archer</item> 
+						  <item>Meany, Edmund S.</item> 
+						  <item>Meyers, Jacob A.</item> 
+						  <item>Minthorne, Richard</item> 
+						  <item>Morice, A. G.</item> 
+						  <item>Nichols, M. Leona</item> 
+						  <item>Norman, Ben</item> 
+						  <item>Ogden, Gerturde G.</item> 
+						  <item>Ogden, Morris Meredith</item> 
+						  <item>Parker, Will D.</item> 
+						  <item>Parry, J. F.</item> 
+						  <item>Partoll, Albert J.</item> 
+						  <item>Pipes, Nellie B.</item> 
+						  <item>Prosch, Thomas W.</item> 
+						  <item>Pullman, John W.</item> 
+						  <item>Redway, Jacques W.</item> 
+						  <item>Reeder, George K.</item> 
+						  <item>Rogers, Mary Cochrane</item> 
+						  <item>Ryman, James H. T.</item> 
+						  <item>Scholefield, E. O. S.</item> 
+						  <item>Shaw, Albert</item> 
+						  <item>Shaw, Frederick J.</item> 
+						  <item>Shippee, S. B.</item> 
+						  <item>Shoemaker, A. H.</item> 
+						  <item>Siders, Walter R.</item> 
+						  <item>Smith, E. D.</item> 
+						  <item>Smith, Luther Ely</item> 
+						  <item>Stenger, Eeliza</item> 
+						  <item>Strong, James Clark</item> 
+						  <item>Thompson, Francis A.</item> 
+						  <item>Tiedt, W. J.</item> 
+						  <item>Tombo, Rudolph, Jr.</item> 
+						  <item>Tyler, Lyon G.</item> 
+						  <item>Tyrell, J. B.</item> 
+						  <item>Van Alstyene, Lawrence</item> 
+						  <item>Watson, Robert</item> 
+						  <item>Whealdon, Isaac H.</item> 
+						  <item>Whiting, J. S.</item> 
+						  <item>Winchester, Benjamin S.</item> 
+						  <item>Young, Frederick G.</item> 
+					 </list></p> 
+		  </scopecontent> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">1/1</container> 
+					 <unittitle encodinganalog="245$a">Barlow Road</unittitle> 
+					 <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1913">1913</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">1/2</container> 
+					 <unittitle encodinganalog="245$a">Bourbon</unittitle> 
+					 <unitdate era="ce" calendar="gregorian" encodinganalog="245$f">undated</unitdate> 
+				</did> 
+				<scopecontent> 
+					 <p>Handscript memo on the name Bourbon and the Fort, Lake, and
+						  River "Bourbon."</p> 
+				</scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">1/3</container> 
+					 <unittitle encodinganalog="245$a">Columbia River</unittitle> 
+					 <unitdate era="ce" calendar="gregorian" encodinganalog="245$f">undated</unitdate> 
+				</did> 
+				<scopecontent> 
+					 <p>Typed notes on the discovery and mapping of the Columbia
+						  River.</p> 
+				</scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">1/4</container> 
+					 <unittitle encodinganalog="245$a">Craig, William</unittitle> 
+					 <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1855">1855</unitdate> 
+					 <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1874">1874</unitdate> 
+					 <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1908">1908</unitdate> 
+					 <unitdate era="ce" calendar="gregorian" encodinganalog="245$f">and 1918</unitdate> 
+				</did> 
+				<scopecontent> 
+					 <p>Documents and correspondence regarding William Craig and his
+						  land claim. (See also Ward Massacre file.)</p> 
+				</scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">1/5</container> 
+					 <unittitle encodinganalog="245$a">Crooks, Ramsey</unittitle> 
+					 <unitdate era="ce" calendar="gregorian" encodinganalog="245$f">undated</unitdate> 
+				</did> 
+				<scopecontent> 
+					 <p>Notes on Ramsey Crooks' Letterbook. Crooks led the
+						  reorganized American Fur Company.</p> 
+				</scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">1/6</container> 
+					 <unittitle encodinganalog="245$a">Day, John</unittitle> 
+					 <unitdate era="ce" calendar="gregorian" encodinganalog="245$f">1914-1917 and undated</unitdate> 
+				</did> 
+				<scopecontent> 
+					 <p>Notes and correspondence concerning the estate of John Day,
+						  hunter for the Pacific Fur Company and American Fur Company.</p> 
+				</scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">1/7</container> 
+					 <unittitle encodinganalog="245$a">Douglas, Sir James and Alice
+						  Douglas</unittitle> 
+					 <unitdate era="ce" calendar="gregorian" encodinganalog="245$f">1909 and undated</unitdate> 
+				</did> 
+				<scopecontent> 
+					 <p>Excerpt from the life of Sir James Douglas, Hudson's Bay
+						  Company Chief Factor and Governor of Vancouver Island and the Crown Colony of
+						  British Columbia. Correspondence re:garding his daughter Alice Douglas's
+						  elopement. Poem, " Chief Douglass Daughter" with letters regarding concerning
+						  its authorship.</p> 
+					 <p>Excerpt from the life of Sir James Douglas.</p> 
+				</scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">1/8</container> 
+					 <unittitle encodinganalog="245$a">Duniway, Abigail
+						  Scott</unittitle> 
+					 <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1852">1852</unitdate> 
+					 <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1956">1956</unitdate> 
+					 <unitdate era="ce" calendar="gregorian" encodinganalog="245$f">and undated</unitdate> 
+				</did> 
+				<scopecontent> 
+					 <p>Early writings of Oregon pioneer, publisher, and suffragette
+						  Abigail Scott Duniway. <emph render="italic">Journal of Crossing the Plains in
+						  1852 of the family of John Tucker Scott</emph> (4 pages typescript)<emph render="italic">.
+						  Journal of a Trip to Oregon, 1852</emph> (102 pages typescript), written from
+						  notes taken on the journey (microfilmed as MSS 242).</p> 
+				</scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">1/9</container> 
+					 <unittitle encodinganalog="245$a">Emmons, George F.</unittitle>
+					 
+					 <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1925/1926">1925-1926</unitdate> 
+				</did> 
+				<scopecontent> 
+					 <p>Letters from G. T. Emmons to T. C. Elliott regarding George
+						  F. Emmons, a member of the U. S. Exploring Expedition, 1838-1842.</p> 
+					 <p>George Emmons sailed aboard the <emph render="italic">Peacock</emph>, from which he surveyed and described Pacific
+						  harbors visited by the expedition.</p> 
+				</scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">1/10</container> 
+					 <unittitle encodinganalog="245$a">Ermatinger, Edward and
+						  Francis</unittitle> 
+					 <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1828/1859">1828-1859</unitdate> 
+					 <unitdate era="ce" calendar="gregorian" encodinganalog="245$f">1912-1935 and undated</unitdate> 
+				</did> 
+				<scopecontent> 
+					 <p>Copies of documents, notes, and research correspondence
+						  regarding Edward and Francis Ermatinger of the Hudson's Bay Company Columbia
+						  District. Includes copies of Edward Ermatinger's correspondence, primarily from
+						  John McLoughlin, John Work, and Archibald McDonald. Correspondence related to
+						  the Ermatinger papers in the hands of the County of Elgin.</p> 
+				</scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">1/11</container> 
+					 <unittitle encodinganalog="245$a">Farnam, Russel</unittitle> 
+					 <unitdate era="ce" calendar="gregorian" encodinganalog="245$f">undated</unitdate> 
+				</did> 
+				<scopecontent> 
+					 <p>Manuscript excerpt regarding fur trader Russel Farnam.</p> 
+				</scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">1/12</container> 
+					 <unittitle encodinganalog="245$a">Flathead Indians</unittitle> 
+					 <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1908/1914">1908-1914</unitdate> 
+				</did> 
+				<scopecontent> 
+					 <p>Corresondence regarding the Flathead Indian delegation to
+						  St. Louis, Missouri, ca. 1831, and the Flathead Medicine Tree.</p> 
+				</scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">1/13</container> 
+					 <unittitle encodinganalog="245$a">Fort Hall</unittitle> 
+					 <unitdate era="ce" calendar="gregorian" encodinganalog="245$f">1910-1918 and undated</unitdate> 
+				</did> 
+				<scopecontent> 
+					 <p>Notes, documents, and correspondence related to the original
+						  site of Fort Hall.</p> 
+				</scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">1/14</container> 
+					 <unittitle encodinganalog="245$a">Fort Walla Walla</unittitle> 
+					 <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1933/1934">1933-1934</unitdate> 
+				</did> 
+				<scopecontent> 
+					 <p>Essay, poem, and correspondence regarding Hudson's Bay
+						  Company post Fort Walla Walla from J. S. Whiting of Seattle.</p> 
+				</scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">1/15</container> 
+					 <unittitle encodinganalog="245$a">Fraser, Simon</unittitle> 
+					 <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1808">1808</unitdate> 
+					 <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1924">1924</unitdate> 
+					 <unitdate era="ce" calendar="gregorian" encodinganalog="245$f">and undated</unitdate> 
+				</did> 
+				<scopecontent> 
+					 <p>Notes, document, and correspondence regarding fur trade
+						  explorer Simon Fraser, his journal, and his descent of the Fraser River.</p> 
+				</scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">1/16</container> 
+					 <unittitle encodinganalog="245$a">Fur Trade</unittitle> 
+					 <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1871">1871</unitdate> 
+					 <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1912">1912</unitdate> 
+					 <unitdate era="ce" calendar="gregorian" encodinganalog="245$f">and 1915</unitdate> 
+				</did> 
+				<scopecontent> 
+					 <p>Correspondence, notes, and copies of documents regarding the
+						  fur trade in the Pacific Northwest. Pamphlet, "The Fur Trade in the Columbia
+						  River Basin Prior to 1811," address by T. C. Elliott, Pacific Coast Branch of
+						  the American Historical Association, Seattle, May 21, 1914.</p> 
+				</scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">1/17</container> 
+					 <unittitle encodinganalog="245$a">Grant, Richard</unittitle> 
+					 <unitdate era="ce" calendar="gregorian" encodinganalog="245$f">1834-1936 and undated</unitdate> 
+				</did> 
+				<scopecontent> 
+					 <p>Documents (typescript copies), research notes, and
+						  correspondence regarding Richard Grant, his family, and Fort Hall. Autographed
+						  typescript of "Richard 'Captain Johnny' Grant, and Fort Hall on the Oregon
+						  Trail," by Frederick John Shaw, 1934. Two typed and hand annotated drafts of
+						  "Richard Grant."</p> 
+				</scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">1/18</container> 
+					 <unittitle encodinganalog="245$a">Gray, Captain
+						  Robert</unittitle> 
+					 <unitdate era="ce" calendar="gregorian" encodinganalog="245$f">1928-1929 and undated</unitdate> 
+				</did> 
+				<scopecontent> 
+					 <p>Correspondence regarding Captain Robert Gray. Pamphlet:
+						  "Haswell's Log of Sloop Washington," introduction by T. C. Elliott.</p> 
+				</scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">1/19</container> 
+					 <unittitle encodinganalog="245$a">Howes, Joseph</unittitle> 
+					 <unitdate era="ce" calendar="gregorian" encodinganalog="245$f">1925 and undated</unitdate> 
+				</did> 
+				<scopecontent> 
+					 <p>Correspondence and notes regarding Joseph Howes of the
+						  Hudson's Bay Company, Rocky Mountain House, and the mapping of Flathead
+						  Lake.</p> 
+				</scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">1/20</container> 
+					 <unittitle encodinganalog="245$a">Hulbert, Archer
+						  Butler</unittitle> 
+					 <unitdate era="ce" calendar="gregorian" encodinganalog="245$f">undated</unitdate> 
+				</did> 
+				<scopecontent> 
+					 <p>Tentative outline of "Overland to the Pacific: A Narrative
+						  and Documentary History of the Far West During the Great Half Century
+						  1819-1869," edited by Archer Butler Hulbert (typescript carbon).</p> 
+				</scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">1/21</container> 
+					 <unittitle encodinganalog="245$a">Hunt, Wilson
+						  Price</unittitle> 
+					 <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1912">1912</unitdate> 
+				</did> 
+				<scopecontent> 
+					 <p>Correspondence regarding Wilson Price Hunt, leader of the
+						  1812 overland Astorian expedition to the mouth of the Columbia River.</p> 
+				</scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">1/22</container> 
+					 <unittitle encodinganalog="245$a">Indian Councils -- Walla
+						  Walla -- I</unittitle> 
+					 <unitdate era="ce" calendar="gregorian" encodinganalog="245$f">1930-1931 and undated</unitdate> 
+				</did> 
+				<scopecontent> 
+					 <p>Research notes and correspondence regarding the Walla Walla
+						  Council of 1855 and related Indian treaties.</p> 
+				</scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">1/23</container> 
+					 <unittitle encodinganalog="245$a">Indian Councils -- Walla
+						  Walla -- II</unittitle> 
+					 <unitdate era="ce" calendar="gregorian" encodinganalog="245$f">1855 and undated</unitdate> 
+				</did> 
+				<scopecontent> 
+					 <p>Photostat and typescript copies of council proceedings,
+						  treaties, and personal accounts and statements regarding the Walla Walla
+						  Council and treaties. Includes excerpts from the journal of secretary James
+						  Doty; statements of a Cayuse chief; the Nez Perce chief, Lawyer; Pe-pe-mox-mox;
+						  Umatilla chief, Owhi; and Joel Palmer.</p> 
+				</scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">1/24</container> 
+					 <unittitle encodinganalog="245$a">Indian Councils -- Walla
+						  Walla -- III</unittitle> 
+					 <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1855">1855</unitdate> 
+				</did> 
+				<scopecontent> 
+					 <p>"A true copy of the Record of the Official Proceedings at
+						  the Council in the Walla Walla Valley held jointly by Isaac I. Stevens Gov
+						   Supt. W. T. and Joel Palmer Supt. Ind affairs O. T. on the part of the
+						  United States with the Tribes of Indians named in the Treaties made at that
+						  Council June 9th and 11th 1855" (typescript).</p> 
+				</scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">2/1</container> 
+					 <unittitle encodinganalog="245$a">Indian Wars -- Bannock Piute
+						  War</unittitle> 
+					 <unitdate era="ce" calendar="gregorian" encodinganalog="245$f">undated</unitdate> 
+				</did> 
+				<scopecontent> 
+					 <p>Handscript article by M. FitzGerald, "'Spokane Jack'
+						  Volunteers to Visit Camp of Hostiles to Dissuade Chief Egan from Going on the
+						  War-path."</p> 
+				</scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">2/2</container> 
+					 <unittitle encodinganalog="245$a">Indian Wars -- Modoc
+						  War</unittitle> 
+					 <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1917">1917</unitdate> 
+				</did> 
+				<scopecontent> 
+					 <p>Correspondence regarding the Modoc War.</p> 
+				</scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">2/3</container> 
+					 <unittitle encodinganalog="245$a">Indian Wars -- Nez Perce
+						  War</unittitle> 
+					 <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1917/1934">1917-1934</unitdate> 
+				</did> 
+				<scopecontent> 
+					 <p>Correspondence regarding the Nez Perce War. Statement of the
+						  Nez Perce War by OWHI, 1919 (annotated typescript).</p> 
+				</scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">2/4</container> 
+					 <unittitle encodinganalog="245$a">Jeffrey, John</unittitle> 
+					 <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1919/1920">1919-1920</unitdate> 
+				</did> 
+				<scopecontent> 
+					 <p>Letter from R. Douglas of the Geographic Board, Canada,
+						  regarding Scottish botanist John Jeffrey.</p> 
+				</scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">2/5</container> 
+					 <unittitle encodinganalog="245$a"><emph render="italic">Jenny</emph> and <emph render="italic">Ruby</emph> (ships) of
+						  Bristol</unittitle> 
+					 <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1795">1795</unitdate> 
+					 <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1929">1929</unitdate> 
+					 <unitdate era="ce" calendar="gregorian" encodinganalog="245$f">and undated</unitdate> 
+				</did> 
+				<scopecontent> 
+					 <p>Correspondence and notes regarding the ships
+						  <emph render="italic">Jenny</emph> and <emph render="italic">Ruby</emph> of
+						  Bristol, England. Typescript copy of ship Ruby's commercial journal by Chas.
+						  Bishop, Commander, 1794-1795. Two typescript drafts of "The Jenny of Bristol:
+						  1792-1794" by F. W. Howay and T. C. Elliott (published in the
+						  <emph render="italic">Oregon Historical Quarterly</emph> 30 (1929) as "Voyages
+						  of the "Jenny" to Oregon, 1792-94.")</p> 
+				</scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">2/6</container> 
+					 <unittitle encodinganalog="245$a">Kittson, William, and
+						  family</unittitle> 
+					 <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1827/1829">1827-1829</unitdate> 
+					 <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1912">1912</unitdate> 
+					 <unitdate era="ce" calendar="gregorian" encodinganalog="245$f">and undated</unitdate> 
+				</did> 
+				<scopecontent> 
+					 <p>Correspondence, notes, and typescript copies of documents
+						  regarding William Kittson and his family.</p> 
+					 <p>Flathead Indians delegation to St. Louis, Missouri</p> 
+				</scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">2/7</container> 
+					 <unittitle encodinganalog="245$a">Kootenai House</unittitle> 
+					 <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1912/1913">1912-1913</unitdate> 
+					 <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1928">1928</unitdate> 
+					 <unitdate era="ce" calendar="gregorian" encodinganalog="245$f">and undated</unitdate> 
+				</did> 
+				<scopecontent> 
+					 <p>Correspondence and notes on the site of Kootenai House (also
+						  New Fort Kootenay) and on David Thompson's itinerary (1809-1812). Address by
+						  Basil G. Hamilton before the Wilmer Improvement Society, May 1912.</p> 
+				</scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">2/8</container> 
+					 <unittitle encodinganalog="245$a">Kullyspell House</unittitle> 
+					 <unitdate era="ce" calendar="gregorian" encodinganalog="245$f">1915-1928 and undated</unitdate> 
+				</did> 
+				<scopecontent> 
+					 <p>Correspondence and notes regarding Kullyspell House and
+						  David Thompson. (see also file on Kootenai House) Typescript excerpts from
+						  journal, attributed to Thompson (1809-1812). (See also Spokane House and David
+						  Thompson files.)</p> 
+				</scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">2/9</container> 
+					 <unittitle encodinganalog="245$a">Lewis, Meriwether</unittitle>
+					 
+					 <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1806">1806</unitdate> 
+				</did> 
+				<scopecontent> 
+					 <p>"Sketch of Captn. Lewis's Voyage to the Pacific Ocean by the
+						  Missesourri [sic]  Columbia Rivers from the States of America," 1806
+						  (typescript copy).</p> 
+				</scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">2/10</container> 
+					 <unittitle encodinganalog="245$a">MacKenzie,
+						  Alexander</unittitle> 
+					 <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1824/1825">1824-1825</unitdate> 
+					 <unitdate era="ce" calendar="gregorian" encodinganalog="245$f">1911-1915 and undated</unitdate> 
+				</did> 
+				<scopecontent> 
+					 <p>Correspondence and memorial address (2 copies; draft and
+						  possible final copy) regarding explorer Alexander MacKenzie. Documents relating
+						  to Columbia, Fraser, and Lewis Rivers (1824-1825); extracts from 1825 journal
+						  of Alexander McKenzie (photostat copies).</p> 
+				</scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">2/11</container> 
+					 <unittitle encodinganalog="245$a">MacKenzie, Donald</unittitle>
+					 
+					 <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1822">1822</unitdate> 
+					 <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1912/1921">1912-1921</unitdate> 
+					 <unitdate era="ce" calendar="gregorian" encodinganalog="245$f">and undated</unitdate> 
+				</did> 
+				<scopecontent> 
+					 <p>Correspondence, articles, and copy of document related to
+						  fur trader Donald MacKenzie.</p> 
+				</scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">2/12</container> 
+					 <unittitle encodinganalog="245$a">McDonald, Angus</unittitle> 
+					 <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1838/1855">1838-1855</unitdate> 
+					 <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1907/1930">1907-1930</unitdate> 
+					 <unitdate era="ce" calendar="gregorian" encodinganalog="245$f">and undated</unitdate> 
+				</did> 
+				<scopecontent> 
+					 <p>Correspondence, copies of documents, and research notes
+						  regarding Hudson's Bay Company chief trader Angus McDonald and family.</p> 
+				</scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">2/13</container> 
+					 <unittitle encodinganalog="245$a">McDonald, Archibald and
+						  Ranald McDonald</unittitle> 
+					 <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1830/1839">1830-1839</unitdate> 
+					 <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1909/1919">1909-1919</unitdate> 
+					 <unitdate era="ce" calendar="gregorian" encodinganalog="245$f">and undated</unitdate> 
+				</did> 
+				<scopecontent> 
+					 <p>Correspondence, notes, and documents (handscript,
+						  typescript, and photostat copies) relating to Hudson's Bay Company chief factor
+						  Archibald Mc Donald and his son Ranald McDonald. Reprint of "Archibald
+						  McDonald: Biography and Genealogy" by William S. Lewis.</p> 
+				</scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">2/14</container> 
+					 <unittitle encodinganalog="245$a">McDonald, Finnan</unittitle> 
+					 <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1827/1836">1827-1836</unitdate> 
+					 <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1922/1925">1922-1925</unitdate> 
+					 <unitdate era="ce" calendar="gregorian" encodinganalog="245$f">and undated</unitdate> 
+				</did> 
+				<scopecontent> 
+					 <p>Correspondence, notes, and typescript copies of documents
+						  relating to Finnan McDonald of the Northwest Company and Hudson's Bay Company.
+						  "'Finn McDonald' Explorer, Fur Trader and Legislator," by J. A. Meyers, 1922
+						  (typescript). Handwritten and typewritten draft manuscripts of "The McDonalds
+						  of Oregon: Big Finnan The Grand" by T. C. Elliott and John A. Chisolm.</p> 
+				</scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">2/15</container> 
+					 <unittitle encodinganalog="245$a">McDonald, John, of
+						  Garth</unittitle> 
+					 <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1859">1859</unitdate> 
+					 <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1923">1923</unitdate> 
+				</did> 
+				<scopecontent> 
+					 <p>Typescript copy of autobiography of John McDonald of Garth,
+						  and correspondence regarding the document.</p> 
+				</scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">2/16</container> 
+					 <unittitle encodinganalog="245$a">McKay, Alexander and Thomas
+						  McKay</unittitle> 
+					 <unitdate era="ce" calendar="gregorian" encodinganalog="245$f">1934-1935 and undated</unitdate> 
+				</did> 
+				<scopecontent> 
+					 <p>Correspondence and notes regarding Alexander McKay and his
+						  son Thomas.</p> 
+				</scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">2/17</container> 
+					 <unittitle encodinganalog="245$a">McKinlay,
+						  Archibald</unittitle> 
+					 <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1846">1846</unitdate> 
+					 <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1882">1882</unitdate> 
+				</did> 
+				<scopecontent> 
+					 <p>Document and correspondence regarding Archibald McKinlay,
+						  chief trader of the Hudson's Bay Company post, Fort Walla Walla.</p> 
+				</scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">2/18</container> 
+					 <unittitle encodinganalog="245$a">McLeod, John</unittitle> 
+					 <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1825/1837">1825-1837</unitdate> 
+					 <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1909">1909</unitdate> 
+				</did> 
+				<scopecontent> 
+					 <p>Handscript and typescript copies of documents relating to
+						  John McLeod, Sr., chief trader of the Hudson's Bay Company. Correspondence
+						  regarding copies.</p> 
+				</scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">2/19</container> 
+					 <unittitle encodinganalog="245$a">McLoughlin, John and
+						  Marguerite Wadin McKay McLoughlin</unittitle> 
+					 <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1803/1842">1803-1842</unitdate> 
+					 <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1917">1917</unitdate> 
+					 <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1934/1935">1934-1935</unitdate> 
+					 <unitdate era="ce" calendar="gregorian" encodinganalog="245$f">and undated</unitdate> 
+				</did> 
+				<scopecontent> 
+					 <p>Correspondence to and from T. C. Elliott regarding the
+						  McLoughlin and Wadin families, typescript copies of documents, and typescript
+						  draft manuscripts by T. C. Elliott. John McLoughlin was chief factor of Fort
+						  Vancouver and founder of Oregon City.</p> 
+				</scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">2/20</container> 
+					 <unittitle encodinganalog="245$a">Minthorne Family</unittitle> 
+					 <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1919">1919</unitdate> 
+				</did> 
+				<scopecontent> 
+					 <p>Correspondence with Richard Minthorne regarding the
+						  Minthorne [Minthorne] family of the Whitman Mission and Umatilla Indian
+						  Reservation.</p> 
+				</scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">2/21</container> 
+					 <unittitle encodinganalog="245$a">Miscellaneous Notes from
+						  Conversations</unittitle> 
+					 <unitdate era="ce" calendar="gregorian" encodinganalog="245$f">1910-1920 and undated</unitdate> 
+				</did> 
+				<scopecontent> 
+					 <p>Notes from T. C. Elliott's conversations with Barry
+						  Burgunder, Charles Clark, and H. E. Johnson on assorted topics not addressed in
+						  other subject research files.</p> 
+				</scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">2/22</container> 
+					 <unittitle encodinganalog="245$a">Miscellaneous Notes from
+						  Written Sources</unittitle> 
+					 <unitdate era="ce" calendar="gregorian" encodinganalog="245$f">undated</unitdate> 
+				</did> 
+				<scopecontent> 
+					 <p>T.C. Elliott's notes on topics not clearly related to those
+						  of the subject files.</p> 
+				</scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">3/1</container> 
+					 <unittitle encodinganalog="245$a">Newell, Robert</unittitle> 
+					 <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1908">1908</unitdate> 
+				</did> 
+				<scopecontent> 
+					 <p>Correspondence regarding Robert Newell, his land holdings,
+						  and his work as Agent for the Nez Perce Indians.</p> 
+				</scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">3/2</container> 
+					 <unittitle encodinganalog="245$a">Nisqually House</unittitle> 
+					 <unitdate era="ce" calendar="gregorian" encodinganalog="245$f">1833-1835 and undated</unitdate> 
+				</did> 
+				<scopecontent> 
+					 <p><emph render="italic">Journal of Occurrences at Nisqually
+						  House, From May 30th, 1833, to April 25th, 1835</emph> (87 page
+						  typescript).</p> 
+				</scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">3/3</container> 
+					 <unittitle encodinganalog="245$a">Ogden, Peter Skene --
+						  Correspondence regarding</unittitle> 
+					 <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1866">1866</unitdate> 
+					 <unitdate era="ce" calendar="gregorian" encodinganalog="245$f">1908-1931 and undated</unitdate> 
+				</did> 
+				<scopecontent> 
+					 <p>Letters to and from T. C. Elliott regarding Hudson's Bay
+						  Company expedition leader and chief factor Peter Skene Ogden and his family.
+						  Includes a handscript letter, reportedly from Peter Ogden, son of Peter Skene
+						  Ogden, to William R. Smith of the Red River settlement, 1 September 1866.</p> 
+				</scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">3/4</container> 
+					 <unittitle encodinganalog="245$a">Ogden, Peter Skene -- Article
+						  by T. C. Elliott</unittitle> 
+					 <unitdate era="ce" calendar="gregorian" encodinganalog="245$f">1910 and undated</unitdate> 
+				</did> 
+				<scopecontent> 
+					 <p>Typescript draft with handwritten notations and published
+						  reprint of "Peter Skene Ogden: Fur Trader" by T. C. Elliott, which was
+						  published in the <emph render="italic">Oregon Historical Quarterly</emph>,
+						  volume 11 (1910).</p> 
+				</scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">3/5</container> 
+					 <unittitle encodinganalog="245$a">Ogden, Peter Skene --
+						  Research notes</unittitle> 
+					 <unitdate era="ce" calendar="gregorian" encodinganalog="245$f">1817-1909 and undated</unitdate> 
+				</did> 
+				<scopecontent> 
+					 <p>Research notes and typescript and handscript copies of
+						  documents pertaining to the life of Peter Skene Ogden. Includes some notes on
+						  Ogden family genealogy and Ogden's estate.</p> 
+				</scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">3/6</container> 
+					 <unittitle encodinganalog="245$a">"Oregon
+						  Expedition"</unittitle> 
+					 <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1832">1832</unitdate> 
+				</did> 
+				<scopecontent> 
+					 <p>Typescript copy of article appearing in the
+						  <emph render="italic">Missouri Republican</emph>, 14 February 1832, on the
+						  subject of a proposed expedition to send settlers to Oregon, then a politically
+						  disputed territory.</p> 
+				</scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">3/7</container> 
+					 <unittitle encodinganalog="245$a">Oregon -- Origin of Name --
+						  Jonathan Carver</unittitle> 
+					 <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1766/1786">1766-1786</unitdate> 
+					 <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1921/1922">1921-1922</unitdate> 
+				</did> 
+				<scopecontent> 
+					 <p>Correspondence and handscript copies of documents relating
+						  to Jonathan Carver and the name "Oregon." Includes excerpts from
+						  <emph render="italic">Journal of the Travels of Jonathan Carver in the Year
+						  1766 and 1767</emph> and <emph render="italic">Memoirs of John Fothergill,
+						  M.D.C.</emph> by John Coakley Lettsom, 1786.</p> 
+				</scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">3/8</container> 
+					 <unittitle encodinganalog="245$a">Oregon -- Origin of Name --
+						  Richard Rogers</unittitle> 
+					 <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1765/1775">1765-1775</unitdate> 
+					 <unitdate era="ce" calendar="gregorian" encodinganalog="245$f">1921-1929 and undated</unitdate> 
+				</did> 
+				<scopecontent> 
+					 <p>Correpsondence and handscript and typescript copies of
+						  documents relating to Richard Rogers and the name "Oregon." Includes Rogers'
+						  <emph render="italic">Proposal</emph> and <emph render="italic">Petition</emph>
+						  to the British king to seek a northwest passage through North America, and
+						  "Instructions and Orders to James Stanley Goddard" 1766.</p> 
+				</scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">3/9</container> 
+					 <unittitle encodinganalog="245$a">Palmer, Joel</unittitle> 
+					 <unitdate era="ce" calendar="gregorian" encodinganalog="245$f">1845-1846 and undated</unitdate> 
+				</did> 
+				<scopecontent> 
+					 <p>Typescript excerpts of Joel Palmer's journals of 1845-1846,
+						  and of Peter H. Burnett's "Recollections and Opinions of an Old Pioneer."</p> 
+				</scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">3/10</container> 
+					 <unittitle encodinganalog="245$a">Patterson, J. F.
+						  (Fred)</unittitle> 
+					 <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1861/1866">1861-1866</unitdate> 
+					 <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1929">1929</unitdate> 
+					 <unitdate era="ce" calendar="gregorian" encodinganalog="245$f">and undated</unitdate> 
+				</did> 
+				<scopecontent> 
+					 <p>Typescript and handscript copy of documents, correspondence,
+						  notes, and newspaper clipping regarding the crimes and assassination of J. F.
+						  (Fred) Patterson in Walla Walla, Washington, 1866.</p> 
+				</scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">3/11</container> 
+					 <unittitle encodinganalog="245$a">Pelly, J. H.</unittitle> 
+					 <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1838">1838</unitdate> 
+					 <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1916">1916</unitdate> 
+				</did> 
+				<scopecontent> 
+					 <p>Copy of a letter from J. H. Pelly, Governor of the Hudson's
+						  Bay Company, to the Lords of the Committee of Privy Council for Trade, 7
+						  February 1838 (12 page typescript).</p> 
+				</scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">3/12</container> 
+					 <unittitle encodinganalog="245$a">Pendleton, Oregon</unittitle>
+					 
+					 <unitdate era="ce" calendar="gregorian" encodinganalog="245$f">undated</unitdate> 
+				</did> 
+				<scopecontent> 
+					 <p>Recollections of Z. F. Moody, addressed to the President of
+						  the Umatilla Historical Society, Pendleton (3 page typescript).</p> 
+				</scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">3/13</container> 
+					 <unittitle encodinganalog="245$a">Pike, Zebulon
+						  Montgomery</unittitle> 
+					 <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1805">1805</unitdate> 
+				</did> 
+				<scopecontent> 
+					 <p>Copy of letter from Zebulon Pike to Hugh M'Gillis, 6
+						  February 1805 (5 page typescript).</p> 
+				</scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">3/14</container> 
+					 <unittitle encodinganalog="245$a">Prevost, J. B.</unittitle> 
+					 <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1813/1818">1813-1818</unitdate> 
+					 <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1918">1918</unitdate> 
+					 <unitdate era="ce" calendar="gregorian" encodinganalog="245$f">and undated</unitdate> 
+				</did> 
+				<scopecontent> 
+					 <p>Correspondence to and from T. C. Elliott, notes, and copies
+						  of documents relating to United States Commissioner J. B. Prevost and the
+						  surrender of the Fort George (Astoria) in 1818.</p> 
+				</scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">3/15</container> 
+					 <unittitle encodinganalog="245$a">Red River
+						  Settlement</unittitle> 
+					 <unitdate era="ce" calendar="gregorian" encodinganalog="245$f">1909 and undated</unitdate> 
+				</did> 
+				<scopecontent> 
+					 <p>Correspondence and notes regarding schools and religious
+						  activity at the Red River Settlement.</p> 
+				</scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">3/16</container> 
+					 <unittitle encodinganalog="245$a">Revet, Francois</unittitle> 
+					 <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1838/1866">1838-1866</unitdate> 
+					 <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1933">1933</unitdate> 
+				</did> 
+				<scopecontent> 
+					 <p>Correspondence and documents regarding fur trappers Francois
+						  and Antoine Rivet and their families, and the estate and land holdings of
+						  Francois Rivet. (Rivet is also spelled Rive, Rivet, Revais, and Reve.)</p> 
+				</scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">3/17</container> 
+					 <unittitle encodinganalog="245$a">Roads -- Washington
+						  Territory</unittitle> 
+					 <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1901">1901</unitdate> 
+					 <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1912">1912</unitdate> 
+				</did> 
+				<scopecontent> 
+					 <p>Correspondence regarding old roads in Washington Territory.
+						  Copy of "Something about Fording Rivers in Pierce and Thurston Counties in
+						  Washington Territory between 1850 and 1890" by E. Higgins, Ft. Nesqually, Aug.
+						  1st, 1901 (3 page typescript).</p> 
+				</scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">3/18</container> 
+					 <unittitle encodinganalog="245$a">Ross, Alexander</unittitle> 
+					 <unitdate era="ce" calendar="gregorian" encodinganalog="245$f">1824 and undated</unitdate> 
+				</did> 
+				<scopecontent> 
+					 <p>Typescript excerpts of explorer Alexander Ross's journal,
+						  1824, and annotations and editorial notes by T. C. Elliott.</p> 
+				</scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">4/1</container> 
+					 <unittitle encodinganalog="245$a">Salish House</unittitle> 
+					 <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1914">1914</unitdate> 
+					 <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1923">1923</unitdate> 
+				</did> 
+				<scopecontent> 
+					 <p>Correspondence concerning the Hudson's Bay Company outpost
+						  Salish House, Thompson Falls, and environs.</p> 
+				</scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">4/2</container> 
+					 <unittitle encodinganalog="245$a">Scarborough, James
+						  Allan</unittitle> 
+					 <unitdate era="ce" calendar="gregorian" encodinganalog="245$f">1910 and undated</unitdate> 
+				</did> 
+				<scopecontent> 
+					 <p>Correspondence and notes regarding James Allan Scarborough,
+						  Hudson's Bay Company employee on the Columbia and Puget Sound, his residence
+						  and family.</p> 
+				</scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">4/3</container> 
+					 <unittitle encodinganalog="245$a">Simpson, Sir
+						  George</unittitle> 
+					 <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1847/1848">1847-1848</unitdate> 
+					 <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1918/1930">1918-1930</unitdate> 
+					 <unitdate era="ce" calendar="gregorian" encodinganalog="245$f">and undated</unitdate> 
+				</did> 
+				<scopecontent> 
+					 <p>Copies and excerpts of documents authored by Sir George
+						  Simpson, Governor of the Hudson's Bay Company, including 24 June 1848 letter to
+						  Archibald McKinlay. Correspondence to and from T. C. Elliott regarding Governor
+						  Simpson and his family. Notes regarding Simpson family genealogy.</p> 
+				</scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">4/4</container> 
+					 <unittitle encodinganalog="245$a">Sinclair, James, and William
+						  Sinclair</unittitle> 
+					 <unitdate era="ce" calendar="gregorian" encodinganalog="245$f">1913-1936 and undated</unitdate> 
+				</did> 
+				<scopecontent> 
+					 <p>Correspondence to T. C. Elliott regarding James Sinclair,
+						  Oregon Company clerk, and his brother, Chief Factor William Sinclair, both of
+						  the Hudson's Bay Company. Excerpts from documents in the Hudson's Bay Company
+						  archives, as well as Elliott's notes on the Sinclair brothers. Typescript copy
+						  of "Across the Continent Sixty Years Ago Early Travels of James Sinclair,"
+						  <emph render="italic">Manitoba Free Press</emph>, 1913. Frank H. Woody's
+						  handscript "recollection regarding the abode of [William] Sinclair's in Hell
+						  Gate", 1914.</p> 
+				</scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">4/5</container> 
+					 <unittitle encodinganalog="245$a">Smith, Jedediah
+						  S.</unittitle> 
+					 <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1911/1916">1911-1916</unitdate> 
+				</did> 
+				<scopecontent> 
+					 <p>Letters to T. C. Elliott regarding American fur trapper and
+						  brigade leader Jedediah S. Smith, the route of his travels up the Columbia
+						  River and to California, and members of Smith's expeditions. Also discussed is
+						  the naming of the Humboldt River.</p> 
+				</scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">4/6</container> 
+					 <unittitle encodinganalog="245$a">Smith, Samuel
+						  DeWitt</unittitle> 
+					 <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1908">1908</unitdate> 
+					 <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1919">1919</unitdate> 
+				</did> 
+				<scopecontent> 
+					 <p>Letters to and from John W. Pullman to T. C. Elliott,
+						  including Pullman's handscript memoranda of the life of the Hon. Samuel DeWitt
+						  Smith, member of the Washington Territorial Legislature. Typescript copy of
+						  both is included. Notes from Lewis McNorris.</p> 
+				</scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">4/7</container> 
+					 <unittitle encodinganalog="245$a">Spalding, Henry Harmon --
+						  I</unittitle> 
+					 <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1835/1839">1835-1839</unitdate> 
+				</did> 
+				<scopecontent> 
+					 <p>Letter from H. H. Spalding, Fort Vancouver, to Rev. David
+						  Green, Boston, 20 September 1835 (handscript, photostat). Excerpts from H. H.
+						  Spalding's journal, 1836 (handscript, photostat). Typescript copy of "Diary of
+						  Mr. H. H. Spalding", 1838-1839, from the Whitman Museum.</p> 
+				</scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">4/8</container> 
+					 <unittitle encodinganalog="245$a">Spalding, Henry Harmon --
+						  II</unittitle> 
+					 <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1836">1836</unitdate> 
+				</did> 
+				<scopecontent> 
+					 <p>"Narrative of an Overland Journey to Fort Vancouver and
+						  Lapwai in 1836 Together with an Account of the Beginning of the American
+						  Protestant Missions Beyond the Rockies" by H. H. Spalding (typescript).</p> 
+				</scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">4/9</container> 
+					 <unittitle encodinganalog="245$a">Spalding, Henry Harmon --
+						  III</unittitle> 
+					 <unitdate era="ce" calendar="gregorian" encodinganalog="245$f">1865 and undated</unitdate> 
+				</did> 
+				<scopecontent> 
+					 <p>"History of Indian Affairs Among the Nez Perces. No. 1. From
+						  Pacific May 25, 1865" (typescript copy). Lectures by Rev. H. H. Spalding,
+						  "Early Oregon Missions -- Their Importance in Securing the Country to
+						  Americans" (nos. 1-9, typescript).</p> 
+				</scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">4/10</container> 
+					 <unittitle encodinganalog="245$a">Spokane Garry</unittitle> 
+					 <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1820/1832">1820-1832</unitdate> 
+					 <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1914/1917">1914-1917</unitdate> 
+					 <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1936">1936</unitdate> 
+				</did> 
+				<scopecontent> 
+					 <p>Correspondence to and from T. C. Elliott regarding Spokane
+						  Garry, son of a Spokane chief, sent to Red River Settlement for education.
+						  Photostat copy of letter from Cyrus H. Walker to Hon. Henry F. Ashurst,
+						  Chairman of Senate Committee on Indian Affairs, 29 November 1917. "Indian
+						  Account of the Settlement of Spokane County," Spokane Historical Society, 1916
+						  (typescript). Excerpts from documents in the Hudson's Bay Company Archive on
+						  the topic "Spokan Garry and the Church Missionary Society's School at Red River
+						  Settlement"</p> 
+				</scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">4/11</container> 
+					 <unittitle encodinganalog="245$a">Spokane House</unittitle> 
+					 <unitdate era="ce" calendar="gregorian" encodinganalog="245$f">1911-1922 and undated</unitdate> 
+				</did> 
+				<scopecontent> 
+					 <p>Correspondence regarding the location of the fur trade post
+						  Spokane House. Statements of James Mondahann, George Herron, and H. C. Burnett.
+						  Hand drawn maps of proposed sites for Spokane House.</p> 
+				</scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">4/12</container> 
+					 <unittitle encodinganalog="245$a">Stevens, Isaac
+						  Ingalls</unittitle> 
+					 <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1856/1857">1856-1857</unitdate> 
+					 <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1919">1919</unitdate> 
+				</did> 
+				<scopecontent> 
+					 <p>Materials regarding Isaac Stevens as governor of Washington
+						  Territory. Typescript copies of documents from "Message of the Governor of
+						  Washington Territory." "Transcripts and notations from Report of the Sec. of
+						  War, Jefferson Davis, dated Dec. 1st, 1856, 34th Congress, 3rd Session, House
+						  of Rep. Exec. Doc. No. 1 (Vol. II)" (typescript). Letter regarding copies.</p> 
+				</scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">4/13</container> 
+					 <unittitle encodinganalog="245$a">Thompson, David</unittitle> 
+					 <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1807/1811">1807-1811</unitdate> 
+					 <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1908/1928">1908-1928</unitdate> 
+					 <unitdate era="ce" calendar="gregorian" encodinganalog="245$f">and undated</unitdate> 
+				</did> 
+				<scopecontent> 
+					 <p>Correspondence, notes, copies of documents and draft
+						  manuscript regarding fur trade explorer David Thompson and his journeys through
+						  the Spokane country. "Narrative of the Expedition to the Kootanae  Flat
+						  Bow Indian Countries, on the Sources of the Columbia River, Pacific Ocean by D.
+						  Thompson on behalf of the NW Company 1807" (typescript copy). Typescript
+						  excerpts from "Journey to the Lake Indian Country 1808" and other Thompson
+						  journals.</p> 
+				</scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">4/14</container> 
+					 <unittitle encodinganalog="245$a">Tolmie, William
+						  Fraser</unittitle> 
+					 <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1832/1886">1832-1886</unitdate> 
+					 <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1916">1916</unitdate> 
+					 <unitdate era="ce" calendar="gregorian" encodinganalog="245$f">and undated</unitdate> 
+				</did> 
+				<scopecontent> 
+					 <p>Correspondence and notes, and typescript copies of documents
+						  relating to Dr. William Fraser Tolmie of the Hudson's Bay Company's Fort
+						  Nesqually and Fort Victoria. Typescript excerpts from Dr. Tolmie's journal of
+						  1832-1833, when he first arrived in the Pacific Northwest.</p> 
+				</scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">4/15</container> 
+					 <unittitle encodinganalog="245$a"><emph render="italic">U.S.S.
+						  Ontario</emph> (ship)</unittitle> 
+					 <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1874">1874</unitdate> 
+					 <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1918">1918</unitdate> 
+				</did> 
+				<scopecontent> 
+					 <p>Correspondence to and from T. C. Elliott and notes regarding
+						  the ship <emph render="italic">Ontario</emph>, its log book, and journals of
+						  Lieutenant J. H. Aulick and Lieutenant David Conner.</p> 
+				</scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">4/16</container> 
+					 <unittitle encodinganalog="245$a">Vancouver's
+						  Voyage</unittitle> 
+					 <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1788/1792">1788-1792</unitdate> 
+					 <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1914/1915">1914-1915</unitdate> 
+					 <unitdate era="ce" calendar="gregorian" encodinganalog="245$f">and undated</unitdate> 
+				</did> 
+				<scopecontent> 
+					 <p>Correspondence, notes, and copies of documents relating to
+						  George Vancouver's voyage to the Pacific Northwest with the ships
+						  <emph render="italic">Discovery,Chatham,</emph> and<emph render="italic">
+						  Daedalus.</emph> Typescript copies of related documents, including "Portions of
+						  an Incomplete Journal" by Thomas Edgar, Master of the H.M.S.
+						  <emph render="italic">Discovery</emph>"; <emph render="italic">"</emph>Log of
+						  Captain of H. M. S. 'Chatham'"; "Captain George Vancouver's Narrative";
+						  "Lieutenant Broughton's Account of Columbia River" (typescript copies).
+						  Manuscript draft for publication on the log of the <emph render="italic">Chatham</emph>.</p> 
+				</scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">4/17</container> 
+					 <unittitle encodinganalog="245$a">Waldo, Daniel</unittitle> 
+					 <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1878">1878</unitdate> 
+					 <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1918">1918</unitdate> 
+				</did> 
+				<scopecontent> 
+					 <p>Daniel Waldo's "Critiques," based on Hubert Howe Bancroft's
+						  1878 interview of pioneer Waldo in Salem, Oregon (typescript copy from the
+						  Bancroft Collection, University of California -- Berkeley).</p> 
+				</scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">4/18</container> 
+					 <unittitle encodinganalog="245$a">Walker, Joel P.</unittitle> 
+					 <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1878">1878</unitdate> 
+				</did> 
+				<scopecontent> 
+					 <p>"Narrative of Adventures thro. Alabama, Florida, New Mexico,
+						  Oregon, California etc. by Joel P. Walker, A Pioneer of Pioneers dictated by
+						  him to R. A. Thompson, Esq. of Sta. Rosa. Bancroft Library 1878" (typescript
+						  copy). Account includes Walker's 1840 visit to Oregon.</p> 
+				</scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">4/19</container> 
+					 <unittitle encodinganalog="245$a">Ward Massacre</unittitle> 
+					 <unitdate era="ce" calendar="gregorian" encodinganalog="245$f">undated</unitdate> 
+				</did> 
+				<scopecontent> 
+					 <p>Recollection of the 1854 massacre of Alexander Ward emigrant
+						  party, by an unnamed son-in-law of John Ward (typescript copy).</p> 
+				</scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">4/20</container> 
+					 <unittitle encodinganalog="245$a">Whitman, Marcus</unittitle> 
+					 <unitdate era="ce" calendar="gregorian" encodinganalog="245$f">undated</unitdate> 
+				</did> 
+				<scopecontent> 
+					 <p>Letter from Marcus Whitman to James M. Porter, regarding
+						  Whitman's views on the importance of the Oregon Territory (handscript,
+						  photostat).</p> 
+				</scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">4/21</container> 
+					 <unittitle encodinganalog="245$a">Whitman, Perrin
+						  Beza</unittitle> 
+					 <unitdate era="ce" calendar="gregorian" encodinganalog="245$f">undated</unitdate> 
+				</did> 
+				<scopecontent> 
+					 <p>"Perrin B. Whitman. A Stirring Recital by Dr. Whitman's
+						  Nephew and Son." (typescript copy; author unknown).</p> 
+				</scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">5/1</container> 
+					 <unittitle encodinganalog="245$a">Whitman Controversy --
+						  Correspondence</unittitle> 
+					 <unitdate era="ce" calendar="gregorian" encodinganalog="245$f">1888-1922 and undated</unitdate> 
+				</did> 
+				<scopecontent> 
+					 <p>Letters to and from T. C. Elliott regarding the historical
+						  contribution of missionaries Marcus and Narcissa Whitman and the transcription
+						  of Whitman documents for Mr. Elliott.</p> 
+				</scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">5/2</container> 
+					 <unittitle encodinganalog="245$a">Whitman Controversy --
+						  William I. Marshall -- I</unittitle> 
+					 <unitdate era="ce" calendar="gregorian" encodinganalog="245$f">1882 and undated</unitdate> 
+				</did> 
+				<scopecontent> 
+					 <p>Chapter 26, "Oregon," from <emph render="italic">Building
+						  the Nation</emph> by Charles Carleton Coffin, 1882. Handscript annotations in
+						  margins, by Marshall.</p> 
+				</scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">5/3</container> 
+					 <unittitle encodinganalog="245$a">Whitman Controversy --
+						  William I. Marshall -- II</unittitle> 
+					 <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1893/1901">1893-1901</unitdate> 
+				</did> 
+				<scopecontent> 
+					 <p>Works by William I. Marshall on Marcus Whitman. "The
+						  Authorship and Value of the Account of the Migration of 1843 to Oregon Which
+						  Was Published as Part Two of George Wilkes' 'History of Oregon' New York, 1845"
+						  1893 (typescript carbon copy). Manuscript draft refuting S. B. L. Penrose's
+						  defense of Marcus Whitman's place in Oregon history, as well as Appendices 3
+						  and 6 to "The Whitman Saved Oregon Humbug" and Appendix to Chapter IX. (All
+						  documents are typescript carbon or mimeograph copies, some with the author's
+						  handwritten notation).</p> 
+				</scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">5/4</container> 
+					 <unittitle encodinganalog="245$a">Whitman Controversy --
+						  William I. Marshall -- III</unittitle> 
+					 <unitdate era="ce" calendar="gregorian" encodinganalog="245$f">1901-1903 and undated</unitdate> 
+				</did> 
+				<scopecontent> 
+					 <p>More works by William I. Marshall on Marcus Whitman. "Review
+						  of "Marcus Whitman and the Early Days of Oregon' by W. A. Mowry" 1902. "Is the
+						  Proper Basis of History 'Atmosphere' and 'Tradition' or the Study of
+						  Contemporaneous Documents? <emph render="italic">In Re</emph> Marcus Whitman"
+						  1903. "Why His Search (?) for the Truth of History Was a Failure. Being a
+						  Review of Rev. Myron Eells' 'Reply to Prof. Bourne" 1903. Letter to General
+						  John W. Foster. (All documents are typescript carbon or mimeograph copies, some
+						  with the author's handwritten notation).</p> 
+				</scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">5/5</container> 
+					 <unittitle encodinganalog="245$a">Whitman Controversy -- Other
+						  documents</unittitle> 
+					 <unitdate era="ce" calendar="gregorian" encodinganalog="245$f">1838-1888 and undated</unitdate> 
+				</did> 
+				<scopecontent> 
+					 <p>Notes and copies of documents regarding Marcus Whitman.
+						  Works by other historians, including "Dr. Marcus Whitman. An Estimate of the
+						  Services Rendered to Oregon by the Pioneer and Martyr," Frances Fuller Victor,
+						  1884 (typescript), "Heroes and Heroines of the Long Ago" (typescript mimeograph
+						  signed C. G.), and "Undeveloped Factors in the Life of Marcus Whitman" by
+						  Archer Butler Hulbert (typescript carbon). Undated draft of speech by T. C.
+						  Elliott to the Narcissa Prentiss Chapter of the DAR in Walla Walla.</p> 
+				</scopecontent> 
+		  </c02> 
+	 </c01> 
+	 <c01 level="series"> 
+		  <did> 
+				<unitid encodinganalog="099">Series B</unitid> 
+				<unittitle encodinganalog="245$a">Correspondence</unittitle> 
+				<unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1908/1937">1908-1937</unitdate> 
+
+				<physdesc><extent encodinganalog="300$a">10
+					 folders.</extent></physdesc>
+		  </did> 
+		  <scopecontent> 
+				<p>Letters to and from T. C. Elliott, on matters not treated in the
+					 subject files. Topics include publications, research, professional activities,
+					 and miscellaneous historical subjects. Also includes some draft manuscripts
+					 sent to Mr. Elliott by their authors. Arranged alphabetically by last or
+					 corporate name, and chronologically for each author. Many of the correspondents
+					 are booksellers, librarians, or other historians.</p> 
+		  </scopecontent> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">5/6</container> 
+					 <unittitle encodinganalog="245$a">A-E</unittitle> 
+					 <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1908/1924">1908-1924</unitdate> 
+				</did> 
+				<scopecontent> 
+					 <p>American Historical Association, James M. Ashton, James E.
+						  Babb, C. B. Bagley, J. Herbert Bainton, T. L. Ball, William S. Bell, John H.
+						  Benton, R. B. Berks, J. Q. A. Bowlby, Albert Britnell, J. B. Brooks, W. H.
+						  Brooks, Cornelius Brosnan, Burrelle's Press Clipping Bureau, Canadian Pacific
+						  Railway Company, Rev. William H. Clagett, C. P. Coburn, Katharine Coman, Neil
+						  S. Coventry, Department of the Interior [Canada], Asa Don Dickinson, Stella M.
+						  Drumm, and Allen B. Eaton.</p> 
+				</scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">5/7</container> 
+					 <unittitle encodinganalog="245$a">Bancroft Library</unittitle> 
+					 <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1908/1910">1908-1910</unitdate> 
+				</did> 
+				<scopecontent> 
+					 <p>Correspondence with Frederick J. Teggart and James R.
+						  Robertson concerning the York manuscript and other matters of interest to Mr.
+						  Elliott's research.</p> 
+				</scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">5/8</container> 
+					 <unittitle encodinganalog="245$a">Book Purchases</unittitle> 
+					 <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1909/1919">1909-1919</unitdate> 
+				</did> 
+				<scopecontent> 
+					 <p>Correspondence with booksellers regarding book
+						  purchases.</p> 
+				</scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">5/9</container> 
+					 <unittitle encodinganalog="245$a">G-M</unittitle> 
+					 <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1908/1921">1908-1921</unitdate> 
+				</did> 
+				<scopecontent> 
+					 <p>W. H. Gilstrap, W. B. Godfrey, R. E. Gosnell, Caroline
+						  Hathaway, Idress Head, Frederick V. Holman, Hensley R. Holmden, Franklin F.
+						  Hopper, A. L. Kirkpatrick, Henry H. Kohlhauff, Katharine B. Judson, H. T.
+						  Lockyer, M. S. McDonald, B. F. Manring, E. J. C. Markgraf, Sr., Archer Martin,
+						  Cornelia Marvin, Edmond S. Meany, A. G. Morice, Hugh Munro</p> 
+				</scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">5/10</container> 
+					 <unittitle encodinganalog="245$a">Howay, F. W.</unittitle> 
+					 <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1930">1930</unitdate> 
+					 <unitdate era="ce" calendar="gregorian" encodinganalog="245$f">1934 and undated</unitdate> 
+				</did> 
+				<scopecontent> 
+					 <p>Correspondence between F. W. Howay and T. C. Elliott,
+						  research notes, and manuscript, "The Lengthy Voyage of the Jefferson,
+						  1791-1795," by F. W. Howay. Other letters from Howay to Elliott appear in the
+						  historical research subject files. The two historians collaborated on a number
+						  of projects.</p> 
+				</scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">5/11</container> 
+					 <unittitle encodinganalog="245$a">Inland Empire Historical
+						  Society</unittitle> 
+					 <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1909">1909</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">5/12</container> 
+					 <unittitle encodinganalog="245$a">Meyers, Jacob A.</unittitle> 
+					 <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1908/1917">1908-1917</unitdate> 
+				</did> 
+				<scopecontent> 
+					 <p>Letters to T. C. Elliott from Jacob A. Meyers, some
+						  including Mr. Meyers's research notes on topics relating to the exploration of
+						  the Pacific Northwest. Other letters from Meyers to T. C. Elliott appear
+						  elsewhere in the collection.</p> 
+				</scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">5/13</container> 
+					 <unittitle encodinganalog="245$a">Northwest Indian
+						  Congress</unittitle> 
+					 <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1925">1925</unitdate> 
+				</did> 
+				<scopecontent> 
+					 <p>Correspondence regarding the annual parade of the Northwest
+						  Indian Congress in Spokane, Washington. T. C. Elliott was secretary of the
+						  Walla Walla Committee and Chairman of the Float Committee for Walla Walla.</p> 
+				</scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">5/14</container> 
+					 <unittitle encodinganalog="245$a">N-Y</unittitle> 
+					 <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1908/1937">1908-1937</unitdate> 
+				</did> 
+				<scopecontent> 
+					 <p>National Americana Society, North British and Mercantile
+						  Insurance Company, W. Y. Pemberton, S. H. Piles, Nellie B. Pipes, Wilbur F.
+						  Prock, Thomas W. Prosch, Mr. Root, P. H. W. Ross, E. O. S. Scholefield, Joseph
+						  Shafer, Smithsonian Institution, Omar C. Spencer, Gen. James Clark Strong,
+						  Benjamin Sulte, Reuben G. Thwaites, Henry L. Tolkington, J. B. Tyrell, United
+						  States Geographic Board, United States Geological Survey, L. Van Alstyne, F. P.
+						  Wagner, John T. Walbran, Mrs. C. M. Waters, J. R. Wilson, F. G. Young</p> 
+				</scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">5/15</container> 
+					 <unittitle encodinganalog="245$a">Oregon Historical
+						  Society</unittitle> 
+					 <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1908/1922">1908-1922</unitdate> 
+				</did> 
+				<scopecontent> 
+					 <p>Correspondence relating to business of the Oregon Historical
+						  Society Board.</p> 
+				</scopecontent> 
+		  </c02> 
+	 </c01> 
+	 <c01 level="series"> 
+		  <did> 
+				<unitid encodinganalog="099">Series C</unitid> 
+				<unittitle encodinganalog="245$a">Ephemera</unittitle> 
+				<unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1909">1909</unitdate> 
+				<unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1921">1921</unitdate> 
+				<unitdate era="ce" calendar="gregorian" encodinganalog="245$f">and
+					 undated</unitdate> 
+
+				<physdesc><extent encodinganalog="300$a">2
+					 folders</extent></physdesc>
+		  </did> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">5/16</container> 
+					 <unittitle encodinganalog="245$a">Association membership
+						  certificates</unittitle> 
+					 <unitdate era="ce" calendar="gregorian" encodinganalog="245$f">1921 and undated</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">5/17</container> 
+					 <unittitle encodinganalog="245$a">Senate Bill 133, Washington
+						  State</unittitle> 
+					 <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1909">1909</unitdate> 
+				</did> 
+		  </c02> 
+	 </c01> 
+</dsc></archdesc>
+</ead>

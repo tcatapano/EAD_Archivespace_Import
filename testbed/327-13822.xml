@@ -1,0 +1,158 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead audience="external" relatedencoding="MARC21">
+  <eadheader langencoding="iso639-2b" audience="internal" countryencoding="iso3166-1"
+    dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924"
+    relatedencoding="MARC21">
+    <eadid mainagencycode="DSI-AI" countrycode="us"
+      identifier="http://siarchives.si.edu/findingaids/FA09-024.xml" encodinganalog="856$u">
+      http://siarchives.si.edu/findingaids/FA09-024.xml</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper encodinganalog="245$a">Exhibition Records, <date>1989, 1991-1992, 1997</date></titleproper>
+        <author encodinganalog="245$c">Finding aid prepared by Smithsonian Institution
+          Archives</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher encodinganalog="260$b">Smithsonian Institution Archives </publisher>
+        <address>
+          <addressline>Washington, D.C. </addressline>
+          <addressline>Contact us at <emph render="italic">osiaref@si.edu</emph></addressline>
+        </address>
+        <date type="publication"/>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>Finding aid encoded on <date normal="2000-01-01">7-11-2011</date></creation>
+      <langusage encodinganalog="546"> Finding aid written in <language encodinganalog="041"
+          langcode="eng">English</language>
+      </langusage>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection" type="inventory" relatedencoding="MARC21">
+    <did>
+      <head>Collection Overview</head>
+      <repository label="Repository:" encodinganalog="852$a">
+        <corpname encodinganalog="110">Smithsonian Institution Archives, </corpname>
+        <address>
+          <addressline>Washington, D.C., </addressline>
+          <addressline><emph render="italic">osiaref@si.edu</emph></addressline>
+        </address>
+      </repository>
+      <origination label="Creator:">
+        <persname encodinganalog="100">Freer Gallery of Art and Arthur M. Sackler Gallery, Dept. of Conservation and Scientific Research</persname>
+      </origination>
+      <note>
+        <p>SI Records</p>
+      </note>
+      <unittitle label="Title:" encodinganalog="245$a">Exhibition Records</unittitle>
+      <unitdate label="Dates:" encodinganalog="245$f" normal="1971/2004">1989, 1991-1992, 1997</unitdate>
+      <physdesc label="Quantity:" encodinganalog="300$a">
+        <extent>1 cu. ft. (1 record storage box)</extent>
+      </physdesc>
+      <unitid encodinganalog="099" label="Collection:" countrycode="iso3166-1"
+        repositorycode="DSI-AI">Accession 09-024</unitid>
+      <langmaterial encodinganalog="546" label="Language of Materials:">
+        <language encodinganalog="041" langcode="eng">English</language>
+      </langmaterial>
+    </did>
+    <prefercite encodinganalog="510">
+      <head>Preferred Citation</head>
+      <p>Smithsonian Institution Archives, Accession 09-024, Freer Gallery of Art and Arthur M. Sackler Gallery, Dept. of Conservation and Scientific Research, Exhibition Records</p>
+    </prefercite>
+    
+ 
+    
+    <scopecontent>
+    <head>Descriptive Entry</head>
+     <p>This accession consists of records documenting the condition of objects displayed in the exhibitions, "Rise to Power: Art of Ancient Japan;" "Court Arts of Indonesia;" 
+    "Ancient Cities of the Indus Valley;" and "Timur and the Princely Vision: Persian Art and Culture in the Fifteenth Century." Materials include condition reports, object photographs, 
+    and related materials.</p> </scopecontent> 
+     
+     
+ 
+    
+    
+    
+      <userestrict>
+        <head>Use Restriction</head>
+        <p>Restricted for 15 years, until Jan-01-2013; Transferring office; 12/8/2008 memorandum, Wright to Woody; Contact reference staff for details.</p>
+      </userestrict>
+    
+        
+      <controlaccess id="a12">
+      <head>Index Terms</head>
+      <p>This collection is indexed under the following access terms. These are links to collections
+      with related topics, persons or places.</p>
+        
+         <controlaccess>
+           <head>Name</head>
+           <famname encodinganalog="600" source="local">Arthur M. Sackler Gallery (Smithsonian Institution)</famname>
+           <famname encodinganalog="600" source="local">Freer Gallery of Art.</famname>
+           <famname encodinganalog="600" source="local">Ancient Cities of the Indus Valley (Exhibition) (1997: Washington, D.C.)</famname>
+           <famname encodinganalog="600" source="local">Court Arts of Indonesia (Exhibition) (1991:  Washington, D.C.)</famname>
+           <famname encodinganalog="600" source="local">Rise to Power: Art of Ancient Japan (Exhibition) (1992: Washington, D.C.)</famname>
+           <famname encodinganalog="600" source="local">Timur and the Princely Vision: Persian Art and Culture in the Fifteenth Century (Exhibition) (1989:  Washington, D.C.)</famname>
+         </controlaccess>
+        
+        
+         <controlaccess>
+           <head>Subject</head>
+           <subject encodinganalog="650" source="local">Art museums.</subject>
+           <subject encodinganalog="650" source="local">Art, Asian.</subject>
+           <subject encodinganalog="650" source="local">Exhibitions</subject>
+         </controlaccess>
+        
+        
+        
+        
+         <controlaccess>
+           <head>Physical Characteristics of Materials in the Collection</head>
+           <genreform encodinganalog="655$a" source="aat">Manuscripts</genreform>
+           <genreform encodinganalog="655$a" source="aat">Color photographs</genreform>
+           <genreform encodinganalog="655$a" source="aat">Black-and-white photographs</genreform>
+         </controlaccess>
+        
+      
+      </controlaccess>
+    <dsc type="combined" id="a23">
+      
+      <c01 level="file">
+        <did>
+          <unittitle>Box 1</unittitle>
+        </did>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 1 of 1</container>
+            <unittitle>Ancient Japan - Condition Reports from Lending Institution (2 folders)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 1 of 1</container>
+            <unittitle>Ancient Japan - Photographs (2 folders)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 1 of 1</container>
+            <unittitle>Court Arts of Indonesia - Condition Notebook (2 folders)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 1 of 1</container>
+            <unittitle>Ancient Cities of the Indus Valley - Photographs (4 folders)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 1 of 1</container>
+            <unittitle>Timur and the Princely Vision - Exhibition Object Condition Reports (9 folders)</unittitle>
+          </did>
+        </c02>
+      
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

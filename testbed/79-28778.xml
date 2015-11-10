@@ -1,0 +1,1924 @@
+﻿<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+	<eadheader langencoding="iso639-2b" scriptencoding="iso15924" relatedencoding="dc" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" id="a0">
+	<eadid countrycode="us" encodinganalog="identifier" mainagencycode="orcs" identifier="80444/xv31665" url="http://nwda.orbiscascade.org/ark:/80444/xv31665">OREkordesch.xml</eadid>
+
+		<filedesc>
+			<titlestmt>
+				<titleproper encodinganalog="title">Guide to The Karl and Erna Kordesch Papers 
+					<date encodinganalog="date" normal="1900/2011" era="ce" calendar="gregorian" type="inclusive">1906-2011</date></titleproper>
+				<titleproper type="filing" altrender="nodisplay">Kordesch (Karl and Erna) Papers</titleproper>
+				<author encodinganalog="creator">Finding aid prepared by Trevor Sandgathe.</author>
+				<sponsor encodinganalog="contributor"><!--[Name of Sponsor (DACS ?)]--></sponsor>
+			</titlestmt>
+
+			<publicationstmt>
+				<publisher encodinganalog="publisher">Special Collections  Archives Research Center, The Valley Library</publisher>
+				<address>
+					<addressline>121 The Valley Library</addressline>
+					<addressline>Oregon State University</addressline>
+					<addressline>Corvallis, OR 97331</addressline>
+					<addressline>Phone: 541-737-2075</addressline>
+					<addressline>Email: special.collections@oregonstate.edu</addressline>
+					<addressline>Web: http://osulibrary.oregonstate.edu/specialcollections</addressline>
+				</address>
+				<date encodinganalog="date" normal="2011">2011</date>
+			</publicationstmt>
+		</filedesc>
+
+		<profiledesc>
+			<creation>Finding aid encoded by Ryan Wick, Chris Petersen and Trevor Sandgathe.
+				<date encodinganalog="date" normal="2011">2011</date>
+			</creation>
+			<langusage>Finding aid written in 
+				<language langcode="eng" encodinganalog="language" scriptcode="latn">English</language>.
+			</langusage>
+		</profiledesc>
+	</eadheader>
+
+
+
+
+	<archdesc level="collection" type="inventory" relatedencoding="marc21">
+		<did id="a1">
+			<head>Overview of the Collection</head>
+			
+			<repository encodinganalog="852">
+				<corpname encodinganalog="852$a">Oregon State University
+					Libraries</corpname> <subarea encodinganalog="852$b">Special
+						Collections  University Archives Research Center</subarea> 
+				<address>
+					<addressline>121 The Valley Library</addressline>
+					<addressline>Oregon State University</addressline>
+					<addressline>Corvallis, OR 97331</addressline>
+					<addressline>Phone: 541-737-2075</addressline>
+					<addressline>Email: special.collections@oregonstate.edu</addressline>
+					<addressline>Web: http://osulibrary.oregonstate.edu/specialcollections</addressline>
+				</address>
+			</repository>
+			
+			<unitid encodinganalog="099" countrycode="us" repositorycode="orcs">MSS Kordesch</unitid>
+			
+			<origination label="Creator:">
+				<persname encodinganalog="100" source="lcnaf" role="creator">Kordesch, K. (Karl), 1922-</persname>
+				</origination>
+			
+			<unittitle encodinganalog="245$a" type="collection" label="Title:">Karl and Erna Kordesch Papers</unittitle>
+			
+			<unitdate type="inclusive" normal="1906/2011" encodinganalog="245$f" label="Dates:">1906-2011</unitdate>
+			
+			<physdesc label="Quanitity:">
+				<extent encodinganalog="300$a" unit="linear feat">14 linear feet</extent>
+				<extent encodinganalog="300$a" unit="boxes">36 boxes</extent>
+				<extent encodinganalog="300$a" unit="gigabytes">11 gigabytes</extent>
+				<physfacet encodinganalog="300$b">Personal and professional correspondence, research materials, financial records, scientific publications, corporate materials, immigration and employment documentation, photographs, and bibliographic records.</physfacet>
+			</physdesc>
+			
+			<abstract encodinganalog="520$a" label="Summary:">Karl Kordesch (1922-2011) was a distinguished Austrian-American chemist widely recognized for his contributions to battery and fuel cell research and technology.  Kordesch was jointly responsible for the invention of the alkaline primary dry cell battery, significant  developments in fuel cells, and the successful creation and operation of hybrid vehicles.  During his career, Kordesch was responsible for more than 100 hundred patents as well as numerous papers, articles, and books on the subject of electrochemistry, effectively revolutionized the battery industry, and pioneered electric/fuel cell vehicles.  The Karl and Erna Kordesch papers contain records of much of Karl's research and publishing efforts as well as biographical records, photos, and ephemera documenting the Kordeschs' life in Nazi-occupied Austria and the United States.</abstract>
+			
+			<langmaterial label="Language(s):">
+				<language langcode="eng" encodinganalog="546">English</language>
+				<language langcode="ger" encodinganalog="546">German</language>
+			</langmaterial>
+		</did>
+
+		<phystech encodinganalog="538">
+			<p>Materials in fair to very good condition.</p>
+			<p>Archived electronic records are viewable onsite upon appointment.</p>
+		</phystech>
+
+		<bioghist encodinganalog="545" id="a2">
+			<head>Biographical Note</head>
+			<p>Karl Kordesch is recognized as a pioneer of battery and fuel cell technology responsible for vastly extending the utility of non-petroleum electrical energy sources through the invention and refinement of electrochemical devices and processes.  Through his invention of the alkaline primary battery cell, work with rechargeable batteries, and development of fuel cell/battery hybrid vehicle systems, Karl Kordesch contributed greatly to the reduction of energy waste and the global use of compact, portable energy sources.</p>
+			<p>Karl was born in Vienna, Austria on March 18, 1922 and Erna Bӧhm was born six months later, on September 8, 1922.  After graduating from high school in 1940 Karl began studying at the University of Vienna.  In 1941, Karl was conscripted into the German military where he served until the end of World War II in 1945.  In 1946, he and Erna were married and he returned to his studies at the University of Vienna.  Karl graduated in 1948 with his doctorate in chemistry and worked as a University Assistant at the University of Vienna.  In 1953, Karl accepted a position with the U.S. Army Signal Corps through Operation Paperclip, an Office of Strategic Services program designed to supplement American scientific research with Axis personnel in exchange for U.S. citizenship and other benefits.  Karl and Erna moved their family to New Jersey where he served with the Signal Corps until 1955 when he joined the Union Carbide Corporation.  There, he developed the manganese dioxide-zinc primary cell which became the leading consumer battery worldwide.  He also worked extensively with fuel cells, contributing new technology to the Apollo space missions and developing a hydrogen fuel cell/battery system capable of powering his personal vehicle, an Austin A40, efficiently for more than three years.</p>
+			<p>In 1977, Karl left his position at Union Carbide to return to Austria with Erna where he worked as director of the Institute for Inorganic Chemistry at the Graz University of Technology.  There, he continued his research into rechargeable batteries, fuel cells, and more efficient methods for powering vehicles.  In 1986, Kordesch founded Battery Technologies Inc., a company responsible for the manufacture of rechargeable batteries sold under Rayovac.  Karl also formed the Kordesch  Associates, Inc. consulting firm in 1988.  In 1997, Kordesch accepted a position as vice-president of Apollo Energy Systems where he oversaw fuel cell research for use in consumer vehicles.  The Kordeschs moved to Eugene, Oregon they lived until Karl's death in 2011.  Karl Kordesch was survived by his wife, Erna Kordesch, and his four children.</p>
+			<p>During his lifetime, Kordesch produced more than one hundred patents, hundreds of articles and papers, and numerous books. He was an active participant in the scientific community, frequently attending and presenting at meetings and symposia, collaborating with colleagues around the globe, and acting as a leader in his field through service as the Secretary General of the International Society for Electrochemisty. His achievements have been recognized through his receipt of the prestigious William Exner Medal, the Vittorio de Nora Gold Medal Award, and the Erwin Schrödinger Prize, among others.</p>
+		</bioghist>
+
+		<bioghist>
+			<chronlist>
+				<head>Timeline for Karl and Erna Kordesch</head>
+				<chronitem>
+					<date>1922</date>
+					<eventgrp>
+						<event>Kordesch is born on <date normal="1922-03-18">March 18, 1922</date> in Vienna, Austria.</event>
+						<event>Erna Bӧhm is born on <date normal="1922-09-08">September 8, 1922</date> in Reichenau, Austria.</event>
+					</eventgrp>
+				</chronitem>
+				<chronitem>
+					<date>1940</date>
+					<eventgrp>
+						<event>Kordesch begins his first year at the University of Vienna.</event>
+					</eventgrp>
+				</chronitem>
+				<chronitem>
+					<date>1941</date>
+					<eventgrp>
+						<event>Kordesch is conscripted into the German Armed Forces, interrupting his studies at the University of Vienna.</event>
+					</eventgrp>
+				</chronitem>
+				<chronitem>
+					<date>1944</date>
+					<eventgrp>
+						<event>Kordesch is wounded while serving in Russia.</event>
+					</eventgrp>
+				</chronitem>
+				<chronitem>
+					<date>1945</date>
+					<eventgrp>
+						<event>Kordesch is released from military service at the end of World War II, having attained the rank of Lieutenant Battery Leader.</event>
+					</eventgrp>
+				</chronitem>
+				<chronitem>
+					<date>1946</date>
+					<eventgrp>
+						<event>Kordesch and Erna Bӧhm are married on <date normal="1946-06-22">June 22, 1946</date>.</event>
+						<event>Kordesch returns to the University of Vienna to complete his studies.</event>
+					</eventgrp>
+				</chronitem>
+				<chronitem>
+					<date>1947</date>
+					<eventgrp>
+						<event>Johanna Kordesch, Karl and Erna's first child, is born on <date normal="1947-02-24">February 24, 1947</date> in Vienna, Austria.</event>
+					</eventgrp>
+				</chronitem>
+				<chronitem>
+					<date>1948</date>
+					<eventgrp>
+						<event>Kordesch receives his doctorate in chemistry from the University of Vienna.</event>
+						<event>Kordesch works as a University Assistant at the University of Vienna until 1953.</event>
+					</eventgrp>
+				</chronitem>
+				<chronitem>
+					<date>1949</date>
+					<eventgrp>
+						<event>The second Kordesch child, Albert, is born on <date normal="1949-08-15">August 15, 1949</date> in Vienna, Austria.</event>
+						<event>Kordesch accepts a part-time consulting position for Wiener Isolierrohr, Batterie, und Metallwarenfabrik, a battery manufacturer located in Vienna while continuing to work at the University of Vienna.</event>
+					</eventgrp>
+				</chronitem>
+				<chronitem>
+					<date>1953</date>
+					<eventgrp>
+						<event>As a part of Operation Paperclip, Karl Kordesch is invited to join the U.S. Signal Corps.</event>
+						<event>Kordesch and his family move to the United States and Karl begins work as scientific staff member of the U.S. Signal Corps at Fort Monmouth, New Jersey.</event>
+					</eventgrp>
+				</chronitem>
+				<chronitem>
+					<date>1954</date>
+					<eventgrp>
+						<event>Catherine Kordesch, the third Kordesch child, is born on <date normal="1954-01-24">January 24, 1954</date>.</event>
+					</eventgrp>
+				</chronitem>
+				<chronitem>
+					<date>1955</date>
+					<eventgrp>
+						<event>Kordesch accepts a position as Battery Group Leader at the Union Carbide Corporation Research Laboratory in Parma, Ohio.</event>
+					</eventgrp>
+				</chronitem>
+				<chronitem>
+					<date>1956</date>
+					<eventgrp>
+						<event>The fourth Kordesch child, Martin, is born on <date normal="1956-07-22">July 22, 1956</date>.</event>
+					</eventgrp>
+				</chronitem>
+				<chronitem>
+					<date>1957</date>
+					<eventgrp>
+						<event>Kordesch and two colleagues file for a patent of the alkaline dry cell battery which would ultimately become the Energizer D-cell.</event>
+					</eventgrp>
+				</chronitem>
+				<chronitem>
+					<date>1962</date>
+					<eventgrp>
+						<event>Kordesch is appointed group leader of the Fuel Cell Section of the Corporate Development Department at Union Carbide.</event>
+					</eventgrp>
+				</chronitem>
+				<chronitem>
+					<date>1967</date>
+					<eventgrp>
+						<event>Kordesch receives the Wilhelm Exner Medal from the Austrian Association of Small and Middle-Sized Enterprises.</event>
+						<event>Kordesch constructs a hybrid electric motorcycle using a hydrazine fuel cell.</event>
+					</eventgrp>
+				</chronitem>
+				<chronitem>
+					<date>1969</date>
+					<eventgrp>
+						<event>Kordesch returns to the Consumer Products Division of Union Carbide as a Senior Research Associate.</event>
+					</eventgrp>
+				</chronitem>
+				<chronitem>
+					<date>1970</date>
+					<eventgrp>
+						<event>Kordesch retrofits an Austin A40 sedan to run on a hydrogen fuel cell, making it the first practical hydrogen-fueled car ever produced.  This vehicle served as his primary means of transportation for the following three years.</event>
+					</eventgrp>
+				</chronitem>
+				<chronitem>
+					<date>1973</date>
+					<eventgrp>
+						<event>Kordesch is appointed Union Carbide Research Fellow.</event>
+					</eventgrp>
+				</chronitem>
+				<chronitem>
+					<date>1977</date>
+					<eventgrp>
+						<event>Kordesch takes a position as full professor at the Graz University of Technology and director of the Institute for Inorganic Chemistry.</event>
+					</eventgrp>
+				</chronitem>
+				<chronitem>
+					<date>1981</date>
+					<eventgrp>
+						<event>Kordesch begins a five-year term as Secretary General of the International Society for Electrochemistry.</event>
+					</eventgrp>
+				</chronitem>
+				<chronitem>
+					<date>1985</date>
+					<eventgrp>
+						<event>Kordesch is appointed Dean of the Science and Technology Faculty at the Graz University of Technology, a position in which he serves until 1987.</event>
+					</eventgrp>
+				</chronitem>
+				<chronitem>
+					<date>1986</date>
+					<eventgrp>
+						<event>Kordesch is awarded the Vittoria de Nora Gold Medal for outstanding achievement by the U.S. Electrochemical Society.</event>
+						<event>Battery Technologies, Inc. is founded by Karl Kordesch and Wayne Hartford.</event>
+					</eventgrp>
+				</chronitem>
+				<chronitem>
+					<date>1988</date>
+					<eventgrp>
+						<event>Kordesch  Associates Inc. is founded by Karl as an electrochemistry consulting firm.</event>
+					</eventgrp>
+				</chronitem>
+				<chronitem>
+					<date>1990</date>
+					<eventgrp>
+						<event>Kordesch receives the Erwin Schrödinger Prize from the Austrian Academy of Sciences.</event>
+					</eventgrp>
+				</chronitem>
+				<chronitem>
+					<date>1991</date>
+					<eventgrp>
+						<event>Kordesch receives the Frank M. Booth Prize of the Royal Society of Great Britain.</event>
+					</eventgrp>
+				</chronitem>
+				<chronitem>
+					<date>1992</date>
+					<eventgrp>
+						<event>Kordesch retires from the Graz University of Technology and the Institute of Inorganic Chemistry.</event>
+						<event>Kordesch is awarded the Auer V. Welsbach Medal.</event>
+					</eventgrp>
+				</chronitem>
+				<chronitem>
+					<date>1996</date>
+					<eventgrp>
+						<event>Kordesch and Günter Simader publish <title render="italic">Fuel Cells and Their Applications</title>.</event>
+					</eventgrp>
+				</chronitem>
+				<chronitem>
+					<date>1997</date>
+					<eventgrp>
+						<event>Kordesch becomes vice-president of Apollo Energy Systems where he was responsible for overseeing further development of the company's line of fuel cells.</event>
+					</eventgrp>
+				</chronitem>
+				<chronitem>
+					<date>2009</date>
+					<eventgrp>
+						<event>Kordesch is recognized by the American Chemical Society for fifty years of service.</event>
+					</eventgrp>
+				</chronitem>
+				<chronitem>
+					<date>2011</date>
+					<eventgrp>
+						<event>Kordesch dies on January 12, 2011 in Eugene, Oregon.</event>
+					</eventgrp>
+				</chronitem>
+			</chronlist>
+		</bioghist>
+
+		<scopecontent encodinganalog="520" id="a3">
+			<head>Content Description</head>
+			<p>The Karl and Erna Kordesch Papers are comprised of approximately ten linear feet of content documenting Karl's professional career from the late 1940s until his death in 2011 and an additional four linear feet of assorted personal records from both Karl and Erna.  The collection contains an extensive record of Karl Kordesch's career including patent records, research notes, documentation of various business ventures, and correspondence, as well as materials regarding Karl's participation in the United States' post-World War II Operation Paperclip.  The Karl and Erna Kordesch Papers also include an extensive collection of photographs documenting life in World War II-era Austria and the mid-20th century American Midwest.  In addition to its physical holdings, the collection also contains more than 10 gigabytes of electronic documents including correspondence, publications, and digital photographs relating to Karl Kordesch's research.</p>
+		</scopecontent>
+
+		<arrangement encodinganalog="351" id="a4">
+			<head>Arrangement</head>
+			<p>The Karl and Erna Kordesch Papers are arranged by medium, subject, and chronology.</p>
+		</arrangement>
+
+		<accessrestrict encodinganalog="506" id="a14">
+			<head>Restrictions on Access</head>
+			<p>Permission to examine the Karl and Erna Kordesch Papers will be granted to qualified researchers upon completion of an "Application for Use" form, and contingent upon the researcher's agreement to abide by the rules and policies governing collection use.  See the <extref href="http://osulibrary.oregonstate.edu/specialcollections/use-of-collections.html">Use of Collections</extref> page for more information.</p>
+		</accessrestrict>
+
+		<!--
+		<userestrict encodinganalog="540" id="a15">
+			<head>Restrictions on Use</head>
+			<p>[Summarize use restrictions, if any apply (DACS 4.4)]</p>
+		</userestrict>
+		-->
+
+		<prefercite encodinganalog="524" id="a18">
+			<head>Preferred Citation</head>
+			<p>Courtesy of the Karl and Erna Kordesch Papers, Special Collections  Archives Research Center, Oregon State University Libraries</p>
+		</prefercite>
+
+		<custodhist encodinganalog="561" id="a16">
+			<head>Custodial History</head>
+			<p>Ownership of all materials in the Karl and Erna Kordesch Papers were transferred to Erna Kordesch upon Karl Kordesch's death.  Erna Kordesch donated all materials to OSU Libraries Special Collection on <date type="acquisitioin" normal="2001-04-22">April 22, 2011</date>. Additional materials created by Catherine Kordesch were donated by on <date type="acquisition" normal="2011-12-28">December 28, 2011</date>.</p>
+		</custodhist>
+
+		<acqinfo encodinganalog="541" id="a19">
+			<head>Acquisition Information</head>
+			<p>14 linear feet and 7.5 gigabytes of materials were accessioned from Erna Kordesch by OSU Libraries Special Collections on <date type="acquisition" normal="2011-04-22">April 22, 2011</date>.</p>
+			<p>3.5 gigabytes of electronic records were accessioned from Catherine Kordesch by OSU Libraries Special Collections on <date type="acquisition" normal="2011-12-28">December 28, 2011</date>.</p>
+		</acqinfo>
+
+		<accruals encodinganalog="584" id="a10">
+			<head>Future Additions</head>
+			<p>No future additions are anticipated.</p>
+		</accruals>
+
+		<processinfo encodinganalog="583" id="a20">
+			<head>Processing Note</head>
+			<p>Final arrangement by Trevor Sandgathe.</p>
+		</processinfo>
+
+		<bibliography encodinganalog="581" id="a11">
+			<head>Selected Publications by Karl Kordesch</head>
+			<bibref>
+				<persname role="author">Kordesch, Karl</persname>.
+				<title render="italic">Batteries, Vol. 1: Manganese Dioxide</title>.
+				<imprint>New York: Marcel Dekker, <date type="publication">1974</date></imprint>.
+			</bibref>
+			<bibref>
+				<persname role="author">Kordesch, Karl</persname>.
+				<title render="italic">Batteries, Vol. 2: Lead-Acid Batteries and Electric Vehicles</title>.
+				<imprint>New York: Marcel Dekker, <date type="publication">1977</date></imprint>.
+			</bibref>
+			<bibref>
+				<persname role="author">Kordesch, Karl</persname>.
+				<title render="italic">Brennstoffbatterien</title>.
+				<imprint>Vienna; New York: Springer, <date type="publication">1984</date></imprint>.
+			</bibref>
+			<bibref>
+				<persname role="author">Kordesch, Karl</persname> and <persname role="author">Simader, Günter</persname>.
+				<title render="italic">Einsatz der Brennstoffzellen-Technologie für die Dezentrale Energienutzung Zweite Endbreicht einer Studie der EVA und TU Graz im Auftrag der Steirischen Elektrizität- und Wasserkraft-AG (STEWAG)</title>.
+				<imprint>Vienna: EVA, <date type="publication">1998</date></imprint>.
+			</bibref>
+			<bibref>
+				<persname role="author">Kordesch, Karl</persname> and <persname role="author">Simader, Günter</persname>.
+				<title render="italic">Fuel Cells and their Applications</title>.
+				<imprint>Weinheim; New York: VCH, <date type="publication">1996</date></imprint>.
+			</bibref>
+			<bibref>
+				<persname role="author">Kordesch, Karl</persname> and <persname role="author">Kornfeil, Friedrich</persname>.
+				<title render="italic">Method and Device for Testing Nickel-Cadmium Batteries</title>.
+				<imprint>Ft. Belvoir, VA: Ft. Belvoir Defense Technical Information Center, <date type="publication">1954</date></imprint>.
+			</bibref>
+			<bibref>
+				<persname role="author">Kordesch, Karl</persname>.
+				<title render="italic">Versuch zur Aufarbeitung von Gelatine-Hydrolysaten nach den Methoden der Hochvakuumdestillation, Cu-Salz Trennung und Chromatographie.</title>.
+				<imprint>Vienna: University of Vienna, <date type="publication">1948</date></imprint>.
+			</bibref>
+		</bibliography>
+
+		<otherfindaid encodinganalog="555" id="a8">
+			<head>Additional Reference Guides</head>
+			<p><!--[Identify other finding aids to the materials being described (DACS 4.6)]--></p>
+		</otherfindaid>
+
+		<relatedmaterial encodinganalog="544 1" id="a6">
+			<head>Related Materials</head>
+			<p><!--[Indicate the existence and location of archival materials that are closely related to the materials being described (DACS 6.3)]--></p>
+		</relatedmaterial>
+
+		<separatedmaterial encodinganalog="544 0" id="a7">
+			<head>Separated Materials</head>
+			<p><!--[Describe materials related by provenance but physically separated from the collection (DACS 6.3)]--></p>
+		</separatedmaterial>
+
+
+
+
+		<controlaccess id="a12">
+			<head>Subjects</head>
+			<p>The following Library of Congress Authorities headings suggest topics, individuals or organizations interspersed through the collection.</p>
+			<controlaccess>
+				<head>Personal Names</head>
+				<persname encodinganalog="600" role="subject" rules="dacs">Kordesch, Erna.</persname>
+				<persname encodinganalog="700" role="creator" rules="dacs">Hacker, Viktor.</persname>		
+				<persname encodinganalog="700" role="creator" rules="dacs">Kordesch, Erna.</persname>
+				<persname encodinganalog="700" source="lcnaf" role="creator">Simader, Günter.</persname>
+			</controlaccess>
+	 		<controlaccess>
+				<head>Organizational Names</head>
+	 			
+	 				 			<corpname encodinganalog="610" role="subject" rules="aacr2">Battery Technologies, Inc.</corpname>
+	 			
+	 				 			<corpname encodinganalog="610" role="subject" rules="aacr2">Operation Paperclip (U.S.)</corpname>
+	 			<corpname encodinganalog="610" source="lcnaf" role="subject">Technische Universität Graz.</corpname>
+	 			<corpname encodinganalog="610" source="lcnaf" role="subject">Union Carbide Corporation.</corpname>
+	 			<corpname encodinganalog="610" source="lcnaf" role="subject">United States. Army. Signal Corps.</corpname>
+	 			
+	 		</controlaccess>
+						
+			<controlaccess>
+				<head>Subject Terms</head>
+				
+				<subject encodinganalog="650" source="lcsh">Battery industry--United States.</subject>
+		
+				<subject encodinganalog="650" source="lcsh">Electric automobiles.</subject>
+				<subject encodinganalog="650" source="lcsh">Fuel cells.</subject>
+				<subject encodinganalog="650" source="lcsh">Hybrid electric vehicles.</subject>
+				<subject encodinganalog="650" source="lcsh">Scientists--United States--Recruiting.</subject>
+				<subject encodinganalog="650" source="lcsh">Storage batteries.</subject>
+							</controlaccess>
+			<controlaccess>
+				<genreform encodinganalog="655" source="aat">Compact discs.</genreform> 
+				<genreform encodinganalog="655" source="gmgpc">Film negatives.</genreform>
+				
+			<genreform encodinganalog="655" source="gmgpc">Photograph albums.</genreform>
+				<genreform encodinganalog="655" source="aat">Floppy disks.</genreform> 
+				<genreform encodinganalog="655" source="gmgpc">Photographic prints.</genreform>
+				<genreform encodinganalog="655" source="gmgpc">Slides.</genreform>
+			</controlaccess>	
+			<controlaccess> 
+				<subject source="nwda" altrender="nodisplay" encodinganalog="690">Science</subject>
+				<subject source="nwda" altrender="nodisplay" encodinganalog="690">Technology</subject> 
+				<subject source="nwda" altrender="nodisplay" encodinganalog="690">Transportation</subject> 
+				<subject source="nwda" altrender="nodisplay" encodinganalog="690">Women</subject> 
+				<subject source="nwda" altrender="nodisplay" encodinganalog="690">Electronic Records</subject> 
+				<subject source="nwda" altrender="nodisplay" encodinganalog="690">Photographs</subject> 
+				
+			</controlaccess> 
+			<!--<controlaccess>
+				<head>Document Types</head>
+				<subject encodinganalog="655" source="aat"></subject>
+			</controlaccess>-->
+			
+		</controlaccess>
+
+
+
+
+		<dsc type="combined" id="a23">
+			<p>The following section contains a detailed listing of the materials in the collection.</p>
+			
+			<c01 level="series">
+				<did>
+					<unitid encodinganalog="099">1</unitid>
+					<unittitle encodinganalog="245$a">Scientific Research Materials</unittitle>
+					<unitdate normal="1950/2011">1950-2011</unitdate>
+					<unitdate>undated</unitdate>
+					<physdesc><extent encodinganalog="300$a" unit="boxes">24 boxes</extent></physdesc>
+				</did>	
+			<scopecontent encodinganalog="520">
+				<p>Contains research notes, reports, publications, correspondence, visual aids, and patent information pertaining to battery, fuel cell, and electric/hybrid vehicle research.  Includes materials created by Karl Kordesch and others involved in the development of non-petroleum based energy sources.</p>
+			</scopecontent>
+				<c02 level="subseries">
+					<did>
+						<unitid>1</unitid>
+						<unittitle encodinganalog="245$a">Battery Research</unittitle>
+						<unitdate normal="1950/2010">1950-2010</unitdate>
+						<unitdate>undated</unitdate>
+						<physdesc><extent encodinganalog="300$a">6 boxes</extent></physdesc>
+					</did>
+					<c03 level="file">
+						<did>
+							<container type="box">1.001</container>
+							<unittitle>Kordesch Research Notes, Reports, and Publications</unittitle>
+							<unitdate>1950-1996</unitdate>
+						</did>
+						<c04 level="item">
+							<did>
+								<container type="folder">1.1</container>
+								<unittitle>Kordesch research notes, reports, and publications</unittitle>
+								<unitdate>1950-1991</unitdate>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container type="folder">1.2</container>
+								<unittitle>Kordesch research notes, reports, and publications</unittitle>
+								<unitdate>1992-1996</unitdate>
+							</did>
+						</c04>
+					</c03>	
+					<c03 level="file">
+						<did>
+							<container type="box">1.002</container>
+							<unittitle>Kordesch Research Notes, Reports, and Publications</unittitle>
+							<unitdate>1997-2010</unitdate>
+							<unitdate>undated</unitdate>
+						</did>
+						<c04 level="item">
+							<did>
+								<container type="folder">2.1</container>
+								<unittitle>Kordesch research notes, reports, and publications</unittitle>
+								<unitdate>1997-2010</unitdate>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container type="folder">2.2</container>
+								<unittitle>Kordesch research notes, reports, and publications</unittitle>
+								<unitdate>undated</unitdate>
+							</did>
+						</c04>	
+					</c03>
+					<c03 level="file">
+						<did>
+							<container type="box">1.003</container>
+							<unittitle>Non-Kordesch Research Notes, Reports, and Publications</unittitle>
+							<unitdate>1956-2005</unitdate>
+						</did>
+						<c04 level="item">
+							<did>
+								<container type="folder">3.1</container>
+								<unittitle>Non-Kordesch research notes, reports, and publications</unittitle>
+								<unitdate>1956-1993</unitdate>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container type="folder">3.2</container>
+								<unittitle>Non-Kordesch research notes, reports, and publications</unittitle>
+								<unitdate>1994-1995</unitdate>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container type="folder">3.3</container>
+								<unittitle>Non-Kordesch research notes, reports, and publications</unittitle>
+								<unitdate>1996-1997</unitdate>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container type="folder">3.4</container>
+								<unittitle>Non-Kordesch research notes, reports, and publications</unittitle>
+								<unitdate>1998-2005</unitdate>
+							</did>
+						</c04>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container type="box">1.004</container>
+							<unittitle>Non-Kordesch Research Notes, Reports, and Publications</unittitle>
+							<unitdate>undated</unitdate>
+						</did>
+						<c04 level="item">
+							<did>
+								<container type="folder">4.1</container>
+								<unittitle>Non-Kordesch research notes, reports, and publications</unittitle>
+								<unitdate>undated</unitdate>
+							</did>
+						</c04>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container type="box">1.005</container>
+							<unittitle>Assorted Informational and Promotional Materials</unittitle>
+							<!--<unitdate>undated</unitdate>-->
+						</did>
+						<c04 level="item">
+							<did>
+								<container type="folder">5.1</container>
+								<unittitle>Assorted informational and promotional materials</unittitle>
+								<unitdate>undated</unitdate>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container type="folder">5.2</container>
+								<unittitle>Battery Technologies, Inc. informational and promotional materials</unittitle>
+								<unitdate>undated</unitdate>
+							</did>
+						</c04>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container type="box">1.006</container>
+							<unittitle>Assorted Scientific Journals</unittitle>
+							<unitdate>2000-2010</unitdate>
+						</did>
+					</c03>
+				</c02>		
+				<c02 level="subseries">
+					<did>
+						<unitid>2</unitid>
+						<unittitle encodinganalog="245$a">Fuel Cell Research</unittitle>
+						<unitdate normal="1959/2007">1959-2007</unitdate>
+						<unitdate>undated</unitdate>
+						<physdesc><extent encodinganalog="300$a">7 boxes</extent></physdesc>
+					</did>
+					<c03 level="file">
+						<did>
+							<container type="box">1.007</container>
+							<unittitle>Kordesch Research Notes, Reports, and Publications</unittitle>
+							<unitdate>1959-2007</unitdate>
+						</did>
+						<c04 level="item">
+							<did>
+								<container type="folder">7.1</container>
+								<unittitle>Kordesch research notes, reports, and publications</unittitle>
+								<unitdate>1959-1969</unitdate>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container type="folder">7.2</container>
+								<unittitle>Kordesch research notes, reports, and publications</unittitle>
+								<unitdate>1970-1989</unitdate>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container type="folder">7.3</container>
+								<unittitle>Kordesch research notes, reports, and publications</unittitle>
+								<unitdate>1993-2000</unitdate>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container type="folder">7.4</container>
+								<unittitle>Kordesch research notes, reports, and publications</unittitle>
+								<unitdate>2001-2007</unitdate>
+							</did>
+						</c04>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container type="box">1.008</container>
+							<unittitle>Kordesch Research Notes, Reports, and Publications</unittitle>
+							<unitdate>undated</unitdate>
+						</did>
+						<c04 level="item">
+							<did>
+								<container type="folder">8.1</container>
+								<unittitle>Kordesch research notes, reports, and publications</unittitle>
+								<unitdate>undated</unitdate>
+							</did>
+						</c04>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container type="box">1.009</container>
+							<unittitle>Kordesch Reports to Union Carbide</unittitle>
+							<unitdate>1960-1969</unitdate>
+						</did>
+						<c04 level="item">
+							<did>
+								<container type="folder">9.1</container>
+								<unittitle>Quarterly progress reports</unittitle>
+								<unitdate>1960-1962</unitdate>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container type="folder">9.2</container>
+								<unittitle>Monthly reports</unittitle>
+								<unitdate>1963-1969</unitdate>
+							</did>
+						</c04>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container type="box">1.010</container>
+							<unittitle>Non-Kordesch Research Notes, Reports, and Publications</unittitle>
+							<unitdate>1958-2002</unitdate>
+						</did>
+						<c04 level="item">
+							<did>
+								<container type="folder">10.1</container>
+								<unittitle>Non-Kordesch research notes, reports, and publications</unittitle>
+								<unitdate>1958-1970</unitdate>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container type="folder">10.2</container>
+								<unittitle>Non-Kordesch research notes, reports, and publications</unittitle>
+								<unitdate>1993-1999</unitdate>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container type="folder">10.3</container>
+								<unittitle>Non-Kordesch research notes, reports, and publications</unittitle>
+								<unitdate>2000-2002</unitdate>
+							</did>
+						</c04>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container type="box">1.011</container>
+							<unittitle>Non-Kordesch Research Notes, Reports, and Publications</unittitle>
+							<unitdate>1967-2007</unitdate>
+							<unitdate>undated</unitdate>
+						</did>
+						<c04 level="item">
+							<did>
+								<container type="folder">11.1</container>
+								<unittitle>Non-Kordesch research notes, reports, and publications</unittitle>
+								<unitdate>2003-2007</unitdate>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container type="folder">11.2</container>
+								<unittitle>Non-Kordesch research notes, reports, and publications</unittitle>
+								<unitdate>undated</unitdate>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container type="folder">11.3</container>
+								<unittitle>Reports from G. R. Drengler</unittitle>
+								<unitdate>1967-1969</unitdate>
+							</did>
+						</c04>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container type="box">1.012</container>
+							<unittitle>Assorted Informational and Promotional Materials</unittitle>
+							<!--<unitdate>undated</unitdate>-->
+						</did>
+						<c04 level="item">
+							<did>
+								<container type="folder">12.1</container>
+								<unittitle>Assorted informational and promotional materials</unittitle>
+								<unitdate>undated</unitdate>
+							</did>
+						</c04>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container type="box">1.013</container>
+							<unittitle>Assorted Scientific Journals</unittitle>
+							<unitdate>1963-2006</unitdate>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unitid>3</unitid>
+						<unittitle encodinganalog="245$a">Electric/Hybrid Vehicle Research</unittitle>
+						<unitdate normal="1964/2010">1964-2010</unitdate>
+						<unitdate>undated</unitdate>
+						<physdesc><extent encodinganalog="300$a">5 boxes</extent></physdesc>
+					</did>
+					<c03 level="file">
+						<did>
+							<container type="box">1.014</container>
+							<unittitle>Kordesch Research Notes, Reports, and Publications</unittitle>
+							<unitdate>1970-2007</unitdate>
+							<unitdate>undated</unitdate>
+						</did>
+						<c04 level="item">
+							<did>
+								<container type="folder">14.1</container>
+								<unittitle>Kordesch research notes, reports, and publications</unittitle>
+								<unitdate>1970-2007</unitdate>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container type="folder">14.2</container>
+								<unittitle>Kordesch research notes, reports, and publications</unittitle>
+								<unitdate>undated</unitdate>
+							</did>
+						</c04>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container type="box">1.015</container>
+							<unittitle>Non-Kordesch Research Notes, Reports, and Publications</unittitle>
+							<unitdate>1964-2007</unitdate>
+							<unitdate>undated</unitdate>
+						</did>
+						<c04 level="item">
+							<did>
+								<container type="folder">15.1</container>
+								<unittitle>Non-Kordesch research notes, reports, and publications</unittitle>
+								<unitdate>1964-1983</unitdate>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container type="folder">15.2</container>
+								<unittitle>Non-Kordesch research notes, reports, and publications</unittitle>
+								<unitdate>2000-2007</unitdate>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container type="folder">15.3</container>
+								<unittitle>Non-Kordesch research notes, reports, and publications</unittitle>
+								<unitdate>undated</unitdate>
+							</did>
+						</c04>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container type="box">1.016</container>
+							<unittitle>Electric Auto Corporation/Apollo Energy Systems Internal Documents</unittitle>
+							<unitdate>2000-2005</unitdate>
+						</did>
+						<c04 level="item">
+							<did>
+								<container type="folder">16.1</container>
+								<unittitle>Electric Auto Corporation/Apollo Energy Systems internal documents</unittitle>
+								<unitdate>2000-2005</unitdate>
+							</did>
+						</c04>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container type="box">1.017</container>
+							<unittitle>Assorted Informational and Promotional Materials</unittitle>
+							<!--<unitdate>undated</unitdate>-->
+						</did>
+						<c04 level="item">
+							<did>
+								<container type="folder">17.1</container>
+								<unittitle>Assorted informational and promotional materials</unittitle>
+								<unitdate>undated</unitdate>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container type="folder">17.2</container>
+								<unittitle>Materials re: The Electric Vehicle Association of Ohio</unittitle>
+								<unitdate>undated</unitdate>
+							</did>
+						</c04>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container type="box">1.018</container>
+							<unittitle>Assorted Scientific Journals</unittitle>
+							<unitdate>1992-2010</unitdate>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unitid>4</unitid>
+						<unittitle encodinganalog="245$a">Correspondence</unittitle>
+						<unitdate normal="1967/2011">1967-2011</unitdate>
+						<unitdate>undated</unitdate>
+						<physdesc><extent encodinganalog="300$a">1 box</extent></physdesc>
+					</did>
+					<c03 level="file">
+						<did>
+							<container type="box">1.019</container>
+							<unittitle>Correspondence</unittitle>
+							<unitdate>1967-2011</unitdate>
+							<unitdate>undated</unitdate>
+						</did>
+						<c04 level="item">
+							<did>
+								<container type="folder">19.1</container>
+								<unittitle>Correspondence re: Battery research</unittitle>
+								<unitdate>1987-2010</unitdate>
+								<unitdate>undated</unitdate>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container type="folder">19.2</container>
+								<unittitle>Correspondence re: Fuel cell research</unittitle>
+								<unitdate>1967-2010</unitdate>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container type="folder">19.3</container>
+								<unittitle>Correspondence re: Electric/hybrid vehicle research</unittitle>
+								<unitdate>1967-2007</unitdate>
+								<unitdate>undated</unitdate>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container type="folder">19.4</container>
+								<unittitle>Assorted correspondence</unittitle>
+								<unitdate>2001-2011</unitdate>
+							</did>
+						</c04>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unitid>5</unitid>
+						<unittitle encodinganalog="245$a">Diagrams, Overhead Slides, and Photographs</unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc><extent encodinganalog="300$a">1 box</extent></physdesc>
+					</did>
+					<c03 level="file">
+						<did>
+							<container type="box">1.020</container>
+							<unittitle>Assorted Diagrams, Overhead Transparencies, and Photographs</unittitle>
+							<!--<unitdate>undated</unitdate>-->
+						</did>
+						<c04 level="item">
+							<did>
+								<container type="folder">20.1</container>
+								<unittitle>Assorted visual aids (paper)</unittitle>
+								<unitdate>undated</unitdate>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container type="folder">20.2</container>
+								<unittitle>Assorted visual aids (transparencies)</unittitle>
+								<unitdate>undated</unitdate>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container type="folder">20.3</container>
+								<unittitle>Assorted visual aids (photographs)</unittitle>
+								<unitdate>undated</unitdate>
+							</did>
+						</c04>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unitid>6</unitid>
+						<unittitle encodinganalog="245$a">Patents and Documentation of Invention</unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc><extent encodinganalog="300$a">1 box</extent></physdesc>
+					</did>
+					<c03 level="file">
+						<did>
+							<container type="box">1.021</container>
+							<unittitle>Patents and Documentation of Invention</unittitle>
+							<!--<unitdate>undated</unitdate>-->
+						</did>
+						<c04 level="item">
+							<did>
+								<container type="folder">21.1</container>
+								<unittitle>Batteries</unittitle>
+								<unitdate>undated</unitdate>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container type="folder">21.2</container>
+								<unittitle>Fuel cells</unittitle>
+								<unitdate>undated</unitdate>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container type="folder">21.3</container>
+								<unittitle>Assorted inventions</unittitle>
+								<unitdate>undated</unitdate>
+							</did>
+						</c04>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unitid>7</unitid>
+						<unittitle encodinganalog="245$a">Dissertations</unittitle>
+						<unitdate normal="1983/2001">1983-2001</unitdate>
+						<physdesc><extent encodinganalog="300$a">1 box</extent></physdesc>
+					</did>
+					<c03 level="file">
+						<did>
+							<container type="box">1.022</container>
+							<unittitle>Dissertations: Cifrain, Donne, Ghaemi, Hacker</unittitle>
+							<unitdate>1995-2001</unitdate>
+						</did>
+						<c04 level="item">
+							<did>
+								<container type="folder">22.1</container>
+								<unittitle>Cifrain, Martin. <title render="italic">Thin Carbon-based Electrodes for Alkaline Fuel Cells with Liquid Electrolyte</title>. [Bound]</unittitle>
+								<unitdate>2001</unitdate>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container type="folder">22.2</container>
+								<unittitle>Donne, S.W. <title render="italic">High Performance Chemically and Physically Modified Manganese Dioxide</title>. [Bound]</unittitle>
+								<unitdate>1996</unitdate>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container type="folder">22.3</container>
+								<unittitle>Ghaemi, Mehdi. <title render="italic">Herstellung elektroaktiver Schichten für die Anwendung in wiederaufladbaren bipoilaren Bruanstein-Zink-Batterien</title>. [1 bound, 1 unbound]</unittitle>
+								<unitdate>1995</unitdate>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container type="folder">22.4</container>
+								<unittitle>Hacker, Viktor. <title render="italic">Technologische Übergangsstrategien zur Regenerativen Energiewirtschaft: Der Einsatz von Biomasse in Kombination mit der Brennstoffzelle</title>. [Unbound]</unittitle>
+								<unitdate>1998</unitdate>
+							</did>
+						</c04>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container type="box">1.023</container>
+							<unittitle>Dissertations: Haynes, Koscher, Weingartner</unittitle>
+							<unitdate>1983, 1988</unitdate>
+							<unitdate>undated</unitdate>
+						</did>
+						<c04 level="item">
+							<did>
+								<container type="folder">23.1</container>
+								<unittitle>Haynes, A. “Summary of Dissertation Work.” [Bound]</unittitle>
+								<unitdate>1988</unitdate>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container type="folder">23.2</container>
+								<unittitle>Koscher, Gerold. <title render="italic">Carbon-based Electrodes for Alkaline Fuel Cell Systems with Various Fuels</title>. [2 partial copies, 1 bound and 1 unbound]</unittitle>
+								<unitdate>undated</unitdate>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container type="folder">23.3</container>
+								<unittitle>Weingartner, August. <title render="italic">Berechnungen zur Holzvergasung in der Wirbelschicht</title>. [Unbound]</unittitle>
+								<unitdate>1983</unitdate>
+							</did>
+						</c04>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container type="box">1.024</container>
+							<unittitle>Dissertations: Weißenbacher</unittitle>
+							<unitdate>1996</unitdate>
+							<unitdate>undated</unitdate>
+						</did>
+						<c04 level="item">
+							<did>
+								<container type="folder">24.1</container>
+								<unittitle>Weißenbacher, Manfred. <title render="italic">Das wiederaufladbare alkalische Zink/Braunstein-System: Neue Wege zur Berbessergun des Zyklenlebens</title>. [2 bound copies]</unittitle>
+								<unitdate>1996</unitdate>
+							</did>
+						</c04>
+					</c03>
+				</c02>
+			</c01>
+
+			<c01 level="series">
+			<did>
+				<unitid encodinganalog="099">2</unitid>
+				<unittitle encodinganalog="245$a">"Box Zero"</unittitle>
+				<!--<unitdate>undated</unitdate>-->
+				<physdesc><extent encodinganalog="300$a" unit="boxes">1 box</extent></physdesc>
+			</did>	
+			<scopecontent encodinganalog="520">
+				<p>Materials specially collected and housed by Karl Kordesch.  Karl designated this group of materials as "Box Zero", indicating that they were of particular scientific and biographical value.  Series includes assorted notes, reports, publications, patent information, and correspondence.</p>
+			</scopecontent>
+					<c02 level="file">
+						<did>
+							<container type="box">2.001</container>
+							<unittitle>Contents of "Box Zero"</unittitle>
+							<unitdate>undated</unitdate>
+						</did>
+						<c03 level="item">
+							<did>
+								<container type="folder">1.1</container>
+								<unittitle>Kordesch research notes, reports, and publications</unittitle>
+								<unitdate>undated</unitdate>
+							</did>
+						</c03>
+						<c03 level="item">
+							<did>
+								<container type="folder">1.2</container>
+								<unittitle>Non-Kordesch research notes, reports, and publications</unittitle>
+								<unitdate>undated</unitdate>
+							</did>
+						</c03>
+						<c03 level="item">
+							<did>
+								<container type="folder">1.3</container>
+								<unittitle>Assorted patents and related documents</unittitle>
+								<unitdate>undated</unitdate>
+							</did>
+						</c03>
+						<c03 level="item">
+							<did>
+								<container type="folder">1.4</container>
+								<unittitle>Assorted documents re: WIF</unittitle>
+								<unitdate>undated</unitdate>
+							</did>
+							<scopecontent encodinganalog="520">
+								<p>Documents regarding a World War II-era German flashlight manufacturer.</p>
+							</scopecontent>
+						</c03>
+						<c03 level="item">
+							<did>
+								<container type="folder">1.5</container>
+								<unittitle>Assorted correspondence</unittitle>
+								<unitdate>undated</unitdate>
+							</did>
+						</c03>
+					</c02>				
+			</c01>
+
+			<c01 level="series">
+				<did>
+					<unitid encodinganalog="099">3</unitid>
+					<unittitle encodinganalog="245$a">Biographical Materials and Photographs</unittitle>
+					<unitdate>1906-2010</unitdate>
+					<unitdate>undated</unitdate>
+					<physdesc><extent encodinganalog="300$a" unit="boxes">10 boxes</extent></physdesc>
+				</did>
+				<scopecontent encodinganalog="520">
+					<p>Biographical materials relating to members of the Bӧhm, Colnago, Kordesch and Marko families including personal documents and photographs.</p>
+				</scopecontent>
+				<c02 level="subseries">
+					<did>
+						<unitid>1</unitid>
+						<unittitle encodinganalog="245$a">Karl Kordesch</unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc><extent encodinganalog="300$a">3 boxes</extent></physdesc>
+					</did>
+					<c03 level="file">
+						<did>
+							<container type="box">3.001</container>
+							<unittitle>Biographical Materials re: Karl Kordesch</unittitle>
+							<!--<unitdate>undated</unitdate>-->
+						</did>					
+						<c04 level="item">
+							<did>
+								<container type="folder">1.1</container>
+								<unittitle>Identification and citizenship</unittitle>
+								<unitdate>undated</unitdate>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container type="folder">1.2</container>
+								<unittitle>Military service and Operation Paperclip</unittitle>
+								<unitdate>undated</unitdate>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container type="folder">1.3</container>
+								<unittitle>Educational records</unittitle>
+								<unitdate>undated</unitdate>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container type="folder">1.4</container>
+								<unittitle>Financial records</unittitle>
+								<unitdate>undated</unitdate>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container type="folder">1.5</container>
+								<unittitle>Legal records</unittitle>
+								<unitdate>undated</unitdate>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container type="folder">1.6</container>
+								<unittitle>Medical records</unittitle>
+								<unitdate>undated</unitdate>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container type="folder">1.7</container>
+								<unittitle>Travel records</unittitle>
+								<unitdate>undated</unitdate>
+							</did>
+						</c04>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container type="box">3.002</container>
+							<unittitle>Biographical Materials re: Karl Kordesch</unittitle>
+							<!--<unitdate>undated</unitdate>-->
+						</did>
+						<c04 level="item">
+							<did>
+								<container type="folder">2.1</container>
+								<unittitle>Assorted correspondence</unittitle>
+								<unitdate>undated</unitdate>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container type="folder">2.2</container>
+								<unittitle>Newspaper and magazine clippings</unittitle>
+								<unitdate>undated</unitdate>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container type="folder">2.3</container>
+								<unittitle>Assorted professional contacts</unittitle>
+								<unitdate>undated</unitdate>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container type="folder">2.4</container>
+								<unittitle>Résumés and biographies</unittitle>
+								<unitdate>undated</unitdate>
+							</did>
+						</c04>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container type="box">3.003</container>
+							<unittitle>Biographical Materials re: Karl Kordesch</unittitle>
+							<!--<unitdate>undated</unitdate>-->
+						</did>
+						<c04 level="item">
+							<did>
+								<container type="folder">3.1</container>
+								<unittitle>Assorted keepsakes</unittitle>
+								<unitdate>undated</unitdate>
+							</did>
+						</c04>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unitid>2</unitid>
+						<unittitle encodinganalog="245$a">Erna Kordesch</unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc><extent encodinganalog="300$a">1 box</extent></physdesc>
+					</did>
+					<c03 level="file">
+						<did>
+							<container type="box">3.004</container>
+							<unittitle>Biographical Materials re: Erna Kordesch</unittitle>
+							<!--<unitdate>undated</unitdate>-->
+						</did>
+						<c04 level="item">
+							<did>
+								<container type="folder">4.1</container>
+								<unittitle>Identification and citizenship</unittitle>
+								<unitdate>undated</unitdate>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container type="folder">4.2</container>
+								<unittitle>Educational records</unittitle>
+								<unitdate>undated</unitdate>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container type="folder">4.3</container>
+								<unittitle>Newspaper clippings</unittitle>
+								<unitdate>undated</unitdate>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container type="folder">4.4</container>
+								<unittitle>Personal histories</unittitle>
+								<unitdate>undated</unitdate>
+							</did>
+							<scopecontent>
+								<p>Birth stories of the four Kordesch children and other events dictated by Erna Kordesch and recorded by Catherine Kordesch.</p>
+							</scopecontent>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container type="folder">4.5</container>
+								<unittitle>Assorted correspondence</unittitle>
+								<unitdate>undated</unitdate>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container type="folder">4.6</container>
+								<unittitle>Assorted keepsakes</unittitle>
+								<unitdate>undated</unitdate>
+							</did>
+						</c04>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unitid>3</unitid>
+						<unittitle encodinganalog="245$a">Kordesch Family</unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc><extent encodinganalog="300$a">1 box</extent></physdesc>
+					</did>					
+					<c03 level="file">
+						<did>
+							<container type="box">3.005</container>
+							<unittitle>Biographical Materials re: The Kordesch Family</unittitle>
+							<!--<unitdate>undated</unitdate>-->
+						</did>
+						<c04 level="item">
+							<did>
+								<container type="folder">5.1</container>
+								<unittitle>Materials re: Kordesch genealogy</unittitle>
+								<unitdate>undated</unitdate>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container type="folder">5.2</container>
+								<unittitle>Assorted Kordesch family postcards</unittitle>
+								<unitdate>undated</unitdate>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container type="folder">5.3</container>
+								<unittitle>Assorted Kordesch family keepsakes</unittitle>
+								<unitdate>undated</unitdate>
+							</did>
+						</c04>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unitid>4</unitid>
+						<unittitle encodinganalog="245$a">Bӧhm/Colnago Family</unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc><extent encodinganalog="300$a">1 box</extent></physdesc>
+					</did>
+					<scopecontent>
+						<p>Materials relating to members of the maternal (Colnago) and paternal (Bӧhm) sides of Erna Kordesch's family.</p>
+					</scopecontent>
+					<c03 level="file">
+						<did>
+							<container type="box">3.006</container>
+							<unittitle>Biographical Materials re: The Bӧhm/Colnago Family</unittitle>
+							<!--<unitdate>undated</unitdate>-->
+						</did>
+						<c04 level="item">
+							<did>
+								<container type="folder">6.1</container>
+								<unittitle>Materials re: Bӧhm/Colnago genealogy</unittitle>
+								<unitdate>undated</unitdate>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container type="folder">6.2</container>
+								<unittitle>Assorted Bӧhm Family Correspondence</unittitle>
+								<unitdate>undated</unitdate>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container type="folder">6.3</container>
+								<unittitle>Correspondence from Erna Kordesch to Bianca Bӧhm</unittitle>
+								<unitdate>undated</unitdate>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container type="folder">6.4</container>
+								<unittitle>Assorted correspondence to Bianca Bӧhm</unittitle>
+								<unitdate>undated</unitdate>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container type="folder">6.5</container>
+								<unittitle>Assorted correspondence to Erna Colnago</unittitle>
+								<unitdate>undated</unitdate>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container type="folder">6.6</container>
+								<unittitle>Assorted Bӧhm family keepsakes</unittitle>
+								<unitdate>undated</unitdate>
+							</did>
+						</c04>
+					</c03>
+				</c02>
+				<c02 level="subseries">
+					<did>
+						<unitid>5</unitid>
+						<unittitle encodinganalog="245$a">Photographs</unittitle>
+						<unitdate>1900s-2000s</unitdate>
+						<unitdate>undated</unitdate>
+						<physdesc><extent encodinganalog="300$a">4 boxes</extent></physdesc>
+					</did>
+					<c03 level="file">
+						<did>
+							<container type="box">3.007</container>
+							<unittitle>Photographs</unittitle>
+							<unitdate>1900s-2000s</unitdate>
+							<unitdate>undated</unitdate>
+						</did>
+						<c04 level="item">
+							<did>
+								<container type="folder">7.1</container>
+								<unittitle>Photographs of Karl Kordesch</unittitle>
+								<unitdate>1940s</unitdate>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container type="folder">7.2</container>
+								<unittitle>Photographs of Karl Kordesch</unittitle>
+								<unitdate>1950s</unitdate>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container type="folder">7.3</container>
+								<unittitle>Photographs of Karl Kordesch</unittitle>
+								<unitdate>1970s</unitdate>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container type="folder">7.4</container>
+								<unittitle>Photographs of Karl Kordesch</unittitle>
+								<unitdate>1990s</unitdate>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container type="folder">7.5</container>
+								<unittitle>Photographs of Karl Kordesch</unittitle>
+								<unitdate>2000s</unitdate>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container type="folder">7.6</container>
+								<unittitle>Photographs of Erna Kordesch</unittitle>
+								<unitdate>1930s</unitdate>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container type="folder">7.7</container>
+								<unittitle>Photographs of Erna Kordesch</unittitle>
+								<unitdate>1940s</unitdate>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container type="folder">7.8</container>
+								<unittitle>Photographs of Erna Kordesch</unittitle>
+								<unitdate>1950s</unitdate>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container type="folder">7.9</container>
+								<unittitle>Photographs of Erna Kordesch</unittitle>
+								<unitdate>1990s</unitdate>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container type="folder">7.10</container>
+								<unittitle>Photographs of Erna Kordesch</unittitle>
+								<unitdate>2000s</unitdate>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container type="folder">7.11</container>
+								<unittitle>Photographs of Karl and Erna Kordesch</unittitle>
+								<unitdate>1940s</unitdate>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container type="folder">7.12</container>
+								<unittitle>Photographs of Karl and Erna Kordesch</unittitle>
+								<unitdate>1970s</unitdate>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container type="folder">7.13</container>
+								<unittitle>Photographs of Karl and Erna Kordesch</unittitle>
+								<unitdate>1980s</unitdate>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container type="folder">7.14</container>
+								<unittitle>Photographs of Karl and Erna Kordesch</unittitle>
+								<unitdate>1990s</unitdate>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container type="folder">7.15</container>
+								<unittitle>Photographs of Karl and Erna Kordesch</unittitle>
+								<unitdate>2000s</unitdate>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container type="folder">7.16</container>
+								<unittitle>Photographs of the Kordesch family</unittitle>
+								<unitdate>1940s</unitdate>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container type="folder">7.17</container>
+								<unittitle>Photographs of the Kordesch family</unittitle>
+								<unitdate>1950s</unitdate>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container type="folder">7.18</container>
+								<unittitle>Photographs of the Kordesch family</unittitle>
+								<unitdate>1960s</unitdate>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container type="folder">7.19</container>
+								<unittitle>Photographs of the Kordesch family</unittitle>
+								<unitdate>1970s</unitdate>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container type="folder">7.20</container>
+								<unittitle>Photographs of the Kordesch family</unittitle>
+								<unitdate>1990s</unitdate>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container type="folder">7.21</container>
+								<unittitle>Photographs of the Kordesch family</unittitle>
+								<unitdate>2000s</unitdate>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container type="folder">7.22</container>
+								<unittitle>Photographs of the Bӧhm/Colnago family</unittitle>
+								<unitdate>1900s</unitdate>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container type="folder">7.23</container>
+								<unittitle>Photographs of the Bӧhm/Colnago family</unittitle>
+								<unitdate>1910s</unitdate>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container type="folder">7.24</container>
+								<unittitle>Photographs of the Bӧhm/Colnago family</unittitle>
+								<unitdate>1920s</unitdate>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container type="folder">7.25</container>
+								<unittitle>Photographs of the Bӧhm/Colnago family</unittitle>
+								<unitdate>1930s</unitdate>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container type="folder">7.26</container>
+								<unittitle>Photographs of the Bӧhm/Colnago family</unittitle>
+								<unitdate>1940s</unitdate>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container type="folder">7.27</container>
+								<unittitle>Photographs of the Bӧhm/Colnago family</unittitle>
+								<unitdate>2000s</unitdate>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container type="folder">7.28</container>
+								<unittitle>Photographs of the Marko family</unittitle>
+								<unitdate>undated</unitdate>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container type="folder">7.29</container>
+								<unittitle>Assorted photographs</unittitle>
+								<unitdate>1910s</unitdate>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container type="folder">7.30</container>
+								<unittitle>Assorted photographs</unittitle>
+								<unitdate>1920s</unitdate>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container type="folder">7.31</container>
+								<unittitle>Assorted photographs</unittitle>
+								<unitdate>1930s</unitdate>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container type="folder">7.32</container>
+								<unittitle>Assorted photographs</unittitle>
+								<unitdate>1940s</unitdate>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container type="folder">7.33</container>
+								<unittitle>Assorted photographs</unittitle>
+								<unitdate>1950s</unitdate>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container type="folder">7.34</container>
+								<unittitle>Assorted photographs</unittitle>
+								<unitdate>1960s</unitdate>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container type="folder">7.35</container>
+								<unittitle>Assorted photographs</unittitle>
+								<unitdate>1980s</unitdate>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container type="folder">7.36</container>
+								<unittitle>Assorted photographs</unittitle>
+								<unitdate>1990s</unitdate>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container type="folder">7.37</container>
+								<unittitle>Assorted photographs</unittitle>
+								<unitdate>2000s</unitdate>
+							</did>
+						</c04>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container type="box">3.008</container>
+							<unittitle>Photo Albums</unittitle>
+							<unitdate>1926-2002</unitdate>
+						</did>
+						<c04 level="item">
+							<did>
+								<container type="folder">8.1</container>
+								<unittitle>Bӧhm family photo album</unittitle>
+								<unitdate>1926-1932</unitdate>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container type="folder">8.2</container>
+								<unittitle>Kordesch Engagement Book/Photo Album</unittitle>
+								<unitdate>1940s</unitdate>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container type="folder">8.3</container>
+								<unittitle>Karl Kordesch's 80th birthday celebration</unittitle>
+								<unitdate>2002</unitdate>
+							</did>
+						</c04>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container type="box">3.009</container>
+							<unittitle>Photo Albums</unittitle>
+							<unitdate>1977</unitdate>
+						</did>
+						<c04 level="item">
+							<did>
+								<container type="folder">9.1</container>
+								<unittitle>Union Carbide retirement celebration</unittitle>
+								<unitdate>1977</unitdate>
+							</did>
+						</c04>
+					</c03>
+					<c03 level="file">
+						<did>
+							<container type="box">3.010</container>
+							<unittitle>Assorted Slides and Photographic Negatives</unittitle>
+							<unitdate>undated</unitdate>
+						</did>					
+					</c03>
+				</c02>
+			</c01>
+			
+			<c01 level="series">
+				<did>
+					<unitid encodinganalog="099">4</unitid>
+					<unittitle encodinganalog="245$a">Electronic Records</unittitle>
+					<!--<unitdate>undated</unitdate>-->
+					<physdesc><extent encodinganalog="300$a" unit="boxes">1 box</extent></physdesc>
+					<physdesc><extent>11 gigabytes</extent></physdesc>
+				</did>
+				<scopecontent encodinganalog="520">
+					<p>Preservation copies of electronic records including research data, publications, photographs, personal records, video interviews, and correspondence and physical storage media including flash memory drives, Secure Digital memory cards, compact discs, and floppy disks containing original Kordesch documents.  Preservation copies of all electronic records are available onsite for researcher use.  Additional processing is forthcoming.</p>
+				</scopecontent>
+				<!--<c02 level="subseries">
+					<did>
+						<unitid>1</unitid>
+						<unittitle encodinganalog="245$a">Electronic Records</unittitle>
+						<physdesc><extent>10 gigabytes</extent></physdesc>
+					</did>
+					<scopecontent encodinganalog="520">
+						<p>Electronic records including research data, publications, photographs, personal records, and correspondence.  Additional processing is forthcoming.</p>
+					</scopecontent>
+				</c02>-->
+				<c02 level="subseries">
+					<did>
+						<unitid>1</unitid>
+						<unittitle encodinganalog="245$a">Digital Media Storage Devices</unittitle>
+						<unitdate>undated</unitdate>
+						<physdesc><extent encodinganalog="300$a">1 box</extent></physdesc>
+					</did>
+					<scopecontent encodinganalog="520">
+						<p>Storage devices containing Kordesch electronic records in original state and order.</p>
+					</scopecontent>
+					<c03 level="file">
+						<did>
+							<container type="box">4.001</container>
+							<unittitle>Digital Media Storage Devices</unittitle>
+							<!--<unitdate>undated</unitdate>-->
+						</did>					
+						<c04 level="item">
+							<did>
+								<container type="folder">1.1</container>
+								<unittitle>11 USB flash drives (assorted capacity)</unittitle>
+								<unitdate>undated</unitdate>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container type="folder">1.2</container>
+								<unittitle>2 Secure Digital memory cards</unittitle>
+								<unitdate>undated</unitdate>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container type="folder">1.3</container>
+								<unittitle>9 compact discs</unittitle>
+								<unitdate>undated</unitdate>
+							</did>
+						</c04>
+						<c04 level="item">
+							<did>
+								<container type="folder">1.4</container>
+								<unittitle>1 3.5-inch floppy disk</unittitle>
+								<unitdate>undated</unitdate>
+							</did>
+						</c04>
+					</c03>
+				</c02>
+			</c01>
+			
+			<c01 level="series">
+				<did>
+					<unitid encodinganalog="099">5</unitid>
+					<unittitle encodinganalog="245$a">Books</unittitle>
+					<unitdate normal="1943/2005">1943-2005</unitdate>
+					<physdesc><extent encodinganalog="300$a" unit="books">19 volumes</extent></physdesc>
+				</did>
+				<scopecontent encodinganalog="520">
+					<p>Volumes from Karl Kordesch's personal library.</p>
+				</scopecontent>
+				<c02 level="item">
+					<did>
+						<unittitle>Blomen, Leo, ed. <title render="italic">Fuel Cell 2000 Proceedings</title>. Switzerland: European Fuel Cell Forum, <unitdate>2000</unitdate>.</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unittitle>Bockris, John O'M., T. Nejat Veziroğlu and Debbie Smith. <title render="italic">Solar Hydrogen Energy: The Power to Save the Earth</title>. London: Macdonald  Co., <unitdate>1991</unitdate>.</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unittitle>D'Ans, Jean and Ellen Lax, eds. <title render="italic">Taschenbuch für Chemiker und Physiker</title>. Berlin: Springer/Verlag, <unitdate>1943</unitdate>.</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unittitle>Fuel Cell Seminar Organizing Committee. <title render="italic">1998 Fuel Cell Seminar Abstracts</title>. <unitdate>1996</unitdate>.</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unittitle>Fuel Cell Seminar Organizing Committee. <title render="italic">October 2000 Fuel Cell Seminar Abstracts</title>. 2000. <unitdate>1996</unitdate>.</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unittitle>Fuel Cell Seminar Organizing Committee. <title render="italic">November 2003 Fuel Cell Seminar Abstracts</title>. 2003. <unitdate>1996</unitdate>.</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unittitle>Fuel Cell Seminar Organizing Committee. <title render="italic">2005 Fuel Cell Seminar Abstracts</title>. 2005. <unitdate>1996</unitdate>.</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unittitle>Gutmann, G. <title render="italic">Electrochemical Engineering: Elekotrochemische Raktoren, Energiespeicher und Energiewandler.</title>. Germany: Universitätsverlag Ulm GmbH, <unitdate>1996</unitdate>.</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unittitle>Himy, Albert <title render="italic">Silver-Zinc Battery: Phenomena, Design Principles, Manufacturing and Various Topics</title>. College Park, MD: University Press, <unitdate>2003</unitdate>.</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unittitle><title render="italic">Journal of Power Sources</title>. Vol. 51, Nos. 1-2. eds. Dyer, C. K., D. A. J. Rand, and P.T. Moseley, <unitdate>1994</unitdate>.</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unittitle>Kordesch, Karl. <title>"The Electric Automobile"</title>. <title render="italic">Alternative Energy Sources for the Steel Industry: Proceedings of the Sixth C. C. Furnas Memorial Conference</title>. ed. Julian Szekely. New York: Marcel Dekker, <unitdate>1977</unitdate>.</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unittitle>Kordesch, Karl and Günter Simader. <title render="italic">Fuel Cells and Their Applications</title>. Weinheim, Germany: VCH, <unitdate>1996</unitdate>.</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unittitle>Kordesch, Karl. <title render="italic">Brennstoffbatterien</title>. Wien, Austria: Springer-Verlag, <unitdate>1984</unitdate>.</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unittitle>Kratzl, Karl. <title render="italic">Die Kritik der Unreinen Vernunft: Eine Kantige Angelegenheit in 200 Karikaturen und Anekdoten</title>. Wien, Austria: A. Riegelnik, <unitdate>1995</unitdate>.</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unittitle>National Fuel Cell Coordinating Group. <title render="italic">1982 National Fuel Cell Seminar Abstracts</title>. <unitdate>1982</unitdate>.</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unittitle>Rand, D. A. J., R. Woods,  R. M. Dell. <title render="italic">Batteries for Electric Vehicles</title>. Somerset, England: Research Studies Press Ltd., <unitdate>1998</unitdate>.</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unittitle>Schwabe, Ina, ed. <title render="italic">Batterien und Ladekonzepte</title>. Munich, Germany: Design  Elektronik, <unitdate>1997</unitdate>.</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unittitle>Trumbore, Forrest A.  Dennis R. Turner. <title render="italic">The Electrochemical Society: 1902-2002: A Centennial History</title>. Pennington, NJ: ECS, <unitdate>2002</unitdate>.</unittitle>
+					</did>
+				</c02>
+				<c02 level="item">
+					<did>
+						<unittitle>Westbrook, Michael H. <title render="italic">The Electric Car: Development and future of battery, hybrid and fuel-cell cars</title>. London: IET, <unitdate>2001</unitdate>.</unittitle>
+					</did>
+				</c02>
+			</c01>
+
+		
+		</dsc>
+	</archdesc>
+</ead>
+
+<!-- 
+date types used:
+acquisition
+publication
+-->

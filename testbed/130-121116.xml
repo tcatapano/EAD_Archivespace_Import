@@ -1,0 +1,716 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="file:///C|/Program%20Files/SoftQuad/XMetaL%202/display/ead.xsl"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead relatedencoding="MARC21"> 
+  <eadheader langencoding="iso639-2b" findaidstatus="edited-full-draft" audience="internal" id="a0" scriptencoding="iso15924" dateencoding="iso8601" countryencoding="iso3166-1" repositoryencoding="iso15511"> 
+	 <eadid encodinganalog="852$a" countrycode="US" mainagencycode="Tx">urn:taro:tslac.70002</eadid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper>Texas Inaugural Committee:</titleproper> 
+		  <subtitle>An Inventory of Inaugural Committee Perry-Dewhurst Inaugural
+			 Records at the Texas State Archives, 
+			 <date type="inclusive" era="ce" calendar="gregorian">2002-2003</date>
+			 </subtitle> 
+		  <author>Finding aid by Rebecca Romanchuk</author> 
+		  <sponsor>This EAD finding aid was created in cooperation with Texas
+			 Archival Resources Online.</sponsor> 
+		</titlestmt> 
+		<publicationstmt> 
+		  <publisher>Texas State Library and Archives Commission 
+			 <extptr href="defaultstar.gif" show="embed" actuate="onload"/></publisher> 
+		  <date era="ce" calendar="gregorian">June 2005</date>
+		  
+		</publicationstmt> 
+	 </filedesc> 
+	 <profiledesc> 
+		<creation>Finding aid encoded by Rebecca Romanchuk in EAD Version 2002 as
+		  part of the TARO project, 
+		  <date era="ce" calendar="gregorian">April 2005.</date></creation> 
+		<langusage>Finding aid written in <language
+langcode="eng">English.</language></langusage> <descrules>Description based on 
+		<emph render="italic">DACS</emph>.</descrules>
+	 </profiledesc><!-- Add a new change for each major revision of the finding aid, include what was done, who did it, and when -->
+	 <revisiondesc> 
+		<change> 
+		  <date era="ce" calendar="gregorian"><?xm-replace_text {date}?></date> 
+		  <item><?xm-replace_text {item}?></item> 
+		</change> 
+	 </revisiondesc> 
+  </eadheader> 
+  <archdesc level="subgrp" type="inventory" audience="external"> <?xm-replace_text (be sure level attribute is correct)?>
+	 <did id="a1"> 
+		<head>Overview</head> 
+		<repository> 
+		  
+<extref href="http://www.tsl.state.tx.us/arc/index.html" show="new"
+ actuate="onrequest">Texas State Archives</extref></repository> 
+		<origination label="Creator:"> 
+		  <corpname encodinganalog="110" source="lcnaf">Texas Inaugural
+			 Committee.</corpname></origination> 
+		<unittitle label="Title:" encodinganalog="245">Inaugural Committee
+		  Perry-Dewhurst inaugural records</unittitle> 
+		
+<unitdate label="Dates:" encodinganalog="245$f" type="inclusive" era="ce"
+ calendar="gregorian">2002-2003</unitdate> 
+		<abstract label="Abstract:" encodinganalog="520$a">Records of the 2003
+		  Texas Inaugural Committee document its organization and planning of the
+		  inaugural ceremony for Governor Rick Perry and Lieutenant Governor David
+		  Dewhurst on January 21, 2003 and other celebratory events occurring both
+before
+		  and after the swearing-in of the chief executive of the state and the
+		  lieutenant governor, who also serves as Constitutional President of the
+Texas
+		  Senate. Types of records include minutes, agenda, meeting materials,
+		  organizational charts, schedules, lists of duties and responsibilities,
+		  invitations, tickets, badges, programs, oaths, plans, timelines, memoranda,
+		  estimates, photographs, and press releases dating 2002-2003.</abstract> 
+		<langmaterial label="Language:">These materials are written in 
+		<language langcode="eng">English</language>.</langmaterial>
+		<physdesc label="Quantity:" encodinganalog="300$a">0.67 cubic
+		  ft.</physdesc> 
+	 </did> 
+	 <accessrestrict id="a14" encodinganalog="506"> 
+		<head>Restrictions on Access</head> 
+		<p>None.</p> 
+	 </accessrestrict> 
+	 <userestrict id="a15" encodinganalog="540"> 
+		<head>Restrictions on Use</head> 
+		<p>Most records created by Texas state agencies are not copyrighted and
+		  may be freely used in any way. State records also include materials
+received
+		  by, not created by, state agencies. Copyright remains with the creator. The
+		  researcher is responsible for complying with U.S. Copyright Law (Title 17
+		  U.S.C.).</p> 
+	 </userestrict> <phystech encodinganalog="340"> 
+	 <head>Technical Requirements</head> 
+	 <p>Researchers are required to wear gloves provided by the Archives when
+		reviewing photographic materials. Researchers wishing to access digital
+		versions of these records on CD-ROM must contact the Archives' Preservation
+		Officer to obtain the necessary equipment.</p></phystech> 
+	 <bioghist id="a2" encodinganalog="545"> 
+		<head>Agency History</head> 
+		<p>The functions and activities of the Texas Inaugural Committee are
+		  governed by Section 401 of the Texas Government Code. No later than the
+tenth
+		  day after the date of each election for governor and lieutenant governor,
+the
+		  secretary of state issues a proclamation stating who, in the secretary's
+		  opinion, based on the best information available, are the governor-elect
+and
+		  lieutenant governor-elect. The secretary of state then delivers certified
+		  copies of the proclamation to the individuals named in the proclamation.
+The
+		  governor-elect and lieutenant governor-elect then each file with the
+secretary
+		  of state a signed instrument. In that instrument, the governor-elect
+designates
+		  one individual to serve as chair of the inaugural committee and one
+individual
+		  to serve as a cochair of the committee; the lieutenant governor-elect
+		  designates one individual to serve as a cochair of the committee. The
+		  governor-elect and lieutenant governor-elect may appoint other members to
+the
+		  inaugural committee as they consider necessary.</p>
+		<p>After the committee members have been appointed, they convene at a
+		  time and place designated by the chair, take the constitutional oath of
+office,
+		  and hold an organizational meeting to make arrangements necessary for
+		  conducting ceremonies and events to observe the inauguration of the
+governor
+		  and lieutenant governor. The committee may hold subsequent meetings at
+times it
+		  determines or on the call of the chairman, who, when present, presides at
+the
+		  meetings. The committee may adopt rules to govern its proceedings.
+Committee
+		  members serve without compensation but may be reimbursed for actual and
+		  necessary expenses incurred in the performance of committee duties as
+provided
+		  by legislative appropriation. The committee may employ staff or engage the
+		  services of consultants to assist in its work, and may request the
+cooperation
+		  of an agency or official of state or local government.</p>
+		<p>The inaugural fund is a special fund in the state treasury to be used
+		  only for costs related to the inauguration. The comptroller credits to the
+		  inaugural fund a pro-rata share of the interest received from the deposit
+of
+		  state funds as if the inaugural fund were a constitutional fund. A person
+may
+		  contribute funds, services, or other things of value to pay the expenses of
+or
+		  otherwise provide for an inauguration; such contributions may be made to
+the
+		  inaugural committee or secretary of state. The contribution is not a
+political
+		  contribution for purposes of state law regulating political contributions
+or
+		  prohibiting a contribution by a corporation or labor organization. If the
+		  secretary of state receives a contribution while the inaugural committee
+		  exists, the secretary of state delivers it to the committee. If the
+secretary
+		  of state receives a contribution at any other time, then s/he transmits it
+to
+		  the comptroller, who deposits it in the state treasury to the credit of the
+		  inaugural fund. The secretary of state retains the receipt for the
+contribution
+		  in his/her office for at least four years and maintains an index of the
+		  receipts, arranged alphabetically by contributor, showing the date of the
+		  contribution, the name and mailing address of the contributor, and the
+amount
+		  of each contribution. The index and receipts are public information.</p>
+		<p>Money appropriated from the inaugural fund may be used for: printing;
+		  the employment of staff; the lease of office space and payment of utility
+		  expenses; professional and consultant fees; postage, telephone, and
+telegraph
+		  expenses; payment of expenses incurred by committee members; and any other
+		  public purpose reasonably related to conducting inaugural ceremonies and
+		  related events, including expenses of raising funds. Contributions received
+by
+		  the committee and not deposited in the state treasury may be expended for
+any
+		  purpose the committee considers appropriate. A voucher for an expenditure
+from
+		  the inaugural fund must be approved in writing by the chairman. The
+committee
+		  maintains a record of each expenditure of nonappropriated funds containing
+the
+		  following information about each expenditure: the name and address of the
+		  entity to whom the expenditure was paid, the amount, the date, and the
+purpose
+		  of the expenditure.</p>
+		<p>No later than June 30 of the year in which the inauguration is held,
+		  the committee files with the secretary of state a final report verified by
+a
+		  certified public accountant that shows: the total amount of contributions
+		  received by the committee, including contributions paid to the secretary of
+		  state during the committee's existence; the total amount of expenditures
+made
+		  by the committee from nonappropriated funds; and the total amount of
+		  nonappropriated funds remaining in the committee's possession. This report
+is
+		  public information. On the day the committee files the final report, the
+		  committee must deliver all unexpended nonappropriated funds it possesses to
+the
+		  comptroller. The comptroller deposits the funds in the state treasury to
+the
+		  credit of the inaugural fund. When the secretary of state determines that
+the
+		  committee has complied with these requirements, the secretary issues a
+		  proclamation to that effect. The committee is dissolved on the day after
+the
+		  date the proclamation is issued.</p>
+		<p>The 2003 inauguration was funded entirely through corporate and
+		  private underwriters and ticket sales, using none of the $100,000 allowed
+by
+		  state statute to cover inaugural expenses.</p>
+		<p>The 2003 Texas Inaugural Committee was chaired by Pamela Willeford,
+		  with co-chairs James Huffines and Drayton McLane. Scott Caven and Colleen
+		  McHugh were the finance co-chairs. The theme for the inaugural festivities
+for
+		  Governor Rick Perry and Lieutenant Governor David Dewhurst was 
+		  <emph render="doublequote">One Star. One Future. One Texas.</emph></p> 
+		<p>(Sources include: V.T.C.A., Government Code, Section 401.001-011;
+		  press releases found within these records.)</p>
+	 </bioghist> 
+	 <scopecontent id="a3" encodinganalog="520"> 
+		<head>Scope and Contents of the Records</head> 
+		<p>Records of the 2003 Texas Inaugural Committee document its
+		  organization and planning of the inaugural ceremony for Governor Rick Perry
+and
+		  Lieutenant Governor David Dewhurst on January 21, 2003 and other
+celebratory
+		  events occurring both before and after the swearing-in of the chief
+executive
+		  of the state and the lieutenant governor, who also serves as Constitutional
+		  President of the Texas Senate. Types of records include minutes, agenda,
+		  meeting materials, organizational charts, schedules, lists of duties and
+		  responsibilities, invitations, tickets, badges, programs, oaths, plans,
+		  timelines, memoranda, estimates, photographs, and press releases, dating
+		  2002-2003.</p> 
+		<p>The first series, <emph render="italic">Planning documents</emph>,
+		  comprises records created by the Committee in organizing the inauguration,
+with
+		  the exception of photographs. Appointments to the Committee by the
+		  governor-elect and lieutenant governor-elect are included in the records,
+as is
+		  a printed version of the Committee's website which offered event
+information to
+		  the press and public. Planning contributions from the Texas Legislative
+Council
+		  are found in the swearing-in material. In addition to the inauguration
+itself,
+		  events for inaugural sponsors, participants' guests, and the public
+included a
+		  Texas Celebration at the Bob Bullock Texas State History Museum, a morning
+		  prayer service on the day of the inauguration, a barbecue on the Capitol
+south
+		  lawn, an inaugural parade on Congress Avenue, and the inaugural ball at the
+		  Austin Convention Center. Follow-up materials contain the only Committee
+		  meeting minutes in these records and look ahead to reserving accommodations
+for
+		  the 2007 inauguration.</p>
+		<p>The second series, <emph render="italic">Photographs</emph>, consists
+		  of 354 digital photographs on CD-ROM, the majority of which show only
+set-up
+		  and arrangements prior to the inaugural events taking place; and color
+4"x6"
+		  prints made of 78 of those digital photographs which were taken during the
+		  events and which show key participants, including Governor Perry and his
+family
+		  and Lieutenant Governor Dewhurst. Selection of digital photographs to be
+		  printed was made by State Archives staff.</p>
+	 </scopecontent> 
+	 <arrangement id="a5" encodinganalog="351"> 
+		<head>Organization of the Records</head> 
+		<p>The records have been organized by State Archives staff into two
+		  series:</p> 
+		<list> 
+		  <item>Planning documents, 2002-2003, 0.47 cubic ft.</item>
+		  <item>Photographs, 2003, 0.2 cubic ft. (78 color prints and 1
+			 CD-ROM)</item> 
+		</list> 
+	 </arrangement> 
+	 <controlaccess id="a12"> 
+		<head>Index Terms</head> 
+		<p><emph render="italic">The terms listed here were used to catalog the
+		  records. The terms can be used to find similar or related
+records.</emph></p> 
+		<controlaccess> 
+		  <head>Personal Names:</head> 
+		  <persname source="lcnaf" encodinganalog="600">Dewhurst, David, 1945-
+			 --Inauguration--2003.</persname> 
+		  <persname source="lcnaf" encodinganalog="600">Perry, Rick, 1950-
+			 --Inauguration--2003.</persname>
+		</controlaccess> 
+		<controlaccess> 
+		  <head>Subjects:</head> 
+		  <subject source="lcsh" encodinganalog="650">Governors--Texas.</subject>
+		  
+		</controlaccess> 
+		<controlaccess> 
+		  <head>Document Types:</head> 
+		  <genreform source="aat"
+ encodinganalog="655">Minutes--Texas--Governors--Inaugurations--2003.</genreform>
+		  
+		  <genreform source="aat" encodinganalog="655">Organizational
+			 charts--Texas--Governors--Inaugurations--2002-2003</genreform>
+		  <genreform source="aat" encodinganalog="655">Schedules (time
+			 plans)--Texas--Governors--Inaugurations--2002-2003</genreform>
+		  <genreform source="aat"
+ encodinganalog="655">Lists--Texas--Governors--Inaugurations--2002-2003</genreform>
+		  <genreform source="aat"
+ encodinganalog="655">Invitations--Texas--Governors--Inaugurations--2002-2003</genreform>
+		  <genreform source="aat"
+ encodinganalog="655">Tickets--Texas--Governors--Inaugurations--2002-2003</genreform>
+		  <genreform source="aat"
+ encodinganalog="655">Programs--Texas--Governors--Inaugurations--2002-2003</genreform>
+		  <genreform source="aat"
+ encodinganalog="655">Oaths--Texas--Governors--Inaugurations--2002-2003</genreform>
+		  <genreform source="aat" encodinganalog="655">Press
+			 releases--Texas--Governors--Inaugurations--2002-2003</genreform>
+		  <genreform source="aat" encodinganalog="655">Plans
+			 (drawings)--Texas--Governors--Inaugurations--2002-2003</genreform>
+		  <genreform source="aat"
+ encodinganalog="655">Photographs--Texas--Governors--Inaugurations--2003</genreform>
+		</controlaccess> 
+		<controlaccess> 
+		  <head>Functions:</head> 
+		  <function source="aat" encodinganalog="657">Planning inaugural
+			 activities.</function> 
+		</controlaccess> 
+	 </controlaccess> 
+	 <relatedmaterial id="a6"> 
+		<head>Related Material</head> 
+		<p><emph render="italic">The following materials are offered as possible
+		  sources of further information on the agencies and subjects covered by the
+		  records. The listing is not exhaustive.</emph></p> 
+		<relatedmaterial> 
+		  <p> 
+			 <repository><emph render="bold">Texas State
+				Archives</emph></repository></p> 
+		  
+<archref href="http://www.lib.utexas.edu/taro/tslac/10135/tsl-10135.html"
+ show="new" actuate="onrequest">Texas Inaugural Committee, Bush-Perry inaugural
+records,
+			 1934-1999 (bulk 1998-1999), 0.47 cubic ft.</archref>
+		  
+<archref href="http://www.lib.utexas.edu/taro/tslac/10192/tsl-10192.html"
+ show="new" actuate="onrequest">Texas Inaugural Committee, Bush-Bullock
+inaugural records,
+			 1994-1995, 0.47 cubic ft.</archref>
+		  
+<archref href="http://www.lib.utexas.edu/taro/tslac/10191/tsl-10191.html"
+ show="new" actuate="onrequest">Texas Inaugural Committee, Richards-Bullock
+inauguration
+			 records, 1932, 1963-1991, 3.24 cubic ft</archref>
+		  
+<archref href="http://www.lib.utexas.edu/taro/tslac/70003/tsl-70003.html"
+ show="new" actuate="onrequest">Texas Legislative Council, Legislative Council
+inaugural
+			 planning documents and other material, 1955-2003, 0.24 cubic ft.</archref>
+		  <archref>Viriginia Whitten Papers, 1973-1994, 0.94 cubic ft.</archref>
+		  <archref>Texas Secretary of State, Inaugural fund filings, 1979-1983,
+			 1986-1987, 1990-1991, 0.24 cubic ft.</archref> 
+		</relatedmaterial> 
+	 </relatedmaterial> <descgrp> 
+	 <prefercite id="a18" encodinganalog="524"> 
+		<head>Preferred Citation</head> 
+		<p>(Identify the item and cite the series), Texas Inaugural Committee
+		  Perry-Dewhurst inaugural records. Archives and Information Services
+Division,
+		  Texas State Library and Archives Commission.</p> 
+	 </prefercite> 
+	 <processinfo id="a20" encodinganalog="583"> 
+		<head>Processing Information</head> 
+		<p>Rebecca Romanchuk, March 2005</p> 
+	 </processinfo> 
+	 <acqinfo id="a19" encodinganalog="541"> 
+		<head>Accession Information</head> 
+		<p>Accession number: 2003/177</p> 
+		<p>These records were transferred to the Archives and Information
+		  Services Division of the Texas State Library and Archives Commission by the
+		  Texas Inaugural Committee on July 2, 2003.</p> 
+	 </acqinfo> 
+	 <altformavail id="a17" encodinganalog="530"> 
+		<head>Other Formats for the Records</head> 
+		<p>All of the documents in the first series, <emph render="italic">Planning
+documents</emph>, also exist as digital files on
+		  CD-ROM, in Windows 2000 Microsoft Word, Excel, or PowerPoint formats; or in
+		  Adobe Acrobat 6.0. All 354 photographs in the second series, 
+		  <emph render="italic">Photographs</emph>, exist as JPEG digital image files
+on
+		  CD-ROM.</p> 
+	 </altformavail> </descgrp> 
+	 <dsc type="combined" id="a23"> 
+		<head>Detailed Description of the Records</head> 
+		<c01 level="series" id="ser1"> 
+		  <did> 
+			 <unittitle>Planning documents, 
+				<unitdate era="ce" calendar="gregorian" type="inclusive">2002-2003,
+				  </unitdate> </unittitle> 
+			 <physdesc>0.47 cubic ft.</physdesc> 
+		  </did> 
+		  <scopecontent encodinganalog="520"> 
+			 <p>In planning the 2003 inaugural events, the Texas Inaugural
+				Committee conducted research into past Texas inaugurals and kept records to
+				document the committee members' decisions on each aspect of the events,
+				including the printing of invitations and credentials, selection of vendors,
+				detailed timelines, transportation arrangements, and financial expenditures.
+				Types of records include minutes, agenda, meeting materials, organizational
+				charts, schedules, lists of duties and responsibilities, invitations, tickets,
+				badges, programs, oaths, plans, timelines, memoranda, estimates, photographs,
+				and press releases, dating 2002-2003. The committee's publicity efforts are
+				shown through its press releases and its public website, which was printed in
+				its entirety. Planning contributions from the Texas Legislative Council are
+				found in the swearing-in material. Plans made by the committee for the 2007
+				inaugural include contracts for hotel and convention center space and
+				services.</p> 
+		  </scopecontent> 
+		  <arrangement encodinganalog="351"> 
+			 <head>Arrangement</head> 
+			 <p>These records are listed in their original order as received from
+				the agency.</p> 
+		  </arrangement>
+		  <prefercite encodinganalog="524"> 
+			 <head>Preferred Citation</head> 
+			 <p>(Identify the item), Planning documents, Texas Inaugural Committee
+				Perry-Dewhurst inaugural records. Archives and Information Services Division,
+				Texas State Library and Archives Commission.</p> 
+		  </prefercite> 
+		  <accessrestrict>
+			 <head>Restrictions on Access</head> 
+			 <p>None.</p> 
+		  </accessrestrict>
+		  <userestrict>
+			 <head>Restrictions on Use</head> 
+			 <p>Most records created by Texas state agencies are not copyrighted
+				and may be freely used in any way. State records also include materials
+				received by, not created by, state agencies. Copyright remains with the
+				creator. The researcher is responsible for complying with U.S. Copyright Law
+				(Title 17 U.S.C.).</p> 
+		  </userestrict><phystech encodinganalog="340"> 
+		  <head>Technical Requirements</head> 
+		  <p>Researchers wishing to access digital versions of these records on
+			 CD-ROM must contact the Archives' Preservation Officer to obtain the necessary
+			 equipment.</p></phystech> 
+		  <c02> 
+			 <did> 
+				<container type="Box">2003/177-1</container> 
+				<unittitle>Introduction, 
+				  <unitdate era="ce" calendar="gregorian">2002-2003</unitdate></unittitle> 
+			 </did> 
+		  </c02>
+		  <c02> 
+			 <did> 
+				<container type="Box">2003/177-1</container> 
+				<unittitle>Background research, 
+				  <unitdate era="ce" calendar="gregorian">2002-2003</unitdate></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02> 
+			 <did> 
+				<container type="Box">2003/177-1</container> 
+				<unittitle>Memos and agreements, 
+				  <unitdate era="ce" calendar="gregorian">2002-2003</unitdate></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02> 
+			 <did> 
+				<container type="Box">2003/177-1</container> 
+				<unittitle>Committee appointments and meetings, 
+				  <unitdate era="ce" calendar="gregorian">2002-2003</unitdate></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02> 
+			 <did> 
+				<container type="Box">2003/177-1</container> 
+				<unittitle>Printing, 
+				  <unitdate era="ce" calendar="gregorian">2002-2003</unitdate></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02> 
+			 <did> 
+				<container type="Box">2003/177-1</container> 
+				<unittitle>Staff, 
+				  <unitdate era="ce" calendar="gregorian">2002</unitdate></unittitle> 
+			 </did> 
+		  </c02>
+		  <c02> 
+			 <did> 
+				<container type="Box">2003/177-1</container> 
+				<unittitle>Credentialing, 
+				  <unitdate era="ce" calendar="gregorian">2002-2003</unitdate></unittitle> 
+			 </did> 
+		  </c02>
+		  <c02> 
+			 <did> 
+				<container type="Box">2003/177-1</container> 
+				<unittitle>Timelines, 
+				  <unitdate era="ce" calendar="gregorian">2002-2003</unitdate></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02> 
+			 <did> 
+				<container type="Box">2003/177-1</container> 
+				<unittitle>Governor's Mansion, 
+				  <unitdate era="ce" calendar="gregorian">2003</unitdate></unittitle> 
+			 </did> 
+		  </c02>
+		  <c02> 
+			 <did> 
+				<container type="Box">2003/177-1</container> 
+				<unittitle>Texas Celebration, 
+				  <unitdate era="ce" calendar="gregorian">2002</unitdate></unittitle> 
+			 </did> 
+		  </c02>
+		  <c02> 
+			 <did> 
+				<container type="Box">2003/177-1</container> 
+				<unittitle>Prayer Service, 
+				  <unitdate era="ce" calendar="gregorian">2003</unitdate></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02> 
+			 <did> 
+				<container type="Box">2003/177-1</container> 
+				<unittitle>Swearing-in, 
+				  <unitdate era="ce" calendar="gregorian">2002-2003</unitdate></unittitle> 
+			 </did> 
+		  </c02>
+		  <c02> 
+			 <did> 
+				<container type="Box">2003/177-1</container> 
+				<unittitle>Barbecue, 
+				  <unitdate era="ce" calendar="gregorian">2002-2003</unitdate></unittitle> 
+			 </did> 
+		  </c02>
+		  <c02> 
+			 <did> 
+				<container type="Box">2003/177-1</container> 
+				<unittitle>Luncheon, 
+				  <unitdate era="ce" calendar="gregorian">2003</unitdate></unittitle> 
+			 </did> 
+		  </c02>
+		  <c02> 
+			 <did> 
+				<container type="Box">2003/177-1</container> 
+				<unittitle>Program, 
+				  <unitdate era="ce" calendar="gregorian">2003</unitdate></unittitle> 
+			 </did> 
+		  </c02>
+		  <c02> 
+			 <did> 
+				<container type="Box">2003/177-1</container> 
+				<unittitle>Parade, 
+				  <unitdate era="ce" calendar="gregorian">2002-2003</unitdate></unittitle> 
+			 </did> 
+		  </c02>
+		  <c02> 
+			 <did> 
+				<container type="Box">2003/177-1</container> 
+				<unittitle>Ball, 
+				  <unitdate era="ce" calendar="gregorian">2003</unitdate></unittitle> 
+			 </did> 
+		  </c02>
+		  <c02> 
+			 <did> 
+				<container type="Box">2003/177-1</container> 
+				<unittitle>Elected officials, 
+				  <unitdate era="ce" calendar="gregorian">2002</unitdate></unittitle> 
+			 </did> 
+		  </c02>
+		  <c02> 
+			 <did> 
+				<container type="Box">2003/177-1</container> 
+				<unittitle>Friends and family, 
+				  <unitdate era="ce" calendar="gregorian">2002-2003</unitdate></unittitle> 
+			 </did> 
+		  </c02>
+		  <c02> 
+			 <did> 
+				<container type="Box">2003/177-1</container> 
+				<unittitle>Finance, 
+				  <unitdate era="ce" calendar="gregorian">2002-2003</unitdate></unittitle> 
+			 </did> 
+		  </c02>
+		  <c02> 
+			 <did> 
+				<container type="Box">2003/177-1</container> 
+				<unittitle>Communications (including press releases and Committee
+				  website), 
+				  <unitdate era="ce" calendar="gregorian">2002-2003</unitdate></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02> 
+			 <did> 
+				<container type="Box">2003/177-1</container> 
+				<unittitle>Commemoratives, 
+				  <unitdate era="ce" calendar="gregorian">2003</unitdate></unittitle> 
+			 </did> 
+		  </c02>
+		  <c02> 
+			 <did> 
+				<container type="Box">2003/177-1</container> 
+				<unittitle>Transportation, 
+				  <unitdate era="ce" calendar="gregorian">2002-2003</unitdate></unittitle> 
+			 </did> 
+		  </c02>
+		  <c02> 
+			 <did> 
+				<container type="Box">2003/177-1</container> 
+				<unittitle>Baskets, 
+				  <unitdate era="ce" calendar="gregorian">2002</unitdate></unittitle> 
+			 </did> 
+		  </c02>
+		  <c02> 
+			 <did> 
+				<container type="Box">2003/177-1</container> 
+				<unittitle>Invitations and ticketing, 
+				  <unitdate era="ce" calendar="gregorian">2002</unitdate></unittitle> 
+			 </did> 
+		  </c02>
+		  <c02> 
+			 <did> 
+				<container type="Box">2003/177-1</container> 
+				<unittitle>Follow-up, 
+				  <unitdate era="ce" calendar="gregorian">2003</unitdate></unittitle> 
+			 </did> 
+		  </c02>
+		  <c02> 
+			 <did> 
+				<container type="Box">CD/DVD Box 1</container> 
+				<unittitle>Inaugural committee planning documents, 
+				  <unitdate era="ce" calendar="gregorian">2002-2003</unitdate></unittitle> 
+			 </did> 
+		  </c02> 
+		</c01> 
+		<c01 level="series" id="ser2"> 
+		  <did> 
+			 <unittitle>Photographs, 
+				<unitdate era="ce" calendar="gregorian" type="inclusive">2003,
+				  </unitdate> </unittitle> 
+			 <physdesc><extent>0.2 cubic ft. </extent><extent>(78 </extent>
+				<physfacet> color prints </physfacet>and <extent>1 </extent>CD-ROM)</physdesc> 
+		  </did> 
+		  <scopecontent encodinganalog="520"> 
+			 <p>The Texas Inaugural Committee documented the 2003 inaugural events
+				through 354 digital photographs saved to a CD-ROM to record the appearance of
+				their arrangements for this state occasion attended by thousands of people. The
+				majority of these digital photographs, taken before and during the inaugural
+				ceremony, barbecue, parade, and ball show only set-up and arrangements prior to
+				the events taking place. About one-fourth of the photographs were taken during
+				the events as they occurred and show key participants, including Governor Perry
+				and his family and Lieutenant Governor Dewhurst; color 4"x6" prints were made
+				of 78 of these photographs, selected by State Archives staff. If known, names
+				of individuals and organizations appearing in the photograph are noted on the
+				reverse of the print.</p> 
+		  </scopecontent> 
+		  <arrangement encodinganalog="351"> 
+			 <head>Arrangement</head> 
+			 <p>The digital image files on the CD-ROM are in their original order
+				as received from the agency. The selected prints made from the digital images
+				are listed in order according to the chronology of the inaugural events.</p> 
+		  </arrangement> 
+		  <prefercite encodinganalog="524"> 
+			 <head>Preferred Citation</head> 
+			 <p>(Identify the item), Photographs, Texas Inaugural Committee
+				Perry-Dewhurst inaugural records. Archives and Information Services Division,
+				Texas State Library and Archives Commission.</p> 
+		  </prefercite> 
+		  <accessrestrict>
+			 <head>Restrictions on Access</head> 
+			 <p>None.</p> 
+		  </accessrestrict>
+		  <userestrict>
+			 <head>Restrictions on Use</head> 
+			 <p>Most records created by Texas state agencies are not copyrighted
+				and may be freely used in any way. State records also include materials
+				received by, not created by, state agencies. Copyright remains with the
+				creator. The researcher is responsible for complying with U.S. Copyright Law
+				(Title 17 U.S.C.).</p> 
+		  </userestrict><phystech encodinganalog="340"> 
+		  <head>Technical Requirements</head> 
+		  <p>Researchers are required to wear gloves provided by the Archives
+			 when reviewing photographic materials. Researchers wishing to access digital
+			 versions of these records on CD-ROM must contact the Archives' Preservation
+			 Officer to obtain the necessary equipment.</p></phystech> 
+		  <c02> 
+			 <did> 
+				<container type="Box">CD/DVD Box 1</container> 
+				<unittitle>Inaugural swearing-in ceremony, barbecue, parade, and
+				  ball photographs, 
+				  <unitdate era="ce" calendar="gregorian">2003</unitdate></unittitle> 
+				<physdesc><extent>[354 </extent><physfacet>digital image files on
+				  CD-ROM]</physfacet></physdesc>
+			 </did> 
+		  </c02>
+		  <c02> 
+			 <did> 
+				<container type="Box">2003/177-2</container> 
+				<unittitle>Inaugural swearing-in ceremony photographs, 
+				  <unitdate era="ce" calendar="gregorian">2003</unitdate></unittitle> 
+				<physdesc><extent>[17 </extent><physfacet> color prints
+				  </physfacet><dimensions>4"x6"]</dimensions></physdesc>
+			 </did>
+		  </c02>
+		  <c02> 
+			 <did> 
+				<container type="Box">2003/177-2</container> 
+				<unittitle>Inaugural parade photographs, 
+				  <unitdate era="ce" calendar="gregorian">2003</unitdate></unittitle> 
+				<physdesc><extent>[44 </extent><physfacet> color prints
+				  </physfacet><dimensions>4"x6"]</dimensions></physdesc>
+			 </did> 
+		  </c02>
+		  <c02> 
+			 <did> 
+				<container type="Box">2003/177-2</container> 
+				<unittitle>Inaugural ball photographs, 
+				  <unitdate era="ce" calendar="gregorian">2003</unitdate></unittitle> 
+				<physdesc><extent>[17 </extent><physfacet> color prints
+				  </physfacet><dimensions>4"x6"]</dimensions></physdesc>
+			 </did> 
+		  </c02> 
+		</c01></dsc> 
+  </archdesc>
+</ead>

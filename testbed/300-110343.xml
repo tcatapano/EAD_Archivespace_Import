@@ -1,0 +1,852 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "http://www.idc.nl/xml/shared/ead.dtd">
+<ead audience="external"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" relatedencoding="DC" repositoryencoding="iso15511" scriptencoding="iso15924">
+<eadid countrycode="nl" encodinganalog="dc.identifier" mainagencycode="NeLeIDC" publicid="-//IDC Publishers::Bibliographic Department//TEXT (NL::NLDC::::)//EN" url="http://www.idc.nl/xml/494rusefaidfaid.xml">494rusefaid</eadid>
+<filedesc><titlestmt><titleproper encodinganalog="dc.title">Научно-справочный аппарат к «Российская военная разведка по Аравии и Сирии, <date era="ce" calendar="julian">1651-1915</date>»</titleproper><author encodinganalog="dc.creator">Научно-справочный аппарат подготовлен совместно Российским государственным военным историческим архивом (РГВИА), Москва и IDC Publishers, Лейден Finding aid prepared by the Russian Military State Archives (RGVIA), Moscow, and IDC Publishers, Leiden</author></titlestmt>
+<publicationstmt><publisher encodinganalog="dc.publisher">IDC Publishers</publisher>  <p>Все права сохранены.</p><date calendar="gregorian" encodinganalog="dc.date" era="ce">2006</date></publicationstmt></filedesc><profiledesc>
+<creation>Маркировка подготовлена Peter Verhaar в 2006 г. Маркировка проверена и закончена Лиан Винтерманс-Схилд (IDC Publishers)</creation>
+<langusage>Научно-справочный аппарат на <language encodinganalog="dc.language" langcode="rus">русском</language> языке. <archref href="http://www.idc.nl/ead/494e.xml" linktype="simple"><langmaterial>Научно-справочный аппарат также доступен на <language langcode="eng">английском</language> языке.</langmaterial></archref></langusage>
+</profiledesc></eadheader><frontmatter><titlepage>
+<titleproper>Российская военная разведка по Аравии и Сирии</titleproper><num>RIA-5</num>
+<publisher>IDC Publishers<lb/></publisher>  <list type="deflist"><defitem><label>Закодирован и обработан:</label><item>Peter Verhaar и Lian Wintermans-Schild</item></defitem></list>
+<p>Все права сохранены. 2006</p></titlepage>
+</frontmatter><archdesc level="fonds" relatedencoding="MARC"><did><head>Краткое описание</head>
+<origination label="Фондообразователь: "><corpname encodinganalog="110">Россия. <subarea>Армия. </subarea><subarea>Военно-ученый архив</subarea></corpname></origination>
+<unittitle encodinganalog="245$a" label="Название: ">Российская военная разведка по Аравии и Сирии</unittitle>
+<unitdate calendar="julian" encodinganalog="245$f" era="ce" label="Крайние даты документов: " type="inclusive" normal="1651/1915">1651-1915</unitdate>
+<physdesc encodinganalog="300$a" label="Объем: "><extent type="original">65 единиц хранения</extent> ; <extent type="microform-reproduction">3 ролика</extent> ; <extent type="digital-reproduction">образы документов в виртуальной библиотеке (<extref href="http://www.idc-digilib.nl/" show="new">www.idc-digilib.nl</extref>)</extent></physdesc>
+<abstract encodinganalog="520" label="Резюме: ">Коллекция содержит текстовые и картографические документы</abstract>
+<repository encodinganalog="852" label="Издатель: "><corpname>IDC Publishers, </corpname>  </repository>
+<unitid countrycode="NL" encodinganalog="099" label="Номер заказа: " repositorycode="NeLeIDC">RIA-5</unitid>
+<langmaterial encodinganalog="546" label="Языки: ">Материалы преимущественно на <language langcode="fre">французском</language> язуке; но есть также материалы на <language langcode="rus">русском</language>, <language langcode="ger">немецком</language>, <language langcode="lat">латинксом</language> и <language langcode="eng">английском</language>языках; отдельные документы на <language langcode="ara">арабском</language> и <language langcode="dut">голландском</language> языках</langmaterial></did>
+<originalsloc encodinganalog="535"><head>Место хранения документов</head><p>Российский государственный военно-исторический архив (РГВИА), Москва. Фонд 444.</p></originalsloc>
+<accessrestrict encodinganalog="506"><head>Ограничения доступа</head><p>Пожалуйста, имейте в виду, что некоторые дела не могли быть сняты из-за плохого состояния материалов или по техническим причинам. Некоторые дела были переданы в другие фонды, и по этой причине также не сняты в рамках данной коллекции. Эти дела (10 из 65) не включены в данный научно-справочный аппарат.</p></accessrestrict>
+<controlaccess><head>Избранные поисковые слова</head>
+<controlaccess><head>Организации</head>
+<corpname encodinganalog="610" source="lcnaf">Россия. <subarea>Армия. </subarea><subarea>Военно-ученый архив</subarea></corpname>
+</controlaccess><controlaccess><head>Предметные термины</head>
+<geogname encodinganalog="650" source="lcnaf">Военная география -- Аравия</geogname>
+<geogname encodinganalog="650" source="lcnaf">Военная география -- Сирия</geogname>
+</controlaccess><controlaccess><head>География</head><geogname encodinganalog="651" source="lcnaf">Аравия -- История -- Источники</geogname>
+<geogname encodinganalog="651" source="lcnaf">Аравия -- Карты</geogname>
+<geogname encodinganalog="651" source="lcnaf">Аравия -- Описания и путешествия</geogname>
+<geogname encodinganalog="651" source="lcnaf">Аравия -- Стратегические аспекты</geogname>
+<geogname encodinganalog="651" source="lcnaf">Сирия -- История -- Источники</geogname>
+<geogname encodinganalog="651" source="lcnaf">Сирия -- Карты</geogname>
+<geogname encodinganalog="651" source="lcnaf">Сирия -- Описания и путешествия</geogname>
+<geogname encodinganalog="651" source="lcnaf">Сирия -- Стратегические аспекты</geogname></controlaccess></controlaccess>
+<index><head>Указатели</head><p>Все географические названия и персоналии в этих указателях приведены в алфавитном порядке.</p><index>
+<head>География</head>
+<indexentry><geogname>Александретта, залив</geogname></indexentry>
+<indexentry><geogname>Алеппо</geogname></indexentry>
+<indexentry><geogname>Амассерах</geogname></indexentry>
+<indexentry><geogname>Антиохия</geogname></indexentry>
+<indexentry><geogname>Аравийская пустыня</geogname></indexentry>
+<indexentry><geogname>Аравийское побережье</geogname></indexentry>
+<indexentry><geogname>Аравия</geogname></indexentry>
+<indexentry><geogname>Баб-эль-Мандеб</geogname></indexentry>
+<indexentry><geogname>Багдад</geogname></indexentry>
+<indexentry><geogname>Багдадская железная дорого</geogname></indexentry>
+<indexentry><geogname>Басра</geogname></indexentry>
+<indexentry><geogname>Бейрут</geogname></indexentry>
+<indexentry><geogname>Бельбес</geogname></indexentry>
+<indexentry><geogname>Ван</geogname></indexentry>
+<indexentry><geogname>Гамадан</geogname></indexentry>
+<indexentry><geogname>Евфрат</geogname></indexentry>
+<indexentry><geogname>Египет</geogname></indexentry>
+<indexentry><geogname>Иезд</geogname></indexentry>
+<indexentry><geogname>Исфаган</geogname></indexentry>
+<indexentry><geogname>Исфаган (Испаган)</geogname></indexentry>
+<indexentry><geogname>Йемен</geogname></indexentry>
+<indexentry><geogname>Кипр</geogname></indexentry>
+<indexentry><geogname>Красное море</geogname></indexentry>
+<indexentry><geogname>Ливан</geogname></indexentry>
+<indexentry><geogname>Марокко</geogname></indexentry>
+<indexentry><geogname>Маскат</geogname></indexentry>
+<indexentry><geogname>Медина</geogname></indexentry>
+<indexentry><geogname>Мекка</geogname></indexentry>
+<indexentry><geogname>Месопотамия</geogname></indexentry>
+<indexentry><geogname>Монбаз</geogname></indexentry>
+<indexentry><geogname>Моссул</geogname></indexentry>
+<indexentry><geogname>Неджед</geogname></indexentry>
+<indexentry><geogname>Нильский бассейн</geogname></indexentry>
+<indexentry><geogname>Нубийская пустыня</geogname></indexentry>
+<indexentry><geogname>Оман</geogname></indexentry>
+<indexentry><geogname>Пакистан</geogname></indexentry>
+<indexentry><geogname>Палестина</geogname></indexentry>
+<indexentry><geogname>Пальмира</geogname></indexentry>
+<indexentry><geogname>Персидский залив</geogname></indexentry>
+<indexentry><geogname>Персия</geogname></indexentry>
+<indexentry><geogname>Ресава</geogname></indexentry>
+<indexentry><geogname>Самсун</geogname></indexentry>
+<indexentry><geogname>Сирия</geogname></indexentry>
+<indexentry><geogname>Сур</geogname></indexentry>
+<indexentry><geogname>Тавриз</geogname></indexentry>
+<indexentry><geogname>Тигр</geogname></indexentry>
+<indexentry><geogname>Триполи</geogname></indexentry>
+<indexentry><geogname>Турция</geogname></indexentry>
+<indexentry><geogname>Халеб</geogname></indexentry>
+<indexentry><geogname>Хиджакская железная дорога</geogname></indexentry>
+</index>
+<index>
+<head>Персоналия</head>
+<indexentry><persname>Алексеев</persname></indexentry>
+<indexentry><persname>Ароусмит</persname></indexentry>
+<indexentry><persname>Батюшков</persname></indexentry>
+<indexentry><persname>Бельфонд</persname></indexentry>
+<indexentry><persname>Бергхауз</persname></indexentry>
+<indexentry><persname>Вуссин</persname></indexentry>
+<indexentry><persname>Гаун</persname></indexentry>
+<indexentry><persname>Гийом де Лисль</persname></indexentry>
+<indexentry><persname>Дайнез</persname></indexentry>
+<indexentry><persname>Данвиль</persname></indexentry>
+<indexentry><persname>Делизль П.</persname></indexentry>
+<indexentry><persname>Калнин</persname></indexentry>
+<indexentry><persname>Корри</persname></indexentry>
+<indexentry><persname>Лаборд</persname></indexentry>
+<indexentry><persname>Львов</persname></indexentry>
+<indexentry><persname>Магомет-Али</persname></indexentry>
+<indexentry><persname>Марьет</persname></indexentry>
+<indexentry><persname>Мольдтке</persname></indexentry>
+<indexentry><persname>Ниебур</persname></indexentry>
+<indexentry><persname>Ниебург</persname></indexentry>
+<indexentry><persname>Пальмер</persname></indexentry>
+<indexentry><persname>Реппель</persname></indexentry>
+<indexentry><persname>Риттер</persname></indexentry>
+<indexentry><persname>Розили</persname></indexentry>
+<indexentry><persname>Циммерман</persname></indexentry>
+<indexentry><persname>Шелковников</persname></indexentry>
+<indexentry><persname>Эренберг</persname></indexentry>
+</index>
+</index><dsc type="combined"><head>Инвентарный список</head><c01 level="item" id="c00"><did>
+<unittitle label="Название: ">Дорожная карта Аравии, Сирии, Палестины, острова Кипр и части Турции. Нюрнберг. Изд. Гомана.</unittitle>
+<unitid label="Номер дела: ">фонд 444, опись 1, дело 1</unitid>
+<container type="djvufolder">001</container>
+<unitdate calendar="julian" era="ce" label="Даты: " normal="171-">начало XVIII в.</unitdate>
+<langmaterial label="Языки: "><language>латинский</language></langmaterial>
+<physdesc label="Объем: ">1 л.</physdesc>
+<note label="Примечания: "><p>31х40 см ; раскраска от руки ; рельеф перспективно</p></note>
+<note label="Тип документа: "><p>печатный</p></note>
+<note label="География: "><p>Аравия ; Сирия ; Палестина ; Турция ; Кипр</p></note>
+<container type="microfilm">1</container>
+</did></c01><c01 level="item" id="c01"><did>
+<unittitle label="Название: ">Карта африканского берега Красного моря, пролива Баб-эль-Мандеб. Амстердам. Изд. Ван-Кеулен.</unittitle>
+<unitid label="Номер дела: ">фонд 444, опись 1, дело 2</unitid>
+<container type="djvufolder">002</container>
+<unitdate calendar="julian" era="ce" label="Даты: " normal="170-">1-я половина XVIII в.</unitdate>
+<langmaterial label="Языки: "><language>голландский</language></langmaterial>
+<physdesc label="Объем: ">1 л.</physdesc>
+<note label="Примечания: "><p>41х52 см ; раскраска от руки</p></note>
+<note label="Тип документа: "><p>печатный</p></note>
+<note label="География: "><p>Красное море ; Баб-эль-Мандеб</p></note>
+<container type="microfilm">1</container>
+</did></c01><c01 level="item" id="c02"><did>
+<unittitle label="Название: ">Карта Сирии, Месопотамии и Аравийской пустыни.</unittitle>
+<unitid label="Номер дела: ">фонд 444, опись 1, дело 3</unitid>
+<container type="djvufolder">003</container>
+<unitdate calendar="julian" era="ce" label="Даты: " normal="1758">1758 г.</unitdate>
+<langmaterial label="Языки: "><language>английский</language></langmaterial>
+<physdesc label="Объем: ">1 л.</physdesc>
+<note label="Примечания: "><p>46х26 см ; в красках ; масштаб 1:3274000</p></note>
+<note label="Тип документа: "><p>рукописный</p></note>
+<note label="География: "><p>Сирия ; Месопотамия ; Аравийская пустыня</p></note>
+<container type="microfilm">1</container>
+</did></c01><c01 level="item" id="c03"><did>
+<unittitle label="Название: ">Карта Аравийского побережья Красного моря. 1762-1763 гг. Сост. Ниебур.</unittitle>
+<origination label="Автор: "><persname>Ниебур</persname></origination>
+<unitid label="Номер дела: ">фонд 444, опись 1, дело 4</unitid>
+<container type="djvufolder">004</container>
+<unitdate calendar="julian" era="ce" label="Даты: " normal="1772">1772 г.</unitdate>
+<langmaterial label="Языки: "><language>латинский</language></langmaterial>
+<physdesc label="Объем: ">1 л.</physdesc>
+<note label="Примечания: "><p>22х79 см</p></note>
+<note label="Тип документа: "><p>печатный</p></note>
+<note label="География: "><p>Аравийское побережье ; Красное море</p></note>
+<container type="microfilm">1</container>
+</did></c01><c01 level="item" id="c04"><did>
+<unittitle label="Название: ">Географическая и ботаническая карта Аравии. Сост. Гаун.</unittitle>
+<origination label="Автор: "><persname>Гаун</persname></origination>
+<unitid label="Номер дела: ">фонд 444, опись 1, дело 5</unitid>
+<container type="djvufolder">005</container>
+<unitdate calendar="julian" era="ce" label="Даты: " normal="177-">70-е гг. XVIII в.</unitdate>
+<langmaterial label="Языки: "><language>латинский</language></langmaterial>
+<physdesc label="Объем: ">1 л.</physdesc>
+<note label="Примечания: "><p>16х21 см</p></note>
+<note label="Тип документа: "><p>печатный</p></note>
+<note label="География: "><p>Аравия</p></note>
+<container type="microfilm">1</container>
+</did></c01><c01 level="item" id="c05"><did>
+<unittitle label="Название: ">Карта Омана и Аравии. Сост. Ниебург.</unittitle>
+<origination label="Автор: "><persname>Ниебург</persname></origination>
+<unitid label="Номер дела: ">фонд 444, опись 1, дело 6</unitid>
+<container type="djvufolder">006</container>
+<unitdate calendar="julian" era="ce" label="Даты: " normal="177-">70-е гг. XVIII в.</unitdate>
+<langmaterial label="Языки: "><language>латинский</language></langmaterial>
+<physdesc label="Объем: ">1 л.</physdesc>
+<note label="Примечания: "><p>21х22 см ; масштаб 1:2800000</p></note>
+<note label="Тип документа: "><p>печатный</p></note>
+<note label="География: "><p>Оман ; Аравия</p></note>
+<container type="microfilm">1</container>
+</did></c01><c01 level="item" id="c06"><did>
+<unittitle label="Название: ">Карта Йемена (в Аравии). Сост. Ниебург.</unittitle>
+<origination label="Автор: "><persname>Ниебург</persname></origination>
+<unitid label="Номер дела: ">фонд 444, опись 1, дело 7</unitid>
+<container type="djvufolder">007</container>
+<unitdate calendar="julian" era="ce" label="Даты: " normal="170-">70-е гг. XVIII в.</unitdate>
+<langmaterial label="Языки: "><language>латинский</language></langmaterial>
+<physdesc label="Объем: ">1 л.</physdesc>
+<note label="Примечания: "><p>39х60 см</p></note>
+<note label="Тип документа: "><p>печатный</p></note>
+<note label="География: "><p>Йемен ; Аравия</p></note>
+<container type="microfilm">1</container>
+</did></c01><c01 level="item" id="c07"><did>
+<unittitle label="Название: ">Карта Красного моря и берегов Аравии и Египта. Сост. в Главном морском депо по материалам вице-адмирала Розили.</unittitle>
+<unitid label="Номер дела: ">фонд 444, опись 1, дело 8</unitid>
+<container type="djvufolder">008</container>
+<unitdate calendar="julian" era="ce" label="Даты: " normal="1799">1799 г.</unitdate>
+<langmaterial label="Языки: "><language>французский</language></langmaterial>
+<physdesc label="Объем: ">3 л.</physdesc>
+<note label="Примечания: "><p>60х88 см</p></note>
+<note label="Тип документа: "><p>печатный</p></note>
+<note label="География: "><p>Красное море ; Аравия ; Египет</p></note>
+<container type="microfilm">1</container>
+</did></c01><c01 level="item" id="c08"><did>
+<unittitle label="Название: ">Карта побережий Красного моря: Египет, Аравия, Сирия.</unittitle>
+<unitid label="Номер дела: ">фонд 444, опись 1, дело 9</unitid>
+<container type="djvufolder">009</container>
+<unitdate calendar="julian" era="ce" label="Даты: " normal="179-">конец XVIII в.</unitdate>
+<langmaterial label="Языки: "><language>французский</language> ; <language>арабский</language></langmaterial>
+<physdesc label="Объем: ">1 л.</physdesc>
+<note label="Примечания: "><p>63х131 см ; в красках</p></note>
+<note label="Тип документа: "><p>рукописный</p></note>
+<note label="География: "><p>Красное море ; Египет ; Аравия ; Сирия</p></note>
+<container type="microfilm">1</container>
+</did></c01><c01 level="item" id="c09"><did>
+<unittitle label="Название: ">Карта Красного моря, побережий Сирии и Египта и острова Монбаза. Амстердам. Изд. Мортье.</unittitle>
+<unitid label="Номер дела: ">фонд 444, опись 1, дело 10</unitid>
+<container type="djvufolder">010</container>
+<unitdate calendar="julian" era="ce" label="Даты: " normal="170-">XVIII в.</unitdate>
+<langmaterial label="Языки: "><language>французский</language></langmaterial>
+<physdesc label="Объем: ">1 л.</physdesc>
+<note label="Примечания: "><p>41х52 см ; раскраска от руки</p></note>
+<note label="Тип документа: "><p>печатный</p></note>
+<note label="География: "><p>Красное море ; Сирия ; Египет ; Монбаз</p></note>
+<container type="microfilm">1</container>
+</did></c01><c01 level="item" id="c010"><did>
+<unittitle label="Название: ">Карта центральной Аравии, Неджеда, Египта и частей других государств, захваченных в 1820 г. Магометом-Али. Париж.</unittitle>
+<unitid label="Номер дела: ">фонд 444, опись 1, дело 11</unitid>
+<container type="djvufolder">011</container>
+<unitdate calendar="julian" era="ce" label="Даты: " normal="1823">1823 г.</unitdate>
+<langmaterial label="Языки: "><language>французский</language></langmaterial>
+<physdesc label="Объем: ">1 л.</physdesc>
+<note label="Примечания: "><p>43х55 см ; масштаб 1: 4374900</p></note>
+<note label="Тип документа: "><p>печатный</p></note>
+<note label="География: "><p>Аравия ; Неджед ; Египет</p></note>
+<container type="microfilm">1</container>
+</did></c01><c01 level="item" id="c011"><did>
+<unittitle label="Название: ">Карта Аравии и Красного моря. Нюрнберг. Изд. Рейхарда.</unittitle>
+<unitid label="Номер дела: ">фонд 444, опись 1, дело 12</unitid>
+<container type="djvufolder">012</container>
+<unitdate calendar="julian" era="ce" label="Даты: " normal="1829">1829 г.</unitdate>
+<langmaterial label="Языки: "><language>латинский</language></langmaterial>
+<physdesc label="Объем: ">1 л.</physdesc>
+<note label="Примечания: "><p>45х56 см ; масштаб 1:100000</p></note>
+<note label="Тип документа: "><p>печатный</p></note>
+<note label="География: "><p>Аравия ; Красное море</p></note>
+<container type="microfilm">1</container>
+</did></c01><!-- <c01 level="item" id="c012"><did>
+<unittitle label="Название: ">Карта острова Джезире Гобан у реки Карун в Хузистане (Персия) с обозначением мест кочевья арабов племени чааб. Рис. прапорщик Байков. Подп. генерал-майор Чириков.</unittitle>
+<origination label="Автор: "><persname>Байков</persname></origination>
+<unitid label="Номер дела: ">фонд 444, опись 1, дело 13</unitid>
+<unitdate calendar="julian" era="ce" label="Даты: " normal="182-">20-е гг. XIX в.</unitdate>
+<langmaterial label="Языки: "><language>русский</language></langmaterial>
+<physdesc label="Объем: ">1 л.</physdesc>
+<note label="Примечания: "><p>66х99 см ; в красках</p></note>
+<note label="Тип документа: "><p>рукописный</p></note>
+<note label="География: "><p>Джезире Гобан ; Карун ; Хузистан ; Персия</p></note>
+<container type="microfilm"/>
+**передано в ф. 446 под № 364**
+</did></c01> --><!-- <c01 level="item" id="c013"><did>
+<unittitle label="Название: ">Карта каменистой части Аравии. Сост. Лаборд в 1828 г. Париж. Изд. .Жиарда.</unittitle>
+<origination label="Автор: "><persname>Лаборд</persname></origination>
+<unitid label="Номер дела: ">фонд 444, опись 1, дело 14</unitid>
+<unitdate calendar="julian" era="ce" label="Даты: " normal="1834">1834 г.</unitdate>
+<langmaterial label="Языки: "><language>французский</language></langmaterial>
+<note label="Примечания: "><p>66х90 см ; масштаб 1:500000</p></note>
+<note label="Тип документа: "><p>печатный</p></note>
+<note label="География: "><p>Аравия</p></note>
+<container type="microfilm"/>
+**дублетный экземпляр дела № 15**
+</did></c01> --><c01 level="item" id="c014"><did>
+<unittitle label="Название: ">Карта каменистой части Аравии. Сост. Лаборд в 1828 г. Париж. Изд. Жиарда.</unittitle>
+<origination label="Автор: "><persname>Лаборд</persname></origination>
+<unitid label="Номер дела: ">фонд 444, опись 1, дело 15</unitid>
+<container type="djvufolder">013</container>
+<unitdate calendar="julian" era="ce" label="Даты: " normal="1834">1834 г.</unitdate>
+<langmaterial label="Языки: "><language>французский</language></langmaterial>
+<physdesc label="Объем: ">1 л.</physdesc>
+<note label="Примечания: "><p>66х90 см ; масштаб 1: 500000</p></note>
+<note label="Тип документа: "><p>печатный</p></note>
+<note label="География: "><p>Аравия</p></note>
+<container type="microfilm">1</container>
+</did></c01><c01 level="item" id="c015"><did>
+<unittitle label="Название: ">Карта Аравии и Нильского бассейна. Сост. Эренберг и Реппель. Изд. Пертес.</unittitle>
+<origination label="Автор: "><persname>Эренберг</persname> ; <persname>Реппель</persname></origination>
+<unitid label="Номер дела: ">фонд 444, опись 1, дело 16</unitid>
+<container type="djvufolder">014</container>
+<unitdate calendar="julian" era="ce" label="Даты: " normal="1835">1835 г.</unitdate>
+<langmaterial label="Языки: "><language>немецкий</language></langmaterial>
+<physdesc label="Объем: ">1 л.</physdesc>
+<note label="Примечания: "><p>62х90 см ; в красках</p></note>
+<note label="Тип документа: "><p>печатный</p></note>
+<note label="География: "><p>Аравия ; Нильский бассейн</p></note>
+<container type="microfilm">1</container>
+</did></c01><c01 level="item" id="c016"><did>
+<unittitle label="Название: ">План крепости и города Алеппо (в Сирии) с обозначением укреплений.</unittitle>
+<unitid label="Номер дела: ">фонд 444, опись 1, дело 17</unitid>
+<container type="djvufolder">015</container>
+<unitdate calendar="julian" era="ce" label="Даты: " normal="183-">30-е гг. XIX в.</unitdate>
+<langmaterial label="Языки: "><language>русский</language></langmaterial>
+<physdesc label="Объем: ">1 л.</physdesc>
+<note label="Примечания: "><p>23х21 см ; в красках ; масштаб 1:42000</p></note>
+<note label="Тип документа: "><p>рукописный</p></note>
+<note label="География: "><p>Алеппо ; Сирия</p></note>
+<container type="microfilm">1</container>
+</did></c01><c01 level="item" id="c017"><did>
+<unittitle label="Название: ">План города Бейрута и его окрестностей (в Сирии). Лондон. Изд. Вильда.</unittitle>
+<unitid label="Номер дела: ">фонд 444, опись 1, дело 18</unitid>
+<container type="djvufolder">016</container>
+<unitdate calendar="julian" era="ce" label="Даты: " normal="1840">1840 г.</unitdate>
+<langmaterial label="Языки: "><language>английский</language></langmaterial>
+<physdesc label="Объем: ">1 л.</physdesc>
+<note label="Примечания: "><p>22х27 см</p></note>
+<note label="Тип документа: "><p>печатный</p></note>
+<note label="География: "><p>Бейрут ; Сирия</p></note>
+<container type="microfilm">1</container>
+</did></c01><c01 level="item" id="c018"><did>
+<unittitle label="Название: ">Карта части Аравийской и Нубийской пустынь в Египте, населенных арабами. Сост. Бельфонд в 1831-1832 гг. Париж. Изд. Военного Депо.</unittitle>
+<origination label="Автор: "><persname>Бельфонд</persname></origination>
+<unitid label="Номер дела: ">фонд 444, опись 1, дело 19</unitid>
+<container type="djvufolder">017</container>
+<unitdate calendar="julian" era="ce" label="Даты: " normal="1854">1854 г.</unitdate>
+<langmaterial label="Языки: "><language>французский</language></langmaterial>
+<physdesc label="Объем: ">1 л.</physdesc>
+<note label="Примечания: "><p>60х56 см ; рельеф в штрихах ; масштаб 1:1250000</p></note>
+<note label="Тип документа: "><p>печатный</p></note>
+<note label="География: "><p>Аравийская пустыня ; Нубийская пустыня ; Египет</p></note>
+<container type="microfilm">1</container>
+</did></c01><c01 level="item" id="c019"><did>
+<unittitle label="Название: ">Карта Аравии, Палестины и части Египта. Сост. Пальмер. Лондон. Изд. Стенфорд.</unittitle>
+<origination label="Автор: "><persname>Пальмер</persname></origination>
+<unitid label="Номер дела: ">фонд 444, опись 1, дело 20</unitid>
+<container type="djvufolder">018</container>
+<unitdate calendar="julian" era="ce" label="Даты: " normal="1854">1854 г.</unitdate>
+<langmaterial label="Языки: "><language>английский</language></langmaterial>
+<physdesc label="Объем: ">1 л.</physdesc>
+<note label="Примечания: "><p>95х190 см ; в красках ; рельеф в штрихах</p></note>
+<note label="Тип документа: "><p>печатный</p></note>
+<note label="География: "><p>Аравия ; Палестина ; Египет</p></note>
+<container type="microfilm">1</container>
+</did></c01><c01 level="item" id="c020"><did>
+<unittitle label="Название: ">Карта части Сирии с обозначением железной дороги, связывающей Медину и Мекку.</unittitle>
+<unitid label="Номер дела: ">фонд 444, опись 1, дело 21</unitid>
+<container type="djvufolder">019</container>
+<unitdate calendar="julian" era="ce" label="Даты: " normal="180-">XIX в.</unitdate>
+<langmaterial label="Языки: "><language>русский</language></langmaterial>
+<physdesc label="Объем: ">1 л.</physdesc>
+<note label="Примечания: "><p>19,5х11 см ; в красках ; рельеф отмывкой</p></note>
+<note label="Тип документа: "><p>рукописный</p></note>
+<note label="География: "><p>Сирия ; Медина ; Мекка</p></note>
+<container type="microfilm">1</container>
+</did></c01><c01 level="item" id="c021"><did>
+<unittitle label="Название: ">Переписка Министерства иностранных дел с Главным штабом о постройке Бейрутско-Дамасской железной дороги в Сирии франко-турецкой компанией и о значении этой дороги для торговли.</unittitle>
+<unitid label="Номер дела: ">фонд 444, опись 1, дело 22</unitid>
+<container type="djvufolder">020</container>
+<unitdate calendar="julian" era="ce" label="Даты: " normal="1900-05-15/1902-08-03">15 мая 1900 г. - 3 августа 1902 г.</unitdate>
+<langmaterial label="Языки: "><language>русский</language></langmaterial>
+<physdesc label="Объем: ">15 л.</physdesc>
+<note label="Тип документа: "><p>рукописный ; машинописный</p></note>
+<note label="География: "><p>Сирия</p></note>
+<container type="microfilm">1</container>
+</did></c01><c01 level="item" id="c022"><did>
+<unittitle label="Название: ">Донесения военного агента в Турции подполковника Алексеева в Главный штаб о восстании в Аравии против турецкого владычества.</unittitle>
+<origination label="Автор: "><persname>Алексеев</persname></origination>
+<unitid label="Номер дела: ">фонд 444, опись 1, дело 23</unitid>
+<container type="djvufolder">021</container>
+<unitdate calendar="julian" era="ce" label="Даты: " normal="1901-04-08/1906-01-14">8 апреля 1901 г. - 14 января 1906 г.</unitdate>
+<langmaterial label="Языки: "><language>русский</language></langmaterial>
+<physdesc label="Объем: ">141 + I л.</physdesc>
+<note label="Тип документа: "><p>рукописный ; машинописный</p></note>
+<note label="География: "><p>Турция ; Аравия</p></note>
+<container type="microfilm">1</container>
+</did></c01><c01 level="item" id="c023"><did>
+<unittitle label="Название: ">Карта Сирии. Сост. Марьет. Париж.</unittitle>
+<origination label="Автор: "><persname>Марьет</persname></origination>
+<unitid label="Номер дела: ">фонд 444, опись 1, дело 24</unitid>
+<container type="djvufolder">022</container>
+<unitdate calendar="julian" era="ce" label="Даты: " normal="1651">1651 г.</unitdate>
+<langmaterial label="Языки: "><language>латинский</language></langmaterial>
+<physdesc label="Объем: ">1 л.</physdesc>
+<note label="Примечания: "><p>53х40 см ; рельеф перспективно ; масштаб 1:900000</p></note>
+<note label="Тип документа: "><p>печатный</p></note>
+<note label="География: "><p>Сирия</p></note>
+<container type="microfilm">1</container>
+</did></c01><c01 level="item" id="c024"><did>
+<unittitle label="Название: ">Карта Сирии, Аравии и части Персии. Сост. Гийом де Лисль. Париж.</unittitle>
+<origination label="Автор: "><persname>Гийом де Лисль</persname></origination>
+<unitid label="Номер дела: ">фонд 444, опись 1, дело 25</unitid>
+<container type="djvufolder">023</container>
+<unitdate calendar="julian" era="ce" label="Даты: " normal="1764">1764 г.</unitdate>
+<langmaterial label="Языки: "><language>латинский</language></langmaterial>
+<physdesc label="Объем: ">1 л.</physdesc>
+<note label="Примечания: "><p>61х41 см ; в красках ; рельеф перспективно ; масштаб 1:150000</p></note>
+<note label="Тип документа: "><p>печатный</p></note>
+<note label="География: "><p>Сирия ; Аравия ; Персия</p></note>
+<container type="microfilm">1</container>
+</did></c01><c01 level="item" id="c025"><did>
+<unittitle label="Название: ">Карта Сирии, Палестины и острова Кипр. Сост. Гийом де Лисль. Изд. Жозеф де Лисль.</unittitle>
+<origination label="Автор: "><persname>Гийом де Лисль</persname></origination>
+<unitid label="Номер дела: ">фонд 444, опись 1, дело 26</unitid>
+<container type="djvufolder">024</container>
+<unitdate calendar="julian" era="ce" label="Даты: " normal="1764">1764 г.</unitdate>
+<langmaterial label="Языки: "><language>французский</language></langmaterial>
+<physdesc label="Объем: ">1 л.</physdesc>
+<note label="Примечания: "><p>50х36 см ; в красках ; рельеф перспективно ; масштаб 1: 2350000</p></note>
+<note label="Тип документа: "><p>печатный</p></note>
+<note label="География: "><p>Сирия ; Палестина ; Кипр</p></note>
+<container type="microfilm">1</container>
+</did></c01><c01 level="item" id="c026"><did>
+<unittitle label="Название: ">Карта Сирии, Палестины и острова Кипр. Сост. Гийом де Лисль. Париж. Изд. Жозеф де Лисль.</unittitle>
+<origination label="Автор: "><persname>Гийом де Лисль</persname></origination>
+<unitid label="Номер дела: ">фонд 444, опись 1, дело 27</unitid>
+<container type="djvufolder">025</container>
+<unitdate calendar="julian" era="ce" label="Даты: " normal="1764">1764 г.</unitdate>
+<langmaterial label="Языки: "><language>французский</language></langmaterial>
+<physdesc label="Объем: ">1 л.</physdesc>
+<note label="Примечания: "><p>50х36 см ; в красках ; рельеф перспективно ; масштаб 1:2350000</p></note>
+<note label="Тип документа: "><p>печатный</p></note>
+<note label="География: "><p>Сирия ; Палестина ; Кипр</p></note>
+<container type="microfilm">1</container>
+</did></c01><c01 level="item" id="c027"><did>
+<unittitle label="Название: ">Карта части Месопотамии и Аравии. Сост. П. Делизль. Париж. Изд. Латтре.</unittitle>
+<origination label="Автор: "><persname>Делизль П.</persname></origination>
+<unitid label="Номер дела: ">фонд 444, опись 1, дело 28</unitid>
+<container type="djvufolder">026</container>
+<unitdate calendar="julian" era="ce" label="Даты: " normal="1766">1766 г.</unitdate>
+<langmaterial label="Языки: "><language>французский</language></langmaterial>
+<physdesc label="Объем: ">1 л.</physdesc>
+<note label="Примечания: "><p>43х56 см ; в красках ; рельеф перспективно ; масштаб 1: 336000</p></note>
+<note label="Тип документа: "><p>печатный</p></note>
+<note label="География: "><p>Месопотамия ; Аравия</p></note>
+<container type="microfilm">1</container>
+</did></c01><c01 level="item" id="c028"><did>
+<unittitle label="Название: ">Карта местности между реками Тигром и Ефратом. Сост. Данвиль.</unittitle>
+<origination label="Автор: "><persname>Данвиль</persname></origination>
+<unitid label="Номер дела: ">фонд 444, опись 1, дело 29</unitid>
+<container type="djvufolder">027</container>
+<unitdate calendar="julian" era="ce" label="Даты: " normal="1779">1779 г.</unitdate>
+<langmaterial label="Языки: "><language>французский</language></langmaterial>
+<physdesc label="Объем: ">1 л.</physdesc>
+<note label="Примечания: "><p>53х42 см ; раскраска от руки ; рельеф перспективно ; масштаб 1:2100000</p></note>
+<note label="Тип документа: "><p>печатный</p></note>
+<note label="География: "><p>Тигр ; Евфрат</p></note>
+<container type="microfilm">1</container>
+</did></c01><c01 level="item" id="c029"><did>
+<unittitle label="Название: ">Карта Красного моря. Сост. Вуссин. Изд. Шрамбл.</unittitle>
+<origination label="Автор: "><persname>Вуссин</persname></origination>
+<unitid label="Номер дела: ">фонд 444, опись 1, дело 30</unitid>
+<container type="djvufolder">028</container>
+<unitdate calendar="julian" era="ce" label="Даты: " normal="1787">1787 г.</unitdate>
+<langmaterial label="Языки: "><language>немецкий</language></langmaterial>
+<physdesc label="Объем: ">1 л.</physdesc>
+<note label="Примечания: "><p>64х47 см ; раскраска от руки</p></note>
+<note label="Тип документа: "><p>печатный</p></note>
+<note label="География: "><p>Красное море</p></note>
+<container type="microfilm">1</container>
+</did></c01><!-- <c01 level="item" id="c030"><did>
+<unittitle label="Название: ">Физическая и политическая карта Сирии (к истории завоеваний Бонапарта на Востоке). Сост. Польтре. Париж. Изд. Лапи и Пике.</unittitle>
+<origination label="Автор: "><persname>Польтре</persname></origination>
+<unitid label="Номер дела: ">фонд 444, опись 1, дело 31</unitid>
+<unitdate calendar="julian" era="ce" label="Даты: " normal="1805">1805 г.</unitdate>
+<langmaterial label="Языки: "><language>французский</language></langmaterial>
+<physdesc label="Объем: ">1 л.</physdesc>
+<note label="Примечания: "><p>77х53 см ; в красках ; рельеф в штрихах ; масштаб 1:1780000</p></note>
+<note label="Тип документа: "><p>печатный</p></note>
+<note label="География: "><p>Сирия</p></note>
+<container type="microfilm"/>
+**дублетный экземпляр дела № 32**
+</did></c01> --><c01 level="item" id="c031"><did>
+<unittitle label="Название: ">Физическая и политическая карта Сирии (к истории завоеваний Бонапарта на Востоке). Сост. Польтре. Париж. Изд. Лапи и Пике.</unittitle>
+<origination label="Автор: "><persname>Польтре</persname></origination>
+<unitid label="Номер дела: ">фонд 444, опись 1, дело 32</unitid>
+<container type="djvufolder">029</container>
+<unitdate calendar="julian" era="ce" label="Даты: " normal="1805">1805 г.</unitdate>
+<langmaterial label="Языки: "><language>французский</language></langmaterial>
+<physdesc label="Объем: ">1 л.</physdesc>
+<note label="Примечания: "><p>77х53 см ; в красках ; рельеф в штрихах ; масштаб 1: 1780000</p></note>
+<note label="Тип документа: "><p>печатный</p></note>
+<note label="География: "><p>Сирия</p></note>
+<container type="microfilm">1</container>
+</did></c01><c01 level="item" id="c032"><did>
+<unittitle label="Название: ">Описание маршрута от г. Багдада до г. Гамадана (Персия).</unittitle>
+<unitid label="Номер дела: ">фонд 444, опись 1, дело 33</unitid>
+<container type="djvufolder">030</container>
+<unitdate calendar="julian" era="ce" label="Даты: " normal="1807">1807 г.</unitdate>
+<langmaterial label="Языки: "><language>французский</language></langmaterial>
+<physdesc label="Объем: ">20 л.</physdesc>
+<note label="Тип документа: "><p>рукописный</p></note>
+<note label="География: "><p>Багдад ; Гамадан ; Персия</p></note>
+<container type="microfilm">1</container>
+</did></c01><c01 level="item" id="c033"><did>
+<unittitle label="Название: ">Маршрутная карта от г. Гамадана через г. Исфаган до г. Иезд.</unittitle>
+<unitid label="Номер дела: ">фонд 444, опись 1, дело 34</unitid>
+<container type="djvufolder">031</container>
+<unitdate calendar="julian" era="ce" label="Даты: " normal="1808">1808 г.</unitdate>
+<langmaterial label="Языки: "><language>французский</language></langmaterial>
+<physdesc label="Объем: ">1 л.</physdesc>
+<note label="Примечания: "><p>100х61 см ; в красках</p></note>
+<note label="Тип документа: "><p>рукописный</p></note>
+<note label="География: "><p>Гамадан ; Исфаган ; Иезд</p></note>
+<container type="microfilm">1</container>
+</did></c01><c01 level="item" id="c034"><did>
+<unittitle label="Название: ">План г. Басра.</unittitle>
+<unitid label="Номер дела: ">фонд 444, опись 1, дело 35</unitid>
+<container type="djvufolder">032</container>
+<unitdate calendar="julian" era="ce" label="Даты: " normal="180-">начало XIX в.</unitdate>
+<langmaterial label="Языки: "><language>немецкий</language></langmaterial>
+<physdesc label="Объем: ">1 л.</physdesc>
+<note label="Примечания: "><p>21х16 см</p></note>
+<note label="Тип документа: "><p>печатный</p></note>
+<note label="География: "><p>Басра</p></note>
+<container type="microfilm">1</container>
+</did></c01><c01 level="item" id="c035"><did>
+<unittitle label="Название: ">План г. Багдада.</unittitle>
+<unitid label="Номер дела: ">фонд 444, опись 1, дело 36</unitid>
+<container type="djvufolder">033</container>
+<unitdate calendar="julian" era="ce" label="Даты: " normal="180-">начало XIX в.</unitdate>
+<langmaterial label="Языки: "><language>немецкий</language></langmaterial>
+<physdesc label="Объем: ">1 л.</physdesc>
+<note label="Примечания: "><p>29х19 см ; рельеф в штрихах ; масштаб 1:70000</p></note>
+<note label="Тип документа: "><p>печатный</p></note>
+<note label="География: "><p>Багдад</p></note>
+<container type="microfilm">1</container>
+</did></c01><!-- <c01 level="item" id="c036"><did>
+<unittitle label="Название: ">Карта части Месопотамии и окрестностей г. Багдада. Сост. французский генеральный консул И.Л. Руссо.</unittitle>
+<origination label="Автор: "><persname>Руссо И.Л.</persname></origination>
+<unitid label="Номер дела: ">фонд 444, опись 1, дело 37</unitid>
+<unitdate calendar="julian" era="ce" label="Даты: " normal="180-">начало XIX в.</unitdate>
+<langmaterial label="Языки: "><language>французский</language></langmaterial>
+<physdesc label="Объем: ">1 л.</physdesc>
+<note label="Примечания: "><p>29х15 см рельеф в штрихах ; масштаб 1: 70000</p></note>
+<note label="Тип документа: "><p>рукописный</p></note>
+<note label="География: "><p>Багдад ; Месопотамия</p></note>
+<container type="microfilm"/>**дело в плохом физическом состоянии**</did></c01> --><c01 level="item" id="c037"><did>
+<unittitle label="Название: ">Описание маршрута из г. Алеппо (Халеб) в г. Багдад.</unittitle>
+<unitid label="Номер дела: ">фонд 444, опись 1, дело 38</unitid>
+<container type="djvufolder">034</container>
+<unitdate calendar="julian" era="ce" label="Даты: " normal="1811">1811 г.</unitdate>
+<langmaterial label="Языки: "><language>французский</language></langmaterial>
+<physdesc label="Объем: ">1 л.</physdesc>
+<note label="Тип документа: "><p>рукописный</p></note>
+<note label="География: "><p>Алеппо ; Халеб ; Багдад</p></note>
+<container type="microfilm">1</container>
+</did></c01><c01 level="item" id="c038"><did>
+<unittitle label="Название: ">Описание маршрута из г. Алеппо (Халеб) через г. Ван в г. Тавриз (Персия).</unittitle>
+<unitid label="Номер дела: ">фонд 444, опись 1, дело 39</unitid>
+<container type="djvufolder">035</container>
+<unitdate calendar="julian" era="ce" label="Даты: " normal="1811">1811 г.</unitdate>
+<langmaterial label="Языки: "><language>французский</language></langmaterial>
+<physdesc label="Объем: ">2 л.</physdesc>
+<note label="Тип документа: "><p>рукописный</p></note>
+<note label="География: "><p>Алеппо ; Халеб ; Ван ; Тавриз ; Персия</p></note>
+<container type="microfilm">1</container>
+</did></c01><c01 level="item" id="c039"><did>
+<unittitle label="Название: ">Описание маршрута из г. Алеппо (Халеб) в г. Исфаган (Испаган).</unittitle>
+<unitid label="Номер дела: ">фонд 444, опись 1, дело 40</unitid>
+<container type="djvufolder">036</container>
+<unitdate calendar="julian" era="ce" label="Даты: " normal="1811">1811 г.</unitdate>
+<langmaterial label="Языки: "><language>французский</language></langmaterial>
+<physdesc label="Объем: ">1</physdesc>
+<note label="Тип документа: "><p>рукописный</p></note>
+<note label="География: "><p>Алеппо ; Халеб ; Исфаган (Испаган)</p></note>
+<note label="Illustrations: "><p>1 л.</p></note>
+<container type="microfilm">1</container>
+</did></c01><c01 level="item" id="c040"><did>
+<unittitle label="Название: ">Маршрутная карта от г. Алеппо (Халеб) до г. Багдада.</unittitle>
+<unitid label="Номер дела: ">фонд 444, опись 1, дело 41</unitid>
+<container type="djvufolder">037</container>
+<unitdate calendar="julian" era="ce" label="Даты: " normal="1811">1811 г.</unitdate>
+<langmaterial label="Языки: "><language>французский</language></langmaterial>
+<physdesc label="Объем: ">1 л.</physdesc>
+<note label="Примечания: "><p>40х26 см ; в красках ; рельеф отмывкой ; масштаб 1:800000</p></note>
+<note label="Тип документа: "><p>рукописный</p></note>
+<note label="География: "><p>Алеппо ; Халеб ; Багдад</p></note>
+<container type="microfilm">1</container>
+</did></c01><!-- <c01 level="item" id="c041"><did>
+<unittitle label="Название: ">Маршрутные карты от г. Алеппо (Халеб) в г. Багдад и Тегеран.</unittitle>
+<unitid label="Номер дела: ">фонд 444, опись 1, дело 42</unitid>
+<unitdate calendar="julian" era="ce" label="Даты: " normal="1811">1811 г.</unitdate>
+<langmaterial label="Языки: "><language>французский</language></langmaterial>
+<physdesc label="Объем: ">15 л.</physdesc>
+<note label="Примечания: "><p>95х27 см ; в красках ; рельеф в штрихах ; масштаб 1:200000</p></note>
+<note label="Тип документа: "><p>рукописный</p></note>
+<note label="География: "><p>Алеппо ; Халеб ; Багдад ; Тегеран</p></note>
+<container type="microfilm"/>
+**дело в плохом физическом состоянии**
+</did></c01> --><c01 level="item" id="c042"><did>
+<unittitle label="Название: ">Описание караванного пути из Марокко в Мекку.</unittitle>
+<unitid label="Номер дела: ">фонд 444, опись 1, дело 43</unitid>
+<container type="djvufolder">038</container>
+<unitdate calendar="julian" era="ce" label="Даты: " normal="1811">1811 г.</unitdate>
+<langmaterial label="Языки: "><language>французский</language></langmaterial>
+<physdesc label="Объем: ">1 + I</physdesc>
+<note label="Тип документа: "><p>рукописный</p></note>
+<note label="География: "><p>Марокко ; Мекка</p></note>
+<container type="microfilm">1</container>
+</did></c01><c01 level="item" id="c043"><did>
+<unittitle label="Название: ">Описание маршрута из г. Пальмира (Сирия) в г. Ресаву.</unittitle>
+<unitid label="Номер дела: ">фонд 444, опись 1, дело 44</unitid>
+<container type="djvufolder">039</container>
+<unitdate calendar="julian" era="ce" label="Даты: " normal="1811">1811 г.</unitdate>
+<langmaterial label="Языки: "><language>французский</language></langmaterial>
+<physdesc label="Объем: ">1 л.</physdesc>
+<note label="Тип документа: "><p>рукописный</p></note>
+<note label="География: "><p>Пальмира ; Сирия ; Ресава</p></note>
+<container type="microfilm">1</container>
+</did></c01><c01 level="item" id="c044"><did>
+<unittitle label="Название: ">Карта Сирии. Сост. капитан Корри в 1818 г. Лондон. Изд. Ароусмит.</unittitle>
+<origination label="Автор: "><persname>Корри</persname></origination>
+<unitid label="Номер дела: ">фонд 444, опись 1, дело 45</unitid>
+<container type="djvufolder">040</container>
+<unitdate calendar="julian" era="ce" label="Даты: " normal="1823">1823 г.</unitdate>
+<langmaterial label="Языки: "><language>английский</language></langmaterial>
+<physdesc label="Объем: ">1 л.</physdesc>
+<note label="Примечания: "><p>78х133 см ; раскраска от руки ; рельеф в штрихах ; масштаб 1: 400000</p></note>
+<note label="Тип документа: "><p>печатный</p></note>
+<note label="География: "><p>Сирия</p></note>
+<container type="microfilm">1</container>
+</did></c01><!-- <c01 level="item" id="c045"><did>
+<unittitle label="Название: ">Карта Сирии. Сост. капитан Корри в 1818 г. Лондон. Изд. Ароусмит.</unittitle>
+<origination label="Автор: "><persname>Корри</persname></origination>
+<unitid label="Номер дела: ">фонд 444, опись 1, дело 46</unitid>
+<unitdate calendar="julian" era="ce" label="Даты: " normal="1823">1823 г.</unitdate>
+<langmaterial label="Языки: "><language>английский</language></langmaterial>
+<physdesc label="Объем: ">1 л.</physdesc>
+<note label="Примечания: "><p>78х133 см ; раскраска от руки ; рельеф в штрихах ; масштаб 1:400000</p></note>
+<note label="Тип документа: "><p>печатный</p></note>
+<note label="География: "><p>Сирия</p></note>
+<container type="microfilm"/>
+**дублетный экземпляр дела № 45**
+</did></c01> --><c01 level="item" id="c046"><did>
+<unittitle label="Название: ">Маршрутная карта по Сирии: от Сура до Триполи, до Алеппо и до залива Александретта (неполная).</unittitle>
+<unitid label="Номер дела: ">фонд 444, опись 1, дело 47</unitid>
+<container type="djvufolder">041</container>
+<unitdate calendar="julian" era="ce" label="Даты: " normal="182-">20-е гг. XIX в.</unitdate>
+<langmaterial label="Языки: "><language>русский</language></langmaterial>
+<physdesc label="Объем: ">18 л.</physdesc>
+<note label="Примечания: "><p>58х11,5 см ; в красках</p></note>
+<note label="Тип документа: "><p>рукописный</p></note>
+<note label="География: "><p>Сирия ; Сур ; Триполи ; Алеппо ; Александретта, залив</p></note>
+<container type="microfilm">1</container>
+</did></c01><c01 level="item" id="c047"><did>
+<unittitle label="Название: ">Дорожная карта Сирии от г. Бельбеса до г. Антиохии.</unittitle>
+<unitid label="Номер дела: ">фонд 444, опись 1, дело 48</unitid>
+<container type="djvufolder">042</container>
+<unitdate calendar="julian" era="ce" label="Даты: " normal="1830">1830 г.</unitdate>
+<langmaterial label="Языки: "><language>французский</language></langmaterial>
+<physdesc label="Объем: ">2 л.</physdesc>
+<note label="Примечания: "><p>56х34 см ; в красках ; на кальке ; рельеф отмывкой ; масштаб 1:12500</p></note>
+<note label="Тип документа: "><p>рукописный</p></note>
+<note label="География: "><p>Сирия ; Бельбес ; Антиохия</p></note>
+<container type="microfilm">1</container>
+</did></c01><c01 level="item" id="c048"><did>
+<unittitle label="Название: ">Карта Сирии. Сост. Ароусмит. Дополнена полковником Львовым.</unittitle>
+<origination label="Автор: "><persname>Ароусмит</persname> ; <persname>Львов</persname></origination>
+<unitid label="Номер дела: ">фонд 444, опись 1, дело 49</unitid>
+<container type="djvufolder">043</container>
+<unitdate calendar="julian" era="ce" label="Даты: " normal="1834/1835">1834 - 1835 гг.</unitdate>
+<langmaterial label="Языки: "><language>русский</language></langmaterial>
+<physdesc label="Объем: ">1 л.</physdesc>
+<note label="Примечания: "><p>72х45 см 8 рельеф в штрихах ; масштаб 1:840000</p></note>
+<note label="Тип документа: "><p>рукописный</p></note>
+<note label="География: "><p>Сирия</p></note>
+<container type="microfilm">2</container>
+</did></c01><!-- <c01 level="item" id="c049"><did>
+<unittitle label="Название: ">Карта Сирии. Сост. Ароусмит. Дополнена полковником Львовым.</unittitle>
+<origination label="Автор: "><persname>Ароусмит</persname> ; <persname>Львов</persname></origination>
+<unitid label="Номер дела: ">фонд 444, опись 1, дело 50</unitid>
+<unitdate calendar="julian" era="ce" label="Даты: " normal="1834/1835">1834 - 1835 гг.</unitdate>
+<langmaterial label="Языки: "><language>русский</language></langmaterial>
+<physdesc label="Объем: ">1 л.</physdesc>
+<note label="Примечания: "><p>72х45 см ; рельеф в штрихах ; масштаб 1: 840000</p></note>
+<note label="Тип документа: "><p>печатный</p></note>
+<note label="География: "><p>Сирия</p></note>
+<container type="microfilm"/>
+**дублетный экземпляр дела № 49**
+</did></c01> --><c01 level="item" id="c050"><did>
+<unittitle label="Название: ">Топографическое и этнографическое описание Сирии: сведения о торговле и административном делении страны. Часть 1-я.</unittitle>
+<unitid label="Номер дела: ">фонд 444, опись 1, дело 51</unitid>
+<container type="djvufolder">044</container>
+<unitdate calendar="julian" era="ce" label="Даты: " normal="1834">1834 г.</unitdate>
+<langmaterial label="Языки: "><language>русский</language></langmaterial>
+<physdesc label="Объем: ">173 л.</physdesc>
+<note label="Тип документа: "><p>рукописный</p></note>
+<note label="География: "><p>Сирия</p></note>
+<container type="microfilm">2</container>
+</did></c01><c01 level="item" id="c051"><did>
+<unittitle label="Название: ">Карта Сирии. Сост. Бергхауз. Дополнительно виды городов Сирии и карта Аравии.</unittitle>
+<origination label="Автор: "><persname>Бергхауз</persname></origination>
+<unitid label="Номер дела: ">фонд 444, опись 1, дело 52</unitid>
+<container type="djvufolder">045</container>
+<unitdate calendar="julian" era="ce" label="Даты: " normal="1835">1835 г.</unitdate>
+<langmaterial label="Языки: "><language>немецкий</language></langmaterial>
+<physdesc label="Объем: ">1 л.</physdesc>
+<note label="Примечания: "><p>59х85 см ; в красках ; рельеф в штрихах ; масштаб 1:630000</p></note>
+<note label="Тип документа: "><p>печатный</p></note>
+<note label="География: "><p>Сирия ; Аравия</p></note>
+<container type="microfilm">2</container>
+</did></c01><c01 level="item" id="c052"><did>
+<unittitle label="Название: ">Географические заметки к карте Сирии (Атлас Бергхауза). Изд. Пертес. Дополнительно историко-географическое описание Аравии.</unittitle>
+<origination label="Автор: "><persname>Бергхауз</persname></origination>
+<unitid label="Номер дела: ">фонд 444, опись 1, дело 53</unitid>
+<container type="djvufolder">046</container>
+<unitdate calendar="julian" era="ce" label="Даты: " normal="1835">1835 г.</unitdate>
+<langmaterial label="Языки: "><language>немецкий</language></langmaterial>
+<physdesc label="Объем: ">96 л.</physdesc>
+<note label="Тип документа: "><p>печатный</p></note>
+<note label="География: "><p>Сирия ; Аравия</p></note>
+<container type="microfilm">2</container>
+</did></c01><!-- <c01 level="item" id="c053"><did>
+<unittitle label="Название: ">Географические заметки к карте Сирии (Атлас Бергхауза). Изд. Пертес. Дополнительно историко-географическое описание Аравии.</unittitle>
+<origination label="Автор: "><persname>Бергхауз</persname></origination>
+<unitid label="Номер дела: ">фонд 444, опись 1, дело 54</unitid>
+<unitdate calendar="julian" era="ce" label="Даты: " normal="1835">1835 г.</unitdate>
+<langmaterial label="Языки: "><language>немецкий</language></langmaterial>
+<physdesc label="Объем: ">96 л.</physdesc>
+<note label="Тип документа: "><p>печатный</p></note>
+<note label="География: "><p>Сирия ; Аравия</p></note>
+<container type="microfilm"/>
+**дублетный экземпляр дела № 53**
+</did></c01> --><c01 level="item" id="c054"><did>
+<unittitle label="Название: ">Политические и этнографические сведения о Сирии. Сост. капитан Дайнез.</unittitle>
+<origination label="Автор: "><persname>Дайнез</persname></origination>
+<unitid label="Номер дела: ">фонд 444, опись 1, дело 55</unitid>
+<container type="djvufolder">047</container>
+<unitdate calendar="julian" era="ce" label="Даты: " normal="1838">1838 г.</unitdate>
+<langmaterial label="Языки: "><language>французский</language></langmaterial>
+<physdesc label="Объем: ">23 + I л.</physdesc>
+<note label="Тип документа: "><p>рукописный</p></note>
+<note label="География: "><p>Сирия</p></note>
+<container type="microfilm">2</container>
+</did></c01><c01 level="item" id="c055"><did>
+<unittitle label="Название: ">Карта Аравии (к учебнику географии Риттера). Сост. Циммерман. Берлин. Изд. Реймер.</unittitle>
+<origination label="Автор: "><persname>Циммерман</persname></origination>
+<unitid label="Номер дела: ">фонд 444, опись 1, дело 56</unitid>
+<container type="djvufolder">048</container>
+<unitdate calendar="julian" era="ce" label="Даты: " normal="1847">1847 г.</unitdate>
+<langmaterial label="Языки: "><language>немецкий</language></langmaterial>
+<physdesc label="Объем: ">7 + I л.</physdesc>
+<note label="Тип документа: "><p>печатный</p></note>
+<note label="География: "><p>Аравия</p></note>
+<container type="microfilm">2</container>
+</did></c01><!-- <c01 level="item" id="c056"><did>
+<unittitle label="Название: ">Карта Аравии (к учебнику географии Риттера). Сост. Циммерман. Берлин. Изд. Реймер.</unittitle>
+<origination label="Автор: "><persname>Циммерман</persname></origination>
+<unitid label="Номер дела: ">фонд 444, опись 1, дело 57</unitid>
+<unitdate calendar="julian" era="ce" label="Даты: " normal="1847">1847 г.</unitdate>
+<langmaterial label="Языки: "><language>немецкий</language></langmaterial>
+<physdesc label="Объем: ">7 + I л.</physdesc>
+<note label="Примечания: "><p>43х50 см ; в красках ; рельеф в штрихах ; масштаб 1:4000000</p></note>
+<note label="Тип документа: "><p>печатный</p></note>
+<note label="География: "><p>Аравия</p></note>
+<container type="microfilm"/>
+**не снималось**
+</did></c01> --><c01 level="item" id="c057"><did>
+<unittitle label="Название: ">Карта народонаселения Ливана по вероисповеданиям.</unittitle>
+<unitid label="Номер дела: ">фонд 444, опись 1, дело 58</unitid>
+<container type="djvufolder">049</container>
+<unitdate calendar="julian" era="ce" label="Даты: " normal="185-">середина XIX в.</unitdate>
+<langmaterial label="Языки: "><language>французский</language></langmaterial>
+<physdesc label="Объем: ">2 л.</physdesc>
+<note label="Примечания: "><p>84х64 см ; в красках ; рельеф в штрихах ; масштаб 1:300000</p></note>
+<note label="Тип документа: "><p>рукописный</p></note>
+<note label="География: "><p>Ливан</p></note>
+<container type="microfilm">2</container>
+</did></c01><!-- <c01 level="item" id="c058"><did>
+<unittitle label="Название: ">Маршрутные карты Сирии. Глазомерная съемка.</unittitle>
+<unitid label="Номер дела: ">фонд 444, опись 1, дело 59</unitid>
+<unitdate calendar="julian" era="ce" label="Даты: " normal="185-">середина XIX в.</unitdate>
+<langmaterial label="Языки: "><language>русский</language></langmaterial>
+<physdesc label="Объем: ">23 л.</physdesc>
+<note label="Примечания: "><p>70х10 см ; в красках ; рельеф в штрихах</p></note>
+<note label="Тип документа: "><p>рукописный</p></note>
+<note label="География: "><p>Сирия</p></note>
+<container type="microfilm"/>
+**дело в плохом физическом состоянии**
+</did></c01> --><c01 level="item" id="c059"><did>
+<unittitle label="Название: ">Планы гг. Моссула, Самсуна и Амассераха. Сост. Мольдтке. Берлин. Изд. Симон Шропп.</unittitle>
+<origination label="Автор: "><persname>Мольдтке</persname></origination>
+<unitid label="Номер дела: ">фонд 444, опись 1, дело 60</unitid>
+<container type="djvufolder">050</container>
+<unitdate calendar="julian" era="ce" label="Даты: " normal="185-">середина XIX в.</unitdate>
+<langmaterial label="Языки: "><language>немецкий</language></langmaterial>
+<physdesc label="Объем: ">4 л.</physdesc>
+<note label="Примечания: "><p>23х20 см ; масштаб 1:13860</p></note>
+<note label="Тип документа: "><p>печатный</p></note>
+<note label="География: "><p>Моссул ; Самсун ; Амассерах</p></note>
+<container type="microfilm">2</container>
+</did></c01><c01 level="item" id="c060"><did>
+<unittitle label="Название: ">Донесения русского военного агента в Константинополе подполковника Калнина о постройке Багдадской железной дороги.</unittitle>
+<origination label="Автор: "><persname>Калнин</persname></origination>
+<unitid label="Номер дела: ">фонд 444, опись 1, дело 61</unitid>
+<container type="djvufolder">051</container>
+<unitdate calendar="julian" era="ce" label="Даты: " normal="1899/1905">1899 - 1905 гг.</unitdate>
+<langmaterial label="Языки: "><language>русский</language></langmaterial>
+<physdesc label="Объем: ">184 + I л.</physdesc>
+<note label="Тип документа: "><p>рукописный</p></note>
+<note label="География: "><p>Багдадская железная дорого</p></note>
+<container type="microfilm">2</container>
+</did></c01><c01 level="item" id="c061"><did>
+<unittitle label="Название: ">Донесения русского консула в Дамаске Батюшкова о железных дорогах в Сирии и об открытии движения по Хиджаской железнодорожной линии.</unittitle>
+<origination label="Автор: "><persname>Батюшков</persname></origination>
+<unitid label="Номер дела: ">фонд 444, опись 1, дело 62</unitid>
+<container type="djvufolder">052</container>
+<unitdate calendar="julian" era="ce" label="Даты: " normal="1901/1905">1901-1905 гг.</unitdate>
+<langmaterial label="Языки: "><language>русский</language></langmaterial>
+<physdesc label="Объем: ">45 л.</physdesc>
+<note label="Тип документа: "><p>машинописный ; рукописный</p></note>
+<note label="География: "><p>Сирия ; Пакистан ; Хиджакская железная дорога</p></note>
+<note label="Illustrations: "><p>содержит карты железных дорог в Сирии и Пакистане</p></note>
+<container type="microfilm">2-3</container>
+</did></c01><c01 level="item" id="c062"><did>
+<unittitle label="Название: ">Донесение русского вице-консула в Бейруте Шелковникова о мобилизации сирийских войск для учебных сборов в 1906-1907 гг.</unittitle>
+<origination label="Автор: "><persname>Шелковников</persname></origination>
+<unitid label="Номер дела: ">фонд 444, опись 1, дело 63</unitid>
+<container type="djvufolder">053</container>
+<unitdate calendar="julian" era="ce" label="Даты: " normal="1906/1907">1906-1907 гг.</unitdate>
+<langmaterial label="Языки: "><language>русский</language></langmaterial>
+<physdesc label="Объем: ">2 л.</physdesc>
+<container type="microfilm">3</container>
+</did></c01><c01 level="item" id="c063"><did>
+<unittitle label="Название: ">Карта Месопотамии от г. Багдада до Персидского залива. Лондон. Изд. Географического отдела Генерального штаба.</unittitle>
+<unitid label="Номер дела: ">фонд 444, опись 1, дело 64</unitid>
+<container type="djvufolder">054</container>
+<unitdate calendar="julian" era="ce" label="Даты: " normal="1915">1915 г.</unitdate>
+<langmaterial label="Языки: "><language>английский</language></langmaterial>
+<physdesc label="Объем: ">1 л.</physdesc>
+<note label="Примечания: "><p>65х62 см ; в красках ; рельеф отмывкой ; масштаб 1:1000000</p></note>
+<note label="Тип документа: "><p>печатный</p></note>
+<note label="География: "><p>Месопотамия ; Багдад ; Персидский залив</p></note>
+<container type="microfilm">3</container>
+</did></c01><c01 level="item" id="c064"><did>
+<unittitle label="Название: ">План г. Маската.</unittitle>
+<unitid label="Номер дела: ">фонд 444, опись 1, дело 65</unitid>
+<container type="djvufolder">055</container>
+<unitdate calendar="julian" era="ce" label="Даты: " normal="180-">1-я пол. XIX в.</unitdate>
+<langmaterial label="Языки: "><language>немецкий</language></langmaterial>
+<physdesc label="Объем: ">1 л.</physdesc>
+<note label="Примечания: "><p>20х15 см ; рельеф в штрихах</p></note>
+<note label="Тип документа: "><p>печатный</p></note>
+<note label="География: "><p>Маскат</p></note>
+<container type="microfilm">3</container>
+</did></c01></dsc></archdesc></ead>

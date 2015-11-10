@@ -1,0 +1,143 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "http://lcweb2.loc.gov/xmlcommon/dtds/ead2002/ead.dtd">
+<ead>
+<eadheader relatedencoding="Dublin Core" findaidstatus="edited-full-draft" langencoding="iso639-2b" scriptencoding="iso15924" audience="internal" id="a0">
+<eadid encodinganalog="Identifier" url="http://hdl.handle.net/10407/4129692858" identifier="10407/4129692858">ksrl.sc.labbeg</eadid>
+<filedesc>
+<titlestmt>
+<titleproper encodinganalog="Title">Guide to an 18th-century French Travel Diary Collection </titleproper>
+<subtitle>Voyage dans les provinces meridionales de la France, fait en 1758, par M[onsieu]r L'Abbé G … Prieur de Carrierre [i.e. Carrières?], Professeur Emerite en l'Universite de Paris. L'abbé G. France, 1758.</subtitle>
+<author encodinganalog="Creator">Finding aid prepared by am, 1961; revised by ksc, 2006</author>
+</titlestmt>
+<publicationstmt>
+<publisher encodinganalog="Publisher">University of Kansas</publisher>
+<address><addressline>1450 Poplar Lane, Lawrence, KS 66045-7616</addressline><addressline>Phone: (785)864-4334</addressline><addressline>Fax: (785)864-5803</addressline><addressline>URL: http://spencer.lib.ku.edu</addressline></address>
+<date encodinganalog="Date">2006</date>
+</publicationstmt>
+</filedesc>
+<profiledesc>
+<creation>Finding aid encoded by skt, 
+<date>2006</date>
+</creation>
+<langusage>Finding aid written in<language encodinganalog="language">English.</language></langusage>
+</profiledesc>
+</eadheader>
+
+<archdesc relatedencoding="MARC21" level="collection" type="inventory">
+<did id="a1">
+<head>COLLECTION SUMMARY</head>
+<repository label="Repository:" encodinganalog="852$a"><corpname>University of Kansas<subarea>Kenneth Spencer Research Library</subarea> <subarea>Department of Special Collections</subarea></corpname><address><addressline>1450 Poplar Lane, Lawrence, KS 66045-7616</addressline><addressline>Phone: (785)864-4334</addressline><addressline>Fax: (785)864-5803</addressline><addressline>URL: http://spencer.lib.ku.edu</addressline></address></repository>
+
+<origination label="Creator:"><persname encodinganalog="100">L'abbé, G.  </persname></origination>
+
+<unittitle label="Title:" encodinganalog="245$a">Voyage dans les provinces meridionales de la France, fait en 1758, par M[onsieu]r L'Abbé G … Prieur de Carrierre [i.e. Carrières?], Professeur Emerite en l'Universite de Paris. L'abbé G. France, 1758.</unittitle>
+
+<unitdate type="inclusive" encodinganalog="245$f" label="Dates:">1758</unitdate>
+       <langmaterial label="Language(s):"> <language>French </language>
+</langmaterial>
+<physdesc>
+<extent label="Quantity:" encodinganalog="300$a">1 volume;  </extent><extent label="Quantity:" encodinganalog="300$a"> </extent>
+
+		<dimensions>16.3 x 16.2 cm </dimensions>
+<physfacet type="Binding" encodinganalog="300$b">Binding: 18th century, calf, gilt flowers on spine. </physfacet>
+
+<physfacet type="Pagination" encodinganalog="300$b">Pagination: 387 p [22]p </physfacet>
+<physfacet type="Ornamentation" encodinganalog="300$b">Ornamentation: printed folding maps and plates bound in at: p.1, 18, 78, 81, 143, 152, 199, 217, 249, 254, 275, 289, 318, 322, 326 </physfacet>
+<physfacet type="Scribe" encodinganalog="300$b">Scribe: Author.  </physfacet>
+
+<physfacet type="Material" encodinganalog="300$b">Material: Paper.  </physfacet>
+</physdesc><abstract encodinganalog="520$a" label="Abstract:">Travel diary. </abstract>
+
+<unitid encodinganalog="099" type="call#" label="Identification:" countrycode="US" repositorycode="KFS">MS B12</unitid>
+
+</did>
+
+
+
+
+<!-- Top Level Metadata Goes Here: -->
+
+<scopecontent encodinganalog="520" id="a3">
+<head>SCOPE and CONTENTS</head>
+<p>leafs 1-387 travel diary</p>
+<p>3 leaves. blank</p>
+<p>1p.  list of addenda </p>
+<p>3p. blank</p>
+<p>9p. index of place-names</p>
+<p>1p. blank</p>
+<p>5p. list of stops for food and lodging on trip
+</p>
+</scopecontent>
+
+
+
+
+
+
+
+
+
+	<!-- Arrangement/Series Info Goes Here: -->
+
+
+	<!-- End Arrangement/Series Info -->
+
+<!-- End Top Level Metadata -->
+
+<!-- Controlled Access Terms Go Here: -->
+
+
+
+
+<!-- End Controlled Access Terms -->
+<!-- Administrative Information Goes Here: -->
+
+<accessrestrict id="a14" encodinganalog="506">
+<head>Restrictions on Access</head>
+<p>None</p>
+</accessrestrict>
+
+
+<prefercite encodinganalog="524" id="a18">
+<head>Preferred Citation</head>
+<p>18th-century French Travel Diary Collection ,  Department of Special Collections, MS B12, Kenneth Spencer Research Library, University of Kansas Libraries</p>
+</prefercite>
+
+<custodhist encodinganalog="561" id="a16">
+<head>Custodial History</head>
+<p>"From the Ashburnham collection";  Booklabel of William Le Queux; %altformavail%=; </p></custodhist>
+<acqinfo encodinganalog="541" id="a19">
+<head>Acquisition Information</head>
+<p>Seligmann, 1957</p>
+</acqinfo>
+<userestrict encodinganalog="540" id="a15">
+<head>Restrictions on Use</head>
+<p/>
+<p>Spencer Library staff may determine use restrictions dependent on the physical condition of manuscript materials.</p>
+</userestrict>
+<!-- End Administrative Information -->
+
+
+
+<!-- Start Description of Subordinate Components-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- End Description of Subordinate Components-->
+
+</archdesc>
+</ead>

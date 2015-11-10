@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="unda.xsl"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead2002.dtd">
+<ead>
+<eadheader langencoding="iso639-2b" relatedencoding="DC" scriptencoding="iso15924" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601">
+<eadid url="http://archives.nd.edu/findaids/ead/xml/frn.xml" countrycode="US" mainagencycode="InNd" encodinganalog="Identifier"> FRN </eadid>
+<filedesc>
+<titlestmt>
+<titleproper encodinganalog="Title"> Peter Franciscus Papers </titleproper>
+<subtitle> Guide </subtitle>
+<author encodinganalog="Creator">University of Notre Dame Archives </author>
+ </titlestmt>
+<publicationstmt>
+<publisher encodinganalog="Publisher"> University of Notre Dame Archives </publisher>
+<date encodinganalog="Date" normal="2005">2005 </date>
+<date encodinganalog="Date" normal="2005" era="ce" calendar="gregorian">2005 </date>
+<address>
+<addressline> Notre Dame, Indiana 46556 </addressline>
+ </address>
+ </publicationstmt>
+ </filedesc>
+<profiledesc>
+<creation>Description based on paper finding aids and inhouse database.Description based on paper finding aids and inhouse database. </creation>
+<langusage>
+<language encodinganalog="Language" langcode="eng" scriptcode="Latn"> English </language>
+ </langusage>
+ </profiledesc>
+<revisiondesc>
+<change>
+<date normal="2003-01-28" era="ce" calendar="gregorian">2003-01-28 </date>
+<item> FRN.SGM converted from EAD 1.0 to 2002 by v1to02.xsl (20030122). </item>
+ </change>
+<change>
+<date normal="2008-08-14">2008-08-14 </date>
+<item> FRN.SGM converted from EAD 1.0 to 2002 by v1to02.xsl (20030122). </item>
+ </change>
+ </revisiondesc>
+ </eadheader>
+<archdesc level="collection" relatedencoding="ISAD(G)v2">
+<did>
+<unitid countrycode="US" repositorycode="IND"> FRN </unitid>
+<unittitle> Peter Franciscus Papers </unittitle>
+<unitdate type="inclusive" normal="1866/1878"> 1866-1878. </unitdate>
+<origination>
+<persname> Franciscus, Peter, 1850-1917. </persname>
+ </origination>
+<physdesc>
+<extent> 2.5 linear inches. </extent>
+ </physdesc>
+<repository>
+<corpname> University of Notre Dame Archives </corpname>
+<address>
+<addressline> Notre Dame, Indiana 46556 </addressline>
+ </address>
+ </repository>
+<langmaterial label="Languages">
+In <language encodinganalog="Language" langcode="lat">Latin </language>, <language encodinganalog="Language" langcode="fre">French </language>, and <language encodinganalog="Language" langcode="eng">English </language>.
+ </langmaterial>
+ </did>
+<accessrestrict>
+<head>Legal Status </head>
+<legalstatus type="private">Private </legalstatus>
+ </accessrestrict>
+<prefercite>
+<head> Preferred Citation </head>
+<p> Peter Franciscus Papers (FRN), University of Notre Dame Archives (UNDA), Notre Dame, IN 46556 </p>
+ </prefercite>
+<scopecontent>
+<head> Scope and Content </head>
+<p> Diary (1866-1878) containing financial records;  exercise book (1870-1875) containing translation  exercises. </p>
+<p> In Latin, French, and English. </p>
+ </scopecontent>
+<bioghist>
+<head> Background </head>
+<p> Rector of Holy Cross College at the Catholic University of  America, Washington, D.C.; superior of Our Lady of the  Sacred Heart College at Watertown, Wisconsin; and  Procurator General of the Congregation of Holy Cross. </p>
+ </bioghist>
+<controlaccess>
+<persname source="lcnaf"> Franciscus, Peter, 1850-1917. </persname>
+<genreform source="rbgenr"> Diaries. </genreform>
+ </controlaccess>
+<relatedmaterial>
+<head>Related Material </head>
+<list>
+<item><extref href="http://archives.nd.edu/findaids/ead/xml/sbb.xml">Notre Dame Scrapbook B </extref></item>
+ </list>
+ </relatedmaterial>
+<dsc type="combined">
+<c01 level="collection"><did><unitid countrycode="US" repositorycode="IND"> CFRN </unitid><unittitle> Peter Franciscus: Manuscripts </unittitle></did>
+ </c01></dsc>
+ </archdesc>
+ </ead>

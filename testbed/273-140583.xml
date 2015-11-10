@@ -1,0 +1,669 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" id="beinecke.demorgan" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.library.yale.edu/facc/schemas/ead/ead.xsd">
+   <eadheader langencoding="iso639-2b" scriptencoding="iso15924" countryencoding="iso3166-1" repositoryencoding="iso15511" dateencoding="iso8601" id="FJU6009">
+      <eadid countrycode="US" mainagencycode="US-CtY-BR" publicid="-//Yale University::Beinecke Rare Book and Manuscript Library//TEXT (US::CtY-BR::::[Guide to the William De Morgan Collection ])//EN" url="http://hdl.handle.net/10079/fa/beinecke.demorgan">beinecke.demorgan</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper type="formal">Guide to the William De Morgan Collection
+</titleproper>
+            <titleproper type="filing" render="altrender" altrender="nodisplay" audience="internal"> De Morgan (William) Collection </titleproper>
+            <author>by
+Diane J. Ducharme</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Yale
+University Library</publisher>
+            <publisher>Beinecke Rare Book and Manuscript
+Library</publisher>
+            <publisher>General Collection of Rare Books and
+Manuscripts</publisher>
+            <address>
+               <addressline>New Haven,
+Connecticut</addressline>
+            </address>
+            <date type="original" normal="1995-04" era="ce" calendar="gregorian">April
+1995</date>
+            <date type="revised" normal="1998-01" era="ce" calendar="gregorian">January 1998</date>
+            <date type="ead" normal="2006/2007" era="ce" calendar="gregorian">2006-2007</date>
+            <p>
+               <extref xlink:type="simple" xlink:actuate="onRequest" xlink:show="new" xlink:href="http://hdl.handle.net/10079/9p8czk9">Copyright ©
+<date type="copyright" normal="1996/2007" era="ce" calendar="gregorian">1996-2007</date> by the Yale University Library.</extref>
+            </p>
+         </publicationstmt>
+         <notestmt>
+            <note type="bpg">
+               <p>This encoded finding
+aid is compliant with the Yale EAD Best Practice Guidelines, Version 1.0.</p>
+            </note>
+         </notestmt>
+      </filedesc>
+      <profiledesc>
+         <creation>Finding aid encoded in
+EAD 1.0 by Manuscript Unit staff, Beinecke Library, with Edix/Wordix macros.
+</creation>
+         <langusage>Finding aid written in
+<language langcode="eng" scriptcode="Latn">English</language>
+         </langusage>
+         <descrules>Finding aid prepared according to the
+<title xlink:type="simple" render="italic">Beinecke Manuscript Unit Archival
+Processing Manual</title>. </descrules>
+      </profiledesc>
+      <revisiondesc>
+         <change>
+            <date normal="2007-08-13" era="ce" calendar="gregorian">2007-08-13</date>
+            <item>beinecke.demorgan.xml converted for compliance with Yale EAD Best
+Practice Guidelines with brbl-migrate-01.xsl (mr2007-08-13).</item>
+         </change>
+         <change>
+            <date normal="2007-03-08" era="ce" calendar="gregorian">2007-03-08</date>
+            <item>PUBLIC "-//Yale
+University::Beinecke Rare Book and Manuscript Library//TEXT
+(US::CtYBR::::[WILLIAM DE MORGAN COLLECTION ])//EN" "demorgan.xml" converted
+from EAD 1.0 to 2002 by v1to02.xsl (sy2003-10-15).</item>
+         </change>
+         <change>
+            <date normal="2010-02-10" era="ce" calendar="gregorian">2010-02-10</date>
+            <item>Transformed with yale.addEadidUrl.xsl. Adds @url with handle for finding
+aid. Overwrites @url if already present.</item>
+         </change>
+      </revisiondesc>
+   </eadheader>
+   <archdesc level="collection" relatedencoding="MARC21" type="register">
+      <did id="did">
+         <head>Overview</head>
+         <unitid label="Call Number:" countrycode="US" repositorycode="US-CtY-BR">GEN
+            MSS 141</unitid>
+         <origination label="Creator:">
+            <persname encodinganalog="100">De Morgan, William Frend, 1839-1917.</persname>
+         </origination>
+         <unittitle label="Title:">William De Morgan collection</unittitle>
+         <unitdate type="inclusive" datechar="creation" calendar="gregorian" era="ce"
+            label="Dates:"
+            normal="1886/1913">1886-1913</unitdate>
+         <physdesc label="Physical Description:">
+            <extent>3.75 linear feet (9 boxes)</extent>
+         </physdesc>
+         <abstract label="Summary:">The collection consists of letters and literary manuscripts by William De Morgan. Series I contains letters written to seven acquaintances including T. J. Cobden-Sanderson and William Mozely; some of the topics covered are De Morgan's bicycle patent and a writing project, the inventor John Worrell Keely, and Greek pottery. Series II contains autograph manuscripts and typescripts for four of De Morgan's novels: Joseph Vance (1906), Alice-for-short (1907), It never can happen again (1909), and When ghost meets ghost (1914).</abstract>
+         <langmaterial label="Language(s):">In <language langcode="eng" scriptcode="Latn">English</language>.</langmaterial>
+         <repository label="Repository:">
+            <corpname>Beinecke Rare Book and Manuscript Library</corpname>
+            <address>
+               <addressline>P. O. Box 208240</addressline>
+               <addressline>New Haven, CT  06520-8240</addressline>
+               <addressline altrender="email">Email: beinecke.library@yale.edu</addressline>
+               <addressline altrender="phone">Phone: (203) 432-2972</addressline>
+               <addressline altrender="fax">Fax: (203) 432-4047</addressline>
+            </address>
+         </repository>
+      </did>
+      <descgrp type="admininfo" id="ai">
+         <head>Administrative
+Information</head>
+         <descgrp type="provenance" id="prov">
+            <head>Provenance</head>
+            <acqinfo id="acq">
+               <p>Collection of material acquired by gift
+and purchase from various sources between 1938 and 1997. For further
+information see Collections Contents list.</p>
+            </acqinfo>
+         </descgrp>
+         <userestrict id="urest">
+            <head>Ownership  Copyright</head>
+            <p>The William
+De Morgan Collection is the physical property of the Beinecke Rare Book and
+Manuscript Library, Yale University. Literary rights, including copyright,
+belong to the authors or their legal heirs and assigns. For further
+information, consult the appropriate curator. </p>
+         </userestrict>
+         <prefercite id="cite">
+            <head>Cite As</head>
+            <p>William De Morgan Collection.
+General Collection, Beinecke Rare Book and Manuscript Library.</p>
+         </prefercite>
+         <accessrestrict id="arest">
+            <head>Information about Access</head>
+            <p> This collection is open for research. </p>
+         </accessrestrict>
+         <processinfo id="pi">
+            <head>Processing Notes</head>
+            <p>Material formerly
+classified as Uncat MS Vault File, MS Vault File, and MS Vault Shelves De
+Morgan was added to GEN MSS 141 in December 2010, and the series arrangement
+modified into I. Letters and Documents. II. Writings.</p>
+            <p>Former call
+numbers: Uncat MS Vault File, MS Vault File, and MS Vault Shelves De Morgan</p>
+         </processinfo>
+      </descgrp>
+      <scopecontent id="sc">
+         <head>Description of the
+Papers</head>
+         <p>The collection consists of letters and literary manuscripts by
+William De Morgan. Series I contains letters written to seven acquaintances
+including T. J. Cobden-Sanderson and William Mozley; some of the topics covered
+are De Morgan's bicycle patent and a writing project, the inventor John Worrell
+Keely, and Greek pottery. Series II contains autograph manuscripts and
+typescripts for four of De Morgan's novels:
+<title render="italic" xlink:type="simple">Joseph Vance</title> (1906),
+<title render="italic" xlink:type="simple">Alice-for-Short</title> (1907),
+<title render="italic" xlink:type="simple">It Never Can Happen Again
+</title>(1909), and <title render="italic" xlink:type="simple">When Ghost Meets
+Ghost</title> (1914).</p>
+      </scopecontent>
+      <bioghist id="bh1">
+         <head>William Frend
+De Morgan (1839-1917)</head>
+         <p>The artist and author William De Morgan was born
+on November 16, 1839, the son of Augustus De Morgan (1806-1871), a professor of
+mathematics at University College, London, and his wife Sophia Frend
+(1809-1892). De Morgan attended the University College School, London, and the
+college, after which he studied painting at the Royal Academy Schools from 1859
+to 1862. During the 1860s he met the artists William Morris and Edward
+Burne-Jones, who likely influenced him to turn to the decorative arts: by 1872
+De Morgan was living near them in Chelsea and had begun his career as one of
+the most successful and prominent practitioners of the arts and crafts movement
+in Britain, known for his innovations in the design and technology of glazes
+for pottery and tiles. His workshop closed in 1907.</p>
+         <p>De Morgan began a
+second career as a novelist while in his sixties. His first book,
+<title render="italic" xlink:type="simple">Joseph Vance: an Ill-Written
+Autobiography</title> (1906) was a best-seller, which encouraged him to
+continue writing. His other novels followed in quick succession:
+<title render="italic" xlink:type="simple">Alice-for-Short</title> (1907),
+<title render="italic" xlink:type="simple">Somehow Good</title> (1908),
+<title render="italic" xlink:type="simple">It Never Can Happen Again
+</title>(1909), <title render="italic" xlink:type="simple">An Affair of
+Dishonour</title> (1909), <title render="italic" xlink:type="simple">A Likely
+Story</title> (1911), and <title render="italic" xlink:type="simple">When Ghost
+Meets Ghost</title> (1914). Two more titles,
+<title render="italic" xlink:type="simple">The Old Madhouse</title> (1917) and
+<title render="italic" xlink:type="simple">The Old Man's Youth</title> (1921),
+were published posthumously.</p>
+         <p>In 1887 De Morgan married the painter Evelyn
+Pickering (1855-1919) and the couple settled in Chelsea at 1, The Vale, Kings
+Road, where they lived until moving to 127 Church Street in 1910. From the
+early 1890s through 1914 the De Morgans spent each winter in Florence, Italy,
+where William De Morgan wrote most of his novels. He died in his home in
+Chelsea on January 15, 1917.</p>
+      </bioghist>
+      <arrangement id="arr1">
+         <head>Arrangement</head>
+         <p>Organized into two series: I. Letters and Documents,
+1886-1913. II. Writings, 1904-1913.</p>
+      </arrangement>
+      <controlaccess id="ca">
+         <head>Access Terms</head>
+         <p>This collection is indexed under the following access points in 
+            <extref xlink:href="http://orbis.library.yale.edu/" xlink:actuate="onRequest"
+               xlink:type="simple"
+               xlink:show="new">Orbis</extref>, 
+            the Yale University Library online catalog.</p>
+         <controlaccess>
+            <head>Subjects</head>
+            <persname encodinganalog="600" role="subject">Cobden-Sanderson, T. J. (Thomas James), 1840-1922.</persname>
+            <persname encodinganalog="600" role="subject">De Morgan, William Frend, 1839-1917.</persname>
+            <persname encodinganalog="600" role="subject">Keely, John Ernest Worrell, 1827-1898.</persname>
+            <persname encodinganalog="600" role="subject">Mozley, William E.</persname>
+            <subject encodinganalog="650" source="lcsh">Authors, English --20th century --Archives.</subject>
+            <subject encodinganalog="650" source="lcsh">English literature --20th century.</subject>
+         </controlaccess>
+         <controlaccess>
+            <head>Authors</head>
+            <persname encodinganalog="100">De Morgan, William Frend, 1839-1917.</persname>
+         </controlaccess>
+      </controlaccess>
+      <dsc type="combined" id="dsc">
+         <head>Collection
+Contents</head>
+         <c01 level="series" id="s1">
+            <did>
+               <unitid>Series I.</unitid>
+               <unittitle type="head"> Letters and
+Documents</unittitle>
+               <unitdate era="ce" calendar="gregorian">1886-1913</unitdate>
+               <physdesc>
+                  <extent>9 folders</extent>
+               </physdesc>
+            </did>
+            <arrangement>
+               <p>Arranged in two groups: letters filed in alphabetical
+order by recipient, followed by one folder of cancelled
+checks.</p>
+            </arrangement>
+            <scopecontent>
+               <p>The series contains a small group of
+letters written by William and Evelyn De Morgan from their homes in London and
+Florence. Subjects are described in each entry below.</p>
+            </scopecontent>
+            <c02 level="file" id="s1b1f1.d0e238">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">1</container>
+                  <unittitle type="genericfolder"> Letters to Charles A.
+Aiken</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1901</unitdate>
+               </did>
+               <acqinfo>
+                  <p>Purchased from David J. Holmes on
+the Library Associates Fund, 1994. Bequest of Harry T. Mercer, Yale 1924 Grad.,
+and Dorothy N. Mercer, for use of the Tinker Library. </p>
+               </acqinfo>
+               <note>
+                  <p>Two autograph letters signed, concerning De Morgan's bicycle patent and
+possible new bicycle designs; written from Via Lorenzo Magnifico 39,
+Florence.</p>
+                  <p>With: autograph letter signed from Evelyn De Morgan to Miss
+Aiken, 1901 Feb 15</p>
+               </note>
+            </c02>
+            <c02 level="file" id="s1b1f2.d0e270">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">2</container>
+                  <unittitle type="genericfolder"> Letter to T. J.
+Cobden-Sanderson </unittitle>
+                  <unitdate era="ce" calendar="gregorian">1906 Oct 8</unitdate>
+               </did>
+               <note>
+                  <p>Autograph letter signed, concerning
+mutual friends; written from Chelsea.</p>
+               </note>
+               <acqinfo>
+                  <p>Purchased from
+Stonehill on the Frank Altschul Fund, 1963. </p>
+               </acqinfo>
+            </c02>
+            <c02 level="file" id="s1b1f3.d0e300">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">3</container>
+                  <unittitle type="genericfolder">Letter to Mr.
+Ewing</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1909 Jan 10</unitdate>
+               </did>
+               <acqinfo>
+                  <p>Purchased from David J. Holmes on
+the Edwin J. Beinecke Book Fund, 1997.</p>
+               </acqinfo>
+               <note>
+                  <p>Autograph letter
+signed, in answer to a request for autographs; written from Florence.
+</p>
+               </note>
+            </c02>
+            <c02 level="file" id="s1b1f4.d0e330">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">4</container>
+                  <unittitle type="genericfolder">Letter to Miss Halsey
+</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1891 Jun 14</unitdate>
+               </did>
+               <acqinfo>
+                  <p>Gift of Halsted B. VanderPoel,
+1938.</p>
+               </acqinfo>
+               <note>
+                  <p>Autograph letter signed, concerning John Worrell
+Keely and his motor; written from 1, The Vale, Kings Road, Chelsea. Removed
+from William De Morgan, <title render="italic" xlink:type="simple">It Never Can
+Happen Again</title> (London: 1909).</p>
+               </note>
+            </c02>
+            <c02 level="file" id="s1b1f5.d0e363">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">5</container>
+                  <unittitle type="genericfolder">Letters to William E.
+Mozley</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1886-1911</unitdate>
+               </did>
+               <acqinfo>
+                  <p>Purchased from David J. Holmes on
+the Edwin J. Beinecke Book Fund, 1997.</p>
+               </acqinfo>
+               <note>
+                  <p>Three autograph
+letters signed and two autograph postcards signed, concerning questions about
+English law "for fiction purposes"; written from Chelsea and Florence.</p>
+                  <p>With: passport of William E. Mozley, dated 1886 Aug 23. </p>
+               </note>
+            </c02>
+            <c02 level="file" id="s1b1f6.d0e395">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">6</container>
+                  <unittitle type="genericfolder"> Letter to Miss Sington
+</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1909 Oct 20</unitdate>
+               </did>
+               <note>
+                  <p>Autograph letter signed, concerning
+Miss Sington's request for an autograph; written from 1, The Vale, Kings Road,
+Chelsea.</p>
+                  <p>With: autograph note signed, to Miss Moschiler,
+undated.</p>
+               </note>
+               <acqinfo>
+                  <p>Purchased from David J. Holmes on the Edwin J.
+Beinecke Book Fund, 1994.</p>
+               </acqinfo>
+            </c02>
+            <c02 level="file" id="s1b1f7.d0e427">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">7</container>
+                  <unittitle type="genericfolder"> Letter to "Dear
+Madam"</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1898 Feb 13</unitdate>
+               </did>
+               <acqinfo>
+                  <p>Purchased from David J. Holmes
+on the Library Associates Fund, 1994. Bequest of Harry T. Mercer, Yale 1924
+Grad., and Dorothy N. Mercer, for use of the Tinker Library.</p>
+               </acqinfo>
+               <note>
+                  <p>Autograph letter signed, concerning Greek pottery and glazes; written
+from Lungo il Mugnone 15, Florence.</p>
+               </note>
+            </c02>
+            <c02 level="file" id="s1b1f8.d0e457">
+               <did>
+                  <container type="Box">1</container>
+                  <container type="Folder">8</container>
+                  <unittitle type="genericfolder">Cancelled checks
+(23)</unittitle>
+                  <unitdate era="ce" calendar="gregorian">1913 Apr-Jun</unitdate>
+               </did>
+               <acqinfo>
+                  <p>Gift of Fred Bates Johnson,
+1954.</p>
+               </acqinfo>
+            </c02>
+         </c01>
+         <c01 level="series" id="s2">
+            <did>
+               <unitid>Series II.</unitid>
+               <unittitle type="head"> Writings </unittitle>
+               <unitdate calendar="gregorian" era="ce">1904-1913</unitdate>
+               <physdesc>
+                  <extent>3.75 linear feet (9 boxes)</extent>
+               </physdesc>
+            </did>
+            <scopecontent>
+               <p>The series contains manuscripts and typescripts for four of De
+Morgan's novels, including his first and most famous work,
+<title render="italic" xlink:type="simple">Joseph Vance</title>. Any additional
+information in the entry was taken from catalogue cards prepared when the
+material was acquired.</p>
+            </scopecontent>
+            <arrangement>
+               <p>Arranged in
+alphabetical order by title.</p>
+            </arrangement>
+            <c02 level="subseries" id="c02.d0e518">
+               <did>
+                  <unittitle type="genericfolder">
+                     <title render="italic" xlink:type="simple">Alice-for-Short</title>
+                  </unittitle>
+               </did>
+               <acqinfo>
+                  <p>Purchased from Gabriel Wells on the Library Associates Fund,
+1948.</p>
+               </acqinfo>
+               <c03 id="s2b1f9-12.d0e540">
+                  <did>
+                     <container type="Box">1</container>
+                     <container type="Folder">9-12</container>
+                     <unittitle type="genericfolder">Chapters 1-26, autograph manuscript</unittitle>
+                     <unitdate era="ce" calendar="gregorian">circa
+1906</unitdate>
+                  </did>
+               </c03>
+               <c03 id="s2b1f13.d0e564">
+                  <did>
+                     <container type="Box">1</container>
+                     <container type="Folder">13</container>
+                     <unittitle type="genericfolder">Chapter 22, autograph manuscript</unittitle>
+                     <unitdate era="ce" calendar="gregorian">circa
+1906</unitdate>
+                  </did>
+               </c03>
+               <c03 id="s2b2f14-16.d0e588">
+                  <did>
+                     <container type="Box">2</container>
+                     <container type="Folder">14-16</container>
+                     <unittitle type="genericfolder">Volume 2, chapters 1-21, autograph
+manuscript</unittitle>
+                     <unitdate era="ce" calendar="gregorian">circa 1906</unitdate>
+                  </did>
+               </c03>
+            </c02>
+            <c02 level="subseries" id="c02.d0e612">
+               <did>
+                  <unittitle type="genericfolder">
+                     <title render="italic" xlink:type="simple">Alice-for-Short</title>
+                  </unittitle>
+               </did>
+               <acqinfo>
+                  <p>Purchased from Maggs Brothers on the Library Associates Fund,
+1949.</p>
+               </acqinfo>
+               <c03 id="s2b2f17.d0e634">
+                  <did>
+                     <container type="Box">2</container>
+                     <container type="Folder">17</container>
+                     <unittitle type="genericfolder">Chapter headings, autograph
+manuscript</unittitle>
+                     <unitdate era="ce" calendar="gregorian">circa 1906</unitdate>
+                  </did>
+               </c03>
+               <c03 id="s2b2f18.d0e658">
+                  <did>
+                     <container type="Box">2</container>
+                     <container type="Folder">18</container>
+                     <unittitle type="genericfolder">Chapter 8, autograph manuscript</unittitle>
+                     <unitdate era="ce" calendar="gregorian">circa
+1906</unitdate>
+                  </did>
+                  <note>
+                     <p>Apparently written after the final manuscript was completed; in the first
+printed edition of the novel (London, 1907) it was inserted as Chapter 35,
+which would place it in between chapters 7 and 8 of volume 2 in the manuscript
+above.</p>
+                  </note>
+               </c03>
+               <c03 id="s2b2f19.d0e685">
+                  <did>
+                     <container type="Box">2</container>
+                     <container type="Folder">19</container>
+                     <unittitle type="genericfolder">Various pages and fragments of pages, with
+manuscript corrections, additions, and cancellations</unittitle>
+                     <unitdate era="ce" calendar="gregorian">circa
+1906</unitdate>
+                  </did>
+               </c03>
+            </c02>
+            <c02 level="subseries" id="c02.d0e709">
+               <did>
+                  <unittitle type="genericfolder">
+                     <title render="italic" xlink:type="simple">Alice-for-Short</title>
+                  </unittitle>
+               </did>
+               <acqinfo>
+                  <p>Gift of Halsted B. VanderPoel, 1951.</p>
+               </acqinfo>
+               <c03 id="s2b2f20-21.d0e731">
+                  <did>
+                     <container type="Box">2</container>
+                     <container type="Folder">20-21</container>
+                     <unittitle type="genericfolder">Typescript with autograph manuscript
+corrections and additions</unittitle>
+                     <unitdate era="ce" calendar="gregorian">circa 1906</unitdate>
+                  </did>
+               </c03>
+               <c03 id="s2b3f22-28.d0e755">
+                  <did>
+                     <container type="Box">3</container>
+                     <container type="Folder">22-28</container>
+                     <unittitle type="genericfolder">Typescript with autograph manuscript
+corrections and additions</unittitle>
+                     <unitdate era="ce" calendar="gregorian">circa 1906</unitdate>
+                  </did>
+               </c03>
+            </c02>
+            <c02 level="subseries" id="c02.d0e779">
+               <did>
+                  <unittitle type="psh1">
+                     <title xlink:type="simple" render="italic">It Never Can
+Happen Again</title>
+                  </unittitle>
+               </did>
+               <note>
+                  <p>Ex libris Philip M.
+Neufeld.</p>
+               </note>
+               <acqinfo>
+                  <p>Purchased from William Reese Co. (Christie's
+sale, 1995 April 25, Lot 112) on the Chauncey Brewster Tinker Prize Fund,
+1995.</p>
+               </acqinfo>
+               <c03 level="file" id="s2b4f29.d0e804">
+                  <did>
+                     <container type="Box">4</container>
+                     <container type="Folder">29</container>
+                     <unittitle type="genericfolder"> Chapter outlines, autograph manuscript and
+typescripts, corrected </unittitle>
+                     <unitdate era="ce" calendar="gregorian">circa 1908</unitdate>
+                  </did>
+               </c03>
+               <c03 level="file" id="s2b4f30-34.d0e828">
+                  <did>
+                     <container type="Box">4</container>
+                     <container type="Folder">30-34</container>
+                     <unittitle type="genericfolder"> Chapters 1-27, autograph manuscript, corrected
+</unittitle>
+                     <unitdate era="ce" calendar="gregorian">circa 1908</unitdate>
+                  </did>
+               </c03>
+               <c03 level="file" id="s2b5f35-39.d0e852">
+                  <did>
+                     <container type="Box">5</container>
+                     <container type="Folder">35-39</container>
+                     <unittitle type="genericfolder"> Chapters 28 to end, autograph manuscript,
+corrected </unittitle>
+                     <unitdate era="ce" calendar="gregorian">circa 1908</unitdate>
+                  </did>
+               </c03>
+            </c02>
+            <c02 level="subseries" id="c02.d0e876">
+               <did>
+                  <unittitle type="genericfolder">
+                     <title render="italic" xlink:type="simple">Joseph Vance: an Ill-Written
+Autobiography</title>
+                  </unittitle>
+               </did>
+               <acqinfo>
+                  <p>Purchased from Isaac Mendoza Book
+Company on the Albert H. Childs Fund, 1957.</p>
+               </acqinfo>
+               <note>
+                  <p>Formerly
+owned by Mrs. Milton E. Getz.</p>
+               </note>
+               <c03 id="s2b6f40.d0e901">
+                  <did>
+                     <container type="Box">6</container>
+                     <container type="Folder">40</container>
+                     <unittitle type="genericfolder">Preface, autograph manuscript</unittitle>
+                     <unitdate era="ce" calendar="gregorian">circa
+1904</unitdate>
+                  </did>
+               </c03>
+               <c03 id="s2b6f41-47.d0e925">
+                  <did>
+                     <container type="Box">6</container>
+                     <container type="Folder">41-47</container>
+                     <unittitle type="genericfolder">Chapters 1-41, autograph manuscript</unittitle>
+                     <unitdate era="ce" calendar="gregorian">circa
+1904</unitdate>
+                  </did>
+               </c03>
+               <c03 id="s2b7f48-49.d0e949">
+                  <did>
+                     <container type="Box">7</container>
+                     <container type="Folder">48-49</container>
+                     <unittitle type="genericfolder">Chapter 42-Postscript, autograph
+manuscript</unittitle>
+                     <unitdate era="ce" calendar="gregorian">circa 1904</unitdate>
+                  </did>
+               </c03>
+               <c03 id="s2b7f50-53.d0e973">
+                  <did>
+                     <container type="Box">7</container>
+                     <container type="Folder">50-53</container>
+                     <unittitle type="genericfolder">Chapters 1-38, typescript with manuscript
+corrections</unittitle>
+                     <unitdate era="ce" calendar="gregorian">circa 1904</unitdate>
+                  </did>
+               </c03>
+               <c03 id="s2b8f54.d0e997">
+                  <did>
+                     <container type="Box">8</container>
+                     <container type="Folder">54</container>
+                     <unittitle type="genericfolder">Chapter 39 to end, typescript with manuscript
+corrections</unittitle>
+                     <unitdate era="ce" calendar="gregorian">circa 1904</unitdate>
+                  </did>
+               </c03>
+               <c03 id="s2b8f55.d0e1021">
+                  <did>
+                     <container type="Box">8</container>
+                     <container type="Folder">55</container>
+                     <unittitle type="genericfolder">Wrapper from manuscript</unittitle>
+                     <unitdate era="ce" calendar="gregorian">circa
+1904</unitdate>
+                  </did>
+               </c03>
+            </c02>
+            <c02 level="subseries" id="c02.d0e1045">
+               <did>
+                  <unittitle type="genericfolder">
+                     <title render="italic" xlink:type="simple">When Ghost Meets Ghost</title>
+                  </unittitle>
+               </did>
+               <acqinfo>
+                  <p>Purchased on the Starling W. Childs Library Fund and Library Associates
+Funds.</p>
+               </acqinfo>
+               <c03 id="s2b8f56-59.d0e1067">
+                  <did>
+                     <container type="Box">8</container>
+                     <container type="Folder">56-59</container>
+                     <unittitle type="genericfolder">Chapters 1-29, autograph manuscript</unittitle>
+                     <unitdate era="ce" calendar="gregorian">circa
+1913</unitdate>
+                  </did>
+               </c03>
+               <c03 id="s2b9f60-64.d0e1091">
+                  <did>
+                     <container type="Box">9</container>
+                     <container type="Folder">60-64</container>
+                     <unittitle type="genericfolder">Chapter 30 to end, autograph
+manuscript</unittitle>
+                     <unitdate era="ce" calendar="gregorian">circa 1913</unitdate>
+                  </did>
+               </c03>
+               <c03 id="s2b9f65.d0e1115">
+                  <did>
+                     <container type="Box">9</container>
+                     <container type="Folder">65</container>
+                     <unittitle type="genericfolder">Pages withdrawn, autograph manuscript and
+typescript, corrected</unittitle>
+                     <unitdate era="ce" calendar="gregorian">circa 1913</unitdate>
+                  </did>
+               </c03>
+            </c02>
+         </c01>
+      </dsc>
+   </archdesc>
+</ead>

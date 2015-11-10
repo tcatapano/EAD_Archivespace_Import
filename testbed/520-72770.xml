@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead relatedencoding="marc21"> 
+  <eadheader audience="internal"> 
+  <!--Change the last five numbers to the five number collection number from TARO log and name and save file as that five digit number.-->
+	 <eadid countrycode="US" mainagencycode="TxU-TH"
+	  encodinganalog="852$a">urn:taro:utexas.cah.01315</eadid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper>A Guide to the Wiggs Photograph Archive</titleproper> 
+		</titlestmt> 
+	 </filedesc> 
+	 <profiledesc> 
+	 <!--Add your name and the date (format: January 2008) of encoding below.-->
+		<creation>Original EAD encoding by Linda Peterson according to TARO 2 EAD
+		  2002 Editing Instructions. 
+		  <date>October 2009</date></creation> 
+		<langusage>Finding aid written in
+		  <language>English.</language></langusage> 
+	 </profiledesc> 
+  </eadheader> 
+  <archdesc type="inventory" level="collection"> 
+	 <did> 
+		<head>Descriptive Summary</head> 
+		<origination label="Creator:"><!--Select the appropriate tag depending on if the creator is an individual (name: LAST, FIRST), family, or entity. Delete the other tags you don't use.-->
+		  <persname encodinganalog="100">Wiggs, Ms.</persname> </origination>
+	 
+	 <!--Type the unittitle just as you would say it and use Papers, Collection, Archive as appropriate. (Example: John Doe Papers)-->
+		<unittitle encodinganalog="245" label="Title:">Wiggs Photograph
+		  Archive</unittitle> 
+		<unitdate type="inclusive" encodinganalog="245"
+		label="Dates:">1930</unitdate>
+	 <!--Modify the language of material if appropriate and update 3 letter langcode in the upper-right table.-->
+		<langmaterial label="Language:">Materials are written in
+		  <language langcode="eng">English.</language></langmaterial> 
+	 <!--This is the accession number(s) or other applicable indentifier.-->
+		<unitid label="Accession No.:">2002-209</unitid> 
+	 <!--This is the extent. For example: 4 feet, 10 inches-->
+		<physdesc label="Extent:" encodinganalog="300$a">1/2 inch, 24
+		  prints</physdesc> 
+		<repository label="Repository:" encodinganalog="852$a"> 
+		  <extref href="http://www.cah.utexas.edu" show="new"
+		  actuate="onrequest"> 
+			 <corpname><subarea> Dolph Briscoe Center for American
+				History,</subarea>The University of Texas at
+				Austin</corpname></extref></repository> 
+	 <!--This is typically the first sentences from biographical note and scope and content note, as appropriate.-->
+		<abstract label="Abstract:" encodinganalog="520$a">Ms. Wiggs, whose first
+		  name is not known by her descendants, is said to have taken these photographs
+		  for International News Photos, Inc. in 1930. These 8 x 10 prints portray both
+		  events and persons of importance, many related to transportation. </abstract> 
+	 </did> 
+	 <bioghist encodinganalog="545"> 
+	 <!--If an individual, heading should read Biographical Note, for an entity it should read Historical Note.-->
+		<head>Biographical Note</head><p>Ms. Wiggs, whose first name is not known
+		  by her descendants, is said to have taken these photographs for International
+		  News Photos, Inc. in 1930.</p> 
+	 </bioghist> 
+	 <scopecontent encodinganalog="520"> 
+		<head>Scope and Contents</head><p>These 8 x 10 prints portray both events
+		  and persons of importance, many related to transportation. Among the people are
+		  Charles Lindbergh, Henry Ford, Thomas Edison, Harvey Firestone, and Herbert
+		  Hoover; conveyances include a blimp, two planes refueling in mid-air, a
+		  “railplane,” a model airport, and a ship being taken overland from one body of
+		  water to another. Also included are images of the White House, the Amelia
+		  Earhart monument in England, and earthquake damage in Italy and Puerto Rico.
+		  </p>
+	 
+	 <!--If applicable include statement in p tag: Forms part of the NAME (Institute for Studies in American Military History, Archives of American Mathematics, 
+Professional Touring Entertainment Archives, etc.).-->
+	 </scopecontent> 
+	 <accessrestrict encodinganalog="506"> 
+	 <!--Select appropriate statement(s) and delete those tags that are not applicable.-->
+		<head>Access Restrictions</head><p>Unrestricted access.</p> 
+	 </accessrestrict> 
+	 <controlaccess> 
+	 <!--Delete this section(s) as appropriate depending on the presence of  index terms.-->
+		<head>Index Terms</head> 
+		<controlaccess> 
+		  <head>Subjects (Persons)</head> 
+		  <persname encodinganalog="600">Edison, Thomas A. (Thomas Alva),
+			 1847-1931</persname> 
+		  <persname encodinganalog="600">Firestone, Harvey Samuel,
+			 1868-1938</persname> 
+		  <persname encodinganalog="600">Ford, Henry</persname> 
+		  <persname encodinganalog="600">Hoover, Herbert, 1874-1964</persname> 
+		  <persname encodinganalog="600">Lindbergh, Charles</persname> 
+		</controlaccess> 
+		<controlaccess> 
+		  <head>Subjects</head> 
+		  <subject encodinganalog="650">Airplanes</subject> 
+		  <subject encodinganalog="650">Earthquakes</subject> 
+		  <subject encodinganalog="650">Transportation</subject> 
+		</controlaccess> 
+		<controlaccess> 
+		  <head>Places</head> 
+		  <geogname encodinganalog="651" source="lcnaf">Italy</geogname> 
+		  <geogname encodinganalog="651" source="lcnaf">Puerto Rico</geogname> 
+		  <geogname encodinganalog="651" source="lcnaf">Washington (D.
+			 C.)</geogname> 
+		</controlaccess> 
+	 </controlaccess> 
+	 <prefercite encodinganalog="524"> 
+		<head>Preferred Citation</head><p>Wiggs Photograph Archive, 1930, Dolph
+		  Briscoe Center for American History, The University of Texas at Austin.</p> 
+	 </prefercite> 
+	 <dsc type="in-depth"> 
+		<head>Detailed Description of the Papers</head> 
+		<c01 level="series" id="ser1"> 
+		  <did> 
+		  <!--For c01 unititle, if inventory is basically a container list type Inventory, if it is a series, type the series title for each c01. Delete Folder Tags.-->
+			 <unittitle>Photographs: </unittitle> 
+		  </did> 
+		  <c02> 
+			 <did> 
+				<container type="box">3Z316</container> 
+				<unittitle>“Army of the Occupation” leaves Germany </unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02> 
+			 <did> 
+				<container type="box">3Z316</container> 
+				<unittitle>Memorial to Amelia Earhart, England</unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02> 
+			 <did> 
+				<container type="box">3Z316</container> 
+				<unittitle>“The ‘Big Three”—Ford, Edison and Firestone on Henry
+				  Ford’s 67th birthday.”</unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02> 
+			 <did> 
+				<container type="box">3Z316</container> 
+				<unittitle>“President Hoover attends ball game”</unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02> 
+			 <did> 
+				<container type="box">3Z316</container> 
+				<unittitle>Mr. and Mrs. Hoover’s school—on the Rapidan in
+				  Virginia</unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02> 
+			 <did> 
+				<container type="box">3Z316</container> 
+				<unittitle>“Hoover signs the Naval Pact before group of
+				  distinguished statesmen”</unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02> 
+			 <did> 
+				<container type="box">3Z316</container> 
+				<unittitle>“The Edison scholarship winner being carried aloft on
+				  the shoulders of his colleagues”</unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02> 
+			 <did> 
+				<container type="box">3Z316</container> 
+				<unittitle>149 year old Turk</unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02> 
+			 <did> 
+				<container type="box">3Z316</container> 
+				<unittitle>“President Hoover decorates Col Lindbergh with special
+				  congress medal”</unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02> 
+			 <did> 
+				<container type="box">3Z316</container> 
+				<unittitle>“Birds of a feather….” [Lindbergh and other air aces]
+				  </unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02> 
+			 <did> 
+				<container type="box">3Z316</container> 
+				<unittitle>“Von Hindenburg on his tour of the Rhineland”
+				  </unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02> 
+			 <did> 
+				<container type="box">3Z316</container> 
+				<unittitle>Lindbergh and Byrd meet on the roof garden of the
+				  Biltmore Hotel in NYC</unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02> 
+			 <did> 
+				<container type="box">3Z316</container> 
+				<unittitle>“A Street of ruin after Italy’s deadly
+				  earthquake”</unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02> 
+			 <did> 
+				<container type="box">3Z316</container> 
+				<unittitle>“How R-100 [blimp] will moor at Montreal”</unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02> 
+			 <did> 
+				<container type="box">3Z316</container> 
+				<unittitle>“Beautiful Naples among many Italian cities affected by
+				  earthquake”</unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02> 
+			 <did> 
+				<container type="box">3Z316</container> 
+				<unittitle>“The White House gets its new winter coat”</unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02> 
+			 <did> 
+				<container type="box">3Z316</container> 
+				<unittitle>The “Southern Cross” just before its takeoff for the
+				  United States</unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02> 
+			 <did> 
+				<container type="box">3Z316</container> 
+				<unittitle>“His new 'railplane’ for fast passenger
+				  service”</unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02> 
+			 <did> 
+				<container type="box">3Z316</container> 
+				<unittitle>Model airplane and airport</unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02> 
+			 <did> 
+				<container type="box">3Z316</container> 
+				<unittitle>“Over the mountain—by boat”</unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02> 
+			 <did> 
+				<container type="box">3Z316</container> 
+				<unittitle>"A scene in the business district of San Juan, Porto
+				  Rico [sic], after the disastrous hurricane”</unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02> 
+			 <did> 
+				<container type="box">3Z316</container> 
+				<unittitle>Refueling the Chicago, the plane used by the Hunter boy
+				  that now holds the world’s endurance record.</unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02> 
+			 <did> 
+				<container type="box">3Z316</container> 
+				<unittitle>“Palatial Hammond estate where President Hoover may
+				  spend his vacation”</unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02> 
+			 <did> 
+				<container type="box">3Z316</container> 
+				<unittitle>Unidentified building</unittitle> 
+			 </did> 
+		  </c02> 
+		</c01></dsc> 
+  </archdesc>
+</ead>

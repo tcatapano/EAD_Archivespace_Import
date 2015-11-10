@@ -1,0 +1,610 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<?xml-stylesheet type="text/xsl" href="styles/ymcaprint.xsl"?>
+<ead audience="external"> 
+  <eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" scriptencoding="iso15924" dateencoding="iso8601" countryencoding="iso3166-1" relatedencoding="Dublin Core"> 
+	 <eadid mainagencycode="MnU" countrycode="US" publicid="-//University of Minnesota, Twin Cities::YMCA Archives//TEXT us::MnU::ygny0022.xml::[Miscellaneous New York Branch YMCA Photographs]//EN">ygny0022</eadid>
+	 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper encodinganalog="Title">YMCA OF GREATER NEW YORK:
+			 </titleproper> 
+		  <subtitle>An Inventory of Miscellaneous Branch Photographs </subtitle> 
+		  <author encodinganalog="Contributor">Finding aid prepared by Louise
+			 Merriam.</author> 
+		</titlestmt> 
+		<publicationstmt> 
+		  <publisher encodinganalog="Publisher">University of Minnesota
+			 Libraries</publisher> 
+		  <date encodinganalog="Date">2009</date> 
+		  <address> 
+			 <addressline>University of Minnesota Libraries</addressline> 
+			 <addressline>Minneapolis, MN 55455</addressline> 
+		  </address> 
+		</publicationstmt> 
+	 </filedesc> 
+	 <profiledesc> 
+		<creation>EAD encoding by Louise Merriam, 
+		  <date>2009.</date> </creation> 
+		<langusage> <language encodinganalog="Language" langcode="eng">English</language> </langusage> 
+	 </profiledesc> 
+  </eadheader> 
+  <archdesc type="inventory" level="collection" relatedencoding="MARC21"> 
+	 <did id="a1"> 
+		<head>OVERVIEW OF THE COLLECTION</head> 
+		<repository label="Repository:" encodinganalog="852$a">University of
+		  Minnesota. <subarea>Kautz Family YMCA Archives. [ymca]</subarea></repository> 
+		<origination label="Creator:"> 
+		  <corpname encodinganalog="110" source="lcnaf" rules="aacr2">YMCA of
+			 Greater New York. </corpname> </origination> 
+		<unittitle label="Title:" encodinganalog="245$a">Miscellaneous New York
+		  YMCA branch photographs.</unittitle> 
+		<unitdate label="Date:" encodinganalog="245$f" type="inclusive" normal="1880/1979">1880s-1970s</unitdate> 
+		<unitdate label="Date:" encodinganalog="245$g" type="bulk" normal="1920/1969"> (bulk 1920s-1960s)</unitdate> 
+		<unitid label="Collection Number:" encodinganalog="099" countrycode="US" repositorycode="MnU">Y.GNY.0022</unitid> 
+		<abstract label="Abstract:">Photographs of YMCA of Greater New York
+		  branches, buildings and activities. </abstract> 
+		<physdesc label="Quantity:" encodinganalog="300"><extent>4 cubic feet (10
+		  boxes)</extent></physdesc> 
+		<physloc label="Location:">See Detailed Description section for box
+		  listing.</physloc> <langmaterial><language>English</language></langmaterial> 
+	 </did> 
+	 <bioghist encodinganalog="545"> 
+		<head altrender="history" id="a2h">HISTORY OF YMCA OF GREATER NEW YORK
+		  BRANCHES</head> 
+		<p>The YMCA of Greater New York is the amalgamation of several local
+		  associations in what later become the five boroughs of New York City. Shortly
+		  after its founding in 1852, the New York Association was joined by the Brooklyn
+		  Association, as well as by associations in Williamsburg, Staten Island,
+		  Greenpoint, New Utrecht, Harlem and on Grand Street and Varick Street -- all
+		  before 1869. In the years that followed, more YMCAs were formed as branches of
+		  the parent organizations of New York and Brooklyn. In addition, independent
+		  YMCA organizations merged with the New York or Brooklyn associations to become
+		  branches; both the New York and Brooklyn associations adopted the
+		  "metropolitan" model of organization by 1896. The growth of the YMCA in New
+		  York can be seen in the opening and closing of branches that continued to occur
+		  into the 21st century. Just as the New York Y added or changed programs to meet
+		  the needs of the community, the organization added, moved and closed branches
+		  whenever it felt that the mission and goals of the YMCA were best served by
+		  change. </p> 
+		<p>As a result, some YMCA branches in New York were short-lived,
+		  primarily because their initial promise was not borne out by membership and
+		  program participation. Other YMCA branches were victims of changing
+		  demographics. For example, the original Harlem branch did not serve
+		  African-Americans in the 19th century; that role was performed by the Colored
+		  Men's branch located 60 blocks to the south. Harlem became an African-American
+		  neighborhood in the 20th century, and the YMCA responded to the change by
+		  opening a new branch and closing the original Harlem branch. Services formerly
+		  provided by the old Harlem branch were subsequently carried out by the Uptown
+		  branch. </p> 
+		<p>In addition to serving neighborhoods throughout New York, the YMCA
+		  established highly specialized branches. These included railroad branches for
+		  railroad men, branches for people of specific ethnicity or nationality,
+		  branches for college students and branches for members of the armed services.
+		  When the need for branches such as these lessened, the Y did not hesitate to
+		  move its resources to address current, rather than past, concerns. For example,
+		  after WWII, the Y reduced or eliminated programs and branches for servicemen.
+		  As the number of railroad workers declined, the special branches catering to
+		  railroad employees were closed. </p> 
+		<p>The ability of the YMCA to adapt to changing needs and circumstances
+		  is well illustrated by the history of its branches. </p> 
+	 </bioghist> 
+	 <bioghist> 
+		<p>Information taken from <emph render="italic">History of the Brooklyn
+		  and Queens Young Men's Christian Association 1853-1949</emph> by E. Clark
+		  Worman (1952), <emph render="italic">The YMCA at 150: A history of the YMCA of
+		  greater New York, 1852-2002</emph> by Pamela Bayless (2002),
+		  <emph render="italic">An event on Mercer Street</emph> by Terry Donoghue (1951)
+		  and from the collection.</p> 
+	 </bioghist> 
+	 <scopecontent encodinganalog="520"> 
+		<head id="a3">SCOPE AND CONTENTS OF THE COLLECTION</head> 
+		<p>The collection includes photographs from small or short-lived branches
+		  as well as small collections from larger branches of the New York YMCA. There
+		  are numerous images of YMCA buildings, programs and activities. Most of the
+		  photographs are professional, black and white images. </p> 
+	 </scopecontent> 
+	 <arrangement encodinganalog="351$a"> 
+		<head id="a4">ORGANIZATION/ARRANGEMENT OF THE RECORDS</head> 
+		<p>These documents are organized into the following sections:</p> 
+		<p>Manhattan branches</p> 
+		<p>Bronx branches.</p> 
+		<p>Brooklyn branches.</p> 
+		<p>Queens branches.</p> 
+		<p>Staten Island branches.</p> 
+	 </arrangement><descgrp> 
+	 <head>ADMINISTRATIVE INFORMATION</head> 
+	 <userestrict encodinganalog="540"> 
+		<head>Use of Materials:</head> 
+		<p>This collection is protected by the Copyright Law of the United States
+		  (Title 17, U.S. Code). It is the user's responsibility to verify copyright,
+		  ownership, and to obtain all the necessary permissions prior to the
+		  reproduction, publication, or other use of any portion of these materials.</p> 
+	 </userestrict> 
+	 <prefercite> 
+		<head>Preferred Citation:</head> 
+		<p><emph render="italic">[Indicate the cited item and/or series
+		  here]</emph>. Miscellaneous New York Branch Photographs. YMCA of Greater New
+		  York. Kautz Family YMCA Archives. University of Minnesota. </p> 
+		<p><emph render="italic">See the Chicago Manual of Style for additional
+		  examples.</emph></p> 
+	 </prefercite> 
+	 <processinfo> 
+		<head>Processing Information:</head> 
+		<p>Processed by: Louise Merriam, May 2009.</p> 
+		<p>Catalog Record ID number: 5464341</p> 
+	 </processinfo></descgrp> 
+	 <dsc type="combined"> 
+		<head id="a9">DETAILED DESCRIPTION OF THE COLLECTION</head> 
+		<p>The following section contains a detailed list of the materials in the
+		  collection. To request materials, please note the corresponding box number.</p>
+		
+		<c01 level="series"> 
+		  <did> 
+			 <unittitle>Manhattan Branches </unittitle> 
+		  </did> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">29</container> 
+				<unittitle>East Side Branch, </unittitle> 
+				<unitdate type="inclusive">1920s, 1950s. </unitdate> 
+				<physdesc><extent>2 folders. </extent></physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>East 86th Street. Images of first branch building (1920s),
+				  including street scenes and youth watching a movie. Also youth team photo
+				  (1950s). </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">30</container> 
+				<unittitle>Bowery Branch, </unittitle> 
+				<unitdate type="inclusive">1905-1925. </unitdate> 
+				<physdesc><extent>2 folders.</extent></physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>East 3rd Street. Exteriors, YMCA truck, cornerstone laying,
+				  street scene in lower Manhattan.</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">42</container> 
+				<unittitle>Vanderbilt, </unittitle> 
+				<unitdate type="inclusive">1950s, 1980s. </unitdate> 
+				<physdesc><extent>2 folders. </extent></physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>East 47th Street. Building exteriors. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">44</container> 
+				<unittitle>Governor's Island, </unittitle> 
+				<unitdate type="inclusive">1920s-1950s. </unitdate> 
+				<physdesc><extent> 6 folders. </extent></physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Earlier known as the Army branch. Building exteriors, soldiers
+				  and officers, Halloween party, library scenes, parade, dances, dinners, plays,
+				  athletics. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">50</container> 
+				<unittitle>Institute Branch, </unittitle> 
+				<unitdate type="inclusive">1880s-1920s. </unitdate> 
+				<physdesc><extent> 2 folders. </extent></physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Located at 222 Bowery. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">50</container> 
+				<unittitle>Intercollegiate Branch, </unittitle> 
+				<unitdate type="inclusive">1940s-1960s. </unitdate> 
+				<physdesc><extent>3 folders. </extent></physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>West 23rd Street. Lecture preparations for Dr. Paul Tillich,
+				  teen meetings and events, photos of building in Washington Square, Physicians
+				  and Surgeons Club, Lawrence House, Earl Hall. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">51</container> 
+				<unittitle>Armed Forces, </unittitle> 
+				<unitdate type="inclusive">1940s-1960s. </unitdate> 
+				<physdesc><extent>3 folders. </extent></physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Includes youth activities and performances. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">51</container> 
+				<unittitle>German Branch, </unittitle> 
+				<unitdate type="inclusive"> circa 1900. </unitdate> 
+				<physdesc>2 folders.</physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Second Avenue. Building exteriors. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">51</container> 
+				<unittitle>Pennsylvania Railroad Branch,</unittitle> 
+				<unitdate type="inclusive">1930s-1950s.</unitdate> 
+				<physdesc><extent>3 folders.</extent></physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Pennsylvania Station. Interior and exterior views, athletics,
+				  dining room. Also known as 72nd Street Railroad Branch. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">60</container> 
+				<unittitle>Chinatown Branch, </unittitle> 
+				<unitdate type="inclusive">1950s. </unitdate> 
+			 </did> 
+			 <scopecontent> 
+				<p> Hester Street. Baseball team. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">60</container> 
+				<unittitle>Colored Men's Branch, </unittitle> 
+				<unitdate type="inclusive">circa 1901.</unitdate> 
+			 </did> 
+			 <scopecontent> 
+				<p>Colored Men's Branch was located at 132 West 53rd Street.</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">60</container> 
+				<unittitle>Eagle Hut Branch, </unittitle> 
+				<unitdate type="inclusive">1919. </unitdate> 
+			 </did> 
+			 <scopecontent> 
+				<p>Branch located at 42nd Street and 6th Avenue. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">60</container> 
+				<unittitle>East 69th Street Extension, </unittitle> 
+				<unitdate type="inclusive">1950s. </unitdate> 
+			 </did> 
+			 <scopecontent> 
+				<p>Boys with bicycles in front of United Magyar Community Church.
+				  </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">60</container> 
+				<unittitle>Film Trade School, </unittitle> 
+				<unitdate type="inclusive">1950s. </unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">60</container> 
+				<unittitle>Civil Service Institute, </unittitle> 
+				<unitdate type="inclusive">1950s. </unitdate> 
+			 </did> 
+			 <scopecontent> 
+				<p>Deep knee bends in the gym.</p> 
+			 </scopecontent> 
+		  </c02> 
+		</c01> 
+		<c01 level="series"> 
+		  <did> 
+			 <unittitle>Brooklyn Branches</unittitle> 
+		  </did> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">30</container> 
+				<unittitle>Bedford, </unittitle> 
+				<unitdate type="inclusive">1880s-1970s. </unitdate> 
+				<physdesc><extent>14 folders. </extent></physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Bedford Avenue and Monroe Street. Building construction and
+				  exteriors, image that includes poster advertising "Learn to Drive and Repair
+				  your Own Car", group photos, athletics, interiors, aquatics, camp, ceremonies,
+				  trade school and vocational training. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">33</container> 
+				<unittitle>Carlton Branch, </unittitle> 
+				<unitdate type="inclusive">1900-1950.</unitdate> 
+				<physdesc><extent>7 folders. </extent></physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Carlton Avenue. Athletics, dinners, ceremonies, building
+				  interiors and exteriors, group photos, youth activities and Camp Carlton. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">42</container> 
+				<unittitle>Flatbush Branch, </unittitle> 
+				<unitdate type="inclusive">1920s-1960s.</unitdate> 
+				<physdesc><extent>12 folders. </extent></physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Church Avenue and Kenmore Place. Grand opening, youth
+				  activities, Hi-Y Sigma Nu, building plans, dinner dance, building exteriors and
+				  interiors, athletics and ceremonies. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">43</container> 
+				<unittitle>Brooklyn Central Branch, </unittitle> 
+				<unitdate type="inclusive">1880s-1970s.</unitdate> 
+				<physdesc><extent>17 folders.</extent></physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Remsen Street. Includes images of first building on Fulton
+				  Street, gym activities, youth and adult activities, ;youth Christmas event,
+				  industrial work with immigrants, group photos, massage room, ping-pong,
+				  building interiors and exteriors, athletics, aquatics, old YMCA building, youth
+				  basketball, YMCA members and staff. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">43</container> 
+				<unittitle>Booklyn-Queens, </unittitle> 
+				<unitdate type="inclusive">1850s, 1979. </unitdate> 
+				<physdesc><extent>2 folders. </extent></physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Includes images of original Brooklyn YMCA building on Washington
+				  Street, and youth basketball photos.</p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">50</container> 
+				<unittitle>Eastern District Branch, </unittitle> 
+				<unitdate type="inclusive">1890s-1970s.</unitdate> 
+				<physdesc><extent>9 folders. </extent></physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>South Ninth Street and Marcy Avenue. Meetings, youth
+				  presentations, weight lifting, camp, building exteriors and interiors, group
+				  pictures, dances, boys and girls athletics and games. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">51</container> 
+				<unittitle>Bush Terminal,</unittitle> 
+				<unitdate type="inclusive">1920s. </unitdate> 
+				<physdesc><extent>3 folders. </extent></physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Fortieth Street and Second Avenue. Includes photos of volleyball
+				  game, Americanization class, street movie night, shop meeting, annual minstrel
+				  show and building interiors and exteriors. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">57</container> 
+				<unittitle>New Utrecht Branch, </unittitle> 
+				<unitdate type="inclusive">1920s-1950s.</unitdate> 
+				<physdesc><extent>6 folders. </extent></physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Eighty-fourth Street. Building exteriors and interiors,
+				  athletics and ceremonies. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">57</container> 
+				<unittitle>Greenpoint, </unittitle> 
+				<unitdate type="inclusive">1930s-1960s.</unitdate> 
+				<physdesc><extent>5 folders. </extent></physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Manhattan Avenue. Includes YMCA executive meeting, building
+				  interiors, athletics and ceremonies. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">60</container> 
+				<unittitle>C.O.B.Y., </unittitle> 
+				<unitdate type="inclusive">1950s. </unitdate> 
+			 </did> 
+			 <scopecontent> 
+				<p>Career Opportunities for Brooklyn Youth. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">60</container> 
+				<unittitle>Fort Hamilton Branch, </unittitle> 
+				<unitdate type="inclusive">undated. </unitdate> 
+			 </did> 
+			 <scopecontent> 
+				<p>Exterior of building. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">60</container> 
+				<unittitle>Sunset Park Branch, </unittitle> 
+				<unitdate type="inclusive">1950s. </unitdate> 
+				<physdesc><extent>1 folder. </extent></physdesc> 
+			 </did> 
+		  </c02> 
+		</c01> 
+		<c01 level="series"> 
+		  <did> 
+			 <unittitle>Bronx Branches</unittitle> 
+		  </did> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">60</container> 
+				<unittitle>Kingsbridge Branch, </unittitle> 
+				<unitdate type="inclusive">1958. </unitdate> 
+			 </did> 
+			 <scopecontent> 
+				<p>Boys playing with train set. </p> 
+			 </scopecontent> 
+		  </c02> 
+		</c01> 
+		<c01 level="series"> 
+		  <did> 
+			 <unittitle>Queens Branches</unittitle> 
+		  </did> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">29</container> 
+				<unittitle>Eastern Queens Branch, </unittitle> 
+				<unitdate type="inclusive">1950s-1980s. </unitdate> 
+				<physdesc><extent>15 folders. </extent></physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Hillside Avenue. Gymnastics, youth activities, construction,
+				  ground-breaking, site plans, athletics, exteriors and ceremonies. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">29</container> 
+				<unittitle>Ridgewood Branch, </unittitle> 
+				<unitdate type="inclusive">1950s-1980s. </unitdate> 
+				<physdesc>5 folders. <extent/></physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>YMCA Twirlers, outdoor ceremony, youth arts and crafts, youth
+				  activities and annual dinner dance. See also finding aid for Highland Branch
+				  photographs at http://special.lib.umn.edu/findaid/html/ymca/ygny0016x1.phtml.
+				  </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">33</container> 
+				<unittitle>Long Island City Branch, </unittitle> 
+				<unitdate type="inclusive">1930s-1960s. </unitdate> 
+				<physdesc><extent>10 folders. </extent></physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Academy Street. Athletics, building exteriors and interiors,
+				  ceremonies, exhibit of Henry Kaufman Day Camp and Family Center. photos
+				  provided by branch Camera Club for display in "Our Boys", hockey team with pro
+				  hockey player. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">50</container> 
+				<unittitle>Bay Ridge, </unittitle> 
+				<unitdate type="inclusive">1960s. </unitdate> 
+				<physloc>2 folders. </physloc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Fourth Avenue and Senator Street. Youth, including Summer Fun
+				  Club. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">51</container> 
+				<unittitle>Central Queens,</unittitle> 
+				<unitdate type="inclusive">1920s-1960s. </unitdate> 
+				<physdesc> <extent>14 folders.</extent></physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Parsons Boulevard. Youth activities, building exteriors and
+				  interiors, day camp, athletics, aquatics, dinners, crafts, camping, Jackie
+				  Robinson and Saturday night dances. </p> 
+			 </scopecontent> 
+		  </c02> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">60</container> 
+				<unittitle>Fort Slocum Branch, </unittitle> 
+				<unitdate type="inclusive">1920s, 1950s. </unitdate> 
+				<physdesc><extent>2 folders. </extent></physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>WW I solders, building exteriors. </p> 
+			 </scopecontent> 
+		  </c02> 
+		</c01> 
+		<c01 level="series"> 
+		  <did> 
+			 <unittitle>Staten Island Branches </unittitle> 
+		  </did> 
+		  <c02 level="file"> 
+			 <did> 
+				<container type="box">44</container> 
+				<unittitle>Staten Island Branch, </unittitle> 
+				<unitdate type="inclusive">1950s-1970s. </unitdate> 
+				<physdesc><extent>4 folders. </extent></physdesc> 
+			 </did> 
+			 <scopecontent> 
+				<p>Camp Mohawk, day camp, arts and crafts, picnics, children's
+				  activities, dinners. </p> 
+			 </scopecontent> 
+		  </c02> 
+		</c01> 
+	 </dsc> 
+	 <controlaccess> 
+		<head id="a7">INDEX TERMS</head> 
+		<p>This collection is indexed under the following headings in the catalog
+		  of the University of Minnesota Libraries. Researchers desiring materials about
+		  related topics, persons or places should search the catalog using these
+		  headings.</p> 
+		<controlaccess> 
+		  <head>Topics:</head> 
+		  <subject encodinganalog="650" source="lcsh" rules="aacr2">Young Men's
+			 Christian associations -- New York (State) -- Brooklyn.</subject> 
+		  <subject encodinganalog="650" source="lcsh" rules="aacr2">Young Men's
+			 Christian associations -- New York (State) -- Bronx.</subject> 
+		  <subject encodinganalog="650" source="lcsh" rules="aacr2">Young Men's
+			 Christian associations -- New York (State) -- New York. </subject> 
+		  <subject encodinganalog="650" source="lcsh" rules="aacr2">Young Men's
+			 Christian associations -- New York (State) -- Staten Island. </subject> 
+		  <subject encodinganalog="650" source="lcsh" rules="aacr2">Young Men's
+			 Christian associations -- Buildings.</subject> 
+		</controlaccess> 
+		<controlaccess> 
+		  <head>Places:</head> 
+		  <geogname encodinganalog="651" source="lcsh" rules="aacr2" role="subject">New York (N.Y.) </geogname> 
+		</controlaccess> 
+		<controlaccess> 
+		  <head>Organizations:</head> 
+		  <corpname encodinganalog="610" source="lcnaf" rules="aacr2" role="subject">YMCA of Greater New York. </corpname> 
+		  <corpname encodinganalog="610" source="lcnaf" rules="aacr2" role="subject">Brooklyn and Queens Young Men’s Christian
+			 Association.</corpname> 
+		</controlaccess> 
+		<controlaccess> 
+		  <head>Types of Documents:</head> 
+		  <genreform encodinganalog="655" source="aat">Photographs.</genreform> 
+		</controlaccess> 
+	 </controlaccess> 
+  </archdesc> 
+</ead>

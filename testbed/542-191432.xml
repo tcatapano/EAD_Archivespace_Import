@@ -1,0 +1,105 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "http://lcweb2.loc.gov/xmlcommon/dtds/ead2002/ead.dtd">
+<ead relatedencoding="MARC21"> 
+ <eadheader relatedencoding="Dublin Core" findaidstatus="edited-full-draft" langencoding="iso639-2b" scriptencoding="iso15924" audience="internal" id="a0">
+	 <eadid encodinganalog="852$a" url="http://hdl.handle.net/10407/8703071716" identifier="10407/8703071716"> ksrl.kc.braithwaitewilliam
+	 </eadid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper> Guide to the William Stanley Beaumont Braithwaite Collection</titleproper> 
+<subtitle>William Stanley Beaumont Braithwaite correspondence, 1914-1927</subtitle>		   
+		  <author> lgg 1974</author> 
+		</titlestmt> 
+		<publicationstmt> 
+		  <publisher> University of Kansas </publisher> 
+		  <address> 
+			 <addressline> Lawrence, KS 66045</addressline> 
+		  </address> 
+		  <date> 2004
+		  </date> 
+		</publicationstmt> 
+	 </filedesc> 
+	 <profiledesc> 
+		<creation> mg
+		  <date> 2004
+		  </date> </creation> 
+		<langusage>Finding aid written in<language> English.</language>
+		  </langusage> 
+	 </profiledesc> 
+  </eadheader> 
+  <archdesc level="collection" type="inventory"> 
+	 <did id="a1"> 
+		<head> COLLECTION SUMMARY</head>
+		 
+		<repository label="Repository:" encodinganalog="852$a"> 
+		  <corpname encodinganalog="852$a"> University of Kansas <subarea>Kenneth
+		  Spencer Research Library</subarea><subarea>Kansas Collection</subarea></corpname> 
+		  <address> 
+			 <addressline> 1450 Poplar Lane, Lawrence, KS 66045-7616
+				</addressline> 
+			 <addressline>Phone: (785) 864 - 4334</addressline>
+			 <addressline>Fax: (785) 864-5803</addressline>
+			 <addressline>URL: http://spencer.lib.ku.edu</addressline>
+		  </address> </repository> 
+		<origination label="Creator:"> 
+		  <persname> Braithwaite, William Stanley Beaumont
+		  </persname> </origination> 
+		<unittitle label="Title:" encodinganalog="245"> William Stanley Beaumont Braithwaite correspondence</unittitle> 
+		<unitdate type="inclusive" label="Dates:" encodinganalog="245$f"> 1914-1927</unitdate> 
+		<physdesc><extent label="Quantity:" encodinganalog="300$a"> 34 items
+	</extent>	</physdesc> 
+		 
+		<abstract>Correspondence received from various Kansas authors in response to Braithwaite's request for poems to be anthologized, or in some instances authors offering poetry for publication. Some of the poets were members of The Kansas Authors Club.</abstract><unitid label="Identification:" encodinganalog="099" repositorycode="US-KKU" countrycode="us" type="call #"> RH MS P229
+		</unitid> 
+	 </did> 
+	
+	 <accessrestrict id="a14" encodinganalog="506"> 
+		<head>RESTRICTIONS on ACCESS</head> 
+		<p> None
+		</p> 
+	 </accessrestrict> 
+	 <userestrict id="a15" encodinganalog="540"> 
+		<head>RESTRICTIONS on USE</head> 
+		 
+		<p> Spencer Library staff may determine  use restrictions
+		  dependent on the physical condition of manuscript materials.</p>
+	 </userestrict>
+	  
+	 <controlaccess id="a12"> 
+		<head> INDEX TERMS</head> 
+		 
+		<controlaccess> 
+		  <head>Names:</head> 
+		  <persname source="lcnaf" encodinganalog="700"> Robinson, May Griffee
+		  </persname> 
+		<persname>Searson, James William, 1873-1927</persname><persname>Reinceke, John E.</persname><persname> Haughawout, Margaret E.</persname><persname>Hanmit, Edwin P.</persname><persname>Wright, Hilliard</persname><persname>Diehnel, Ellie Tatun</persname><persname>Orr, Hugh Robert</persname><persname>Lowdermilk, Patricia Cannales</persname><persname>Price, M. Etta</persname><persname>Sherar, Marguerite F.</persname><persname>Whitcomb, Edna Pearl (Osborne), 1892</persname><persname>Whitcomb, Selden Lincoln</persname><persname>Smith, J. Albert</persname><persname>Pinet, Frank Leo, 1881-1941</persname></controlaccess> 
+		<controlaccess> 
+		  <head>Organizations:</head> 
+		  <corpname source="lcnaf" encodinganalog="710"> Kansas Authors Club
+		  </corpname> 
+		</controlaccess> 
+		<controlaccess> 
+		  <head>Subjects:</head> 
+		  <subject source="lcsh" encodinganalog="650"> Poets, Women
+		  </subject> 
+		<subject>Authors. Correspondence, reminiscences, etc.</subject><subject>Poetry, American. Kansas.</subject></controlaccess> 
+		 
+		 
+		 
+	  </controlaccess> 
+	  
+	  
+	  
+	  
+	 <prefercite id="a18" encodinganalog="524"> 
+		<head>PREFERRED CITATION</head> 
+		<p>William Stanley Beaumont Braithwaite Collection, Kansas Collection, RH MS P229Kenneth Spencer Research Library, University of Kansas</p> 
+	 </prefercite> 
+	 <acqinfo id="a19" encodinganalog="541"> 
+		<head>ACQUISITION INFORMATION</head> 
+		<p> Purchase, Pentelic Press, 1974
+		</p> 
+	 </acqinfo> 
+
+  </archdesc> 
+</ead>

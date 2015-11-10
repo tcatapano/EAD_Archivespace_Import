@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="ss.xsl"?>
+<ead>
+  <eadheader langencoding="iso639-2b" scriptencoding="iso15924" relatedencoding="Dublin Core" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" id="a0">
+    <eadid countrycode="us" encodinganalog="Identifier" />
+    <filedesc>
+      <titlestmt>
+        <titleproper encodinganalog="Title">Finding Aid for Seaman-Patrick Paper Company records, <date encodinganalog="Date">1905-1922.</date></titleproper>
+        <author encodinganalog="Creator">Justin Lee Tyler</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher encodinganalog="Publisher">Detroit Public Library</publisher>
+        <address>
+          <addressline>Detroit, Mich. 48202</addressline>
+        </address>
+        <date encodinganalog="Date" />
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation encodinganalog="Description">Finding aid encoded by MarcEdit
+                        <date era="ce" calendar="gregorian" normal="2003">2010</date></creation>
+      <langusage>English.</langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection" type="inventory" relatedencoding="MARC21">
+    <did id="a1">
+      <repository encodinganalog="852">
+        <corpname encodinganalog="852$a">Detroit Public Library. <subarea encodinganalog="852$b">Burton Historical Collection.</subarea></corpname>
+      </repository>
+      <unitid encodinganalog="541$e" id="a30">03543</unitid>
+      <unitid encodinganalog="099" label="Call Number:">MS/Seaman-Patrick Paper Company.</unitid>
+      <origination>
+        <corpname encodinganalog="110" source="lcnaf" role="creator" rules="AACR2R">Seaman-Patrick Paper Company.</corpname>
+      </origination>
+      <unittitle encodinganalog="245$a" type="collection">Seaman-Patrick Paper Company records, </unittitle>
+      <unitdate type="inclusive" encodinganalog="245$f">1905-1922.</unitdate>
+      <physdesc>
+        <extent encodinganalog="300$a">46 Linear ft. </extent>
+        <extent encodinganalog="300$b">(8 boxes, 62 volumes, 1 large manuscript)</extent>
+      </physdesc>
+      <abstract encodinganalog="520$a">This collection contains records of the company, from its early days as Bermingham-Seaman-Patrick Co., to accounts up to the 1980s. Personal papers include those of Robert A. Patrick and the Forest W. Starling family.</abstract>
+      <langmaterial>
+        <language encodinganalog="546">In English.</language>
+      </langmaterial>
+    </did>
+    <bioghist encodinganalog="545" id="a2">
+      <head>Biographical/Historical note</head>
+      <p>The Bermingham  Seaman Company of Chicago, with George M. Seaman as president, was one of the largest paper jobbers in the county. When they decided to open a Detroit office in 1911, they sought out Robert A. Patrick, a young Detroiter who was well known in the paper trade. The Detroit Corporation was called Bermingham-Seaman-Patrick Company, with Mr. Patrick serving as president and manager. In 1917 the name Seaman-Patrick Paper Company was adopted for the Detroit house, and the Chicago firm was known as the Seaman Paper Company. The Detroit organization, under the management of Mr. Patrick, quickly reached the point of being the largest wholesale paper business in the State of Michigan, dealing in fine printing papers exclusively. After Mr. Patrick died in 1920, Forrest W. Starling managed the company. Located at the corner of Cass and Larned Streets in Detroit, Mich., the Seaman-Patrick Paper Co. moved to 1225 Vermont Ave. in Jan. 1925. George Seaman remained president of the company throughout the early 1920s. By 1928 John G. Starling was president. His son Forrest was treasurer and general Manager. As of 2008, the company still exists, located at 2065 W. Fort St. in Detroit, Mich.</p>
+    </bioghist>
+    <bioghist encodinganalog="545" id="a2">
+      <head>Biographical/Historical note</head>
+      <p>Robert Alexander Patrick was born in Detroit on Feb. 5, 1881. In 1812 he was married to Mary G. Everson and they had two children. Mr. Patrick died of pneumonia on Feb. 6, 1920, at the age of 39.</p>
+    </bioghist>
+    <arrangement encodinganalog="351" id="a4">
+      <head>Arrangement note</head>
+      <p>Organized by Series: I. Corporation records.  II. Related companies.  III. Personal papers.</p>
+    </arrangement>
+    <accessrestrict encodinganalog="506" id="a14">
+      <head>Restrictions</head>
+      <p>This collection is open for research use as of Feb. 22, 2008.</p>
+    </accessrestrict>
+    <otherfindaid encodinganalog="555" id="a8">
+      <head>Other finding aids note</head>
+      <p>Finding aid and white index cards available in the Burton Historical Collection and on the World Wide Web.</p>
+    </otherfindaid>
+    <controlaccess id="a12">
+      <head>Selected Search Terms</head>
+      <p>This collection is indexed under the following headings in the online catalog. Researchers desiring materials about related topics, persons, or places should search the catalog using these headings.</p>
+      <controlaccess>
+        <famname source="lcnaf" rules="aacr2r" role="subject" encodinganalog="600">Patrick, Robert Alexander, 1881-1920.</famname>
+      </controlaccess>
+      <controlaccess>
+        <famname source="lcnaf" rules="aacr2r" role="subject" encodinganalog="600">Starling family</famname>
+      </controlaccess>
+      <controlaccess>
+        <corpname source="lcnaf" rules="aacr2r" role="subject" encodinganalog="610">Seaman-Patrick Paper Company -- Archives.</corpname>
+      </controlaccess>
+      <controlaccess>
+        <corpname source="lcnaf" rules="aacr2r" role="subject" encodinganalog="610">Vermont Realty  Investment Co.</corpname>
+      </controlaccess>
+      <controlaccess>
+        <corpname source="lcnaf" rules="aacr2r" role="subject" encodinganalog="610">Bermingham  Seaman Company.</corpname>
+      </controlaccess>
+      <controlaccess>
+        <corpname source="lcnaf" rules="aacr2r" role="subject" encodinganalog="610">Bermingham-Seaman-Patrick Company.</corpname>
+      </controlaccess>
+      <controlaccess>
+        <corpname source="lcnaf" rules="aacr2r" role="subject" encodinganalog="610">Seaman Paper Company.</corpname>
+      </controlaccess>
+      <controlaccess>
+        <subject source="lcsh" encodinganalog="650" rules="scm">Paper industry -- Michigan -- Detroit.</subject>
+      </controlaccess>
+      <controlaccess>
+        <subject source="lcsh" encodinganalog="650" rules="scm">Real estate agents -- Vermont.</subject>
+      </controlaccess>
+      <controlaccess>
+        <subject source="lcsh" encodinganalog="650" rules="scm">Small business investment companies -- Vermont.</subject>
+      </controlaccess>
+      <controlaccess>
+        <genreform source="lcsh" encodinganalog="655">Account books. -- aat</genreform>
+      </controlaccess>
+      <controlaccess>
+        <genreform source="lcsh" encodinganalog="655">Business records. -- aat</genreform>
+      </controlaccess>
+      <controlaccess>
+        <genreform source="lcsh" encodinganalog="655">Financial records. -- aat</genreform>
+      </controlaccess>
+      <controlaccess>
+        <genreform source="lcsh" encodinganalog="655">Photographs. -- aat</genreform>
+      </controlaccess>
+      <controlaccess>
+        <genreform source="lcsh" encodinganalog="655">Clippings (information artifacts). -- aat</genreform>
+      </controlaccess>
+      <controlaccess>
+        <genreform source="lcsh" encodinganalog="655">Personal correspondence. -- aat</genreform>
+      </controlaccess>
+      <controlaccess>
+        <genreform source="lcsh" encodinganalog="655">Stock certificates. -- aat</genreform>
+      </controlaccess>
+    </controlaccess>
+    <dsc type="combined" id="a23">
+      <head>Container List</head>
+      <p>The following section contains a detailed listing of the materials in
+                the collection.</p>
+<c01 level="series"><did><unittitle>	Series 1: Corporation Records						</unittitle></did>				
+<scopecontent><head>Scope and Contents note</head><p>	This series concerns the Seaman-Patrick Paper Company's financial records, legal papers, time books and correspondence.					</p></scopecontent>					
+<c02 level="file"><did><container type="Box:File">	1:1	</container><unittitle>	Account Book, 1908-1912				</unittitle></did>				
+<c03 level="file"><did><container type="Box:Item">	1:2	</container><unittitle>	1919, L-Z				</unittitle></did>		</c03>		
+<c03 level="file"><did><container type="Box:Item">	1:3	</container><unittitle>	1921-1962				</unittitle></did>		</c03>		
+<c03 level="file"><did><container type="Box:Item">	1:4	</container><unittitle>	1932				</unittitle></did>		</c03>	</c02>	
+<c02 level="file"><did><container type="Box:File">	1:5	</container><unittitle>	Bills Receivable, 1928-1940				</unittitle></did>			</c02>	
+<c02 level="file"><did><container type="Box:File">	1:6	</container><unittitle>	Canceled Checks, 1930-1949				</unittitle></did>			</c02>	
+<c02 level="file"><did><container type="Box:File">	1:7	</container><unittitle>	Check Stubs, 1911-1915				</unittitle></did>			</c02>	
+<c02 level="file"><did><container type="Box:File">	1:8	</container><unittitle>	Corporation Records				</unittitle></did>				
+<c03 level="file"><did><container type="Box:Item">	1:9	</container><unittitle>	Insurance Papers, 1918-1961				</unittitle></did>		</c03>	</c02>	
+<c02 level="file"><did><container type="Box:File">	2:1	</container><unittitle>	Corporation Records—Legal Papers; Court Case, 1923-1926				</unittitle></did>			</c02>	
+<c02 level="file"><did><container type="Box:File">	2:2	</container><unittitle>	Correspondence/Miscellaneous, 1916-1917; n.d.				</unittitle></did>			</c02>	
+<c02 level="file"><did><container type="Box:File">	2:3	</container><unittitle>	International Hospital Record, 1909-1910				</unittitle></did>			</c02>	
+<c02 level="file"><did><container type="Box:File">	2:4	</container><unittitle>	Invoices/Orders, 1924-1946				</unittitle></did>			</c02>	
+<c02 level="file"><did><container type="Box:File">	2:5	</container><unittitle>	National Insurance Register, 1924-1960				</unittitle></did>			</c02>	
+<c02 level="file"><did><container type="Box:File">	2:6	</container><unittitle>	Notes and Bills—Payable, 1915-1916				</unittitle></did>				
+<c03 level="file"><did><container type="Box:Item">	2:7	</container><unittitle>	Receivable, 1907-1914				</unittitle></did>		</c03>		
+<c03 level="file"><did><container type="Box:Item">	2:8	</container><unittitle>	1924-1927				</unittitle></did>		</c03>	</c02>	
+<c02 level="file"><did><container type="Box:File">	2:9	</container><unittitle>	Receipts, 1912-1924				</unittitle></did>			</c02>	
+<c02 level="file"><did><container type="Box:File">	2:10	</container><unittitle>	Report Sheets, 1923				</unittitle></did>			</c02>	
+<c02 level="file"><did><container type="Box:File">	3:1	</container><unittitle>		Stock Ledger, 1923-1936			</unittitle></did>			</c02>	
+<c02 level="file"><did><container type="Box:File">	3:2	</container><unittitle>		Stockholders/Proxies, 1963-1965			</unittitle></did>			</c02>	
+<c02 level="file"><did><container type="Box:File">	3:3	</container><unittitle>		Material from Time Books (see Volumes for Time Books), 1920-1922			</unittitle></did>				
+<c03 level="file"><did><container type="Box:Item">	3:4	</container><unittitle>		1925-1931			</unittitle></did>		</c03>		
+<c03 level="file"><did><container type="Box:Item">	3:5	</container><unittitle>		1951-1953			</unittitle></did>		</c03>	</c02>	
+<c02 level="subseries"><did><unittitle>	Sub-series A: Stock Certificates						</unittitle></did>				
+<c03 level="file"><did><container type="Box:Item">	3:6	</container><unittitle>		1921-1923			</unittitle></did>		</c03>		
+<c03 level="file"><did><container type="Box:Item">	3:7	</container><unittitle>		1923-1924			</unittitle></did>		</c03>		
+<c03 level="file"><did><container type="Box:Item">	3:8	</container><unittitle>		1923-1930			</unittitle></did>		</c03>		
+<c03 level="file"><did><container type="Box:Item">	4:	</container><unittitle>	Stock Certificates, 1923-1928				</unittitle></did>		</c03>		
+<c03 level="file"><did><container type="Box:Item">	5:1	</container><unittitle>		1931-1936			</unittitle></did>		</c03>		
+<c03 level="file"><did><container type="Box:Item">	5:2	</container><unittitle>		1941-1963			</unittitle></did>		</c03>	</c02>	</c01>
+											
+<c01 level="series"><did><unittitle>	Series II: Related Companies						</unittitle></did>				
+<scopecontent><head>Scope and Contents note</head><p>	Before his connection with the Bermingham-Seaman Paper Company, Robert A. Patrick worked for F.S. Dresskell andCompany. After Mr. Dresskcll's retirement in 1908, the company was renamed Dresskell Paper Company, and Mr. Patrick was appointed manager of the new undertaking. Papers from this company are included in this series, along with other companies such as Carpenter Paper Company and Vermont Realty andInvestment Company.					</p></scopecontent>					
+<c02 level="file"><did><container type="Box:File">	5:3	</container><unittitle>		Carpenter Paper Company, 1935-1936 (see also Volumes)			</unittitle></did>			</c02>	
+<c02 level="file"><did><container type="Box:File">	5:4	</container><unittitle>		Dresskell Paper Company (see also Volumes)—Stock Certificates, 1908-1910			</unittitle></did>			</c02>	
+<c02 level="file"><did><container type="Box:File">	5:5	</container><unittitle>		Evans-Winter-Hebb, 1928-1942			</unittitle></did>			</c02>	
+<c02 level="file"><did><container type="Box:File">	5:6	</container><unittitle>		Vermont Building andLand company, 1928-1930			</unittitle></did>				
+<c03 level="file"><did><container type="Box:Item">	5:7	</container><unittitle>		Stock Certificates, 1928			</unittitle></did>		</c03>	</c02>	
+<c02 level="subseries"><did><unittitle>	Sub-series A: Bermingham-Seaman-Patrick Company (sec also Volumes)						</unittitle></did>				
+<c03 level="file"><did><container type="Box:Item">	5:8	</container><unittitle>	Check Book, 1933				</unittitle></did>		</c03>		
+<c03 level="file"><did><container type="Box:Item">	6:1	</container><unittitle>		Payroll, 1917; 1919			</unittitle></did>		</c03>		
+<c03 level="file"><did><container type="Box:Item">	6:2	</container><unittitle>		Stock Certificates, 1911-1921			</unittitle></did>		</c03>	</c02>	
+<c02 level="subseries"><did><unittitle>	Sub-series B: Vermont Realty andInvestment Company (see also Volumes)						</unittitle></did>				
+<c03 level="file"><did><container type="Box:Item">	6:3	</container><unittitle>		Abstracts of Title—Lefferty Farm			</unittitle></did>		</c03>		
+<c03 level="file"><did><container type="Box:Item">	6:4	</container><unittitle>		Johnson's Subdivision, Lots 17, 18 and19			</unittitle></did>				
+<c04 level="file"><did><container type="Box:Item">	6:5	</container><unittitle>		Johnston s Subdivision, Lots 20 and21			</unittitle></did>	</c04>			
+<c04 level="file"><did><container type="Box:Item">	6:6	</container><unittitle>		Lot 22			</unittitle></did>	</c04>			
+<c04 level="file"><did><container type="Box:Item">	6:7	</container><unittitle>		Lots 23, 24, 24 and26			</unittitle></did>	</c04>	</c03>		
+<c03 level="file"><did><container type="Box:Item">	6:8	</container><unittitle>		Account Book, 1928-1961			</unittitle></did>		</c03>		
+<c03 level="file"><did><container type="Box:Item">	6:9	</container><unittitle>		Agreements, 1960			</unittitle></did>		</c03>		
+<c03 level="file"><did><container type="Box:Item">	6:10	</container><unittitle>		Bank Statements, 1967-1968			</unittitle></did>		</c03>		
+<c03 level="file"><did><container type="Box:Item">	7:1	</container><unittitle>		Corporation Papers, 1920-1956			</unittitle></did>		</c03>		
+<c03 level="file"><did><container type="Box:Item">	7:2	</container><unittitle>		Electrical Trades Specifications, 1960			</unittitle></did>		</c03>		
+<c03 level="file"><did><container type="Box:Item">	7:3	</container><unittitle>		Land Records, 1936-1951			</unittitle></did>		</c03>		
+<c03 level="file"><did><container type="Box:Item">	7:4	</container><unittitle>		Proxies, 1960-1965			</unittitle></did>		</c03>		
+<c03 level="file"><did><container type="Box:Item">	7:5	</container><unittitle>		Stock Certificates, 1928-1929			</unittitle></did>				
+<c04 level="file"><did><container type="Box:Item">	7:6	</container><unittitle>		1929			</unittitle></did>	</c04>	</c03>	</c02>	</c01>
+
+<c01 level="series"><did><unittitle>	Series III: Personal Papers (See also LMS)						</unittitle></did>				
+<bioghist><head>Biographical/Historical note</head><p>	Robert Alexander Patrick was born in Detroit on February 5, 1881. In 1912 he was married to Mary G. Everson and they had two children. Mr. Patrick died of pneumonia on February 6, 1920, at the age of 39. Personal papers for Mr. And Mrs. Patrick include receipts and insurance papers.					</p></bioghist>					
+<scopecontent><head>Scope and Contents note</head><p>	The Starling family features prominently in the Seaman-Patrick Paper Company story. John G. Starling served as president in the late 1920s; his son Forrest began as a salesman and worked his way up to company executive. Forrest W. Starling, who retired from S.P.P.C. in 1972, died in May 1973. His son, William, was Board Chairman of S.P.P.C., having worked for the company for fifty years before his retirement in 1995. William Starling, of Grosse Ile, died on December 20, 1998 at the age of eighty-six. Personal papers of the Starling family include audio-video materials, newspaper clippings and photographs.					</p></scopecontent>					
+<c02 level="file"><did><container type="Box:File">	7:7	</container><unittitle>		Mr. and Mrs. Robert Alexander Patrick, 1916-1918			</unittitle></did>			</c02>	
+<c02 level="file"><did><container type="Box:File">	7:8	</container><unittitle>		Edythe Searle Starling, 1932-1945			</unittitle></did>			</c02>	
+<c02 level="file"><did><container type="Box:File">	7:9	</container><unittitle>		Audio/Video Materials—Audio Cassette Tapes:			</unittitle></did>				
+<c03 level="file"><did><container type="Box:Item">	7:9	</container><unittitle>		Starling Distress			</unittitle></did>		</c03>		
+<c03 level="file"><did><container type="Box:Item">	7:9	</container><unittitle>		Gintzig			</unittitle></did>		</c03>	</c02>	
+<c02 level="file"><did><container type="Box:File">	7:10	</container><unittitle>		8 mm Sound Movie Film: Bermuda			</unittitle></did>				
+<c03 level="file"><did><container type="Box:Item">	7:10	</container><unittitle>		Gintzig (6 reels)			</unittitle></did>		</c03>		
+<c03 level="file"><did><container type="Box:Item">	7:10	</container><unittitle>		Life on the Farm, 1982			</unittitle></did>		</c03>		
+<c03 level="file"><did><container type="Box:Item">	7:10	</container><unittitle>		Mess-up			</unittitle></did>		</c03>		
+<c03 level="file"><did><container type="Box:Item">	7:10	</container><unittitle>		New Year's Eve 			</unittitle></did>		</c03>		
+<c03 level="file"><did><container type="Box:Item">	7:10	</container><unittitle>		Traders Party			</unittitle></did>		</c03>	</c02>	
+<c02 level="file"><did><container type="Box:File">	8:1	</container><unittitle>		Miscellaneous			</unittitle></did>			</c02>	
+<c02 level="file"><did><container type="Box:File">	8:2	</container><unittitle>		Newspaper Clippings, 1932-1953			</unittitle></did>			</c02>	
+<c02 level="file"><did><container type="Box:File">	8:3	</container><unittitle>		Photographs—Dated/Identified, 1947-1953			</unittitle></did>				
+<c03 level="file"><did><container type="Box:Item">	8:4	</container><unittitle>		Dated/Unidentified, [1920s]-1992			</unittitle></did>		</c03>		
+<c03 level="file"><did><container type="Box:Item">	8:5	</container><unittitle>		Identified/Undated			</unittitle></did>		</c03>		
+<c03 level="file"><did><container type="Box:Item">	8:6	</container><unittitle>		Unidentified/Undated—Babies and Children			</unittitle></did>		</c03>		
+<c03 level="file"><did><container type="Box:Item">	8:7	</container><unittitle>		Dogs/Scenes and Houses			</unittitle></did>		</c03>		
+<c03 level="file"><did><container type="Box:Item">	8:8	</container><unittitle>		Groups			</unittitle></did>		</c03>		
+<c03 level="file"><did><container type="Box:Item">	8:9	</container><unittitle>		Men andBoys			</unittitle></did>		</c03>		
+<c03 level="file"><did><container type="Box:Item">	8:10	</container><unittitle>		Women andGirls/Adults with Children			</unittitle></did>		</c03>	</c02>	</c01>
+<c01 level="file"><did><container type="LMS"></container><unittitle>			Plans, Starling Residence				</unittitle></did>				</c01>
+											
+											
+											
+<c01 level="file"><did><container type="Volume"></container><unittitle>	Account Books		</unittitle></did>								</c01>
+<c01 level="file"><did><container type="Volume"></container><unittitle>	Mills, 1908-1915		</unittitle></did>								
+<c02 level="file"><did><container type="Volume"></container><unittitle>	1912-1915 		</unittitle></did>							</c02>	
+<c02 level="file"><did><container type="Volume"></container><unittitle>	1913-1915 		</unittitle></did>							</c02>	
+<c02 level="file"><did><container type="Volume"></container><unittitle>	1914-1915, J-Z		</unittitle></did>							</c02>	
+<c02 level="file"><did><container type="Volume"></container><unittitle>	1928-1962 		</unittitle></did>							</c02>	
+<c02 level="file"><did><container type="Volume"></container><unittitle>	1969-1982 		</unittitle></did>							</c02>	
+<c02 level="file"><did><container type="Volume"></container><unittitle>	1980-1983		</unittitle></did>							</c02>	</c01>
+<c01 level="file"><did><container type="Volume"></container><unittitle>	Cash Journals		</unittitle></did>								
+<c02 level="file"><did><container type="Volume"></container><unittitle>	1922-1926 		</unittitle></did>							</c02>	
+<c02 level="file"><did><container type="Volume"></container><unittitle>	1927-1932 		</unittitle></did>							</c02>	
+<c02 level="file"><did><container type="Volume"></container><unittitle>	1933-1938 		</unittitle></did>							</c02>	
+<c02 level="file"><did><container type="Volume"></container><unittitle>	1940-1945 		</unittitle></did>							</c02>	
+<c02 level="file"><did><container type="Volume"></container><unittitle>	1946-1952 		</unittitle></did>							</c02>	
+<c02 level="file"><did><container type="Volume"></container><unittitle>	1957-1960 		</unittitle></did>							</c02>	
+<c02 level="file"><did><container type="Volume"></container><unittitle>	1963		</unittitle></did>							</c02>	</c01>
+<c01 level="file"><did><container type="Volume"></container><unittitle>	Detroit Balance Books 		</unittitle></did>								
+<c02 level="file"><did><container type="Volume"></container><unittitle>	1912		</unittitle></did>							</c02>	
+<c02 level="file"><did><container type="Volume"></container><unittitle>	1912-1913 		</unittitle></did>							</c02>	
+<c02 level="file"><did><container type="Volume"></container><unittitle>	1914-1915		</unittitle></did>							</c02>	</c01>
+<c01 level="file"><did><container type="Volume"></container><unittitle>	Dividends, 1928-1935		</unittitle></did>								</c01>
+<c01 level="file"><did><container type="Volume"></container><unittitle>	Financial Statements 		</unittitle></did>								
+<c02 level="file"><did><container type="Volume"></container><unittitle>	1961-1968 		</unittitle></did>							</c02>	
+<c02 level="file"><did><container type="Volume"></container><unittitle>	1969-1975		</unittitle></did>							</c02>	</c01>
+<c01 level="file"><did><container type="Volume"></container><unittitle>	General Journal, 1968-1975		</unittitle></did>								</c01>
+<c01 level="file"><did><container type="Volume"></container><unittitle>	Ledger, 1914		</unittitle></did>								</c01>
+<c01 level="file"><did><container type="Volume"></container><unittitle>	Letter Books		</unittitle></did>								
+<c02 level="file"><did><container type="Volume"></container><unittitle>	1905		</unittitle></did>							</c02>	
+<c02 level="file"><did><container type="Volume"></container><unittitle>	1905-1906		</unittitle></did>							</c02>	</c01>
+<c01 level="file"><did><container type="Volume"></container><unittitle>	Minute Books		</unittitle></did>								
+<c02 level="file"><did><container type="Volume"></container><unittitle>	1946-1963		</unittitle></did>							</c02>	
+<c02 level="file"><did><container type="Volume"></container><unittitle>	1962-1971		</unittitle></did>							</c02>	
+<c02 level="file"><did><container type="Volume"></container><unittitle>	1979-1982		</unittitle></did>							</c02>	</c01>
+<c01 level="file"><did><container type="Volume"></container><unittitle>	Purchase record, 1954-1962		</unittitle></did>								</c01>
+<c01 level="file"><did><container type="Volume"></container><unittitle>	Record book, 1962		</unittitle></did>								</c01>
+<c01 level="file"><did><container type="Volume"></container><unittitle>	Sales ledger, 1915-1916		</unittitle></did>								</c01>
+<c01 level="file"><did><container type="Volume"></container><unittitle>	Sales ledger transfer, 1915-1916		</unittitle></did>								</c01>
+<c01 level="file"><did><container type="Volume"></container><unittitle>	Salesman's profit sharing record		</unittitle></did>								
+<c02 level="file"><did><container type="Volume"></container><unittitle>	1920-1922		</unittitle></did>							</c02>	
+<c02 level="file"><did><container type="Volume"></container><unittitle>	1922		</unittitle></did>							</c02>	</c01>
+											
+											
+<c01 level="file"><did><container type="Volume"></container><unittitle>	Time Books		</unittitle></did>								
+<c02 level="file"><did><container type="Volume"></container><unittitle>	1916-1921		</unittitle></did>							</c02>	
+<c02 level="file"><did><container type="Volume"></container><unittitle>	1920-1922		</unittitle></did>							</c02>	
+<c02 level="file"><did><container type="Volume"></container><unittitle>	1922-1926		</unittitle></did>							</c02>	
+<c02 level="file"><did><container type="Volume"></container><unittitle>	1925-1931		</unittitle></did>							</c02>	
+<c02 level="file"><did><container type="Volume"></container><unittitle>	1926-1933		</unittitle></did>							</c02>	
+<c02 level="file"><did><container type="Volume"></container><unittitle>	1933-1940		</unittitle></did>							</c02>	
+<c02 level="file"><did><container type="Volume"></container><unittitle>	1937-1942		</unittitle></did>							</c02>	
+<c02 level="file"><did><container type="Volume"></container><unittitle>	1948-1951		</unittitle></did>							</c02>	
+<c02 level="file"><did><container type="Volume"></container><unittitle>	1951-1953		</unittitle></did>							</c02>	</c01>
+<c01 level="file"><did><container type="Volume"></container><unittitle>	Trial Balance, 1941-1963		</unittitle></did>								</c01>
+<c01 level="file"><did><container type="Volume"></container><unittitle>	Bermingham-Seaman-Patrick Paper Company		</unittitle></did>								
+<c02 level="file"><did><container type="Volume"></container><unittitle>	Cash Journal, 1912-1914		</unittitle></did>							</c02>	
+<c02 level="file"><did><container type="Volume"></container><unittitle>	Check Books		</unittitle></did>								
+<c03 level="file"><did><container type="Volume"></container><unittitle>	1913		</unittitle></did>						</c03>		
+<c03 level="file"><did><container type="Volume"></container><unittitle>	1914		</unittitle></did>						</c03>		
+<c03 level="file"><did><container type="Volume"></container><unittitle>	1915		</unittitle></did>						</c03>	</c02>	
+<c02 level="file"><did><container type="Volume"></container><unittitle>	Purchase Ledger, 1915-1916		</unittitle></did>							</c02>	
+<c02 level="file"><did><container type="Volume"></container><unittitle>	Purchase Records		</unittitle></did>								
+<c03 level="file"><did><container type="Volume"></container><unittitle>	1911-1912 		</unittitle></did>						</c03>		
+<c03 level="file"><did><container type="Volume"></container><unittitle>	1912-1913 		</unittitle></did>						</c03>		
+<c03 level="file"><did><container type="Volume"></container><unittitle>	1913-1914 		</unittitle></did>						</c03>		
+<c03 level="file"><did><container type="Volume"></container><unittitle>	1914-1915 		</unittitle></did>						</c03>		
+<c03 level="file"><did><container type="Volume"></container><unittitle>	1916-1919		</unittitle></did>						</c03>	</c02>	
+<c02 level="file"><did><container type="Volume"></container><unittitle>	Sales Records		</unittitle></did>								
+<c03 level="file"><did><container type="Volume"></container><unittitle>	1912-1913 		</unittitle></did>						</c03>		
+<c03 level="file"><did><container type="Volume"></container><unittitle>	1913		</unittitle></did>						</c03>		
+<c03 level="file"><did><container type="Volume"></container><unittitle>	1913-1914 		</unittitle></did>						</c03>		
+<c03 level="file"><did><container type="Volume"></container><unittitle>	1914-1915 		</unittitle></did>						</c03>		
+<c03 level="file"><did><container type="Volume"></container><unittitle>	1915-1916		</unittitle></did>						</c03>	</c02>	</c01>
+<c01 level="file"><did><container type="Volume"></container><unittitle>	Carpenter Paper Company 		</unittitle></did>								
+<c02 level="file"><did><container type="Volume"></container><unittitle>	Appraisal		</unittitle></did>							</c02>	</c01>
+<c01 level="file"><did><container type="Volume"></container><unittitle>	F.S. Dresskell Paper Company		</unittitle></did>								
+<c02 level="file"><did><container type="Volume"></container><unittitle>	Cash Book, 1909-1912 		</unittitle></did>							</c02>	
+<c02 level="file"><did><container type="Volume"></container><unittitle>	Check Book, 1908-1909		</unittitle></did>							</c02>	</c01>
+<c01 level="file"><did><container type="Volume"></container><unittitle>	Vermont Realty and Investment Company Stockholders Meetings, 1970-1978		</unittitle></did>								</c01>
+
+    </dsc>
+  </archdesc>
+</ead>

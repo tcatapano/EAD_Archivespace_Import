@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+    <eadheader findaidstatus="uo_export_me" repositoryencoding="iso15511"
+              countryencoding="iso3166-1"
+              dateencoding="iso8601"
+              langencoding="iso639-2b"
+              id="a0"
+              relatedencoding="dc"
+              scriptencoding="iso15924">
+        <eadid countrycode="us" mainagencycode="oru"
+             url="http://nwda.orbiscascade.org/ark:/80444/xv85519"
+             encodinganalog="identifier"
+             identifier="80444/xv85519">ORU_Ax659.xml</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper encodinganalog="title">Guide to the Ebenezer Johnson Papers
+                    
+                <date encodinganalog="date" normal="1919/1952" type="inclusive">1919-1952</date>
+            </titleproper>
+                <titleproper type="filing" altrender="nodisplay">Johnson (Ebenezer) Papers</titleproper>
+                <author encodinganalog="creator">Finding aid prepared by Finding aid prepared by processing staff</author>
+                <sponsor>Funding for encoding this finding aid was provided through a grant awarded by the National Endowment for the Humanities.</sponsor>
+            </titlestmt>
+            <publicationstmt>
+                <publisher encodinganalog="publisher">Special Collections and University Archives, University of Oregon Libraries</publisher>
+                <address>
+                    <addressline>1299 University of Oregon</addressline>
+                    <addressline>Eugene, Oregon, 97403-1299</addressline>
+                    <addressline>(541) 346-3068</addressline>
+                    <addressline>spcarref@uoregon.edu</addressline>
+                </address>
+                <date encodinganalog="date" calendar="gregorian" era="ce" normal="2007">©2007</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date calendar="gregorian" era="ce" normal="20120512">2012-05-12</date>
+            </creation>
+            <langusage>Finding aid written in 
+                <language langcode="eng" encodinganalog="language" scriptcode="latn">English</language>.</langusage>
+            <descrules>Finding aid based on DACS (<title render="italic">Describing Archives: A Content Standard</title>).</descrules>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection" relatedencoding="marc21" type="inventory">
+        <did id="a1">
+            <unittitle encodinganalog="245$a">Ebenezer Johnson papers</unittitle>
+            <unitid encodinganalog="099" countrycode="us" repositorycode="oru">Ax 659</unitid>
+            <repository>
+                <corpname encodinganalog="852$a">Special Collections and University Archives, University of Oregon Libraries</corpname>
+            <address>
+                    <addressline>1299 University of Oregon</addressline>
+                    <addressline>Eugene, Oregon, 97403-1299</addressline>
+                    <addressline>(541) 346-3068</addressline>
+                    <addressline>spcarref@uoregon.edu</addressline>
+                </address>
+         </repository>
+            <langmaterial>Collection materials are in <language langcode="eng" encodinganalog="546">English</language>.</langmaterial>
+            <container type="box">1</container>
+            <physdesc>
+                <extent encodinganalog="300$a">1.5 linear feet</extent>
+                <extent encodinganalog="300$a">1 container</extent>
+            </physdesc>
+            <unitdate normal="1919/1952" type="inclusive" encodinganalog="245$f">1919-1952</unitdate>
+            <abstract id="ref2" encodinganalog="5203_">Collection comprises papers of American missionary Ebenezer S. Johnson, including correspondence; minutes of the Angola, Congo, and Rhodesia mission conferences; clippings and photographs of mission work.</abstract>
+            <physdesc id="ref1">1 container</physdesc>
+            <origination label="creator">
+                <persname source="ingest" encodinganalog="100">Johnson, Ebenezer</persname>
+            </origination>
+        </did>
+        <bioghist id="a2" encodinganalog="545">
+            <head>Biographical/Historical note</head>
+            <p>Ebenezer S. Johnson (b. 1866) was a missionary and bishop in the Methodist Episcopal Church, stationed in south and central Africa.</p>
+        </bioghist>
+        <scopecontent id="a3" encodinganalog="5202_">
+            
+            <p>Collection comprises papers of American missionary Ebenezer S. Johnson, including correspondence; minutes of the Angola, Congo, and Rhodesia mission conferences; clippings and photographs of mission work.</p>
+        </scopecontent>
+        <arrangement id="a4" encodinganalog="351">
+            
+            <p>Collection is organized into the following series: 
+                <list>
+                    <item>Correspondence</item>
+                    <item>Official records</item>
+                    <item>Subject files</item>
+                    <item>Pamphlets, clippings, maps, scrapbooks</item>
+                    <item>Photographs</item>
+                </list>
+         </p>
+        </arrangement>
+        <accessrestrict id="a14" encodinganalog="506">
+            
+            <p>Collection is open to the public.</p>
+            <p>Collection must be used in Special Collections  University Archives Reading Room.</p>
+        </accessrestrict>
+        <userestrict id="a15" encodinganalog="540">
+            
+            <p>Property rights reside with Special Collections  University Archives, University of Oregon Libraries. Copyright resides with the creators of the documents or their heirs. All requests for permission to publish collection materials must be submitted to Special Collections  University Archives. The reader must also obtain permission of the copyright holder.</p>
+            <p>Archival material may contain materials with sensitive or confidential information that is protected under federal and/or state right to privacy laws and other regulations.</p>
+            <p>Researchers are advised that the disclosure of certain information pertaining to identifiable living individuals represented in this collection without the consent of those individuals may have legal ramifications (e.g. a cause of action for invasion of privacy may arise if facts concerning an individual's private life are published that would be deemed highly offensive to a reasonable person) for which the University of Oregon assumes no responsibility.</p>
+            <p>If a researcher finds sensitive personal information in a collection, please bring it to the attention of the reading room staff.</p>
+        </userestrict>
+        <prefercite id="a18" encodinganalog="524">
+            
+            <p>[Identification of item], Ebenezer Johnson Papers, Ax 792, Special Collections  University Archives, University of Oregon Libraries, Eugene, Oregon.</p>
+        </prefercite>
+        <otherfindaid id="a8" encodinganalog="555">
+            
+            <p>Paper finding aid with additional information available in Special Collections  University Archives.</p>
+        </otherfindaid>
+        <processinfo id="a20" encodinganalog="583">
+            
+            <p>Collection processed by staff.</p>
+            <p>This finding aid may be updated periodically to account for new acquisitions to the collection and/or revisions in arrangement and description.</p>
+        </processinfo>
+        <controlaccess id="a12">
+         <controlaccess>
+            <persname source="ingest" encodinganalog="600">Johnson, Ebenezer S.--Correspondence</persname>
+            <persname source="ingest" encodinganalog="600">Johnson, Ebenezer S.</persname>
+         </controlaccess>
+         <controlaccess>
+            <corpname source="ingest" encodinganalog="610">Methodist Episcopal Church</corpname>
+         </controlaccess>
+         <controlaccess>
+            <subject source="lcsh" encodinganalog="650">Methodist Episcopal Church--Missions--Africa</subject>
+            <subject source="lcsh" encodinganalog="650">Methodist Episcopal Church--Records and correspondence</subject>
+            <subject source="lcsh" encodinganalog="650">Missionaries--Africa</subject>
+            <subject source="lcsh" encodinganalog="650">Missions, American--Africa</subject>
+         </controlaccess>
+         <controlaccess>
+            <subject source="nwda" encodinganalog="690" altrender="nodisplay">Missionaries</subject>
+            <subject source="nwda" encodinganalog="690" altrender="nodisplay">Photographs</subject>
+            <subject source="nwda" encodinganalog="690" altrender="nodisplay">Religion</subject>
+         </controlaccess>
+      </controlaccess>
+        <dsc id="a23" type="in-depth">
+            <c01 level="file">
+                <did>
+                    <unittitle encodinganalog="245$a">Correspondence—Incoming</unittitle>
+                    <container type="box">1</container>
+                    <container type="folder">1</container>
+                    <unitdate normal="1923/1952" type="inclusive" encodinganalog="245$f">1923-1952</unitdate>
+                </did>
+            </c01>
+            <c01 level="file">
+                <did>
+                    <unittitle encodinganalog="245$a">Correspondence—Miscellaneous</unittitle>
+                    <container type="box">1</container>
+                    <container type="folder">2</container>
+                </did>
+            </c01>
+            <c01 level="file">
+                <did>
+                    <unittitle encodinganalog="245$a">Angola Mission Conference—Official journal</unittitle>
+                    <container type="box">1</container>
+                    <container type="folder">3</container>
+                    <unitdate normal="1932/1935" type="inclusive" encodinganalog="245$f">1932-1935</unitdate>
+                </did>
+            </c01>
+            <c01 level="file">
+                <did>
+                    <unittitle encodinganalog="245$a">Congo Mission Conference—Manuscrips of journal of proceedings</unittitle>
+                    <container type="box">1</container>
+                    <container type="folder">4</container>
+                    <unitdate normal="1928/1931" type="inclusive" encodinganalog="245$f">1928-1931</unitdate>
+                </did>
+            </c01>
+            <c01 level="file">
+                <did>
+                    <unittitle encodinganalog="245$a">Congo Mission Conference—Manuscripts of journal of proceedings</unittitle>
+                    <container type="box">1</container>
+                    <container type="folder">5</container>
+                    <unitdate normal="1933/1934" type="inclusive" encodinganalog="245$f">1933-1934</unitdate>
+                </did>
+            </c01>
+            <c01 level="file">
+                <did>
+                    <unittitle encodinganalog="245$a">Congo—Miscellaneous</unittitle>
+                    <container type="box">1</container>
+                    <container type="folder">6</container>
+                </did>
+            </c01>
+            <c01 level="file">
+                <did>
+                    <unittitle encodinganalog="245$a">Rhodesia—Miscellaneous</unittitle>
+                    <container type="box">1</container>
+                    <container type="folder">7</container>
+                </did>
+            </c01>
+            <c01 level="file">
+                <did>
+                    <unittitle encodinganalog="245$a">Subject File: Bishop Johnson’s trip across Angola and the Belgian Congo</unittitle>
+                    <container type="box">1</container>
+                    <container type="folder">8</container>
+                    <unitdate normal="1919/1919">1919</unitdate>
+                </did>
+            </c01>
+            <c01 level="file">
+                <did>
+                    <unittitle encodinganalog="245$a">Subject File: General Jan Christian Smuts Rhodes lectures</unittitle>
+                    <container type="box">1</container>
+                    <container type="folder">9</container>
+                    <unitdate normal="1929/1929">1929</unitdate>
+                </did>
+            </c01>
+            <c01 level="file">
+                <did>
+                    <unittitle encodinganalog="245$a">Subject File: Race Relations—South Africa</unittitle>
+                    <container type="box">1</container>
+                    <container type="folder">10</container>
+                    <unitdate normal="1936/1936">1936</unitdate>
+                </did>
+            </c01>
+            <c01 level="file">
+                <did>
+                    <unittitle encodinganalog="245$a">Pamphlets</unittitle>
+                    <container type="box">1</container>
+                    <container type="folder">11</container>
+                </did>
+            </c01>
+            <c01 level="file">
+                <did>
+                    <unittitle encodinganalog="245$a">Newspaper clippings</unittitle>
+                    <container type="box">1</container>
+                    <container type="folder">12</container>
+                    <unitdate normal="1929/1935" type="inclusive" encodinganalog="245$f">1929-1935</unitdate>
+                </did>
+            </c01>
+            <c01 level="file">
+                <did>
+                    <unittitle encodinganalog="245$a">Newspaper clippings</unittitle>
+                    <container type="box">1</container>
+                    <container type="folder">13</container>
+                    <unitdate normal="1929/1935" type="inclusive" encodinganalog="245$f">1929-1935</unitdate>
+                </did>
+            </c01>
+            <c01 level="file">
+                <did>
+                    <unittitle encodinganalog="245$a">Newspaper clippings</unittitle>
+                    <container type="box">1</container>
+                    <container type="folder">14</container>
+                    <unitdate normal="1929/1935" type="inclusive" encodinganalog="245$f">1929-1935</unitdate>
+                </did>
+            </c01>
+            <c01 level="file">
+                <did>
+                    <unittitle encodinganalog="245$a">Maps—Africa, Belgian Congo, Congo Mission, Trade Routes</unittitle>
+                    <container type="box">1</container>
+                    <container type="folder">15</container>
+                </did>
+            </c01>
+            <c01 level="file">
+                <did>
+                    <unittitle encodinganalog="245$a">Scrapbooks</unittitle>
+                    <container type="box">1</container>
+                    <container type="folder">16</container>
+                </did>
+            </c01>
+            <c01 level="file">
+                <did>
+                    <unittitle encodinganalog="245$a">Angola, Photographs—unidentified</unittitle>
+                    <container type="box">1</container>
+                    <container type="folder">17</container>
+                </did>
+            </c01>
+            <c01 level="file">
+                <did>
+                    <unittitle encodinganalog="245$a">Angola, Photographs—identified, Postcards—captioned</unittitle>
+                    <container type="box">1</container>
+                    <container type="folder">18</container>
+                </did>
+            </c01>
+            <c01 level="file">
+                <did>
+                    <unittitle encodinganalog="245$a">Congo Belge, Photographs—unidentified</unittitle>
+                    <container type="box">1</container>
+                    <container type="folder">19</container>
+                </did>
+            </c01>
+            <c01 level="file">
+                <did>
+                    <unittitle encodinganalog="245$a">Congo Belge, Photographs—identified, Postcards—captioned</unittitle>
+                    <container type="box">1</container>
+                    <container type="folder">20</container>
+                </did>
+            </c01>
+            <c01 level="file">
+                <did>
+                    <unittitle encodinganalog="245$a">Rhodesia, Photographs—identified</unittitle>
+                    <container type="box">1</container>
+                    <container type="folder">21</container>
+                </did>
+            </c01>
+            <c01 level="file">
+                <did>
+                    <unittitle encodinganalog="245$a">Rhodesia, Photographs—unidentified</unittitle>
+                    <container type="box">1</container>
+                    <container type="folder">22</container>
+                </did>
+            </c01>
+            <c01 level="file">
+                <did>
+                    <unittitle encodinganalog="245$a">3 photographs</unittitle>
+                    <container type="box">1</container>
+                </did>
+            </c01>
+            <c01 level="file">
+                <did>
+                    <unittitle encodinganalog="245$a">7 miscellaneous Mission Conference publications</unittitle>
+                    <container type="box">1</container>
+                </did>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

@@ -1,0 +1,947 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.library.yale.edu/facc/schemas/ead/ead.xsd"
+     id="mssa.ms.0578">
+   <eadheader findaidstatus="edited-full-draft" repositoryencoding="iso15511"
+              countryencoding="iso3166-1"
+              dateencoding="iso8601"
+              langencoding="iso639-2b"
+              audience="internal"
+              scriptencoding="iso15924">
+      <eadid countrycode="US" mainagencycode="US-CtY"
+             publicid="-//Yale University::Manuscripts and Archives//TEXT (US::CtY::::[William Lyon Phelps papers])//EN"
+             url="http://hdl.handle.net/10079/fa/mssa.ms.0578">mssa.ms.0578</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper type="formal">Guide to the William Lyon Phelps Papers
+                    </titleproper>
+            <titleproper type="filing" audience="internal">Phelps (William Lyon) Papers</titleproper>
+            <author>compiled by Diane E. Kaplan and William E. Brown, Jr.</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Yale University Library</publisher>
+            <publisher>Manuscripts and Archives</publisher>
+            <address>
+               <addressline>New Haven, Connecticut</addressline>
+            </address>
+            <date type="original" normal="1987-01">January 1987</date>
+            <p>
+               <extref ns2:type="simple" ns2:actuate="onRequest" ns2:show="new"
+                       ns2:href="http://hdl.handle.net/10079/9p8czk9">Copyright © <date type="copyright" normal="2012">2012</date> by the Yale University Library. </extref>
+            </p>
+         </publicationstmt>
+         <notestmt>
+            <note type="bpg">
+               <p>This encoded finding aid is compliant with the Yale EAD Best Practice Guidelines, Version 1.0.</p>
+            </note>
+         </notestmt>
+      </filedesc>
+      <profiledesc>
+         <creation>This finding aid was produced using the Archivists' Toolkit
+                </creation>
+         <langusage>Finding aid written in 
+                <language langcode="eng" scriptcode="Latn">English</language>.</langusage>
+         <descrules>Describing Archives: A Content Standard</descrules>
+      </profiledesc>
+      <revisiondesc>
+         <change>
+            <date normal="2005-02">February 2005</date>
+            <item>[unspecified revision]</item>
+         </change>
+      </revisiondesc>
+   </eadheader>
+   <archdesc level="collection" relatedencoding="MARC21" type="register">
+      <did>
+         <head>Overview</head>
+         <unitid label="Call Number:" countrycode="US" repositorycode="US-CtY">MS 578</unitid>
+         <origination label="Creator:">
+            <persname rules="aacr" source="ingest">Phelps, William Lyon, 1865-1943.</persname>
+         </origination>
+         <unittitle label="Title:">William Lyon Phelps papers</unittitle>
+         <unitdate normal="1826/1944" type="inclusive" label="Dates:" calendar="gregorian"
+                   era="ce"
+                   datechar="creation">1826-1944</unitdate>
+         <unitdate normal="1887/1943" type="bulk" label="Bulk Dates:" calendar="gregorian"
+                   era="ce"
+                   datechar="creation"> 1887-1943</unitdate>
+         <physdesc label="Physical Description:">
+            <extent>10.5 linear feet</extent>
+         </physdesc>
+         <abstract label="Summary:">The papers include correspondence, writings, lecture notes, student notebooks, research notes, memorabilia, and scrapbooks of clippings documenting William Lyon Phelps's career as a professor of English and popularizer of literature. Phelps's lecture notes and annotated volumes on English literature comprise half of the papers. The papers also include a small quantity of family papers relating to Phelps's father and wife.</abstract>
+         <langmaterial label="Language(s):">The materials are in <language langcode="eng" scriptcode="Latn">English</language>.</langmaterial>
+         <repository label="Repository:">
+            <corpname>Manuscripts and Archives</corpname>
+            <address>
+               <addressline>Sterling Memorial Library</addressline>
+               <addressline>128 Wall Street</addressline>
+               <addressline>P.O. Box 208240</addressline>
+               <addressline>New Haven, CT 06520</addressline>
+               <addressline altrender="web">Web: http://www.library.yale.edu/mssa/</addressline>
+               <addressline altrender="email">Email: mssa.assist@yale.edu</addressline>
+               <addressline altrender="phone">Phone: (203) 432-1735</addressline>
+               <addressline altrender="fax">Fax: (203) 432-7441</addressline>
+            </address>
+         </repository>
+      </did>
+      <descgrp type="admininfo" id="ai">
+         <head>Administrative Information</head>
+         <descgrp type="provenance" id="prov">
+            <head>Provenance</head>
+            <acqinfo id="ref4">
+               <p>Gifts of the estate of William Lyon Phelps, 1943; Thomas S. Brush, 1957. Additional gifts from various donors, 1955-1996. Gift of John J. Burns Library, Boston College, 2004.</p>
+            </acqinfo>
+         </descgrp>
+         <prefercite id="ref3">
+            <head>Cite As</head>
+            <p>William Lyon Phelps Papers (MS 578). Manuscripts and Archives, Yale University Library.</p>
+         </prefercite>
+         <relatedmaterial id="ref5">
+            <head>Associated Materials</head>
+            <p>Related material: William Lyon Phelps Papers, (Beinecke Rare Book and Manuscript Library, Yale University).</p>
+         </relatedmaterial>
+      </descgrp>
+      <bioghist id="ref13">
+         <head>Biographical Sketch</head>
+         <p>William Lyon Phelps was born in New Haven, Connecticut, on January 2, 1865. He received a B.A. degree from Yale in 1887, an A.M. degree from Harvard in 1891, and a Ph.D. from Yale in 1891. Phelps taught English at Yale from 1892 until 1933 and was a popularizer of literature through his public lectures, radio addresses, and syndicated newspaper columns. He died in New Haven on August 21, 1943.</p>
+      </bioghist>
+      <scopecontent id="ref9">
+         <head>Description of the Papers</head>
+         <p>The William Lyon Phelps Papers include correspondence, writings, lecture notes, student notebooks, research notes, memorabilia, and scrapbooks of clippings which document Phelps's career as a professor of English at Yale University and his role as a popularizer of literature, public lecturer, and syndicated columnist. Phelps's lecture notes and annotated volumes on English literature comprise half the papers. The papers include only scattered items from Phelps's voluminous correspondence. The larger quantity of correspondence is located in the Beinecke Rare Book and Manuscript Library at Yale University. The papers also contain a small quantity of family papers relating to Phelps's father and wife.</p>
+         <p>The estate of William Lyon Phelps donated a major portion of the Phelps Papers to the Yale University Library in 1943. Thomas S. Brush donated a significant addition to the papers in memory of Katherine B. Ingersoll in 1957. Additional gifts were received from several individuals between 1955 and 1984.</p>
+         <p>The papers are arranged in five series: I. Correspondence, 1888-1944. II. Research Files, 1889-1936. III. Student Notebooks, 1878-1904. IV. Personal Files, 1883-1943. V. Family Papers, 1826-1930.</p>
+         <p>Series I contains the bulk of the correspondence in the papers. Most of the letters are incoming and include family letters, Yale announcements, students' correspondence, queries concerning Phelps's research on Robert Browning, and requests from the public relating to Phelps's syndicated newspaper columns. Some items concern Yale faculty and administration. The series also includes architectural plans by Murphy and Dana for Phelps's study, prescriptions for his eyes, printed copies of Phelps's writings, and a transcript with photographs of James S. Ennis, Jr.'s letters to his father during his military service in World War I.</p>
+         <p>Series II is the largest in the papers. It includes seven boxes of printed volumes annotated with Phelps's notes on the works of several major English authors. The most complete notes are those on the works of Browning. The NOTES section of the series includes Phelps's lecture notes, either for his course lectures or for his public lecture series, along with occasional items of correspondence, clippings, and printed material. Most lecture notes are on specific American, English, or European novelists, playwrights, and poets, but there are also notes on more general literary subjects. The section also includes notebooks from Phelps's research at the British Museum in 1900.</p>
+         <p>Series III is composed of volumes of notes taken by Phelps during his graduate course work and research at Yale and Harvard and later studies in Germany. The notebooks record course work with Professors Wheeler, Beers, Ladd, Sumner, and Dexter at Yale, and with Professors Baker, Wendel, Royce, Child, Kittredge, and Briggs at Harvard. In addition the series includes notebooks from the Yale University Bible Club under Dr. Sanders, Phelps's 1887 honors thesis on the "Idealism of George Berkeley," notebooks on mathematics from Phelps's high school studies at Hartford Public High School, and Phelps's lecture notes from his year of teaching at the Westminster School.</p>
+         <p>Series IV includes Phelps's writings, notes, scrapbooks, student papers, and memorabilia. The articles and speeches include typescripts of Phelps's column on books, "Billy Speaks," while folders 233-246 contain mounted clippings in notebooks of Phelps's syndicated newspaper column from 1933 to 1937. Folder 247 contains a copy of Phelps's address as Hartford High School class orator, while folder 250 includes poems written by Phelps. These writings represent a limited sample of Phelps's work. Folder 231 contains additional lecture notes by Phelps and others, while folder 228 is composed of the tributes to Yale honorary degree recipients which were read by Phelps at commencement. Phelps's notes and other research material on Browning are contained in folders 226-227.</p>
+         <p>The series also includes several one act plays written by students, exam questions and students' exams, and Phelps's gradebooks. In addition the series contains memorabilia of the Metaphysicals such as invitations and parodies for their feast for the sons of John Donne at which Phelps acted as toastmaster. Folder 251 contains a scrapbook of clippings about Phelps, many of them chronicling his activities during summers spent in Huron City, Michigan.</p>
+         <p>Series V includes a small quantity of family papers, which relate primarily to Sylvanus Dryden Phelps, father of William Lyon Phelps, and to Phelps's wife, Annabel Phelps. The series contains a brief daily diary of Annabel Phelps for January and February 1899. Sylvanus Dryden Phelps's autobography of his life from 1817 to 1839 is in folder 269. Portions of this memoir are transcribed in the biographical sketch in folder 268. Poems by Sylvanus Phelps are included in folder 270. Folder 267 contains an 1841 autograph book of Hannah B.C. Phelps, whose relation to William Lyon Phelps, if any, is unclear. The volume was purchased as a gift for Phelps by a Michigan friend.</p>
+      </scopecontent>
+      <arrangement id="ref6">
+         <head>Arrangement</head>
+         <p>Arranged in five series and one addition: I. Correspondence, 1888-1944. II. Research Files, 1889-1936. III. Student Notebooks, 1878-1904. IV. Personal Files, 1883-1943. V. Family Papers, 1826-1930.</p>
+      </arrangement>
+      <controlaccess id="ca">
+         <head>Access Terms</head>
+         <persname rules="aacr" source="ingest">Browning, Robert, 1812-1889.</persname>
+         <persname rules="aacr" source="ingest">Phelps, William Lyon, 1865-1943.</persname>
+         <corpname rules="dacs" source="ingest">Yale University. Dept. of English.</corpname>
+         <corpname rules="dacs" source="ingest">Yale University. Faculty.</corpname>
+         <corpname rules="dacs" source="ingest">Yale University. Students.</corpname>
+         <subject source="lcsh">American literature.</subject>
+         <occupation source="lcsh">Authors.</occupation>
+         <occupation source="lcsh">Critics.</occupation>
+         <occupation source="lcsh">Educators.</occupation>
+         <subject source="lcsh">English literature--History and criticism.</subject>
+         <subject source="lcsh">Literature--History and criticism.</subject>
+      </controlaccess>
+      <dsc type="combined">
+         <head>Collection Contents</head>
+         <c01 id="ref14" level="series">
+            <did>
+               <unitid>Series I</unitid>
+               <unittitle>CORRESPONDENCE</unittitle>
+               <unitdate normal="1888/1944" type="inclusive">1888-1944</unitdate>
+               <physdesc>
+                  <extent>0.5 linear feet</extent>
+                  <extent>(1 box)</extent>
+               </physdesc>
+            </did>
+            <scopecontent>
+               <p>This series is arranged in two sections: CHRONOLOGICAL and SELECT.</p>
+            </scopecontent>
+            <c02 id="ref16" level="file">
+               <did>
+                  <unittitle>
+                     <emph render="underline">Chronological</emph>
+                  </unittitle>
+               </did>
+               <c03 id="ref17" level="file">
+                  <did>
+                     <container type="Box" label="39002042265653">1</container>
+                     <container type="Folder">1-9</container>
+                     <unittitle>
+                        <unitdate>1888-1944, no date</unitdate>
+                     </unittitle>
+                  </did>
+                  <note>
+                     <p/>
+                  </note>
+               </c03>
+            </c02>
+            <c02 id="ref18" level="file">
+               <did>
+                  <unittitle>
+                     <emph render="underline">Select</emph>
+                  </unittitle>
+               </did>
+               <c03 id="ref19" level="file">
+                  <did>
+                     <container type="Box" label="39002042265653">1</container>
+                     <container type="Folder">10</container>
+                     <unittitle>Beers, Clifford</unittitle>
+                     <unitdate normal="1936/1936">1936</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref20" level="file">
+                  <did>
+                     <container type="Box" label="39002042265653">1</container>
+                     <container type="Folder">11</container>
+                     <unittitle>Ennis, Jack Seffren</unittitle>
+                     <unitdate normal="1917/1918" type="inclusive">1917-1918</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref21" level="file">
+                  <did>
+                     <container type="Box" label="39002042265653">1</container>
+                     <container type="Folder">12</container>
+                     <unittitle>Twain, Mark</unittitle>
+                     <unitdate normal="1901/1901">1901</unitdate>
+                  </did>
+               </c03>
+            </c02>
+         </c01>
+         <c01 id="ref23" level="series">
+            <did>
+               <unitid>Series II</unitid>
+               <unittitle>RESEARCH FILES</unittitle>
+               <unitdate normal="1889/1936" type="inclusive">1889-1936</unitdate>
+               <physdesc>
+                  <extent>5 linear feet (14 boxes)</extent>
+               </physdesc>
+            </did>
+            <scopecontent>
+               <p>This series is arranged in two sections: ANNOTATED VOLUMES and NOTES.</p>
+            </scopecontent>
+            <c02 id="ref25" level="file">
+               <did>
+                  <unittitle>Annotated volumes</unittitle>
+               </did>
+               <c03 id="ref26" level="file">
+                  <did>
+                     <unittitle>Browning</unittitle>
+                  </did>
+                  <c04 id="ref27" level="file">
+                     <did>
+                        <container type="Box" label="39002042265661">2</container>
+                        <container type="Folder">13-15</container>
+                        <unittitle>Vols. 1-6</unittitle>
+                        <unitdate normal="1894/1894">1894</unitdate>
+                     </did>
+                  </c04>
+                  <c04 id="ref28" level="file">
+                     <did>
+                        <container type="Box" label="39002042265679">3</container>
+                        <container type="Folder">16-18</container>
+                        <unittitle>Vols. 7-12</unittitle>
+                        <unitdate normal="1894/1894">1894</unitdate>
+                     </did>
+                  </c04>
+                  <c04 id="ref29" level="file">
+                     <did>
+                        <container type="Box" label="39002042265687">4</container>
+                        <container type="Folder">19-21</container>
+                        <unittitle>Vols. 13-18</unittitle>
+                        <unitdate normal="1894/1894">1894</unitdate>
+                     </did>
+                  </c04>
+               </c03>
+               <c03 id="ref30" level="file">
+                  <did>
+                     <container type="Box" label="39002042265695">5</container>
+                     <container type="Folder">22-24</container>
+                     <unittitle>Chaucer: vols. 1-6</unittitle>
+                     <unitdate normal="1889/1889">1889</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref31" level="file">
+                  <did>
+                     <container type="Box" label="39002042265695">5</container>
+                     <container type="Folder">25</container>
+                     <unittitle>Milton: vols. 1-2</unittitle>
+                     <unitdate normal="1890/1890">1890</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref32" level="file">
+                  <did>
+                     <container type="Box" label="39002042265703">6</container>
+                     <container type="Folder">26</container>
+                     <unittitle>Spenser: vol. 1</unittitle>
+                     <unitdate normal="1893/1893">1893</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref33" level="file">
+                  <did>
+                     <unittitle>Tennyson</unittitle>
+                  </did>
+                  <c04 id="ref34" level="file">
+                     <did>
+                        <container type="Box" label="39002042265703">6</container>
+                        <container type="Folder">27-28</container>
+                        <unittitle>Vols. 1-4</unittitle>
+                        <unitdate normal="1896/1896">1896</unitdate>
+                     </did>
+                  </c04>
+                  <c04 id="ref35" level="file">
+                     <did>
+                        <container type="Box" label="39002042265711">7</container>
+                        <container type="Folder">29-31</container>
+                        <unittitle>Vols. 5-10</unittitle>
+                        <unitdate normal="1896/1896">1896</unitdate>
+                     </did>
+                  </c04>
+                  <c04 id="ref36" level="file">
+                     <did>
+                        <container type="Box" label="39002042265729">8</container>
+                        <container type="Folder">32</container>
+                        <unittitle>Vols. 11-12</unittitle>
+                        <unitdate normal="1896/1896">1896</unitdate>
+                     </did>
+                  </c04>
+               </c03>
+            </c02>
+            <c02 id="ref37" level="file">
+               <did>
+                  <container type="Box" label="39002042265729">8</container>
+                  <container type="Folder">32</container>
+                  <unittitle>Notes</unittitle>
+                  <unitdate normal="1889/1899" type="inclusive">[ca. 1894-1936]</unitdate>
+               </did>
+               <c03 id="ref38" level="file">
+                  <did>
+                     <unittitle>American literature</unittitle>
+                  </did>
+                  <c04 id="ref39" level="file">
+                     <did>
+                        <container type="Box" label="39002042265729">8</container>
+                        <container type="Folder">33-44</container>
+                        <unittitle>B - H</unittitle>
+                     </did>
+                  </c04>
+                  <c04 id="ref40" level="file">
+                     <did>
+                        <container type="Box" label="39002042265737">9</container>
+                        <container type="Folder">45-59</container>
+                        <unittitle>H - W</unittitle>
+                     </did>
+                     <note>
+                        <p>See also: Notes on English literature, 
+                                    <ref target="ref44" ns2:type="simple" ns2:actuate="onRequest" ns2:show="replace">box 11, folder 109</ref>
+                        </p>
+                     </note>
+                  </c04>
+               </c03>
+               <c03 id="ref42" level="file">
+                  <did>
+                     <unittitle>English literature</unittitle>
+                  </did>
+                  <c04 id="ref43" level="file">
+                     <did>
+                        <container type="Box" label="39002042265745">10</container>
+                        <container type="Folder">60-94</container>
+                        <unittitle>A - J</unittitle>
+                     </did>
+                  </c04>
+                  <c04 id="ref44" level="file">
+                     <did>
+                        <container type="Box" label="39002042265752">11</container>
+                        <container type="Folder">95-115</container>
+                        <unittitle>K - She</unittitle>
+                     </did>
+                  </c04>
+                  <c04 id="ref45" level="file">
+                     <did>
+                        <container type="Box" label="39002042265760">12</container>
+                        <container type="Folder">116-127</container>
+                        <unittitle>Shi - W</unittitle>
+                     </did>
+                  </c04>
+               </c03>
+               <c03 id="ref46" level="file">
+                  <did>
+                     <unittitle>European literature and miscellanea</unittitle>
+                  </did>
+                  <c04 id="ref47" level="file">
+                     <did>
+                        <container type="Box" label="39002042265778">13</container>
+                        <container type="Folder">128-155</container>
+                        <unittitle>A - M</unittitle>
+                     </did>
+                  </c04>
+                  <c04 id="ref48" level="file">
+                     <did>
+                        <container type="Box" label="39002042265786">14</container>
+                        <container type="Folder">156-183</container>
+                        <unittitle>Poets: A - Z</unittitle>
+                     </did>
+                  </c04>
+                  <c04 id="ref49" level="file">
+                     <did>
+                        <container type="Box" label="39002042265786">14</container>
+                        <container type="Folder">184</container>
+                        <unittitle>Pu</unittitle>
+                     </did>
+                  </c04>
+                  <c04 id="ref50" level="file">
+                     <did>
+                        <container type="Box" label="39002042265786">14</container>
+                        <container type="Folder">185-187</container>
+                        <unittitle>R</unittitle>
+                     </did>
+                  </c04>
+                  <c04 id="ref51" level="file">
+                     <did>
+                        <container type="Box" label="39002042265794">15</container>
+                        <container type="Folder">188-195</container>
+                        <unittitle>S - T</unittitle>
+                     </did>
+                  </c04>
+               </c03>
+            </c02>
+         </c01>
+         <c01 id="ref53" level="series">
+            <did>
+               <unitid>Series III</unitid>
+               <unittitle>STUDENT NOTEBOOKS</unittitle>
+               <unitdate normal="1878/1904" type="inclusive">1878-1904</unitdate>
+               <physdesc>
+                  <extent>1.5 linear feet (4 boxes)</extent>
+               </physdesc>
+            </did>
+            <scopecontent>
+               <p>This series is arranged alphabetically by topic.</p>
+            </scopecontent>
+            <c02 id="ref55" level="file">
+               <did>
+                  <container type="Box" label="39002042265802">16</container>
+                  <container type="Folder">196</container>
+                  <unittitle>Bible study</unittitle>
+                  <unitdate>1888-1890, no date</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref56" level="file">
+               <did>
+                  <container type="Box" label="39002042265802">16</container>
+                  <container type="Folder">197</container>
+                  <unittitle>English drama</unittitle>
+                  <unitdate normal="1890/1891" type="inclusive">1890-1891</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref57" level="file">
+               <did>
+                  <container type="Box" label="39002042265802">16</container>
+                  <container type="Folder">198</container>
+                  <unittitle>English history</unittitle>
+                  <unitdate normal="1889/1890" type="inclusive">1889-1890</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref58" level="file">
+               <did>
+                  <container type="Box" label="39002042265802">16</container>
+                  <container type="Folder">199-201</container>
+                  <unittitle>English literature</unittitle>
+                  <unitdate normal="1889/1892" type="inclusive">1889-1892</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref59" level="file">
+               <did>
+                  <container type="Box" label="39002042265810">17</container>
+                  <container type="Folder">202</container>
+                  <unittitle>English literature</unittitle>
+                  <unitdate normal="1890/1892" type="inclusive">1890-1892</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref60" level="file">
+               <did>
+                  <container type="Box" label="39002042265810">17</container>
+                  <container type="Folder">203-204</container>
+                  <unittitle>Germany</unittitle>
+                  <unitdate normal="1904/1904">1904</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref61" level="file">
+               <did>
+                  <container type="Box" label="39002042265810">17</container>
+                  <container type="Folder">205</container>
+                  <unittitle>Honors thesis</unittitle>
+                  <unitdate normal="1887/1887">1887</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref62" level="file">
+               <did>
+                  <container type="Box" label="39002042265810">17</container>
+                  <container type="Folder">206-207</container>
+                  <unittitle>Mathematics</unittitle>
+                  <unitdate normal="1878/1880" type="inclusive">1878-1880</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref63" level="file">
+               <did>
+                  <container type="Box" label="39002042265828">18</container>
+                  <container type="Folder">208-209</container>
+                  <unittitle>Philosophy</unittitle>
+                  <unitdate>1887-1890, no date</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref64" level="file">
+               <did>
+                  <container type="Box" label="39002042265828">18</container>
+                  <container type="Folder">210-212</container>
+                  <unittitle>Romanticism</unittitle>
+                  <unitdate normal="1890/1891" type="inclusive">1890-1891</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref65" level="file">
+               <did>
+                  <container type="Box" label="39002042265836">19</container>
+                  <container type="Folder">213-215</container>
+                  <unittitle>U.S. history</unittitle>
+                  <unitdate>1887-1889, no date</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref66" level="file">
+               <did>
+                  <container type="Box" label="39002042265836">19</container>
+                  <container type="Folder">216a</container>
+                  <unittitle>Miscellanea</unittitle>
+                  <unitdate>no date</unitdate>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="ref68" level="series">
+            <did>
+               <unitid>Series IV</unitid>
+               <unittitle>PERSONAL FILES</unittitle>
+               <unitdate normal="1883/1943" type="inclusive">1883-1943</unitdate>
+               <physdesc>
+                  <extent>2.5 linear feet (6 boxes)</extent>
+               </physdesc>
+            </did>
+            <scopecontent>
+               <p>This series is arranged alphabetically by topic or record type.</p>
+            </scopecontent>
+            <c02 id="ref70" level="file">
+               <did>
+                  <unittitle>Articles and speeches</unittitle>
+               </did>
+               <c03 id="ref71" level="file">
+                  <did>
+                     <container type="Box" label="39002042265844">20</container>
+                     <container type="Folder">216b</container>
+                     <unittitle>A - B</unittitle>
+                     <unitdate normal="1936/1936">1936</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref72" level="file">
+                  <did>
+                     <container type="Box" label="39002042265844">20</container>
+                     <container type="Folder">216c</container>
+                     <unittitle>
+                        <title render="italic" ns2:type="simple">As I Like It</title>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03 id="ref73" level="file">
+                  <did>
+                     <container type="Box" label="39002042265844">20</container>
+                     <container type="Folder">217</container>
+                     <unittitle>"Billy Phelps Speaks"</unittitle>
+                     <unitdate>1941-1943, no date</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref74" level="file">
+                  <did>
+                     <container type="Box" label="39002042265851">20a</container>
+                     <container type="Folder">218</container>
+                     <unittitle>C - F</unittitle>
+                     <unitdate>1917, 1928-1934</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref75" level="file">
+                  <did>
+                     <container type="Box" label="39002042265851">20a</container>
+                     <container type="Folder">219</container>
+                     <unittitle>G - I</unittitle>
+                     <unitdate normal="1904/1931" type="inclusive">1904-1931</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref76" level="file">
+                  <did>
+                     <container type="Box" label="39002042265851">20a</container>
+                     <container type="Folder">220</container>
+                     <unittitle>L - N</unittitle>
+                     <unitdate>1932, no date</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref77" level="file">
+                  <did>
+                     <container type="Box" label="39002042265851">20a</container>
+                     <container type="Folder">221</container>
+                     <unittitle>O - V</unittitle>
+                     <unitdate>1938, no date</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref78" level="file">
+                  <did>
+                     <container type="Box" label="39002042265851">20a</container>
+                     <container type="Folder">222</container>
+                     <unittitle>W - Z</unittitle>
+                     <unitdate>no date</unitdate>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="ref79" level="file">
+               <did>
+                  <unittitle>Awards and citations</unittitle>
+               </did>
+               <note>
+                  <p>See: 
+                            <ref target="ref86" ns2:type="simple" ns2:actuate="onRequest" ns2:show="replace">box 21, folder 230</ref>
+                  </p>
+               </note>
+               <note>
+                  <p>See also: 
+                            <ref target="ref123" ns2:type="simple" ns2:actuate="onRequest" ns2:show="replace">box 27</ref>
+                  </p>
+               </note>
+            </c02>
+            <c02 id="ref81" level="file">
+               <did>
+                  <container type="Box" label="39002042265851">20a</container>
+                  <container type="Folder">223-224</container>
+                  <unittitle>Books read</unittitle>
+                  <unitdate normal="1919/1942" type="inclusive">1919-1942</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref82" level="file">
+               <did>
+                  <container type="Box" label="39002042265851">20a</container>
+                  <container type="Folder">225</container>
+                  <unittitle>Books read and reviewed</unittitle>
+                  <unitdate normal="1941/1943" type="inclusive">1941-1943</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref83" level="file">
+               <did>
+                  <container type="Box" label="39002042265869">21</container>
+                  <container type="Folder">226-227</container>
+                  <unittitle>Browning</unittitle>
+                  <unitdate>1926, 1930, no date</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref84" level="file">
+               <did>
+                  <container type="Box" label="39002042265869">21</container>
+                  <container type="Folder">228</container>
+                  <unittitle>Commencement speeches: notes</unittitle>
+                  <unitdate>no date</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref85" level="file">
+               <did>
+                  <container type="Box" label="39002042265869">21</container>
+                  <container type="Folder">229</container>
+                  <unittitle>Hartford lectures</unittitle>
+                  <unitdate>no date</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref86" level="file">
+               <did>
+                  <container type="Box" label="39002042265869">21</container>
+                  <container type="Folder">230</container>
+                  <unittitle>Honorary degrees, awards, and citations</unittitle>
+                  <unitdate normal="1891/1942" type="inclusive">1891-1942</unitdate>
+               </did>
+               <note>
+                  <p>See also: 
+                            <ref target="ref123" ns2:type="simple" ns2:actuate="onRequest" ns2:show="replace">box 27</ref>
+                  </p>
+               </note>
+            </c02>
+            <c02 id="ref88" level="file">
+               <did>
+                  <container type="Box" label="39002042265869">21</container>
+                  <container type="Folder">231</container>
+                  <unittitle>Lectures and syllabi</unittitle>
+                  <unitdate>1902, no date</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref89" level="file">
+               <did>
+                  <container type="Box" label="39002042265869">21</container>
+                  <container type="Folder">232</container>
+                  <unittitle>Metaphysicals</unittitle>
+                  <unitdate normal="1900/1924" type="inclusive">1900-1924</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref90" level="file">
+               <did>
+                  <container type="Box" label="39002042265869">21</container>
+                  <container type="Folder">233-234</container>
+                  <unittitle>Newspaper articles</unittitle>
+                  <unitdate normal="1933/1937" type="inclusive">1933-1937</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref91" level="file">
+               <did>
+                  <container type="Box" label="39002042265877">22</container>
+                  <container type="Folder">235-242</container>
+                  <unittitle>Newspaper articles</unittitle>
+                  <unitdate normal="1933/1937" type="inclusive">1933-1937</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref92" level="file">
+               <did>
+                  <container type="Box" label="39002042265885">23</container>
+                  <container type="Folder">243-246</container>
+                  <unittitle>Newspaper articles</unittitle>
+                  <unitdate>1933-1937, 1940, 1989</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref93" level="file">
+               <did>
+                  <container type="Box" label="39002042265885">23</container>
+                  <container type="Folder">247</container>
+                  <unittitle>Notebook: Hartford High School</unittitle>
+                  <unitdate normal="1883/1883">1883</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref94" level="file">
+               <did>
+                  <container type="Box" label="39002042265885">23</container>
+                  <container type="Folder">248</container>
+                  <unittitle>Photographs</unittitle>
+                  <unitdate>1891-1937, no date</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref95" level="file">
+               <did>
+                  <container type="Box" label="39002042265885">23</container>
+                  <container type="Folder">249</container>
+                  <unittitle>Plays</unittitle>
+                  <unitdate>1892-1893, 1934-1935, 1941-1942</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref96" level="file">
+               <did>
+                  <container type="Box" label="39002042265885">23</container>
+                  <container type="Folder">250</container>
+                  <unittitle>Poetry</unittitle>
+                  <unitdate>1914, 1927</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref97" level="file">
+               <did>
+                  <container type="Box" label="39002042265885">23</container>
+                  <container type="Folder">251</container>
+                  <unittitle>Scrapbook</unittitle>
+                  <unitdate normal="1926/1927" type="inclusive">1926-1927</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref98" level="file">
+               <did>
+                  <container type="Box" label="39002042265885">23</container>
+                  <container type="Folder">252</container>
+                  <unittitle>Sloan prize</unittitle>
+                  <unitdate>no date</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref99" level="file">
+               <did>
+                  <container type="Box" label="39002042265893">24</container>
+                  <container type="Folder">253</container>
+                  <unittitle>Student exams</unittitle>
+                  <unitdate>no date</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref100" level="file">
+               <did>
+                  <container type="Box" label="39002042265893">24</container>
+                  <container type="Folder">254</container>
+                  <unittitle>Student exams: forms</unittitle>
+                  <unitdate normal="1893/1917" type="inclusive">1893-1917</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref101" level="file">
+               <did>
+                  <container type="Box" label="39002042265893">24</container>
+                  <container type="Folder">255-256</container>
+                  <unittitle>Student grades</unittitle>
+                  <unitdate normal="1893/1909" type="inclusive">1893-1909</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref102" level="file">
+               <did>
+                  <container type="Box" label="39002042265893">24</container>
+                  <container type="Folder">257</container>
+                  <unittitle>Student papers</unittitle>
+                  <unitdate normal="1941/1941">1941</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref103" level="file">
+               <did>
+                  <container type="Box" label="39002042265893">24</container>
+                  <container type="Folder">258-260</container>
+                  <unittitle>Student plays</unittitle>
+                  <unitdate>1922, no date</unitdate>
+               </did>
+               <note>
+                  <p>See also: Sloan prize, 
+                            <ref target="ref98" ns2:type="simple" ns2:actuate="onRequest" ns2:show="replace">box 23, folder 252</ref>
+                  </p>
+               </note>
+            </c02>
+            <c02 id="ref105" level="file">
+               <did>
+                  <container type="Box" label="39002042265901">25</container>
+                  <container type="Folder">261</container>
+                  <unittitle>Student plays</unittitle>
+                  <unitdate>1922, 1933, no date</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref106" level="file">
+               <did>
+                  <container type="Box" label="39002042265901">25</container>
+                  <container type="Folder">262-263</container>
+                  <unittitle>Writings of others</unittitle>
+                  <unitdate>1910-1941, no date</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref107" level="file">
+               <did>
+                  <container type="Box" label="39002042265901">25</container>
+                  <container type="Folder">264</container>
+                  <unittitle>Yale University: miscellanea</unittitle>
+                  <unitdate>1906, 1908, no date</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref108" level="file">
+               <did>
+                  <container type="Box" label="39002042265901">25</container>
+                  <container type="Folder">265</container>
+                  <unittitle>Miscellanea</unittitle>
+                  <unitdate>1909-1943, no date</unitdate>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="ref110" level="series">
+            <did>
+               <unitid>Series V</unitid>
+               <unittitle>FAMILY PAPERS</unittitle>
+               <unitdate normal="1826/1930" type="inclusive">1826-1930</unitdate>
+               <physdesc>
+                  <extent>0.5 linear feet</extent>
+                  <extent>(1 box)</extent>
+               </physdesc>
+            </did>
+            <scopecontent>
+               <p>This series is arranged alphabetically by the names of family members.</p>
+            </scopecontent>
+            <c02 id="ref112" level="file">
+               <did>
+                  <container type="Box" label="39002042265919">26</container>
+                  <container type="Folder">266</container>
+                  <unittitle>Phelps, Annabel L.: diary</unittitle>
+                  <unitdate normal="1899/1899">1899</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref113" level="file">
+               <did>
+                  <container type="Box" label="39002042265919">26</container>
+                  <container type="Folder">267</container>
+                  <unittitle>Phelps, Hannah B. C.: autograph book</unittitle>
+                  <unitdate normal="1841/1841">1841</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref114" level="file">
+               <did>
+                  <unittitle>Phelps, Sylvanus Dryden</unittitle>
+               </did>
+               <c03 id="ref115" level="file">
+                  <did>
+                     <container type="Box" label="39002042265919">26</container>
+                     <container type="Folder">268</container>
+                     <unittitle>Biographical sketch</unittitle>
+                     <unitdate>no date</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref116" level="file">
+                  <did>
+                     <container type="Box" label="39002042265919">26</container>
+                     <container type="Folder">269</container>
+                     <unittitle>Memoir</unittitle>
+                     <unitdate normal="1894/1894">1894</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref117" level="file">
+                  <did>
+                     <container type="Box" label="39002042265919">26</container>
+                     <container type="Folder">270</container>
+                     <unittitle>Poems</unittitle>
+                     <unitdate normal="1834/1845" type="inclusive">1834-1845</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref118" level="file">
+                  <did>
+                     <container type="Box" label="39002042265919">26</container>
+                     <container type="Folder">271</container>
+                     <unittitle>Poems and miscellanea</unittitle>
+                     <unitdate>no date</unitdate>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="ref119" level="file">
+               <did>
+                  <container type="Box" label="39002042265919">26</container>
+                  <container type="Folder">272</container>
+                  <unittitle>Phelps, William Lyon, II</unittitle>
+                  <unitdate>no date</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref120" level="file">
+               <did>
+                  <container type="Box" label="39002042265919">26</container>
+                  <container type="Folder">273</container>
+                  <unittitle>Miscellanea</unittitle>
+                  <unitdate>1826, 1930</unitdate>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="ref122" level="series">
+            <did>
+               <unitid>Series VI</unitid>
+               <unittitle>OVERSIZE</unittitle>
+            </did>
+            <c02 id="ref123" level="file">
+               <did>
+                  <container type="Box" label="39002042606476">27</container>
+                  <unittitle>Honorary degrees, awards, and citations</unittitle>
+                  <unitdate normal="1883/1942" type="inclusive">1883-1942</unitdate>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="ref124" level="series">
+            <did>
+               <unitid>Accession 2005-M-042</unitid>
+               <unittitle>Additional Material</unittitle>
+            </did>
+            <c02 id="ref125" level="file">
+               <did>
+                  <container type="Box" label="39002063471784">1</container>
+                  <container type="Folder">1</container>
+                  <unittitle>Letter to Albert S. Cook re: poetry</unittitle>
+                  <unitdate>1918 Oct 21</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref126" level="file">
+               <did>
+                  <container type="Box" label="39002063471784">1</container>
+                  <container type="Folder">2</container>
+                  <unittitle>Letter to "Walter"</unittitle>
+                  <unitdate>1921 Nov 8</unitdate>
+               </did>
+            </c02>
+         </c01>
+      </dsc>
+   </archdesc>
+</ead>

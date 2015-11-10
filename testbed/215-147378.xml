@@ -1,0 +1,169 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead relatedencoding="marc21">
+	<eadheader audience="internal">
+		<!--Change the last five numbers to the five number collection number 
+			from TARO log and name and save file as that five digit number.-->
+		<eadid countrycode="US" mainagencycode="TxU-TH" encodinganalog="852$a"
+			>urn:taro:utexas.cah.02455</eadid>
+		<filedesc>
+			<titlestmt>
+				<!--Type the title just as you would say it and use type (e.g. Papers, Collection, Archive) 
+					as appropriate. Follow with dates. Example: John Doe Papers, 1910-1920, 1954 (bulk 1912-1913) -->
+				<titleproper>A Guide to the Montee Nelms Weddle Papers, 1842-1926</titleproper>
+			</titlestmt>
+		</filedesc>
+		<profiledesc>
+			<!--Add your name and the date (format: January 2008) of encoding below.-->
+			<creation>Original EAD encoding by Lauren Algee according to TARO 2 EAD 2002 Editing
+				Instructions. <date>March 2011</date></creation>
+			<langusage>Finding aid written in <language>English.</language></langusage>
+		</profiledesc>
+	</eadheader>
+	<archdesc type="inventory" level="collection">
+		<did>
+			<head>Descriptive Summary</head>
+			<!--Select the appropriate tag and use LOC Authority style name depending on if the creator is 
+				an individual (name: LAST, FIRST, BIRTH YEAR-DEATH YEAR), 
+				family (name: LAST family, add individual name offset by commas between surname and "family," if desired),
+				or organization entity. Delete the other tags you don't use. Add multiple creators, if necessary. -->
+			<origination label="Creator:">
+				<persname encodinganalog="100">Nelms, Americus Leonidas, 1832-1926</persname>
+			</origination>
+			<!--Type the unittitle last name first and use type (e.g. Papers, Collection, Archive) as appropriate. 
+				Use commas to offset first names rather than parentheses for MARC conversion. Example: Doe, John, Papers-->
+			<unittitle encodinganalog="245" label="Title:">Weddle, Montee Nelms, Papers</unittitle>
+			<unitdate type="inclusive" encodinganalog="245" label="Dates:"
+				>1842-1926</unitdate>
+			<!--Modify the language of material if appropriate and update 3 letter langcode in the upper-right table. 
+				Add multiple languages with most commonly used listed first, if necessary. 
+				Example: <language langcode="eng">English</language> and <language langcode="spa">Spanish.</language> -->
+			<langmaterial label="Language:">Materials are written in <language langcode="eng"
+					>English.</language></langmaterial>
+			<!--This is the accession number(s) or other applicable indentifier, listed in chronological order 
+				and separated by semi-colons. Example: 1954; 98-016; 2003-115. -->
+			<unitid label="Accession No.:">65-165</unitid>
+			<!--This is the size in item number or feet and inches. For example: 4 ft., 10 in. or 3 vols.-->
+			<physdesc label="Extent:" encodinganalog="300$a"
+				>3 in.</physdesc>
+			<!--This is the Briscoe Center's information and doesn't change.-->
+			<repository label="Repository:" encodinganalog="852$a">
+				<extref href="http://www.cah.utexas.edu" show="new" actuate="onrequest">
+					<corpname><subarea>Dolph Briscoe Center for American History, </subarea>The
+						University of Texas at Austin</corpname></extref></repository>
+			<!--This is typically the first sentences or paragraph from scope and content note, as appropriate.
+			    Sometimes an biographical sentence is appropriate. If the scope note is a short paragraph, 
+			    you may use it in its entirety.-->
+			<abstract label="Abstract:" encodinganalog="520$a"
+				>Correspondence, business and financial papers, legal documents, and clippings compose the Montee Nelms Weddle Papers, 1842-1926, documenting the history and affairs of the Nelms and Dulaney families in Texas, particularly the life of Americus L. Nelms.</abstract>
+		</did>
+		<bioghist encodinganalog="545">
+			<!--If an individual, heading should read Biographical Note; for an organization or subject, 
+				it should read Historical Note. Add p tags for each paragraph. Use the emph tag for italics, 
+				doublequotes, or singlequotes. Use a p tag for each source, in Chicago style and the extref 
+				tag for links to websites.-->
+			<head>Biographical Note</head>
+			<p>Born to John A. and Mary Belle Nelms in Logan County, Kentucky, Americus Leonidas “Uncle Lee” Nelms (1832-1926), moved to Fannin County, Texas, with his parents in 1846.  In 1856, he married Minerva Jane Pierce (1839-1923), who had come to Texas from Tennessee with her family six years prior.  The couple eventually had six children, including a daughter named Montee, who later preserved the family’s papers.  In 1862, Nelms entered the 34th Texas Infantry of the Confederate Army, in which he served under A. M. Alexander for the duration of the Civil War in the Cherokee nation and at Fort McCulloch, Oklahoma; Marshall, Texas; Arkansas; and Missouri.  Before and after the war, Nelms farmed in Fannin County.</p>
+		</bioghist>
+		<scopecontent encodinganalog="520">
+			<!--This explains the collection. Include the title, dates, subjects, and material types in complete sentences.-->
+			<head>Scope and Contents</head>
+			<p>Correspondence, business and financial papers, legal documents, and clippings compose the Montee Nelms Weddle Papers, 1842-1926, documenting the history and affairs of the Nelms and Dulaney families in Texas, particularly the life of Americus L. Nelms.  Forty-seven letters between Nelms and his wife Minerva during the Civil War (1862-1865) concern family business and health, news of the war’s progress, fighting with Native Americans, and combat with Union forces, including the Battle of Mansfield, Louisiana.  Letters to Nelms from his sister Laura Dulaney and her son James H. Dulaney (1852-1885) discuss family finances, activities, and health.  Additional correspondence, business and financial papers, and legal documents, including court papers, tax receipts, and deeds for land in Fannin County, Texas, relate to the property and business of the Nelms and Dulaney families.  Newspaper clippings include Nelms’ reminiscences of early Dallas and obituaries.</p>
+		</scopecontent>
+		<accessrestrict encodinganalog="506">
+			<!-- Select the appropriate tag(s) and delete others. You may need to modify an existing 
+				description or create a new one. The SAA Glossary defines access restrictions as such:
+				"Access restrictions may be defined by a period of time or by a class of individual 
+				allowed or denied access. They may be designed to protect national security (classification), 
+				personal privacy, or to preserve materials." -->
+			<head>Access Restrictions</head>
+			<p>This collection is open for research use.</p>
+		</accessrestrict>
+		<controlaccess>
+			<!--Delete section(s) as appropriate depending on the presence of index terms. Use LOC Authorities 
+				style subjects. Add multiple fields as necessary. "Archives" should be added to the creator's 
+				subject heading, separated by double dashes. Corpnames with a 611 encodinganalog are for meeting 
+				names, while  corpnames with 611 are for organzations. Subjects with 650 are for general topics, 
+				while 630 are for titles of publications, including newspapers. -->
+			<head>Index Terms</head>
+			<controlaccess>
+				<head>Subjects (Persons)</head>
+				<persname encodinganalog="600">Nelms, Americus Leonidas, 1832-1926 -- Archives</persname>
+				<persname encodinganalog="600">Nelms, Minerva Jane Pierce, 1839-1923</persname>
+				<persname encodinganalog="600">Dulaney, Laura</persname>
+				<persname encodinganalog="600">Dulaney, James H.</persname>
+				<famname encodinganalog="600">Nelms family -- Archives</famname>
+				<famname encodinganalog="600">Dulaney Family</famname>
+			</controlaccess>
+			<controlaccess>
+				<head>Subjects (Organizations)</head>
+				<corpname encodinganalog="610">Confederate States of America. Army. Texas Infantry Regiment, 34th.</corpname>
+			</controlaccess>
+			<controlaccess>
+				<head>Subjects</head>
+				<subject encodinganalog="650">Indians of North America -- History -- Civil War, 1861-1865</subject>
+				<subject encodinganalog="650">Mansfield, Battle of, La., 1864.</subject>
+			</controlaccess>
+			<controlaccess>
+				<head>Places</head>
+				<geogname encodinganalog="651" source="lcnaf"
+					>Fannin County (Tex.) -- History -- 19th century</geogname>
+				<geogname encodinganalog="651" source="lcnaf"
+					>United States -- History -- Civil War, 1861-1865 </geogname>
+			</controlaccess>
+		</controlaccess>
+		<prefercite encodinganalog="524">
+			<!--Type the title just as you would say it and use type (e.g. Papers, Collection, Archive) 
+				as appropriate. Follow with dates. Example: John Doe Papers, 1910-1920, 1954 (bulk 1912-1913) -->
+			<head>Preferred Citation</head>
+			<p>Montee Nelms Weddle Papers, 1842-1926, Dolph Briscoe Center for American History, The University of
+				Texas at Austin.</p>
+		</prefercite>
+		<processinfo>
+			<!--Delete processinfo if not known. Add additional revisions by adding a semi-colon and NAME, DATE. 
+				Remove sentence about revisions if none were made. When date but not processor is known, use 
+				"archives staff" in place of name..-->
+			<head>Processing Information</head>
+			<p>Basic processing and cataloging of this collection was supported with funds from the
+				National Historical Publications and Records Commission (NHPRC) for the Briscoe
+				Center’s “History Revealed: Bringing Collections to Light project,” 2009-2011.</p>
+		</processinfo>
+		<dsc type="in-depth">
+			<head>Detailed Description of the Papers</head>
+			<c01 level="series" id="ser1">
+				<!-- When there is no discernable organization, for the C01 unittitle tag type "Inventory" and 
+					remove unitdate. Otherwise add a C01 tag for each series without a container tag. If inventory 
+					is too large to include, you may include an abbreviated inventory (e.g. box level or series 
+					level) or type "Contact repository for inventory." in C01 unittitle tag.-->
+				<did>
+					<unittitle>Inventory</unittitle>
+				</did>
+				<c02>
+					<did>
+						<container type="box">2L368</container>
+						<unittitle>Letters,
+							<unitdate>1862-1885</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<container type="box">2L368</container>
+						<unittitle>Legal papers</unittitle>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<container type="box">2L368</container>
+						<unittitle>Business and financial papers</unittitle>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<container type="box">2L368</container>
+						<unittitle>Newspaper clippings</unittitle>
+					</did>
+				</c02>
+			</c01>
+		</dsc>
+	</archdesc>
+</ead>

@@ -1,0 +1,83 @@
+<?xml version="1.0" standalone="no"?>
+
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead relatedencoding="MARC21">
+   <eadheader langencoding="iso639-2b" id="a0" audience="internal" findaidstatus="edited-full-draft" repositoryencoding="iso15511" countryencoding="iso3166-1" scriptencoding="iso15924" dateencoding="iso8601">
+      <eadid countrycode="us" mainagencycode="TxU-TH" encodinganalog="852$a">urn:taro:utexas.cah.00105</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>A Guide to the Marshel Day Papers, 1849-1853</titleproper>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Dolph Briscoe Center for American History</publisher>
+         </publicationstmt>
+      </filedesc>
+      <profiledesc>
+         <creation>Text converted and initial EAD tagging provided by Apex Data Services, <date era="ce" calendar="gregorian">February 2001.</date>
+         </creation>
+         <langusage>Finding aid written in <language>English</language>.</langusage>
+      </profiledesc>
+      <revisiondesc>
+         <change>
+            <date normal="20020820" era="ce" calendar="gregorian">August 20, 2002</date>
+            <item>Edited with XMetaL 2 by Bill Hardesty, according to instructions in <title linktype="simple">Editing TARO EAD XML Finding Aids with XMetaL</title>.</item>
+         </change>
+         <change>
+            <date>Tue Jul 22 15:27:16 CDT 2003</date>
+            <item>urn:taro:utexas.cah.00105 converted from EAD 1.0 to 2002 by v1to02.xsl (20030505).</item>
+         </change>
+      </revisiondesc>
+   </eadheader>
+   <archdesc level="collection" type="inventory">
+      <did id="a1">
+         <head>Descriptive Summary</head>
+         <origination label="Creator">
+            <persname source="local" encodinganalog="100">Day, Marshel</persname>
+         </origination>
+         <unittitle label="Title" encodinganalog="245">DAY (MARSHEL) PAPERS, <unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian">1849-1853</unitdate>
+         </unittitle>
+         <unitid countrycode="us" repositorycode="TxU-TH" label="OCLC Record No.">34893466</unitid>
+         <physdesc label="Extent" encodinganalog="300$a">4 items</physdesc>
+         <repository label="Repository" encodinganalog="852$a">
+            <corpname>
+               <subarea>Dolph Briscoe Center for American History
+</subarea>The University of Texas at Austin</corpname>
+         </repository>
+         <abstract label="Abstract" encodinganalog="520$a">Papers are promissory notes signed by Day. Forms part of the Natchez Trace Collection.</abstract>
+         <langmaterial label="Language">
+            <language langcode="eng">English.</language>
+         </langmaterial>
+      </did>
+      <scopecontent id="a3" encodinganalog="520">
+         <head>Scope and Contents</head>
+         <p>Papers are promissory notes signed by Day.</p>
+      </scopecontent>
+      <controlaccess id="a12">
+         <head>Index Terms</head>
+         <controlaccess>
+            <head>Subjects (Persons)</head>
+            <persname encodinganalog="600" source="local">Day, Marshel.</persname>
+         </controlaccess>
+         <controlaccess>
+            <head>Subjects</head>
+            <subject encodinganalog="650" source="lcsh">Debtor and creditor--Southern States.</subject>
+         </controlaccess>
+      </controlaccess>
+      <accessrestrict id="a14" encodinganalog="506">
+         <head>Access Restrictions</head>
+         <p>Unrestricted access.</p>
+      </accessrestrict>
+      <prefercite id="a18" encodinganalog="524">
+         <head>Preferred Citation</head>
+         <p>Marshel Day Papers, 1849-1853, Dolph Briscoe Center for American History, University of Texas at Austin.</p>
+      </prefercite>
+      <dsc type="in-depth">
+         <c01 level="series">
+            <did>
+               <unittitle>2E556	Marshel Day Papers<unitdate era="ce" calendar="gregorian">1849-1853</unitdate>
+               </unittitle>
+            </did>
+         </c01>
+      </dsc>
+   </archdesc>
+</ead>

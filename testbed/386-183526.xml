@@ -1,0 +1,120 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="clrc.xsl"?>
+<?DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd"?>
+<ead audience="external"> 
+  <eadheader audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" langencoding="iso639-2b" scriptencoding="iso15924" relatedencoding="Dublin core"> 
+	 <eadid countrycode="mnu" mainagencycode="MnU" publicid="-//us::University of Minnesota, Twin Cities::Children's Literature Research Collections//TEXT     us::MnU::clrc-1999.xml:://EN">CLRC-1999</eadid><filedesc> <titlestmt> <titleproper encodinganalog="Title"> <emph render="bold">Robert Lostutter Papers</emph></titleproper><subtitle/><author encodinganalog="Contributor">Jim Eyer</author> </titlestmt><publicationstmt><publisher encodinganalog="Publisher">University of Minnesota Libraries</publisher><date encodinganalog="Date">11-3-05</date> <address> <addressline>University of Minnesota Libraries</addressline> <addressline>Minneapolis, MN 55455</addressline> </address> </publicationstmt></filedesc><profiledesc><creation>EAD 2002 Validated Finding Aid generated with the aid of a custom FileMaker Pro database developed by the staff of the Children's Literature Research Collections, University of Minnesota Libraries. Many thanks to all the staff and volunteers.<date>11-3-05</date></creation><langusage>Description is in <language encodinganalog="Language" langcode="eng">English</language></langusage></profiledesc></eadheader><archdesc level="collection" relatedencoding="MARC21" type="inventory">
+ <did id="a1">
+ <head>Summary Information</head>
+ <repository encodinganalog="852$a" label="Repository:">University of Minnesota Libraries
+ <subarea>Children's Literature Research Collections [clrc]</subarea></repository>
+ <origination label="Creator:"><persname encodinganalog="100" source="lcnaf" rules="aacr2">Lostutter, Robert</persname></origination>
+ <unittitle label="Title:" encodinganalog="245$a">Robert Lostutter Papers</unittitle>
+ <unitdate label="Date:" encodinganalog="245$f" type="inclusive" normal="1964">1964</unitdate>
+ <unitid label="Collection Number:" encodinganalog="099" countrycode="us" repositorycode="MnU">CLRC-1999
+ </unitid>
+ <abstract encodinganalog="520" label="Abstract:">The collection contains illustrative material for 1 title, and includes original black and white illustrations and color separations.</abstract>
+ <physdesc label="Quantity:" encodinganalog="300"><extent>1 box</extent></physdesc>
+ <physloc label="Location:">See Detailed Descriptions for Each Title Item for Box Locations</physloc>
+ <langmaterial encodinganalog="546">
+ <language encodinganalog="041" langcode="eng">
+ English
+ </language>
+ </langmaterial>
+ </did>
+ <descgrp>
+ <head>
+ Important Information for Users of the Collections
+ </head>
+ <accessrestrict encodinganalog="506">
+ <head>
+ Access and Use:
+ </head>
+ <p>
+ Collection is open for researchers with no restrictions. Registration with the collection is required. </p>
+ </accessrestrict>
+ <userestrict encodinganalog="540">
+ <head>
+ Copyright: </head>
+ <p>
+ This collection is protected by the Copyright Law of the United States (Title 17, U.S. Code). It is the user's responsibility to verify copyright ownership and to obtain all necessary permissions prior to the reproduction, publication, or other use of any portion of these materials. </p>
+ </userestrict>
+ </descgrp>
+ <bioghist encodinganalog="545" id="hb"><head altrender="history"><emph render="bold">Biographical Sketch</emph></head><p/></bioghist>
+ <scopecontent encodinganalog="520" id="sc"><head><emph render="bold">Scope and Content</emph></head><p>The collection includes illustrative material for 1 title, consisting of original black and white illustrations and color separations.</p></scopecontent>
+<controlaccess>
+ <head>
+ Indexing Terms
+ </head>
+ <p>
+ The collection is indexed under the following headings in the catalog of the University of Minnesota Libraries. Researchers desiring materials about related topics, persons or places should search the catalog using these headings.  </p>
+ <persname encodinganalog="600" rules="aacr2" role="subject">
+ Lostutter, Robert
+ </persname>
+
+ </controlaccess>
+ <acqinfo encodinganalog="541">
+ <head>
+ Accession Information:
+ </head>
+ <p>
+ </p><p>
+ Gift of: <persname> Lostutter, Robert</persname>
+ </p>
+ </acqinfo>
+<arrangement encodinganalog="351">
+ <head>
+ <emph render="bold">
+ Arrangement
+ </emph>
+ </head>
+<p>
+ Things That Are, The, 1964
+ </p></arrangement>
+<dsc type="combined">
+ <head>
+ <emph render="bold">
+ Collection Contents
+ </emph>
+ </head>
+<c01 level="series">
+ <did>
+ <unittitle>
+Things That Are, The
+ </unittitle>
+ <unitdate type="inclusive">
+1964</unitdate>
+ </did>
+ <scopecontent>
+ <p>
+ </p><p>
+ Chicago: Reilly and Lee, 1964</p>
+ </scopecontent><c02 level="item">
+ <did>
+ <container type="box">MC169
+</container> <unittitle>original black and white illustrations</unittitle>
+ <physdesc><extent>26 p.</extent></physdesc>
+ </did>
+ </c02>
+<c02 level="item">
+ <did>
+ <container type="box">MC169
+</container> <unittitle>original black and whilte title page illustration</unittitle>
+ <physdesc><extent>1 p.</extent></physdesc>
+ </did>
+ </c02>
+<c02 level="item">
+ <did>
+ <container type="box">MC169
+</container> <unittitle>color separations</unittitle>
+ <physdesc><extent>34 p.</extent></physdesc>
+ </did>
+ </c02>
+<c02 level="item">
+ <did>
+ <container type="box">MC169
+</container> <unittitle>color separation for title page</unittitle>
+ <physdesc><extent>1 p.</extent></physdesc>
+ </did>
+ </c02>
+</c01></dsc> </archdesc> </ead>

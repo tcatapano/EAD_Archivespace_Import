@@ -1,0 +1,160 @@
+
+<ead audience="external" 
+     xmlns="urn:isbn:1-931666-22-9"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.loc.gov/ead/ http://www.loc.gov/ead/ead.xsd">
+   <eadheader langencoding="iso639-2b" audience="external" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924" relatedencoding="MARC21">
+      <eadid encodinganalog="856$u" mainagencycode="US-LNT" countrycode="US" identifier="ArchonInternalCollectionID:101">LaRC/Manuscripts Collection M-1159</eadid>
+      <filedesc>
+                  <titlestmt>
+               <titleproper encodinganalog="245">Guide to the George Stannard letter to F. W. Tilton</titleproper>
+               <titleproper type="filing">Stannard, George, Frederick William Tilton letter</titleproper>
+                        <author encodinganalog="245$c">Finding Aid Authors: Maxwell Means.</author>
+                  </titlestmt>
+         <publicationstmt>
+            <p> Copyright 2010 Louisiana Research Collection.  All rights reserved.</p>
+                           <publisher encodinganalog="260$b">Louisiana Research Collection</publisher>
+                        <date encodinganalog="260$c" type="publication" normal="2010-03-15">2010-03-15</date>
+
+                           <address>
+                  <addressline>202 Jones Hall</addressline>
+                                 <addressline>6801 Freret Street</addressline>
+                                 <addressline>New Orleans, LA, 70118</addressline>
+                                 <addressline>URL: http://specialcollections.tulane.edu/archon</addressline>
+                                 <addressline>Email: sbenjam@tulane.edu</addressline>
+                                 <addressline>Phone: 504-865-5685</addressline>
+                           </address>
+               
+         </publicationstmt>
+      </filedesc>
+
+      <profiledesc>
+         <creation encodinganalog="500">This finding aid was encoding in EAD by Archon 3.21 from an SQL database source on <date type="encoded" normal="2012-07-18">July 18th, 2012</date>.</creation>
+                     </profiledesc>
+
+
+               
+      </eadheader>
+
+      <frontmatter>
+         <titlepage>
+            <titleproper encodinganalog="245">Guide to the George Stannard letter to F. W. Tilton
+                              <date normal="1850" encodinganalog="260$c">1850</date>
+                        </titleproper>
+               <publisher encodinganalog="260$b">Louisiana Research Collection</publisher>
+               </titlepage>
+            </frontmatter>
+
+            <archdesc level="collection" type="inventory" audience="external" relatedencoding="MARC21">
+               <did>
+                  <head>Overview of the Collection</head>
+                           <unittitle label="Collection Title" encodinganalog="245">George Stannard letter to F. W. Tilton                              <unitdate label="Dates" encodinganalog="245$f" type="inclusive" normal="1850">1850</unitdate>
+                              </unittitle>
+                  <unitid encodinganalog="035" label="Identification" repositorycode="US-LNT" countrycode="US">LaRC/Manuscripts Collection M-1159</unitid>
+                     <origination label="Creator" encodinganalog="245$c">
+                     <persname encodinganalog="100" normal="Stannard, George." source="lcnaf" role="Collector">Stannard, George.</persname>
+                           </origination>
+                           <physdesc label="Physical Description"><extent encodinganalog="300" type="Items">1.00</extent></physdesc>
+                           <physdesc label="Alternate Extent Statement" encodinganalog="300$a">1 item</physdesc>
+         
+            <repository encodinganalog="852$b" label="Repository">
+                              <corpname>Louisiana Research Collection</corpname>
+                              <address>
+                     <addressline>202 Jones Hall</addressline>
+                                    <addressline>6801 Freret Street</addressline>
+                                       <addressline>New Orleans, LA, </addressline>
+                                    <addressline>URL: http://specialcollections.tulane.edu/archon</addressline>
+                                    <addressline>Email: sbenjam@tulane.edu</addressline>
+                                    <addressline>Phone: 504-865-5685</addressline>
+                              </address>
+            </repository>
+
+
+                        
+      </did>
+
+
+      <!--COLLECTION LEVEL METADATA: -->
+
+
+            <!-- CONTROLLED ACCESS / SUBJECT TERMS -->
+
+                        <controlaccess>
+                     <head>Access Terms</head>
+
+                     <p>This Collection is indexed under the following controlled access subject terms.</p>
+                                 <controlaccess>
+                              <head>Geographic Name:</head>
+                                       <geogname encodinganalog="651" source="lcsh" role="subject">New Orleans (La.) -- History -- 19th century.</geogname>
+                                       <geogname encodinganalog="651" source="lcsh" role="subject">Southern States -- History -- 1775-1865.</geogname>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Personal Name:</head>
+                                       <persname encodinganalog="600" source="lcnaf" role="subject">Stannard, George.</persname>
+                                       <persname encodinganalog="600" source="lcnaf" role="subject">Tilton, Caroline Stannard.</persname>
+                                       <persname encodinganalog="600" source="lcnaf" role="subject">Tilton, Frederick William.</persname>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Topical Term:</head>
+                                       <subject encodinganalog="650" source="lcsh">African Americans -- Southern States -- History -- To 1863.</subject>
+                                       <subject encodinganalog="650" source="lcsh">Slavery -- Southern States.</subject>
+                                 </controlaccess>
+            </controlaccess>
+            
+
+         <!-- END CONTROLLED ACCESS TERMS -->
+
+            
+            <!-- DIGITAL ARCHIVAL OBJECTS -->
+                              <!-- END DIGITAL ARCHIVAL OBJECTS -->
+                     <!-- ADMINISTRATIVE INFORMATION -->
+
+                  <descgrp>
+                     <head>Administrative Information</head>
+                              <processinfo encodinganalog="583">
+                           <head>Processing Information:</head>
+                                    <p>This item was processed by intern Maxwell Means during summer 2009.</p>
+                              </processinfo>
+                              <userestrict encodinganalog="540">
+                           <head>Conditions Governing Use:</head>
+                                          <p>Physical rights are retained by the Louisiana Research Collection. Copyright is retained in accordance with U.S. copyright laws.</p>
+                              </userestrict>
+                     <accessrestrict encodinganalog="506">
+                        <head>Conditions Governing Access:</head>
+                                          <p>Collection is open to the public. No known restrictions.</p>
+                           </accessrestrict>
+                              <prefercite encodinganalog="524">
+                     <head>Preferred Citation:</head>
+                     <p>George Stannard to Frederick William Tilton letter, Manuscripts Collection M-1159, Louisiana Research Collection, Howard-Tilton Memorial Library, Tulane University, New Orleans, LA 70118</p>
+                     </prefercite>
+                              <relatedmaterial encodinganalog="544 1">
+                        <head>Related Materials:</head>
+                                          <p>Preserving the papers and records of pre-Civil War conditions in New Orleans is a special focus of the Louisiana Research Collection. The documents below are records of slavery in Louisiana.</p>
+                                          <p>Bertin Family Papers, M6, 1841-1851</p>
+                                          <p>Letters of the Bertin family, some of whom resided in New Orleans and others in St. Pierre, Martinique. The letters between members of the separated groups are concerned with the health and financial difficulties of the various members. There is also a mortgage type document relating to a slave purchase. (3 of 5 pieces in French have been translated into English).</p>
+                                 </relatedmaterial>
+                     </descgrp>
+
+                           <arrangement encodinganalog="351">
+                  <head>Arrangement of Materials:</head>
+                                 <p>This letter is 4 pages (one sheet folded in half).</p>
+                        </arrangement>
+            <scopecontent>
+               <head>Scope and Contents</head>
+                                 <p>In this letter from George Stannard (of Louisville, Kentucky) to Frederick William Tilton (of New Orleans, Louisiana), Stannard begins by describing certain troubles he has had with his slave, Smith. Smith’s wife apparently resides in New Orleans under the ownership of a man named H. Lucas, and recently Smith has voiced a desire to either be sold to Mr. Lucas or to be hired out to a job in New Orleans presumably to be closer to his wife. Stannard asks Tilton if he might discuss with Mr. Lucas the possibility of buying Smith for a price between $1,200 and $1,600 dollars (though Stannard admits that he is not entirely sure of Smith’s worth as he has never tried to sell him).</p>
+                                 <p>In latter half of the letter, Stannard asks after two of Tilton’s friends, Caroline and Frances, and asks if either of them might be persuaded to either write Stannard a letter or visit him in Kentucky. Stannard also briefly discusses his advice for and concern for an apparently younger friend named George.</p>
+                                 <p>After Stannard’s signature, he adds a short note concerning the news of a local divorce case.</p>
+                                 <p>Researchers of Tulane University might recognize the name Frederick William Tilton, the notable confederate financial backer and New Orleans businessman, from which the Howard-Tilton Library gets half its name due to his wife’s $50,000 donation facilitating the library’s construction.</p>
+                        </scopecontent>
+            
+
+
+         <!-- END ADMINISTRATIVE INFORMATION -->
+
+         <!-- END COLLECTION LEVEL METADATA -->
+
+                  <!-- END SUBORDINATE COMPONENTS -->
+   </archdesc>
+</ead>
+

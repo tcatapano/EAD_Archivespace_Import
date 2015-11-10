@@ -1,0 +1,113 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead relatedencoding="marc21">
+  <eadheader audience="internal"> 
+  <!--Change the last five numbers to the five number collection number from TARO log and name and save file as that five digit number.-->
+	 <eadid countrycode="US" mainagencycode="TxU-TH"
+	  encodinganalog="852$a">urn:taro:utexas.cah.01382</eadid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper>A Guide to the Eagle Pass, Texas, Photographs,
+			 1905</titleproper> 
+		</titlestmt> 
+	 </filedesc> 
+	 <profiledesc> 
+	 <!--Add your name and the date (format: January 2008) of encoding below.-->
+		<creation>Original EAD encoding by Linda Peterson according to TARO 2 EAD
+		  2002 Editing Instructions. 
+		  <date>December 2009</date></creation> 
+		<langusage>Finding aid written in
+		  <language>English.</language></langusage> 
+	 </profiledesc>
+  </eadheader>
+  <archdesc type="inventory" level="collection"> 
+	 <did> 
+		<head>Descriptive Summary</head> 
+		<origination label="Creator:"><!--Select the appropriate tag depending on if the creator is an individual (name: LAST, FIRST), family, or entity. Delete the other tags you don't use.-->
+		  <corpname encodinganalog="110" source="lcnaf">Eagle Pass, Texas,
+			 Photographs</corpname></origination>
+	 
+	 <!--Type the unittitle just as you would say it and use Papers, Collection, Archive as appropriate. (Example: John Doe Papers)-->
+		<unittitle encodinganalog="245" label="Title:">Eagle Pass, Texas,
+		  Photographs</unittitle> 
+		<unitdate type="inclusive" encodinganalog="245"
+		label="Dates:">1905</unitdate>
+	 <!--Modify the language of material if appropriate and update 3 letter langcode in the upper-right table.-->
+		<langmaterial label="Language:">Materials are written in
+		  <language langcode="eng">English.</language></langmaterial> 
+	 <!--This is the accession number(s) or other applicable indentifier.-->
+		<unitid label="Accession No.:">2009-355</unitid> 
+	 <!--This is the extent. For example: 4 feet, 10 inches-->
+		<physdesc label="Extent:" encodinganalog="300$a">2 mounted photographic
+		  prints</physdesc> 
+		<repository label="Repository:" encodinganalog="852$a"> 
+		  <extref href="http://www.cah.utexas.edu" show="new"
+		  actuate="onrequest"> 
+			 <corpname><subarea> Dolph Briscoe Center for American
+				History,</subarea>The University of Texas at
+				Austin</corpname></extref></repository> 
+	 <!--This is typically the first sentences from biographical note and scope and content note, as appropriate.-->
+		<abstract label="Abstract:" encodinganalog="520$a">The collection
+		  consists of two 5 in. x 7 in. mounted photographs of Eagle Pass, Texas. Both
+		  are of the east side of Main Street; one is taken looking south to north and
+		  the other north to south.</abstract> 
+	 </did> 
+	 <bioghist encodinganalog="545"> 
+	 <!--If an individual, heading should read Biographical Note, for an entity it should read Historical Note.-->
+		<head>Historical Note</head><p>Notes on verso of both photographs say
+		  they were filed with the district clerk of Maverick County on January 9,
+		  1905.</p> 
+	 </bioghist> 
+	 <scopecontent encodinganalog="520"> 
+		<head>Scope and Contents</head> 
+		<p>The collection consists of two 5 in. x 7 in. mounted photographs of
+		  Eagle Pass, Texas. Both are of the east side of Main Street; one is taken
+		  looking south to north and the other north to south.</p><!--If
+	 applicable include statement in p tag: Forms part of the NAME (Institute for
+	 Studies in American Military History, Archives of American Mathematics, 
+Professional Touring Entertainment Archives, etc.).-->
+	 </scopecontent> 
+	 <accessrestrict encodinganalog="506"> 
+	 <!--Select appropriate statement(s) and delete those tags that are not applicable.-->
+		<head>Access Restrictions</head><p>Unrestricted access.</p> 
+	 </accessrestrict> 
+	 <controlaccess> 
+	 <!--Delete this section(s) as appropriate depending on the presence of  index terms.-->
+		<head>Index Terms</head> 
+		<controlaccess> 
+		  <head>Subjects</head> 
+		  <subject encodinganalog="650">Commercial Buildings</subject> 
+		</controlaccess> 
+		<controlaccess> 
+		  <head>Places</head> 
+		  <geogname encodinganalog="651" source="lcnaf">Eagle Pass
+			 (Tex.)</geogname> 
+		</controlaccess> 
+	 </controlaccess> 
+	 <prefercite encodinganalog="524"> 
+		<head>Preferred Citation</head><p>Eagle Pass, Texas, Photographs, 1905,
+		  Dolph Briscoe Center for American History, The University of Texas at
+		  Austin.</p> 
+	 </prefercite> 
+	 <processinfo> 
+		<head>Processing Information</head><p>Basic processing and cataloging of
+		  this collection was supported with funds from the National Historical
+		  Publications and Records Commission (NHPRC) for the Briscoe Center’s
+		  <emph render="doublequote">History Revealed: Bringing Collections to
+		  Light</emph> project, 2009-2011.</p> 
+	 </processinfo><dsc type="in-depth"> 
+		<head>Detailed Description of the Papers</head> 
+		<c01 level="series" id="ser1"> 
+		  <did> 
+		  <!--For c01 unititle, if inventory is basically a container list type Inventory, if it is a series, type the series title for each c01. Delete Folder Tags.-->
+			 <unittitle>Inventory </unittitle> 
+		  </did> 
+		  <c02> 
+			 <did>
+				<container type="box">3T76</container> 
+				<unittitle>Photographs </unittitle> 
+			 </did> 
+		  </c02> 
+		</c01></dsc>
+  </archdesc>
+</ead>

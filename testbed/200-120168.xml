@@ -1,0 +1,697 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+    <eadheader findaidstatus="uo_export_me" repositoryencoding="iso15511"
+              countryencoding="iso3166-1"
+              dateencoding="iso8601"
+              langencoding="iso639-2b"
+              id="a0"
+              relatedencoding="dc"
+              scriptencoding="iso15924">
+        <eadid countrycode="us" mainagencycode="oru"
+             url="http://nwda.orbiscascade.org/ark:/80444/xv41047"
+             encodinganalog="identifier"
+             identifier="80444/xv41047">ORU_Ax627.xml</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper encodinganalog="title">Guide to the Charles McKinley Papers
+                    
+                <date encodinganalog="date" normal="1930/1968" type="inclusive">1930-1968</date>
+            </titleproper>
+                <titleproper type="filing" altrender="nodisplay">McKinley (Charles) Papers</titleproper>
+                <author encodinganalog="creator">Finding aid prepared by Finding aid prepared by Vida Germano</author>
+                <sponsor>Funding for encoding this finding aid was provided through a grant awarded by the National Endowment for the Humanities.</sponsor>
+            </titlestmt>
+            <publicationstmt>
+                <publisher encodinganalog="publisher">Special Collections and University Archives, University of Oregon Libraries</publisher>
+                <address>
+                    <addressline>1299 University of Oregon</addressline>
+                    <addressline>Eugene, Oregon, 97403-1299</addressline>
+                    <addressline>(541) 346-3068</addressline>
+                    <addressline>spcarref@uoregon.edu</addressline>
+                </address>
+                <date encodinganalog="date" calendar="gregorian" era="ce" normal="2004">©2004</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date calendar="gregorian" era="ce" normal="20120512">2012-05-12</date>
+            </creation>
+            <langusage>Finding aid written in 
+                <language langcode="eng" encodinganalog="language" scriptcode="latn">English.</language>
+         </langusage>
+            <descrules>Finding aid based on DACS (<title render="italic">Describing Archives: A Content Standard</title>).</descrules>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection" relatedencoding="marc21" type="inventory">
+        <did id="a1">
+            <unittitle encodinganalog="245$a">Charles McKinley papers</unittitle>
+            <unitid encodinganalog="099" countrycode="us" repositorycode="oru">Ax 627</unitid>
+            <repository>
+                <corpname encodinganalog="852$a">Special Collections and University Archives, University of Oregon Libraries</corpname>
+            <address>
+                    <addressline>1299 University of Oregon</addressline>
+                    <addressline>Eugene, Oregon, 97403-1299</addressline>
+                    <addressline>(541) 346-3068</addressline>
+                    <addressline>spcarref@uoregon.edu</addressline>
+                </address>
+         </repository>
+            <langmaterial>Collection materials are in <language langcode="eng" encodinganalog="546">English</language>.</langmaterial>
+            <container type="box">1-19</container>
+            <physdesc>
+                <extent encodinganalog="300$a">28.5 linear feet</extent>
+                <extent encodinganalog="300$a">19 containers</extent>
+            </physdesc>
+            <unitdate normal="1930/1968" type="inclusive" encodinganalog="245$f">1930-1968</unitdate>
+            <abstract id="ref2" encodinganalog="5203_">Charles McKinley was a professor of political science at Reed College in Portland, Oregon from 1918 to 1960. He was particularly interested in the theory and practice of public administration and planning. As a specialist in these fields, he often served on government committees and commissions and he also wrote studies on the impact of the Federal government in the Pacific Northwest. The collection consists of files accumulated for specific projects undertaken for government or private agencies, or for personal research. Included are correspondence, minutes, reports, memoranda, position papers, interviews, and documents relating to such groups as the Bonneville Power Administration; California Department of Water Resources; Department of Agriculture Administrative Council; National Planning Board; and the Oregon State Board of Forestry.</abstract>
+            <physdesc id="ref1">19 containers</physdesc>
+            <origination label="creator">
+                <persname source="ingest" encodinganalog="100">McKinley, Charles</persname>
+            </origination>
+        </did>
+        <bioghist id="a2" encodinganalog="545">
+            <head>Biographical/Historical note</head>
+            <p>Charles McKinley was born in Fulton, South Dakota and educated at the University of Washington and the University of Wisconsin. From 1918 to 1960 he was professor of political science at Reed College in Portland, Oregon. He was particularly interested in the theory and practice of public administration and planning, and as a specialist in these fields often served on government committees and commissions. He wrote two major studies on the impact of the federal government in the Pacific Northwest: 
+                <title render="italic">Uncle Sam in the Pacific Northwest</title> (Berkeley, CA, 1952), and 
+                <title render="italic">The Management of Land and Related Water Resources in Oregon</title> (Washington, D. C., 1965).</p>
+        </bioghist>
+        <scopecontent id="a3" encodinganalog="5202_">
+            
+            <p>The papers, arranged as record groups, are the files accumulated for specific projects undertaken for government or private agencies, or for personal research, and include correspondence, minutes, reports, memoranda, position papers, interviews, and documents. Major files are: Bonneville Power Administration; Bonneville Regional Advisory Council; Bureau of Land Management; California Department of Water Resources; Department of Agriculture Administrative Council; Northwest Regional Council; Forest Service; National Planning Board (National Resources Board, National Resources Committee, National Resources Planning Board); Northwest Forest Pest Action Committee; Oregon Legislative Interim Commission on Administrative Reorganization, 1930; Oregon State Board of Forestry; Oregon and California Advisory Board; Pacific Northwest Field Committee (U. S. Department of the Interior); Pacific Northwest Regional Social Science Research Council, study of administration in the Department of Agriculture.</p>
+        </scopecontent>
+        <arrangement id="a4" encodinganalog="351">
+            
+            <p>Collection is organized into the following series: Bonneville Power Administration; Bonneville Regional Advisory Council; Bureau of Land Management; California Department of Water Resources; Department of Agriculture. Administrative Council; Electric Power File; Ford Foundation; Forest Service; National Planning Board; National Resources Committee; National Resources Committee. Alaska Resources Committee; National Resources Committee and Pacific Northwest Regional Planning Commission; National Resources Committee. Region 10. North Pacific Planning Project; National Resources Planning Board. Region 6; Northwest Forest Pest Action Committee; Oregon. Legislative Interim Commission on Administrative Reorganization; Oregon. Legislative Interim Committee on State Government Administration; Oregon. State Board of Forestry; Oregon and California Advisory Board; Pacific Northwest Field Committee; Pacific Northwest Regional Planning Commission; President’s Committee on Administrative Management; President’s Water Resources Policy Commission; Princeton University; Social Science Research Council; Valley Authorities; War Production Board; Personal Papers.</p>
+        </arrangement>
+        <accessrestrict id="a14" encodinganalog="506">
+            
+            <p>Collection is open to the public.</p>
+            <p>Collection must be used in Special Collections  University Archives Reading Room.</p>
+        </accessrestrict>
+        <userestrict id="a15" encodinganalog="540">
+            
+            <p>Property rights reside with Special Collections  University Archives, University of Oregon Libraries. Copyright resides with the creators of the documents or their heirs. All requests for permission to publish collection materials must be submitted to Special Collections  University Archives. The reader must also obtain permission of the copyright holder.</p>
+            <p>Archival material may contain materials with sensitive or confidential information that is protected under federal and/or state right to privacy laws and other regulations.</p>
+            <p>Researchers are advised that the disclosure of certain information pertaining to identifiable living individuals represented in this collection without the consent of those individuals may have legal ramifications (e.g. a cause of action for invasion of privacy may arise if facts concerning an individual's private life are published that would be deemed highly offensive to a reasonable person) for which the University of Oregon assumes no responsibility.</p>
+            <p>If a researcher finds sensitive personal information in a collection, please bring it to the attention of the reading room staff.</p>
+        </userestrict>
+        <prefercite id="a18" encodinganalog="524">
+            
+            <p>[Identification of item], Charles McKinley Papers, Ax 627, Special Collections  University Archives, University of Oregon Libraries, Eugene, Oregon.</p>
+        </prefercite>
+        <acqinfo id="a19" encodinganalog="541">
+            
+            <p>Gift of Mrs. Charles McKinley in 1971.</p>
+        </acqinfo>
+        <processinfo id="a20" encodinganalog="583">
+            
+            <p>Collection processed by staff.</p>
+            <p>This finding aid may be updated periodically to account for new acquisitions to the collection and/or revisions in arrangement and description.</p>
+        </processinfo>
+        <controlaccess id="a12">
+         <controlaccess>
+            <persname source="ingest" encodinganalog="600">McKinley, Charles--Archives</persname>
+         </controlaccess>
+         <controlaccess>
+            <corpname source="ingest" encodinganalog="610">Reed College (Portland, Or.)--Faculty</corpname>
+            <corpname source="ingest" encodinganalog="610">United States. Bonneville Power Administration</corpname>
+            <corpname source="ingest" encodinganalog="610">United States. Bureau of Land Management</corpname>
+            <corpname source="ingest" encodinganalog="610">United States. Dept. of Agriculture</corpname>
+         </controlaccess>
+         <controlaccess>
+            <subject source="lcsh" encodinganalog="650">Natural resources--Northwest, Pacific</subject>
+            <subject source="lcsh" encodinganalog="650">Political science teachers--Oregon--Portland</subject>
+            <subject source="lcsh" encodinganalog="650">Regional planning--Northwest, Pacific</subject>
+            <subject source="lcsh" encodinganalog="650">Water-supply--Oregon</subject>
+         </controlaccess>
+         <controlaccess>
+            <subject source="nwda" encodinganalog="690" altrender="nodisplay">City Planning</subject>
+            <subject source="nwda" encodinganalog="690" altrender="nodisplay">Colleges and Universities</subject>
+            <subject source="nwda" encodinganalog="690" altrender="nodisplay">Forestry and Forestry Products</subject>
+            <subject source="nwda" encodinganalog="690" altrender="nodisplay">Government and Politics</subject>
+            <subject source="nwda" encodinganalog="690" altrender="nodisplay">Oregon</subject>
+            <subject source="nwda" encodinganalog="690" altrender="nodisplay">Pacific Northwest History</subject>
+            <subject source="nwda" encodinganalog="690" altrender="nodisplay">Portland</subject>
+         </controlaccess>
+      </controlaccess>
+        <dsc id="a23" type="combined">
+            <c01 level="file">
+                <did>
+                    <unittitle encodinganalog="245$a">Inventory</unittitle>
+                    <container type="box">1</container>
+                    <container type="folder">1</container>
+                </did>
+            </c01>
+            <c01 level="series">
+                <did>
+                    <unittitle encodinganalog="245$a">Bonneville Power Administration</unittitle>
+                    <container type="box">1-2</container>
+                    <physdesc>
+                        <extent encodinganalog="300$a">3.0 linear feet</extent>
+                    </physdesc>
+                    <unitdate normal="1939/1954" type="inclusive" encodinganalog="245$f">1939-1954</unitdate>
+                </did>
+                <scopecontent encodinganalog="5202_">
+                    
+                    <p>Correspondence, memoranda, documents, and notes on all aspects of the Bonneville Power Administration, including administrative management, personnel, legislation, accounting, rates, sales, relationships with private utilities, industry, the Corps of Engineers, the Bureau of Reclamation, and the National Reclamation Association. 1939-1949.</p>
+                    <p>There is also a ten-inch file of carded notes and interviews on the Bonneville Administration, 1944-1954.</p>
+                    <p>These files and notes and interviews were used by Mr. McKinley in his monographs, 
+                        <title render="italic">Uncle Sam in the Pacific Northwest</title> (Berkeley, 1952), and 
+                        <title render="italic">The Management of Land and Related Water Resources in Oregon</title> (Washington, D. C., 1965).</p>
+                </scopecontent>
+            </c01>
+            <c01 level="series">
+                <did>
+                    <unittitle encodinganalog="245$a">Bonneville Regional Advisory Council</unittitle>
+                    <container type="box">3</container>
+                    <physdesc>
+                        <extent encodinganalog="300$a">1.0 linear feet</extent>
+                    </physdesc>
+                    <unitdate normal="1944/1968" type="inclusive" encodinganalog="245$f">1944-1968</unitdate>
+                </did>
+                <scopecontent encodinganalog="5202_">
+                    
+                    <p>Minutes, 1st-19th, 22nd, 1944-1952. Unnumbered, 1961-1968. Also, memoranda, and correspondence concerning the Council and its activities and positions, 1944-1953, 1961-1968.</p>
+                    <p>The Bonneville Regional Advisory Council began March 31, 1944 as a “Conference on Bonneville Power Administration Program and Policy,” convened by Paul Raver, administrator. At the third such conference, October 9, 1944, the group selected its name, and elected officers and appointed committees. Mr. McKinley was a member of the Conference and Council from its inception.</p>
+                </scopecontent>
+            </c01>
+            <c01 level="series">
+                <did>
+                    <unittitle encodinganalog="245$a">Bureau of Land Management</unittitle>
+                    <container type="box">3-5</container>
+                    <physdesc>
+                        <extent encodinganalog="300$a">4.0 linear feet</extent>
+                    </physdesc>
+                    <unitdate normal="1952/1964" type="inclusive" encodinganalog="245$f">1952-1964</unitdate>
+                </did>
+                <scopecontent encodinganalog="5202_">
+                    
+                    <p>Data on the Bureau of Land Management in the Pacific Northwest, particularly its conservation and recreation activities, 1952-1964. Includes letters, interviews, reports and documents.</p>
+                    <p>With these files and notes and interviews were used by Mr. McKinley in his monograph, 
+                        <title render="italic">The Management of Land and Related Water Resources in Oregon</title> (Washington, D. C., 1965), chapter 11-14.</p>
+                </scopecontent>
+            </c01>
+            <c01 level="series">
+                <did>
+                    <unittitle encodinganalog="245$a">California. Department of Water Resources. Board of Consultants for Assembly Concurrent Resolution no. 14</unittitle>
+                    <container type="box">5</container>
+                    <physdesc>
+                        <extent encodinganalog="300$a">1.5 linear feet</extent>
+                    </physdesc>
+                    <unitdate normal="1958/1959" type="inclusive" encodinganalog="245$f">1958-1959</unitdate>
+                </did>
+                <scopecontent encodinganalog="5202_">
+                    
+                    <p>Working papers, 1958-1959. Includes administrative correspondence, minutes of meetings, intra-committee memoranda, drafts of reports, and documents used as references. One folder contains a set of studies on the California Water Plan and related subjects by Mason Gaffney.</p>
+                    <p>California Assembly Concurrent Resolution no. 14, April 17, 1958, referred to the Department of Water Resources 
+                        <title render="italic">Bulletin</title> no. 3, “The California Water Plan,” (May 1957), and ordered that an investigation be made of the impact on the economic and social structure of the state of various water policies, their financing, pricing, and repayment.</p>
+                </scopecontent>
+            </c01>
+            <c01 level="series">
+                <did>
+                    <unittitle encodinganalog="245$a">Department of Agriculture. Administrative Council</unittitle>
+                    <container type="box">6-7</container>
+                    <physdesc>
+                        <extent encodinganalog="300$a">1.5 linear feet</extent>
+                    </physdesc>
+                    <unitdate normal="1940/1942" type="inclusive" encodinganalog="245$f">1940-1942</unitdate>
+                </did>
+                <scopecontent encodinganalog="5202_">
+                    
+                    <p>Records of the executive secretary, 1940-1942. Includes many interviews, memoranda, and internal documents, among them Stanley P. Williams, “Investigative activities in the Department of Agriculture,” (n.d.); E. H. Clapp, “Historical development of decentralized administration in the Forest Service,” (n.d.). McKinley, “Report of the Committee on small claims,” (n.d.).</p>
+                    <p>In September 1940 the Department of Agriculture employed Mr. McKinley as “Head Administrative Officer” in capacity of executive secretary of the USDA Administrative Council (established February 12, 1940 by Department Memorandum 842). He planned or conducted studies of the management policies of the Department of Agriculture, particularly department action programs at the county level; and the integration of the department’s programs in the Southeast region.</p>
+                </scopecontent>
+            </c01>
+            <c01 level="series">
+                <did>
+                    <unittitle encodinganalog="245$a">Electric Power File</unittitle>
+                    <container type="box">7-8</container>
+                    <physdesc>
+                        <extent encodinganalog="300$a">1.0 linear feet</extent>
+                    </physdesc>
+                    <unitdate normal="1946/1960" type="inclusive" encodinganalog="245$f">1946-1960</unitdate>
+                </did>
+                <scopecontent encodinganalog="5202_">
+                    
+                    <p>Correspondence, documents and related material on hydroelectric power generation and distribution, and Federal power policy, 1946-1960. Includes files on the inter-tie issue, Pelton dam decision, partnership proposals, the Hell’s Canyon issue, and the Governors’ Power Policy Committee.</p>
+                    <p>Related material is in the Bonneville Power Administration file.</p>
+                    <p>These files were used as source material by Mr. McKinley in the writing of his two major monographs referred to above, and in his reports, lectures and papers.</p>
+                </scopecontent>
+            </c01>
+            <c01 level="series">
+                <did>
+                    <unittitle encodinganalog="245$a">Ford Foundation</unittitle>
+                    <container type="box">8</container>
+                    <physdesc>
+                        <extent encodinganalog="300$a">1.0 folder</extent>
+                    </physdesc>
+                    <unitdate normal="1952/1952">1952</unitdate>
+                </did>
+                <scopecontent encodinganalog="5202_">
+                    
+                    <p>Study of the history of the Northwest Regional Council, 1952. Correspondence and report.</p>
+                    <p>In July 1952 the Ford Foundation asked Mr. McKinley to “examine the work and results” of the Northwest Regional Council (1938-1943), to aid the Foundation in determining whether the Council or a similar organization should be reconstituted.</p>
+                </scopecontent>
+            </c01>
+            <c01 level="series">
+                <did>
+                    <unittitle encodinganalog="245$a">Forest Service</unittitle>
+                    <container type="box">8</container>
+                    <physdesc>
+                        <extent encodinganalog="300$a">1.0 linear feet</extent>
+                    </physdesc>
+                    <unitdate normal="1949/1949">1949</unitdate>
+                </did>
+                <scopecontent encodinganalog="5202_">
+                    
+                    <p>Study of certain filed activities of the Forest Service, and their relation to headquarters policy, 1949. Includes interviews, statements by Forest Service personnel, and by citizens, and a draft of the study, September 19, 1949.</p>
+                    <p>In June 1949 E. W. Loveridge, assistant chief, Forest Service, asked Mr. McKinley to make a study and review of certain Forest Service policies and activities in Oregon, Colorado and Utah, particularly as related to the policy of administrative decentralization. The request was made in response to critical remarks in House Report 384, 81st Congress, 1st Session, in connection with the Department of Agriculture appropriation bill.</p>
+                </scopecontent>
+            </c01>
+            <c01 level="series">
+                <did>
+                    <unittitle encodinganalog="245$a">National Planning Board. (National Resources Board; National Resources Committee; National Resources Planning Board)</unittitle>
+                    <container type="box">9</container>
+                    <physdesc>
+                        <extent encodinganalog="300$a">1.5 linear feet</extent>
+                    </physdesc>
+                    <unitdate normal="1933/1936" type="inclusive" encodinganalog="245$f">1933-1936</unitdate>
+                </did>
+                <scopecontent encodinganalog="5202_">
+                    
+                    <p>The National Planning Board (under the Federal Emergency Administration of Public Works) was established July 30, 1933 to advise on comprehensive program of public works through the development of regional plans, surveys and research. It was abolished by Executive Order 6777, June 30, 1934, which established the National Resources Board, to prepare and present to the President a program for development and use of land, water and other national resources. It was abolished by Executive Order 7065, June 7, 1935, which established the National Resources Committee, which assumed the duties of the National Resources Board. In turn, it was abolished, and its functions transferred to the National Resources Planning Board, established in the Executive Office by Reorganization Plan no. 1, effective July 1, 1939.</p>
+                    <p>The files include:</p>
+                    <p>National Planning Board. Minutes, 1st-17th, September 7/8, 1933 – June 29, 1934</p>
+                    <p>National Resources Board. Minutes, 1st-7th, July 1, 1934 – June 13, 1935</p>
+                    <p>National Resources Board. Advisory Committee. Minutes, 1st-19th, July 11, 1934 – June 15, 1935</p>
+                    <p>National Resources Board. Industrial Committee. Minutes, 1st-9th, August 28, 1934 – January 16, 1936</p>
+                    <p>National Resources Board. Land Planning Committee. Minutes, 1st-26th. November 7, 1933 – November 11, 1935</p>
+                    <p>National Resources Board. Mineral Policy Committee. Minutes, 1st-3rd. Mary 23, 1934 – February 27, 1935</p>
+                    <p>National Resources Board. Recreation Committee. Minutes, 1st-3rd. December 19, 1935 – February 25, 1936</p>
+                    <p>National Resources Board. Science Committee. Minutes of joint meetings with advisory committee. 1st-2nd. March 25, November 12, 1935</p>
+                    <p>National Resources Board. Technology Committee. Memoranda. January – March 1936</p>
+                    <p>National Resources Committee. Minutes, 1st-5th. June 13, 1935 – April 21, 1936</p>
+                    <p>National Resources Committee. Advisory Committee. Minutes. 20th-38th. June 30, 1935 – September 12/13, 1936. (These minutes continue the numbering of the National Resources Board Advisory Committee.)</p>
+                    <p>National Resources Committee. Water Resources Committee. Minutes, 1st-11th. July 24, 1935 – July 26, 1936</p>
+                    <p>National Resources Committee. Subcommittee on Flood Control and Water Storage Projects. Minutes, 1st-2nd. July 1, 9, 1935, and Report of Conference, July 21, 1936</p>
+                    <p>There is also a file of letters, memoranda and other papers relating to the work of these agencies, 1933-1936.</p>
+                    <p>With these minutes and documents is a five-inch file of carded notes and interviews, 1935, on planning, planning agencies, and related matters.</p>
+                </scopecontent>
+            </c01>
+            <c01 level="series">
+                <did>
+                    <unittitle encodinganalog="245$a">National Resources Committee</unittitle>
+                    <container type="box">9</container>
+                    <physdesc>
+                        <extent encodinganalog="300$a">0.5 linear feet</extent>
+                    </physdesc>
+                    <unitdate normal="1939/1939">1939</unitdate>
+                </did>
+                <scopecontent encodinganalog="5202_">
+                    
+                    <p>North Dakota study, 1939. Miscellaneous correspondence, and report, 1939, and interview files.</p>
+                    <p>On July 20, 1939 the North Dakota Advisory Board held its first meeting. It had been established by the Governor in lieu of the North Dakota State Planning Board, which the legislature had not budgeted. At this meeting the representative of the National Resources Committee offered the assistance of the Committee toward making economic and social studies of North Dakota. The result was Mr. McKinley’s “Planning for the Rehabilitation of North Dakota,” (n. d., August 18, 1939. Mimeo.)</p>
+                </scopecontent>
+            </c01>
+            <c01 level="series">
+                <did>
+                    <unittitle encodinganalog="245$a">National Resources Committee. Alaska Resources Committee</unittitle>
+                    <container type="box">10</container>
+                    <physdesc>
+                        <extent encodinganalog="300$a">11.0 folders</extent>
+                    </physdesc>
+                    <unitdate normal="1937/1939" type="inclusive" encodinganalog="245$f">1937-1939</unitdate>
+                </did>
+                <scopecontent encodinganalog="5202_">
+                    
+                    <p>Working papers, draft report, and miscellaneous correspondence, 1937-1939.</p>
+                    <p>Concurrent resolution no. 24, August 21, 1937, U. S. Congress, requested a “comprehensive plan for the development of the resources of the Territory of Alaska.” In a letter of August 30, the President directed Harold Ickes, chairman of the National Resources Committee, to have such a study made. An Alaska Resources Committee was formed to respond to the President’s directive. It was headed by Carl L. Alsberg. Mr. McKinley was a member. The staff of the Pacific Northwest Regional Planning Commission cooperated. The report of the Committee was published as Part VII of 
+                        <title render="italic">Regional Planning</title>, by the National Resources Committee (Government Printing Office., 1938).</p>
+                </scopecontent>
+            </c01>
+            <c01 level="series">
+                <did>
+                    <unittitle encodinganalog="245$a">National Resources Committee and Pacific Northwest Regional Planning Commission</unittitle>
+                    <container type="box">10</container>
+                    <physdesc>
+                        <extent encodinganalog="300$a">1.0 folder</extent>
+                    </physdesc>
+                    <unitdate normal="1938/1939" type="inclusive" encodinganalog="245$f">1938-1939</unitdate>
+                </did>
+                <scopecontent encodinganalog="5202_">
+                    
+                    <p>Study of land migration problems, 1938-1939. Correspondence, memoranda, and related documents. No report. This study was known as the “land-migration-settlement-public works study.” Mr. McKinley was a consultant, especially as relating to migrant labor in Oregon, to which most of the documents refer.</p>
+                </scopecontent>
+            </c01>
+            <c01 level="series">
+                <did>
+                    <unittitle encodinganalog="245$a">National Resources Committee. Region 10. North Pacific Planning Project</unittitle>
+                    <container type="box">10</container>
+                    <unitdate normal="1942/1944" type="inclusive" encodinganalog="245$f">1942-1944</unitdate>
+                </did>
+                <scopecontent encodinganalog="5202_">
+                    
+                    <p>Working papers, 1942-1944.</p>
+                    <p>In cooperation with the Joint Economic Committee of the United States and Canada, the National Resources Development Program in Alaska, prepared a series of economic studies of Alaska. (See files of James C. Rettie for full documentation.) Mr. McKinley was a consultant for the project. The documents include his “Notes on a conversation with Canadian officals in Victoria, re: North Pacific Planning Project, November 25 to December 3, 1942.”</p>
+                </scopecontent>
+            </c01>
+            <c01 level="series">
+                <did>
+                    <unittitle encodinganalog="245$a">National Resources Planning Board. Region 6</unittitle>
+                    <container type="box">10</container>
+                    <physdesc>
+                        <extent encodinganalog="300$a">18.0 folders</extent>
+                    </physdesc>
+                    <unitdate normal="1939/1939">1939</unitdate>
+                </did>
+                <scopecontent encodinganalog="5202_">
+                    
+                    <p>Administrative study of regional and state planning boards, 1939.</p>
+                    <p>Includes correspondence, reports, and interviews on the planning boards in the Pacific Northwest and Northern Great Plains states, and concerned Federal agencies. Included is Mr. McKinley’s report, in two parts: 1) “A confidential report on state and national planning in region six”; 2) “Confidential [report] to Mr. [Charles] Eliot and Mr. [P. H.] Elwood only.” (September 1, 1939).</p>
+                </scopecontent>
+            </c01>
+            <c01 level="series">
+                <did>
+                    <unittitle encodinganalog="245$a">Northwest Forest Pest Action Committee</unittitle>
+                    <container type="box">10</container>
+                    <physdesc>
+                        <extent encodinganalog="300$a">1.0 linear feet</extent>
+                    </physdesc>
+                    <unitdate normal="1954/1965" type="inclusive" encodinganalog="245$f">1954-1965</unitdate>
+                </did>
+                <scopecontent encodinganalog="5202_">
+                    
+                    <p>Minutes, 1954, memoranda, publication, and miscellaneous documents.</p>
+                    <p>The committee was formed, rather casually, in 1948 as a Spruce Budworm Action Committee, and became the Northwest Forest Pest Action Committee in April 1952. In 1959 it was styled the Pest Action Council.</p>
+                    <p>With these files are three folders of material on pesticides and their effect on the environment, 1959-1963.</p>
+                    <p>The files on the Northwest Pest Action Committee were formed by Mr. McKinley for his monograph, 
+                        <title render="italic">The Management of Land and Related Water Resources in Oregon</title> (Washington, D. C., 1965), and are the basis for chapter 7.</p>
+                </scopecontent>
+            </c01>
+            <c01 level="series">
+                <did>
+                    <unittitle encodinganalog="245$a">Oregon. Legislative Interim Commission on Administrative Reorganization</unittitle>
+                    <container type="box">10</container>
+                    <physdesc>
+                        <extent encodinganalog="300$a">1.0 folder</extent>
+                    </physdesc>
+                    <unitdate normal="1928/1930" type="inclusive" encodinganalog="245$f">1928-1930</unitdate>
+                </did>
+                <scopecontent encodinganalog="5202_">
+                    
+                    <p>Correspondence with Hector McPherson, chairman, 1930.</p>
+                    <p>Hector McPheerson, while chairman of the Interim Commission, was also promoting an “Oregon Citizen’s League.” Advocating a “cabinet” form of government for Oregon. The correspondence is a mixture of officials Interim Committee business, and McPherson’s own promotion of the Oregon Citizen’s League. It includes replies from state officials and others in Oregon and elsewhere, to questionnaires sent out by McPherson, and a copy of col. 1 no. 1 of The Oregon Citizen, April 1928. Mr. McKinley was chairman of a special committee of the Portland City Club on the cabinet form of government.</p>
+                </scopecontent>
+            </c01>
+            <c01 level="series">
+                <did>
+                    <unittitle encodinganalog="245$a">Oregon. Legislative Interim Committee on State Government Administration</unittitle>
+                    <container type="box">10</container>
+                    <physdesc>
+                        <extent encodinganalog="300$a">1.0 folder</extent>
+                    </physdesc>
+                    <unitdate normal="1949/1950" type="inclusive" encodinganalog="245$f">1949-1950</unitdate>
+                </did>
+                <scopecontent encodinganalog="5202_">
+                    
+                    <p>Correspondence, documents, report, 1949-1950.</p>
+                    <p>The Committee, known as the “Little Hoover Committee,” was established by HJP 32, April 22, 1949. Rudie Wilhelm, Jr. was chairman, and he asked Mr. McKinley to serve on its advisory staff.</p>
+                </scopecontent>
+            </c01>
+            <c01 level="series">
+                <did>
+                    <unittitle encodinganalog="245$a">Oregon. State Board of Forestry</unittitle>
+                    <container type="box">11</container>
+                    <physdesc>
+                        <extent encodinganalog="300$a">1.5 linear feet</extent>
+                    </physdesc>
+                    <unitdate normal="1958/1965" type="inclusive" encodinganalog="245$f">1958-1965</unitdate>
+                </did>
+                <scopecontent encodinganalog="5202_">
+                    
+                    <p>Minutes, 1958-1965, reports, documents, and correspondence and interviews concerning the State Board of Forestry.</p>
+                    <p>This files was used as source material for chapter 10, “Guildism in the Oregon State Board of Forestry,” in Mr. McKinley’s monograph, 
+                        <title render="italic">The Management of Land and Related Water Resources in Oregon</title> (Washington, D. C., 1965).</p>
+                </scopecontent>
+            </c01>
+            <c01 level="series">
+                <did>
+                    <unittitle encodinganalog="245$a">Oregon and California Advisory Board</unittitle>
+                    <container type="box">11-12</container>
+                    <physdesc>
+                        <extent encodinganalog="300$a">1.5 linear feet</extent>
+                    </physdesc>
+                    <unitdate normal="1961/1969" type="inclusive" encodinganalog="245$f">1961-1969</unitdate>
+                </did>
+                <scopecontent encodinganalog="5202_">
+                    
+                    <p>Minutes and miscellaneous papers, 1961-1969.</p>
+                    <p>On May 12, 1961 Secretary of the Interior, Stewart Udall, appointed Mr. McKinley to the O  C Advisory Board. The files include minutes of the board, 1961-1969; minutes of the O  C Advisory Board Committee on Allowable Cut Policies, 1966-1967, and its Report, July 25, 1967; a file on the question of sealed and oral bids for timber, 1965-1966, including a transcript of testimony before the Committee on sealed vs. oral bidding, November 23-24, 1965; a file of memoranda and correspondence concerning O  C Advisory Board matters generally; a file on the Russell Getty-Charles Stoddard case, involving the proposed exchange of certain public lands in Oregon for certain land at Point Reyes, California. This file includes a manuscript by Kenneth Tollenaar, “A Revolt in the Provinces,” being a case study of the proposed transfer. There is also a file on the Association of O  C Counties.</p>
+                </scopecontent>
+            </c01>
+            <c01 level="series">
+                <did>
+                    <unittitle encodinganalog="245$a">Pacific Northwest Field Committee</unittitle>
+                    <container type="box">12-14</container>
+                    <physdesc>
+                        <extent encodinganalog="300$a">2.5 linear feet</extent>
+                    </physdesc>
+                    <unitdate normal="1946/1955" type="inclusive" encodinganalog="245$f">1946-1955</unitdate>
+                </did>
+                <scopecontent encodinganalog="5202_">
+                    
+                    <p>Records, 1946-1955. Includes organizational documents, correspondence, minutes of meetings, budgetary proposals for an integrated program for the Department of the Interior in the Pacific Northwest.</p>
+                    <p>In January 1946 Secretary of the Interior Oscar L. Chapman requested proposals for Interior Department reorganization, based on the Reorganization Act of December 20, 1945 (PL 263, 79th Congress). The Office of Solicitor, Department of the Interior, on May 27, 1946, submitted a memorandum based on conferences, in which regional coordinating committees were proposed. By Interior Department Order 2205, June 4, 1946, a Coordinating Committee was established in the Department, consisting of representatives from various agencies in Interior. Interior Department Order 2221, July 3, 1946, ordered the Coordinating Committee to establish temporary field committees in major cities, and proposed regions for such committees. A Portland, Oregon Temporary Field Committee was formed in July, and in September it drafted a departmental order establishing a Pacific Northwest Coordinating Committee. On October 25, the Temporary Committee met to for the Pacific Northwest Coordinating Committee. Interior Department Order 2465, August 25, 1948, amended the purposes and organization of all coordinating committees, and designated them as Field Committees.</p>
+                    <p>Department of Agricultures Order 1257, May 1, 1950, established a Field Committee for the Columbia River Basin Area. This committee was to coordinate USDA agriculture programs in the region, and plan the department’s participation in Columbia Basin Interagency Committee activities. Minutes of this committee, and memoranda, are filed here.</p>
+                    <p>With their files are placed twelve inches of carded notes and interviews concerning integration of Interior Department programs in the Pacific Northwest and elsewhere.</p>
+                </scopecontent>
+            </c01>
+            <c01 level="series">
+                <did>
+                    <unittitle encodinganalog="245$a">Pacific Northwest Regional Planning Commission [and others]</unittitle>
+                    <container type="box">14-15</container>
+                    <physdesc>
+                        <extent encodinganalog="300$a">1.5 linear feet</extent>
+                    </physdesc>
+                    <unitdate normal="1935/1943" type="inclusive" encodinganalog="245$f">1935-1943</unitdate>
+                </did>
+                <scopecontent encodinganalog="5202_">
+                    
+                    <p>Files of letters, minutes, reports and documents on national, regional, and state planning. Includes material on theory, legislation, inter-relationships, planning boards in Oregon, Washington and Idaho, and on the National Resources Committee, 1935-1943.</p>
+                    <p>This file was used by Mr. McKinley in a variety of reports, papers, and lectures, and in part for his administrative study of regional and state planning boards. (See National Planning Board. Region 6).</p>
+                </scopecontent>
+            </c01>
+            <c01 level="series">
+                <did>
+                    <unittitle encodinganalog="245$a">President’s Committee on Administrative Management</unittitle>
+                    <container type="box">15-16</container>
+                    <physdesc>
+                        <extent encodinganalog="300$a">1.0 linear feet</extent>
+                    </physdesc>
+                    <unitdate normal="1936/1936">1936</unitdate>
+                </did>
+                <scopecontent encodinganalog="5202_">
+                    
+                    <p>Working papers, drafts, memoranda, 1936.</p>
+                    <p>On March 20, 1936 the President created a Committee on Administrative Management to study the relation of the emergency agencies to the regular organization of the Executive Branch of the government. Mr. McKinley was on the research staff of the Committee, assigned to prepare a study on planning. The file includes administrative papers of the Committee, a progress report, June 22-August 15, 1936, and a draft report by McKinley, “A Report Concerning a Planning Organization Which Will Facilitate Presidential Management,” (October 26, 1936). There are also drafts of other Committee reports, as follows:</p>
+                    <p>A. N. Holcombe, “The Administrative principles exemplified by the War Department General Staff and their applicability to the civil departments and establishments of the Federal Government.” (August 15, 1936)</p>
+                    <p>Robert E. Cushman, “The problem of the independent regulatory commissions.” (October 15, 1936).</p>
+                    <p>Patterson H. French, “Government corporations.” (October 15, 1936)</p>
+                    <p>Mary C. Trackett, “Case studies of interdepartmental committees.” (September, 1936)</p>
+                    <p>Mary C. Trackett, “Interdepartmental committees.” (September, 1936)</p>
+                    <p>Schuyler C. Wallace, “Administrative reorganization in relation to administrative management,” (September 25, 1936).</p>
+                    <p>Most of these reports were published in the Committee’s Report (U. S. Government Printing Offices, 1937).</p>
+                    <p>With these files are six inches of carded notes and interviews on government planning, assembled by Mr. McKinley for his report.</p>
+                </scopecontent>
+            </c01>
+            <c01 level="series">
+                <did>
+                    <unittitle encodinganalog="245$a">President’s Water Resources Policy Commission</unittitle>
+                    <container type="box">16</container>
+                    <physdesc>
+                        <extent encodinganalog="300$a">0.5 linear feet</extent>
+                    </physdesc>
+                    <unitdate normal="1950/1950">1950</unitdate>
+                </did>
+                <scopecontent encodinganalog="5202_">
+                    
+                    <p>Working papers, 1950. Includes administrative correspondence, documents and draft reports concerning planning, the benefit-cost problem, cost allocation, reimbursement, and the 160-acre limitation. 1950.</p>
+                    <p>By Executive Order 10095, January 3, 1950, the President established the Water Resources Policy Commission in the Executive Office of the President. The Commission was to study and make recommendations concerning Federal responsibility for and participation in development, utilization and conservation of water resources. The emphasis on most problems was economic and social. Mr. McKinley was consultant to the Committee.</p>
+                    <p>Major documents include the “Stanford University Group response to request from the President’s Water Resources Policy Commission,” (May 1950), and the Pacific Northwest Field Committee, “The Columbia River basin, waster resources development principles and policy problems (May 1950). McKinley’s report is titled, “Regional development and stabilization,” (September 1950).</p>
+                    <p>The Commission issued a three-volume Report (U. S. Government Printing Office, 1950-51).</p>
+                </scopecontent>
+            </c01>
+            <c01 level="series">
+                <did>
+                    <unittitle encodinganalog="245$a">Princeton University</unittitle>
+                    <container type="box">16</container>
+                    <physdesc>
+                        <extent encodinganalog="300$a">2.0 folders</extent>
+                    </physdesc>
+                    <unitdate normal="1950/1950">1950</unitdate>
+                </did>
+                <scopecontent encodinganalog="5202_">
+                    
+                    <p>Study of the field services of the U. S. Department of the Interior.</p>
+                    <p>Correspondence, and studies, 1950. In 1950 Princeton University, through its Woodrow Wilson School of Public and International Affiars, was under contract with the Department of the Interior to make a survey of field services of that department. Mr. McKinley was consultant for the study.</p>
+                    <p>Files include administrative correspondence, and copies of seven undated studies:</p>
+                    <p>1) The Bonneville Administration</p>
+                    <p>2) The Bureau of Land Management</p>
+                    <p>3) The Bureau of Reclamation</p>
+                    <p>4) The Field Committees</p>
+                    <p>5) The Fish and Wildlife Service</p>
+                    <p>6) The Geological Survey</p>
+                    <p>7) National Park Service</p>
+                    <p>There is also a consolidated “Report on the field services of the Department of the Interior, September 15, 1950, “prepared by the members of the faculty and staff of Princeton University (mimeographed, 33 p.).</p>
+                </scopecontent>
+            </c01>
+            <c01 level="series">
+                <did>
+                    <unittitle encodinganalog="245$a">Social Science Research Council</unittitle>
+                    <container type="box">16-17</container>
+                    <physdesc>
+                        <extent encodinganalog="300$a">2.0 linear feet</extent>
+                    </physdesc>
+                    <unitdate normal="1939/1940" type="inclusive" encodinganalog="245$f">1939-1940</unitdate>
+                </did>
+                <scopecontent encodinganalog="5202_">
+                    
+                    <p>Public administration and the United States Department of Agriculture, 1939-1940.</p>
+                    <p>Notes on Department of Agriculture operations in Oregon. Mostly a series of interviews with USDA personnel in Oregon concerning their work, the duties and responsibilities of their office, and often with statements about the history of agencies and activities. Includes data on forestry, soil conservation, range management, game management, recreation, the operation of the Agricultural Adjustment Administration, and experiment stations.</p>
+                    <p>This data was gathered for John M. Gaus, whose book, 
+                        <title render="italic">Public Administration and the United States Department of Agriculture</title>, was published by the Committee on Public Administration of the Social Science Research and a memorandum, “Administration of the AAA in Oregon,” based on notes, and dealing “solely with the conservation side of the Agricultural Adjustment Administration” (n. d.). There is also a “Memorandum for John Gaus concerning the regional pattern for the Forest Service in Region Six.” (n. d.)</p>
+                </scopecontent>
+            </c01>
+            <c01 level="series">
+                <did>
+                    <unittitle encodinganalog="245$a">Valley Authorities</unittitle>
+                    <container type="box">17-19</container>
+                    <physdesc>
+                        <extent encodinganalog="300$a">3.0 linear feet</extent>
+                    </physdesc>
+                    <unitdate normal="1945/1950" type="inclusive" encodinganalog="245$f">1945-1950</unitdate>
+                </did>
+                <scopecontent encodinganalog="5202_">
+                    
+                    <p>File of correspondence, documents and related material concerning valley authorities, 1945-1950. Includes Missouri Valley Authority, and the proposed Columbia Valley Authority. One folder deals with the Northwest Development Association. This file was used for Mr. McKinley’s book, 
+                        <title render="italic">Uncle Sam in the Pacific Northwest</title> (Berkeley, 1952), and as source material for various papers, addresses and reports.</p>
+                    <p>With this file are two and one half feet of carded notes and interviews on valley authorities and related problems.</p>
+                </scopecontent>
+            </c01>
+            <c01 level="series">
+                <did>
+                    <unittitle encodinganalog="245$a">War Production Board</unittitle>
+                    <container type="box">19</container>
+                    <physdesc>
+                        <extent encodinganalog="300$a">1.0 folder</extent>
+                    </physdesc>
+                    <unitdate normal="1942/1942">1942</unitdate>
+                </did>
+                <scopecontent encodinganalog="5202_">
+                    
+                    <p>Working papers of assistant to administrative office, 1942.</p>
+                    <p>Memoranda, interviews, proposals.</p>
+                    <p>In 1942 the War Production Board needed to establish field offices and devise field manuals for industry branches, and to develop an administrative plan for issuance for priority orders. Mr. McKinley, as a “Procedural consultant,” assisted in the planning and execution of both these requirements.</p>
+                </scopecontent>
+            </c01>
+            <c01 level="series">
+                <did>
+                    <unittitle encodinganalog="245$a">Personal papers</unittitle>
+                </did>
+                <c02 level="subseries">
+                    <did>
+                        <unittitle encodinganalog="245$a">Correspondence</unittitle>
+                        <unitdate normal="1945/1968" type="inclusive" encodinganalog="245$f">1945-1968</unitdate>
+                    </did>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">General</unittitle>
+                            <container type="box">19</container>
+                            <physdesc>
+                                <extent encodinganalog="300$a">1.0 folder</extent>
+                            </physdesc>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">American Political Science Association</unittitle>
+                            <container type="box">19</container>
+                            <physdesc>
+                                <extent encodinganalog="300$a">1.0 folder</extent>
+                            </physdesc>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <unittitle encodinganalog="245$a">Book: 
+                            <title render="italic">Management of Land and Related Water Resources in Oregon</title>
+                  </unittitle>
+                        <container type="box">19</container>
+                        <physdesc>
+                            <extent encodinganalog="300$a">1.0 folder</extent>
+                        </physdesc>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <unittitle encodinganalog="245$a">Resources for the Future</unittitle>
+                        <container type="box">19</container>
+                        <physdesc>
+                            <extent encodinganalog="300$a">2.0 folders</extent>
+                        </physdesc>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <unittitle encodinganalog="245$a">Sawyer, Robert</unittitle>
+                        <container type="box">19</container>
+                        <physdesc>
+                            <extent encodinganalog="300$a">1.0 folder</extent>
+                        </physdesc>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <unittitle encodinganalog="245$a">Book: 
+                            <title render="italic">Uncle Sam in the Pacific Northwest</title>
+                  </unittitle>
+                        <container type="box">19</container>
+                        <physdesc>
+                            <extent encodinganalog="300$a">1.0 folder</extent>
+                        </physdesc>
+                    </did>
+                </c02>
+                <c02 level="subseries">
+                    <did>
+                        <unittitle encodinganalog="245$a">Other</unittitle>
+                    </did>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Reed College material (outlines, syllabi, etc.)</unittitle>
+                            <container type="box">19</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Student papers, McKinley, at Washington and Wisconsin</unittitle>
+                            <container type="box">19</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Manuscripts</unittitle>
+                            <container type="box">19</container>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <unittitle encodinganalog="245$a">Published pieces, including printed and mimeographed</unittitle>
+                            <container type="box">19</container>
+                        </did>
+                    </c03>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

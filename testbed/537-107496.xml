@@ -1,0 +1,114 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd Encoded Archival Description (EAD) Version 2002//EN" "/eadcb/shared/ead/ead.dtd">
+
+<ead>
+  <eadheader audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" id="a0" langencoding="iso639-2b" relatedencoding="MARC21" repositoryencoding="iso15511" scriptencoding="iso15924">
+    <eadid countrycode="us" encodinganalog="856$u" mainagencycode="ICIU" url="http://www.uic.edu/depts/lib/specialcoll/services/rjd/findingaids/MaxwellStreet.xml">MaxwellStreet</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper encodinganalog="245$a">Maxwell Street Photo Collection</titleproper>
+        <subtitle>An inventory of the collection at the University of Illinois at Chicago</subtitle>
+        <author encodinganalog="245$c">Inventory prepared by Lara Kelland.</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher encodinganalog="260$b">University of Illinois at Chicago</publisher>
+        <date encodinganalog="260$c" type="publication">May 2007</date>
+        <address>
+          <addressline>University Library</addressline>
+          <addressline>Chicago, IL</addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation encodinganalog="500">Finding aid encoded by Aaron Berkowitz on
+
+        <date>May 2007</date></creation>
+      <langusage>Finding aid written in 
+        <language encodinganalog="546" langcode="eng" scriptcode="latn">English</language></langusage>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection" relatedencoding="MARC21" type="inventory">
+    <did id="a1">
+      <head>Collection Summary</head>
+      <repository encodinganalog="852" label="Repository:">
+        <corpname>University of Illinois at Chicago</corpname>
+      </repository>
+      <origination encodinganalog="110" label="Creator:">
+        <corpname>Buslik, Gary</corpname>
+      </origination>
+      <unittitle encodinganalog="245$a" label="Title:">Maxwell Street Photo Collection</unittitle>
+      <unitdate encodinganalog="245$f" label="Dates:" normal="2000" type="inclusive">2000</unitdate>
+      <physdesc encodinganalog="300$a" label="Quantity:">
+        <extent encodinganalog="300">0.25 linear feet</extent>
+      </physdesc>
+      <abstract encodinganalog="520" label="Abstract:">Maxwell Street is a famed street on Chicago's Near West Side, including an open-market during the late19th and early 20th centuries when Eastern-European Jewish immigrants populated the surround area. This collection offers pre-gentrification images of the original Maxwell Street before the relocation of the market and the demolition of most of the buildings.</abstract>
+      <unitid countrycode="us" encodinganalog="099" label="Identification:" repositorycode="ICIU">MaxwellStreet</unitid>
+      <langmaterial encodinganalog="546$a">
+        <language langcode="eng" scriptcode="latn">English</language>
+      </langmaterial>
+    </did>
+    <!-- COLLECTION METADATA (i.e., Biography, Scope, Bibliography, etc.) GO HERE: -->
+    <bioghist altrender="biography" encodinganalog="545" id="a2">
+      <head>Administrative History</head>
+      <p>Maxwell Street is a famed street on Chicago's Near West Side. Crossing Halsted just south of Roosevelt, it developed as an open-market during the late19th and early 20th centuries when Eastern-European Jewish immigrants populated the surrounding area. As the neighborhood changed during the Great Migration towards an African-American population, the Maxwell Street market became one of the best places to go to hear blues musicians. The cultural heritage of the neighborhood boasted such features as the filming site of the 1970's television show "Hill Street Blues", an early stage to musician and bandleader Benny Goodman, and the setting for the 1980 film "The Blues Brothers".</p>
+
+<p>In the 1990s, the University of Illinois at Chicago, located to the north of the Maxwell Street neighborhood, expanded its campus south and the Maxwell Street Market was relocated by the City of Chicago to Canal Street. As a result of negotiations with the Maxwell Street Historic Preservation Coalition, the facades of 13 buildings on Halsted, Maxwell and Roosevelt were relocated to new buildings on Maxwell Street and several existing buildings were adaptively re-used. The neighborhood today houses University student residence halls, academic buildings, parking facilities, retail establishments, and residential housing.</p>
+
+<p>This collection offers pre-gentrification images of the original Maxwell Street before the relocation of the market and the demolition of most of the original buildings. The collection includes twenty snapshot photos and negatives taken by Chicago-area author Gary Buslik in August 2000.
+</p>
+    </bioghist>
+    <scopecontent encodinganalog="520" id="a3">
+      <head>Scope and Contents</head>
+      <p>This collection offers pre-gentrification images of the original Maxwell Street before the relocation of the market and the demolition of most of the buildings. The collection includes twenty snapshot photos and negatives taken by Chicago-area author Gary Buslik in August 2000.</p>
+    </scopecontent>
+    <!-- END COLLECTION METADATA -->
+<!-- CONTROLLED ACCESS TERMS GO HERE: -->
+
+<controlaccess id="a12">
+<head>Index Terms</head>
+<p>This record series is indexed under the following controlled access subject terms.</p>
+
+<controlaccess>
+<subject source="local">Chicago Neighborhoods</subject>
+</controlaccess>
+
+</controlaccess>
+
+<!-- END CONTROLLED ACCESS TERMS -->
+<!-- ADMINISTRATIVE INFORMATION (i.e., Access Restrictions) GOES HERE: -->
+
+
+
+<!-- END ADMINISTRATIVE INFORMATION -->
+
+
+<!-- START DESCRIPTION OF SUBORDINATE COMPONENTS-->
+    <dsc id="a23" type="combined">
+      <head>Detailed Description/Box and Folder Listing</head>
+      <c01 level="series">
+        <did>
+          <unittitle>Series I: Maxwell Street Photo Collection</unittitle>
+        </did>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">1</container>
+            <unittitle>Photos, 
+              <unitdate encodinganalog="245$f" normal="2000" type="inclusive">2000</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">2</container>
+            <unittitle>Negatives, 
+              <unitdate encodinganalog="245$f" normal="2000" type="inclusive">2000</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+    </dsc>
+  
+<!-- END DESCRIPTION OF SUBORDINATE COMPONENTS-->
+
+</archdesc>
+</ead>

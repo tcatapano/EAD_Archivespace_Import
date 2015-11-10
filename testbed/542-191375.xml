@@ -1,0 +1,131 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "http://lcweb2.loc.gov/xmlcommon/dtds/ead2002/ead.dtd">
+<ead>
+<eadheader relatedencoding="Dublin Core" findaidstatus="edited-full-draft" langencoding="iso639-2b" scriptencoding="iso15924" audience="internal" id="a0">
+<eadid encodinganalog="identifier" url="http://hdl.handle.net/10407/2730375442" identifier="10407/2730375442">ksrl.kc.culbertsonandreno</eadid>
+<filedesc>
+<titlestmt>
+<titleproper encodinganalog="title">Guide to the Culbertson and Reno Collection </titleproper>
+<subtitle>Ledger from Culbertson and Reno, Bankers, Iowa City, Iowa</subtitle>
+<author encodinganalog="creator">Finding aid prepared by ha/mab, 2005</author>
+</titlestmt>
+<publicationstmt>
+<publisher encodinganalog="publisher">University of Kansas</publisher>
+<address><addressline>1450 Poplar Lane, Lawrence, KS 66045-7616</addressline><addressline>Phone: (785)864-4334</addressline><addressline>Fax: (785)864-5803</addressline><addressline>URL: http://spencer.lib.ku.edu</addressline></address>
+<date encodinganalog="date">2005</date>
+</publicationstmt>
+</filedesc>
+<profiledesc>
+<creation>Finding aid encoded by ha/mab, 
+<date>2005</date>
+</creation>
+<langusage>Finding aid written in<language encodinganalog="language">English.</language></langusage>
+</profiledesc>
+</eadheader>
+
+<archdesc relatedencoding="MARC21" level="collection" type="inventory">
+<did id="a1">
+<head>COLLECTION SUMMARY</head>
+<repository label="Repository:" encodinganalog="852$a"><corpname>University of Kansas<subarea>Kenneth Spencer Research Library</subarea> <subarea>Kansas Collection</subarea></corpname><address><addressline>1450 Poplar Lane, Lawrence, KS 66045-7616</addressline><addressline>Phone: (785)864-4334</addressline><addressline>Fax: (785)864-5803</addressline><addressline>URL: http://spencer.lib.ku.edu</addressline></address></repository>
+
+<origination label="Creator:"><corpname encodinganalog="110">Culbertson and Reno (Firm)</corpname></origination>
+
+<unittitle label="Title:" encodinganalog="245$a">Banking ledger from Culbertson and Reno, Iowa City, Iowa</unittitle>
+
+<unitdate type="inclusive" encodinganalog="245$f" label="Dates:" normal="1856/1857">1856-1857</unitdate>
+       <langmaterial label="Language(s):"> <language>English </language>
+</langmaterial>
+<physdesc>
+<extent label="Quantity:" encodinganalog="300$a">1 folder </extent>
+
+</physdesc><abstract encodinganalog="520$a" label="Abstract:">Ledger of Messrs. Culbertson and Reno, Bankers, Iowa City, Iowa, 1856-1857.</abstract>
+
+<unitid encodinganalog="099" type="call#" label="Identification:" countrycode="US" repositorycode="KFS">RH MS P628</unitid>
+
+</did>
+
+
+
+
+<!-- Top Level Metadata Goes Here: -->
+
+
+
+
+
+
+
+
+
+
+
+	<!-- Arrangement/Series Info Goes Here: -->
+
+
+	<!-- End Arrangement/Series Info -->
+
+<!-- End Top Level Metadata -->
+
+<!-- Controlled Access Terms Go Here: -->
+
+
+
+
+<!-- End Controlled Access Terms -->
+<!-- Administrative Information Goes Here: -->
+
+<accessrestrict id="a14" encodinganalog="506">
+<head>Restrictions on Access</head>
+<p>No access restrictions.</p>
+</accessrestrict>
+
+
+<prefercite encodinganalog="524" id="a18">
+<head>Preferred Citation</head>
+<p>Culbertson and Reno, Bankers, Collection , Kansas Collection, RH MS P628, Kenneth Spencer Research Library, University of Kansas Libraries</p>
+</prefercite>
+
+<custodhist encodinganalog="561" id="a16">
+<head>Custodial History</head>
+<p>KU Libraries Brieflisting, call number F706</p></custodhist>
+<userestrict encodinganalog="540" id="a15">
+<head>Restrictions on Use</head>
+<p/>
+<p>Spencer Library staff may determine use restrictions dependent on the physical condition of manuscript materials.</p>
+</userestrict>
+<!-- End Administrative Information -->
+
+
+
+<!-- Start Description of Subordinate Components-->
+
+
+<dsc type="in-depth" id="a23">
+<head>COLLECTION DESCRIPTION</head>
+
+<c01 level="collection"><did>
+<container type="folder">1</container>
+<unittitle>Ledger of Messrs. Culbertson and Reno, Bankers, Iowa City, Iowa</unittitle>
+<unitdate>1856-1857</unitdate></did></c01>
+
+
+
+</dsc>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- End Description of Subordinate Components-->
+
+</archdesc>
+</ead>

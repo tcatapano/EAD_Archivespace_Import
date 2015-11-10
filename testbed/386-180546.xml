@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead audience="external">
+<eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" scriptencoding="iso15924" dateencoding="iso8601" countryencoding="iso3166-1" relatedencoding="Dublin Core">
+<eadid countrycode="us" mainagencycode="MnU" publicid="-//University of Minnesota, Twin Cities::Immigration History Research Center//TEXT (us::MnU::ihrckitka::Stepan Kikta Papers, 1973-1986.)//EN">ihrckitka</eadid>
+<filedesc>
+<titlestmt>
+<titleproper encodinganalog="Title">Inventory of the Stepan Kikta Papers, 1973-1986.</titleproper>
+<author encodinganalog="Contributor">Finding aid created by Immigration History Research Center staff, December 17, 1987</author>
+</titlestmt>
+<publicationstmt>
+<publisher encodinganalog="Publisher">University of Minnesota Libraries
+</publisher>
+<date encodinganalog="Date">June 8, 2004</date>
+<address>
+<addressline>Univesity of Minnesota Libraries</addressline>
+<addressline>Minneapolis, MN 55455</addressline>
+</address>
+</publicationstmt>
+</filedesc>
+<profiledesc><creation>EAD encoding by Felicity Hanson<date>June 8, 2004</date></creation>
+<langusage><language encodinganalog="Language" langcode="eng">English</language></langusage>
+</profiledesc></eadheader>
+<archdesc level="collection" relatedencoding="MARC">
+<did>
+<origination>
+<persname encodinganalog="100">Kikta, Stepan.</persname>
+</origination>
+<unittitle encodinganalog="245$a" label="Title: ">Stepan Kikta Papers,</unittitle>
+<unitdate encodinganalog="245$f" type="inclusive" label="Dates: " normal="1973/1986">1973-1986</unitdate>
+<repository encodinganalog="852$a" label="Repository: ">University of Minnesota Libraries. <subarea>Immigration History Research Center [ihrc]</subarea></repository>
+<physdesc><extent encodinganalog="300" label="Quantity: ">1.75 linear in.</extent></physdesc>
+<unitid encodinganalog="099" countrycode="mnu" repositorycode="MnU" label="Collection ID: ">UKR</unitid>
+<langmaterial encodinganalog="546" label="Language: ">
+<language encodinganalog="041" langcode="ukr">In Ukrainian and English.</language></langmaterial></did>
+<bioghist encodinganalog="545">
+<head>Biographical/Historical Note</head>
+<p>A philatelist and community activist, Stepan Kikta (or Oles Cherko) (1918- ) was born in Ukraine and graduated from the gymnasium in Jaroslav in 1936. From 1936-1939, he was a correspondent for Novyi Chas and Batkivshchyna, and later was assistant director of Union of Ukrainian Co-operatives. He came to the United States following World War II and has been active in numerous Ukrainian American organizations. He has also published extensively on philately, and owns a large collection of Ukrainian postage stamps. Kikta lives in Brooklyn, Ohio.</p>
+</bioghist>
+<scopecontent encodinganalog="520">
+<head>Scope and Content</head>
+<p>Papers ( 1973-1986) of Stepan Kikta (1918- ) consist of programs, flyers, and miscellany on Ukrainian community activities in Cleveland, Ohio, as well as reports of the Ukrainian Museum-Archives, Inc., and the financial reports of the Self-Reliance Credit Union, Inc. (Cleveland).</p>
+</scopecontent>
+<otherfindaid encodinganalog="555">
+<p>No inventory available.</p>
+</otherfindaid>
+<controlaccess>
+<head>Index Terms</head>
+<p>This collection is indexed under the following headings in the catalog of the University of Minnesota Libraries. Researchers desiring materials about related topics, persons or places should search the catalog using these headings. </p>
+<persname encodinganalog="600 1" source="lcnaf" rules="aacr2">Kikta, Stepan.</persname>
+<corpname encodinganalog="610" source="lcnaf" rules="aacr2">Self-Reliance Credit Union, Inc. (Cleveland, Ohio).</corpname><corpname encodinganalog="610" source="lcnaf" rules="aacr2">Ukrainian Museum-Archives, Inc. (Cleveland, Ohio).</corpname>
+<subject encodinganalog="650" source="lcsh">Ukrainian Americans--Ohio--Cleveland.</subject><subject encodinganalog="650" source="lcsh">Stamp collecting.</subject><subject encodinganalog="650" source="lcsh">Ethnological museums and collections.</subject><subject encodinganalog="650" source="lcsh">Credit unions--Ohio--Cleveland.</subject>
+</controlaccess>
+</archdesc></ead>

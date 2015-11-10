@@ -1,0 +1,484 @@
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" audience="external">
+    <eadheader xmlns:xlink="http://www.w3.org/1999/xlink" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" relatedencoding="Dublin Core" repositoryencoding="iso15511" scriptencoding="iso15924">
+        <eadid countrycode="US" encodinganalog="dc:identifier" mainagencycode="US-NjP" url="http://arks.princeton.edu/ark:/88435/pn89d662v" urn="ark:/88435/pn89d662v">LAE084</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper encodinganalog="dc:title">Women in Argentina, V: Pamphlets, <date normal="1982/1998" type="inclusive" encodinganalog="dc:date">1982-1998</date>: Finding Aid</titleproper>
+            </titlestmt>
+            <publicationstmt id="LAEaddress">
+                <publisher encodinganalog="dc:publisher">Princeton University Library</publisher>
+                <address>
+                    <addressline>One Washington Road</addressline>
+                    <addressline>Princeton, New Jersey 08544 USA</addressline>
+                    <addressline>Phone: (609) 258-5964</addressline>
+                    <addressline>refdesk@princeton.edu</addressline>
+                    <addressline>http://library.princeton.edu/</addressline>
+                </address>
+                <date type="publication" encodinganalog="dc:date" normal="2007">2007</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>Machine-readable finding aid encoded in EAD 2002 by TechBooks and Cristela García-Spitz on <date normal="2008-01-18">January 18, 2008</date>. Created from MARC record via MarcEdit and XSL stylesheets in 2007. </creation>
+            <langusage>
+                <language encodinganalog="dc:language" langcode="eng"/>
+            </langusage>
+            <descrules>Finding aid content adheres to that prescribed by <emph render="italic">Describing Archives: A Content Standard.</emph>
+            </descrules>
+        </profiledesc>
+        <revisiondesc>
+            <change>
+                <date normal="2012-05-02">2012-05-02T16:58:01.517-04:00</date>
+                <item>Run through PULFA 2.0 normalization routines.</item>
+            </change>
+            <change>
+                <date normal="2012-10-10">2012-10-10T14:26:41.861-04:00</date>
+                <item>Run through PULFA 2.0 normalization routines.</item>
+            </change>
+        </revisiondesc>
+    </eadheader>
+    <archdesc xmlns:xlink="http://www.w3.org/1999/xlink" type="findingaid" level="collection" relatedencoding="marc21">
+        <did>
+            <unitid type="collection" countrycode="US" encodinganalog="084$a" repositorycode="US-NjP">MICROFILM 11586</unitid>
+            <unitid type="collection" countrycode="US" encodinganalog="084$a" repositorycode="US-NjP">LAE084</unitid>
+            <repository id="lae" encodinganalog="852$a">
+                <corpname source="lcsh" rules="aacr2">Princeton University. Library. Dept. of Rare Books and Special Collections</corpname>
+                <address>
+                    <addressline>One Washington Road</addressline>
+                    <addressline>Princeton, New Jersey 08544 USA</addressline>
+                </address>
+            </repository>
+            <unittitle encodinganalog="245$a">Women in Argentina, V: Pamphlets</unittitle>
+            <unitdate encodinganalog="245$f" normal="1982/1998" type="inclusive">1982-1998</unitdate>
+            <physdesc>
+                <extent encodinganalog="300$a">2 microfilm reels</extent>
+            </physdesc>
+            <origination>
+                <corpname rules="legacy" encodinganalog="110" source="lcnaf" altrender="Argentina" role="col">Princeton University. Library.</corpname>
+            </origination>
+            <langmaterial encodinganalog="546$a">
+                <language encodinganalog="041$a" langcode="spa"/>
+            </langmaterial>
+            <abstract>This microfilm consists of pamphlets published between 1982 and 1998 by community and national organizations as well as government agencies covering women-related issues in Argentina.</abstract>
+            <physloc type="text">Microfilm of this collection is stored onsite at Firestone Library and offsite at the ReCAP facility. It can be consulted in Microforms Service, Firestone Library ( <extref xmlns:xlin="http://www.w3.org/1999/xlink" xlin:href="http://firestone.princeton.edu/microforms/" xlin:type="simple">http://firestone.princeton.edu/microforms/</extref>). </physloc>
+            <physloc type="code">flm</physloc>
+            <physloc type="code">rcppf</physloc>
+        </did>
+        <bioghist encodinganalog="545$a">
+            <p>The Princeton University Library has developed numerous collections of Latin American ephemera that are unique in their depth and scope. Privileging the popular voices of the region, the collections document numerous political and social movements, and a wide variety of key socioeconomic and cultural developments. Some particularly well-documented topics are grassroots organizing, human rights, electoral politics, indigenous issues, women and gender issues, youth, the environment, health, education, and religion. Types of primary materials collected include pamphlets, non-commercially produced and distributed serials, flyers, posters, working papers, government publications, and other non-traditional formats. Most of the documentation in the collections was produced after the mid 1960s by Latin American nongovernmental organizations of all types, interest groups, political parties, research institutes, and government agencies.</p>
+            <p>The intensive collecting of ephemera was initiated by Barbara Hadley Stein, the University's first Bibliographer for Latin America, Spain and Portugal (1966-1977). She sought to document some of the major political developments of the period, including the rise to power of military dictatorships, coup d'états, the institutionalization of the Cuban Revolution, and the popular responses to those developments. Her successor, Peter T. Johnson (1977-2003), expanded the geographic and thematic scope of the collections and systematized the process of organizing, cataloging, and preserving them. Intensive collecting in this area continues to this date.</p>
+            <p>Over the years, materials have been grouped and organized by country or region, and by topic or subject area. Once collections are fully organized, they are cataloged and microfilmed. A complete list of collections appears in the Guide to the Princeton University Latin American Microfilm Collection (Wilmington, DE: Scholarly Resources, 1993) and subsequent supplements. Many of the collections' finding aids are available online. Original print materials have been preserved in many cases.</p>
+        </bioghist>
+        <descgrp id="dacs3">
+            <scopecontent encodinganalog="520$a">
+                <p>This collection consists of pamphlets published between 1982 and 1998 by community and national organizations as well as government agencies covering women-related issues in Argentina.</p>
+            </scopecontent>
+        </descgrp>
+        <descgrp id="dacs4">
+            <accessrestrict encodinganalog="506$a" type="open">
+                <p>The Latin American ephemera collections are open for research use.</p>
+                <p>Microfilm can be consulted in Microforms Service, Firestone Library (<extref xmlns:xlin="http://www.w3.org/1999/xlink" xlin:href="http://firestone.princeton.edu/microforms/" xlin:type="simple">http://firestone.princeton.edu/microforms/</extref>).</p>
+            </accessrestrict>
+            <accessrestrict type="remotestorage" encodinganalog="506$a">
+                <p>Please consult with the Department of Rare Books and Special Collections about having those portions of the collection that are stored off site recalled to the Department for your use. This process normally requires 48-72 hours notice.</p>
+            </accessrestrict>
+            <userestrict encodinganalog="540$a">
+                <p>No restrictions. Researchers are responsible for determining any copyright questions.</p>
+            </userestrict>
+        </descgrp>
+        <descgrp id="dacs6">
+            <altformavail encodinganalog="530$a">
+                <p>MICROFILM 7662 (Master printing copy. Available for reproduction only.)</p>
+            </altformavail>
+        </descgrp>
+        <descgrp id="dacs7">
+            <prefercite encodinganalog="524$a">
+                <p>Identification of specific item; Date (if known); Women in Argentina, V: Pamphlets; Princeton University Library.</p>
+            </prefercite>
+        </descgrp>
+        <dao xmlns:xlin="http://www.w3.org/1999/xlink" xlin:title="Princeton University Latin American Ephemeral Collections" xlin:href="bioghist-images/laelogo.jpg" xlin:type="simple"/>
+        <controlaccess>
+            <persname encodinganalog="600" source="lcnaf" rules="dacs">Bellotti, Magui. Feminismo y el movimiento de mujeres, Argentina, 1984-1989. 1989.</persname>
+            <persname encodinganalog="600" source="lcnaf" rules="dacs">Oddone, María Elena. Prensa feminista. 1990.</persname>
+            <persname encodinganalog="600" source="lcnaf" rules="dacs">Blanco, Justo Horacio. Encuesta sobre oportunidades perdidas en el puerperio. 1993.</persname>
+            <persname encodinganalog="600" source="lcnaf" rules="dacs">Bonafini, Hebe de,1928- . Discursos de Hebe Bonafini en los actos de repudio al golpe de estado. 1995.</persname>
+            <persname encodinganalog="600" source="lcnaf" rules="dacs">Bonder, Gloria. Participación de las mujeres en las noticias. 1996.</persname>
+            <persname encodinganalog="600" source="lcnaf" rules="dacs">Yelicic, Clori. Mujer en la Constitución de la ciudad de Buenos Aires. 1996.</persname>
+            <corpname source="lcnaf" rules="dacs" encodinganalog="610" authfilenumber="http://viaf.org/viaf/148619550">Madres de Plaza de Mayo (Association)</corpname>
+            <subject rules="legacy" source="lcsh" encodinganalog="650" authfilenumber="http://id.loc.gov/authorities/subjects/sh93008658">Women -- Argentina.</subject>
+            <subject rules="legacy" source="lcsh" encodinganalog="650" authfilenumber="http://id.loc.gov/authorities/subjects/sh2010118748">Women -- Employment -- Argentina.</subject>
+            <subject rules="legacy" source="lcsh" encodinganalog="650">Women in politics -- Argentina.</subject>
+            <subject rules="legacy" source="lcsh" encodinganalog="650">Women -- Health and hygiene -- Argentina.</subject>
+            <subject rules="legacy" source="lcsh" encodinganalog="650">Abortion -- Argentina.</subject>
+            <subject rules="legacy" source="lcsh" encodinganalog="650">Women's rights -- Argentina.</subject>
+            <subject rules="legacy" source="lcsh" encodinganalog="650" authfilenumber="http://id.loc.gov/authorities/subjects/sh2010119091">Women -- Legal status, laws, etc. -- Argentina.</subject>
+            <subject rules="legacy" source="lcsh" encodinganalog="650">Women -- Crimes against -- Argentina.</subject>
+            <subject rules="legacy" source="lcsh" encodinganalog="650">Fertility, Human -- Argentina.</subject>
+            <subject rules="legacy" source="lcsh" encodinganalog="650">Birth control -- Argentina.</subject>
+            <subject rules="legacy" source="lcsh" encodinganalog="650">Non-governmental organizations -- Argentina.</subject>
+            <subject rules="legacy" source="lcsh" encodinganalog="650">Women -- Argentina -- Societies, clubs, etc.</subject>
+            <subject rules="local" source="local" encodinganalog="690" authfilenumber="t37">Latin American studies</subject>
+        </controlaccess>
+        <dsc type="combined">
+            <c level="file" id="LAE084_c001">
+                <did>
+                    <unitid>File 1:</unitid>
+                    <unittitle>Miscellaneous Publications</unittitle>
+                    <unitdate type="inclusive" normal="1982/1998">1982-1998</unitdate>
+                    <physdesc>
+                        <extent>27</extent>
+                    </physdesc>
+                </did>
+            </c>
+            <c level="file" id="LAE084_c002">
+                <did>
+                    <unitid>File 2:</unitid>
+                    <unittitle>Abortion</unittitle>
+                    <unitdate normal="1990-01-01/1993-12-31" type="inclusive">1990-1993</unitdate>
+                    <physdesc>
+                        <extent type="computed">1 item</extent>
+                    </physdesc>
+                </did>
+                <c level="file" id="LAE084_c003">
+                    <did>
+                        <unittitle>Miscellaneous Publications</unittitle>
+                        <unitdate>undated</unitdate>
+                        <unitdate type="inclusive" normal="1990/1993">1990-1993</unitdate>
+                        <physdesc>
+                            <extent>7</extent>
+                        </physdesc>
+                    </did>
+                </c>
+            </c>
+            <c level="file" id="LAE084_c004">
+                <did>
+                    <unitid>File 3:</unitid>
+                    <unittitle>International Women' s Day</unittitle>
+                    <unitdate normal="1992-01-01/1997-12-31" type="inclusive">1992-1997</unitdate>
+                    <physdesc>
+                        <extent type="computed">1 item</extent>
+                    </physdesc>
+                </did>
+                <c level="file" id="LAE084_c005">
+                    <did>
+                        <unittitle>Miscellaneous Publications</unittitle>
+                        <unitdate>undated</unitdate>
+                        <unitdate type="inclusive" normal="1992/1997">1992-1997</unitdate>
+                        <physdesc>
+                            <extent>24</extent>
+                        </physdesc>
+                    </did>
+                </c>
+            </c>
+            <c level="file" id="LAE084_c006">
+                <did>
+                    <unitid>File 4:</unitid>
+                    <unittitle>Madres de Plaza De Mayo</unittitle>
+                    <unitdate normal="1988-01-01/1997-12-31" type="inclusive">1988-1997</unitdate>
+                    <physdesc>
+                        <extent type="computed">1 item</extent>
+                    </physdesc>
+                </did>
+                <c level="file" id="LAE084_c007">
+                    <did>
+                        <unittitle>Miscellaneous Publications</unittitle>
+                        <unitdate>undated</unitdate>
+                        <unitdate type="inclusive" normal="1988/1997">1988-1997</unitdate>
+                        <physdesc>
+                            <extent>34</extent>
+                        </physdesc>
+                    </did>
+                </c>
+            </c>
+            <c level="file" id="LAE084_c008">
+                <did>
+                    <unitid>File 5:</unitid>
+                    <unittitle>Violence</unittitle>
+                    <unitdate normal="1989-01-01/1998-12-31" type="inclusive">1989-1998</unitdate>
+                    <physdesc>
+                        <extent type="computed">1 item</extent>
+                    </physdesc>
+                </did>
+                <c level="file" id="LAE084_c009">
+                    <did>
+                        <unittitle>Miscellaneous Publications</unittitle>
+                        <unitdate>undated</unitdate>
+                        <unitdate type="inclusive" normal="1989/1998">1989-1998</unitdate>
+                        <physdesc>
+                            <extent>10</extent>
+                        </physdesc>
+                    </did>
+                </c>
+                <c level="file" id="LAE084_c010">
+                    <did>
+                        <unittitle>
+                            <emph render="italic">Violencia Contra Las Mujeres</emph>: Informes de Investigación (CECYM)</unittitle>
+                        <unitdate normal="1995/1995">1995</unitdate>
+                        <physdesc>
+                            <extent>3</extent>
+                        </physdesc>
+                    </did>
+                </c>
+            </c>
+            <c level="file" id="LAE084_c011">
+                <did>
+                    <unitid>File 6:</unitid>
+                    <unittitle>Organizations</unittitle>
+                    <unitdate normal="1980-01-01/1998-12-31" type="inclusive">1980-1998</unitdate>
+                    <physdesc>
+                        <extent type="computed">1 item</extent>
+                    </physdesc>
+                </did>
+                <c level="file" id="LAE084_c012">
+                    <did>
+                        <unittitle>ACP (Amas de Casa del País)</unittitle>
+                        <unitdate normal="1992-01-01/1994-12-31" type="inclusive">1992-1994</unitdate>
+                        <physdesc>
+                            <extent type="computed">1 item</extent>
+                        </physdesc>
+                    </did>
+                    <c level="file" id="LAE084_c013">
+                        <did>
+                            <unittitle>Miscellaneous Publications</unittitle>
+                            <unitdate>undated</unitdate>
+                            <unitdate type="inclusive" normal="1992/1994">1992-1994</unitdate>
+                            <physdesc>
+                                <extent>7</extent>
+                            </physdesc>
+                        </did>
+                    </c>
+                </c>
+                <c level="file" id="LAE084_c014">
+                    <did>
+                        <unittitle>AIMA (Asociación Internacional de Mujeres Argentinas)</unittitle>
+                        <unitdate normal="1991-01-01/1993-12-31" type="inclusive">1991-1993</unitdate>
+                        <physdesc>
+                            <extent type="computed">1 item</extent>
+                        </physdesc>
+                    </did>
+                    <c level="file" id="LAE084_c015">
+                        <did>
+                            <unittitle>
+                                <emph render="italic">Boletín</emph> no 59-60, 1991 68-69, 1993</unittitle>
+                            <unitdate normal="1991/1991">1991</unitdate>
+                            <unitdate normal="1993/1993">1993</unitdate>
+                            <physdesc>
+                                <extent type="computed">1 item</extent>
+                            </physdesc>
+                        </did>
+                    </c>
+                </c>
+                <c level="file" id="LAE084_c016">
+                    <did>
+                        <unittitle>Centro de Estudios de la Mujer</unittitle>
+                        <unitdate normal="1994-01-01/1997-12-31" type="inclusive">1994-1997</unitdate>
+                        <physdesc>
+                            <extent type="computed">1 item</extent>
+                        </physdesc>
+                    </did>
+                    <c level="file" id="LAE084_c017">
+                        <did>
+                            <unittitle>Miscellaneous Publications</unittitle>
+                            <unitdate type="inclusive" normal="1996/1997">1996-1997</unitdate>
+                            <physdesc>
+                                <extent>3</extent>
+                            </physdesc>
+                        </did>
+                    </c>
+                    <c level="file" id="LAE084_c018">
+                        <did>
+                            <unittitle>
+                                <emph render="italic">Satelite Evita Dossier de Prensa</emph> no 1-5</unittitle>
+                            <unitdate type="inclusive" normal="1994/1995">1994-1995</unitdate>
+                            <physdesc>
+                                <extent type="computed">1 item</extent>
+                            </physdesc>
+                        </did>
+                    </c>
+                    <c level="file" id="LAE084_c019">
+                        <did>
+                            <unittitle>
+                                <emph render="italic">Serie Mujer y Comunicación Cuadernillo De Trabajo</emph> no 1, 3-4</unittitle>
+                            <unitdate type="inclusive" normal="1994/1995">1994-1995</unitdate>
+                            <physdesc>
+                                <extent type="computed">1 item</extent>
+                            </physdesc>
+                        </did>
+                    </c>
+                </c>
+                <c level="file" id="LAE084_c020">
+                    <did>
+                        <unittitle>Consejo de la Mujer</unittitle>
+                        <unitdate>undated</unitdate>
+                        <physdesc>
+                            <extent type="computed">1 item</extent>
+                        </physdesc>
+                    </did>
+                    <c level="file" id="LAE084_c021">
+                        <did>
+                            <unittitle>
+                                <emph render="italic">Conocer, Prevenir, Curar</emph>
+                            </unittitle>
+                            <unitdate>undated</unitdate>
+                            <physdesc>
+                                <extent>3</extent>
+                            </physdesc>
+                        </did>
+                    </c>
+                </c>
+                <c level="file" id="LAE084_c022">
+                    <did>
+                        <unittitle>Consejo Nacional de la Mujer</unittitle>
+                        <unitdate normal="1985-01-01/1997-12-31" type="inclusive">1985-1997</unitdate>
+                        <physdesc>
+                            <extent type="computed">1 item</extent>
+                        </physdesc>
+                    </did>
+                    <c level="file" id="LAE084_c023">
+                        <did>
+                            <unittitle>Miscellaneous Publications</unittitle>
+                            <unitdate type="inclusive" normal="1985/1997">circa 1985-1997</unitdate>
+                            <physdesc>
+                                <extent>7</extent>
+                            </physdesc>
+                        </did>
+                    </c>
+                    <c level="file" id="LAE084_c024">
+                        <did>
+                            <unittitle>
+                                <emph render="italic">Mujeres Trabajando Boletín Informativo</emph> no 1-2</unittitle>
+                            <unitdate type="inclusive" normal="1993/1994">1993-1994</unitdate>
+                            <physdesc>
+                                <extent type="computed">1 item</extent>
+                            </physdesc>
+                        </did>
+                    </c>
+                    <c level="file" id="LAE084_c025">
+                        <did>
+                            <unittitle>
+                                <emph render="italic">Serie Pasos y Vuelos</emph> no 1-3</unittitle>
+                            <unitdate normal="1994/1994">1994</unitdate>
+                            <physdesc>
+                                <extent type="computed">1 item</extent>
+                            </physdesc>
+                        </did>
+                    </c>
+                    <c level="file" id="LAE084_c026">
+                        <did>
+                            <unittitle>
+                                <emph render="italic">Servicio de Orentación Laboral para las Mujeres</emph> no 1-3</unittitle>
+                            <unitdate normal="1995/1995">1995</unitdate>
+                            <physdesc>
+                                <extent type="computed">1 item</extent>
+                            </physdesc>
+                        </did>
+                    </c>
+                </c>
+                <c level="file" id="LAE084_c027">
+                    <did>
+                        <unittitle>FEIM (Fundación para estudio e investigación de la mujer)</unittitle>
+                        <unitdate normal="1991-01-01/1996-12-31" type="inclusive">1991-1996</unitdate>
+                        <physdesc>
+                            <extent type="computed">1 item</extent>
+                        </physdesc>
+                    </did>
+                    <c level="file" id="LAE084_c028">
+                        <did>
+                            <unittitle>Miscellaneous Publications</unittitle>
+                            <unitdate>undated</unitdate>
+                            <unitdate type="inclusive" normal="1991/1996">1991-1996</unitdate>
+                            <physdesc>
+                                <extent>16</extent>
+                            </physdesc>
+                        </did>
+                    </c>
+                </c>
+                <c level="file" id="LAE084_c029">
+                    <did>
+                        <unittitle>Fundación TIDO Centro de Acción Particitiva: Casa de la Mujer</unittitle>
+                        <unitdate>undated</unitdate>
+                        <physdesc>
+                            <extent type="computed">1 item</extent>
+                        </physdesc>
+                    </did>
+                    <c level="file" id="LAE084_c030">
+                        <did>
+                            <unittitle>Miscellaneous Publications</unittitle>
+                            <unitdate>undated</unitdate>
+                            <physdesc>
+                                <extent>2</extent>
+                            </physdesc>
+                        </did>
+                    </c>
+                </c>
+                <c level="file" id="LAE084_c031">
+                    <did>
+                        <unittitle>Instituto Social u Político de la Mujer</unittitle>
+                        <unitdate normal="1992-01-01/1998-12-31" type="inclusive">1992-1998</unitdate>
+                        <physdesc>
+                            <extent type="computed">1 item</extent>
+                        </physdesc>
+                    </did>
+                    <c level="file" id="LAE084_c032">
+                        <did>
+                            <unittitle>Miscellaneous Publications</unittitle>
+                            <unitdate>undated</unitdate>
+                            <unitdate type="inclusive" normal="1992/1998">1992-1998</unitdate>
+                            <physdesc>
+                                <extent>13</extent>
+                            </physdesc>
+                        </did>
+                    </c>
+                </c>
+                <c level="file" id="LAE084_c033">
+                    <did>
+                        <unittitle>Organización Feminista Argentina</unittitle>
+                        <unitdate normal="1980-01-01/1986-12-31" type="inclusive">1980-1986</unitdate>
+                        <physdesc>
+                            <extent type="computed">1 item</extent>
+                        </physdesc>
+                    </did>
+                    <c level="file" id="LAE084_c034">
+                        <did>
+                            <unittitle>
+                                <emph render="italic">Persona: Revista Feminista Año I</emph> no 3-4, 1980Año II no. 6-9, 11, 1981-1982Año I no I, 1986</unittitle>
+                            <unitdate normal="1980/1980">1980</unitdate>
+                            <unitdate type="inclusive" normal="1981/1982">1981-1982</unitdate>
+                            <unitdate normal="1986/1986">1986</unitdate>
+                            <physdesc>
+                                <extent type="computed">1 item</extent>
+                            </physdesc>
+                        </did>
+                    </c>
+                    <c level="file" id="LAE084_c035">
+                        <did>
+                            <unittitle>
+                                <emph render="italic">Persona: Boletín Feminista Bimensual</emph> no 12, 17</unittitle>
+                            <unitdate normal="1980/1980">1980</unitdate>
+                            <physdesc>
+                                <extent type="computed">1 item</extent>
+                            </physdesc>
+                        </did>
+                    </c>
+                </c>
+                <c level="file" id="LAE084_c036">
+                    <did>
+                        <unittitle>PSP (Partido Socialista Popular) Bloque de la Unidad Socialista</unittitle>
+                        <unitdate normal="1994-01-01/1996-12-31" type="inclusive">1994-1996</unitdate>
+                        <physdesc>
+                            <extent type="computed">1 item</extent>
+                        </physdesc>
+                    </did>
+                    <c level="file" id="LAE084_c037">
+                        <did>
+                            <unittitle>Miscellaneous Publications</unittitle>
+                            <unitdate type="inclusive" normal="1994/1996">1994-1996</unitdate>
+                            <physdesc>
+                                <extent>3</extent>
+                            </physdesc>
+                        </did>
+                    </c>
+                </c>
+            </c>
+        </dsc>
+    </archdesc>
+</ead>

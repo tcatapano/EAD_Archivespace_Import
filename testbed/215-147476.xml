@@ -1,0 +1,95 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead relatedencoding="marc21">
+<eadheader audience="internal"> 
+  <eadid countrycode="US" mainagencycode="TxU-TH"
+	encodinganalog="852$a">urn:taro:utexas.cah.00441</eadid> 
+  <filedesc> 
+	 <titlestmt> 
+		<titleproper>A Guide to the Clinton E. Norton Papers, 1997 </titleproper>
+		
+	 </titlestmt> 
+  </filedesc> 
+  <profiledesc> 
+	 <creation> 
+		<date>1997</date>Encoded in XMetal 2 by Amy Ziegler according to
+		instructions in 
+		<title>TARO 2 EAD 2002 Editing Instructions.</title></creation> 
+  </profiledesc>
+</eadheader>
+<archdesc type="inventory" level="collection"> 
+  <did> 
+	 <head>Descriptive Summary</head> 
+	 <origination label="Creator:"> 
+		<persname encodinganalog="100">Norton, Clinton
+		  E.</persname></origination> 
+	 <unittitle encodinganalog="245" label="Title:">Clinton E. Norton
+		Papers,</unittitle> 
+	 <unitdate type="inclusive" encodinganalog="245"
+	  label="Dates:">1997</unitdate><langmaterial label="Laguage:">Materials are
+	 written in <language langcode="eng">English.</language></langmaterial> 
+	 <unitid label="Accession No.:">98-221</unitid> 
+	 <physdesc label="Extent:" encodinganalog="300$a">1/2 in.</physdesc> 
+	 <repository label="Repository:" encodinganalog="852$a"> 
+		<extref href="http://www.cah.utexas.edu" show="new" actuate="onrequest"> 
+		  <corpname><subarea> Dolph Briscoe Center for American History,</subarea>The
+			 University of Texas at Austin</corpname></extref></repository> 
+	 <abstract label="Abstract:" encodinganalog="520$a">An autobiography titled
+		Some Recollections documents Clinton E. Norton's personal and professional
+		history as a Director of the University of Texas Performing Arts
+		Center.</abstract> 
+  </did> 
+  <bioghist encodinganalog="545"> 
+	 <head>Biographical Note</head><p> 
+		<persname encodinganalog="700" source="lcnaf">Clinton E.
+		  Norton</persname> is a former Director of the 
+		<corpname encodinganalog="710" source="lcnaf">University of Texas
+		  Performing Arts Center</corpname> and Executive Director of the 
+		<corpname encodinganalog="710" source="lcnaf">International Society for
+		  the Performing Arts,</corpname> from which he retired in 1991. He also served
+		on the Board of Directors of the 
+		<corpname encodinganalog="710" source="lcnaf">Society for the
+		  Preservation of Professional Touring Entertainment History.</corpname></p> 
+  </bioghist> 
+  <scopecontent encodinganalog="520"> 
+	 <head>Scope and Contents</head><p>Papers include an autobiography of
+		Norton's personal and professional history, titled <emph render="italic">Some
+		Recollections.</emph></p> 
+  </scopecontent> 
+  <userestrict encodinganalog="540"> 
+	 <head>Use Restrictions</head><p>Unrestricted access</p> 
+  </userestrict> 
+  <prefercite encodinganalog="524"> 
+	 <head>Preferred Citation</head><p>Clinton E. Norton Papers, 1997, The
+		Dolph Briscoe Center for American History, The University of Texas at Austin.</p> 
+  </prefercite> 
+  <controlaccess> 
+	 <head>Index Terms</head> 
+	 <controlaccess> 
+		<persname encodinganalog="600">Norton, Clinton E.</persname> 
+		<corpname encodinganalog="610"><?xm-replace_text {corpname}?></corpname> 
+		<subject encodinganalog="650">University of Texas Performing Arts
+		  Center</subject> 
+	 </controlaccess> 
+  </controlaccess> 
+  <relatedmaterial><p>Forms part of the 
+		<extref
+		 href="http://www.cah.utexas.edu/collectioncomponents/touring.html"
+		 actuate="onrequest" show="new">Professional Touring Entertainment Industry
+		  Archives.</extref></p> 
+  </relatedmaterial><dsc type="in-depth"> 
+	 <head>Detailed Description of the Papers</head> 
+	 <c01 level="series" id="ser1"> 
+		<did> 
+		  <unittitle>Inventory 
+			 <unitdate><?xm-replace_text {date}?></unitdate></unittitle> 
+		</did> 
+		<c02> 
+		  <did><container type="box">2.325/A110a</container> 
+			 <unittitle><emph render="doublequote">Some Recollections,</emph>
+				Clinton E. Norton, 
+				<unitdate>1997</unitdate></unittitle> 
+		  </did> 
+		</c02> 
+	 </c01></dsc>
+</archdesc></ead>

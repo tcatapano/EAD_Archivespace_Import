@@ -1,0 +1,793 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead audience="external" relatedencoding="MARC21">
+  <eadheader langencoding="iso639-2b" audience="internal" countryencoding="iso3166-1"
+    dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924"
+    relatedencoding="MARC21">
+    <eadid mainagencycode="DSI-AI" countrycode="us"
+      identifier="http://siarchives.si.edu/findingaids/FA05-116.xml" encodinganalog="856$u">
+      http://siarchives.si.edu/findingaids/FA05-116.xml</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper encodinganalog="245$a">Program Records, <date>1982-2002</date></titleproper>
+        <author encodinganalog="245$c">Finding aid prepared by Smithsonian Institution
+          Archives</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher encodinganalog="260$b">Smithsonian Institution Archives </publisher>
+        <address>
+          <addressline>Washington, D.C. </addressline>
+          <addressline>Contact us at <emph render="italic">osiaref@si.edu</emph></addressline>
+        </address>
+        <date type="publication"/>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>Finding aid encoded on <date normal="2000-01-01">7-11-2011</date></creation>
+      <langusage encodinganalog="546"> Finding aid written in <language encodinganalog="041"
+          langcode="eng">English</language>
+      </langusage>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection" type="inventory" relatedencoding="MARC21">
+    <did>
+      <head>Collection Overview</head>
+      <repository label="Repository:" encodinganalog="852$a">
+        <corpname encodinganalog="110">Smithsonian Institution Archives, </corpname>
+        <address>
+          <addressline>Washington, D.C., </addressline>
+          <addressline><emph render="italic">osiaref@si.edu</emph></addressline>
+        </address>
+      </repository>
+      <origination label="Creator:">
+        <persname encodinganalog="100">National Museum of American History, Program in African American Culture</persname>
+      </origination>
+      <note>
+        <p>SI Records</p>
+      </note>
+      <unittitle label="Title:" encodinganalog="245$a">Program Records</unittitle>
+      <unitdate label="Dates:" encodinganalog="245$f" normal="1971/2004">1982-2002</unitdate>
+      <physdesc label="Quantity:" encodinganalog="300$a">
+        <extent>1.5 cu. ft. (1 record storage box) (1 document box)</extent>
+      </physdesc>
+      <unitid encodinganalog="099" label="Collection:" countrycode="iso3166-1"
+        repositorycode="DSI-AI">Accession 05-116</unitid>
+      <langmaterial encodinganalog="546" label="Language of Materials:">
+        <language encodinganalog="041" langcode="eng">English</language>
+      </langmaterial>
+    </did>
+    <prefercite encodinganalog="510">
+      <head>Preferred Citation</head>
+      <p>Smithsonian Institution Archives, Accession 05-116, National Museum of American History, Program in African American Culture, Program Records</p>
+    </prefercite>
+    
+ 
+    
+    <scopecontent>
+    <head>Descriptive Entry</head>
+     <p>This accession consists of records of the Program in African American Culture (PAAC) which document planning for conferences, symposiums, concerts, and special events. 
+    Some earlier records date back to when PAAC was known as the Program in African American History and the Program in Black American Culture, respectively. Materials include 
+    correspondence, memoranda, and notes of Niani Kilkenny, PAAC Director; and Victoria Botero, Conference Coordinator. Also includes meeting minutes, budget summaries, press 
+    releases, research information, evaluations, contracts, program proposals, and reports.</p> </scopecontent> 
+     
+ 
+    
+    
+    
+      <userestrict>
+        <head>Use Restriction</head>
+        <p>Restricted for 15 years, until Jan-01-2018; Transferring office; 8/26/1996 memorandum, Johnstone to Taylor-Wynn; Contact reference staff for details.</p>
+      </userestrict>
+    
+        
+      <controlaccess id="a12">
+      <head>Index Terms</head>
+      <p>This collection is indexed under the following access terms. These are links to collections
+      with related topics, persons or places.</p>
+        
+         <controlaccess>
+           <head>Name</head>
+           <famname encodinganalog="600" source="local">Kilkenny, Niani.</famname>
+           <famname encodinganalog="600" source="local">Botero, Victoria.</famname>
+           <famname encodinganalog="600" source="local">National Museum of American History (U.S.). Program in African American History.</famname>
+           <famname encodinganalog="600" source="local">National Museum of American History (U.S.). Program in Black American Culture.</famname>
+         </controlaccess>
+        
+        
+         <controlaccess>
+           <head>Subject</head>
+           <subject encodinganalog="650" source="local">African Americans</subject>
+           <subject encodinganalog="650" source="local">Conference proceedings</subject>
+           <subject encodinganalog="650" source="local">Contracts</subject>
+         </controlaccess>
+        
+        
+        
+        
+         <controlaccess>
+           <head>Physical Characteristics of Materials in the Collection</head>
+           <genreform encodinganalog="655$a" source="aat">Manuscripts</genreform>
+           <genreform encodinganalog="655$a" source="aat">Brochures</genreform>
+           <genreform encodinganalog="655$a" source="aat">Floppy disks</genreform>
+           <genreform encodinganalog="655$a" source="aat">Black-and-white transparencies</genreform>
+           <genreform encodinganalog="655$a" source="aat">Black-and-white photographs</genreform>
+         </controlaccess>
+        
+      
+      </controlaccess>
+    <dsc type="combined" id="a23">
+      
+      <c01 level="file">
+        <did>
+          <unittitle>Box 1</unittitle>
+        </did>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 1 of 2</container>
+            <unittitle>Middle Passage Conference: Advisory Meeting Notes, 1998</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 1 of 2</container>
+            <unittitle>Middle Passage Conference: Participants/Contact List, 1998</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 1 of 2</container>
+            <unittitle>Middle Passage Conference (general), 1998</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 1 of 2</container>
+            <unittitle>Deborah Mack, 1998</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 1 of 2</container>
+            <unittitle>Lifetime Achievement Awards, 1999</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 1 of 2</container>
+            <unittitle>Photographs and Images, 1999</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 1 of 2</container>
+            <unittitle>Middle Passage Conference: Flyers, 1998</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 1 of 2</container>
+            <unittitle>Middle Passage Conference: Films, 1999</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 1 of 2</container>
+            <unittitle>Middle Passage Conference: Correspondence, 1998-1999</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 1 of 2</container>
+            <unittitle>Middle Passage Conference: Newspaper Clippings, 1998</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 1 of 2</container>
+            <unittitle>Adelaide Cromwell, 1998-1999</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 1 of 2</container>
+            <unittitle>Middle Passage Conference: Abstracts, 1998-1999</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 1 of 2</container>
+            <unittitle>Middle Passage Conference: Budget, 1999</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 1 of 2</container>
+            <unittitle>Middle Passage Conference: Biographies, 1998-1999</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 1 of 2</container>
+            <unittitle>Trans-Atlantic Slave Trade, 1998</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 1 of 2</container>
+            <unittitle>Middle Passage Conference: Advisory Committee Correspondence, 1998-1999</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 1 of 2</container>
+            <unittitle>Articles on Curtis Mayfield, 2001-2002</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 1 of 2</container>
+            <unittitle>Pictures of Curtis Mayfield, 2002</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 1 of 2</container>
+            <unittitle>Curtis Mayfield Symposium, 2001</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 1 of 2</container>
+            <unittitle>Curtis Mayfield Research, 2002</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 1 of 2</container>
+            <unittitle>Curtis Mayfield Symposium: Contact List, 2002</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 1 of 2</container>
+            <unittitle>Curtis Mayfield Symposium: Budget, 2001</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 1 of 2</container>
+            <unittitle>Another Day's Journey: Contacts, 2000-2001</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 1 of 2</container>
+            <unittitle>Another Day's Journey: Security, 2001</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 1 of 2</container>
+            <unittitle>Another Day's Journey: Press Releases, 2001</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 1 of 2</container>
+            <unittitle>Another Day's Journey: Flyer Information, 2000</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 1 of 2</container>
+            <unittitle>Another Day's Journey: Correspondence, 2001</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 1 of 2</container>
+            <unittitle>Another Day's Journey: Contracts, 2001</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 1 of 2</container>
+            <unittitle>Another Day's Journey: Building Services, 2001</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 1 of 2</container>
+            <unittitle>Another Day's Journey: Budget, 2001</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 1 of 2</container>
+            <unittitle>Another Day's Journey: Audiovisual, 2001</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 1 of 2</container>
+            <unittitle>Blacks in Television, 1996</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 1 of 2</container>
+            <unittitle>Fighting for My Rights: Volunteers, 2000</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 1 of 2</container>
+            <unittitle>Fighting for My Rights: Task Analysis, 2000</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 1 of 2</container>
+            <unittitle>Fighting for My Rights: Security, 2000</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 1 of 2</container>
+            <unittitle>Fighting for My Rights: Program Proposal, 2000</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 1 of 2</container>
+            <unittitle>Fighting for My Rights: Press Releases, 2000</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 1 of 2</container>
+            <unittitle>Fighting for My Rights: Correspondence, 1999</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 1 of 2</container>
+            <unittitle>Fighting for My Rights: Panelists/Biographical Information, 1999</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 1 of 2</container>
+            <unittitle>Fighting for My Rights: Budget, 2000</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 1 of 2</container>
+            <unittitle>Fighting for My Rights: Contacts, 2000</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 1 of 2</container>
+            <unittitle>Fighting for My Rights: Audiovisual, 2000</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 1 of 2</container>
+            <unittitle>Press Releases, 1989-1992</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 1 of 2</container>
+            <unittitle>Spoken Word Conference, 2002</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 1 of 2</container>
+            <unittitle>Spoken Word Conference: Contacts/Biographies, 2002</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 1 of 2</container>
+            <unittitle>Spoken Word Conference: Scholars, 2001-2002</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 1 of 2</container>
+            <unittitle>Spoken Word Conference: Bibliography by Themes</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 1 of 2</container>
+            <unittitle>National Conference on African American Gospel Music Scholarship, 1993</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 1 of 2</container>
+            <unittitle>Memory of African Culture performing Company</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 1 of 2</container>
+            <unittitle>Niani Kilkenny: Correspondence, 1992</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 1 of 2</container>
+            <unittitle>Los Munequitos de Matanzas Concert, 1991-1992</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 1 of 2</container>
+            <unittitle>Los Munequitos de Matanzas Concert: Sponsors, 1992</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 1 of 2</container>
+            <unittitle>Los Munequitos de Matanzas Concert: Press Coverage, 1992</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 1 of 2</container>
+            <unittitle>Los Munequitos de Matanzas Concert: Press Releases, 1992</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 1 of 2</container>
+            <unittitle>Los Munequitos de Matanzas Concert: Program, 1992</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 1 of 2</container>
+            <unittitle>Los Munequitos de Matanzas Concert: Memoranda, 1992</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 1 of 2</container>
+            <unittitle>Los Munequitos de Matanzas Concert: Correspondence, 1992-1993</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 1 of 2</container>
+            <unittitle>Los Munequitos de Matanzas Concert: Budget, 1992</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 1 of 2</container>
+            <unittitle>W.E.B. DuBois Symposium: Participants Proposals, 2000</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 1 of 2</container>
+            <unittitle>W.E.B. DuBois Symposium: Acie Byrd, 1999-2000</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 1 of 2</container>
+            <unittitle>W.E.B. DuBois Symposium: Contact List, Registration, and Biographies, 2000</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 1 of 2</container>
+            <unittitle>W.E.B. DuBois Symposium: Correspondence, 2000</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 1 of 2</container>
+            <unittitle>W.E.B. DuBois Symposium: Correspondence with Ronald V. Dellums, 2000</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 1 of 2</container>
+            <unittitle>W.E.B. DuBois Symposium: Expenditures, 2000</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 1 of 2</container>
+            <unittitle>Program Web Page, 1995-1996</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 1 of 2</container>
+            <unittitle>Bibliographic Work, 1996</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 1 of 2</container>
+            <unittitle>Mind on Freedom: Abstracts of Papers, 1996</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 1 of 2</container>
+            <unittitle>Freedom Rides/Civil Rights Movement, 2000</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 1 of 2</container>
+            <unittitle>News Articles, 1995</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 1 of 2</container>
+            <unittitle>Martin Luther King, Jr., Commemoration Program, 1999</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 1 of 2</container>
+            <unittitle>Freedom Songs Relating to the Freedom Rides</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 1 of 2</container>
+            <unittitle>Martin Luther King, Jr., Commemoration Program: Final Project, 2000</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 1 of 2</container>
+            <unittitle>Correspondence (general), 1999</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 1 of 2</container>
+            <unittitle>Middle Passage Conference: Travel Reports, 1999</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 1 of 2</container>
+            <unittitle>Middle Passage Conference: Elisee Soumonni, 1999</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 1 of 2</container>
+            <unittitle>Middle Passage Conference: Sound Checks, 1999</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 1 of 2</container>
+            <unittitle>Middle Passage Conference: Llewellyn Smith, 1999</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 1 of 2</container>
+            <unittitle>Middle Passage Conference: Special Events, 1998-1999</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 1 of 2</container>
+            <unittitle>Middle Passage Conference: Security, 1999</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 1 of 2</container>
+            <unittitle>Middle Passage Conference: Olafunmilayo Jomo, 1999</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 1 of 2</container>
+            <unittitle>Middle Passage Conference: Joseph E. Inikori, 1999</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 1 of 2</container>
+            <unittitle>Middle Passage Conference: Noel Ignatiev, 1999</unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="file">
+        <did>
+          <unittitle>Box 2</unittitle>
+        </did>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 2 of 2</container>
+            <unittitle>Middle Passage Conference: James O. Horton, 1999</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 2 of 2</container>
+            <unittitle>Hotel Morrison Clark, 1998-1999</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 2 of 2</container>
+            <unittitle>Middle Passage Conference: Sylvia I.B. Hill, 1998-1999</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 2 of 2</container>
+            <unittitle>Middle Passage Conference: Beverly Hill, 1999</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 2 of 2</container>
+            <unittitle>Middle Passage Conference: Leslie King Hammond, 1999</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 2 of 2</container>
+            <unittitle>Middle Passage Conference: Michael A. Gomez, 1999</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 2 of 2</container>
+            <unittitle>Middle Passage Conference: Haile Gerima, 1999</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 2 of 2</container>
+            <unittitle>Middle Passage Conference: C. Daniel Dawson, 1999</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 2 of 2</container>
+            <unittitle>Middle Passage Conference: Tom Feelings, 1999</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 2 of 2</container>
+            <unittitle>Middle Passage Conference: Adelaide M. Cromwell, 1999</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 2 of 2</container>
+            <unittitle>Middle Passage Conference: Houston Conwill, 1999</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 2 of 2</container>
+            <unittitle>Middle Passage Conference: Adama Conteh, 1999</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 2 of 2</container>
+            <unittitle>Community Letter, 1999</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 2 of 2</container>
+            <unittitle>Community Table, 1999</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 2 of 2</container>
+            <unittitle>Catering Director, 1999</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 2 of 2</container>
+            <unittitle>Middle Passage Conference: Kim D. Butler, 1999</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 2 of 2</container>
+            <unittitle>Victoria Botero, 1998-1999</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 2 of 2</container>
+            <unittitle>Middle Passage Conference: Michael Blakey, 1999</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 2 of 2</container>
+            <unittitle>Middle Passage Conference: Ronald W. Bailey, 1999</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 2 of 2</container>
+            <unittitle>Award Trophy, 1999</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 2 of 2</container>
+            <unittitle>Middle Passage Conference: Audiovisual, 1999</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 2 of 2</container>
+            <unittitle>Middle Passage Conference: African Heritage Drummers and Dancers, 1999</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 2 of 2</container>
+            <unittitle>Middle Passage Conference: Flyers, 1999</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 2 of 2</container>
+            <unittitle>UNESCO, 1998</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 2 of 2</container>
+            <unittitle>General Information re: Slavery, 1997</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 2 of 2</container>
+            <unittitle>Middle Passage Conference: Regrets, 1998</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 2 of 2</container>
+            <unittitle>Frozen in Black and White, 1998</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 2 of 2</container>
+            <unittitle>Exhibition: "We'll Never Turn Back," 1982</unittitle>
+          </did>
+        </c02>
+      
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

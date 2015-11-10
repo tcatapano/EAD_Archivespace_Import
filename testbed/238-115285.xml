@@ -1,0 +1,3566 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+  <eadheader id="a0" langencoding="iso639-2b" scriptencoding="iso15924" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" relatedencoding="dc">
+    <eadid countrycode="us" encodinganalog="identifier" mainagencycode="WaPS" identifier="80444/xv30451" url="http://nwda.orbiscascade.org/ark:/80444/xv30451">University Archives 190</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper encodinganalog="title">Tree Fruit Research Center, Wenatchee Records <date era="ce" calendar="gregorian" encodinganalog="date" normal="1924/1973">1924-1973</date></titleproper>
+        <titleproper type="filing" altrender="nodisplay">Tree Fruit Research Center, Wenatchee Records</titleproper>
+        <author encodinganalog="creator">Finding aid prepared by Jin Du</author>
+        <sponsor encodinganalog="contributor">Funding for encoding this finding aid was provided through a grant awarded by the National Endowment for the Humanities.</sponsor>
+      </titlestmt>
+      <publicationstmt>
+        <publisher encodinganalog="publisher">Washington State University Libraries 
+                Manuscripts, Archives, and Special Collections
+        </publisher>
+        <date calendar="gregorian" encodinganalog="date" normal="2012">© 2012</date> 
+        <address> 
+		  <addressline>Pullman, WA 99164-5610 USA</addressline>
+          <addressline>(509) 335-6691</addressline>
+          <addressline>http://www.wsulibs.wsu.edu/masc/</addressline>
+          <addressline>mascref@wsu.edu</addressline>
+        </address> 
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>Finding aid encoded by <emph render="italic"><emph render="underline">ArchProteus</emph></emph><date era="ce" calendar="gregorian" normal="2006">2006</date></creation>
+      <langusage>Finding aid is in<language langcode="eng" encodinganalog="language" scriptcode="latn"> English</language></langusage>
+      <descrules>Finding aid based on DACS (<title render="italic">Describing Archives: A Content Standard</title>)</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection" type="inventory" relatedencoding="marc21">
+    <did id="a1">
+      <repository>
+        <corpname encodinganalog="852$a">Washington State University Libraries<subarea encodinganalog="852$b"> Manuscripts, Archives, and Special Collections</subarea></corpname>
+        <address> 
+          <addressline>Pullman, WA 99164-5610 USA</addressline> 
+          <addressline>(509) 335-6691</addressline>
+          <addressline>http://www.wsulibs.wsu.edu/masc/</addressline>
+          <addressline>mascref@wsu.edu</addressline>
+        </address>
+      </repository>
+      <unitid countrycode="us" encodinganalog="099" repositorycode="WaPS">University Archives 190</unitid>
+      <unittitle encodinganalog="245$a" type="Collection">Tree Fruit Research Center, Wenatchee Records </unittitle>
+      <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1924/1973">1924-1973</unitdate>
+      <physdesc>
+        <extent encodinganalog="300$a"> 560 folders</extent>
+        <extent encodinganalog="300$a"> 11 linear feet</extent>
+        <extent encodinganalog="300$a"> 11 containers</extent>
+      </physdesc>
+      <abstract encodinganalog="5203_">Collection contains correspondence, office files, project and research files, publications and papers from individuals within the center, etc.</abstract>
+    </did>
+    <bioghist id="a2" encodinganalog="5451_">
+      <head>Organizational History:</head>
+      <p>The Tree Fruit Research Center was officially established in 1938 by an act of the State Legislature, but the initiatory step occurred in 1926 when the fruit growers of the Wenatchee district sent a committee to WSC to make a plea that the State College Agriculture Experiment Station carry on more effective experiments in the Wenatchee area. Fred Overley was the first superintendent and came to be regarded as the father of the center. Other records of the Tree Fruit Experiment Station are found in University Archives 77.</p>
+    </bioghist>
+    <arrangement id="a4" encodinganalog="351">
+      <p>This collection contains materials from 1927 to 1973. The materials are roughly divided into the following categories: research projects with which the center was involved, reports of research, publications and papers papers of various individuals within the center, correspondence and other office files pertaining the development of the center, its personnel and research, etc. The materials are arranged by these categories except the office files which are arranged alphabetically.</p>
+    </arrangement>
+    <accessrestrict id="a14" encodinganalog="506">
+      <p>The Collection is open for research use.</p>
+    </accessrestrict>
+    <acqinfo id="a19" encodinganalog="541">
+      <p>Archives 190: Tree Fruit Research Center Records of the Washington State University Tree Fruit Research Center at Wenatchee were accessioned by the University Libraries in 1978 (UA78-18).</p>
+    </acqinfo>
+    <processinfo id="a20" encodinganalog="583">
+      <p>The records were arranged and described in January-March 1987 by Jin Du.</p>
+    </processinfo>
+    <controlaccess id="a12">
+      <controlaccess>
+        <persname encodinganalog="700" source="lcnaf" rules="aacr2" role="creator">Lindner, Robert C.--Archives</persname>
+        <persname encodinganalog="700" source="lcnaf" rules="aacr2" role="creator">Overley, Fred Lloyd, 1884---Archives</persname>
+      </controlaccess>
+      <controlaccess>
+        <corpname source="lcnaf" rules="aacr2" role="creator" encodinganalog="610">Washington State University. Tree Fruit Research Center, Wenatchee--Archives</corpname>
+        <corpname source="lcnaf" rules="aacr2" role="subject" encodinganalog="610">Washington State University. Tree Fruit Research Center, Wenatchee--Records and correspondence</corpname>
+      </controlaccess>
+      <controlaccess>
+        <subject source="lcsh" rules="scm" encodinganalog="650">Agricultural experiment stations--Washington (State)--Wenatchee--Archives</subject>
+        <subject source="lcsh" rules="scm" encodinganalog="650">Agricultural extension work--Research--Washington (State)--Archives</subject>
+        <subject source="lcsh" rules="scm" encodinganalog="650">Fruit--Diseases and pests--Research--Washington (State)--Archives</subject>
+        <subject source="lcsh" rules="scm" encodinganalog="650">Fruit trade--Research--Washington (State)--Archives</subject>
+      </controlaccess>
+      <controlaccess>
+        <subject source="nwda" altrender="nodisplay" encodinganalog="690">Washington (State)</subject>
+        <subject source="nwda" altrender="nodisplay" encodinganalog="690">Colleges and Universities</subject>
+        <subject source="nwda" altrender="nodisplay" encodinganalog="690">Agriculture</subject>
+      </controlaccess>
+    </controlaccess>
+    <dsc id="a23" type="combined">
+      <c01 id="G50177" level="series">
+        <did>
+          <unittitle encodinganalog="245$a">Office files pertaining to the development of the Center, research, and personnel (Alphabeticaly arranged) </unittitle>
+        </did>
+        <c02 id="G50178" level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">1</container>
+            <unittitle encodinganalog="245$a">Agreements and contracts-Public Utility District </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1957/1964">1957-1964</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50179" level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">2</container>
+            <unittitle encodinganalog="245$a">Agreements between Mrs. Barbara Mihelich </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1948/1949">1948-1949</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50180" level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">3</container>
+            <unittitle encodinganalog="245$a">Agreements-Washington State Wheat Commission </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1959/1963">1959-1963</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50181" level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">4</container>
+            <unittitle encodinganalog="245$a">American Society for Horticultural Science </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1968/1971">1968-1971</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50182" level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">5</container>
+            <unittitle encodinganalog="245$a">ASHS </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f">1972, 1973</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50183" level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">6</container>
+            <unittitle encodinganalog="245$a">ALCOA </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1958/1963">1958-1963</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50184" level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">7</container>
+            <unittitle encodinganalog="245$a">Area Development Administration </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1961/1964">1961-1964</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50185" level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">8</container>
+            <unittitle encodinganalog="245$a">Bills of sale, 195-61 </unittitle>
+          </did>
+        </c02>
+        <c02 id="G50186" level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">9</container>
+            <unittitle encodinganalog="245$a">Boundary of experiment station property </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1946/1956">1946-1956</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50187" level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">10</container>
+            <unittitle encodinganalog="245$a">Budget </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1953">1953</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50188" level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">11</container>
+            <unittitle encodinganalog="245$a">Buildings </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1960/1965">1960-1965</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50189" level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">12</container>
+            <unittitle encodinganalog="245$a">Buildings and land-College Farm and Branch Exp. Stations </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1947/1949">1947-1949</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50190" level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">13</container>
+            <unittitle encodinganalog="245$a">Buildings and land-Robinson Land Purchase Corporation </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1947/1951">1947-1951</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50191" level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">14</container>
+            <unittitle encodinganalog="245$a">Building program-Entomology Building </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1947/1950">1947-1950</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50192" level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">15</container>
+            <unittitle encodinganalog="245$a">Building project letters </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1965/1966">1965-1966</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50193" level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">16</container>
+            <unittitle encodinganalog="245$a">CA storage and misc. </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1961">1961</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50194" level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">17</container>
+            <unittitle encodinganalog="245$a">Campell vs. Chevron Chemical </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1968">1968</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50195" level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">18</container>
+            <unittitle encodinganalog="245$a">Capital outlay and priority </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1954/1962">1954-1962</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50196" level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">19</container>
+            <unittitle encodinganalog="245$a">Census </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1970">1970</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50197" level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">20</container>
+            <unittitle encodinganalog="245$a">Certificates, patronage dividents </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1954/1962">1954-1962</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50198" level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">21</container>
+            <unittitle encodinganalog="245$a">Charcoal </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1952">1952</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50199" level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">22</container>
+            <unittitle encodinganalog="245$a">Chemical Thinning Radio Service </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1952">1952</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50200" level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">23</container>
+            <unittitle encodinganalog="245$a">Chelan County-Overall econ. development program </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1963">1963</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50201" level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">24</container>
+            <unittitle encodinganalog="245$a">Chrysanthemum project records, etc. </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1960/1962">1960-1962</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50202" level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">25</container>
+            <unittitle encodinganalog="245$a">Construction-Pending </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1948/1950">1948-1950</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50203" level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">26</container>
+            <unittitle encodinganalog="245$a">Container research- USDA and WSC cooperative project </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1954/1956">1954-1956</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50204" level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">27</container>
+            <unittitle encodinganalog="245$a">Deer damage </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1956">1956</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50205" level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">28</container>
+            <unittitle encodinganalog="245$a">Deer repellant project </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1949/1957">1949-1957</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50206" level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">29</container>
+            <unittitle encodinganalog="245$a">Re. Degman position </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1966">1966</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50207" level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">30</container>
+            <unittitle encodinganalog="245$a">Dept. of Hort.-Active projects </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1956">1956</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50208" level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">31</container>
+            <unittitle encodinganalog="245$a">Director's memo </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1965">1965</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50209" level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">32</container>
+            <unittitle encodinganalog="245$a">Effect of high water tables and flooding on fruit trees </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1963/1967">1963-1967</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50210" level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">33</container>
+            <unittitle encodinganalog="245$a">Equipment owned by TFES </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1965/1967">1965-1967</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50211" level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">34</container>
+            <unittitle encodinganalog="245$a">Equipment of specifications </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1965">1965</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50212" level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">35</container>
+            <unittitle encodinganalog="245$a">Equal employment opportunity employer info. report </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1969/1972">1969-1972</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50213" level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">36</container>
+            <unittitle encodinganalog="245$a">Faculty committee reports </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1970">1970</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50214" level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">37</container>
+            <unittitle encodinganalog="245$a">Fielmen list </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1963">1963</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50215" level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">38</container>
+            <unittitle encodinganalog="245$a">Finally revised exp. station programs for the Division of Hort. </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1943">1943</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50216" level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">39</container>
+            <unittitle encodinganalog="245$a">Finance-primarily related to history preceding establishment of Tree Fruit Research Commission </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1966/1967">1966-1967</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50217" level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">40</container>
+            <unittitle encodinganalog="245$a">Foreign correspondence, foreign itinerary </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1967/1968">1967-1968</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50218" level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">41</container>
+            <unittitle encodinganalog="245$a">Fruit marketing agreements </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1948/1960">1948-1960</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50219" level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">42</container>
+            <unittitle encodinganalog="245$a">Grant applications </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1966">1966</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50220" level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">43</container>
+            <unittitle encodinganalog="245$a">Helping Korean Orphan-Choon Hee Yoon </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1962/1963">1962-1963</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50221" level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">44</container>
+            <unittitle encodinganalog="245$a">History of the apple, etc. </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1924/1945">1924-1945</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50222" level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">45</container>
+            <unittitle encodinganalog="245$a">Import permit </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1956/1965">1956-1965</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50223" level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">46</container>
+            <unittitle encodinganalog="245$a">Indirect costs on grants </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1966">1966</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50224" level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">47</container>
+            <unittitle encodinganalog="245$a">Industrial Insurance claims </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1955/1962">1955-1962</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50225" level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">48</container>
+            <unittitle encodinganalog="245$a">Interregional Technical Committee </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1966">1966</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50226" level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">49</container>
+            <unittitle encodinganalog="245$a">Landscaping </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1967">1967</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50227" level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">50</container>
+            <unittitle encodinganalog="245$a">Re. R. C. Lindner memorial fund </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1968/1972">1968-1972</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50228" level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">51</container>
+            <unittitle encodinganalog="245$a">Memos re. labor unions </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1968/1969">1968-1969</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50229" level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">52</container>
+            <unittitle encodinganalog="245$a">Memos to staff members </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1970">1970</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50230" level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">53</container>
+            <unittitle encodinganalog="245$a">Memos to staff members </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1972">1972</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50231" level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">54</container>
+            <unittitle encodinganalog="245$a">Memos re. travel authorization </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f">1969, 1972</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50232" level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">55</container>
+            <unittitle encodinganalog="245$a">Memos re. time card wage scales </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1970">1970</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50233" level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">56</container>
+            <unittitle encodinganalog="245$a">Memo of understanding of Wash. Agricultral Exp. Station with the Bureau of Plant Industry (USDA), with Research Scholarship Foundation of the Wash. State Hort. Assoc. and with Columbia View Exp. Plots (USDA Tree Fruit Branch) </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1947/1964">1947-1964</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50234" level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">57</container>
+            <unittitle encodinganalog="245$a">Minority employment </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1972">1972</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50235" level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">58</container>
+            <unittitle encodinganalog="245$a">Minutes of meeting of the Herbicide Council </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1967">1967</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50236" level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">59</container>
+            <unittitle encodinganalog="245$a">Minutes of superintendents' meetings </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1966/1967">1966-1967</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50237" level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">60</container>
+            <unittitle encodinganalog="245$a">Misc. Import papers </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1950/1965">1950-1965</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50238" level="file">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">61</container>
+            <unittitle encodinganalog="245$a">National Agric. Library </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1971">1971</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50239" level="file">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">62</container>
+            <unittitle encodinganalog="245$a">New Building </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1965/1967">1965-1967</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50240" level="file">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">63</container>
+            <unittitle encodinganalog="245$a">Notes of establishment-Wenatchee Esp. Station </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1936/1937">1936-1937</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50241" level="file">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">64</container>
+            <unittitle encodinganalog="245$a">Orchard growing cost </unittitle>
+          </did>
+        </c02>
+        <c02 id="G50242" level="file">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">65</container>
+            <unittitle encodinganalog="245$a">Overley, F. L. </unittitle>
+          </did>
+        </c02>
+        <c02 id="G50243" level="file">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">66</container>
+            <unittitle encodinganalog="245$a">Overley Lab dedication </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1967">1967</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50244" level="file">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">67-68</container>
+            <unittitle encodinganalog="245$a">Overley Memorial fund correspondence </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1954">1954</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50245" level="file">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">69</container>
+            <unittitle encodinganalog="245$a">Overtime work authorization </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1967">1967</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50246" level="file">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">70</container>
+            <unittitle encodinganalog="245$a">Payment-Janie M. Critchell </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1967">1967</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50247" level="file">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">71</container>
+            <unittitle encodinganalog="245$a">Personnel-Misc. </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1946/1970">1946-1970</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50248" level="file">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">72</container>
+            <unittitle encodinganalog="245$a">Personnel-Homer Coolfe, Asst. in Entomology </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1951/1957">1951-1957</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50249" level="file">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">73</container>
+            <unittitle encodinganalog="245$a">Personnel-Phyllis Ratzsch </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1957/1964">1957-1964</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50250" level="file">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">74</container>
+            <unittitle encodinganalog="245$a">Personnel-George Weeks </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1948/1951">1948-1951</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50251" level="file">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">75</container>
+            <unittitle encodinganalog="245$a">Personnel-J. West </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1943/1967">1943-1967</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50252" level="file">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">76</container>
+            <unittitle encodinganalog="245$a">Personnel-Richard E. Welton </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1963">1963</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50253" level="file">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">77</container>
+            <unittitle encodinganalog="245$a">Personnel-Susan Whaley </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1968">1968</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50254" level="file">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">78</container>
+            <unittitle encodinganalog="245$a">Personnel-Josef Wieneke </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1969">1969</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50255" level="file">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">79</container>
+            <unittitle encodinganalog="245$a">Personnel-Richard E. Woodruff </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1954/1955">1954-1955</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50256" level="file">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">80</container>
+            <unittitle encodinganalog="245$a">Personnel-Ted Wright </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1964">1964</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50257" level="file">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">81</container>
+            <unittitle encodinganalog="245$a">President E. O. Holland </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1935">1935</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50258" level="file">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">82</container>
+            <unittitle encodinganalog="245$a">Pesticide regulations </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1970/1972">1970-1972</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50259" level="file">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">83</container>
+            <unittitle encodinganalog="245$a">Plant introduction </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1963">1963</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50260" level="file">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">84</container>
+            <unittitle encodinganalog="245$a">Programs </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1965/1967">1965-1967</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50261" level="file">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">85</container>
+            <unittitle encodinganalog="245$a">Promotional examination announcements </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1965/1967">1965-1967</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50262" level="file">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">86</container>
+            <unittitle encodinganalog="245$a">Property inventory </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1938/1961">1938-1961</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50263" level="file">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">87</container>
+            <unittitle encodinganalog="245$a">(US) Public Health Toxicology Lab. </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1951/1952">1951-1952</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50264" level="file">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">88</container>
+            <unittitle encodinganalog="245$a">Publications on standing order and list of professional journals </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1962">1962</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50265" level="file">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">89</container>
+            <unittitle encodinganalog="245$a">Quotations </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1961/1963">1961-1963</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50266" level="file">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">90</container>
+            <unittitle encodinganalog="245$a">Research policy </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1967">1967</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50267" level="file">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">91</container>
+            <unittitle encodinganalog="245$a">Research grant in aid </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1963/1968">1963-1968</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50268" level="file">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">92</container>
+            <unittitle encodinganalog="245$a">Research proposal to NSF </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1956/1962">1956-1962</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50269" level="file">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">93</container>
+            <unittitle encodinganalog="245$a">Research and scholarship foundation of Wash. State Hort Assoc.--Real Estate Contract </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1959/1960">1959-1960</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50270" level="file">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">94</container>
+            <unittitle encodinganalog="245$a">Reservation of rooms </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1965/1966">1965-1966</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50271" level="file">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">95</container>
+            <unittitle encodinganalog="245$a">Spray records complied by Jim Eakin ,and fertilizer records </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1963/1964">1963-1964</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50272" level="file">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">96</container>
+            <unittitle encodinganalog="245$a">State Health Dept. </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1965/1966">1965-1966</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50273" level="file">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">97</container>
+            <unittitle encodinganalog="245$a">Statistics and information for central committee meetings </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1962">1962</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50274" level="file">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">98</container>
+            <unittitle encodinganalog="245$a">Study Council </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1968">1968</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50275" level="file">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">99</container>
+            <unittitle encodinganalog="245$a">Superintendents' memos to staff members </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1965/1967">1965-1967</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50276" level="file">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">100</container>
+            <unittitle encodinganalog="245$a">Technical action panel -- Chelan-Douglas county </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1968">1968</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50277" level="file">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">101</container>
+            <unittitle encodinganalog="245$a">TFRC--Staff list and misc. </unittitle>
+          </did>
+        </c02>
+        <c02 id="G50278" level="file">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">102</container>
+            <unittitle encodinganalog="245$a">TFRC--Songs, poems and others </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1962/1967">1962-1967</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50279" level="file">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">103</container>
+            <unittitle encodinganalog="245$a">Tree survey </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1963">1963</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50280" level="file">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">104</container>
+            <unittitle encodinganalog="245$a">Variety list </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1962/1964">1962-1964</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50281" level="file">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">105</container>
+            <unittitle encodinganalog="245$a">Visitors to the station </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1935/1953">1935-1953</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50282" level="file">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">106</container>
+            <unittitle encodinganalog="245$a">Visit of Legislative Budget Committee </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f">Oct. 1957</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50283" level="file">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">107</container>
+            <unittitle encodinganalog="245$a">Voucher approval-Western Bakery </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1965/1967">1965-1967</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50284" level="file">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">108</container>
+            <unittitle encodinganalog="245$a">Wash. Apple Commission </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1969">1969</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50285" level="file">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">109</container>
+            <unittitle encodinganalog="245$a">Wash. Dept. of Agric.--Tree certification, inspection </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f">1964, 1968</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50286" level="file">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">110</container>
+            <unittitle encodinganalog="245$a">Water sample reports </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1967">1967</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50287" level="file">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">111</container>
+            <unittitle encodinganalog="245$a">Western Avenue Orchards </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1940/1943">1940-1943</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50288" level="file">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">112</container>
+            <unittitle encodinganalog="245$a">Winter injury report </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1955/1956">1955-1956</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50289" level="file">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">113</container>
+            <unittitle encodinganalog="245$a">WSU faculty nanual </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1970">1970</unitdate>
+          </did>
+        </c02>
+      </c01>
+      <c01 id="G50290" level="series">
+        <did>
+          <unittitle encodinganalog="245$a">Research Projects </unittitle>
+        </did>
+        <c02 id="G50291" level="file">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">114</container>
+            <unittitle encodinganalog="245$a">Project 704-Horticulture </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1944/1954">1944-1954</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50292" level="file">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">115</container>
+            <unittitle encodinganalog="245$a">497-Horticulture (varietal investigations) </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1944/1956">1944-1956</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50293" level="file">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">116</container>
+            <unittitle encodinganalog="245$a">Project Correspondence </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1945/1951">1945-1951</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50294" level="file">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">117</container>
+            <unittitle encodinganalog="245$a">Project 404-Soil science </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1946/1954">1946-1954</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50295" level="file">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">118</container>
+            <unittitle encodinganalog="245$a">Project progress report-general </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1947/1949">1947-1949</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50296" level="file">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">119</container>
+            <unittitle encodinganalog="245$a">Project 849-Entomology </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1947/1951">1947-1951</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50297" level="file">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">120</container>
+            <unittitle encodinganalog="245$a">Project 472-Hort. </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1947/1951">1947-1951</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50298" level="file">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">121</container>
+            <unittitle encodinganalog="245$a">Project 773-Chemistry </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1947/1952">1947-1952</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50299" level="file">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">122</container>
+            <unittitle encodinganalog="245$a">Project 640-Hort. </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1947/1952">1947-1952</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50300" level="file">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">123</container>
+            <unittitle encodinganalog="245$a">Project 244-Hort. </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1947/1952">1947-1952</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50301" level="file">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">124</container>
+            <unittitle encodinganalog="245$a">Project 460-Soil science </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1947/1953">1947-1953</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50302" level="file">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">125</container>
+            <unittitle encodinganalog="245$a">Project 903-Soil science </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1947/1954">1947-1954</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50303" level="file">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">126</container>
+            <unittitle encodinganalog="245$a">Project 536-Hort. </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1947/1957">1947-1957</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50304" level="file">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">127</container>
+            <unittitle encodinganalog="245$a">Project 944-Plant pathology </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1948/1954">1948-1954</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50305" level="file">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">128</container>
+            <unittitle encodinganalog="245$a">Project progress report-Hort. </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1948">1948</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50306" level="file">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">129</container>
+            <unittitle encodinganalog="245$a">Project progress report-Hort. </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1949">1949</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50307" level="file">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">130</container>
+            <unittitle encodinganalog="245$a">Project 1030-Hort. </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1949/1952">1949-1952</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50308" level="file">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">131</container>
+            <unittitle encodinganalog="245$a">Project 879-Hort. </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1951">1951</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50309" level="file">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">132</container>
+            <unittitle encodinganalog="245$a">Project 552-Soil science </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1951">1951</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50310" level="file">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">133</container>
+            <unittitle encodinganalog="245$a">Project 171 </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1951">1951</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50311" level="file">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">134</container>
+            <unittitle encodinganalog="245$a">Project 495-Hort. </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1951/1952">1951-1952</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50312" level="file">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">135</container>
+            <unittitle encodinganalog="245$a">Project 705-Hort. </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1951/1952">1951-1952</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50313" level="file">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">136</container>
+            <unittitle encodinganalog="245$a">Project 426-Hort. </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1951/1952">1951-1952</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50314" level="file">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">137</container>
+            <unittitle encodinganalog="245$a">Project 245-Hort. </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1951/1952">1951-1952</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50315" level="file">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">138</container>
+            <unittitle encodinganalog="245$a">Project 563-Entom. </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1951/1952">1951-1952</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50316" level="file">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">139</container>
+            <unittitle encodinganalog="245$a">Project 600-Hort. </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1951/1952">1951-1952</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50317" level="file">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">140</container>
+            <unittitle encodinganalog="245$a">Project 1026-Plant pathology </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1951/1952">1951-1952</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50318" level="file">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">141</container>
+            <unittitle encodinganalog="245$a">Project 909-Hort. </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1951/1952">1951-1952</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50319" level="file">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">142</container>
+            <unittitle encodinganalog="245$a">Air Purification </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1951/1952">1951-1952</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50320" level="file">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">143</container>
+            <unittitle encodinganalog="245$a">Project 880-Hort. </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1951/1952">1951-1952</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50321" level="file">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">144</container>
+            <unittitle encodinganalog="245$a">Project 524-Hort. </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1951/1952">1951-1952</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50322" level="file">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">145</container>
+            <unittitle encodinganalog="245$a">Project 797-Hort. </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1951/1952">1951-1952</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50323" level="file">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">146</container>
+            <unittitle encodinganalog="245$a">Project 791-Entom. </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1951/1953">1951-1953</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50324" level="file">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">147</container>
+            <unittitle encodinganalog="245$a">Project 1011-Soil Science </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1951/1953">1951-1953</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50325" level="file">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">148</container>
+            <unittitle encodinganalog="245$a">Project 451-Plant pathology </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1951/1954">1951-1954</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50326" level="file">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">149</container>
+            <unittitle encodinganalog="245$a">Project 1042-Plant pathology </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1951/1954">1951-1954</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50327" level="file">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">150</container>
+            <unittitle encodinganalog="245$a">Project 751-Soil science </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1951/1954">1951-1954</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50328" level="file">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">151</container>
+            <unittitle encodinganalog="245$a">Project 738-Hort. </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1951/1955">1951-1955</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50329" level="file">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">152</container>
+            <unittitle encodinganalog="245$a">Project 503-Handling and storage of fruits </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1951/1959">1951-1959</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50330" level="file">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">153</container>
+            <unittitle encodinganalog="245$a">Project 449-Plant pathology </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1951/1960">1951-1960</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50331" level="file">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">154</container>
+            <unittitle encodinganalog="245$a">Project 1103-Agronomy </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1951/1960">1951-1960</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50332" level="file">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">155</container>
+            <unittitle encodinganalog="245$a">Project 335-Hort., (USDA-WSC research projects) </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1951/1960">1951-1960</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50333" level="file">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">156</container>
+            <unittitle encodinganalog="245$a">Project 796-Snow mold (Wm. R. Fischer's project, formerly Roderick Sprague's project) </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1951/1961">1951-1961</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50334" level="file">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">157</container>
+            <unittitle encodinganalog="245$a">Project progress reports--fruit washing trials </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1952">1952</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50335" level="file">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">158</container>
+            <unittitle encodinganalog="245$a">Project W-6, New Plants </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1952">1952</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50336" level="file">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">159</container>
+            <unittitle encodinganalog="245$a">Apple juice studies </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1952/1953">1952-1953</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50337" level="file">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">160</container>
+            <unittitle encodinganalog="245$a">Bartlett pear experimental plot </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1953">1953</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50338" level="file">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">161</container>
+            <unittitle encodinganalog="245$a">Projects correspondence </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1952/1955">1952-1955</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50339" level="file">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">162</container>
+            <unittitle encodinganalog="245$a">Project 1169-Entom. </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1952/1955">1952-1955</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50340" level="file">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">163</container>
+            <unittitle encodinganalog="245$a">Old proposed projects </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1952/1959">1952-1959</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50341" level="file">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">164</container>
+            <unittitle encodinganalog="245$a">Project 590-Plant pathology </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1955">1955</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50342" level="file">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">165</container>
+            <unittitle encodinganalog="245$a">Red Bartlett project </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1955">1955</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50343" level="file">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">166</container>
+            <unittitle encodinganalog="245$a">New project-Premature, uneven ripening of peaches </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1955">1955</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50344" level="file">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">167</container>
+            <unittitle encodinganalog="245$a">Project 1244-Plant pathology </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1955/1958">1955-1958</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50345" level="file">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">168</container>
+            <unittitle encodinganalog="245$a">Project 1299-Dept. of Hort., E. S. Degman in charge </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1955/1960">1955-1960</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50346" level="file">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">169</container>
+            <unittitle encodinganalog="245$a">Project 1187-Entom. </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1955/1960">1955-1960</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50347" level="file">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">170</container>
+            <unittitle encodinganalog="245$a">Project 604-1956 </unittitle>
+          </did>
+        </c02>
+        <c02 id="G50348" level="file">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">171</container>
+            <unittitle encodinganalog="245$a">Apple varieties </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1956/1958">1956-1958</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50349" level="file">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">172</container>
+            <unittitle encodinganalog="245$a">Project 1337-Pear decline </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1956/1964">1956-1964</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50350" level="file">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">173</container>
+            <unittitle encodinganalog="245$a">Project 1417-L. P. Batjer, effect of pesticides and plant growth substances on tree foliage and fruit </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1958/1962">1958-1962</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50351" level="file">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">174</container>
+            <unittitle encodinganalog="245$a">Project 1504-Harvesting and handling apples in bulk bins </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1959/1962">1959-1962</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50352" level="file">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">175</container>
+            <unittitle encodinganalog="245$a">Project 1505-Storage of apples and pears </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1959/1962">1959-1962</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50353" level="file">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">176</container>
+            <unittitle encodinganalog="245$a">Lindner's project 1638-Mutagens from plant sources as antiviral agents </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1959/1968">1959-1968</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50354" level="file">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">177</container>
+            <unittitle encodinganalog="245$a">Project 1419-Bee poisoning </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1960">1960</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50355" level="file">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">178</container>
+            <unittitle encodinganalog="245$a">Lindner's project 1699-Indentification and mech. of action of pear psylla toxin. </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1965">1965</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50356" level="file">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">179</container>
+            <unittitle encodinganalog="245$a">WSU project 805- revised </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1968">1968</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50357" level="file">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">180</container>
+            <unittitle encodinganalog="245$a">Cherry cracking papers, (R. M. Bullock) </unittitle>
+          </did>
+        </c02>
+        <c02 id="G50358" level="file">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">181</container>
+            <unittitle encodinganalog="245$a">Project 999-Pectic substances </unittitle>
+          </did>
+        </c02>
+        <c02 id="G50359" level="file">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">182</container>
+            <unittitle encodinganalog="245$a">Project 1152-Hort. processing </unittitle>
+          </did>
+        </c02>
+        <c02 id="G50360" level="file">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">183</container>
+            <unittitle encodinganalog="245$a">USDA Weather Bureau-Annual report of frost fruit service, Okanogan, WA, season </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1931/1933">1931-1933</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50361" level="file">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">184</container>
+            <unittitle encodinganalog="245$a">Weather Bureau-Report on fruit frost work in Chelan Douglas and Grant, Springs </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f">1931, 1932, 1934-1935</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50362" level="file">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">185</container>
+            <unittitle encodinganalog="245$a">USDA Weather Bureau-Annual report of frost fruit service, Okanogan, WA, season </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1934/1935">1934-1935</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50363" level="file">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">186</container>
+            <unittitle encodinganalog="245$a">USDA Weather Bureau-Annual report of fruit-frost service, Wenatchee, WA, season </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1936">1936</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50364" level="file">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">187</container>
+            <unittitle encodinganalog="245$a">Annual report of fruit-frost service, Okanogan, season </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1936">1936</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50365" level="file">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">188</container>
+            <unittitle encodinganalog="245$a">Frost protection in the Wenatchee district </unittitle>
+          </did>
+        </c02>
+        <c02 id="G50366" level="file">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">189</container>
+            <unittitle encodinganalog="245$a">Annual report of minimum temperature forecast and fruit-frost investigations, Okanogan, season </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1937">1937</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50367" level="file">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">190</container>
+            <unittitle encodinganalog="245$a">USDA Weather Bureau-Annual report of fruit-frost service, Wenatchee, season </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1937/1938">1937-1938</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50368" level="file">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">191</container>
+            <unittitle encodinganalog="245$a">Annual report of minimum temperature forecast and fruit-frost investigation, Wenatchee District, season </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1939">1939</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50369" level="file">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">192</container>
+            <unittitle encodinganalog="245$a">Annual report of minimum temperature forecast and fruit-frost investigation, Okanogan District, season </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1939/1940">1939-1940</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50370" level="file">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">193</container>
+            <unittitle encodinganalog="245$a">USDA Weather Bureau-Annual report of fruit-frost service in Wenatchee District, season </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1940/1941">1940-1941</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50371" level="file">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">194</container>
+            <unittitle encodinganalog="245$a">Annual report of minimum temperature forecast and fruit-frost investigation, Okanogan District, season </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1941/1944">1941-1944</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50372" level="file">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">195</container>
+            <unittitle encodinganalog="245$a">Research data-Photosnthesis data, (Cornell Univ.) </unittitle>
+          </did>
+        </c02>
+        <c02 id="G50373" level="file">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">196</container>
+            <unittitle encodinganalog="245$a">Blossoming data </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1941/1963">1941-1963</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50374" level="file">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">197</container>
+            <unittitle encodinganalog="245$a">Blossoming data </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1941/1963">1941-1963</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50375" level="file">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">198</container>
+            <unittitle encodinganalog="245$a">USDA Weather Burea-Annual report of fruit-frost service in Wenatchee </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f">1942 season</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50376" level="file">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">199</container>
+            <unittitle encodinganalog="245$a">Annual report of minimum temperature forecast and fruit-frost investigation, Wentachee District, season </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1942">1942</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50377" level="file">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">200</container>
+            <unittitle encodinganalog="245$a">USDA Weather Bureau-Annual report of fruit-frost and forecast investigation, Wenatchee District </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f">1944 season</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50378" level="file">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">201</container>
+            <unittitle encodinganalog="245$a">Memo of understanding on virus studies </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1949">1949</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50379" level="file">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">202</container>
+            <unittitle encodinganalog="245$a">Research Initiative 171 </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1949/1953">1949-1953</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50380" level="file">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">203-204</container>
+            <unittitle encodinganalog="245$a">Naval research </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1951/1954">1951-1954</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50381" level="file">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">205</container>
+            <unittitle encodinganalog="245$a">Project 171 reports </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1951/1958">1951-1958</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50382" level="file">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">206</container>
+            <unittitle encodinganalog="245$a">Pear decline, Mt. Adams </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1952/1962">1952-1962</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50383" level="file">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">207</container>
+            <unittitle encodinganalog="245$a">Federal funds </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1953/1954">1953-1954</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50384" level="file">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">208</container>
+            <unittitle encodinganalog="245$a">Maturity data </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1954/1964">1954-1964</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50385" level="file">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">209</container>
+            <unittitle encodinganalog="245$a">Pear decline </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1958/1962">1958-1962</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50386" level="file">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">210</container>
+            <unittitle encodinganalog="245$a">Project # 865 revision </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1959">1959</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50387" level="file">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">211</container>
+            <unittitle encodinganalog="245$a">Research data-Purines, etc. </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1959/1962">1959-1962</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50388" level="file">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">212</container>
+            <unittitle encodinganalog="245$a">Pear decline </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1959/1965">1959-1965</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50389" level="file">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">213</container>
+            <unittitle encodinganalog="245$a">General weather </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1960/1963">1960-1963</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50390" level="file">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">214</container>
+            <unittitle encodinganalog="245$a">Pear Psylla Toxin </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1961/1962">1961-1962</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50391" level="file">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">215</container>
+            <unittitle encodinganalog="245$a">Pear decline </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1961/1964">1961-1964</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50392" level="file">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">216</container>
+            <unittitle encodinganalog="245$a">Psylla toxin data </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1962">1962</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50393" level="file">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">217</container>
+            <unittitle encodinganalog="245$a">Stem-Pitting, (Golden delicious decline) </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1962">1962</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50394" level="file">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">218</container>
+            <unittitle encodinganalog="245$a">Kinetin </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1962">1962</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50395" level="file">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">219</container>
+            <unittitle encodinganalog="245$a">Thirty year temperature means </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1962">1962</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50396" level="file">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">220</container>
+            <unittitle encodinganalog="245$a">Psylla partition </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1962">1962</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50397" level="file">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">221</container>
+            <unittitle encodinganalog="245$a">Psylla toxin </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1962">1962</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50398" level="file">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">222</container>
+            <unittitle encodinganalog="245$a">Pear viruses </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1963/1966">1963-1966</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50399" level="file">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">223</container>
+            <unittitle encodinganalog="245$a">Brandy </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1963/1964">1963-1964</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50400" level="file">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">224</container>
+            <unittitle encodinganalog="245$a">Research papers on pear decline </unittitle>
+          </did>
+        </c02>
+        <c02 id="G50401" level="file">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">225</container>
+            <unittitle encodinganalog="245$a">Pear decline, (Lindner) </unittitle>
+          </did>
+        </c02>
+        <c02 id="G50402" level="file">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">226</container>
+            <unittitle encodinganalog="245$a">Apple stocks and varieties </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1962/1964">1962-1964</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50403" level="file">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">227</container>
+            <unittitle encodinganalog="245$a">Stem-end Resselt of Goldens </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1963">1963</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50404" level="file">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">228</container>
+            <unittitle encodinganalog="245$a">Prosser pear decline </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1963">1963</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50405" level="file">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">229</container>
+            <unittitle encodinganalog="245$a">Starling control </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1963">1963</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50406" level="file">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">230</container>
+            <unittitle encodinganalog="245$a">Stony-pit </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1964">1964</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50407" level="file">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">231</container>
+            <unittitle encodinganalog="245$a">Research project 1834-interferon-like antiviral mechanism </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1965/1968">1965-1968</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50408" level="file">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">232</container>
+            <unittitle encodinganalog="245$a">Soil problems in Manson area </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1966">1966</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50409" level="file">
+          <did>
+            <container type="box">5</container>
+            <container type="folder">233</container>
+            <unittitle encodinganalog="245$a">Annual report of minimum temperature forecasts and fruit-frost surveys, Wenatchee, seasons </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1945/1952">1945-1952</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50410" level="file">
+          <did>
+            <container type="box">5</container>
+            <container type="folder">234</container>
+            <unittitle encodinganalog="245$a">Annual report of minimum temperature forecasts and fruit-frost surveys, Okanogan, seasons </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1945/1951">1945-1951</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50411" level="file">
+          <did>
+            <container type="box">5</container>
+            <container type="folder">235</container>
+            <unittitle encodinganalog="245$a">Annual report (1954-56)-equipment for production, harvesting, and orchard handlings of tree fruits </unittitle>
+          </did>
+        </c02>
+        <c02 id="G50412" level="file">
+          <did>
+            <container type="box">5</container>
+            <container type="folder">236</container>
+            <unittitle encodinganalog="245$a">Annual report (1956-58)-equipment for production, harvesting, and orchard handling of tree fruits </unittitle>
+          </did>
+        </c02>
+        <c02 id="G50413" level="file">
+          <did>
+            <container type="box">5</container>
+            <container type="folder">237</container>
+            <unittitle encodinganalog="245$a">Annual report (1958-59)- fruit harvesting and handling studies, Wenatchee, Project AE c3-9 and AE c3-10 </unittitle>
+          </did>
+        </c02>
+        <c02 id="G50414" level="file">
+          <did>
+            <container type="box">5</container>
+            <container type="folder">238</container>
+            <unittitle encodinganalog="245$a">Annual report (1959-61)-fruit harvesting, and handling studies, Wenatchee, Projects AE c3-9 and AE c3-10 </unittitle>
+          </did>
+        </c02>
+        <c02 id="G50415" level="file">
+          <did>
+            <container type="box">5</container>
+            <container type="folder">239</container>
+            <unittitle encodinganalog="245$a">Annual report (1961-62)-fruit harvesting, and handling studies, Wenatchee, Projects AE c3-9 and AE c3-10 </unittitle>
+          </did>
+        </c02>
+        <c02 id="G50416" level="file">
+          <did>
+            <container type="box">5</container>
+            <container type="folder">240</container>
+            <unittitle encodinganalog="245$a">Annual report (1962-63)-fruit harvesting and handling studies, Wenatchee, Projects AE c3-9 </unittitle>
+          </did>
+        </c02>
+        <c02 id="G50417" level="file">
+          <did>
+            <container type="box">5</container>
+            <container type="folder">241</container>
+            <unittitle encodinganalog="245$a">Reports of the Western Cooperative Oil Spray Project </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1927">1927</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50418" level="file">
+          <did>
+            <container type="box">5</container>
+            <container type="folder">242-258</container>
+            <unittitle encodinganalog="245$a">Reports of the WCOSP </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1928/1941">1928-1941</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50419" level="file">
+          <did>
+            <container type="box">6</container>
+            <container type="folder">259-275</container>
+            <unittitle encodinganalog="245$a">Reports of the WCOSP </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1942/1950">1942-1950</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50420" level="file">
+          <did>
+            <container type="box">6</container>
+            <container type="folder">276</container>
+            <unittitle encodinganalog="245$a">Papers-Burts Everett </unittitle>
+          </did>
+        </c02>
+        <c02 id="G50421" level="file">
+          <did>
+            <container type="box">6</container>
+            <container type="folder">277</container>
+            <unittitle encodinganalog="245$a">Papers-Ted Anthon </unittitle>
+          </did>
+        </c02>
+        <c02 id="G50422" level="file">
+          <did>
+            <container type="box">6</container>
+            <container type="folder">278</container>
+            <unittitle encodinganalog="245$a">Papers-Max W. Williams </unittitle>
+          </did>
+        </c02>
+        <c02 id="G50423" level="file">
+          <did>
+            <container type="box">6</container>
+            <container type="folder">279</container>
+            <unittitle encodinganalog="245$a">Papers and resume-R. P. Covey </unittitle>
+          </did>
+        </c02>
+        <c02 id="G50424" level="file">
+          <did>
+            <container type="box">6</container>
+            <container type="folder">280</container>
+            <unittitle encodinganalog="245$a">Papers-J. J. McRitchie </unittitle>
+          </did>
+        </c02>
+        <c02 id="G50425" level="file">
+          <did>
+            <container type="box">6</container>
+            <container type="folder">281</container>
+            <unittitle encodinganalog="245$a">Papers-Eakin Ko </unittitle>
+          </did>
+        </c02>
+        <c02 id="G50426" level="file">
+          <did>
+            <container type="box">6</container>
+            <container type="folder">282</container>
+            <unittitle encodinganalog="245$a">Publications and papers-R. Paul Larsen </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1968/1970">1968-1970</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50427" level="file">
+          <did>
+            <container type="box">6</container>
+            <container type="folder">283</container>
+            <unittitle encodinganalog="245$a">Papers-Bill Chennault </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1968/1970">1968-1970</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50428" level="file">
+          <did>
+            <container type="box">6</container>
+            <container type="folder">284</container>
+            <unittitle encodinganalog="245$a">Publications and papers-Del Ketchie </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1968/1970">1968-1970</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50429" level="file">
+          <did>
+            <container type="box">6</container>
+            <container type="folder">285</container>
+            <unittitle encodinganalog="245$a">Publications and papers-Stanley Hoyt, up to </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1970">1970</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50430" level="file">
+          <did>
+            <container type="box">6</container>
+            <container type="folder">286</container>
+            <unittitle encodinganalog="245$a">Publications-Hugh C. Kirkpatrick, up to </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1970">1970</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50431" level="file">
+          <did>
+            <container type="box">6</container>
+            <container type="folder">287</container>
+            <unittitle encodinganalog="245$a">Publications-Roderick Sprague </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1955">1955</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50432" level="file">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">288</container>
+            <unittitle encodinganalog="245$a">Papers-Nels Benson </unittitle>
+          </did>
+        </c02>
+        <c02 id="G50433" level="file">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">289-290</container>
+            <unittitle encodinganalog="245$a">Publications-Nels Benson </unittitle>
+          </did>
+        </c02>
+        <c02 id="G50434" level="file">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">291</container>
+            <unittitle encodinganalog="245$a">R. C. Lindner (1914-68)'s life story by Kirkpatrick </unittitle>
+          </did>
+        </c02>
+        <c02 id="G50435" level="file">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">292</container>
+            <unittitle encodinganalog="245$a">Request for Lindner's article "Chemical Tests in the Diagnosis of Plant Virus Disease" in the Botanical Review </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f">1961, 1961-1964</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50436" level="file">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">293</container>
+            <unittitle encodinganalog="245$a">Requests for Lindner's paper </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1959/1961">1959-1961</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50437" level="file">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">294</container>
+            <unittitle encodinganalog="245$a">(RNA) requests for Lindner's paper reprints </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1956/1964">1956-1964</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50438" level="file">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">295</container>
+            <unittitle encodinganalog="245$a">Requests for BIDS and Price Quotations </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1963/1966">1963-1966</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50439" level="file">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">296</container>
+            <unittitle encodinganalog="245$a">Requests for Lindner's reprints </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1955/1960">1955-1960</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50440" level="file">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">297</container>
+            <unittitle encodinganalog="245$a">Lindner's publication list </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1934/1965">1934-1965</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50441" level="file">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">298</container>
+            <unittitle encodinganalog="245$a">Lindner's publications (reprints) </unittitle>
+          </did>
+        </c02>
+        <c02 id="G50442" level="file">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">299</container>
+            <unittitle encodinganalog="245$a">Lindner correspondence A-B </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1965">1965</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50443" level="file">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">300</container>
+            <unittitle encodinganalog="245$a">Lindner correspondence with Agric. Extension Service </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1965/1967">1965-1967</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50444" level="file">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">301</container>
+            <unittitle encodinganalog="245$a">Lindner correspondence with Architect Office </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1965/1967">1965-1967</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50445" level="file">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">302</container>
+            <unittitle encodinganalog="245$a">Lindner correspondence re. annalytical methods </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1942/1962">1942-1962</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50446" level="file">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">303</container>
+            <unittitle encodinganalog="245$a">Lindner correspondence from Nels Benson </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1965/1966">1965-1966</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50447" level="file">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">304</container>
+            <unittitle encodinganalog="245$a">Lindner memo to budget office </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1964">1964</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50448" level="file">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">305</container>
+            <unittitle encodinganalog="245$a">Lindner correspondence C-Mc </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1965/1967">1965-1967</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50449" level="file">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">306</container>
+            <unittitle encodinganalog="245$a">Lindner correspondence with the Chamber of Commerce </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1964/1965">1964-1965</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50450" level="file">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">307</container>
+            <unittitle encodinganalog="245$a">Lindner correspondence re. color test </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1947/1959">1947-1959</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50451" level="file">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">308</container>
+            <unittitle encodinganalog="245$a">Lindner correspondence with Dept. of Entomology </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1965/1967">1965-1967</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50452" level="file">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">309</container>
+            <unittitle encodinganalog="245$a">Lindner correspondence with Dept. of Agric. Chemistry </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1966">1966</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50453" level="file">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">310</container>
+            <unittitle encodinganalog="245$a">Lindner correspondence with Dept. of Agric. Engineering </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1965/1966">1965-1966</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50454" level="file">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">311</container>
+            <unittitle encodinganalog="245$a">Lindner correspondence with Dept. of Horticulture </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1965/1967">1965-1967</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50455" level="file">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">312</container>
+            <unittitle encodinganalog="245$a">Lindner correspondence with Dept. of Plant Pathology </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1965/1967">1965-1967</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50456" level="file">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">313</container>
+            <unittitle encodinganalog="245$a">Lindner correspondence with misc. departments </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1965/1967">1965-1967</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50457" level="file">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">314</container>
+            <unittitle encodinganalog="245$a">Lindner correspondence re. German exchange students </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1963/1965">1963-1965</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50458" level="file">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">315</container>
+            <unittitle encodinganalog="245$a">Foreign correspondence </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1965/1967">1965-1967</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50459" level="file">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">316</container>
+            <unittitle encodinganalog="245$a">Lindner correspondence re. foreign visitors itinerary </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1965/1967">1965-1967</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50460" level="file">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">317</container>
+            <unittitle encodinganalog="245$a">Lindner correspondence M-W </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1965/1967">1965-1967</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50461" level="file">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">318</container>
+            <unittitle encodinganalog="245$a">Lindner correspondence with National Grape Cooperative Assoc. Inc. </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1960/1966">1960-1966</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50462" level="file">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">319</container>
+            <unittitle encodinganalog="245$a">Lindner correspondence with Prosser station </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1965/1967">1965-1967</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50463" level="file">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">320</container>
+            <unittitle encodinganalog="245$a">Lindner correspondence with Public Utility District </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1965/1967">1965-1967</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50464" level="file">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">321</container>
+            <unittitle encodinganalog="245$a">Lindner correspondence-Recommendation letters </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1967">1967</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50465" level="file">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">322</container>
+            <unittitle encodinganalog="245$a">Lindner correspondence with Research and Scholarship Foundation </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1965">1965</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50466" level="file">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">323</container>
+            <unittitle encodinganalog="245$a">Lindner correspondence with Staff Personnel Office </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1965/1967">1965-1967</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50467" level="file">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">324</container>
+            <unittitle encodinganalog="245$a">Lindner correspondence with Statistical Services </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1964/1965">1964-1965</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50468" level="file">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">325</container>
+            <unittitle encodinganalog="245$a">Lindner correspondence with S. C. Markley (Building and Grounds) </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1965/1966">1965-1966</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50469" level="file">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">326</container>
+            <unittitle encodinganalog="245$a">Lindner correspondence re. pear decline </unittitle>
+          </did>
+        </c02>
+        <c02 id="G50470" level="file">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">327</container>
+            <unittitle encodinganalog="245$a">Lindner correspondence with Southwestern Wash. E. S. (Vancouver) </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1966">1966</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50471" level="file">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">328</container>
+            <unittitle encodinganalog="245$a">Lindner correspondence re. Spectro-method reprints </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1951/1956">1951-1956</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50472" level="file">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">329</container>
+            <unittitle encodinganalog="245$a">Lindner's correspondence re. St!in Test </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1950/1958">1950-1958</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50473" level="file">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">330</container>
+            <unittitle encodinganalog="245$a">Lindner's correspondence with State Dept. of Health </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1966">1966</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50474" level="file">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">331</container>
+            <unittitle encodinganalog="245$a">Lindner correspondence with Wash. State Hort. Assoc. </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1966/1967">1966-1967</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50475" level="file">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">332</container>
+            <unittitle encodinganalog="245$a">Lindner corresponence re. surplus property </unittitle>
+          </did>
+        </c02>
+        <c02 id="G50476" level="file">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">333</container>
+            <unittitle encodinganalog="245$a">Lindner correspondence re. therapy </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1959/1962">1959-1962</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50477" level="file">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">334</container>
+            <unittitle encodinganalog="245$a">Lindner correspondence re. trip to Australia </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1966/1968">1966-1968</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50478" level="file">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">335</container>
+            <unittitle encodinganalog="245$a">Lindner correspondence with USDA various depts. </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1965/1967">1965-1967</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50479" level="file">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">336</container>
+            <unittitle encodinganalog="245$a">Lindner correspondence with USDA-Agric. Engineering Research Division </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1965/1967">1965-1967</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50480" level="file">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">337</container>
+            <unittitle encodinganalog="245$a">Lindner correspondence with US Public Health </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1966/1967">1966-1967</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50481" level="file">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">338</container>
+            <unittitle encodinganalog="245$a">Lindner correspondence with Wash. Apple Commission </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1966">1966</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50482" level="file">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">339</container>
+            <unittitle encodinganalog="245$a">Lindner correspondence with Western Wash. Exp. Station </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1965/1967">1965-1967</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50483" level="file">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">340</container>
+            <unittitle encodinganalog="245$a">Lindner correspondence with Wenatchee High School "On the Job" training </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1965">1965</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50484" level="file">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">341</container>
+            <unittitle encodinganalog="245$a">Lindner correspondence with Wenatchee-Wenoka Growers Inc. </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1966">1966</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50485" level="file">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">342</container>
+            <unittitle encodinganalog="245$a">Lindner correspondence with WSU director of research </unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 id="G50486" level="series">
+        <did>
+          <unittitle encodinganalog="245$a">Correspondence </unittitle>
+        </did>
+        <c02 id="G50487" level="file">
+          <did>
+            <container type="box">8</container>
+            <container type="folder">343-359</container>
+            <unittitle encodinganalog="245$a">A-U </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1961/1963">1961-1963</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50488" level="file">
+          <did>
+            <container type="box">8</container>
+            <container type="folder">360</container>
+            <unittitle encodinganalog="245$a">with US Dept. of Agric. </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1961/1963">1961-1963</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50489" level="file">
+          <did>
+            <container type="box">8</container>
+            <container type="folder">361</container>
+            <unittitle encodinganalog="245$a">with USDA Agric. Engineering-S. W. McBirney </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1961/1963">1961-1963</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50490" level="file">
+          <did>
+            <container type="box">8</container>
+            <container type="folder">362</container>
+            <unittitle encodinganalog="245$a">with US Weather Bureau </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1961/1963">1961-1963</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50491" level="file">
+          <did>
+            <container type="box">8</container>
+            <container type="folder">363</container>
+            <unittitle encodinganalog="245$a">V-Z </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1961/1963">1961-1963</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50492" level="file">
+          <did>
+            <container type="box">8</container>
+            <container type="folder">364</container>
+            <unittitle encodinganalog="245$a">with various depts. of Wash. state </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1961/1963">1961-1963</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50493" level="file">
+          <did>
+            <container type="box">8</container>
+            <container type="folder">365</container>
+            <unittitle encodinganalog="245$a">with Wash. State Hort. Assoc. </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1961/1963">1961-1963</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50494" level="file">
+          <did>
+            <container type="box">8</container>
+            <container type="folder">366</container>
+            <unittitle encodinganalog="245$a">with Whirlpool corporation </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1962">1962</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50495" level="file">
+          <did>
+            <container type="box">8</container>
+            <container type="folder">367</container>
+            <unittitle encodinganalog="245$a">with WSU President French </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1961/1963">1961-1963</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50496" level="file">
+          <did>
+            <container type="box">8</container>
+            <container type="folder">368</container>
+            <unittitle encodinganalog="245$a">re. purchasng office </unittitle>
+          </did>
+        </c02>
+        <c02 id="G50497" level="file">
+          <did>
+            <container type="box">8</container>
+            <container type="folder">369</container>
+            <unittitle encodinganalog="245$a">to staff and personnel office </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1961/1963">1961-1963</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50498" level="file">
+          <did>
+            <container type="box">8</container>
+            <container type="folder">370</container>
+            <unittitle encodinganalog="245$a">memo to Keene, Philip (Architect office) </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1962">1962</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50499" level="file">
+          <did>
+            <container type="box">8</container>
+            <container type="folder">371</container>
+            <unittitle encodinganalog="245$a">with Controller's office </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1961/1963">1961-1963</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50500" level="file">
+          <did>
+            <container type="box">8</container>
+            <container type="folder">372</container>
+            <unittitle encodinganalog="245$a">with Controller's office (voucher approval) </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1961/1963">1961-1963</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50501" level="file">
+          <did>
+            <container type="box">8</container>
+            <container type="folder">373</container>
+            <unittitle encodinganalog="245$a">with retirement and insurance-Controller's office James Anderson </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1961/1963">1961-1963</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50502" level="file">
+          <did>
+            <container type="box">8</container>
+            <container type="folder">374</container>
+            <unittitle encodinganalog="245$a">with Graduate School-Dean D. S. Farner </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1962/1963">1962-1963</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50503" level="file">
+          <did>
+            <container type="box">8</container>
+            <container type="folder">375</container>
+            <unittitle encodinganalog="245$a">re. utility and accident reports </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1961/1963">1961-1963</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50504" level="file">
+          <did>
+            <container type="box">8</container>
+            <container type="folder">376</container>
+            <unittitle encodinganalog="245$a">with Agric. Exp. Stations, Lowell Rasmussen, assistant director </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1961/1963">1961-1963</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50505" level="file">
+          <did>
+            <container type="box">8</container>
+            <container type="folder">377</container>
+            <unittitle encodinganalog="245$a">re. buildings and grounds </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1961/1963">1961-1963</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50506" level="file">
+          <did>
+            <container type="box">8</container>
+            <container type="folder">378</container>
+            <unittitle encodinganalog="245$a">with Agric. Exp. Stations, Mason Milter, Editor, Assist. to Director George A. Bowman, Asst. Editor </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1962">1962</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50507" level="file">
+          <did>
+            <container type="box">8</container>
+            <container type="folder">379</container>
+            <unittitle encodinganalog="245$a">with Institute of Agric. Sciences </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1961/1962">1961-1962</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50508" level="file">
+          <did>
+            <container type="box">8</container>
+            <container type="folder">380</container>
+            <unittitle encodinganalog="245$a">with Agric. Exp. Stations, (Leonard Youg, Ass't. to Director </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1961/1963">1961-1963</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50509" level="file">
+          <did>
+            <container type="box">8</container>
+            <container type="folder">381</container>
+            <unittitle encodinganalog="245$a">with Agric. College </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1961/1963">1961-1963</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50510" level="file">
+          <did>
+            <container type="box">8</container>
+            <container type="folder">382</container>
+            <unittitle encodinganalog="245$a">with Agric. Exp. Stations, Mark Buchanan, Director </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1961/1963">1961-1963</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50511" level="file">
+          <did>
+            <container type="box">8</container>
+            <container type="folder">383</container>
+            <unittitle encodinganalog="245$a">with Agric. Exp. Stations, Walter Zuger, Financial Officer </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1961/1963">1961-1963</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50512" level="file">
+          <did>
+            <container type="box">8</container>
+            <container type="folder">384</container>
+            <unittitle encodinganalog="245$a">with Western Wash. Exp. Station, Puyallup </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1961/1963">1961-1963</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50513" level="file">
+          <did>
+            <container type="box">8</container>
+            <container type="folder">385</container>
+            <unittitle encodinganalog="245$a">with Dept. of Agric. Chemistry </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1963">1963</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50514" level="file">
+          <did>
+            <container type="box">8</container>
+            <container type="folder">386</container>
+            <unittitle encodinganalog="245$a">with Dept. of Agronomy </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1961/1963">1961-1963</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50515" level="file">
+          <did>
+            <container type="box">8</container>
+            <container type="folder">387</container>
+            <unittitle encodinganalog="245$a">with Dept. of Agric. Engineering </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1961/1962">1961-1962</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50516" level="file">
+          <did>
+            <container type="box">8</container>
+            <container type="folder">388</container>
+            <unittitle encodinganalog="245$a">with Irrigation Exp. Station, Prosser </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1961/1963">1961-1963</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50517" level="file">
+          <did>
+            <container type="box">8</container>
+            <container type="folder">389</container>
+            <unittitle encodinganalog="245$a">with Southwestern Exp. Station, Vancouver </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1961/1962">1961-1962</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50518" level="file">
+          <did>
+            <container type="box">8</container>
+            <container type="folder">390</container>
+            <unittitle encodinganalog="245$a">with Western Wash. Exp. Station, Mt. Vernon </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1961/1963">1961-1963</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50519" level="file">
+          <did>
+            <container type="box">8</container>
+            <container type="folder">391</container>
+            <unittitle encodinganalog="245$a">with Controller's Office </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1961/1963">1961-1963</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50520" level="file">
+          <did>
+            <container type="box">8</container>
+            <container type="folder">392</container>
+            <unittitle encodinganalog="245$a">with Dept. of Entomology </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1961/1963">1961-1963</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50521" level="file">
+          <did>
+            <container type="box">8</container>
+            <container type="folder">393</container>
+            <unittitle encodinganalog="245$a">with Dept. of Horticulture </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1961/1963">1961-1963</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50522" level="file">
+          <did>
+            <container type="box">8</container>
+            <container type="folder">394</container>
+            <unittitle encodinganalog="245$a">with WSU Hort. Extension Service </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1961/1963">1961-1963</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50523" level="file">
+          <did>
+            <container type="box">8</container>
+            <container type="folder">395</container>
+            <unittitle encodinganalog="245$a">with US Public Health </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1962">1962</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50524" level="file">
+          <did>
+            <container type="box">8</container>
+            <container type="folder">396</container>
+            <unittitle encodinganalog="245$a">with Dept. of Plant Pathology </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1961/1963">1961-1963</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50525" level="file">
+          <did>
+            <container type="box">8</container>
+            <container type="folder">397</container>
+            <unittitle encodinganalog="245$a">with misc. WSU depts. </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1961/1962">1961-1962</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50526" level="file">
+          <did>
+            <container type="box">8</container>
+            <container type="folder">398</container>
+            <unittitle encodinganalog="245$a">with WSU Controller's office </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1964/1971">1964-1971</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50527" level="file">
+          <did>
+            <container type="box">8</container>
+            <container type="folder">399</container>
+            <unittitle encodinganalog="245$a">with General Stores </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1965/1966">1965-1966</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50528" level="file">
+          <did>
+            <container type="box">8</container>
+            <container type="folder">400</container>
+            <unittitle encodinganalog="245$a">re. pear rootstocks </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1965/1969">1965-1969</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50529" level="file">
+          <did>
+            <container type="box">8</container>
+            <container type="folder">401</container>
+            <unittitle encodinganalog="245$a">Correspondence of finance officer (Zuger and Forbes) </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1965/1967">1965-1967</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50530" level="file">
+          <did>
+            <container type="box">8</container>
+            <container type="folder">402</container>
+            <unittitle encodinganalog="245$a">Correspondence of Ass't. to Director, Leonard Young </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1965/1967">1965-1967</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50531" level="file">
+          <did>
+            <container type="box">8</container>
+            <container type="folder">403</container>
+            <unittitle encodinganalog="245$a">re. motor pool </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1965/1967">1965-1967</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50532" level="file">
+          <did>
+            <container type="box">8</container>
+            <container type="folder">404</container>
+            <unittitle encodinganalog="245$a">Carl Pettibone's correspondence </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1963/1965">1963-1965</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50533" level="file">
+          <did>
+            <container type="box">8</container>
+            <container type="folder">405</container>
+            <unittitle encodinganalog="245$a">with WSU Payroll Office </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1965/1966">1965-1966</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50534" level="file">
+          <did>
+            <container type="box">8</container>
+            <container type="folder">406</container>
+            <unittitle encodinganalog="245$a">with WSU President and Vice President </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1965/1967">1965-1967</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50535" level="file">
+          <did>
+            <container type="box">8</container>
+            <container type="folder">407</container>
+            <unittitle encodinganalog="245$a">Correspondence of Ass't. Director Harold Singleton </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1965/1967">1965-1967</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50536" level="file">
+          <did>
+            <container type="box">9</container>
+            <container type="folder">408</container>
+            <unittitle encodinganalog="245$a">Correspondence with Louis L. Madsen (Dean of College of Agric. WSU) </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1965/1967">1965-1967</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50537" level="file">
+          <did>
+            <container type="box">9</container>
+            <container type="folder">409</container>
+            <unittitle encodinganalog="245$a">with Agric. Extension Service </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1965/1967">1965-1967</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50538" level="file">
+          <did>
+            <container type="box">9</container>
+            <container type="folder">410</container>
+            <unittitle encodinganalog="245$a">with Department of Agronomy </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1965/1967">1965-1967</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50539" level="file">
+          <did>
+            <container type="box">9</container>
+            <container type="folder">410</container>
+            <unittitle encodinganalog="245$a">Hobby's correspondence </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1965">1965</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50540" level="file">
+          <did>
+            <container type="box">9</container>
+            <container type="folder">411</container>
+            <unittitle encodinganalog="245$a">Jim Eakin's correspondence </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1965/1967">1965-1967</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50541" level="file">
+          <did>
+            <container type="box">9</container>
+            <container type="folder">412</container>
+            <unittitle encodinganalog="245$a">Chennault correspondence </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1966/1967">1966-1967</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50542" level="file">
+          <did>
+            <container type="box">9</container>
+            <container type="folder">413</container>
+            <unittitle encodinganalog="245$a">Chmelir (Senior Exp. Aide)'s correspondence </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1965/1967">1965-1967</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50543" level="file">
+          <did>
+            <container type="box">9</container>
+            <container type="folder">414</container>
+            <unittitle encodinganalog="245$a">with the Purchasing Office of WSU </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1965/1969">1965-1969</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50544" level="file">
+          <did>
+            <container type="box">9</container>
+            <container type="folder">415</container>
+            <unittitle encodinganalog="245$a">with Ext. Station's editor </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1966">1966</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50545" level="file">
+          <did>
+            <container type="box">9</container>
+            <container type="folder">416</container>
+            <unittitle encodinganalog="245$a">Kirkpatrick's correspondence with Abdul Hamild of Dept. of Plant Pathology </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1965/1966">1965-1966</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50546" level="file">
+          <did>
+            <container type="box">9</container>
+            <container type="folder">417</container>
+            <unittitle encodinganalog="245$a">Kirkpatrick's correspondence </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1967">1967</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50547" level="file">
+          <did>
+            <container type="box">9</container>
+            <container type="folder">418</container>
+            <unittitle encodinganalog="245$a">with Wash. State Hort. Assoc. </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1967/1968">1967-1968</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50548" level="file">
+          <did>
+            <container type="box">9</container>
+            <container type="folder">419</container>
+            <unittitle encodinganalog="245$a">with Manson Irrigation Advisory Committee </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1968/1969">1968-1969</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50549" level="file">
+          <did>
+            <container type="box">9</container>
+            <container type="folder">420</container>
+            <unittitle encodinganalog="245$a">Benson correspondence A-W </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1966/1967">1966-1967</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50550" level="file">
+          <did>
+            <container type="box">9</container>
+            <container type="folder">421</container>
+            <unittitle encodinganalog="245$a">Benson correspondence C-L </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1967/1969">1967-1969</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50551" level="file">
+          <did>
+            <container type="box">9</container>
+            <container type="folder">422</container>
+            <unittitle encodinganalog="245$a">Benson correspondence S-W </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1967/1969">1967-1969</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50552" level="file">
+          <did>
+            <container type="box">9</container>
+            <container type="folder">423</container>
+            <unittitle encodinganalog="245$a">Benson correspondence M-R </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1967/1969">1967-1969</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50553" level="file">
+          <did>
+            <container type="box">9</container>
+            <container type="folder">424</container>
+            <unittitle encodinganalog="245$a">Correspondence with Dept. of Water Resources, (Fiedler) </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1969">1969</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50554" level="file">
+          <did>
+            <container type="box">9</container>
+            <container type="folder">425</container>
+            <unittitle encodinganalog="245$a">re. apple quarantine (Japan) </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1969">1969</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50555" level="file">
+          <did>
+            <container type="box">9</container>
+            <container type="folder">426-440</container>
+            <unittitle encodinganalog="245$a">Correspondence A-W </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1969">1969</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50556" level="file">
+          <did>
+            <container type="box">9</container>
+            <container type="folder">441-452</container>
+            <unittitle encodinganalog="245$a">Correspondence A-R </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1970">1970</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50557" level="file">
+          <did>
+            <container type="box">10</container>
+            <container type="folder">453-456</container>
+            <unittitle encodinganalog="245$a">Correspondence, R-Z </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1970">1970</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50558" level="file">
+          <did>
+            <container type="box">10</container>
+            <container type="folder">457-474</container>
+            <unittitle encodinganalog="245$a">Correspondence A-Z </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1971">1971</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50559" level="subseries">
+          <did>
+            <unittitle encodinganalog="245$a">Correspondence </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1968">1968</unitdate>
+          </did>
+          <c03 id="G50560" level="file">
+            <did>
+              <container type="box">10</container>
+              <container type="folder">475</container>
+              <unittitle encodinganalog="245$a">-Anthon, Ted </unittitle>
+            </did>
+          </c03>
+          <c03 id="G50561" level="file">
+            <did>
+              <container type="box">10</container>
+              <container type="folder">476</container>
+              <unittitle encodinganalog="245$a">-Benson, Nels </unittitle>
+            </did>
+          </c03>
+          <c03 id="G50562" level="file">
+            <did>
+              <container type="box">10</container>
+              <container type="folder">477</container>
+              <unittitle encodinganalog="245$a">-Burts, Everett </unittitle>
+            </did>
+          </c03>
+          <c03 id="G50563" level="file">
+            <did>
+              <container type="box">10</container>
+              <container type="folder">478</container>
+              <unittitle encodinganalog="245$a">-Covey, Ron </unittitle>
+            </did>
+          </c03>
+          <c03 id="G50564" level="file">
+            <did>
+              <container type="box">10</container>
+              <container type="folder">479</container>
+              <unittitle encodinganalog="245$a">-Hoyt, Stan </unittitle>
+            </did>
+          </c03>
+          <c03 id="G50565" level="file">
+            <did>
+              <container type="box">10</container>
+              <container type="folder">480</container>
+              <unittitle encodinganalog="245$a">-Ketchie, Del </unittitle>
+            </did>
+          </c03>
+          <c03 id="G50566" level="file">
+            <did>
+              <container type="box">10</container>
+              <container type="folder">481</container>
+              <unittitle encodinganalog="245$a">-Kirkpatrick, Hugh </unittitle>
+            </did>
+          </c03>
+          <c03 id="G50567" level="file">
+            <did>
+              <container type="box">10</container>
+              <container type="folder">482</container>
+              <unittitle encodinganalog="245$a">-McRitchie, Jack </unittitle>
+            </did>
+          </c03>
+          <c03 id="G50568" level="file">
+            <did>
+              <container type="box">10</container>
+              <container type="folder">483</container>
+              <unittitle encodinganalog="245$a">-Stevens, Amie </unittitle>
+            </did>
+          </c03>
+          <c03 id="G50569" level="file">
+            <did>
+              <container type="box">10</container>
+              <container type="folder">484</container>
+              <unittitle encodinganalog="245$a">-Sabbatical leave (Stan Hoyt) </unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 id="G50570" level="subseries">
+          <did>
+            <unittitle encodinganalog="245$a">Correspondence </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1969">1969</unitdate>
+          </did>
+          <c03 id="G50571" level="file">
+            <did>
+              <container type="box">10</container>
+              <container type="folder">485</container>
+              <unittitle encodinganalog="245$a">-Anthon </unittitle>
+            </did>
+          </c03>
+          <c03 id="G50572" level="file">
+            <did>
+              <container type="box">10</container>
+              <container type="folder">486</container>
+              <unittitle encodinganalog="245$a">-Benson, Nels </unittitle>
+            </did>
+          </c03>
+          <c03 id="G50573" level="file">
+            <did>
+              <container type="box">10</container>
+              <container type="folder">487</container>
+              <unittitle encodinganalog="245$a">-Burts, Everett </unittitle>
+            </did>
+          </c03>
+          <c03 id="G50574" level="file">
+            <did>
+              <container type="box">10</container>
+              <container type="folder">488</container>
+              <unittitle encodinganalog="245$a">-Covey, Ron </unittitle>
+            </did>
+          </c03>
+          <c03 id="G50575" level="file">
+            <did>
+              <container type="box">10</container>
+              <container type="folder">489</container>
+              <unittitle encodinganalog="245$a">-Hoyt, Stan </unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 id="G50576" level="subseries">
+          <did>
+            <unittitle encodinganalog="245$a">Correspondence </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1970">1970</unitdate>
+          </did>
+          <c03 id="G50577" level="file">
+            <did>
+              <container type="box">10</container>
+              <container type="folder">490</container>
+              <unittitle encodinganalog="245$a">-Ketchie, Del </unittitle>
+            </did>
+          </c03>
+          <c03 id="G50578" level="file">
+            <did>
+              <container type="box">10</container>
+              <container type="folder">491</container>
+              <unittitle encodinganalog="245$a">-Stenvens, Arnie </unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 id="G50579" level="subseries">
+          <did>
+            <unittitle encodinganalog="245$a">Correspondence </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1971">1971</unitdate>
+          </did>
+          <c03 id="G50580" level="file">
+            <did>
+              <container type="box">10</container>
+              <container type="folder">492</container>
+              <unittitle encodinganalog="245$a">-Anthon, Ted </unittitle>
+            </did>
+          </c03>
+          <c03 id="G50581" level="file">
+            <did>
+              <container type="box">10</container>
+              <container type="folder">493</container>
+              <unittitle encodinganalog="245$a">-Benson, Nels </unittitle>
+            </did>
+          </c03>
+          <c03 id="G50582" level="file">
+            <did>
+              <container type="box">10</container>
+              <container type="folder">494</container>
+              <unittitle encodinganalog="245$a">-Burts, Everett </unittitle>
+            </did>
+          </c03>
+          <c03 id="G50583" level="file">
+            <did>
+              <container type="box">11</container>
+              <container type="folder">495</container>
+              <unittitle encodinganalog="245$a">-Covey, Ron </unittitle>
+            </did>
+          </c03>
+          <c03 id="G50584" level="file">
+            <did>
+              <container type="box">11</container>
+              <container type="folder">497</container>
+              <unittitle encodinganalog="245$a">-Hoyt, Stan </unittitle>
+            </did>
+          </c03>
+          <c03 id="G50585" level="file">
+            <did>
+              <container type="box">11</container>
+              <container type="folder">498</container>
+              <unittitle encodinganalog="245$a">-Ketchie, Del </unittitle>
+            </did>
+          </c03>
+          <c03 id="G50586" level="file">
+            <did>
+              <container type="box">11</container>
+              <container type="folder">499</container>
+              <unittitle encodinganalog="245$a">-Misc. </unittitle>
+            </did>
+          </c03>
+          <c03 id="G50587" level="file">
+            <did>
+              <container type="box">11</container>
+              <container type="folder">500</container>
+              <unittitle encodinganalog="245$a">-Stevens, Arnie </unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 id="G50588" level="subseries">
+          <did>
+            <unittitle encodinganalog="245$a">Correspondence </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1972">1972</unitdate>
+          </did>
+          <c03 id="G50589" level="file">
+            <did>
+              <container type="box">11</container>
+              <container type="folder">501</container>
+              <unittitle encodinganalog="245$a">-Anthon </unittitle>
+            </did>
+          </c03>
+          <c03 id="G50590" level="file">
+            <did>
+              <container type="box">11</container>
+              <container type="folder">502</container>
+              <unittitle encodinganalog="245$a">-Benson </unittitle>
+            </did>
+          </c03>
+          <c03 id="G50591" level="file">
+            <did>
+              <container type="box">11</container>
+              <container type="folder">503</container>
+              <unittitle encodinganalog="245$a">-Burts </unittitle>
+            </did>
+          </c03>
+          <c03 id="G50592" level="file">
+            <did>
+              <container type="box">11</container>
+              <container type="folder">504</container>
+              <unittitle encodinganalog="245$a">-Chmelir </unittitle>
+            </did>
+          </c03>
+          <c03 id="G50593" level="file">
+            <did>
+              <container type="box">11</container>
+              <container type="folder">505</container>
+              <unittitle encodinganalog="245$a">-Covey </unittitle>
+            </did>
+          </c03>
+          <c03 id="G50594" level="file">
+            <did>
+              <container type="box">11</container>
+              <container type="folder">506</container>
+              <unittitle encodinganalog="245$a">-Chennault </unittitle>
+            </did>
+          </c03>
+          <c03 id="G50595" level="file">
+            <did>
+              <container type="box">11</container>
+              <container type="folder">507</container>
+              <unittitle encodinganalog="245$a">-Hoyt </unittitle>
+            </did>
+          </c03>
+          <c03 id="G50596" level="file">
+            <did>
+              <container type="box">11</container>
+              <container type="folder">508</container>
+              <unittitle encodinganalog="245$a">-Ketchie </unittitle>
+            </did>
+          </c03>
+          <c03 id="G50597" level="file">
+            <did>
+              <container type="box">11</container>
+              <container type="folder">509</container>
+              <unittitle encodinganalog="245$a">-Misc. </unittitle>
+            </did>
+          </c03>
+          <c03 id="G50598" level="file">
+            <did>
+              <container type="box">11</container>
+              <container type="folder">510</container>
+              <unittitle encodinganalog="245$a">-Stevens </unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 id="G50600" level="file">
+          <did>
+            <container type="box">11</container>
+            <container type="folder">511-525</container>
+            <unittitle encodinganalog="245$a">Correspondence and Memos A-R </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1972">1972</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50601" level="file">
+          <did>
+            <container type="box">11</container>
+            <container type="folder">526</container>
+            <unittitle encodinganalog="245$a">Memos Nordquist, D. J. </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1970/1972">1970-1972</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50602" level="file">
+          <did>
+            <container type="box">11</container>
+            <container type="folder">527</container>
+            <unittitle encodinganalog="245$a">Memos Oldenstadt, Dr. Dennis </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1972">1972</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50603" level="file">
+          <did>
+            <container type="box">11</container>
+            <container type="folder">528</container>
+            <unittitle encodinganalog="245$a">Memos re. Quarantine Permit </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1970/1972">1970-1972</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50604" level="file">
+          <did>
+            <container type="box">11</container>
+            <container type="folder">529</container>
+            <unittitle encodinganalog="245$a">Memos re. Washington Plant Quarantines </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1970/1972">1970-1972</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50605" level="file">
+          <did>
+            <container type="box">11</container>
+            <container type="folder">530</container>
+            <unittitle encodinganalog="245$a">Memos Shaw, Gardner </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1971/1972">1971-1972</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50606" level="file">
+          <did>
+            <container type="box">11</container>
+            <container type="folder">531</container>
+            <unittitle encodinganalog="245$a">Memos Shelton, V. L.-Finance </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1971/1972">1971-1972</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50607" level="file">
+          <did>
+            <container type="box">11</container>
+            <container type="folder">532</container>
+            <unittitle encodinganalog="245$a">Memos Smith A. H. (re. Sabbatical leave) </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1971/1972">1971-1972</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50608" level="file">
+          <did>
+            <container type="box">11</container>
+            <container type="folder">533</container>
+            <unittitle encodinganalog="245$a">Correspondence S-T </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1972">1972</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50609" level="file">
+          <did>
+            <container type="box">11</container>
+            <container type="folder">534</container>
+            <unittitle encodinganalog="245$a">Correspondence President Terrell </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1972">1972</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50610" level="file">
+          <did>
+            <container type="box">11</container>
+            <container type="folder">535</container>
+            <unittitle encodinganalog="245$a">Correspondence Tukey R. B. </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1972">1972</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50611" level="file">
+          <did>
+            <container type="box">11</container>
+            <container type="folder">536</container>
+            <unittitle encodinganalog="245$a">Correspondence U, W, Z </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1972">1972</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50612" level="subseries">
+          <did>
+            <container type="box">11</container>
+            <container type="folder">537-560</container>
+            <unittitle encodinganalog="245$a">Larson Correspondence </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1973">1973</unitdate>
+          </did>
+          <c03 id="G50613" level="file">
+            <did>
+              <container type="box">11</container>
+              <container type="folder">502</container>
+              <unittitle encodinganalog="245$a">-Benson </unittitle>
+            </did>
+          </c03>
+          <c03 id="G50614" level="file">
+            <did>
+              <container type="box">11</container>
+              <container type="folder">503</container>
+              <unittitle encodinganalog="245$a">-Burts </unittitle>
+            </did>
+          </c03>
+          <c03 id="G50615" level="file">
+            <did>
+              <container type="box">11</container>
+              <container type="folder">504</container>
+              <unittitle encodinganalog="245$a">-Chmelir </unittitle>
+            </did>
+          </c03>
+          <c03 id="G50616" level="file">
+            <did>
+              <container type="box">11</container>
+              <container type="folder">505</container>
+              <unittitle encodinganalog="245$a">-Covey </unittitle>
+            </did>
+          </c03>
+          <c03 id="G50617" level="file">
+            <did>
+              <container type="box">11</container>
+              <container type="folder">506</container>
+              <unittitle encodinganalog="245$a">-Chennault </unittitle>
+            </did>
+          </c03>
+          <c03 id="G50618" level="file">
+            <did>
+              <container type="box">11</container>
+              <container type="folder">507</container>
+              <unittitle encodinganalog="245$a">-Hoyt </unittitle>
+            </did>
+          </c03>
+          <c03 id="G50619" level="file">
+            <did>
+              <container type="box">11</container>
+              <container type="folder">508</container>
+              <unittitle encodinganalog="245$a">-Ketchie </unittitle>
+            </did>
+          </c03>
+          <c03 id="G50620" level="file">
+            <did>
+              <container type="box">11</container>
+              <container type="folder">509</container>
+              <unittitle encodinganalog="245$a">-Misc. </unittitle>
+            </did>
+          </c03>
+          <c03 id="G50621" level="file">
+            <did>
+              <container type="box">11</container>
+              <container type="folder">510</container>
+              <unittitle encodinganalog="245$a">-Stevens </unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 id="G50623" level="file">
+          <did>
+            <container type="box">11</container>
+            <container type="folder">511-525</container>
+            <unittitle encodinganalog="245$a">Correspondence and Memos A-R </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1972">1972</unitdate>
+          </did>
+        </c02>
+        <c02 id="G50624" level="file">
+          <did>
+            <container type="box">11</container>
+            <container type="folder">526</container>
+            <unittitle encodinganalog="245$a">Memos Nordquist, D. J. </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1970/1972">1970-1972</unitdate>
+          </did>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

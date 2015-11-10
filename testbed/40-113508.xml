@@ -1,0 +1,367 @@
+<?xml version="1.0" standalone="no"?>
+
+<!-- ======== DO NOT MODIFY THIS INFORMATION!!! =======  -->
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<?xml-stylesheet type="text/xsl" href="webead.xsl"?>
+<!-- =============================================== -->
+
+<ead audience="external" relatedencoding="MARC">
+	<eadheader audience="internal" countryencoding="iso3166-1" dateencoding="iso8601"
+		langencoding="iso639-2" repositoryencoding="iso15511" scriptencoding="iso15924">
+		<eadid countrycode="us" mainagencycode="MnHi"
+			><?replace_text {fileName, or delete if there is no file name}?></eadid>
+
+		<filedesc>
+			<titlestmt>
+				<titleproper>Benton County, Minnesota: </titleproper>
+				<subtitle>An Inventory of Telephone Directories at the Minnesota Historical Society</subtitle> 
+				<author>Finding aid prepared by Sue Sutliff.</author>
+			</titlestmt>
+
+			<publicationstmt>
+				<publisher encodinganalog="Publisher">Minnesota Historical Society</publisher>
+				<address><addressline>St. Paul, MN.</addressline></address>
+			</publicationstmt>
+
+		             <seriesstmt><p>Books and Periodicals</p></seriesstmt>         </filedesc>
+
+		<profiledesc>
+			<creation>Finding aid encoded by Steve Krause,
+					<date>May 2011.</date>
+			</creation>
+
+			<langusage>Finding aid written in <language langcode="eng">English</language>
+			</langusage>
+
+		</profiledesc>
+
+	</eadheader>
+	
+	<archdesc level="collection" type="inventory" relatedencoding="MARC">
+		<did>
+			<head id="a1">OVERVIEW</head>
+			<unitid countrycode="US" repositorycode="MnHi"> </unitid>
+
+			<repository label="Repository:">Minnesota Historical Society</repository>
+
+			<unittitle label="Title:" encodinganalog="245$a"
+				>Collection of telephone directories for cities in Benton County, Minnesota.</unittitle>
+
+			<!-- NOTE TO PROCESSOR: Change normal="yyyy/yyyy" to give the span dates of the collection. -->
+			<unitdate label="Date:" encodinganalog="245$f" normal="1893/2004" type="inclusive"
+				>1893-.</unitdate>
+			
+			<langmaterial label="Language of Materials">Materials in <language langcode="eng"
+					>English.</language>
+			</langmaterial>
+
+
+			<abstract label="Abstract:">A collection of telephone directories for cities in Benton County, Minnesota. Telephone directories are published by telephone companies and include alphabetical listings of residential and business phone numbers and street addresses in the white pages, and a listing of businesses arranged by subject in the yellow pages. Each entry on the inventory lists the city name, year of coverage, and the shelf number of the printed volume or microfiche set which includes that city. </abstract>
+
+			<physdesc label="Quantity:" encodinganalog="300">
+				Approximately 171 volumes and 79 sets of microfiche. </physdesc>
+			
+			<physloc label="Location:">See <ref target="a9">Detailed Description</ref> for
+				shelf locations.</physloc>
+		</did>
+
+		<descgrp type="admininfo">
+			<head id="a8">ADMINISTRATIVE INFORMATION</head>
+
+			<prefercite encodinganalog="524">
+				<head>Preferred Citation:</head>
+				<p><emph render="italic">[Indicate the cited item and/or series here]</emph>.
+					Benton County, Minnesota : An Inventory of Telephone Directories at the Minnesota Historical Society. Minnesota Historical Society.</p>
+				<p>
+					<emph render="italic">See the Chicago Manual of Style for additional
+						examples.</emph>
+				</p>
+			</prefercite>
+
+			<processinfo>
+				<head>Processing Information:</head>
+				<p>Catalog ID number: 001668162</p>
+				
+			</processinfo>
+			
+		</descgrp>
+
+		<controlaccess>
+			<head id="a7">CATALOG HEADINGS</head>
+			<p>This collection is indexed under the following headings in the catalog of the
+				Minnesota Historical Society. Researchers desiring materials about related topics,
+				persons or places should <extref linktype="simple" show="new"
+					href="http://mnhs.mnpals.net"> search the catalog</extref> using these
+				headings.</p>
+			
+			<controlaccess>
+				<head>Places:</head>
+				<geogname encodinganalog="651">Benton County (Minn.) -- Telephone directories. </geogname>
+				<geogname encodinganalog="651">Duelm (Minn.) -- Telephone directories. </geogname>
+				<geogname encodinganalog="651">Foley (Minn.) -- Telephone directories. </geogname>
+				<geogname encodinganalog="651">Gilman (Minn.) -- Telephone directories. </geogname>
+				<geogname encodinganalog="651">Glendorado (Minn.) -- Telephone directories. </geogname>
+				<geogname encodinganalog="651">Oak Park (Benton County, Minn.) -- Telephone directories. </geogname>
+				<geogname encodinganalog="651">Rice (Minn.) -- Telephone directories. </geogname>
+				<geogname encodinganalog="651">Ronneby (Minn.) -- Telephone directories. </geogname>
+				<geogname encodinganalog="651">Sauk Rapids (Minn.) -- Telephone directories. </geogname>
+			</controlaccess>
+
+		</controlaccess>
+
+		<dsc type="combined">
+			<head id="a9">DETAILED DESCRIPTION</head>
+		
+			<c01 level="series"><did><unittitle>Duelm</unittitle></did><scopecontent><table><tgroup cols="3"><tbody><row><entry colname="1">Year</entry><entry colname="2">Fiche</entry><entry colname="3">Print</entry></row>
+				<row><entry colname="1">1984</entry><entry colname="2">---</entry><entry colname="3">2848</entry></row>
+				<row><entry colname="1">1986</entry><entry colname="2">---</entry><entry colname="3">2849</entry></row>
+				<row><entry colname="1">1987</entry><entry colname="2">---</entry><entry colname="3">2850</entry></row>
+				<row><entry colname="1">1988</entry><entry colname="2">---</entry><entry colname="3">2851</entry></row>
+				<row><entry colname="1">1989</entry><entry colname="2">654</entry><entry colname="3">2852</entry></row>
+				<row><entry colname="1">1990</entry><entry colname="2">655</entry><entry colname="3">2853</entry></row>
+				<row><entry colname="1">1990</entry><entry colname="2">---</entry><entry colname="3">2469</entry></row>
+				<row><entry colname="1">1991</entry><entry colname="2">844</entry><entry colname="3">---</entry></row>
+				<row><entry colname="1">1991</entry><entry colname="2">---</entry><entry colname="3">2470</entry></row>
+				<row><entry colname="1">1995</entry><entry colname="2">845</entry><entry colname="3">---</entry></row>
+				<row><entry colname="1">1996</entry><entry colname="2">846</entry><entry colname="3">---</entry></row>
+				<row><entry colname="1">1997</entry><entry colname="2">847</entry><entry colname="3">---</entry></row>
+				<row><entry colname="1">1999</entry><entry colname="2">1069</entry><entry colname="3">---</entry></row>
+				<row><entry colname="1">2000</entry><entry colname="2">1070</entry><entry colname="3">---</entry></row>
+				<row><entry colname="1">2004</entry><entry colname="2">1134</entry><entry colname="3">---</entry></row></tbody></tgroup></table></scopecontent></c01>
+			<c01 level="series"><did><unittitle>Foley</unittitle></did><scopecontent><table><tgroup cols="3"><tbody><row><entry colname="1">Year</entry><entry colname="2">Fiche</entry><entry colname="3">Print</entry></row>
+				<row><entry colname="1">1938</entry><entry colname="2">---</entry><entry colname="3">2819</entry></row>
+				<row><entry colname="1">1944</entry><entry colname="2">---</entry><entry colname="3">2820</entry></row>
+				<row><entry colname="1">1945</entry><entry colname="2">---</entry><entry colname="3">2821</entry></row>
+				<row><entry colname="1">1946</entry><entry colname="2">---</entry><entry colname="3">2822</entry></row>
+				<row><entry colname="1">1947</entry><entry colname="2">---</entry><entry colname="3">2823</entry></row>
+				<row><entry colname="1">1952</entry><entry colname="2">---</entry><entry colname="3">2824</entry></row>
+				<row><entry colname="1">1954</entry><entry colname="2">---</entry><entry colname="3">1395</entry></row>
+				<row><entry colname="1">1960</entry><entry colname="2">---</entry><entry colname="3">1396</entry></row>
+				<row><entry colname="1">1962</entry><entry colname="2">---</entry><entry colname="3">2832</entry></row>
+				<row><entry colname="1">1963</entry><entry colname="2">---</entry><entry colname="3">2833</entry></row>
+				<row><entry colname="1">1964</entry><entry colname="2">---</entry><entry colname="3">2834</entry></row>
+				<row><entry colname="1">1965</entry><entry colname="2">---</entry><entry colname="3">2835</entry></row>
+				<row><entry colname="1">1966</entry><entry colname="2">---</entry><entry colname="3">2836</entry></row>
+				<row><entry colname="1">1967</entry><entry colname="2">---</entry><entry colname="3">2837</entry></row>
+				<row><entry colname="1">1970</entry><entry colname="2">---</entry><entry colname="3">2838</entry></row>
+				<row><entry colname="1">1971</entry><entry colname="2">---</entry><entry colname="3">2839</entry></row>
+				<row><entry colname="1">1972</entry><entry colname="2">---</entry><entry colname="3">2840</entry></row>
+				<row><entry colname="1">1973</entry><entry colname="2">---</entry><entry colname="3">2841</entry></row>
+				<row><entry colname="1">1974</entry><entry colname="2">---</entry><entry colname="3">2842</entry></row>
+				<row><entry colname="1">1975</entry><entry colname="2">---</entry><entry colname="3">2843</entry></row>
+				<row><entry colname="1">1977</entry><entry colname="2">---</entry><entry colname="3">2844</entry></row>
+				<row><entry colname="1">1978</entry><entry colname="2">---</entry><entry colname="3">2845</entry></row>
+				<row><entry colname="1">1979</entry><entry colname="2">---</entry><entry colname="3">2846</entry></row>
+				<row><entry colname="1">1980</entry><entry colname="2">---</entry><entry colname="3">2847</entry></row>
+				<row><entry colname="1">1984</entry><entry colname="2">---</entry><entry colname="3">2848</entry></row>
+				<row><entry colname="1">1986</entry><entry colname="2">---</entry><entry colname="3">2849</entry></row>
+				<row><entry colname="1">1987</entry><entry colname="2">---</entry><entry colname="3">2850</entry></row>
+				<row><entry colname="1">1988</entry><entry colname="2">---</entry><entry colname="3">2851</entry></row>
+				<row><entry colname="1">1989</entry><entry colname="2">654</entry><entry colname="3">2852</entry></row>
+				<row><entry colname="1">1990</entry><entry colname="2">655</entry><entry colname="3">2853</entry></row>
+				<row><entry colname="1">1990</entry><entry colname="2">---</entry><entry colname="3">2469</entry></row>
+				<row><entry colname="1">1991</entry><entry colname="2">844</entry><entry colname="3">---</entry></row>
+				<row><entry colname="1">1991</entry><entry colname="2">---</entry><entry colname="3">2470</entry></row>
+				<row><entry colname="1">1995</entry><entry colname="2">845</entry><entry colname="3">---</entry></row>
+				<row><entry colname="1">1996</entry><entry colname="2">846</entry><entry colname="3">---</entry></row>
+				<row><entry colname="1">1997</entry><entry colname="2">847</entry><entry colname="3">---</entry></row>
+				<row><entry colname="1">1999</entry><entry colname="2">1069</entry><entry colname="3">---</entry></row>
+				<row><entry colname="1">2000</entry><entry colname="2">1070</entry><entry colname="3">---</entry></row>
+				<row><entry colname="1">2004</entry><entry colname="2">1134</entry><entry colname="3">---</entry></row></tbody></tgroup></table></scopecontent></c01>
+			<c01 level="series"><did><unittitle>Gilman</unittitle></did><scopecontent><table><tgroup cols="3"><tbody><row><entry colname="1">Year</entry><entry colname="2">Fiche</entry><entry colname="3">Print</entry></row>
+				<row><entry colname="1">1960</entry><entry colname="2">---</entry><entry colname="3">1396</entry></row>
+				<row><entry colname="1">1962</entry><entry colname="2">---</entry><entry colname="3">2832</entry></row>
+				<row><entry colname="1">1963</entry><entry colname="2">---</entry><entry colname="3">2833</entry></row>
+				<row><entry colname="1">1964</entry><entry colname="2">---</entry><entry colname="3">2834</entry></row>
+				<row><entry colname="1">1965</entry><entry colname="2">---</entry><entry colname="3">2835</entry></row>
+				<row><entry colname="1">1966</entry><entry colname="2">---</entry><entry colname="3">2836</entry></row>
+				<row><entry colname="1">1967</entry><entry colname="2">---</entry><entry colname="3">2837</entry></row>
+				<row><entry colname="1">1970</entry><entry colname="2">---</entry><entry colname="3">2838</entry></row>
+				<row><entry colname="1">1971</entry><entry colname="2">---</entry><entry colname="3">2839</entry></row>
+				<row><entry colname="1">1972</entry><entry colname="2">---</entry><entry colname="3">2840</entry></row>
+				<row><entry colname="1">1973</entry><entry colname="2">---</entry><entry colname="3">2841</entry></row>
+				<row><entry colname="1">1974</entry><entry colname="2">---</entry><entry colname="3">2842</entry></row>
+				<row><entry colname="1">1975</entry><entry colname="2">---</entry><entry colname="3">2843</entry></row>
+				<row><entry colname="1">1977</entry><entry colname="2">---</entry><entry colname="3">2844</entry></row>
+				<row><entry colname="1">1978</entry><entry colname="2">---</entry><entry colname="3">2845</entry></row>
+				<row><entry colname="1">1979</entry><entry colname="2">---</entry><entry colname="3">2846</entry></row>
+				<row><entry colname="1">1980</entry><entry colname="2">---</entry><entry colname="3">2847</entry></row>
+				<row><entry colname="1">1984</entry><entry colname="2">---</entry><entry colname="3">2848</entry></row>
+				<row><entry colname="1">1986</entry><entry colname="2">---</entry><entry colname="3">2849</entry></row>
+				<row><entry colname="1">1987</entry><entry colname="2">---</entry><entry colname="3">2850</entry></row>
+				<row><entry colname="1">1988</entry><entry colname="2">---</entry><entry colname="3">2851</entry></row>
+				<row><entry colname="1">1989</entry><entry colname="2">654</entry><entry colname="3">2852</entry></row>
+				<row><entry colname="1">1990</entry><entry colname="2">655</entry><entry colname="3">2853</entry></row>
+				<row><entry colname="1">1991</entry><entry colname="2">844</entry><entry colname="3">---</entry></row>
+				<row><entry colname="1">1995</entry><entry colname="2">845</entry><entry colname="3">---</entry></row>
+				<row><entry colname="1">1996</entry><entry colname="2">846</entry><entry colname="3">---</entry></row>
+				<row><entry colname="1">1997</entry><entry colname="2">847</entry><entry colname="3">---</entry></row>
+				<row><entry colname="1">1999</entry><entry colname="2">1069</entry><entry colname="3">---</entry></row>
+				<row><entry colname="1">2000</entry><entry colname="2">1070</entry><entry colname="3">---</entry></row>
+				<row><entry colname="1">2004</entry><entry colname="2">1134</entry><entry colname="3">---</entry></row></tbody></tgroup></table></scopecontent></c01>
+			<c01 level="series"><did><unittitle>Glendorado</unittitle></did><scopecontent><table><tgroup cols="3"><tbody><row><entry colname="1">Year</entry><entry colname="2">Fiche</entry><entry colname="3">Print</entry></row>
+				<row><entry colname="1">1960</entry><entry colname="2">---</entry><entry colname="3">1465</entry></row>
+				<row><entry colname="1">1961</entry><entry colname="2">---</entry><entry colname="3">1466</entry></row>
+				<row><entry colname="1">1962</entry><entry colname="2">---</entry><entry colname="3">2832</entry></row>
+				<row><entry colname="1">1963</entry><entry colname="2">---</entry><entry colname="3">2833</entry></row>
+				<row><entry colname="1">1964</entry><entry colname="2">---</entry><entry colname="3">2834</entry></row>
+				<row><entry colname="1">1965</entry><entry colname="2">---</entry><entry colname="3">2835</entry></row>
+				<row><entry colname="1">1966</entry><entry colname="2">---</entry><entry colname="3">2836</entry></row>
+				<row><entry colname="1">1967</entry><entry colname="2">---</entry><entry colname="3">2837</entry></row>
+				<row><entry colname="1">1970</entry><entry colname="2">---</entry><entry colname="3">2838</entry></row>
+				<row><entry colname="1">1971</entry><entry colname="2">---</entry><entry colname="3">2839</entry></row>
+				<row><entry colname="1">1972</entry><entry colname="2">---</entry><entry colname="3">2840</entry></row>
+				<row><entry colname="1">1973</entry><entry colname="2">---</entry><entry colname="3">2841</entry></row>
+				<row><entry colname="1">1974</entry><entry colname="2">---</entry><entry colname="3">2842</entry></row>
+				<row><entry colname="1">1975</entry><entry colname="2">---</entry><entry colname="3">2843</entry></row>
+				<row><entry colname="1">1977</entry><entry colname="2">---</entry><entry colname="3">2844</entry></row>
+				<row><entry colname="1">1978</entry><entry colname="2">---</entry><entry colname="3">2845</entry></row>
+				<row><entry colname="1">1979</entry><entry colname="2">---</entry><entry colname="3">2846</entry></row>
+				<row><entry colname="1">1979</entry><entry colname="2">---</entry><entry colname="3">508</entry></row>
+				<row><entry colname="1">1980</entry><entry colname="2">---</entry><entry colname="3">2847</entry></row>
+				<row><entry colname="1">1984</entry><entry colname="2">---</entry><entry colname="3">2848</entry></row>
+				<row><entry colname="1">1986</entry><entry colname="2">---</entry><entry colname="3">2849</entry></row>
+				<row><entry colname="1">1987</entry><entry colname="2">---</entry><entry colname="3">2850</entry></row>
+				<row><entry colname="1">1988</entry><entry colname="2">---</entry><entry colname="3">2851</entry></row>
+				<row><entry colname="1">1989</entry><entry colname="2">654</entry><entry colname="3">2852</entry></row>
+				<row><entry colname="1">1990</entry><entry colname="2">655</entry><entry colname="3">2853</entry></row>
+				<row><entry colname="1">1990</entry><entry colname="2">---</entry><entry colname="3">2469</entry></row>
+				<row><entry colname="1">1991</entry><entry colname="2">844</entry><entry colname="3">---</entry></row>
+				<row><entry colname="1">1991</entry><entry colname="2">---</entry><entry colname="3">2470</entry></row>
+				<row><entry colname="1">1995</entry><entry colname="2">845</entry><entry colname="3">---</entry></row>
+				<row><entry colname="1">1996</entry><entry colname="2">846</entry><entry colname="3">---</entry></row>
+				<row><entry colname="1">1997</entry><entry colname="2">847</entry><entry colname="3">---</entry></row>
+				<row><entry colname="1">1999</entry><entry colname="2">1069</entry><entry colname="3">---</entry></row>
+				<row><entry colname="1">2000</entry><entry colname="2">1070</entry><entry colname="3">---</entry></row>
+				<row><entry colname="1">2004</entry><entry colname="2">1134</entry><entry colname="3">---</entry></row></tbody></tgroup></table></scopecontent></c01>
+			<c01 level="series"><did><unittitle>Oak Park</unittitle></did><scopecontent><table><tgroup cols="3"><tbody><row><entry colname="1">Year</entry><entry colname="2">Fiche</entry><entry colname="3">Print</entry></row>
+				<row><entry colname="1">1984</entry><entry colname="2">---</entry><entry colname="3">2848</entry></row>
+				<row><entry colname="1">1986</entry><entry colname="2">---</entry><entry colname="3">2849</entry></row>
+				<row><entry colname="1">1987</entry><entry colname="2">---</entry><entry colname="3">2850</entry></row>
+				<row><entry colname="1">1988</entry><entry colname="2">---</entry><entry colname="3">2851</entry></row>
+				<row><entry colname="1">1989</entry><entry colname="2">654</entry><entry colname="3">2852</entry></row>
+				<row><entry colname="1">1990</entry><entry colname="2">655</entry><entry colname="3">2853</entry></row>
+				<row><entry colname="1">1990</entry><entry colname="2">---</entry><entry colname="3">2469</entry></row>
+				<row><entry colname="1">1991</entry><entry colname="2">844</entry><entry colname="3">---</entry></row>
+				<row><entry colname="1">1991</entry><entry colname="2">---</entry><entry colname="3">2470</entry></row>
+				<row><entry colname="1">1995</entry><entry colname="2">845</entry><entry colname="3">---</entry></row>
+				<row><entry colname="1">1996</entry><entry colname="2">846</entry><entry colname="3">---</entry></row>
+				<row><entry colname="1">1997</entry><entry colname="2">847</entry><entry colname="3">---</entry></row>
+				<row><entry colname="1">1999</entry><entry colname="2">1069</entry><entry colname="3">---</entry></row>
+				<row><entry colname="1">2000</entry><entry colname="2">1070</entry><entry colname="3">---</entry></row>
+				<row><entry colname="1">2004</entry><entry colname="2">1134</entry><entry colname="3">---</entry></row></tbody></tgroup></table></scopecontent></c01>
+			<c01 level="series"><did><unittitle>Rice</unittitle></did><scopecontent><table><tgroup cols="3"><tbody><row><entry colname="1">Year</entry><entry colname="2">Fiche</entry><entry colname="3">Print</entry></row>
+				<row><entry colname="1">1960</entry><entry colname="2">---</entry><entry colname="3">2830</entry></row>
+				<row><entry colname="1">1961</entry><entry colname="2">---</entry><entry colname="3">2831</entry></row>
+				<row><entry colname="1">1962</entry><entry colname="2">---</entry><entry colname="3">2832</entry></row>
+				<row><entry colname="1">1963</entry><entry colname="2">---</entry><entry colname="3">1939</entry></row>
+				<row><entry colname="1">1963</entry><entry colname="2">---</entry><entry colname="3">2833</entry></row>
+				<row><entry colname="1">1964</entry><entry colname="2">---</entry><entry colname="3">1940</entry></row>
+				<row><entry colname="1">1964</entry><entry colname="2">---</entry><entry colname="3">2834</entry></row>
+				<row><entry colname="1">1965</entry><entry colname="2">---</entry><entry colname="3">1941</entry></row>
+				<row><entry colname="1">1965</entry><entry colname="2">---</entry><entry colname="3">2835</entry></row>
+				<row><entry colname="1">1966</entry><entry colname="2">---</entry><entry colname="3">1942</entry></row>
+				<row><entry colname="1">1966</entry><entry colname="2">---</entry><entry colname="3">2836</entry></row>
+				<row><entry colname="1">1967</entry><entry colname="2">---</entry><entry colname="3">1943</entry></row>
+				<row><entry colname="1">1967</entry><entry colname="2">---</entry><entry colname="3">2837</entry></row>
+				<row><entry colname="1">1968</entry><entry colname="2">---</entry><entry colname="3">1944</entry></row>
+				<row><entry colname="1">1969</entry><entry colname="2">---</entry><entry colname="3">1945</entry></row>
+				<row><entry colname="1">1970</entry><entry colname="2">---</entry><entry colname="3">1946</entry></row>
+				<row><entry colname="1">1970</entry><entry colname="2">---</entry><entry colname="3">2838</entry></row>
+				<row><entry colname="1">1971</entry><entry colname="2">---</entry><entry colname="3">1947</entry></row>
+				<row><entry colname="1">1971</entry><entry colname="2">---</entry><entry colname="3">2839</entry></row>
+				<row><entry colname="1">1972</entry><entry colname="2">---</entry><entry colname="3">1948</entry></row>
+				<row><entry colname="1">1972</entry><entry colname="2">---</entry><entry colname="3">2840</entry></row>
+				<row><entry colname="1">1973</entry><entry colname="2">---</entry><entry colname="3">1949</entry></row>
+				<row><entry colname="1">1973</entry><entry colname="2">---</entry><entry colname="3">2841</entry></row>
+				<row><entry colname="1">1974</entry><entry colname="2">---</entry><entry colname="3">1950</entry></row>
+				<row><entry colname="1">1974</entry><entry colname="2">---</entry><entry colname="3">2842</entry></row>
+				<row><entry colname="1">1975</entry><entry colname="2">---</entry><entry colname="3">1951</entry></row>
+				<row><entry colname="1">1975</entry><entry colname="2">---</entry><entry colname="3">2843</entry></row>
+				<row><entry colname="1">1976</entry><entry colname="2">---</entry><entry colname="3">1952</entry></row>
+				<row><entry colname="1">1977</entry><entry colname="2">---</entry><entry colname="3">2844</entry></row>
+				<row><entry colname="1">1978</entry><entry colname="2">---</entry><entry colname="3">1953</entry></row>
+				<row><entry colname="1">1978</entry><entry colname="2">---</entry><entry colname="3">2845</entry></row>
+				<row><entry colname="1">1979</entry><entry colname="2">---</entry><entry colname="3">1954</entry></row>
+				<row><entry colname="1">1979</entry><entry colname="2">---</entry><entry colname="3">2846</entry></row>
+				<row><entry colname="1">1980</entry><entry colname="2">---</entry><entry colname="3">1955</entry></row>
+				<row><entry colname="1">1980</entry><entry colname="2">---</entry><entry colname="3">2847</entry></row>
+				<row><entry colname="1">1981</entry><entry colname="2">---</entry><entry colname="3">1956</entry></row>
+				<row><entry colname="1">1982</entry><entry colname="2">---</entry><entry colname="3">1957</entry></row>
+				<row><entry colname="1">1983</entry><entry colname="2">---</entry><entry colname="3">1958</entry></row>
+				<row><entry colname="1">1984</entry><entry colname="2">---</entry><entry colname="3">1959</entry></row>
+				<row><entry colname="1">1984</entry><entry colname="2">---</entry><entry colname="3">2848</entry></row>
+				<row><entry colname="1">1985</entry><entry colname="2">---</entry><entry colname="3">1960</entry></row>
+				<row><entry colname="1">1986</entry><entry colname="2">---</entry><entry colname="3">2849</entry></row>
+				<row><entry colname="1">1987</entry><entry colname="2">617</entry><entry colname="3">1961</entry></row>
+				<row><entry colname="1">1987</entry><entry colname="2">---</entry><entry colname="3">2850</entry></row>
+				<row><entry colname="1">1988</entry><entry colname="2">618</entry><entry colname="3">---</entry></row>
+				<row><entry colname="1">1988</entry><entry colname="2">---</entry><entry colname="3">2851</entry></row>
+				<row><entry colname="1">1989</entry><entry colname="2">693</entry><entry colname="3">1962</entry></row>
+				<row><entry colname="1">1989</entry><entry colname="2">654</entry><entry colname="3">2852</entry></row>
+				<row><entry colname="1">1990</entry><entry colname="2">---</entry><entry colname="3">1963</entry></row>
+				<row><entry colname="1">1990</entry><entry colname="2">655</entry><entry colname="3">2853</entry></row>
+				<row><entry colname="1">1991</entry><entry colname="2">798</entry><entry colname="3">---</entry></row>
+				<row><entry colname="1">1991</entry><entry colname="2">844</entry><entry colname="3">---</entry></row>
+				<row><entry colname="1">1995</entry><entry colname="2">799</entry><entry colname="3">---</entry></row>
+				<row><entry colname="1">1995</entry><entry colname="2">845</entry><entry colname="3">---</entry></row>
+				<row><entry colname="1">1996</entry><entry colname="2">800</entry><entry colname="3">---</entry></row>
+				<row><entry colname="1">1996</entry><entry colname="2">846</entry><entry colname="3">---</entry></row>
+				<row><entry colname="1">1997</entry><entry colname="2">873</entry><entry colname="3">---</entry></row>
+				<row><entry colname="1">1997</entry><entry colname="2">847</entry><entry colname="3">---</entry></row>
+				<row><entry colname="1">1998</entry><entry colname="2">1014</entry><entry colname="3">---</entry></row>
+				<row><entry colname="1">1999</entry><entry colname="2">1060</entry><entry colname="3">---</entry></row>
+				<row><entry colname="1">1999</entry><entry colname="2">1069</entry><entry colname="3">---</entry></row>
+				<row><entry colname="1">2000</entry><entry colname="2">1070</entry><entry colname="3">---</entry></row>
+				<row><entry colname="1">2004</entry><entry colname="2">1134</entry><entry colname="3">---</entry></row>
+				<row><entry colname="1">2004</entry><entry colname="2">1122</entry><entry colname="3">---</entry></row></tbody></tgroup></table></scopecontent></c01>
+			<c01 level="series"><did><unittitle>Ronneby</unittitle></did><scopecontent><table><tgroup cols="3"><tbody><row><entry colname="1">Year</entry><entry colname="2">Fiche</entry><entry colname="3">Print</entry></row>
+				<row><entry colname="1">1984</entry><entry colname="2">---</entry><entry colname="3">2848</entry></row>
+				<row><entry colname="1">1986</entry><entry colname="2">---</entry><entry colname="3">2849</entry></row>
+				<row><entry colname="1">1987</entry><entry colname="2">---</entry><entry colname="3">2850</entry></row>
+				<row><entry colname="1">1988</entry><entry colname="2">---</entry><entry colname="3">2851</entry></row>
+				<row><entry colname="1">1989</entry><entry colname="2">654</entry><entry colname="3">2852</entry></row>
+				<row><entry colname="1">1990</entry><entry colname="2">655</entry><entry colname="3">2853</entry></row>
+				<row><entry colname="1">1990</entry><entry colname="2">---</entry><entry colname="3">2469</entry></row>
+				<row><entry colname="1">1991</entry><entry colname="2">844</entry><entry colname="3">---</entry></row>
+				<row><entry colname="1">1991</entry><entry colname="2">---</entry><entry colname="3">2470</entry></row>
+				<row><entry colname="1">1995</entry><entry colname="2">845</entry><entry colname="3">---</entry></row>
+				<row><entry colname="1">1996</entry><entry colname="2">846</entry><entry colname="3">---</entry></row>
+				<row><entry colname="1">1997</entry><entry colname="2">847</entry><entry colname="3">---</entry></row>
+				<row><entry colname="1">1999</entry><entry colname="2">1069</entry><entry colname="3">---</entry></row>
+				<row><entry colname="1">2000</entry><entry colname="2">1070</entry><entry colname="3">---</entry></row>
+				<row><entry colname="1">2004</entry><entry colname="2">1134</entry><entry colname="3">---</entry></row></tbody></tgroup></table></scopecontent></c01>
+			<c01 level="series"><did><unittitle>Sauk Rapids</unittitle></did><scopecontent><table><tgroup cols="3"><tbody><row><entry colname="1">Year</entry><entry colname="2">Fiche</entry><entry colname="3">Print</entry></row>
+				<row><entry colname="1">1893</entry><entry colname="2">---</entry><entry colname="3">2910</entry></row>
+				<row><entry colname="1">1938</entry><entry colname="2">---</entry><entry colname="3">2819</entry></row>
+				<row><entry colname="1">1944</entry><entry colname="2">---</entry><entry colname="3">2820</entry></row>
+				<row><entry colname="1">1945</entry><entry colname="2">---</entry><entry colname="3">2821</entry></row>
+				<row><entry colname="1">1946</entry><entry colname="2">---</entry><entry colname="3">2822</entry></row>
+				<row><entry colname="1">1947</entry><entry colname="2">---</entry><entry colname="3">2823</entry></row>
+				<row><entry colname="1">1952</entry><entry colname="2">---</entry><entry colname="3">2824</entry></row>
+				<row><entry colname="1">1953</entry><entry colname="2">---</entry><entry colname="3">2825</entry></row>
+				<row><entry colname="1">1954</entry><entry colname="2">---</entry><entry colname="3">2826</entry></row>
+				<row><entry colname="1">1955</entry><entry colname="2">---</entry><entry colname="3">2827</entry></row>
+				<row><entry colname="1">1957</entry><entry colname="2">---</entry><entry colname="3">2828</entry></row>
+				<row><entry colname="1">1959</entry><entry colname="2">---</entry><entry colname="3">2829</entry></row>
+				<row><entry colname="1">1960</entry><entry colname="2">---</entry><entry colname="3">2830</entry></row>
+				<row><entry colname="1">1961</entry><entry colname="2">---</entry><entry colname="3">2831</entry></row>
+				<row><entry colname="1">1962</entry><entry colname="2">---</entry><entry colname="3">2832</entry></row>
+				<row><entry colname="1">1963</entry><entry colname="2">---</entry><entry colname="3">2833</entry></row>
+				<row><entry colname="1">1984</entry><entry colname="2">---</entry><entry colname="3">2848</entry></row>
+				<row><entry colname="1">1986</entry><entry colname="2">---</entry><entry colname="3">2849</entry></row>
+				<row><entry colname="1">1987</entry><entry colname="2">---</entry><entry colname="3">2850</entry></row>
+				<row><entry colname="1">1988</entry><entry colname="2">---</entry><entry colname="3">2851</entry></row>
+				<row><entry colname="1">1989</entry><entry colname="2">654</entry><entry colname="3">2852</entry></row>
+				<row><entry colname="1">1990</entry><entry colname="2">655</entry><entry colname="3">2853</entry></row>
+				<row><entry colname="1">1991</entry><entry colname="2">844</entry><entry colname="3">---</entry></row>
+				<row><entry colname="1">1995</entry><entry colname="2">845</entry><entry colname="3">---</entry></row>
+				<row><entry colname="1">1996</entry><entry colname="2">846</entry><entry colname="3">---</entry></row>
+				<row><entry colname="1">1997</entry><entry colname="2">847</entry><entry colname="3">---</entry></row>
+				<row><entry colname="1">1999</entry><entry colname="2">1069</entry><entry colname="3">---</entry></row>
+				<row><entry colname="1">2000</entry><entry colname="2">1070</entry><entry colname="3">---</entry></row>
+				<row><entry colname="1">2004</entry><entry colname="2">1134</entry><entry colname="3">---</entry></row></tbody></tgroup></table></scopecontent></c01>
+			
+		</dsc>
+	</archdesc>
+</ead>

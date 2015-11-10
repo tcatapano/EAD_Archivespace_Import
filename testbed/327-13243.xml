@@ -1,0 +1,463 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead audience="external" relatedencoding="MARC21">
+  <eadheader langencoding="iso639-2b" audience="internal" countryencoding="iso3166-1"
+    dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924"
+    relatedencoding="MARC21">
+    <eadid mainagencycode="DSI-AI" countrycode="us"
+      identifier="http://siarchives.si.edu/findingaids/FARU9552.xml" encodinganalog="856$u">
+      http://siarchives.si.edu/findingaids/FARU9552.xml</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper encodinganalog="245$a">Robotics Interviews, <date>1989-1990</date></titleproper>
+        <author encodinganalog="245$c">Finding aid prepared by Smithsonian Institution
+          Archives</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher encodinganalog="260$b">Smithsonian Institution Archives </publisher>
+        <address>
+          <addressline>Washington, D.C. </addressline>
+          <addressline>Contact us at <emph render="italic">osiaref@si.edu</emph></addressline>
+        </address>
+        <date type="publication"/>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>Finding aid encoded on <date normal="2000-01-01">7-11-2011</date></creation>
+      <langusage encodinganalog="546"> Finding aid written in <language encodinganalog="041"
+          langcode="eng">English</language>
+      </langusage>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection" type="inventory" relatedencoding="MARC21">
+    <did>
+      <head>Collection Overview</head>
+      <repository label="Repository:" encodinganalog="852$a">
+        <corpname encodinganalog="110">Smithsonian Institution Archives, </corpname>
+        <address>
+          <addressline>Washington, D.C., </addressline>
+          <addressline><emph render="italic">osiaref@si.edu</emph></addressline>
+        </address>
+      </repository>
+      <origination label="Creator:">
+        <persname encodinganalog="100"> </persname>
+      </origination>
+      <note>
+        <p>Oral Histories</p>
+      </note>
+      <unittitle label="Title:" encodinganalog="245$a">Robotics Interviews</unittitle>
+      <unitdate label="Dates:" encodinganalog="245$f" normal="1971/2004">1989-1990</unitdate>
+      <physdesc label="Quantity:" encodinganalog="300$a">
+        <extent>   files (Reference copies).</extent>
+      </physdesc>
+      <unitid encodinganalog="099" label="Collection:" countrycode="iso3166-1"
+        repositorycode="DSI-AI">Record Unit 9552</unitid>
+      <langmaterial encodinganalog="546" label="Language of Materials:">
+        <language encodinganalog="041" langcode="eng">English</language>
+      </langmaterial>
+    </did>
+    <prefercite encodinganalog="510">
+      <head>Preferred Citation</head>
+      <p>Smithsonian Institution Archives, Record Unit 9552,  , Robotics Interviews</p>
+    </prefercite>
+    
+    <bioghist encodinganalog="545$a">
+    <head>Historical Note</head>
+     <p>Robotics is the applied science of intelligent machines, a field of research that combines electrical, electronic, and mechanical engineering. Steven Lubar, curator 
+    in the Division of Engineering and Industry at the Smithsonian's National Museum of American History (NMAH), recorded four sessions with robots designers to document different 
+    work styles, environments, and the processes by which engineers make decisions. He captured the style of work at two university settings and a corporate site to understand 
+    how their differing objectives influenced technological development. His goal was to interview researchers working with their machines--to document the "hands-on" aspect of 
+    development--and to record the robots in use. Lubar was also interested in documenting the interactions between researchers, the robots, and their environment.</p> </bioghist> 
+     
+ 
+    
+    <scopecontent>
+    <head>Introduction</head>
+     <p>The Smithsonian Videohistory Program, funded by the Alfred P. Sloan Foundation from 1986 until 1992, used video in historical research. Additional collections have 
+    been added since the grant project ended. Videohistory uses the video camera as a historical research tool to record moving visual information. Video works best in historical 
+    research when recording people at work in environments, explaining artifacts, demonstrating process, or in group discussion. The experimental program recorded projects that 
+    reflected the Institution's concern with the conduct of contemporary science and technology.</p> 
+     <p>Smithsonian historians participated in the program to document visual aspects of their on-going historical research. Projects covered topics in the physical and biological 
+    sciences as well as in technological design and manufacture. To capture site, process, and interaction most effectively, projects were taped in offices, factories, quarries, 
+    laboratories, observatories, and museums. Resulting footage was duplicated, transcribed, and deposited in the Smithsonian Institution Archives for scholarship, education, 
+    and exhibition. The collection is open to qualified researchers.</p> </scopecontent> 
+     
+    <scopecontent>
+    <head>Descriptive Entry</head>
+     <p>Session participants included students, professors, technicians, and engineers. Session One took place in the Department of Mechanical Engineering at the University 
+    of Maryland, College Park, Maryland, on March 31, 1989. Lubar focused on the development of a robot at a university with a strong engineering tradition and a program with 
+    very practical goals. Lung-We Tsai, Jigien "Roger" Chen, and Shapour Azarm, professors in the department, oversaw the development and production of a robot designed by students 
+    for a national competition. The professors discussed the competition and the university's involvement with it, student participation and their level of effort, design of robots, 
+    and the nature of engineering design and its application to robots. This highly visual session also documented the students' work in the laboratory and machine shop, and classroom 
+    progress reports about the robot under construction.</p> 
+     <p>Session Two took place at Odetics, Inc., in Anaheim, California, on December 14, 1989, where Lubar documented the only commercial firm currently producing walking robots. 
+    While there, he talked with Steve Bartholet, the inventor of the firm's first walking robot, ODEX I. Bartholet spoke about initial concepts and design configurations, and 
+    demonstrated structural features of the robot while it walked. Lubar also talked with Robert Drap, who designed the computer system for a self-contained machine. Joel Slutzkey, 
+    Odetics president, provided the overview of the company's role in robotics research and development. Finally, Lubar interviewed technicians involved in the most recent phase 
+    of robotics development, ODEX III. Armen Sivaslian determined production methods and demonstrated telescopic leg structure. Steven Corley, a software developer, demonstrated 
+    the debugging process (modify and re-code) for software that controlled the robot's leg operations.</p> 
+     <p>Session Three took place at the Robotics Institute of Carnegie-Mellon University (CMU), Pittsburgh, Pennsylvania, on September 20 and 21, 1990. The Institute was established 
+    in 1979 to bring together cooperative programs between academia and industry to conduct research in robotics technologies relevant to industrial problems. The focus of the 
+    session was to record the history of Ambler (Autonomous Mobile Exploration Robot), a six-legged walking robot commissioned by the National Aeronautics and Space Administration 
+    (NASA) to explore and sample the planetary surface of Mars. Lubar recorded a weekly integration meeting of production leaders and students involved with Ambler, a group interview 
+    with four Ambler project leaders, and a work session in the Ambler control room where students discussed and resolved some of the robot's movement problems.</p> 
+     <p>Ambler project leaders interviewed included Erik Krotkov, professor and research scientist for the Ambler, Kevin Dowling, a graduate student who served previously as project 
+    manager for the Ambler before his current position as project manager for NASA Space Shuttle ground operations robot development, Henning Pangels, a graduate student leader 
+    of Ambler's physical control and real-time computing team, and John Bares, a Ph.D. candidate responsible for Ambler's configuration design. Participants in the control room 
+    included Pangels, and CMU students David Wettergreen and Regis Hoffman. Finally, Brian Albrecht, current Ambler project manager, conducted a visual tour of the Ambler robot.</p> 
+     
+     <p>Session Four provided an overview of the Robotics Institute's philosophy and research interests. Albrecht led Lubar on a laboratory tour highlighting other CMU-designed 
+    robots and discussed the history of their development. Lubar also interviewed William "Red" Whittaker, director and principal research scientist of the Field Robotics Center 
+    of the Robotics Institute since 1986. Finally, Lubar visited the Learning Robots Laboratory, a CMU lab devoted to developing robots that automatically improve their performance 
+    through experience. Peter S. Tanguy, CMU student, demonstrated movement of a robot arm and described task oriented vision.</p> 
+     <p>The series includes two sets of supplemental tapes. Steven Lubar shot the first set of supplemental tape on July 24, 1989, at the National Bureau of Standards about its 
+    robot, "Erica." Thomas Wheatley and James Albus spoke about the robot, and offered demonstration. The second set was recorded on April 20-21, 1989, at Texas Technical University, 
+    where faculty member Jaime Cardenas-Garcia and crew videotaped the "Walking Machine Decathalon," in which the robot from the University of Maryland competed (and took second 
+    place). This supplemental sessions is comprised of four VHS tapes, which include "Rules," "Student Presentations," and "Preliminary Judging."</p> 
+     <p>This collection consists of four interview sessions and two supplementary sessions, totalling approximately 12:20 hours of recordings (not including supplementary session 
+    2), and 102 pages of transcript. There are three generations of tape for each session: originals, dubbing masters, and reference copies. In total, this collection is comprised 
+    of 37 originals (34 Beta videotapes, and 3 U-matic videotapes; not including supplementary session 2), 14 dubbing masters (14 U-matic videotapes; not including supplementary 
+    session 2), and 8 reference videotapes (8 VHS videotapes; not including Supplementary session 2). Supplementary session 2 is comprised of 8:00 hours of recordings on 4 reference 
+    copy (VHS) videotapes. The collection has been remastered digitally, with 37 motion jpeg 2000 and 37 mpeg digital files for preservation, and 14 Windows Media Video and 14 
+    Real Media Video digital files for reference. Supplementary session 2 was not digitized.</p> </scopecontent> 
+     
+ 
+    
+    
+    
+    
+        
+      <controlaccess id="a12">
+      <head>Index Terms</head>
+      <p>This collection is indexed under the following access terms. These are links to collections
+      with related topics, persons or places.</p>
+        
+         <controlaccess>
+           <head>Name</head>
+           <famname encodinganalog="600" source="local">Tsai, Lung-We.</famname>
+           <famname encodinganalog="600" source="local">Chen, Jigien.</famname>
+           <famname encodinganalog="600" source="local">Azarm, Shapour.</famname>
+           <famname encodinganalog="600" source="local">Drap, Robert.</famname>
+           <famname encodinganalog="600" source="local">Slutzkey, Joel.</famname>
+           <famname encodinganalog="600" source="local">Sivaslian, Armen.</famname>
+           <famname encodinganalog="600" source="local">Corley, Steven.</famname>
+           <famname encodinganalog="600" source="local">Krotkov, Erik.</famname>
+           <famname encodinganalog="600" source="local">Dowling, Kevin.</famname>
+           <famname encodinganalog="600" source="local">Pangels, Henning.</famname>
+           <famname encodinganalog="600" source="local">Bares, John.</famname>
+           <famname encodinganalog="600" source="local">Wettergreen, David.</famname>
+           <famname encodinganalog="600" source="local">Hoffman, Regis.</famname>
+           <famname encodinganalog="600" source="local">Whittaker, William.</famname>
+           <famname encodinganalog="600" source="local">Tanguy, Peter S.</famname>
+           <famname encodinganalog="600" source="local">Albus, James.</famname>
+           <famname encodinganalog="600" source="local">Wheatley, Thomas.</famname>
+           <famname encodinganalog="600" source="local">Carnegie-Mellon University (Pittsburgh, Pennsylvania)</famname>
+           <famname encodinganalog="600" source="local">Odetics Incorporated (Anaheim, California)</famname>
+           <famname encodinganalog="600" source="local">University of Maryland at College Park</famname>
+         </controlaccess>
+        
+        
+         <controlaccess>
+           <head>Subject</head>
+           <subject encodinganalog="650" source="local">History of science and technology</subject>
+           <subject encodinganalog="650" source="local">Engineering</subject>
+           <subject encodinganalog="650" source="local">Robotics</subject>
+         </controlaccess>
+        
+        
+         <controlaccess>
+           <head>Co-Creator</head>
+           <persname role="cocreator">Tsai, Lung-We. interviewee.</persname>
+           <persname role="cocreator">Chen, Jigien. interviewee.</persname>
+           <persname role="cocreator">Azarm, Shapour. interviewee.</persname>
+           <persname role="cocreator">Drap, Robert. interviewee.</persname>
+           <persname role="cocreator">Slutzkey, Joel. interviewee.</persname>
+           <persname role="cocreator">Sivaslian, Armen. interviewee.</persname>
+           <persname role="cocreator">Corley, Steven. interviewee.</persname>
+           <persname role="cocreator">Krotkov, Erik. interviewee.</persname>
+           <persname role="cocreator">Dowling, Kevin. interviewee.</persname>
+           <persname role="cocreator">Pangels, Henning. interviewee.</persname>
+           <persname role="cocreator">Bares, John. interviewee.</persname>
+           <persname role="cocreator">Wettergreen, David. interviewee.</persname>
+           <persname role="cocreator">Hoffman, Regis. interviewee.</persname>
+           <persname role="cocreator">Whittaker, William. interviewee.</persname>
+           <persname role="cocreator">Tanguy, Peter S. interviewee.</persname>
+           <persname role="cocreator">Albus, James. interviewee.</persname>
+           <persname role="cocreator">Wheatley, Thomas. interviewee.</persname>
+           <persname role="cocreator">Lubar, Steven D. interviewer.</persname>
+         </controlaccess>
+        
+        
+         <controlaccess>
+           <head>Physical Characteristics of Materials in the Collection</head>
+           <genreform encodinganalog="655$a" source="aat">Interviews</genreform>
+           <genreform encodinganalog="655$a" source="aat">Interviews</genreform>
+           <genreform encodinganalog="655$a" source="aat">Videotapes</genreform>
+           <genreform encodinganalog="655$a" source="aat">Oral history</genreform>
+         </controlaccess>
+        
+      
+      </controlaccess>
+    <dsc type="combined" id="a23">
+      
+      <c01 level="file">
+        <did>
+          <unittitle>Box 1</unittitle>
+        </did>
+        <c02 level="file">
+          <did>
+            <abstract>Transcripts of Interviews</abstract>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 1 of 1</container>
+            <unittitle>Session 1: 31 March 1989</unittitle>
+          </did>
+          <note>
+            <list>
+              <item>In the shops and classrooms of the Department of Mechanical Engineering, University of Maryland, College Park, Maryland, featured Tsai, Chen, Azarm, and students discussing the design and development of robots at the university, c. 1986-1989, including:</item>
+              <item>history of the walking robot competition;</item>
+              <item>students' role in the design and development process and level of involvement;</item>
+              <item>robot design changes and improvements;</item>
+              <item>troubleshooting in the laboratory, machine shop, and classroom.</item>
+              <item>Visual documentation included:</item>
+              <item>tours of student laboratory and machine shop;</item>
+              <item>milling and refinement process;</item>
+              <item>student interaction and problem solving;</item>
+              <item>demonstration of walking robot.</item>
+              <item>Transcript 1-24 pages, of videotape recording, 2 hours, 20 minutes.</item>
+            </list>
+          </note>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 1 of 1</container>
+            <unittitle>Session 2: 14 December 1989</unittitle>
+          </did>
+          <note>
+            <list>
+              <item>In the meeting rooms and development areas, Odetics, Inc., Anaheim, California, featured Bartholet, Drapp, Slutzkey, Sivaslian, and Corley discussing the development of a robot at the corporate level, c. 1970-1989, including:</item>
+              <item>Odetics, Inc., history and products;</item>
+              <item>ODEX I mechanical and structural design;</item>
+              <item>ODEX I electronic operating systems (IBM PC/model 1);</item>
+              <item>ODEX I models;</item>
+              <item>possible markets and working applications for robot;</item>
+              <item>ODEX III mechanical and structural design;</item>
+              <item>ODEX III telescopic legs for nesting, spacing, tracking;</item>
+              <item>ODEX III placement of foot;</item>
+              <item>ODEX III algorithms and internal mechanisms;</item>
+              <item>performance of walking algorithms;</item>
+              <item>configuration for method of walking;</item>
+              <item>debugging communication software;</item>
+              <item>evaluation of mechanical and hardware development;</item>
+              <item>"on-ground" and "in-air" testing.</item>
+              <item>Visual documentation included:</item>
+              <item>ODEX I walking, "kneeling," following commands;</item>
+              <item>ODEX I close-ups of structural features;</item>
+              <item>ODEX III close-ups of telescopic legs;</item>
+              <item>ODEX III computer screen and command algorithms;</item>
+              <item>ODEX III demonstration of "in-air" and "on-ground" walking.</item>
+              <item>Transcript, 1-78 pages, of videotape recording, 3 hours, 20 minutes.</item>
+            </list>
+          </note>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 1 of 1</container>
+            <unittitle>Session 3: 20 September 1990</unittitle>
+          </did>
+          <note>
+            <list>
+              <item>At the Field Robotics Center of the Robotics Institute, Carnegie-Mellon University, featured Krotkov, Dowling, Pangels, Bares, Wettergreen, Hoffman and Albrecht discussing various aspects of the development of the Ambler, c. 1985-1989, including:</item>
+              <item>Ambler Integration Meeting focusing on the development and progress of the robot's foot;</item>
+              <item>history of Ambler's development;</item>
+              <item>influence of earlier CMU robots, especially Teregator, on design decisions for Ambler;</item>
+              <item>initial proposal and NASA's specification requirements;</item>
+              <item>development of Ambler's "single-stack" leg design and decision to change to the "double-stack" leg configuration;</item>
+              <item>application of perception to robotics;</item>
+              <item>development of laser rangefinders and terrain mapping;</item>
+              <item>team decision-making process and role of principal investigators;</item>
+              <item>description of Task Control Architecture;</item>
+              <item>future plans for Ambler;</item>
+              <item>Ambler's operations from the control room;</item>
+              <item>map building with the Perceptron Scanning Laser Rangefinder;</item>
+              <item>visual tour of the Ambler's components.</item>
+              <item>Visual documentation included:</item>
+              <item>discussion among students and team leaders at weekly Integration Meeting;</item>
+              <item>sketch for initial Ambler proposal to NASA;</item>
+              <item>photo of Teregator;</item>
+              <item>Ambler prototype models;</item>
+              <item>photo of Ambler single-leg test bed;</item>
+              <item>Task Control Architecture flow chart;</item>
+              <item>use of control room computers;</item>
+              <item>close-up of Perceptron image on video monitor;</item>
+              <item>computer generation of a terrain map;</item>
+              <item>close-ups of all components of Ambler;</item>
+              <item>demonstration of Ambler leg movement.</item>
+              <item>Transcript, 1-78 pages, of videotape recording, 3 hours, 40 minutes.</item>
+            </list>
+          </note>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 1 of 1</container>
+            <unittitle>Session 4: 21 September 1990</unittitle>
+          </did>
+          <note>
+            <list>
+              <item>At the Field Robotics Center and Learning Robots Laboratory at Carnegie-Mellon University, featured Albrecht, Whittaker and Tanguy discussing various projects undertaken by The Robotics Institute, c. 1978-1989, including:</item>
+              <item>tour of earlier Field Robotics Center robots;</item>
+              <item>history of development of autonomous vehicles;</item>
+              <item>Whittaker's background and establishment of the Field Robotics Center;</item>
+              <item>Carnegie-Mellon's philosophy of robotics;</item>
+              <item>use of Task Control Architecture;</item>
+              <item>future applications for robotics;</item>
+              <item>functions of the Learning Robots Laboratory;</item>
+              <item>description of task-oriented vision;</item>
+              <item>use of robot arms in industrial settings.</item>
+              <item>Visual documentation included:</item>
+              <item>Field Robotics Center laboratory;</item>
+              <item>interior and exterior of the NAVLAB autonomous vehicle;</item>
+              <item>Locomotion Emulator wheeled robot;</item>
+              <item>various laser rangefinders;</item>
+              <item>robot arms designed for nuclear waste facilities;</item>
+              <item>computer workstations;</item>
+              <item>Neptune robot;</item>
+              <item>Learning Robots Laboratory room;</item>
+              <item>use of a light stripe rangefinder;</item>
+              <item>robot arm reassembling wood block configurations using a task oriented vision system.</item>
+              <item>Transcript, 1-37 pages, of videotape recording, 2 hours.</item>
+            </list>
+          </note>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 1 of 1</container>
+            <unittitle>Supplemental Tape/Set 1: 24 July 1989</unittitle>
+          </did>
+          <note>
+            <list>
+              <item>At the National Bureau of Standards, with Lubar, Thomas Wheatly, James Albus, and robot "Erica," c. 1989, includes description of robot.</item>
+              <item>Visual documentation included:</item>
+              <item>robot movements;</item>
+              <item>laboratory. Transcript, none, of videotape recording, 1 hour.</item>
+            </list>
+          </note>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 1 of 1</container>
+            <unittitle>Supplemental Tape/Set 2: 20-21 April 1989</unittitle>
+          </did>
+          <note>
+            <list>
+              <item>At Texas Tech University, with students, faculty, and observers for the "Walking Machine Decathalon," c. 1989, includes the participation of students and robots in events.</item>
+              <item>Visual documentation included:</item>
+              <item>close-ups of robots;</item>
+              <item>robotics movements;</item>
+              <item>location of competition.</item>
+              <item>Transcript, none, of videotape recording, 8 hours.</item>
+            </list>
+          </note>
+        </c02>
+        <c02 level="file">
+          <did>
+            <abstract>Video Recordings of Interviews</abstract>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 1 of 1</container>
+            <unittitle>Session 1: 31 March 1989</unittitle>
+          </did>
+          <note>
+            <list>
+              <item>Total Recording Time: 2 hours, 40 minutes</item>
+              <item>Original Masters: 8 Beta videotapes</item>
+              <item>Preservation Masters: 8 Motion jpeg 2000 and 8 mpeg digital files</item>
+              <item>Dubbing Masters: 3 U-matic videotapes</item>
+              <item>Reference Copies: 2 VHS videotapes, 3 Windows Media Video and 3 Real Media digital files</item>
+            </list>
+          </note>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 1 of 1</container>
+            <unittitle>Session 2: 14 December 1989</unittitle>
+          </did>
+          <note>
+            <list>
+              <item>Total Recording Time: 3 hours, 20 minutes</item>
+              <item>Original Masters: 10 Beta videotapes</item>
+              <item>Preservation Masters: 10 Motion jpeg 2000 and 10 mpeg digital files</item>
+              <item>Dubbing Masters: 4 U-matic videotapes</item>
+              <item>Reference Copies: 2 VHS videotapes, 4 Windows Media Video and 4 Real Media digital files</item>
+            </list>
+          </note>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 1 of 1</container>
+            <unittitle>Session 3: 20 September 1990</unittitle>
+          </did>
+          <note>
+            <list>
+              <item>Total Recording Time: 3 hours, 40 minutes</item>
+              <item>Original Masters: 11 Beta videotapes</item>
+              <item>Preservation Masters: 11 Motion jpeg 2000 and 11 mpeg digital files</item>
+              <item>Dubbing Masters: 4 U-matic videotapes, (3:40)</item>
+              <item>Reference Copies: 2 VHS videotapes, 4 Windows Media Video and 4 Real Media digital files</item>
+            </list>
+          </note>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 1 of 1</container>
+            <unittitle>Session 4: 21 September 1990</unittitle>
+          </did>
+          <note>
+            <list>
+              <item>Total Time Recording: 2 hours</item>
+              <item>Original Masters: 5 Beta videotapes</item>
+              <item>Preservation Masters: 5 Motion jpeg 2000 and 5 mpeg digital files</item>
+              <item>Dubbing Masters: 2 U-matic videotapes</item>
+              <item>Reference Copies: 1 VHS videotape, 2 Windows Media Video and 2 Real Media digital files</item>
+            </list>
+          </note>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 1 of 1</container>
+            <unittitle>Supplemental Tape/Set 1: 24 July 1989</unittitle>
+          </did>
+          <note>
+            <list>
+              <item>Total Recording Time: 1 hour</item>
+              <item>Original Masters: 3 U-matic videotapes</item>
+              <item>Preservation Masters: 3 Motion jpeg 2000 and 3 mpeg digital files</item>
+              <item>Dubbing Masters: 1 U-matic videotape</item>
+              <item>Reference Copies: 1 VHS videotape, 1 Windows Media Video and 1 Real Media digital files</item>
+            </list>
+          </note>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container label="Box">Box 1 of 1</container>
+            <unittitle>Supplemental Tape/Set 2: 20-21 April 1989</unittitle>
+          </did>
+          <note>
+            <list>
+              <item>Total Recording Time: 8 hours</item>
+              <item>Original Masters: not available</item>
+              <item>Preservation Masters: not available</item>
+              <item>Dubbing Masters: not available</item>
+              <item>Reference Copies: 4 VHS videotapes</item>
+            </list>
+          </note>
+        </c02>
+      
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

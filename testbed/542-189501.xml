@@ -1,0 +1,82 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "http://lcweb2.loc.gov/xmlcommon/dtds/ead2002/ead.dtd">
+<ead relatedencoding="MARC21">
+	<eadheader langencoding="iso639-2b" findaidstatus="edited-full-draft" audience="internal" id="a0">
+		<eadid countrycode="us" mainagencycode="KFS" url="http://hdl.handle.net/10407/2593856680" identifier="10407/2593856680">
+			ksrl.kc.zavelodonaldb</eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper>
+					Guide to the Donald B. Zavelo Collection</titleproper>
+				
+				<subtitle>The black entrepeneur in Lawrence.</subtitle><author>lgg, 22 July 76</author>
+			</titlestmt>
+			<publicationstmt> <publisher> University of Kansas
+</publisher> <address> <addressline> Lawrence, KS  66045</addressline> </address> <date> 2005</date> </publicationstmt>
+		</filedesc>
+		<profiledesc> <creation> mg<date> 2005</date> </creation> <langusage>Finding aid written
+in<language> English.</language> </langusage> </profiledesc>
+	</eadheader>
+	<archdesc level="collection" type="inventory">
+		<did id="a1">
+			<head>COLLECTION SUMMARY</head>
+			<repository label="Repository:" encodinganalog="852$a"> 
+		  <corpname encodinganalog="852$a"> University of Kansas <subarea>Kenneth
+		  Spencer Research Library</subarea><subarea>Kansas Collection</subarea></corpname> 
+		  <address> 
+			 <addressline> 1450 Poplar Lane, Lawrence, KS 66045-7616
+				</addressline> 
+			 <addressline>Phone: (785) 864 - 4334</addressline>
+			 <addressline>Fax: (785) 864-5803</addressline>
+			 <addressline>URL: http://spencer.lib.ku.edu</addressline>
+		  </address> </repository>
+			<origination label="Creator:">
+				<persname>Zavelo, Donald B.</persname>
+			</origination>
+			<unittitle label="Title:" encodinganalog="245">
+				The black entrepeneur in Lawrence, Kansas.
+</unittitle>
+			<unitdate label="Dates:" encodinganalog="245$f" type="inclusive">
+				1900-1915, 1975</unitdate>
+			<physdesc><extent label="Quantity:" encodinganalog="300$a">
+				ii, 60p. 2Scm.
+Bachelor of arts honors thesis, University of Kansas, 1975.</extent></physdesc>
+			
+			<unitid label="Identification:" encodinganalog="099">
+				RH MS D168</unitid>
+		</did>
+		
+		
+		<accessrestrict id="a14" encodinganalog="506"> 
+		<head>RESTRICTIONS on ACCESS</head> 
+		<p> No access restrictions.</p> 
+	 </accessrestrict>
+		<userestrict id="a15" encodinganalog="540"> 
+		<head>RESTRICTIONS on USE</head> 
+		 
+	 <p>  Spencer Library staff may determine  use restrictions
+		  dependent on the physical condition of manuscript materials.</p></userestrict>
+		<controlaccess id="a12">
+			<head>INDEX TERMS:</head>
+			
+			
+			<controlaccess>
+				<head>Subjects:</head>
+				<subject source="lcsh" encodinganalog="650">
+					Afro-Americans--Lawrence, Kansas.</subject><subject>Lawrence, Kansas-Race question--Economic aspects.</subject><subject>Businessmen--Lawrence, Kan.</subject>
+			</controlaccess>
+			
+		</controlaccess>
+		
+		<prefercite id="a18" encodinganalog="524"> <head>PREFERRED
+CITATION</head> <p>  Donald B. Zavelo Collection, Kansas Collection, 
+				RH MS D168, Kenneth Spencer Research Library, University of Kansas</p> </prefercite>
+		<acqinfo id="a19" encodinganalog="541">
+			<head>ACQUISITION INFORMATION</head>
+			<p>
+				Gift, Donald B. Zavelo, 1975.</p>
+		</acqinfo>
+		
+		<dsc><head>COLLECTION DESCRIPTION</head><p>No Container List.</p></dsc>
+	</archdesc>
+</ead>

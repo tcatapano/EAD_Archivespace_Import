@@ -1,0 +1,168 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "http://lcweb2.loc.gov/xmlcommon/dtds/ead2002/ead.dtd">
+
+<ead>
+<eadheader relatedencoding="Dublin Core" findaidstatus="edited-full-draft" langencoding="iso639-2b" scriptencoding="iso15924" audience="internal" id="a0">
+<eadid encodinganalog="Identifier" url="http://hdl.handle.net/10407/4880546111" identifier="10407/4880546111">ksrl.kc.pumpingplantforlawrencewatercompany</eadid>
+<filedesc>
+<titlestmt>
+<titleproper encodinganalog="Title">Guide to the Pumping Plant for Lawrence Water Company Collection </titleproper>
+<subtitle>Original plans for Pumping Plant for Lawrence Water Company, 1913</subtitle>
+<author encodinganalog="Creator">Finding aid prepared by mrm, 2010</author>
+</titlestmt>
+<publicationstmt>
+<publisher encodinganalog="Publisher">University of Kansas</publisher>
+<address><addressline>1450 Poplar Lane, Lawrence, KS 66045-7616</addressline><addressline>Phone: (785)864-4334</addressline><addressline>Fax: (785)864-5803</addressline><addressline>URL: http://spencer.lib.ku.edu</addressline></address>
+<date encodinganalog="Date">2010</date>
+</publicationstmt>
+</filedesc>
+<profiledesc>
+<creation>Finding aid encoded by mrm, 
+<date>2010</date>
+</creation>
+<langusage>Finding aid written in<language encodinganalog="language">English</language></langusage>
+</profiledesc>
+</eadheader>
+
+<archdesc relatedencoding="MARC21" level="collection" type="inventory">
+<did id="a1">
+<head>COLLECTION SUMMARY</head>
+<repository label="Repository:" encodinganalog="852$a"><corpname>University of Kansas<subarea>Kenneth Spencer Research Library</subarea> <subarea>Kansas Collection</subarea></corpname><address><addressline>1450 Poplar Lane, Lawrence, KS 66045-7616</addressline><addressline>Phone: (785)864-4334</addressline><addressline>Fax: (785)864-5803</addressline><addressline>URL: http://spencer.lib.ku.edu</addressline></address></repository>
+
+<unittitle label="Title:" encodinganalog="245$a">Original plans for Pumping Plant for Lawrence Water Company</unittitle>
+
+<unitdate type="inclusive" encodinganalog="245$f" label="Dates:">1913</unitdate>
+       <langmaterial label="Language(s):"> <language>English</language>
+</langmaterial>
+<physdesc>
+<extent label="Quantity:" encodinganalog="300$a">1 oversized folder (90 cm. x 120 cm.)</extent>
+
+</physdesc><abstract encodinganalog="520$a" label="Abstract:">This collection is comprised of 8 original drawings for the pumping plant at the Lawrence Water Company. The plans were made official by the City Engineer at the time E.H. Dunmire. </abstract>
+
+<unitid encodinganalog="099" type="call#" label="Identification:" countrycode="US" repositorycode="KFS">RH MS S29</unitid>
+
+</did>
+
+
+
+
+<!-- Top Level Metadata Goes Here: -->
+
+
+
+
+
+
+
+
+
+
+	<!-- Arrangement/Series Info Goes Here: -->
+
+
+	<!-- End Arrangement/Series Info -->
+
+<!-- End Top Level Metadata -->
+
+<!-- Controlled Access Terms Go Here: -->
+
+<controlaccess>
+<head>Organizations:</head>
+<corpname role="subject" encodinganalog="710" source="lcnaf">Lawrence (Kan.) Water Dept.</corpname>
+
+	</controlaccess>	
+		<controlaccess>
+			<head>Subjects:</head>
+			<subject encodinganalog="650" source="lcsh">Pumping stations--Kansas--Lawrence--Designs and plans.</subject>
+	
+		</controlaccess>
+<controlaccess>
+<head>Names:</head>
+<persname role="creator" encodinganalog="^700" source="lcnaf">Dunmire, Elijah Herbert.</persname>
+
+	</controlaccess>	
+
+
+<!-- End Controlled Access Terms -->
+<!-- Administrative Information Goes Here: -->
+
+<accessrestrict id="a14" encodinganalog="506">
+<head>Restrictions on Access</head>
+<p>None</p>
+</accessrestrict>
+
+
+<prefercite encodinganalog="524" id="a18">
+<head>Preferred Citation</head>
+<p>Pumping Plant for Lawrence Water Company Collection, Kansas Collection, RH MS S29, Kenneth Spencer Research Library, University of Kansas Libraries</p>
+</prefercite>
+
+
+<!-- End Administrative Information -->
+
+
+
+<!-- Start Description of Subordinate Components-->
+
+
+<dsc type="in-depth" id="a23">
+<head>COLLECTION DESCRIPTION</head>
+
+<c01 level="collection"><did>
+<unitid>RH MS S29</unitid></did>
+
+<c02><did><unittitle><emph render="bold">Drawing No.</emph></unittitle></did>
+
+<c03><did> <container type="folder">1</container>
+<unittitle>Floor Plans: first and second floors,</unittitle>
+<unitdate>1913 July 17</unitdate></did></c03>
+
+<c03><did> <container type="folder">2</container>
+<unittitle>Cross Sections: AA and BB,</unittitle>
+<unitdate>[1913 July --]</unitdate></did></c03>
+
+<c03><did> <container type="folder">3</container>
+<unittitle>Cross Section CC,</unittitle>
+<unitdate>1913 July 19</unitdate></did></c03>
+
+<c03><did> <container type="folder">4</container>
+<unittitle>West Side Elevation,</unittitle>
+<unitdate>[1913 July --]</unitdate></did></c03>
+
+<c03><did> <container type="folder">5</container>
+<unittitle>South Side Elevation,</unittitle>
+<unitdate>1913 July 25</unitdate></did></c03>
+
+<c03><did> <container type="folder">6</container>
+<unittitle>East Side Elevation,</unittitle>
+<unitdate>1913 July 25</unitdate></did></c03>
+
+<c03><did> <container type="folder"></container>
+<unittitle>Cross Section East and West through pump station,
+<unitdate>[1913 July --]</unitdate> (Drawing not numbered)</unittitle></did></c03>
+
+<c03><did> <container type="folder"></container>
+<unittitle>Plan and West elevation of stand tower,
+<unitdate>1913 July 26</unitdate> (Drawing not numbered)</unittitle></did></c03>
+
+</c02>
+
+</c01>
+
+</dsc>
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- End Description of Subordinate Components-->
+
+</archdesc>
+</ead>

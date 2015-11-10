@@ -1,0 +1,458 @@
+<?xml version="1.0"?> 
+<?xml-stylesheet type="text/xsl" href="https://libwebspace.library.cmu.edu:4430/Research/Archives/ead/xsl/ead2002.xsl" index-result="yes"?>
+<ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="https://libwebspace.library.cmu.edu:4430/Research/Archives/ead/2002/ead.xsd"
+    xmlns="http://library.cmu.edu/ead/">
+    
+    <eadheader relatedencoding="MARC21" countryencoding="iso3166-1" dateencoding="iso8601">
+        <eadid countrycode="us" encodinganalog="856$u">https://libwebspace.library.cmu.edu:4430/Research/Archives/UnivArchives/ead/WomensCenter.xml
+        </eadid>
+        
+        <filedesc>
+            <titlestmt>              
+                <titleproper encodinganalog="245$a">Carnegie Mellon University Women's Center Records
+                    <date>1988-1994
+                </date>
+                </titleproper>
+                <subtitle>Official University Records
+                </subtitle>
+            </titlestmt> 
+            <publicationstmt>
+                <date>June 4, 2008 <!-- [date for bottom of page]-->
+                </date>
+                <date type="copyright">2008</date>  <!-- date to appear in copyright statement at bottom of page -->
+                <publisher>Carnegie Mellon University</publisher> <!--  -->
+            </publicationstmt>
+        </filedesc>
+    </eadheader>
+    
+    <frontmatter>
+    </frontmatter>
+    
+    <archdesc level="collection"> 
+        <did>            
+            <physdesc> 
+                <extent encodinganalog="300">3/4 linear feet [1 Box]
+               </extent>
+            </physdesc>
+            <unitdate type="inclusive">1988-1994
+               </unitdate>
+            <physloc>Physical Location</physloc>
+            <repository>University Archives</repository>
+            
+        </did>
+        
+        
+        <controlaccess>
+            <corpname role="subject">Carnegie-Mellon University</corpname>
+            <subject>Feminism</subject>
+            <subject>Women--education--Pennsylvania--Pittsburgh</subject>
+            <subject>Women's issues, global trends </subject>
+            <geogname role="subject">Pennsylvania--Pittsburgh</geogname>
+            
+            <name>Barkun, Deborah</name>
+            <name>Harvey, Anne Marie</name>
+        </controlaccess>
+       
+        
+        <bioghist> <!-- EAD Cookbook 3.3.2 -->
+            <head>Records History
+            </head>
+            <p>  The Carnegie Mellon University Women's Center celebrated its grand opening on January 26, 1990.  The development of the Center was a collaborated effort of hundreds of signatures collected in support of a center and a proposal drafted by Deborah Barkun and Anne Marie Harvey in the Spring of 1989.  The center grew out of an organization known as the <emph render="italic">Women's Issues Collective</emph> of which Barkun and Harvey were both members.</p>
+            <p>The Women's Center has a component known as the Women's Center Collective which makes administrative and business decisions. These decisions are made by consensus of each member.  The Collective regularly meets through out the academic year.  Active participation in the Collective is encouraged after attending two meetings.
+            </p>
+            <p>The Women's Center works in collaboration with organizations in the surrounding area such as Women's Health Services, Pittsburgh Action Against Rape(PAAR), the Pittsburgh AIDS Task Force (PATF), the Women's Place (Pittsburgh's shelter for battered women).  </p>
+        </bioghist>
+        
+        <scopecontent> <!-- EAD Cookbook 3.3.3 -->
+            <head>Scope and Content Note</head>
+            <p>
+                This collection contains six years of records from The Carnegie Mellon University Women's Center.  The collection consists of nine series the majority of which are categorized by subject with the exception of the centers' correspondence records.  The majority of the collection is paper with the exception of three photos from a center slumber party.  This collection also contains nine file folders of the Center's program announcements (fliers) and several lists of the contents of the Center's Library.  For those not familiar with the Women's Center the informational pamphlets that explain the purpose of the center will serve to be helpful for the use of the collection.  These can be found under the section pertaining to the Center's Organizational Structure.</p>
+            <p>                    
+                An important component of this collection is background information pertaining to The Women's Issue Collective.  It was this organization that helped develop the idea of a center.  </p>
+            
+        </scopecontent>
+        
+        
+        <!-- SERIES SUMMARY WILL GO HERE FROM MAP -->
+        
+        
+        <custodhist> <!-- EAD Cookbook 3.3.9.3 -->
+            <head>Provenance</head>
+            <p>This collection was transferred from the Women's Center to the Carnegie Mellon University Archives in 1994.
+            </p>
+         </custodhist>
+             
+        
+        
+       
+        
+        <processinfo> 
+                <head>Processor
+                </head>
+            <p> The Women's Center Collection was originally processed by Lela J. Sewell in February of 1995.  Ms. Sewell's finding aid was edited for on-line use by Carnegie Mellon University/Heinz Archivist, Jennie Benford, in 2005.
+                </p>
+        </processinfo>
+        
+        
+  <!--  Structure  
+      Note: If  you want the 'Series summary' to be created on the
+      
+        <dsc type="analyticover">
+            <c01 level="series">
+              <did>   <unittitle>Registrar's Records   </unittitle> 
+                          <abstract>The Registrar's Records consist of three sub-series of registration cards.  </abstract>
+              </did>            
+            </c01>
+            <c01 level="series">   <did><unittitle>Annual Reports   </unittitle> 
+                  <abstract>The Annual Reports run from 1908-1973.
+      </abstract> </did>
+            </c01>
+        </dsc>
+  -->    
+        
+        
+        <!--  Structure -->         
+        <dsc type="combined">
+            <head>Collection List</head>
+            <!--<container type="box">1</container> -->                   
+ 
+            <c01 level="series">
+                <did>   <unittitle>Organizational Structure, 1990-91
+                </unittitle> 
+                </did>
+                
+                <c02 level="file">
+                    <did>
+                        <container type="folder">1</container>
+                        <unittitle>Founding of Women's Issues Collective--20 Items</unittitle>
+                        <unitdate>N.D.</unitdate>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="folder">2</container>
+                        <unittitle>Informational Pamphlets--8 Items</unittitle>
+                        <unitdate>N.D.</unitdate>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="folder">3</container>
+                        <unittitle>Administrative Papers--Old Notes</unittitle>
+                        <unitdate>1990-91</unitdate>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="folder">4</container>
+                        <unittitle>Administrative Papers--Requests,  Events, Minutes</unittitle>
+                        <unitdate>1990-91</unitdate>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="folder">5</container>
+                        <unittitle>Administrative Papers--Notes, Requests, Event Log, Contacts, CMU Index</unittitle>
+                        <unitdate>1991</unitdate>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="folder">6</container>
+                        <unittitle>Administrative Papers--Maintenance Request--2 Items</unittitle>
+                        <unitdate>N.D.</unitdate>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="folder">7</container>
+                        <unittitle>Program Booklet--1 item</unittitle>
+                        <unitdate>1990-91</unitdate>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="folder">8</container>
+                        <unittitle>Staff Manual--1 Item</unittitle>
+                        <unitdate>Fall 1990</unitdate>
+                    </did>
+                </c02>
+              
+            </c01>
+            
+            
+            <c01 level="series">
+                <did>   <unittitle>Correspondence, 1989-91
+                </unittitle> 
+                    
+                </did>
+                
+                <c02 level="file">
+                    <did>
+                        <container type="folder">9</container>
+                        <unittitle>Newsletters--14 Items</unittitle>
+                        <unitdate>1989-90, 1994, N.D.</unitdate>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="folder">10</container>
+                        <unittitle>Postcards--9 Items</unittitle>
+                        <unitdate>1991</unitdate>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="folder">11</container>
+                        <unittitle>Inter-Office--3 Items</unittitle>
+                        <unitdate>February 1991</unitdate>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="folder">12</container>
+                        <unittitle>E-Mail--2 Items</unittitle>
+                        <unitdate>October 30, 1990</unitdate>
+                    </did>
+                </c02>
+                
+            </c01>
+
+            <c01 level="series">
+                <did>   <unittitle>Center Programs, 1990-92 </unittitle> </did>
+                
+                <c02 level="file">
+                    <did>
+                        <container type="folder">13</container>
+                        <unittitle>Announcements--Pot Luck Dinner, What is the Women's Center?, CMU Lesbian/Bisexual Discussion Group--7 Items</unittitle>
+                        <unitdate>1991-92, N.D.</unitdate>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="folder">14</container>
+                        <unittitle>Announcements--Stop Rape--Date Rape--8 Items</unittitle>
+                        <unitdate>1991, N.D.</unitdate>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="folder">15</container>
+                        <unittitle>Monthly Calendar--February, March, April--3 Items</unittitle>
+                        <unitdate>N.D.</unitdate>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="folder">16</container>
+                        <unittitle>Announcements--Coffeehouse--5 Items</unittitle>
+                        <unitdate>N.D.</unitdate>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="folder">17</container>
+                        <unittitle>Announcements--International Women's Day--5 Items</unittitle>
+                        <unitdate>N.D.</unitdate>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="folder">18</container>
+                        <unittitle>Announcements--Slumber party, Photo--4 Items</unittitle>
+                        <unitdate>N.D.</unitdate>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="folder">19</container>
+                        <unittitle>Announcements--Center Birthday, Dance--3 Items</unittitle>
+                        <unitdate>N.D.</unitdate>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="folder">20</container>
+                        <unittitle>Announcements--Women's Collective Meetings--13 Items</unittitle>
+                        <unitdate>N.D.</unitdate>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="folder">21</container>
+                        <unittitle>Announcements--Movie Night--9 Items</unittitle>
+                        <unitdate>N.D.</unitdate>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="folder">22</container>
+                        <unittitle>Announcements--Sex Week--3 Items</unittitle>
+                        <unitdate>N.D.</unitdate>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="folder">23</container>
+                        <unittitle>Posters, Co- Sponsored Events--4 Items</unittitle>
+                        <unitdate>1990, N.D.</unitdate>
+                    </did>
+                </c02>
+                
+            </c01>
+            
+            <c01 level="series">
+                <did>   <unittitle>Employment Opportunities, October 1990 </unittitle> </did>
+                
+                <c02 level="file">
+                    <did>
+                        <container type="folder">24</container>
+                        <unittitle>Volunteer Options, Working Mothers, Women's Yellow Pages--4 Items</unittitle>
+                        <unitdate>October 1990, N.D.</unitdate>
+                    </did>
+                </c02>
+                
+            </c01>
+            
+            <c01 level="series">
+                <did>   <unittitle>Women's Issues, 1988-91, 1994</unittitle> </did>
+                
+                <c02 level="file">
+                    <did>
+                        <container type="folder">25</container>
+                        <unittitle>Magazine Clippings, Advertisements--14 Items</unittitle>
+                        <unitdate>1988, 1990-91, 1994, N.D.</unitdate>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="folder">26</container>
+                        <unittitle>News Clippings--Abortion--31 Items</unittitle>
+                        <unitdate>1989-91</unitdate>
+                    </did>
+                </c02>
+                
+            </c01>
+            
+            <c01 level="series">
+                <did>   <unittitle>Library, 1992-93  </unittitle> </did>
+                
+                <c02 level="file">
+                    <did>
+                        <container type="folder">27</container>
+                        <unittitle>New Book List--1 Item</unittitle>
+                        <unitdate>1992</unitdate>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="folder">28</container>
+                        <unittitle>Table of Contents--2 Items</unittitle>
+                        <unitdate>1992-93</unitdate>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="folder">29</container>
+                        <unittitle>Table of Contents--1 Item</unittitle>
+                        <unitdate>March 17, 1993</unitdate>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="folder">30</container>
+                        <unittitle>Updating the Library--1 Item</unittitle>
+                        <unitdate>March 17, 1993</unitdate>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="folder">31</container>
+                        <unittitle>Subject List--1 Item</unittitle>
+                        <unitdate>N.D.</unitdate>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="folder">32</container>
+                        <unittitle>Donor List--1 Item</unittitle>
+                        <unitdate>N.D.</unitdate>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="folder">33</container>
+                        <unittitle>Lost Book List--4 Items</unittitle>
+                        <unitdate>N.D.</unitdate>
+                    </did>
+                </c02>
+                
+            </c01>
+            
+            
+            <c01 level="series">
+                <did>   <unittitle>Independent Organizations, 1989-91, 1994  </unittitle> </did>
+                
+                <c02 level="file">
+                    <did>
+                        <container type="folder">34</container>
+                        <unittitle>Program Announcements--Young Women's Speak Out, National Organization for Women, Bisexual/Gay and Lesbian Alliance Society, Center for Violent Crimes, Pittsburgh Pro Choice Escorts, Men Against Rape  Pornography, Student Affairs, National Young Feminist, GRRRL Power, Women's Work in Progress--13 Items</unittitle>
+                        <unitdate>1990-91, 1994</unitdate>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="folder">35</container>
+                        <unittitle>Program Announcements--Women's Work in Progress--1 Item</unittitle>
+                        <unitdate>N.D.</unitdate>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="folder">36</container>
+                        <unittitle>Publications--Campus Police Street Safety, GRRLS Skankan, We Remember African American Women are for Reproductive Freedom, ACLU Abortion Control Act of 1989, Catholics for a Free Choice, Planned Parenthood, Choice Legal Abortion: Pro  Con--10 Items</unittitle>
+                        <unitdate>N.D.</unitdate>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="folder">37</container>
+                        <unittitle>Research Report--Vogue--24 Items</unittitle>
+                        <unitdate>1989</unitdate>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="folder">38</container>
+                        <unittitle>Research Reports--Cosmopolitan--6 Item</unittitle>
+                        <unitdate>1989</unitdate>
+                    </did>
+                </c02>
+                
+            </c01>
+            
+            
+            <c01 level="series">
+                <did>   <unittitle>Independent Persons </unittitle> </did>
+                
+                <c02 level="file">
+                    <did>
+                        <container type="folder">39</container>
+                        <unittitle>Publications--George Grant The Legacy of Planned Parenthood, Kathleen E. Downey/The Serenity Prayer--2 Items</unittitle>
+                        <unitdate>N.D.</unitdate>
+                    </did>
+                </c02>
+                
+            </c01>
+   
+            
+        </dsc>
+        
+        
+        
+        
+    </archdesc>
+    
+ 
+</ead>

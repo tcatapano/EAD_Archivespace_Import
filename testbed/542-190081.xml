@@ -1,0 +1,110 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "http://lcweb2.loc.gov/xmlcommon/dtds/ead2002/ead.dtd">
+<ead relatedencoding="MARC21">
+	<eadheader langencoding="iso639-2b" findaidstatus="edited-full-draft" audience="internal" id="a0">
+		<eadid countrycode="us" mainagencycode="KFS" url="http://hdl.handle.net/10407/1160409565" identifier="10407/1160409565">
+			ksrl.kc.gilmorehelen
+		</eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper>
+					Guide to the Helen S. Gilmore Collection</titleproper>
+				
+				<author>grn 22Sept72</author>
+			</titlestmt>
+			<publicationstmt> <publisher> University of Kansas
+</publisher> <address> <addressline> Lawrence, KS  66045</addressline> </address> <date> 2004
+</date> </publicationstmt>
+		</filedesc>
+		<profiledesc> <creation> mg
+<date> 2004
+</date> </creation> <langusage>Finding aid written
+in<language> English.</language> </langusage> </profiledesc>
+	</eadheader>
+	<archdesc level="collection" type="inventory">
+		<did id="a1">
+			<head>COLLECTION SUMMARY</head>
+			<repository label="Repository:" encodinganalog="852$a"> 
+		  <corpname encodinganalog="852$a"> University of Kansas <subarea>Kenneth
+		  Spencer Research Library</subarea><subarea>Kansas Collection</subarea></corpname> 
+		  <address> 
+			 <addressline> 1450 Poplar Lane, Lawrence, KS 66045-7616
+				</addressline> 
+			 <addressline>Phone: (785) 864 - 4334</addressline>
+			 <addressline>Fax: (785) 864-5803</addressline>
+			 <addressline>URL: http://spencer.lib.ku.edu</addressline>
+		  </address> </repository>
+			<origination label="Creator:">
+				<persname>Gilmore, Helen S.</persname>
+			</origination>
+			<unittitle label="Title:" encodinganalog="245">
+				Last will and testament
+			</unittitle>
+			<unitdate label="Dates:" encodinganalog="245$f" type="inclusive">
+				June 15, 1877
+			</unitdate>
+			<physdesc><extent label="Quantity:" encodinganalog="300$a">
+				[3]p. with envelope. 31cm. 
+</extent><physfacet>Handwritten--signed by Helen S. Gilmore.
+</physfacet>
+			</physdesc>
+			
+			<unitid label="Identification:" encodinganalog="099">
+				RH MS P37
+			</unitid>
+		</did>
+		
+		
+		
+		<scopecontent><head>SCOPE AND CONTENT</head><p>Last will and testament of Helen S. Gilmore of Emporia Township, Lyon County, Kansas, dated June 15, 1877.
+			</p></scopecontent><accessrestrict id="a14" encodinganalog="506"> 
+		<head>RESTRICTIONS on ACCESS</head> 
+		<p> No access restrictions.
+		</p> 
+	 </accessrestrict>
+		<userestrict id="a15" encodinganalog="540"> 
+		<head>RESTRICTIONS on USE</head> 
+		 
+	 <p>  Spencer Library staff may determine  use restrictions
+		  dependent on the physical condition of manuscript materials.</p></userestrict>
+		<controlaccess id="a12">
+			<head>Index Terms</head>
+			
+			<controlaccess>
+				<head>Names:</head>
+				<persname source="lcnaf" encodinganalog="700">
+					Gilmore, John S., 1848-1913.
+				</persname>
+			<persname>Graham, L. R., witness.</persname><persname>Scott, W. W., witness.</persname></controlaccess>
+			
+			<controlaccess>
+				<head>Subjects:</head>
+				<subject source="lcsh" encodinganalog="650">
+					Wills. Emporia Township, Lyon County, Kansas.
+				</subject>
+			</controlaccess>
+			
+		</controlaccess>
+		
+		<prefercite id="a18" encodinganalog="524"> <head>PREFERRED
+CITATION</head> <p>  Helen S. Gilmore Collection, Kansas Collection, 
+				RH MS P37
+			, Kenneth Spencer Research Library, University of Kansas</p> </prefercite>
+		<acqinfo id="a19" encodinganalog="541">
+			<head>Acquisition Information</head>
+			<p>
+				Unknown
+			</p>
+		</acqinfo>
+		<processinfo id="a20" encodinganalog="583">
+			<head>Processing Information</head>
+			<p>
+				Unappraised
+			</p>
+		</processinfo>
+		
+		
+		
+		<dsc><head>Collection Description</head><p>No Container List.</p></dsc>
+	</archdesc>
+</ead>

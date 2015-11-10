@@ -1,0 +1,251 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+
+<ead>
+
+
+<eadheader audience="internal" langencoding="iso639-2b" findaidstatus="unverified-partial-draft" repositoryencoding="iso15511" scriptencoding="iso15924" dateencoding="iso8601" countryencoding="iso3166-1">
+<eadid publicid="PUBLIC -//National Library of Medicine::History of Medicine Division//TEXT
+(US::DNLM::MS C 399::Atherton Seidell Papers)//EN seidell399" countrycode="us" mainagencycode="DNLM">seidell399</eadid>
+<filedesc><titlestmt><titleproper>Finding Aid to the Atherton Seidell Papers, <date era="ce" calendar="gregorian">1899-1986</date></titleproper><author>Archives and Modern Manuscripts Program, History of Medicine Division</author>
+</titlestmt>
+<editionstmt>
+<edition>1.0</edition>
+</editionstmt>
+<publicationstmt>
+<publisher>History of Medicine Division, National Library of Medicine.</publisher>
+<address><addressline>8600 Rockville Pike</addressline>
+<addressline>Bethesda, Maryland, 20894</addressline>
+<addressline>USA</addressline>
+<addressline>Phone: (301) 402-8878 (Reference Desk)</addressline>
+<addressline>Fax: (301) 402-0872</addressline>
+<addressline>Email: hmdref@nlm.nih.gov</addressline>
+</address>
+</publicationstmt></filedesc>
+<profiledesc>
+<creation>Machine-readable finding aid encoded by 
+Jim Labosier</creation>
+<langusage>Finding aid is written in <language>English.</language></langusage>
+</profiledesc></eadheader>
+
+
+<frontmatter>
+<titlepage>
+<titleproper>Finding Aid to the Atherton Seidell Papers, <date era="ce" calendar="gregorian">1899-1986</date></titleproper>
+
+<num>MS C 399</num>
+<author>Archives and Modern Manuscripts Program, History of Medicine Division</author>
+<publisher>National Library of Medicine</publisher>
+<date type="publication" era="ce" calendar="gregorian">2006</date>
+<edition>1.0</edition>
+<list type="simple"><head>Contact Information</head>
+<item>History of Medicine Division</item>
+<item>National Library of Medicine</item>
+<item>8600 Rockville Pike</item>
+<item>Bethesda, Maryland</item>
+<item>USA</item>
+<item>Phone: (301) 402-8878 (Reference Desk)</item>
+<item>Fax: (301) 402-0872</item>
+<item>Email: hmdref@nlm.nih.gov</item>
+</list>
+
+<list type="deflist">
+<defitem>
+<label>Processed by </label>
+<item>HMD Staff</item>
+</defitem>
+<defitem>
+<label>Processing Completed </label>
+<item>2006</item>
+</defitem>
+<defitem><label>Encoded by </label><item>
+Jim Labosier</item></defitem></list>
+</titlepage>
+</frontmatter>
+
+<archdesc relatedencoding="marc21" level="collection">
+
+
+
+
+<did>
+<head>Descriptive Summary</head><origination label="Creator:"><persname encodinganalog="100">Seidell, Atherton, 1878-1961</persname></origination>
+<unittitle label="Title:" encodinganalog="245">Atherton Seidell Papers <unitdate type="inclusive" era="ce" calendar="gregorian">1899-1986</unitdate>
+</unittitle>
+<physdesc label="Extent:" encodinganalog="300">1.26 linear feet (3 boxes)</physdesc>
+<unitid label="Collection number:" encodinganalog="060">MS C 399</unitid>
+<repository label="Repository:" encodinganalog="852">
+<corpname>History of Medicine Division. National Library of Medicine</corpname>
+</repository>
+<langmaterial label="Language:">Collection materials primarily in 
+<language langcode="eng">English.</language>
+</langmaterial>
+<abstract label="Abstract:">Consists of printed matter, notes, and miscellaneous papers. Includes reprints (1899-1937), minutes of meetings of the Chemical Society of Washington (1904-1906), and research notes.</abstract>
+</did>
+
+
+<descgrp type="admininfo"><acqinfo encodinganalog="541"><head>Provenance</head><p>Unknown.</p>
+</acqinfo><accessrestrict encodinganalog="506"><head>Restrictions</head><p>Collection is not restricted. Contact the Reference Staff for information regarding access.</p>
+</accessrestrict>
+<userestrict encodinganalog="540">
+<head>Copyright</head>
+<p>NLM does not possess copyright to the collection. Contact the Reference Staff for details regarding rights. </p>
+</userestrict>
+<prefercite encodinganalog="524"><head>Preferred Citation</head>
+<p>Seidell, Atherton. Atherton Seidell papers. 1899-1986. Located in: Modern Manuscripts Collection, 
+History of Medicine Division, National Library of Medicine, Bethesda, MD; MS C 399.</p>
+</prefercite>
+</descgrp>
+
+<bioghist encodinganalog="545">
+<head>Biographical Note</head>
+<p>Atherton Seidell introduced microfilming into the Army Medical Library in the 1930s. The research notes were probably for a future edition of Seidell's book, Solubilities of inorganic and organic compounds.
+</p>
+</bioghist>
+
+<scopecontent encodinganalog="520">
+<head>Collection Summary</head>
+<p>Consists of printed matter, notes, and miscellaneous papers. Includes reprints (1899-1937), minutes of meetings of the Chemical Society of Washington (1904-1906), and research notes.</p>
+</scopecontent>
+
+<controlaccess>
+<head>Index Terms</head>
+<p>These terms are indexed in the National Library of Medicine's online catalog LocatorPlus. Researchers wishing to find related materials should search the catalog using these terms.</p>
+
+
+
+<!-- Subjects for: MS C 399 -->
+<controlaccess>
+<head>MeSH Subjects</head>
+<subject encodinganalog="650$a" source="mesh">Chemistry</subject>
+<subject encodinganalog="650$a" source="mesh">Solubility</subject>
+</controlaccess>
+<controlaccess>
+<head>Corporate Names</head>
+<corpname encodinganalog="610$a" source="mesh">Chemical Society of Washington (Washington, D.C.)</corpname>
+</controlaccess>
+
+
+</controlaccess>
+
+<dsc type="combined">
+<head>Series Descriptions</head>
+<!-- Insert EAD box list below -->
+<!--NEW Box/folder list printed 3/20/2009
+ Collection ID = MS C 399. -->
+
+
+
+<c01 level="series"><did><unittitle>
+Series I: Biographical Information, 
+<unitdate era="ce" calendar="gregorian">1986</unitdate></unittitle><physdesc> </physdesc></did><scopecontent><p></p></scopecontent>
+
+
+<c02><did><container type="box">1</container><container type="folder">1</container><unittitle>
+Biographical materials, 
+<unitdate era="ce" calendar="gregorian">1986</unitdate></unittitle></did></c02>
+
+
+</c01><c01 level="series"><did><unittitle>
+Series II: Correspondence, 
+<unitdate era="ce" calendar="gregorian">1928-1938</unitdate></unittitle><physdesc> </physdesc></did><scopecontent><p></p></scopecontent>
+
+
+<c02><did><container type="box">1</container><container type="folder">2</container><unittitle>
+Correspondence regarding research, 
+<unitdate era="ce" calendar="gregorian">1928-1938</unitdate></unittitle></did></c02>
+
+
+</c01><c01 level="series"><did><unittitle>
+Series III: Chemical Society of Washington, 
+<unitdate era="ce" calendar="gregorian">1904-1906</unitdate></unittitle><physdesc> </physdesc></did><scopecontent><p></p></scopecontent>
+
+
+<c02><did><container type="box">1</container><container type="folder">3</container><unittitle>
+Meeting minutes - Seidell secretary, 
+<unitdate era="ce" calendar="gregorian">1904-1906</unitdate></unittitle></did></c02>
+
+
+</c01><c01 level="series"><did><unittitle>
+Series IV: Reprints of Seidell Articles, 
+<unitdate era="ce" calendar="gregorian">1899-1937</unitdate></unittitle><physdesc> </physdesc></did><scopecontent><p></p></scopecontent>
+
+
+<c02><did><container type="box">1</container><container type="folder">4</container><unittitle>
+"Some chemical principles involved in making a photographic negative" - in The Engineering Society Annual, 
+<unitdate era="ce" calendar="gregorian">1899</unitdate></unittitle></did></c02>
+
+
+<c02><did><container type="box">1</container><container type="folder">5</container><unittitle>
+"Chemical publications of A. Seidell 1901-1910" [list of 1-30], 
+<unitdate era="ce" calendar="gregorian">n.d.</unitdate></unittitle></did></c02>
+
+
+<c02><did><container type="box">1</container><container type="folder">6</container><unittitle>
+Reprints 1-9, 
+<unitdate era="ce" calendar="gregorian">1901-1904</unitdate></unittitle></did></c02>
+
+
+<c02><did><container type="box">1</container><container type="folder">7</container><unittitle>
+Reprints 10-20 [no. 16 omitted], 
+<unitdate era="ce" calendar="gregorian">1905-1908</unitdate></unittitle></did></c02>
+
+
+<c02><did><container type="box">1</container><container type="folder">8</container><unittitle>
+Reprints 21-30, 
+<unitdate era="ce" calendar="gregorian">1909-1910</unitdate></unittitle></did></c02>
+
+
+<c02><did><container type="box">1</container><container type="folder">9</container><unittitle>
+Reprints, 
+<unitdate era="ce" calendar="gregorian">1911-1914</unitdate></unittitle></did></c02>
+
+
+<c02><did><container type="box">1</container><container type="folder">10</container><unittitle>
+Reprints, 
+<unitdate era="ce" calendar="gregorian">1914-1925</unitdate></unittitle></did></c02>
+
+
+<c02><did><container type="box">2</container><container type="folder">1</container><unittitle>
+Reprints, 
+<unitdate era="ce" calendar="gregorian">1926-1937</unitdate></unittitle></did></c02>
+
+
+</c01><c01 level="series"><did><unittitle>
+Series V: Notes, 
+<unitdate era="ce" calendar="gregorian">n.d.</unitdate></unittitle><physdesc> </physdesc></did><scopecontent><p></p></scopecontent>
+
+
+<c02><did><container type="box">2</container><container type="folder">2</container><unittitle>
+Article citations, 
+<unitdate era="ce" calendar="gregorian">n.d.</unitdate></unittitle></did></c02>
+
+
+<c02><did><container type="box">2</container><container type="folder">3</container><unittitle>
+Apparatus and methods [microfilm of articles with notes], 
+<unitdate era="ce" calendar="gregorian">n.d.</unitdate></unittitle></did></c02>
+
+
+<c02><did><container type="box">2</container><container type="folder">4-6</container><unittitle>
+Duplicate Russian [microfilm of articles with notes], 
+<unitdate era="ce" calendar="gregorian">n.d.</unitdate></unittitle></did></c02>
+
+
+<c02><did><container type="box">3</container><container type="folder">1</container><unittitle>
+Duplicate Russian [microfilm of articles with notes], 
+<unitdate era="ce" calendar="gregorian">n.d.</unitdate></unittitle></did></c02>
+
+
+<c02><did><container type="box">3</container><container type="folder">2-4</container><unittitle>
+Miscellaneous [microfilm of articles with notes], 
+<unitdate era="ce" calendar="gregorian">n.d.</unitdate></unittitle></did></c02>
+
+
+</c01>
+
+
+</dsc>
+
+
+</archdesc>
+</ead>

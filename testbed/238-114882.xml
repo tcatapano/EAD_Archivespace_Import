@@ -1,0 +1,448 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+  <eadheader id="a0" langencoding="iso639-2b" scriptencoding="iso15924" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" relatedencoding="dc">
+    <eadid countrycode="us" encodinganalog="identifier" mainagencycode="WaPS" identifier="80444/xv01719" url="http://nwda.orbiscascade.org/ark:/80444/xv01719">Archives 9</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper encodinganalog="title">History Department Faculty (Susanne P. Lloyd) Records <date era="ce" calendar="gregorian" encodinganalog="date" normal="1950/1976">1950-1976</date></titleproper>
+        <titleproper type="filing" altrender="nodisplay">History Department Faculty (Susanne P. Lloyd) Records</titleproper>
+        <author encodinganalog="creator">Finding aid prepared by Lawrence Stark</author>
+        <sponsor encodinganalog="contributor">Funding for encoding this finding aid was provided through a grant awarded by the National Endowment for the Humanities.</sponsor>
+      </titlestmt>
+      <publicationstmt>
+        <publisher encodinganalog="publisher">Washington State University Libraries 
+                Manuscripts, Archives, and Special Collections
+        </publisher>
+        <date calendar="gregorian" encodinganalog="date" normal="2012">© 2012</date> 
+        <address> 
+		  <addressline>Pullman, WA 99164-5610 USA</addressline>
+          <addressline>(509) 335-6691</addressline>
+          <addressline>http://www.wsulibs.wsu.edu/masc/</addressline>
+          <addressline>mascref@wsu.edu</addressline>
+        </address> 
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>Finding aid encoded by <emph render="italic"><emph render="underline">ArchProteus</emph></emph><date era="ce" calendar="gregorian" normal="2006">2006</date></creation>
+      <langusage>Finding aid is in<language langcode="eng" encodinganalog="language" scriptcode="latn"> English</language></langusage>
+      <descrules>Finding aid based on DACS (<title render="italic">Describing Archives: A Content Standard</title>)</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection" type="inventory" relatedencoding="marc21">
+    <did id="a1">
+      <repository>
+        <corpname encodinganalog="852$a">Washington State University Libraries<subarea encodinganalog="852$b"> Manuscripts, Archives, and Special Collections</subarea></corpname>
+        <address> 
+          <addressline>Pullman, WA 99164-5610 USA</addressline> 
+          <addressline>(509) 335-6691</addressline>
+          <addressline>http://www.wsulibs.wsu.edu/masc/</addressline>
+          <addressline>mascref@wsu.edu</addressline>
+        </address>
+      </repository>
+      <unitid countrycode="us" encodinganalog="099" repositorycode="WaPS">Archives 9</unitid>
+      <unittitle encodinganalog="245$a" type="Collection">History Department Faculty (Susanne P. Lloyd) Records </unittitle>
+      <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1950/1976">1950-1976</unitdate>
+      <physdesc>
+        <extent encodinganalog="300$a"> 3.5 linear feet</extent>
+      </physdesc>
+      <abstract encodinganalog="5203_">These records, from the office of Dr. Susanne P. Lloyd, relate to her work as a member and/or advisor to various campus organizations such as ASWSU, Koinonia House, NOW, North American Indian Students Association, Washington State Women's Council, and WSC Commission on the Status of Women.</abstract>
+    </did>
+    <scopecontent id="a3" encodinganalog="5202_">
+      <p>These records relate to her work as a member and/or advisor to various campus organizations such as ASWSU, Koinonia House, NOW, North American Indian Students Association, Washington State Women's Council, and WSC Commission on the Status of Women.</p>
+    </scopecontent>
+    <accessrestrict id="a14" encodinganalog="506">
+      <p>The Collection is open for research use.</p>
+    </accessrestrict>
+    <acqinfo id="a19" encodinganalog="541">
+      <p>On December 8, 1976, Bruce C. Harding accessioned these records from the office of Dr. Susanne P. Lloyd who had passed away while on leave (see Pullman Herald, November 24, 1976). Dr. Raymond Muse, Chairman, Department of History, approved the acquisition.</p>
+    </acqinfo>
+    <controlaccess id="a12">
+      <controlaccess>
+        <persname encodinganalog="700" source="lcnaf" rules="aacr2" role="creator">Lloyd, Susanne P.</persname>
+      </controlaccess>
+      <controlaccess>
+        <corpname source="lcnaf" rules="aacr2" role="creator" encodinganalog="610">Washington State University. Dept. of History. Faculty (Susanne P. Lloyd)--Archives</corpname>
+        <corpname source="lcnaf" rules="aacr2" role="creator" encodinganalog="710">State College of Washington. Dept. of History. W</corpname>
+        <corpname source="lcnaf" rules="aacr2" role="subject" encodinganalog="610">Washington State University. Dept. of History. Faculty (Susanne P. Lloyd)--Records and correspondence</corpname>
+      </controlaccess>
+      <controlaccess>
+        <subject source="lcsh" rules="scm" encodinganalog="650">Universities and colleges--Faculty--Women</subject>
+        <subject source="lcsh" rules="scm" encodinganalog="650">Universities and colleges--Societies, etc.</subject>
+      </controlaccess>
+      <controlaccess>
+        <subject source="nwda" altrender="nodisplay" encodinganalog="690">Washington (State)</subject>
+        <subject source="nwda" altrender="nodisplay" encodinganalog="690">Colleges and Universities</subject>
+        <subject source="nwda" altrender="nodisplay" encodinganalog="690">Women</subject>
+      </controlaccess>
+    </controlaccess>
+    <dsc id="a23" type="combined">
+      <c01 id="G20546" level="file">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">1</container>
+          <unittitle encodinganalog="245$a">Susanne P. Lloyd - Personal Data and Talks </unittitle>
+          <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1944/1975">1944-1975</unitdate>
+        </did>
+      </c01>
+      <c01 id="G20547" level="file">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">2</container>
+          <unittitle encodinganalog="245$a">ASWSU - Ad Hoc Committee on Effectiveness </unittitle>
+          <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1975">1975</unitdate>
+        </did>
+      </c01>
+      <c01 id="G20548" level="file">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">3</container>
+          <unittitle encodinganalog="245$a">ASWSU - Student Ombudsmen </unittitle>
+          <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1976">1976</unitdate>
+        </did>
+      </c01>
+      <c01 id="G20549" level="file">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">4</container>
+          <unittitle encodinganalog="245$a">ASWSU - Undergraduate Student Affairs Committee </unittitle>
+          <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1975/1976">1975-1976</unitdate>
+        </did>
+      </c01>
+      <c01 id="G20550" level="file">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">5</container>
+          <unittitle encodinganalog="245$a">ASWSU - Student Activities Board </unittitle>
+          <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1972/1976">1972-1976</unitdate>
+        </did>
+      </c01>
+      <c01 id="G20551" level="file">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">6</container>
+          <unittitle encodinganalog="245$a">Koinonia House </unittitle>
+          <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1969/1973">1969-1973</unitdate>
+        </did>
+      </c01>
+      <c01 id="G20552" level="file">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">6a</container>
+          <unittitle encodinganalog="245$a">Koinonia House </unittitle>
+          <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1970/1973">1970-1973</unitdate>
+        </did>
+      </c01>
+      <c01 id="G20553" level="file">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">6b</container>
+          <unittitle encodinganalog="245$a">Koinonia House </unittitle>
+          <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1971/1972">1971-1972</unitdate>
+        </did>
+      </c01>
+      <c01 id="G20554" level="file">
+        <did>
+          <container type="box">2</container>
+          <container type="folder">1</container>
+          <unittitle encodinganalog="245$a">Day Care Data </unittitle>
+          <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1971">1971</unitdate>
+          <physdesc>
+            <extent encodinganalog="300$a">73 items</extent>
+          </physdesc>
+        </did>
+      </c01>
+      <c01 id="G20555" level="file">
+        <did>
+          <container type="box">2</container>
+          <container type="folder">2</container>
+          <unittitle encodinganalog="245$a">University Senate </unittitle>
+          <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1974/1976">1974-1976</unitdate>
+        </did>
+      </c01>
+      <c01 id="G20556" level="file">
+        <did>
+          <container type="box">2</container>
+          <container type="folder">3</container>
+          <unittitle encodinganalog="245$a">Faculty Affairs </unittitle>
+          <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1970/1974">1970-1974</unitdate>
+        </did>
+      </c01>
+      <c01 id="G20557" level="file">
+        <did>
+          <container type="box">2</container>
+          <container type="folder">4</container>
+          <unittitle encodinganalog="245$a">WSU - Commission on the Status of Women </unittitle>
+          <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1971/1973">1971-1973</unitdate>
+        </did>
+      </c01>
+      <c01 id="G20558" level="file">
+        <did>
+          <container type="box">2</container>
+          <container type="folder">5</container>
+          <unittitle encodinganalog="245$a">Woman in American Society - University 300 </unittitle>
+          <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1972">1972</unitdate>
+        </did>
+      </c01>
+      <c01 id="G20559" level="file">
+        <did>
+          <container type="box">3</container>
+          <container type="folder">1</container>
+          <unittitle encodinganalog="245$a">National Organization for Women </unittitle>
+          <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1973">1973</unitdate>
+        </did>
+      </c01>
+      <c01 id="G20560" level="file">
+        <did>
+          <container type="box">3</container>
+          <container type="folder">2</container>
+          <unittitle encodinganalog="245$a">Association of American Colleges - Project on Status and Education of Women </unittitle>
+          <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1972/1976">1972-1976</unitdate>
+        </did>
+      </c01>
+      <c01 id="G20561" level="file">
+        <did>
+          <container type="box">3</container>
+          <container type="folder">3</container>
+          <unittitle encodinganalog="245$a">Washington State Women's Council </unittitle>
+          <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1973/1976">1973-1976</unitdate>
+        </did>
+      </c01>
+      <c01 id="G20562" level="file">
+        <did>
+          <container type="box">3</container>
+          <container type="folder">4</container>
+          <unittitle encodinganalog="245$a">Selected Term Papers and Studies </unittitle>
+          <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1960/1971">1960-1971</unitdate>
+        </did>
+      </c01>
+      <c01 id="G20563" level="file">
+        <did>
+          <container type="box">3</container>
+          <container type="folder">5</container>
+          <unittitle encodinganalog="245$a">Tape recording- Women's Liberation: Whim or Revolution? </unittitle>
+          <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="n.d.">n.d.</unitdate>
+        </did>
+      </c01>
+      <c01 id="G20564" level="file">
+        <did>
+          <container type="box">3</container>
+          <container type="folder">5</container>
+          <unittitle encodinganalog="245$a">Tape recordings- Women's Opportunity Development Seminar, Idaho Falls, AEC </unittitle>
+          <unitdate era="ce" calendar="gregorian" encodinganalog="245$f">July 31, 1973</unitdate>
+        </did>
+      </c01>
+      <c01 id="G20565" level="file">
+        <did>
+          <container type="box">3</container>
+          <container type="folder">6</container>
+          <unittitle encodinganalog="245$a">Experimental Education Program - History </unittitle>
+        </did>
+      </c01>
+      <c01 id="G20566" level="file">
+        <did>
+          <container type="box">4</container>
+          <container type="folder">1</container>
+          <unittitle encodinganalog="245$a">Women's Data </unittitle>
+          <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1959/1976">1959-1976</unitdate>
+        </did>
+      </c01>
+      <c01 id="G20567" level="file">
+        <did>
+          <container type="box">4</container>
+          <container type="folder">1a</container>
+          <unittitle encodinganalog="245$a">Women's Data </unittitle>
+          <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1972/1976">1972-1976</unitdate>
+        </did>
+      </c01>
+      <c01 id="G20568" level="file">
+        <did>
+          <container type="box">4</container>
+          <container type="folder">1b</container>
+          <unittitle encodinganalog="245$a">Women's Data </unittitle>
+          <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1972/1976">1972-1976</unitdate>
+        </did>
+      </c01>
+      <c01 id="G20569" level="file">
+        <did>
+          <container type="box">4</container>
+          <container type="folder">1c</container>
+          <unittitle encodinganalog="245$a">Women's Data </unittitle>
+          <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1965/1972">1965-1972</unitdate>
+        </did>
+      </c01>
+      <c01 id="G20570" level="file">
+        <did>
+          <container type="box">4</container>
+          <container type="folder">1d</container>
+          <unittitle encodinganalog="245$a">Women's Data </unittitle>
+          <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1963/1970">1963-1970</unitdate>
+        </did>
+      </c01>
+      <c01 id="G20571" level="file">
+        <did>
+          <container type="box">5</container>
+          <container type="folder">1</container>
+          <unittitle encodinganalog="245$a">Women's Data </unittitle>
+          <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1963/1969">1963-1969</unitdate>
+        </did>
+      </c01>
+      <c01 id="G20572" level="file">
+        <did>
+          <container type="box">5</container>
+          <container type="folder">2</container>
+          <unittitle encodinganalog="245$a">Women's Data </unittitle>
+          <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1968/1972">1968-1972</unitdate>
+        </did>
+      </c01>
+      <c01 id="G20573" level="file">
+        <did>
+          <container type="box">5</container>
+          <container type="folder">3</container>
+          <unittitle encodinganalog="245$a">Women's Data </unittitle>
+          <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1963/1971">1963-1971</unitdate>
+        </did>
+      </c01>
+      <c01 id="G20574" level="file">
+        <did>
+          <container type="box">5</container>
+          <container type="folder">4</container>
+          <unittitle encodinganalog="245$a">Women's Data </unittitle>
+          <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1954/1970">1954-1970</unitdate>
+        </did>
+      </c01>
+      <c01 id="G20575" level="file">
+        <did>
+          <container type="box">6</container>
+          <container type="folder">1</container>
+          <unittitle encodinganalog="245$a">North American Indian Students Association </unittitle>
+          <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1970/1972">1970-1972</unitdate>
+        </did>
+      </c01>
+      <c01 id="G20576" level="file">
+        <did>
+          <container type="box">6</container>
+          <container type="folder">2</container>
+          <unittitle encodinganalog="245$a">Indian Conference - WSU </unittitle>
+          <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1970/1971">1970-1971</unitdate>
+        </did>
+      </c01>
+      <c01 id="G20577" level="file">
+        <did>
+          <container type="box">6</container>
+          <container type="folder">3</container>
+          <unittitle encodinganalog="245$a">Indian Education </unittitle>
+          <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1968/1972">1968-1972</unitdate>
+        </did>
+      </c01>
+      <c01 id="G20578" level="file">
+        <did>
+          <container type="box">6</container>
+          <container type="folder">4</container>
+          <unittitle encodinganalog="245$a">Indian Education </unittitle>
+          <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1970/1974">1970-1974</unitdate>
+        </did>
+      </c01>
+      <c01 id="G20579" level="file">
+        <did>
+          <container type="box">6</container>
+          <container type="folder">5</container>
+          <unittitle encodinganalog="245$a">Committee on Discriminatory Practices </unittitle>
+          <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1973">1973</unitdate>
+        </did>
+      </c01>
+      <c01 id="G20580" level="file">
+        <did>
+          <container type="box">6</container>
+          <container type="folder">6</container>
+          <unittitle encodinganalog="245$a">WSU - Admissions Folder </unittitle>
+          <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1973">1973</unitdate>
+        </did>
+      </c01>
+      <c01 id="G20581" level="series">
+        <did>
+          <container type="box">7</container>
+          <unittitle encodinganalog="245$a">Publications re: Women's Activities </unittitle>
+        </did>
+        <c02 id="G20582" level="item">
+          <did>
+            <unittitle encodinganalog="245$a">Bird, Caroline. <emph render="italic">Everything a Woman Needs to Know to Get Paid What She's Worth</emph>. </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1974">1974</unitdate>
+          </did>
+        </c02>
+        <c02 id="G20583" level="item">
+          <did>
+            <unittitle encodinganalog="245$a">Bird, Caroline. <emph render="italic">Born Female</emph>. </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1971">1971</unitdate>
+          </did>
+        </c02>
+        <c02 id="G20584" level="item">
+          <did>
+            <unittitle encodinganalog="245$a">Bullough, Vern L. <emph render="italic">The Subordinate Sex; A History of Attitudes Toward Women</emph>. </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1974">1974</unitdate>
+          </did>
+        </c02>
+        <c02 id="G20585" level="item">
+          <did>
+            <unittitle encodinganalog="245$a">Firestone. Shulamith. <emph render="italic">The Dialectic of Sex; the Case for Feminist Revolution</emph>. </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1972">1972</unitdate>
+          </did>
+        </c02>
+        <c02 id="G20586" level="item">
+          <did>
+            <unittitle encodinganalog="245$a">Grummon, Donald L. and Andrew M. Barclay. <emph render="italic">Sexuality, A Search for Perspective</emph>. </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1971">1971</unitdate>
+          </did>
+        </c02>
+        <c02 id="G20587" level="item">
+          <did>
+            <unittitle encodinganalog="245$a">Harbeson, Gladys E. <emph render="italic">Choice and Challenge for the American Woman</emph>. </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1967">1967</unitdate>
+          </did>
+        </c02>
+        <c02 id="G20588" level="item">
+          <did>
+            <unittitle encodinganalog="245$a">Johnson Foundation - Wingspread Conference. <emph render="italic">Women's Higher Education: Some Unanswered Questions</emph>. </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1973">1973</unitdate>
+          </did>
+        </c02>
+        <c02 id="G20589" level="item">
+          <did>
+            <unittitle encodinganalog="245$a">Lader, Lawrence. <emph render="italic">Abortion</emph>. </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1966">1966</unitdate>
+          </did>
+        </c02>
+        <c02 id="G20590" level="item">
+          <did>
+            <unittitle encodinganalog="245$a">Millett, Kate. <emph render="italic">Sexual Politics</emph>. </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1971">1971</unitdate>
+          </did>
+        </c02>
+        <c02 id="G20591" level="item">
+          <did>
+            <unittitle encodinganalog="245$a">Morgan. Robin (ed.) <emph render="italic">Sisterhood Is Powerful</emph>. </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1970">1970</unitdate>
+          </did>
+        </c02>
+        <c02 id="G20592" level="item">
+          <did>
+            <unittitle encodinganalog="245$a">Salper, Roberta (ed.) <emph render="italic">Female Liberation; History and Current Politics</emph>. </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1972">1972</unitdate>
+          </did>
+        </c02>
+        <c02 id="G20593" level="item">
+          <did>
+            <unittitle encodinganalog="245$a">Schneir, Miriam (ed.) <emph render="italic">Feminism: The Essential Historical Writings</emph>. </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1972">1972</unitdate>
+          </did>
+        </c02>
+        <c02 id="G20594" level="item">
+          <did>
+            <unittitle encodinganalog="245$a">Scott, Anne F. and Andrew M. <emph render="italic">One Half the People: The Women's Fight for Suffrage</emph>. </unittitle>
+            <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" normal="1975">1975</unitdate>
+          </did>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

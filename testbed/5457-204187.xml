@@ -1,0 +1,130 @@
+<?xml version="1.0" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader findaidstatus="Ready_to_publish" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="us" mainagencycode="us-nrri"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Harry Lang collection on Edmund Booth
+                    <num>RITDSA.0055</num>
+                </titleproper>
+                <subtitle>RIT/NTID Deaf Studies Archives</subtitle>
+                <author>Finding aid prepared by Amy Vilz</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>RIT Archive Collections</publisher>
+                <address>
+                    <addressline>RIT Libraries</addressline>
+                    <addressline>Wallace Library</addressline>
+                    <addressline>90 Lomb Memorial Drive </addressline>
+                    <addressline>Rochester, New York, 14623</addressline>
+                    <addressline>(585) 475-2557 </addressline>
+                    <addressline>raswml@rit.edu</addressline>
+                </address>
+                <date>24 October 2011</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2012-03-15T09:48-0400</date>
+            </creation>
+            <langusage>English</langusage>
+            <descrules>Describing Archives: A Content Standard</descrules>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Harry Lang collection on 
+                <persname>Edmund Booth</persname></unittitle>
+            <unitid>RITDSA.0055</unitid>
+            <repository>
+                <corpname>RIT Archive Collections</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid124003" type="Carton" label="Mixed materials">1</container>
+            <physdesc>
+                <extent>1.25 Linear feet</extent>
+                <extent>1 File box</extent>
+            </physdesc>
+            <unitdate normal="1995/2005" type="inclusive">circa 2000-2005</unitdate>
+            <abstract id="ref1" label="Abstract">The Harry Lang collection on Edmund Booth consists of Lang's research files used in writing his book, 
+                <emph render="italic">Edmund Booth: Deaf Pioneer</emph>.</abstract>
+            <physloc id="ref3" label="Location note">C.S. North, Shelf 284</physloc>
+            <origination label="creator">
+                <persname rules="aacr" source="lcnaf">Lang, Harry G.</persname>
+            </origination>
+        </did>
+        <prefercite id="ref2">
+            <head>Preferred Citation note</head>
+            <p>Harry Lang collection on Edmund Booth, RIT/NTID Deaf Studies Archives</p>
+        </prefercite>
+        <scopecontent id="ref12">
+            <head>Scope and Contents note</head>
+            <p>The Harry Lang collection on Edmund Booth mainly consists of photocopies of research material Lang used in writing his book, 
+                <emph render="italic">Edmund Booth: Deaf Pioneer</emph>. Materials include correspondence, clippings, and remembrances from Booth family members. Topics include biographical information, town of Anamosa, Iowa, and the California Gold Rush.</p>
+        </scopecontent>
+        <relatedmaterial id="ref11">
+            <head>Deaf Studies Archives</head>
+            <p>
+                <extref ns2:actuate="onRequest" ns2:show="new" ns2:href="RITDSA.0054.html">Harry Lang collection on Robert Panara</extref>
+                <lb/></p>
+            <p>
+                <extref ns2:actuate="onRequest" ns2:show="new" ns2:href="RITDSA.0056.html">Harry Lang research materials</extref></p>
+        </relatedmaterial>
+        <processinfo id="ref10">
+            <head>Processing Information note</head>
+            <p>Finding aid created by Amy Vilz in October 2011.</p>
+        </processinfo>
+        <acqinfo id="ref9">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Accession number(s): 
+                <num type="accession">07:90</num></p>
+        </acqinfo>
+        <userestrict id="ref4">
+            <head>Conditions Governing Use note</head>
+            <p>There is one folder of reproduced Booth documents from Dartmouth College. These cannot be copied without the granted permission of Dartmouth.</p>
+        </userestrict>
+        <otherfindaid id="ref5">
+            <head>Other Finding Aids note</head>
+            <p>In addition to this finding aid, an inventory is available below. For more information, please contact the RIT Archive Collections.</p>
+            <p>
+                <extref ns2:title="Harry Lang collection on Edmund Booth" ns2:href="../Inventories/HarryLangCollectionOnEdmundBooth.pdf">Harry Lang collection on Edmund Booth</extref></p>
+        </otherfindaid>
+        <bioghist id="ref6">
+            <head>bioginfo Harry Lang and Edmund Booth</head>
+            <p>
+                <emph render="italic">About Harry Lang</emph></p>
+            <p>Dr. Harry Lang attended the Western Pennsylvania School for the Deaf, earned a BS in Physics from Bethany College, MS degree in Electrical Engineering from Rochester Institute of Technology, and his doctorate in Education from the University of Rochester. Lang has taught at National Technical Institute for the Deaf (NTID) since 1969, first in the Physics Department, and later as a faculty member in the Master of Science Program in Secondary Education of Students Who are Deaf or Hard of Hearing.</p>
+            <p>He is also a prolific author, including 
+                <emph render="italic">Edmund Booth: A Deaf Pioneer</emph>, 
+                <emph render="italic">Teaching from the Heart and Soul: The Robert F. Panara Story</emph>, and
+                <emph render="italic">Deaf Persons in the Arts and Sciences: A Biographical Dictionary</emph> (co-authored with Bonnie Meath-Lang). The dictionary includes 150 biographies of deaf scientists, artists, engineers, actors, writers, poets, and other professionals. In 2006, Lang was awarded the Rochester Institute of Technology Trustees Scholarship Award in recognition of establishing an outstanding record of academic scholarship.</p>
+            <p>
+                <emph render="italic">About Edmund Booth</emph></p>
+            <p>Edmund Booth was born August 24, 1810. At age five, he lost partial sight and his hearing from illness. He attended the Connecticut School for the Deaf, eventually teaching at the school for five years. From there he travelled to Iowa and helped found the town of Anamosa. Booth left Iowa to seek fortune in the California Gold Rush in 1849. In 1854 he returned to Anamosa and bought the local newspaper, 
+                <emph render="italic">The Anamosa Eureka</emph>. Not only did Booth own the paper, he served as writer and editor as well.</p>
+            <p>Booth was also a passionate advocate for educating deaf children, and he was heavily influential in the establishment of the Iowa State School for the Deaf and the National Association of the Deaf. Edmund Booth died in Anamosa, Iowa in 1905.</p>
+        </bioghist>
+        <arrangement id="ref7">
+            <head>Arrangement note</head>
+            <p>Collection is roughly arranged by subject.</p>
+        </arrangement>
+        <accessrestrict id="ref8">
+            <head>Conditions Governing Access note</head>
+            <p>This collection is open to researchers.</p>
+        </accessrestrict>
+        <controlaccess>
+            <persname rules="aacr" source="lcnaf">Booth, Edmund, 1810-1905</persname>
+            <corpname rules="aacr" source="lcnaf">National Technical Institute for the Deaf. Faculty.</corpname>
+            <genreform source="aat">Clippings (information artifacts)</genreform>
+            <genreform source="aat">Correspondence</genreform>
+            <subject source="lcsh">Deaf -- History</subject>
+            <subject source="lcsh">Deaf -- Social life and customs</subject>
+            <subject source="lcsh">Deaf culture</subject>
+            <subject source="lcsh">Deafness -- Popular works</subject>
+            <genreform source="aat">Research notes</genreform>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

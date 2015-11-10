@@ -1,0 +1,354 @@
+
+<ead audience="external" 
+     xmlns="urn:isbn:1-931666-22-9"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.loc.gov/ead/ http://www.loc.gov/ead/ead.xsd">
+   <eadheader langencoding="iso639-2b" audience="external" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924" relatedencoding="MARC21">
+      <eadid encodinganalog="856$u" mainagencycode="US-LNT" countrycode="US" identifier="ArchonInternalCollectionID:186">LaRC/Manuscripts Collection 89</eadid>
+      <filedesc>
+                  <titlestmt>
+               <titleproper encodinganalog="245">Guide to the Ambert O. Remington papers</titleproper>
+               <titleproper type="filing">Remington, Ambert O. papers</titleproper>
+                        <author encodinganalog="245$c">Finding Aid Authors: Seth Rushton.</author>
+                  </titlestmt>
+         <publicationstmt>
+            <p> Copyright 2010 Louisiana Research Collection.  All rights reserved.</p>
+                           <publisher encodinganalog="260$b">Louisiana Research Collection</publisher>
+                        <date encodinganalog="260$c" type="publication" normal="2010-10-23">2010-10-23</date>
+
+                           <address>
+                  <addressline>202 Jones Hall</addressline>
+                                 <addressline>6801 Freret Street</addressline>
+                                 <addressline>New Orleans, LA, 70118</addressline>
+                                 <addressline>URL: http://specialcollections.tulane.edu/archon</addressline>
+                                 <addressline>Email: sbenjam@tulane.edu</addressline>
+                                 <addressline>Phone: 504-865-5685</addressline>
+                           </address>
+               
+         </publicationstmt>
+      </filedesc>
+
+      <profiledesc>
+         <creation encodinganalog="500">This finding aid was encoding in EAD by Archon 3.21 from an SQL database source on <date type="encoded" normal="2012-07-18">July 18th, 2012</date>.</creation>
+                     </profiledesc>
+
+
+               
+      </eadheader>
+
+      <frontmatter>
+         <titlepage>
+            <titleproper encodinganalog="245">Guide to the Ambert O. Remington papers
+                              <date normal="1861/1863" encodinganalog="260$c">1861/1863</date>
+                        </titleproper>
+               <publisher encodinganalog="260$b">Louisiana Research Collection</publisher>
+               </titlepage>
+            </frontmatter>
+
+            <archdesc level="collection" type="inventory" audience="external" relatedencoding="MARC21">
+               <did>
+                  <head>Overview of the Collection</head>
+                           <unittitle label="Collection Title" encodinganalog="245">Ambert O. Remington papers                              <unitdate label="Dates" encodinganalog="245$f" type="inclusive" normal="1861/1863">1861-1863</unitdate>
+                              </unittitle>
+                  <unitid encodinganalog="035" label="Identification" repositorycode="US-LNT" countrycode="US">LaRC/Manuscripts Collection 89</unitid>
+                     <origination label="Creator" encodinganalog="245$c">
+                     <persname encodinganalog="100" normal="Remington, Ambert O." source="lcnaf" role="Collector">Remington, Ambert O.</persname>
+                           </origination>
+                           <physdesc label="Physical Description"><extent encodinganalog="300" type="Boxes">1.00</extent></physdesc>
+                           <physdesc label="Alternate Extent Statement" encodinganalog="300$a">0.5 linear foot</physdesc>
+         
+               <langmaterial encodinganalog="546" label="Language of Materials">
+            		<language encodinganalog="041" langcode="eng">English</language>
+               </langmaterial>
+                        <repository encodinganalog="852$b" label="Repository">
+                              <corpname>Louisiana Research Collection</corpname>
+                              <address>
+                     <addressline>202 Jones Hall</addressline>
+                                    <addressline>6801 Freret Street</addressline>
+                                       <addressline>New Orleans, LA, </addressline>
+                                    <addressline>URL: http://specialcollections.tulane.edu/archon</addressline>
+                                    <addressline>Email: sbenjam@tulane.edu</addressline>
+                                    <addressline>Phone: 504-865-5685</addressline>
+                              </address>
+            </repository>
+
+
+                        
+      </did>
+
+
+      <!--COLLECTION LEVEL METADATA: -->
+               <bioghist altrender="Biographical Information" encodinganalog="545"><head>Biographical Information:</head>
+                              <p>Ambert Remington was born in July 1842 to a farming family near Auburn, New York. He enlisted with the Union army on September 21<emph render="super">st</emph> 1861 and was placed in the New York 75<emph render="super">th</emph> Infantry Company. His career in the military took him to Fort Pickens on Santa Rosa Island near Pensacola, Florida and the area surrounding New Orleans. Remington suffered a “severe wound” to his right arm during a skirmish near Port Hudson in June of 1863. The resulting amputation of his arm led to his death three days later on June 17<emph render="super">th</emph>.</p>
+                                       <p>Remingtons parents would send him items in the mail (arriving in large boxes that repeatedly gave Ambert so much pleasure) which he would then sell to civilians or other soldiers. Some of the money was sent home, some of it stayed with Remington (perhaps spent on his one admitted vice: cigars). Remington planned on returning home following the war to work with his father and eventually inherit the same farm he grew up on, a plan thwarted by his death in June of 1863.</p>
+                           </bioghist>
+         
+
+            <!-- CONTROLLED ACCESS / SUBJECT TERMS -->
+
+                        <controlaccess>
+                     <head>Access Terms</head>
+
+                     <p>This Collection is indexed under the following controlled access subject terms.</p>
+                                 <controlaccess>
+                              <head>Corporate Name:</head>
+                                       <corpname encodinganalog="610" source="lcnaf" role="subject">United States. Army. New York Infantry Regiment, 75th (1861-1865)</corpname>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Family Name:</head>
+                                       <famname encodinganalog="600" source="lcnaf" role="subject">Remington family.</famname>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Genre/Form of Material:</head>
+                                       <genreform encodinganalog="655" source="aat">Correspondence.</genreform>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Geographic Name:</head>
+                                       <geogname encodinganalog="651" source="lcsh" role="subject">Fort Pickens (Fla.) -- History -- 19th century.</geogname>
+                                       <geogname encodinganalog="651" source="lcsh" role="subject">New Orleans (La.) -- History -- Civil War, 1861-1865.</geogname>
+                                       <geogname encodinganalog="651" source="lcsh" role="subject">United States -- History -- Civil War, 1861-1865.</geogname>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Personal Name:</head>
+                                       <persname encodinganalog="600" source="lcnaf" role="subject">Remington, Ambert O.</persname>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Topical Term:</head>
+                                       <subject encodinganalog="650" source="lcsh">Soldiers -- United States -- History -- Civil War, 1861-1865.</subject>
+                                 </controlaccess>
+            </controlaccess>
+            
+
+         <!-- END CONTROLLED ACCESS TERMS -->
+
+            
+            <!-- DIGITAL ARCHIVAL OBJECTS -->
+                              <!-- END DIGITAL ARCHIVAL OBJECTS -->
+                     <!-- ADMINISTRATIVE INFORMATION -->
+
+                  <descgrp>
+                     <head>Administrative Information</head>
+                              <userestrict encodinganalog="540">
+                           <head>Conditions Governing Use:</head>
+                                          <p>Physical rights are retained by the Louisiana Research Collection. Copyright is retained in accordance with U.S. copyright laws.</p>
+                              </userestrict>
+                     <accessrestrict encodinganalog="506">
+                        <head>Conditions Governing Access:</head>
+                                          <p>Collection is open to the public. No known restrictions.</p>
+                           </accessrestrict>
+                              <prefercite encodinganalog="524">
+                     <head>Preferred Citation:</head>
+                     <p>Ambert O. Remington papers, Manuscripts Collection 89, Louisiana Research Collection, Howard-Tilton Memorial Library, Tulane University, New Orleans, LA 70118.</p>
+                     </prefercite>
+                     </descgrp>
+
+                           <arrangement encodinganalog="351">
+                  <head>Arrangement of Materials:</head>
+                                 <p>This collection is arranged chronologically. It consists of one box, and is 0.5 linear foot.</p>
+                        </arrangement>
+            <scopecontent>
+               <head>Scope and Contents</head>
+                                 <p>This collection is comprised of Civil War letters written between Ambert O. Remington and his parents between December 1861 and June 1863. The collection chronicles Remington’s service from his deployment to his death. For the first half of the collection the soldier is stationed in Florida, defending the recently captured Fort Pickens on Santa Rosa Island. Later, Remington’s company redeploys to New Orleans, which at the time was the largest city in the American South. He stays in the area around the city until his death in a skirmish near Port Hudson.</p>
+                                 <p>Remington’s letters mostly detail the mundane day-to-day actions in the South and his parents in New York. There is a focus on material goods throughout the collection, almost every letter talks about money (his plans to get more money or his intentions on sending home remittances) or laments about the things he does not have. Additionally, Mrs. Remington is extremely pious, a quality that carried over to her son, resulting in numerous letters between the two that demonize certain vices (specifically alcohol). Folder 11 is of particular use in this collection; it contains the only letters where Ambert reveals his political beliefs and provides the longest anecdotes about the uneasy relationship between the soldiers and Southern civilians.</p>
+                                 <p>An interesting quality of the correspondences is Ambert’s different tone when writing to his mother versus his father. Whereas the majority of letters to his mother focus on his virtuous behavior and the lighter side of life in camp, his letters to Mr. Remington reveal a growing tendency for violence.</p>
+                        </scopecontent>
+            
+
+
+         <!-- END ADMINISTRATIVE INFORMATION -->
+
+         <!-- END COLLECTION LEVEL METADATA -->
+
+                        <!-- BEGIN SUBORDINATE COMPONENTS -->
+            <dsc type="combined">
+               <head>Detailed List of Contents</head>
+               <c01 level="">
+   <did>
+      <unitid label="ArchonID" audience="internal">id29116</unitid>
+         	<container type="Box">1</container>
+   </did>
+         <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id29117</unitid>
+         	<container type="Box">1</container>
+	<container type="Folder">1</container>
+      <unittitle>Summary of collection</unittitle>
+               </did>
+         
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id29185</unitid>
+         	<container type="Box">1</container>
+	<container type="Folder">2</container>
+      <unittitle>Correspondence</unittitle>
+                  <unitdate>1861</unitdate>
+               </did>
+         <scopecontent>
+      <head>Scope and Contents</head>
+                  <p>Letters from Ambert Remington to family members describing events in November and December of 1861. The letters chronicle Remingtons opinions on strict furlough policies, a trip to New York, and finally the occupation of Fort Pickens, Florida.</p>
+                     </scopecontent>
+            
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id29207</unitid>
+         	<container type="Box">1</container>
+	<container type="Folder">3</container>
+      <unittitle>Correspondence (January  February)</unittitle>
+                  <unitdate>1862</unitdate>
+               </did>
+         <scopecontent>
+      <head>Scope and Contents</head>
+                  <p>Additional letters between Ambert Remington and his family in New York. Amberts letters focus on life at Fort Pickens in Florida. Remington provides a map of the area surrounding the fort, descriptions of bombardments coming from Confederate batteries, and a story of taking on a job as a cook. Other letters are included from his parents and cousin with stories from home, telling the soldier that all is well in New York. This collection also contains recipes for cookies and cakes for Remington.</p>
+                     </scopecontent>
+            
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id29232</unitid>
+         	<container type="Box">1</container>
+	<container type="Folder">4</container>
+      <unittitle>Correspondence (March)</unittitle>
+                  <unitdate>1862</unitdate>
+               </did>
+         <scopecontent>
+      <head>Scope and Contents</head>
+                  <p>Additional correspondences between Ambert Remington and his family in New York. Remington here describes the economic aspect of life at Fort Pickens; the letters contain accounts of buying food and bartering for better clothing. Furthermore, also included is a letter sent to Remingtons uncle asking him to forward an enclosed twenty-dollar bill. The gift is mentioned several times later by Remington, who is subsequently thanked in a letter from his mother.</p>
+                     </scopecontent>
+            
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id29288</unitid>
+         	<container type="Box">1</container>
+	<container type="Folder">5</container>
+      <unittitle>Correspondence (April  May)</unittitle>
+               </did>
+         <scopecontent>
+      <head>Scope and Contents</head>
+                  <p>Additional correspondences between Ambert Remington and his family. Upon hearing about the Union Armys victory in New Orleans, Remington writes to his parents describing his joy and excitement. The following letters describe Remingtons movements out of Pensacola and interactions with Confederate deserters and locals. Ever concerned with money, Remington describes his purchases in camp and annouces his plan to send more money to New York when it becomes available.</p>
+                     </scopecontent>
+            
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id34870</unitid>
+         	<container type="Box">1</container>
+	<container type="Folder">6</container>
+      <unittitle>Correspondence (Early June)</unittitle>
+                  <unitdate>1862</unitdate>
+               </did>
+         <scopecontent>
+      <head>Scope and Contents</head>
+                  <p>Further correspondences between Ambert Remington to the “folks back home” while he is stationed in Pensacola, Florida. Again, Remington discusses his plans to send home money, this time revealing that his father is in debt. In both of Remington’s letters and the letter sent from his mother, the writers complain about the unreliability of the mail. After missing out on a chance for action, Ambert laments about his boredom. He relays rumors that Jefferson Davis is ordering the dismissal of soldiers and tells his parents that the conflict cannot go on much longer. Finally, Ambert tells of his interactions with civilians (mostly positive), and adds a threat that the Southerners must behave or else the occupying force will “break their necks.”</p>
+                     </scopecontent>
+            
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id34871</unitid>
+         	<container type="Box">1</container>
+	<container type="Folder">7</container>
+      <unittitle>Correspondence (Late June)</unittitle>
+                  <unitdate>1862</unitdate>
+               </did>
+         <scopecontent>
+      <head>Scope and Contents</head>
+                  <p>Remington begins by discussing the slow disappearance of high-quality food. His officers are named and he gives short details on each. He tells of Confederate money and the exchange rate with Union currency. Payment is a constant theme throughout the letters as rumor begin flying that the men will be paid for six months rather than the standard four and Remington spends time on a schooner with the paymaster. He lays out the work schedule for an average week, highlighting how hard he is working, and briefly discusses a local social event. The last letter is from his mother who expresses her concern for his safety. She reminds him that it is strawberry season in New York (she sends him a jar of berries) and asks him to keep his Bible with him at all times for safety.</p>
+                     </scopecontent>
+            
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id35089</unitid>
+         	<container type="Box">1</container>
+	<container type="Folder">8</container>
+      <unittitle>Correspondence (July)</unittitle>
+                  <unitdate>1862</unitdate>
+               </did>
+         <scopecontent>
+      <head>Scope and Contents</head>
+                  <p>July correspondences between Ambert Remington and his mother. As he had previously done, Ambert sends home part of his paycheck. His remittances were originally planned to be $30, but he later adds another $10 and promises to live thriftily. His mother, upon receiving the money, kindly and humbly thanks him. She tells of life back in New York, shifting between gossip of the present and hopes for a future where Ambert will return to the North and work on the farm. To realize her hope, Mrs. and Mr. Remington use Ambert’s money to buy sheep with the idea that their son will get part of the flock upon his return. Mrs. Remington’s letters also describe the government’s attempts to acquire more recruits. In an early letter she describes a recruiter coming to talk to the town’s men. A later letter describes the possibility of a draft.                                                                                  	Ambert, still stationed in Pensacola, is in high spirits throughout July. Early in the month he receives a package from home containing clothes and books. He begins asking his parents to buy materials and send them down South for the explicit purpose of selling them at higher prices and returning the profit back to the family. Of apparent high value are butter and fruit, which he asks for in several letters. Ambert brings his correspondences for the month to a close with the speculation that he may be promoted to Corporal soon and a promise to his mother that he is staying away from liquor.</p>
+                     </scopecontent>
+            
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id35120</unitid>
+         	<container type="Box">1</container>
+	<container type="Folder">9</container>
+      <unittitle>Correspondence (August)</unittitle>
+                  <unitdate>1862</unitdate>
+               </did>
+         <scopecontent>
+      <head>Scope and Contents</head>
+                  <p>Remington expresses his frustration with the terribly slow mail service, stating that sometimes the company will only get a shipment of letters once per month. Ambert touches briefly on several subjects: General McClellan’s resignation, his terrific health, and a short conversation with the locals. His last letter of the month is filled with his ideas for the future, saying he finds it very unlikely that he will die in the war. Rather, he prophesizes returning to New York to take care of his father in old age.</p>
+                     </scopecontent>
+            
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id38897</unitid>
+         	<container type="Box">1</container>
+	<container type="Folder">10</container>
+      <unittitle>Correspondence (September  October)</unittitle>
+                  <unitdate>1862</unitdate>
+               </did>
+         <scopecontent>
+      <head>Scope and Contents</head>
+                  <p>Ambert Remington, now stationed in New Orleans, describes certain aspects of the city: his delight in riding the street car and fear of experiencing a yellow fever epidemic. Consistently reiterates his earlier pledges to abstain from alcohol, taking it further by also refusing to play billiards due, in part, to the offense he takes at the vulgar language used by soldiers while playing.                                                    	Ambert discloses his personal fears that the Union is not making the type of progress expected and openly discusses the possibility of losing the war. Where Ambert spends his letters to his mother promising to not succumb to petty vices, he admits in the letter to his father that he would enjoy shooting a group of deserters. The letter also details efforts to recruit locals into the army and instances of corruption among officers. Looking at international politics, Ambert expresses his fear of England acknowledging the government of the CSA and the effect that would have on the war effort.	The letters to his mother are focused less around politics and more around camp life and economics. Remington receives another box from home (filled with items he had requested in previous letters) and begins enjoying some of the contents (such as his jar of strawberries) and selling others (his cap, for instance). Ambert exercises his skill in writing creatively when he guesses at what his parents are doing at the very moment, writing a paragraph that provides a useful portrait of the day-to-day interactions Ambert had with his family in New York. The soldier concludes his letter with assurances to his mother that he is good health both physically and mentally, reminding her that he is far away from the more dangerous battles in the East.</p>
+                     </scopecontent>
+            
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id42445</unitid>
+         	<container type="Box">1</container>
+	<container type="Folder">11</container>
+      <unittitle>Correspondence (November  December)</unittitle>
+                  <unitdate>1862</unitdate>
+               </did>
+         <scopecontent>
+      <head>Scope and Contents</head>
+                  <p>Letters sent home to the parents of Ambert Remington in November and December of 1862. Remington describes his regiment moving into New Orleans and over to Algiers—a place he eventually comes to despise due to the area’s mud like “Spalding glue.” These letters contain references to skirmishes being fought outside of New Orleans, however with all of them Remington himself was not involved and merely relates second-hand accounts. Remington tells a story of drunken Union officers so inebriated that they fall asleep outside.   	Several letters mention Remington being photographed, discussing both the price and process. The final letter in this collection was presumably sent with the photos enclosed as Ambert gives directions to his mother concerning who he wants to receive one.	He discusses the inflated prices of everyday items like potatoes and eggs, providing a list of each items’ cost. Additionally, Ambert again starts asking for objects from home, notably a homemade blanket to deal with the frosty nights. Sugar is also an important theme in this collection. Remington relays how the army is overseeing the crop’s business, employing freed slaves to harvest sugar under General Butler’s control.	Remington wonders about the future of the war, going as far as admitting that it may be unwinnable, especially if England or France intervenes on behalf of the rebellion. He also comments on the results of the midterm election of 1862, noting that more Democrats won seats than Republicans—a shame in his eyes, as the former is a party composed of “cowards.” Remington provides personal stories from New Orleans, a city that “beats all places ever visited by me, for cross-women,  savage looking men,” and tells of the intense animosity felt between the locals and the occupiers. Ambert ends this collection with speculation that his regiment will soon move out of Algiers to be placed directly in New Orleans, taking over for the current regiment who are being punished for “disorderly conduct.”</p>
+                     </scopecontent>
+            
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id42596</unitid>
+         	<container type="Box">1</container>
+	<container type="Folder">12</container>
+      <unittitle>Correspondence</unittitle>
+                  <unitdate>1863</unitdate>
+               </did>
+         <scopecontent>
+      <head>Scope and Contents</head>
+                  <p>Letters between Ambert Remington and his parents in 1863.  In them Remington writes about the formation of regiments completely composed of freed slaves. With the start of the new year, Ambert gets paid and begins lending money to fellow soldiers as a way of making interest on his loans. During this time he becomes a non-commissioned officer and gets to spend more time among civilians, although he describes the temptation to spend his entire paycheck in the city on sweets and cigars. The vice that he consistently condemns, whiskey, he blames for the sinking of the “Gray-Cloud,” a Union gunship in the waters around New Orleans.	A letter written by his mother concerns his safety as rumors have been circulating the town that his company suffered terrible losses in a battle near Fort Hudson. Ironically, the letter is written and dated on the same day of her son’s death.</p>
+                     </scopecontent>
+            
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id42597</unitid>
+         	<container type="Box">1</container>
+	<container type="Folder">13</container>
+      <unittitle>Promotion Certificate (February)</unittitle>
+                  <unitdate>1863</unitdate>
+               </did>
+         <scopecontent>
+      <head>Scope and Contents</head>
+                  <p>Certificate of promotion for Ambert Remington to corporal.</p>
+                     </scopecontent>
+            
+</c02>
+   
+</c01>
+   
+            </dsc>
+               <!-- END SUBORDINATE COMPONENTS -->
+   </archdesc>
+</ead>
+

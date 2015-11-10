@@ -1,0 +1,483 @@
+<?xml version="1.0"?>
+<!-- wiarchives version:2012-09-20 -->
+<ead id="uw-whs-winn0065">
+  <eadheader langencoding="iso639-2b" scriptencoding="iso15924" dateencoding="iso8601" countryencoding="iso3166-1" repositoryencoding="iso15511">
+    <eadid countrycode="US" mainagencycode="whi">uw-whs-winn0065</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Register of the Oshkosh (Winnebago County, Wis. : Town). Clerk: Clerk's Records, 1841-1966</titleproper>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Wisconsin Historical Society</publisher>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>Text converted and initial EAD tagging provided by Apex Data Services, <date era="ce" calendar="gregorian" type="publication" normal="2000-12">December 2000.</date></creation>
+      <langusage>
+        <language langcode="eng">English</language>
+      </langusage>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <unittitle label="Title">Oshkosh (Winnebago County, Wis.: Town). Clerk: Clerk's Records, <unitdate type="inclusive" era="ce" calendar="gregorian" certainty="y" normal="1841/1966">1841-1966</unitdate></unittitle>
+      <origination label="Creator">
+        <corpname>Oshkosh (Winnebago County, Wis.: Town). Clerk</corpname>
+      </origination>
+      <unitid label="Call Number">Winnebago Series 65</unitid>
+      <physdesc label="Quantity">3.2 c.f. (9 archives boxes)</physdesc>
+      <repository label="Repository"><extptr entityref="whslogo" show="embed" actuate="onload" altrender="center" title="Wisconsin Historical Society logo" role="logoimage"/>
+Housed at the <extref linktype="simple" href="http://www.uwosh.edu/archives/">Archives  Area Research Center, Polk Library, University of Wisconsin Oshkosh</extref>; owned by the <extref linktype="simple" href="http://digital.library.wisc.edu/1711.dl/whsead.contact">Wisconsin Historical Society, Library-Archives Division</extref></repository>
+      <physloc>
+        <extref linktype="simple" href="http://digital.library.wisc.edu/1711.dl/whsead.catalog?repl1=rlin+%22wihv96-a1031%22" role="handle" title="Persistent catalog URL">See the catalog entry for information on possible additional materials and shelf locations.</extref>
+      </physloc>
+      <physloc type="locationcode" audience="internal">woshu</physloc>
+      <abstract label="Abstract">Reports and papers of the town clerk including minutes of town meetings, financial records, election records, school statistics, highway commission papers, and other records filed with the clerk.</abstract>
+      <langmaterial label="Language">
+        <language langcode="eng">English</language>
+      </langmaterial>
+    </did>
+    <dsc type="in-depth">
+      <head>Contents List</head>
+      <c01>
+        <did>
+          <unittitle>General Records</unittitle>
+        </did>
+        <c02>
+          <did>
+            <container label="Box" type="box">1</container>
+            <container label="Folder" type="folder">1-3</container>
+            <unittitle>
+              <unitdate era="ce" calendar="gregorian">1868-1902</unitdate>
+            </unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container label="Box" type="box">2</container>
+            <container label="Folder" type="folder">1-2</container>
+            <unittitle>
+              <unitdate era="ce" calendar="gregorian">1903-1934</unitdate>
+            </unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container label="Box" type="box">3</container>
+            <container label="Folder" type="folder">1</container>
+            <unittitle>
+              <unitdate era="ce" calendar="gregorian">1934-1955</unitdate>
+            </unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container label="Box" type="box">4</container>
+            <container label="Folder" type="folder">1</container>
+            <unittitle>
+              <unitdate era="ce" calendar="gregorian">1956-1966</unitdate>
+            </unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01>
+        <did>
+          <container label="Box" type="box">4</container>
+          <container label="Folder" type="folder">2</container>
+          <unittitle>Agreements, Contracts and Miscellaneous Business Records, <unitdate era="ce" calendar="gregorian">1853-1911</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01>
+        <did>
+          <container label="Box" type="box">4</container>
+          <container label="Folder" type="folder">3</container>
+          <unittitle>Agricultural Statistics, <unitdate era="ce" calendar="gregorian">1874-1904</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01>
+        <did>
+          <container label="Box" type="box">4</container>
+          <container label="Folder" type="folder">4</container>
+          <unittitle>Assessor's Certified Report of Railroads, <unitdate era="ce" calendar="gregorian">1900, 1906</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01>
+        <did>
+          <container label="Box" type="box">4</container>
+          <container label="Folder" type="folder">5</container>
+          <unittitle>Assessor's Fieldbook, <unitdate era="ce" calendar="gregorian">1930-1932</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01>
+        <did>
+          <container label="Box" type="box">5</container>
+          <container label="Folder" type="folder">1-3</container>
+          <unittitle>Assessor's Preliminary Statement of Real Estate, <unitdate era="ce" calendar="gregorian">1903-1904</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01>
+        <did>
+          <container label="Box" type="box">5</container>
+          <container label="Folder" type="folder">4</container>
+          <unittitle>Board of Health Reports, <unitdate era="ce" calendar="gregorian">1879-1881, 1932-1933, 1956</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01>
+        <did>
+          <container label="Box" type="box">5</container>
+          <container label="Folder" type="folder">5-9</container>
+          <unittitle>Chattel Mortgages, <unitdate era="ce" calendar="gregorian">1877-1914</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01>
+        <did>
+          <container label="Box" type="box">5</container>
+          <container label="Folder" type="folder">10</container>
+          <unittitle>Draft and Enlistment Records, <unitdate era="ce" calendar="gregorian">1864, 1868</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01>
+        <did>
+          <unittitle>Election Records</unittitle>
+        </did>
+        <c02>
+          <did>
+            <container label="Box" type="box">5</container>
+            <container label="Folder" type="folder">11</container>
+            <unittitle>General, <unitdate era="ce" calendar="gregorian">1867-1881</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container label="Box" type="box">6</container>
+            <container label="Folder" type="folder">1-2</container>
+            <unittitle>Town, <unitdate era="ce" calendar="gregorian">1868-1905</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container label="Box" type="box">6</container>
+            <container label="Folder" type="folder">3</container>
+            <unittitle>Campaign Expense Statements, <unitdate era="ce" calendar="gregorian">1916-1925, 1943</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container label="Box" type="box">6</container>
+            <container label="Folder" type="folder">4</container>
+            <unittitle>Late Registration Forms, <unitdate era="ce" calendar="gregorian">1868-1869</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container label="Box" type="box">6</container>
+            <container label="Folder" type="folder">5</container>
+            <unittitle>Official Oaths, <unitdate era="ce" calendar="gregorian">1869-1882</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container label="Box" type="box">6</container>
+            <container label="Folder" type="folder">6-7</container>
+            <unittitle>Poll Lists, <unitdate era="ce" calendar="gregorian">1876-1881, 1918-1924</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container label="Box" type="box">6</container>
+            <container label="Folder" type="folder">8</container>
+            <unittitle>Registers of Voters, <unitdate era="ce" calendar="gregorian">1865-1868</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container label="Box" type="box">6</container>
+            <container label="Folder" type="folder">9</container>
+            <unittitle>Statement of Votes, <unitdate era="ce" calendar="gregorian">1869-1922</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container label="Box" type="box">6</container>
+            <container label="Folder" type="folder">10</container>
+            <unittitle>Tally Sheets, <unitdate era="ce" calendar="gregorian">1869-1930</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01>
+        <did>
+          <unittitle>Financial Records</unittitle>
+        </did>
+        <c02>
+          <did>
+            <container label="Box" type="box">6</container>
+            <container label="Folder" type="folder">11</container>
+            <unittitle>Proceedings of the Town Board, <unitdate era="ce" calendar="gregorian">1928-1935</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container label="Box" type="box">6</container>
+            <container label="Folder" type="folder">12</container>
+            <unittitle>Report of the Town of Oshkosh, <unitdate era="ce" calendar="gregorian">1937-1958</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container label="Box" type="box">6</container>
+            <container label="Folder" type="folder">13</container>
+            <unittitle>Report of the Town Supervisors, <unitdate era="ce" calendar="gregorian">1870-1898</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container label="Box" type="box">6</container>
+            <container label="Folder" type="folder">14</container>
+            <unittitle>Report of the Town Treasurer, <unitdate era="ce" calendar="gregorian">1871-1916</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container label="Box" type="box">6</container>
+            <container label="Folder" type="folder">15</container>
+            <unittitle>Winnebago County Farm Bureau, <unitdate era="ce" calendar="gregorian">1921-1924</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01>
+        <did>
+          <unittitle>Highways and Roads</unittitle>
+        </did>
+        <c02>
+          <did>
+            <container label="Box" type="box">7</container>
+            <container label="Folder" type="folder">1-2</container>
+            <unittitle>Highway Records, <unitdate era="ce" calendar="gregorian">1868-1899</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container label="Box" type="box">7</container>
+            <container label="Folder" type="folder">3</container>
+            <unittitle>Road Records, <unitdate era="ce" calendar="gregorian">1849-1863</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container label="Box" type="box">7</container>
+            <container label="Folder" type="folder">4</container>
+            <unittitle>Decisions, Orders and Resolutions of Supervisors, <unitdate era="ce" calendar="gregorian">1846-1916</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container label="Box" type="box">7</container>
+            <container label="Folder" type="folder">5</container>
+            <unittitle>Minutes of Commissioners' Meeting, <unitdate era="ce" calendar="gregorian">1845</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container label="Box" type="box">7</container>
+            <container label="Folder" type="folder">6</container>
+            <unittitle>Notices of Meetings of Supervisors, <unitdate era="ce" calendar="gregorian">1844-1921</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container label="Box" type="box">7</container>
+            <container label="Folder" type="folder">7</container>
+            <unittitle>Petitions to the Supervisors, <unitdate era="ce" calendar="gregorian">1841-1905, 1947</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container label="Box" type="box">7</container>
+            <container label="Folder" type="folder">8</container>
+            <unittitle>Property Damage Compensation, <unitdate era="ce" calendar="gregorian">1882-1905</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container label="Box" type="box">7</container>
+            <container label="Folder" type="folder">9</container>
+            <unittitle>Releases, <unitdate era="ce" calendar="gregorian">1886-1908</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container label="Box" type="box">7</container>
+            <container label="Folder" type="folder">10</container>
+            <unittitle>Surveys, <unitdate era="ce" calendar="gregorian">1844-1851</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01>
+        <did>
+          <container label="Box" type="box">7</container>
+          <container label="Folder" type="folder">11</container>
+          <unittitle>Indentures, <unitdate era="ce" calendar="gregorian">1851, 1876</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01>
+        <did>
+          <container label="Box" type="box">7</container>
+          <container label="Folder" type="folder">12</container>
+          <unittitle>Lease with the Ku Klux Klan, <unitdate era="ce" calendar="gregorian">1926</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01>
+        <did>
+          <container label="Box" type="box">7</container>
+          <container label="Folder" type="folder">13</container>
+          <unittitle>Legal Records - Miscellaneous Lawsuits, <unitdate era="ce" calendar="gregorian">1852-1874</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01>
+        <did>
+          <unittitle>Liquor</unittitle>
+        </did>
+        <c02>
+          <did>
+            <container label="Box" type="box">7</container>
+            <container label="Folder" type="folder">14</container>
+            <unittitle>Applications for Liquor Licenses, <unitdate era="ce" calendar="gregorian">1891-1916</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container label="Box" type="box">7</container>
+            <container label="Folder" type="folder">15-16</container>
+            <unittitle>License Revocation Suit, <unitdate era="ce" calendar="gregorian">1910</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container label="Box" type="box">7</container>
+            <container label="Folder" type="folder">17</container>
+            <unittitle>Orders Granting Seller's License, <unitdate era="ce" calendar="gregorian">1903-1916</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container label="Box" type="box">8</container>
+            <container label="Folder" type="folder">1</container>
+            <unittitle>Petitions, <unitdate era="ce" calendar="gregorian">1905-1918</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container label="Box" type="box">8</container>
+            <container label="Folder" type="folder">2</container>
+            <unittitle>Sellers Bond, <unitdate era="ce" calendar="gregorian">1891-1916</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container label="Box" type="box">8</container>
+            <container label="Folder" type="folder">3</container>
+            <unittitle>Miscellaneous, <unitdate era="ce" calendar="gregorian">1903-1916</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01>
+        <did>
+          <container label="Box" type="box">8</container>
+          <container label="Folder" type="folder">4</container>
+          <unittitle>Orders and Resolutions of the Town Board, <unitdate era="ce" calendar="gregorian">1871, 1900-1939</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01>
+        <did>
+          <unittitle>Schools</unittitle>
+        </did>
+        <c02>
+          <did>
+            <container label="Box" type="box">8</container>
+            <container label="Folder" type="folder">5</container>
+            <unittitle>Census Statistics, <unitdate era="ce" calendar="gregorian">1895-1906</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container label="Box" type="box">8</container>
+            <container label="Folder" type="folder">6-7</container>
+            <unittitle>District Clerk's Report of Census Statistics, <unitdate era="ce" calendar="gregorian">1865-1906</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container label="Box" type="box">8</container>
+            <container label="Folder" type="folder">8</container>
+            <unittitle>Joint District Census Statistics, <unitdate era="ce" calendar="gregorian">1898-1906</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container label="Box" type="box">8</container>
+            <container label="Folder" type="folder">9</container>
+            <unittitle>Report to the County Superintendent, <unitdate era="ce" calendar="gregorian">1897-1906</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container label="Box" type="box">8</container>
+            <container label="Folder" type="folder">10</container>
+            <unittitle>School District Reorganization, <unitdate era="ce" calendar="gregorian">1862-1921</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container label="Box" type="box">8</container>
+            <container label="Folder" type="folder">11</container>
+            <unittitle>Text Book Lists, <unitdate era="ce" calendar="gregorian">1925</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container label="Box" type="box">8</container>
+            <container label="Folder" type="folder">12-15</container>
+            <unittitle>Tuition, <unitdate era="ce" calendar="gregorian">1917-1921, 1948-1949</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01>
+        <did>
+          <container label="Box" type="box">8</container>
+          <container label="Folder" type="folder">16</container>
+          <unittitle>State Department of Agriculture Bulletin, <unitdate era="ce" calendar="gregorian">1919</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01>
+        <did>
+          <container label="Box" type="box">8</container>
+          <container label="Folder" type="folder">17</container>
+          <unittitle>Statistics of Outdoor Relief, <unitdate era="ce" calendar="gregorian">1883</unitdate></unittitle>
+        </did>
+      </c01>
+      <c01>
+        <did>
+          <unittitle>Taxation Records</unittitle>
+        </did>
+        <c02>
+          <did>
+            <container label="Box" type="box">8</container>
+            <container label="Folder" type="folder">18-25</container>
+            <unittitle>
+              <unitdate era="ce" calendar="gregorian">1863-1933</unitdate>
+            </unittitle>
+          </did>
+        </c02>
+        <c02>
+          <did>
+            <container label="Box" type="box">9</container>
+            <container label="Folder" type="folder">1-9</container>
+            <unittitle>
+              <unitdate era="ce" calendar="gregorian">1934-1957</unitdate>
+            </unittitle>
+          </did>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

@@ -1,0 +1,144 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead relatedencoding="marc21">
+	<eadheader audience="internal">
+		<eadid countrycode="US" mainagencycode="TxU-TH" encodinganalog="852$a"
+			>urn:taro:utexas.cah.02554</eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper>A Guide to the Sam L. Martin Papers, 1926-1956</titleproper>
+			</titlestmt>
+		</filedesc>
+		<profiledesc>
+			<creation>Original EAD encoding by Laurel Rozema according to TARO 2 EAD 2002 Editing
+				Instructions. <date>April 2011</date></creation>
+			<langusage>Finding aid written in <language>English.</language></langusage>
+		</profiledesc>
+	</eadheader>
+	<archdesc type="inventory" level="collection">
+		<did>
+			<head>Descriptive Summary</head>
+			<origination label="Creator:">
+				<persname encodinganalog="100">Martin, Sam L. (Samuel Lawton), 1901-1961 </persname>
+			</origination>
+			<unittitle encodinganalog="245" label="Title:">Martin, Sam L., papers</unittitle>
+			<unitdate type="inclusive" encodinganalog="245" label="Dates:">1926-1956</unitdate>
+			<!--Modify the language of material if appropriate and update 3 letter langcode in the upper-right table. 
+				Add multiple languages with most commonly used listed first, if necessary. 
+				Example: <language langcode="eng">English</language> and <language langcode="spa">Spanish.</language> -->
+			<langmaterial label="Language:">Materials are written in <language langcode="eng"
+					>English</language>.</langmaterial>
+			<unitid label="Accession No.:">98-265</unitid>
+			<physdesc label="Extent:" encodinganalog="300$a">1 ft.</physdesc>
+			<repository label="Repository:" encodinganalog="852$a">
+				<extref href="http://www.cah.utexas.edu" show="new" actuate="onrequest">
+					<corpname><subarea>Dolph Briscoe Center for American History, </subarea>The
+						University of Texas at Austin</corpname></extref></repository>
+			<abstract label="Abstract:" encodinganalog="520$a">Comprising alphabetical files of
+				correspondence, teaching records, and financial and legal documents, the Sam L.
+				Martin Papers, 1926-1956, chronicle Martin’s career as a teacher and administrator
+				for the Austin, Texas, Public Evening School and the industrial and vocational
+				education programs in Austin Public Schools. </abstract>
+		</did>
+		<bioghist encodinganalog="545">
+			<head>Biographical Note</head>
+			<p>Born in Denton County, Texas, Samuel Lawton “Sam” Martin (1901-1961) married Cecil
+				Cleo Cross. He received a B.S. in industrial education from North Texas State
+				Teachers College (now the University of North Texas) in 1926 and an M.S. in
+				industrial education from Texas A  M University in 1932. Martin taught
+				architectural and mechanical drawing in Austin Public Schools from 1922 until he
+				became principal of the Austin Public Evening School and Supervisor of Industrial
+				and Vocational Education for Austin Public Schools in 1939. During his tenure,
+				Martin expanded the evening school program to help adults earn high school diplomas
+				and prepare for college. He also received the Texas Trades and Industries Service
+				Award (1951), the Austin Building Trades Council Award (1960), and the U.S.
+				Department of Labor’s Certificate of Meritorious Service (1960). In 1968, Austin
+				named Sam L. Martin Middle School in his honor. </p>
+		</bioghist>
+		<scopecontent encodinganalog="520">
+			<!--This explains the collection. Include the title, dates, subjects, and material types in complete sentences.-->
+			<head>Scope and Contents</head>
+			<p>Comprising alphabetical files of correspondence, teaching records, and financial and
+				legal documents, the Sam L. Martin Papers, 1926-1956, chronicle Martin’s career as a
+				teacher and administrator for the Austin, Texas, Public Evening School and the
+				industrial and vocational education programs in Austin Public Schools. Syllabi,
+				lesson plans, articles, term papers, tests, and notes document courses Martin took
+				and taught at the Austin Public Evening School, the North Texas State Teachers
+				College, the University of Texas, and Texas A  M University. Correspondence,
+				contracts, reports, and financial documents pertain to potential employment,
+				compensation, and ratings of teachers in Austin Public Schools. The collection also
+				contains Martin’s teaching applications and tax documents; materials for conferences
+				and associations; and correspondence with faculty at North Texas State Teachers
+				College and the graduate school at Texas A  M University, among others. </p>
+		</scopecontent>
+		<accessrestrict encodinganalog="506">
+			<!-- Select the appropriate tag(s) and delete others. You may need to modify an existing 
+				description or create a new one. The SAA Glossary defines access restrictions as such:
+				"Access restrictions may be defined by a period of time or by a class of individual 
+				allowed or denied access. They may be designed to protect national security (classification), 
+				personal privacy, or to preserve materials." -->
+			<head>Access Restrictions</head>
+			<p>This collection is open for research use.</p>
+		</accessrestrict>
+		<controlaccess>
+			<!--Delete section(s) as appropriate depending on the presence of index terms. Use LOC Authorities 
+				style subjects. Add multiple fields as necessary. "Archives" should be added to the creator's 
+				subject heading, separated by double dashes. Corpnames with a 610 are for organzations, while  
+				corpnames with 611 encodinganalog are for meeting names. Subjects with 650 are for general topics, 
+				while 630 are for titles of publications, including newspapers. -->
+			<head>Index Terms</head>
+			<controlaccess>
+				<head>Subjects (Persons)</head>
+				<persname encodinganalog="600">Martin, Sam L. (Samuel Lawton), 1901-1961 --
+					Archives.</persname>
+			</controlaccess>
+			<controlaccess>
+				<head>Subjects (Organizations)</head>
+				<corpname encodinganalog="610">Austin Public Schools (Austin, Tex.)</corpname>
+				<corpname encodinganalog="610">Austin Public Evening School (Austin,
+					Tex.)</corpname>
+				<corpname encodinganalog="610">Texas A  M University.</corpname>
+				<corpname encodinganalog="610">North Texas State Teachers College.</corpname>
+				<corpname encodinganalog="610">University of Texas of Austin.</corpname>
+			</controlaccess>
+			<controlaccess>
+				<head>Subjects</head>
+				<subject encodinganalog="650">Public schools -- Texas -- Austin.</subject>
+				<subject encodinganalog="650">Education -- Texas -- Austin.</subject>
+				<subject encodinganalog="650">School administrators -- Texas -- Austin.</subject>
+				<subject encodinganalog="650">Teachers -- Texas -- Austin.</subject>
+				<subject encodinganalog="650">Evening and continuation schools -- Texas --
+					Austin.</subject>
+			</controlaccess>
+			<controlaccess>
+				<head>Places</head>
+				<geogname encodinganalog="651" source="lcnaf">Austin (Tex.) -- History -- 20th
+					century -- Sources.</geogname>
+			</controlaccess>
+		</controlaccess>
+		<prefercite encodinganalog="524">
+			<head>Preferred Citation</head>
+			<p>Sam L. Martin Papers, 1926-1956, Dolph Briscoe Center for American History, The
+				University of Texas at Austin.</p>
+		</prefercite>
+		<processinfo>
+			<head>Processing Information</head>
+			<p>This collection contains unprocessed materials.</p>
+			<p>Basic processing and cataloging of this collection was supported with funds from the National Historical Publications and Records Commission (NHPRC) for the Briscoe Center’s <emph render="italic">History Revealed: Bringing Collections to Light</emph> project, 2009-2011.</p>
+		</processinfo>
+		<dsc type="in-depth">
+			<head>Detailed Description of the Papers</head>
+			<c01 level="series" id="ser1">
+				<did>
+					<unittitle>Inventory</unittitle>
+				</did>
+				<c02>
+					<did>
+						<container type="box">2.325/F80</container>
+						<unittitle>Papers, <unitdate>1926-1956</unitdate></unittitle>
+					</did>
+				</c02>
+			</c01>
+		</dsc>
+	</archdesc>
+</ead>

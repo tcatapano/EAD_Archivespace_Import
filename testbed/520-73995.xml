@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead relatedencoding="marc21">
+  <eadheader audience="internal"> 
+	 <eadid countrycode="US" mainagencycode="TxU-TH"
+	  encodinganalog="852$a">urn:taro:utexas.cah.00661</eadid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper>A Guide to the Story Family History Collection, 1978-1980,
+			 1991</titleproper> 
+		</titlestmt> 
+	 </filedesc> 
+	 <profiledesc> 
+		<creation>Original EAD encoding by Amy E. Armstrong according to TARO 2
+		  EAD 2002 Editing Instructions. 
+		  <date>February 2008</date></creation> 
+		<langusage>Finding aid written in
+		  <language>English.</language></langusage> 
+	 </profiledesc>
+  </eadheader>
+  <archdesc type="inventory" level="collection"> 
+	 <did> 
+		<head>Descriptive Summary</head> 
+		<origination label="Creator:"> 
+		  <famname>Story Family</famname> </origination> 
+		<unittitle encodinganalog="245" label="Title:">Story Family History
+		  Collection</unittitle> 
+		<unitdate type="inclusive" encodinganalog="245" label="Dates:">1978-1980,
+		  1991</unitdate> 
+		<langmaterial label="Laguage:">Materials are written in
+		  <language langcode="eng">English.</language></langmaterial> 
+		<unitid label="Accession No.:">2008-035</unitid> 
+		<physdesc label="Extent:" encodinganalog="300$a">3 inches</physdesc> 
+		<repository label="Repository:" encodinganalog="852$a"> 
+		  <extref href="http://www.cah.utexas.edu" show="new"
+			actuate="onrequest"> 
+			 <corpname><subarea> Dolph Briscoe Center for American History,</subarea>The
+				University of Texas at Austin</corpname></extref></repository> 
+		<abstract label="Abstract:" encodinganalog="520$a">Ernestine Story Carr
+		  was born on April 22, 1920 in Wylie, Texas. She married former Texas Speaker of
+		  the House of Representatives, Waggoner Carr in 1941. Collection contains
+		  genealogical newsletters concerning the Story family, particularly George
+		  Storey and Nancy Cantor.</abstract> 
+	 </did> 
+	 <bioghist encodinganalog="545"> 
+		<head>Biographical Note</head><p>Ernestine Story Carr was born on April
+		  22, 1920 in Wylie, Texas. She graduated from Texas Tech University in 1941 with
+		  a Bachelor of Science in Home Economics Education. She married former Texas
+		  Speaker of the House of Representatives, Waggoner Carr in 1941.</p> 
+	 </bioghist> 
+	 <scopecontent encodinganalog="520"> 
+		<head>Scope and Contents</head><p>Collection contains genealogical
+		  newsletters concerning the Story family, particularly George Storey and Nancy
+		  Cantor.</p> 
+	 </scopecontent> 
+	 <accessrestrict encodinganalog="506"> 
+		<head>Access Restrictions</head><p>Unrestricted access.</p> 
+	 </accessrestrict> 
+	 <prefercite encodinganalog="524"> 
+		<head>Preferred Citation</head><p>Story Family History Collection,
+		  1978-1980, 1991, Dolph Briscoe Center for American History, The University of Texas at
+		  Austin.</p> 
+	 </prefercite> 
+	 <dsc type="in-depth"> 
+		<head>Detailed Description of the Papers</head> 
+		<c01 level="series" id="ser1"> 
+		  <did> 
+			 <unittitle>Inventory </unittitle> 
+		  </did> 
+		  <c02> 
+			 <did>
+				<container type="box">2.325/C125a</container> 
+				<unittitle>Genealogical Newsletters: “The Story Source” and “The
+				  Stor(e)y Story,” 
+				  <unitdate>1978-1980, 1991 </unitdate></unittitle> 
+			 </did> 
+		  </c02> 
+		</c01></dsc>
+  </archdesc>
+</ead>

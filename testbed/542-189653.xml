@@ -1,0 +1,920 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "http://lcweb2.loc.gov/xmlcommon/dtds/ead2002/ead.dtd">
+<ead>
+<eadheader relatedencoding="Dublin Core" findaidstatus="edited-full-draft" langencoding="iso639-2b" scriptencoding="iso15924" audience="internal" id="a0">
+<eadid encodinganalog="identifier" url="http://hdl.handle.net/10407/4197952243" identifier="10407/4197952243">ksrl.ua.hallraymond</eadid>
+<filedesc>
+<titlestmt>
+<titleproper encodinganalog="title">Guide to the E. Raymond Hall Collection </titleproper>
+<subtitle>Personal Papers of E. Raymond Hall, 1890-1983</subtitle>
+<author encodinganalog="creator">Finding aid prepared by ad, 2005, brch, 2012</author>
+
+</titlestmt>
+<publicationstmt>
+<publisher encodinganalog="publisher">University of Kansas</publisher>
+<address><addressline>1450 Poplar Lane, Lawrence, KS 66045-7616</addressline><addressline>Phone: (785)864-4334</addressline><addressline>Fax: (785)864-5803</addressline><addressline>URL: http://spencer.lib.ku.edu</addressline></address>
+<date encodinganalog="date">2005</date>
+</publicationstmt>
+</filedesc>
+<profiledesc>
+<creation>Finding aid encoded by ad, 2005, brch, <date>2012</date></creation>
+<langusage>Finding aid written in<language encodinganalog="language">English</language></langusage>
+</profiledesc>
+</eadheader>
+
+<archdesc relatedencoding="MARC21" level="collection" type="inventory">
+<did id="a1">
+<head>COLLECTION SUMMARY</head>
+<repository label="Repository:" encodinganalog="852$a"><corpname>University of Kansas<subarea>Kenneth Spencer Research Library</subarea> <subarea>University Archives</subarea></corpname><address><addressline>1450 Poplar Lane, Lawrence, KS 66045-7616</addressline><addressline>Phone: (785)864-4334</addressline><addressline>Fax: (785)864-5803</addressline><addressline>URL: http://spencer.lib.ku.edu</addressline></address></repository>
+
+<origination label="Creator:"><persname encodinganalog="100">Hall, E. Raymond (Eugene Raymond), 1902-1986 </persname></origination>
+
+<unittitle label="Title:" encodinganalog="245$a">Personal Papers of E. Raymond Hall</unittitle>
+
+<unitdate type="inclusive" encodinganalog="245$f" label="Dates:">1890-1983</unitdate>
+       <physdesc>
+<extent label="Quantity:" encodinganalog="300$a">22 linear ft (24 boxes, 1 oversized box, 1 oversized folder)</extent>
+
+</physdesc><abstract encodinganalog="520$a" label="Abstract:">Hall taught Zoology and was Director of the Natural History Museum at the University of Kansas. This collection contains information about conservation issues and the National Parks Service.</abstract>
+
+<unitid encodinganalog="099" type="call#" label="Identification:" countrycode="US" repositorycode="KFS">PP 167</unitid>
+<unitid encodinganalog="099" type="call#" label="Identification:" countrycode="US" repositorycode="KFS">PP 513</unitid>
+
+</did>
+
+
+
+<!-- Top Level Metadata Goes Here: -->
+
+<bioghist altrender="biography" encodinganalog="545" id="a2">
+<head>BIOGRAPHY of <emph>E. Raymond Hall</emph></head>
+<p>E. Raymond Hall was born on May 11, 1902, in Imes, Kansas.  Hall received his A.B. from the University of Kansas in 1924.  He accepted a teaching assistantship at the University of California at Berkeley in 1924, and later received both his M.A. degree in 1925 and Ph.D. in 1928 from UC Berkeley.  Hall served as curator of mammals at Berkeley from 1927-1944 and was acting director of the museum from 1938-1944.  He joined the KU faculty in 1944 as Professor of Zoology and Director of the Museum of Natural History. As director and curator of mammals from 1944-1967, Hall managed a rapid expansion of all collections and successfully lobbied for an addition to the museum which doubled the available space.  Hall published more than 340 articles and six books, including the two volume "Mammals of North America".  In 1958, Hall was named a Solon E. Summerfield Distinguished Professor. E. Raymond Hall retired in 1972 and died in 1986.</p> 
+</bioghist>
+
+
+
+	<!-- Arrangement/Series Info Goes Here: -->
+
+
+	<!-- End Arrangement/Series Info -->
+
+<!-- End Top Level Metadata -->
+
+<!-- Controlled Access Terms Go Here: -->
+
+
+
+
+<!-- End Controlled Access Terms -->
+<!-- Administrative Information Goes Here: -->
+<acqinfo encodinganalog="541" id="a19">
+<head>Acquisition Information</head>
+<p>Unknown; William Hall, 2011</p>
+</acqinfo>
+
+<userestrict encodinganalog="540" id="a15">
+<head>Restrictions on Use</head>
+<p/>
+<p>Spencer Library staff may determine use restrictions dependent on the physical condition of manuscript materials.</p>
+</userestrict>
+<accessrestrict id="a14" encodinganalog="506">
+<head>Restrictions on Access</head>
+<p>None</p>
+</accessrestrict>
+
+
+<prefercite encodinganalog="524" id="a18">
+<head>Preferred Citation</head>
+<p> E. Raymond Hall Collection, University Archives, PP 167, Kenneth Spencer Research Library, University of Kansas Libraries</p>
+</prefercite>
+
+
+<!-- End Administrative Information -->
+
+
+
+<!-- Start Description of Subordinate Components-->
+<dsc type="combined" id="a23">
+<head>COLLECTION DESCRIPTION</head>
+
+<c01 level="collection"><did><unittitle>PP 169</unittitle></did>
+
+<c02><did><container type="box">Box 1</container></did>
+
+<c03><did><container type="folder">1-3</container><unittitle>The Conservation Foundation Letter - February 1971 to 1972 </unittitle></did></c03>
+<c03><did><container type="folder">4</container><unittitle>New Horizons: Bulletin for the Junior Museum Field, Spring, Fall, Winter 1955</unittitle></did></c03>
+<c03><did><container type="folder">5-8</container><unittitle>Fish and Game news by Harry Lutz </unittitle></did></c03>
+<c03><did><container type="folder">9</container><unittitle>Pamphlets </unittitle></did></c03>
+<c03><did><container type="folder">10</container><unittitle>Department of Natural Resources - Madison, Wisconsin, 1973, 1974 </unittitle></did></c03>
+<c03><did><container type="folder">11</container><unittitle>Kofa Wilderness, Arizona </unittitle></did></c03>
+<c03><did><container type="folder">12-14</container><unittitle>Correspondence - direct </unittitle></did></c03>
+<c03><did><container type="folder">15-16</container><unittitle>Correspondence - organizations </unittitle></did></c03>
+<c03><did><container type="folder">17</container><unittitle>The University of California, Berkeley </unittitle></did></c03>
+<c03><did><container type="folder">18</container><unittitle>United States Department of the Interior </unittitle></did></c03>
+<c03><did><container type="folder">19</container><unittitle>Research and Education Association, 1974 </unittitle></did></c03>
+<c03><did><container type="folder">20</container><unittitle>The New York Botanical Garden </unittitle></did></c03>
+<c03><did><container type="folder">21</container><unittitle>The ORV [Off-Road Vehicle] Monitor, June 1974 </unittitle></did></c03>
+<c03><did><container type="folder">22</container><unittitle>Tennessee - Tombigbee Waterway Development Authority, 1972, 1974  </unittitle></did></c03>
+<c03><did><container type="folder">23</container><unittitle>AAAS Bulletin - American Association for the Advancement of Science, 1973, 1974 </unittitle></did></c03>
+<c03><did><container type="folder">24</container><unittitle>Awww - Arizonas for Quality Environment </unittitle></did></c03>
+<c03><did><container type="folder">25</container><unittitle>Arizoo - The Phoenix Zoo, 1973 </unittitle></did></c03>
+<c03><did><container type="folder">26</container><unittitle>Bulletin - American Association for the Advancement of Science, 1974  </unittitle></did></c03>
+<c03><did><container type="folder">27</container><unittitle>Jr. Scholastic - November 15, 1973 </unittitle></did></c03>
+<c03><did><container type="folder">28</container><unittitle>Jax - The Jackson Laboratory, 1974 </unittitle></did></c03>
+<c03><did><container type="folder">29</container><unittitle>Transactions of the San Diego Society of Natural History, 1964, 1966, 1967 </unittitle></did></c03>
+<c03><did><container type="folder">30-32</container><unittitle>University of Kansas miscellaneous materials </unittitle></did></c03>
+<c03><did><container type="folder">33</container><unittitle>Canadian Wildlife Service - reprinted from Canadian Audubon Magazine, 1964 </unittitle></did></c03>
+<c03><did><container type="folder">34</container><unittitle>The Wilderness Society - "Wilderness Hearing Alert" </unittitle></did></c03>
+<c03><did><container type="folder">35-40</container><unittitle>Conferences - reports, correspondence, presentations </unittitle></did></c03>
+<c03><did><container type="folder">41-60</container><unittitle>Publications, bulletins, newsletters </unittitle></did></c03>
+<c03><did><container type="folder">61-65</container><unittitle>Bulletins, newsletters, journals </unittitle></did></c03>
+<c03><did><container type="folder">66-67</container><unittitle>Environmental issues </unittitle></did></c03>
+<c03><did><container type="folder">68-70</container><unittitle>Miscellaneous materials </unittitle></did></c03>
+<c03><did><container type="folder">71-74</container><unittitle>Pamphlets concerning conservation of waters, wildlife, etc. 1935-1952 </unittitle></did></c03>
+<c03><did><container type="folder">75-78</container><unittitle>Bulletins - Sport fishing institute, conservation news, by-laws and laws of Izaak Walton League, and the State of Indiana, ranging 1946-[19]53, Ross Macy </unittitle></did></c03>
+<c03><did><container type="folder">79-82</container><unittitle>A symposium on the economy of midwest flyways and prairie flora March 5, 1974 </unittitle></did></c03>
+</c02>
+
+<c02><did><container type="box">Box 2</container></did>
+
+<c03><did><container type="folder">1-3</container><unittitle>Job Completion Report - Investigation Projects </unittitle></did></c03>
+<c03><did><container type="folder">4</container><unittitle>Awww - Arizonans for quality environment </unittitle></did></c03>
+<c03><did><container type="folder">5</container><unittitle>Outdoor California, 1953, (2) </unittitle></did></c03>
+<c03><did><container type="folder">6</container><unittitle>The George Vanderbilt Foundation News Bulletin (2) </unittitle></did></c03>
+<c03><did><container type="folder">7</container><unittitle>USDA [United States Department of Agriculture] </unittitle></did></c03>
+<c03><did><container type="folder">8</container><unittitle>Division of Vertebrate Morphology - American Society of Zoologists (3), 1973, 1974 </unittitle></did></c03>
+<c03><did><container type="folder">9-10</container><unittitle>EPA [Environmental Protection Agency] </unittitle></did></c03>
+<c03><did><container type="folder">11</container><unittitle>K.A.W. - Kansas Association for Wildlife, Inc. </unittitle></did></c03>
+<c03><did><container type="folder">12-13</container><unittitle>CORC - Citizens Committee for the Outdoor Recreation Resources Review Commission Report </unittitle></did></c03>
+<c03><did><container type="folder">14-15</container><unittitle>Kansas Academy of Science </unittitle></did></c03>
+<c03><did><container type="folder">16</container><unittitle>Wilderness: Imperial Wilderness Proposal - National Wildlife Refuges, Southwest Region </unittitle></did></c03>
+<c03><did><container type="folder">17</container><unittitle>University of Kansas - miscellaneous materials </unittitle></did></c03>
+<c03><did><container type="folder">18</container><unittitle>Correspondence - general </unittitle></did></c03>
+<c03><did><container type="folder">19</container><unittitle>BSCS Newsletter - The Biological Sciences Curriculum Study, 1971 </unittitle></did></c03>
+<c03><did><container type="folder">20-26</container><unittitle>Publications, bulletins, newsletters </unittitle></did></c03>
+<c03><did><container type="folder">27</container><unittitle>The Ozarks Regional Commission, 1971-1972 </unittitle></did></c03>
+<c03><did><container type="folder">28</container><unittitle>Pamphlets </unittitle></did></c03>
+<c03><did><container type="folder">29-33</container><unittitle>Reports, Publications </unittitle></did></c03>
+<c03><did><container type="folder">34-45</container><unittitle>Publications, bulletins, newsletters </unittitle></did></c03>
+<c03><did><container type="folder">46-48</container><unittitle>Miscellaneous materials </unittitle></did></c03>
+<c03><did><container type="folder">49-60</container><unittitle>National Park Service: maps, brochures, newsletters </unittitle></did></c03>
+<c03><did><container type="folder">61-76</container><unittitle>Turkey: brochures, publications, reports </unittitle></did></c03>
+</c02>
+
+<c02><did><container type="box">Box 3</container></did>
+
+<c03><did><container type="folder">1-32</container><unittitle>National Park Service and Department of the Interior: brochures, newsletters, reports </unittitle></did></c03>
+<c03><did><container type="folder">33-47</container><unittitle>Publications, bulletins, pamphlets, papers </unittitle></did></c03>
+<c03><did><container type="folder">48</container><unittitle>America zoo - The legacy of our lands </unittitle></did></c03>
+<c03><did><container type="folder">49</container><unittitle>America 1976: A bicentennial exhibition sponsored by the United States Department of the Interior </unittitle></did></c03>
+<c03><did><container type="folder">50-52</container><unittitle>Management policies - US Department of the Interior, National Park Service, 1975 </unittitle></did></c03>
+<c03><did><container type="book">1</container><unittitle>Annual Report of the Chief Scientist of the National Park Service, cy 1975 </unittitle></did></c03>
+<c03><did><container type="book">2</container><unittitle>The National Register of Historic Places, 1976 </unittitle></did></c03>
+</c02>
+
+<c02><did><container type="box">Box 4</container></did>
+
+<c03><did><container type="folder">1</container><unittitle>Casemates and Cannonballs - Archaeological investigations at Fort Stanwix National Monument by Lee Hanson and Dick Ping Hu (1975) </unittitle></did></c03>
+<c03><did><container type="folder">2-3</container><unittitle>Tallgrass Prairie Conference - Camp Wood Sept[ember] 13-14, 1975 </unittitle></did></c03>
+<c03><did><container type="folder">4</container><unittitle>Resolutions of the Midwest Regional Advisory Committee, July 1973 - September 1976, E.R. Hall rec[eived] Nov[ember] 10, 1976</unittitle></did></c03>
+<c03><did><container type="folder">5</container><unittitle>National Geographic Society news - received Oct[ober] 4, 1976 </unittitle></did></c03>
+<c03><did><container type="folder">6</container><unittitle>Indiana Dunes National Lakeshore - Indiana </unittitle></did></c03>
+<c03><did><container type="folder">7-11</container><unittitle>National Park Service - Cuyahoga Valley National Recreation Area </unittitle></did></c03>
+<c03><did><container type="folder">12-13</container><unittitle>National Park Service - News Release, 1976 </unittitle></did></c03>
+<c03><did><container type="folder">14-17</container><unittitle>National Park Service - Newsletter, 1976 </unittitle></did></c03>
+<c03><did><container type="folder">18-20</container><unittitle>Department of the Interior - news release, 1976 </unittitle></did></c03>
+<c03><did><container type="folder">21</container><unittitle>Southwest Regional Advisory Committee, 1976 </unittitle></did></c03>
+<c03><did><container type="folder">22</container><unittitle>North Atlantic Regional Advisory Committee, 1976 </unittitle></did></c03>
+<c03><did><container type="folder">23-27</container><unittitle>Midwest Regional Advisory Committee, 1976 </unittitle></did></c03>
+<c03><did><container type="folder">28-33</container><unittitle>Editorial briefs - The National Park Service as seen by the Nation's Press, 1976 </unittitle></did></c03>
+<c03><did><container type="folder">34-35</container><unittitle>Interpreters Information Exchange - In Touch, 1976 </unittitle></did></c03>
+<c03><did><container type="folder">36</container><unittitle>Update: Yosemite Master Plan </unittitle></did></c03>
+<c03><did><container type="folder">37</container><unittitle>List of Pages: WASO pages 1-6 </unittitle></did></c03>
+<c03><did><container type="folder">38-40</container><unittitle>Standard contract language - Department of the Interior, National Park Service </unittitle></did></c03>
+<c03><did><container type="folder">41-49</container><unittitle>United States Department of the Interior - memoradums, 1976 </unittitle></did></c03>
+<c03><did><container type="folder">50-56</container><unittitle>Department of the Interior and National Park Service - memos, correspondence, publications, papers, bulletins </unittitle></did></c03>
+<c03><did><container type="folder">57-62</container><unittitle>Outdoor News Bulletin - Wildlife Management Institue, 1974-1975 </unittitle></did></c03>
+<c03><did><container type="folder">63</container><unittitle>The Greater Prairie Chicken newsletter (2), 1975 </unittitle></did></c03>
+<c03><did><container type="folder">64</container><unittitle>National Parks Magazine (2), 1955, 1963 </unittitle></did></c03>
+<c03><did><container type="folder">65</container><unittitle>Supervivencia magazine (2) </unittitle></did></c03>
+<c03><did><container type="folder">66</container><unittitle>Coyote Research newsletter (2), 1974,1975 </unittitle></did></c03>
+<c03><did><container type="folder">67-71</container><unittitle>Environmental Protection Agency: technical notes, bulletins, publications </unittitle></did></c03>
+<c03><did><container type="folder">72-73</container><unittitle>Coyotes: reports and memos </unittitle></did></c03>
+<c03><did><container type="folder">74-78</container><unittitle>South Dakota: Department of Game, Fish and Parks - meeting minutes </unittitle></did></c03>
+</c02>
+
+<c02><did><container type="box">Box 5</container></did>
+
+<c03><did><container type="folder">1-17</container><unittitle>South Dakota Cooperative Wildlife Research Unit - Quarterly Report, 1970-1974 </unittitle></did></c03>
+<c03><did><container type="folder">18-28</container><unittitle>Cooperative Extension Service - Kansas State University </unittitle></did></c03>
+<c03><did><container type="folder">29-41</container><unittitle>Publications, pamphlets, bulletins, newsletters </unittitle></did></c03>
+<c03><did><container type="book">1</container><unittitle>Congressional Directory, 93rd Congress, 2nd Session, 1974 </unittitle></did></c03>
+</c02>
+
+<c02><did><container type="box">Box 6</container></did>
+
+<c03><did><container type="folder">1</container><unittitle>The Jackson Laboratory - JAX, 1975</unittitle></did></c03>
+<c03><did><container type="folder">2</container><unittitle>45th Annual Report 1973-1974 - The Jackson Laboratory </unittitle></did></c03>
+<c03><did><container type="folder">3</container><unittitle>46th Annual Report 1974-1975 - The Jackson Laboratory </unittitle></did></c03>
+<c03><did><container type="folder">4</container><unittitle>The Kansas Water Resources Board - Kansas Water News </unittitle></did></c03>
+<c03><did><container type="folder">5-6</container><unittitle>Alaska - Review of business and economic conditions, 1974-1975 </unittitle></did></c03>
+<c03><did><container type="folder">7-12</container><unittitle>National Wildlife Federation - Conservation Report, 1974-1975 </unittitle></did></c03>
+<c03><did><container type="folder">13-16</container><unittitle>Journal of the Washington Academy of Sciences, 1974-1975 </unittitle></did></c03>
+<c03><did><container type="folder">17</container><unittitle>"National Environment of Early Food Production North of Mesopotamia" by H.E. Wright, Jr.  </unittitle></did></c03>
+<c03><did><container type="folder">18</container><unittitle>Calendar of the Smithsonian Institution, January 1975, November 1974 </unittitle></did></c03>
+<c03><did><container type="folder">19</container><unittitle>Division of Vertebrate Morphology - American Society of Zoologists newsletters, 1974-1975 </unittitle></did></c03>
+<c03><did><container type="folder">20</container><unittitle>Friends of the Sea Otter, 1975</unittitle></did></c03>
+<c03><did><container type="folder">21-24</container><unittitle>Publications, pamphlets, newsletters </unittitle></did></c03>
+<c03><did><container type="folder">25</container><unittitle>Turkey: Information and newspaper articles </unittitle></did></c03>
+<c03><did><container type="folder">26-30</container><unittitle>Correspondence 1954-[19]66 </unittitle></did></c03>
+<c03><did><container type="folder">31-39</container><unittitle>Correspondence 1954-[19]70 </unittitle></did></c03>
+<c03><did><container type="folder">40-45</container><unittitle>NPS [National Park Service] directory changes, 1967-[19]69 </unittitle></did></c03>
+<c03><did><container type="folder">46</container><unittitle>Pea Ridge Battlefield, 1956 </unittitle></did></c03>
+<c03><did><container type="folder">47-49</container><unittitle>ERH [E. Raymond Hall] travel, 1955-[19]61 </unittitle></did></c03>
+<c03><did><container type="folder">50</container><unittitle>Biology hand book: Kansas and Nebraska </unittitle></did></c03>
+<c03><did><container type="folder">51-68</container><unittitle>Kansas City Museum 1951-[19]71 </unittitle></did></c03>
+<c03><did><container type="book">1</container><unittitle>Manual for Museums, 1976</unittitle></did></c03>
+<c03><did><container type="book">2-3</container><unittitle>Draft Environmental Statement, Onaga Dam and Lake, Vermillion Creek, Pottawatomie County, Kansas, 1973</unittitle></did></c03>
+<c03><did><container type="book">4</container><unittitle>Proceedings of Second Great Plains Wildlife Damage Control Workshop, Kansas State University, 1975 </unittitle></did></c03>
+</c02>
+
+<c02><did><container type="box">Box 7</container></did>
+
+<c03><did><container type="folder">1</container><unittitle>Newsletters - Society of Systematic Zoology, 1953-1958, 1964 </unittitle></did></c03>
+<c03><did><container type="folder">2</container><unittitle>Society of Systematic Zoology, 1949</unittitle></did></c03>
+<c03><did><container type="folder">3-4</container><unittitle>Society of Systematic Zoology, 1951</unittitle></did></c03>
+<c03><did><container type="folder">5-6</container><unittitle>Systematic zoology, 1952 </unittitle></did></c03>
+<c03><did><container type="folder">7-8</container><unittitle>Systematic zoology, 1953 </unittitle></did></c03>
+<c03><did><container type="folder">9-10</container><unittitle>Systematic zoology, 1954 </unittitle></did></c03>
+<c03><did><container type="folder">11-12</container><unittitle>Systematic zoology, 1955 </unittitle></did></c03>
+<c03><did><container type="folder">13-14</container><unittitle>Systematic zoology, 1956 </unittitle></did></c03>
+<c03><did><container type="folder">15-16</container><unittitle>Systematic zoology, 1957 </unittitle></did></c03>
+<c03><did><container type="folder">17-18</container><unittitle>Systematic zoology, 1958 </unittitle></did></c03>
+<c03><did><container type="folder">19-20</container><unittitle>Systematic zoology, 1959</unittitle></did></c03>
+<c03><did><container type="folder">21-22</container><unittitle>Systematic zoology, 1960</unittitle></did></c03>
+<c03><did><container type="folder">23-24</container><unittitle>Systematic zoology, 1961 </unittitle></did></c03>
+<c03><did><container type="folder">25-26</container><unittitle>Systematic zoology, 1962 </unittitle></did></c03>
+<c03><did><container type="folder">27-28</container><unittitle>Systematic zoology, 1963 </unittitle></did></c03>
+<c03><did><container type="folder">29-30</container><unittitle>Systematic zoology, 1964 </unittitle></did></c03>
+<c03><did><container type="folder">31-32</container><unittitle>Systematic zoology, 1965 </unittitle></did></c03>
+<c03><did><container type="folder">33</container><unittitle>Systematic zoology, 1966 </unittitle></did></c03>
+<c03><did><container type="folder">34</container><unittitle>Systematic zoology, 1967 </unittitle></did></c03>
+<c03><did><container type="folder">35-36</container><unittitle>Systematic zoology, 1970 </unittitle></did></c03>
+<c03><did><container type="folder">37-38</container><unittitle>Systematic zoology, 1971</unittitle></did></c03>
+<c03><did><container type="folder">39-40</container><unittitle>Systematic zoology, 1972</unittitle></did></c03>
+</c02>
+
+<c02><did><container type="box">Box 8</container></did>
+
+<c03><did><container type="folder">1-13</container><unittitle>Conservation 1964-[19]65 </unittitle></did></c03>
+<c03><did><container type="folder">14</container><unittitle>"The Bounty System in Iowa" by David w. Walter and Paul L. Errington </unittitle></did></c03>
+<c03><did><container type="folder">15</container><unittitle>Guide for a Field Conference on the Tertiary and Pleistocene of Nebraska, 1941 </unittitle></did></c03>
+<c03><did><container type="folder">16-18</container><unittitle>Kansas Coyote Damage Control Program </unittitle></did></c03>
+<c03><did><container type="folder">19</container><unittitle>ZOE - September, 1906-April, 1908 </unittitle></did></c03>
+<c03><did><container type="folder">20</container><unittitle>ZOE - August, 1905 </unittitle></did></c03>
+<c03><did><container type="folder">21</container><unittitle>ZOE - May, 1903 </unittitle></did></c03>
+<c03><did><container type="folder">22-23</container><unittitle>ZOE - 1900 </unittitle></did></c03>
+<c03><did><container type="folder">24</container><unittitle>ZOE: A biological journal, March 1894 </unittitle></did></c03>
+<c03><did><container type="folder">25-28</container><unittitle>ZOE: A biological journal, 1893 </unittitle></did></c03>
+<c03><did><container type="folder">29-32</container><unittitle>ZOE: A biological journal, 1892</unittitle></did></c03>
+<c03><did><container type="folder">33-36</container><unittitle>ZOE: A biological journal, 1891</unittitle></did></c03>
+<c03><did><container type="folder">37-41</container><unittitle>ZOE: A biological journal, 1890 </unittitle></did></c03>
+<c03><did><container type="folder">42</container><unittitle>National Parks Service brochures - "A" </unittitle></did></c03>
+<c03><did><container type="folder">43</container><unittitle>Agate Fossil Beds - National Monument, Nebraska </unittitle></did></c03>
+<c03><did><container type="folder">44</container><unittitle>Abraham Lincoln Birthplace - National Historic Site, Kentucky </unittitle></did></c03>
+<c03><did><container type="folder">45</container><unittitle>Acadia National Park - Maine </unittitle></did></c03>
+<c03><did><container type="folder">46</container><unittitle>Adams National Historic Site - Massachusetts </unittitle></did></c03>
+<c03><did><container type="folder">47</container><unittitle>Andrew Johnson National Monument - Tennessee </unittitle></did></c03>
+<c03><did><container type="folder">48-49</container><unittitle>Antietam National Battlefield Site - Maryland </unittitle></did></c03>
+<c03><did><container type="folder">50</container><unittitle>Appomattox Court House National Historic Site - Virginia </unittitle></did></c03>
+<c03><did><container type="folder">51</container><unittitle>Arches National Monument - Utah </unittitle></did></c03>
+<c03><did><container type="folder">52</container><unittitle>Assateague Island National Seashore - Maryland </unittitle></did></c03>
+<c03><did><container type="folder">53-54</container><unittitle>Aztec Ruins National Monument - New Mexico </unittitle></did></c03>
+<c03><did><container type="folder">55</container><unittitle>Buck Island Reef National Monument - Virgin Islands </unittitle></did></c03>
+<c03><did><container type="folder">56</container><unittitle>Bighorn Canyon National Recreation area - Montana </unittitle></did></c03>
+<c03><did><container type="folder">57-59</container><unittitle>Badlands National Monument - South Dakota </unittitle></did></c03>
+<c03><did><container type="folder">60</container><unittitle>Bent's Old Fort National Historic Site - Colorado </unittitle></did></c03>
+<c03><did><container type="folder">61-62</container><unittitle>Bandelier National Monument - New Mexico  </unittitle></did></c03>
+<c03><did><container type="folder">63-64</container><unittitle>Big Bend National Park - Texas </unittitle></did></c03>
+<c03><did><container type="folder">65</container><unittitle>Big Hole National Battlefield - Montana </unittitle></did></c03>
+<c03><did><container type="folder">66</container><unittitle>Black Canyon of the Gunnison National Monument - Colorado </unittitle></did></c03>
+<c03><did><container type="folder">67-69</container><unittitle>Blue Ridge Parkway - Virginia and North Carolina </unittitle></did></c03>
+<c03><did><container type="folder">70</container><unittitle>Booker T. Washington National Monument - Virginia </unittitle></did></c03>
+<c03><did><container type="folder">71</container><unittitle>Brice's Cross Roads National Battlefield Site - Mississippi </unittitle></did></c03>
+<c03><did><container type="folder">72-73</container><unittitle>Bryce Canyon National Park - Utah </unittitle></did></c03>
+<c03><did><container type="folder">74</container><unittitle>Boating Regulations in the National Park System </unittitle></did></c03>
+</c02>
+
+<c02><did><container type="box">Box 9</container></did>
+
+<c03><did><container type="folder">1</container><unittitle>Miscellaneous "C" </unittitle></did></c03>
+<c03><did><container type="folder">2</container><unittitle>Chesapeake and Ohio Canal, District of Columbia and Ohio </unittitle></did></c03>
+<c03><did><container type="folder">3</container><unittitle>Chickamauga Battlefield National Military Park, Georgia and Tennessee </unittitle></did></c03>
+<c03><did><container type="folder">4</container><unittitle>Chimney Rock National Historic Site, Nebraska </unittitle></did></c03>
+<c03><did><container type="folder">5</container><unittitle>Curecanti recreation area, Colorado </unittitle></did></c03>
+<c03><did><container type="folder">6-7</container><unittitle>Chiricahua National Monument - Arizona </unittitle></did></c03>
+<c03><did><container type="folder">8</container><unittitle>Christiansted National Historic Site - St. Croix, Virgin Islands </unittitle></did></c03>
+<c03><did><container type="folder">9-10</container><unittitle>City of Refuge National Historical Park - Hawaii </unittitle></did></c03>
+<c03><did><container type="folder">11</container><unittitle>Colonial Parkway - Colonial National Historic Park, Virginia </unittitle></did></c03>
+<c03><did><container type="folder">12-13</container><unittitle>Colorado National Monument - Colorado </unittitle></did></c03>
+<c03><did><container type="folder">14-15</container><unittitle>Coronado National Memorial - Arizona </unittitle></did></c03>
+<c03><did><container type="folder">16-17</container><unittitle>Coulee Dam National Recreation Area - Washington </unittitle></did></c03>
+<c03><did><container type="folder">18</container><unittitle>Canyon de Chelly National Monument - Arizona </unittitle></did></c03>
+<c03><did><container type="folder">19-20</container><unittitle>Cape Cod National Seashore - Massachusetts </unittitle></did></c03>
+<c03><did><container type="folder">21-23</container><unittitle>Cape Hatteras National Seashore Recreational Area - North Carolina </unittitle></did></c03>
+<c03><did><container type="folder">24</container><unittitle>Cape Henry Memorial - Virginia </unittitle></did></c03>
+<c03><did><container type="folder">25</container><unittitle>Capitol Reef National Monument - Utah </unittitle></did></c03>
+<c03><did><container type="folder">26</container><unittitle>Capulin Mountain National Monument - New Mexico </unittitle></did></c03>
+<c03><did><container type="folder">27-29</container><unittitle>Carlsbad Cavern National Park - New Mexico </unittitle></did></c03>
+<c03><did><container type="folder">30</container><unittitle>Craters of the Moon National Monument - Idaho </unittitle></did></c03>
+<c03><did><container type="folder">31</container><unittitle>Cabrillo National Monument - California </unittitle></did></c03>
+<c03><did><container type="folder">32</container><unittitle>Cedar Breaks National Monument - Utah</unittitle></did></c03>
+<c03><did><container type="folder">33</container><unittitle>Castilo de San Marcos National Monument - Florida </unittitle></did></c03>
+<c03><did><container type="folder">34</container><unittitle>Carpenters Hall - Independence National Historic Park, Pennsylvania </unittitle></did></c03>
+<c03><did><container type="folder">35</container><unittitle>Casa Grande Ruins National Monument - Arizona </unittitle></did></c03>
+<c03><did><container type="folder">36</container><unittitle>Channel Islands National Monument - California </unittitle></did></c03>
+<c03><did><container type="folder">37-38</container><unittitle>Chalmette National Historical Park - Louisiana </unittitle></did></c03>
+<c03><did><container type="folder">39</container><unittitle>Chaco Canyon National Monument - New Mexico </unittitle></did></c03>
+<c03><did><container type="folder">40-41</container><unittitle>Custis-Lee Mansion - The Robert E. Lee Memorial, Virginia </unittitle></did></c03>
+<c03><did><container type="folder">42</container><unittitle>Custer Battlefield National Monument - Montana </unittitle></did></c03>
+<c03><did><container type="folder">43</container><unittitle>Cumberland Gap National Historical Park - Kentucky, Virginia, Tennessee </unittitle></did></c03>
+<c03><did><container type="folder">44-47</container><unittitle>Crater Lake National Park - Oregon </unittitle></did></c03>
+<c03><did><container type="folder">48</container><unittitle>The Cherry Blossoms, Washington, D.C.</unittitle></did></c03>
+<c03><did><container type="folder">49</container><unittitle>Cowpens National Battlefield Site - South Carolina </unittitle></did></c03>
+<c03><did><container type="folder">50</container><unittitle>Miscellaneous "D" National Parks </unittitle></did></c03>
+<c03><did><container type="folder">51</container><unittitle>De Soto National Memorial, Florida </unittitle></did></c03>
+<c03><did><container type="folder">52-54</container><unittitle>Dinosaur National Monument, Colorado and Utah </unittitle></did></c03>
+<c03><did><container type="folder">55</container><unittitle>Devils Tower National Monument, Wyoming </unittitle></did></c03>
+<c03><did><container type="folder">56</container><unittitle>Devils Postpile National Monument, Califronia </unittitle></did></c03>
+<c03><did><container type="folder">57-59</container><unittitle>Death Valley National Monument, California </unittitle></did></c03>
+<c03><did><container type="folder">60-61</container><unittitle>Everglades National Park, Florida </unittitle></did></c03>
+<c03><did><container type="folder">62</container><unittitle>El Morro National Monument, New Mexico </unittitle></did></c03>
+<c03><did><container type="folder">63</container><unittitle>Emerald Mound, Mississippi</unittitle></did></c03>
+<c03><did><container type="folder">64</container><unittitle>Effigy Mounds National Monument, Iowa </unittitle></did></c03>
+<c03><did><container type="folder">65-66</container><unittitle>Edison Laboratory National Monument, New Jersey </unittitle></did></c03>
+<c03><did><container type="folder">67</container><unittitle>Mr. Ford's Theatre, Washington, D.C.</unittitle></did></c03>
+<c03><did><container type="folder">68</container><unittitle>Florida Keys Wilderness Proposal </unittitle></did></c03>
+<c03><did><container type="folder">69</container><unittitle>Fall River Dam and Reservoir, Kansas </unittitle></did></c03>
+<c03><did><container type="folder">70</container><unittitle>Frederick Douglass Home, Washington D.C. </unittitle></did></c03>
+<c03><did><container type="folder">71</container><unittitle>Fort McHenry National Monument, Maryland </unittitle></did></c03>
+<c03><did><container type="folder">72-73</container><unittitle>Fredericksburg and Spotsylvania National Military Park, Virginia </unittitle></did></c03>
+<c03><did><container type="folder">74</container><unittitle>Fort Washington, Maryland </unittitle></did></c03>
+<c03><did><container type="folder">75</container><unittitle>Fort Vancouver National Historic Site, Washington </unittitle></did></c03>
+<c03><did><container type="folder">76-77</container><unittitle>Fort Union National Monument, New Mexico </unittitle></did></c03>
+<c03><did><container type="folder">78</container><unittitle>Fort Sumter National Monument, South Carolina </unittitle></did></c03>
+<c03><did><container type="folder">79</container><unittitle>Fort Smith National Historic Site, Arkansas </unittitle></did></c03>
+<c03><did><container type="folder">80</container><unittitle>Fort Raleigh National Historic Site, North Carolina </unittitle></did></c03>
+<c03><did><container type="folder">81</container><unittitle>Fort McHenry National Monument and Historic Shrine, Maryland </unittitle></did></c03>
+<c03><did><container type="folder">82</container><unittitle>Fort Necessity National Battlefield, Pennsylvania </unittitle></did></c03>
+<c03><did><container type="folder">83</container><unittitle>Fort Pulaski National Monument, Georgia </unittitle></did></c03>
+<c03><did><container type="folder">84</container><unittitle>Federal Hall National Memorial, New York City </unittitle></did></c03>
+<c03><did><container type="folder">85</container><unittitle>Fire Island National Seashore, New York </unittitle></did></c03>
+<c03><did><container type="folder">86</container><unittitle>Flaming Gorge Recreation Area, Wyoming and Utah </unittitle></did></c03>
+<c03><did><container type="folder">87</container><unittitle>Ford's Theatre and the House Where Lincoln Died, Washington, D.C. </unittitle></did></c03>
+<c03><did><container type="folder">88</container><unittitle>Fort Caroline National Memorial, Florida </unittitle></did></c03>
+<c03><did><container type="folder">89</container><unittitle>Fort Clatsop National Memorial, Florida </unittitle></did></c03>
+<c03><did><container type="folder">90</container><unittitle>Fort Davis National Historic Site, Texas </unittitle></did></c03>
+<c03><did><container type="folder">91</container><unittitle>Fort Donelson National Military Park, Tennessee </unittitle></did></c03>
+<c03><did><container type="folder">92</container><unittitle>Fort Frederica National Monument, Georgia </unittitle></did></c03>
+<c03><did><container type="folder">93</container><unittitle>Fort Jefferson National Monument, Florida </unittitle></did></c03>
+<c03><did><container type="folder">94-95</container><unittitle>Fort Laramie National Historic Site, Wyoming </unittitle></did></c03>
+<c03><did><container type="folder">96</container><unittitle>Fort Matanzas National Monument, Florida </unittitle></did></c03>
+<c03><did><container type="folder">97</container><unittitle>Gila Cliff Dwellings </unittitle></did></c03>
+<c03><did><container type="folder">98</container><unittitle>Glacial Bay National Monument, Alaska </unittitle></did></c03>
+<c03><did><container type="folder">99</container><unittitle>Glen Canyon National Recreation Area </unittitle></did></c03>
+<c03><did><container type="folder">100-103</container><unittitle>Grand Canyon National Park, Arizona </unittitle></did></c03>
+<c03><did><container type="folder">104</container><unittitle>Grand Portage National Monument, Minnesota </unittitle></did></c03>
+<c03><did><container type="folder">105-108</container><unittitle>Grand Teton National Park, Wyoming </unittitle></did></c03>
+<c03><did><container type="folder">109-110</container><unittitle>Great Sand Dunes National Monument, Colorado </unittitle></did></c03>
+</c02>
+
+<c02><did><container type="box">Box 10</container></did>
+
+<c03><did><container type="folder">1-4</container><unittitle>Great Smoky Mountains National Park, Tennessee and North Carolina </unittitle></did></c03>
+<c03><did><container type="folder">5</container><unittitle>Guilford Courthouse, North Carolina</unittitle></did></c03>
+<c03><did><container type="folder">6-8</container><unittitle>Gettysburg National Milirary Park, Pennsylvania </unittitle></did></c03>
+<c03><did><container type="folder">9-12</container><unittitle>Glacier National Park, Montana </unittitle></did></c03>
+<c03><did><container type="folder">13</container><unittitle>George Washington Carver National Monument, Missouri </unittitle></did></c03>
+<c03><did><container type="folder">14</container><unittitle>George Washington Memorial Parkway </unittitle></did></c03>
+<c03><did><container type="folder">15</container><unittitle>General Grant National Memorial, New York City </unittitle></did></c03>
+<c03><did><container type="folder">16-18</container><unittitle>George Washington Birthplace National Monument, Virginia </unittitle></did></c03>
+<c03><did><container type="folder">19</container><unittitle>Herbert Hoover National Historic Site, Iowa </unittitle></did></c03>
+<c03><did><container type="folder">20</container><unittitle>Hubbell Trading Post National Historic Site, Arizona </unittitle></did></c03>
+<c03><did><container type="folder">21</container><unittitle>Hovenweep National Monument, Utah</unittitle></did></c03>
+<c03><did><container type="folder">22-23</container><unittitle>Hot Springs National Park, Arkansas </unittitle></did></c03>
+<c03><did><container type="folder">24</container><unittitle>Horseshoe Bend National Military Park, Alabama </unittitle></did></c03>
+<c03><did><container type="folder">25-27</container><unittitle>Hopewell Village National Historic Site, Pennsylvania </unittitle></did></c03>
+<c03><did><container type="folder">28</container><unittitle>Homestead National Monument, Nebraska </unittitle></did></c03>
+<c03><did><container type="folder">29</container><unittitle>Home of Franklin D. Roosevelt National Historic Site, Hyde Park, New York </unittitle></did></c03>
+<c03><did><container type="folder">30-31</container><unittitle>Harper's Ferry National Monument, West Virginia </unittitle></did></c03>
+<c03><did><container type="folder">32</container><unittitle>Hampton National Historic Site, Maryland </unittitle></did></c03>
+<c03><did><container type="folder">33-34</container><unittitle>Haleakala National Park, Island of Maui, Hawaii </unittitle></did></c03>
+<c03><did><container type="folder">35-38</container><unittitle>Hawaii Volcanoes National Park, Island of Hawaii, Hawaii </unittitle></did></c03>
+<c03><did><container type="folder">39-40</container><unittitle>Independence Historical Park, Pennsylvania </unittitle></did></c03>
+<c03><did><container type="folder">41-42</container><unittitle>Isle Royal National Park, Michigan</unittitle></did></c03>
+<c03><did><container type="folder">43</container><unittitle>Indiana Dunes, National Lakeshore Project </unittitle></did></c03>
+<c03><did><container type="folder">44</container><unittitle>Islandia National Park committee, Florida </unittitle></did></c03>
+<c03><did><container type="folder">45</container><unittitle>International Office for the Protection of Nature </unittitle></did></c03>
+<c03><did><container type="folder">46</container><unittitle>Jefferson National Expansion Memorial, St. Louis, Missouri </unittitle></did></c03>
+<c03><did><container type="folder">47</container><unittitle>John Muir National Historic Site, California </unittitle></did></c03>
+<c03><did><container type="folder">48</container><unittitle>Johnstown Flood National Memorial, Allegheny Portage Railroad National Historic Site, Pennsylvania </unittitle></did></c03>
+<c03><did><container type="folder">49</container><unittitle>Jackson Hole, Wyoming </unittitle></did></c03>
+<c03><did><container type="folder">50</container><unittitle>Jewell Cave National Monument, South Dakota </unittitle></did></c03>
+<c03><did><container type="folder">51</container><unittitle>Joshua Tree National Monument, California </unittitle></did></c03>
+<c03><did><container type="folder">52-55</container><unittitle>Jamestown, Virginia </unittitle></did></c03>
+<c03><did><container type="folder">56</container><unittitle>John Fitzgerald National Historic Site, Massachusetts </unittitle></did></c03>
+<c03><did><container type="folder">57</container><unittitle>Kenilworth Aquatic Gardens, Washington, D.C. </unittitle></did></c03>
+<c03><did><container type="folder">58</container><unittitle>Katmai National Monument, Alaska </unittitle></did></c03>
+<c03><did><container type="folder">59</container><unittitle>Kennewas Mountain National Battlefield Park </unittitle></did></c03>
+<c03><did><container type="folder">60</container><unittitle>Kings Mountain National Military Park, South Carolina </unittitle></did></c03>
+<c03><did><container type="folder">61</container><unittitle>Miscellaneous "L" </unittitle></did></c03>
+<c03><did><container type="folder">62</container><unittitle>Lafayette Park, Washington, D.C. </unittitle></did></c03>
+<c03><did><container type="folder">63-65</container><unittitle>Lake Mead-Lake Mohave National Recreation Area, Arizona-Nevada </unittitle></did></c03>
+<c03><did><container type="folder">66-67</container><unittitle>Lassen Volcanic National Park, California </unittitle></did></c03>
+<c03><did><container type="folder">68-69</container><unittitle>Lava Beds National Monument, California </unittitle></did></c03>
+<c03><did><container type="folder">70</container><unittitle>Lehman Caves National Monument, Nevada </unittitle></did></c03>
+<c03><did><container type="folder">71</container><unittitle>Lincoln Boyhood National Memorial, Indiana </unittitle></did></c03>
+<c03><did><container type="folder">72</container><unittitle>The Lincoln Museum and the House Where Lincoln Died </unittitle></did></c03>
+<c03><did><container type="folder">73</container><unittitle>Lincoln Memorial, Washington, D.C.</unittitle></did></c03>
+<c03><did><container type="folder">74</container><unittitle>Miscellaneous "M"</unittitle></did></c03>
+<c03><did><container type="folder">75</container><unittitle>Minute Man National Historical Park, Massachusetts </unittitle></did></c03>
+<c03><did><container type="folder">76</container><unittitle>Muir Woods National Monument, California </unittitle></did></c03>
+<c03><did><container type="folder">77</container><unittitle>Mount Vernon Memorial Highway </unittitle></did></c03>
+<c03><did><container type="folder">78</container><unittitle>Mount Rushmore National Monument, South Dakota </unittitle></did></c03>
+<c03><did><container type="folder">79-82</container><unittitle>Mount Rainer National Park, Washington </unittitle></did></c03>
+<c03><did><container type="folder">83-85</container><unittitle>Mount McKinley National Park, Alaska </unittitle></did></c03>
+<c03><did><container type="folder">86</container><unittitle>Mound City Group National Mounument, Ohio </unittitle></did></c03>
+<c03><did><container type="folder">87</container><unittitle>Moses H. Cone Memorial Park, Blue Ridge Parkway, North Carolina </unittitle></did></c03>
+<c03><did><container type="folder">88</container><unittitle>Morristwon National Historical Park, New Jersey </unittitle></did></c03>
+<c03><did><container type="folder">89</container><unittitle>Moore's Creek National Military Park, North Carolina </unittitle></did></c03>
+<c03><did><container type="folder">90-91</container><unittitle>Montezuma Castle National Monument, Arizona </unittitle></did></c03>
+<c03><did><container type="folder">92-94</container><unittitle>Mesa Verde National Park, Colorado </unittitle></did></c03>
+<c03><did><container type="folder">95</container><unittitle>Meriweather Lewis Park, Tennessee </unittitle></did></c03>
+<c03><did><container type="folder">96</container><unittitle>McLoughlin House National Historic Site, Oregon </unittitle></did></c03>
+<c03><did><container type="folder">97-98</container><unittitle>Manassas National Battlefield Park, Virginia </unittitle></did></c03>
+<c03><did><container type="folder">99-102</container><unittitle>Mammoth Cave National Park, Kentucky </unittitle></did></c03>
+</c02>
+
+<c02><did><container type="box">Box 11</container></did>
+
+<c03><did><container type="folder">1</container><unittitle>Miscellaneous "N" </unittitle></did></c03>
+<c03><did><container type="folder">2</container><unittitle>National Park System brochures </unittitle></did></c03>
+<c03><did><container type="folder">3</container><unittitle>New York Botanical Garden</unittitle></did></c03>
+<c03><did><container type="folder">4</container><unittitle>Nez Pearce National Historical Park, Idaho </unittitle></did></c03>
+<c03><did><container type="folder">5</container><unittitle>Navajo National Monument, Arizona </unittitle></did></c03>
+<c03><did><container type="folder">6</container><unittitle>Natural Bridges National Monument, Utah </unittitle></did></c03>
+<c03><did><container type="folder">7</container><unittitle>Natchez Trace Parkway, Tennessee, Alabama, Mississippi </unittitle></did></c03>
+<c03><did><container type="folder">8-10</container><unittitle>National Capital Parks </unittitle></did></c03>
+<c03><did><container type="folder">11</container><unittitle>Miscellaneous "O" </unittitle></did></c03>
+<c03><did><container type="folder">12</container><unittitle>Ozark National Scenic Riverways, Missouri </unittitle></did></c03>
+<c03><did><container type="folder">13</container><unittitle>Oregon Caves National Monument, Oregon </unittitle></did></c03>
+<c03><did><container type="folder">14</container><unittitle>Organ Pipe Cactus National Monument, Arizona </unittitle></did></c03>
+<c03><did><container type="folder">15-19</container><unittitle>Olympic National Park, Washington </unittitle></did></c03>
+<c03><did><container type="folder">20</container><unittitle>Ocmulgee National Monument, Georgia </unittitle></did></c03>
+<c03><did><container type="folder">21</container><unittitle>Miscellaneous "P" </unittitle></did></c03>
+<c03><did><container type="folder">22-23</container><unittitle>Puerto Rico </unittitle></did></c03>
+<c03><did><container type="folder">24</container><unittitle>Point Park Lookout Mountain and Chattanooga Battlefields, Georgia and Tennessee </unittitle></did></c03>
+<c03><did><container type="folder">25</container><unittitle>Padre Island National Seashore, Texas </unittitle></did></c03>
+<c03><did><container type="folder">26</container><unittitle>Pea Ridge National Military Park, Arkansas </unittitle></did></c03>
+<c03><did><container type="folder">27</container><unittitle>Perry's Victory and International Peace Memorial National Monument, Ohio </unittitle></did></c03>
+<c03><did><container type="folder">28-30</container><unittitle>Petersburg National Military Park, Virginia </unittitle></did></c03>
+<c03><did><container type="folder">31-33</container><unittitle>Petrifried Forest National Monument, Arizona </unittitle></did></c03>
+<c03><did><container type="folder">34-35</container><unittitle>Pinnacles National Monument, California </unittitle></did></c03>
+<c03><did><container type="folder">36</container><unittitle>Pipe Spring National Monument, Arizona </unittitle></did></c03>
+<c03><did><container type="folder">37</container><unittitle>Pipestone National Monument, Minnesota </unittitle></did></c03>
+<c03><did><container type="folder">38-39</container><unittitle>Platt National Park, Oklahoma </unittitle></did></c03>
+<c03><did><container type="folder">40</container><unittitle>Point Reyes National Seashore, California </unittitle></did></c03>
+<c03><did><container type="folder">41-42</container><unittitle>Prince William Forest Park, Virginia  </unittitle></did></c03>
+<c03><did><container type="folder">43</container><unittitle>Rock Creek Park </unittitle></did></c03>
+<c03><did><container type="folder">44</container><unittitle>Rockwood National Camp at the Nation's Capital </unittitle></did></c03>
+<c03><did><container type="folder">45</container><unittitle>The Rockefeller Foundation: A review for 1946 </unittitle></did></c03>
+<c03><did><container type="folder">46</container><unittitle>Russell Cave National Monument, Alabama </unittitle></did></c03>
+<c03><did><container type="folder">47-51</container><unittitle>Rocky Mountain National Park, Colorado </unittitle></did></c03>
+<c03><did><container type="folder">52-54</container><unittitle>Richmond National Battlefield Park, Virginia </unittitle></did></c03>
+<c03><did><container type="folder">55-57</container><unittitle>Rainbow Bridge National Monument, Utah </unittitle></did></c03>
+<c03><did><container type="folder">58-59</container><unittitle>Miscellaneous "S" </unittitle></did></c03>
+<c03><did><container type="folder">60</container><unittitle>Scotts Bluff National Monument, Nebraska </unittitle></did></c03>
+<c03><did><container type="folder">61-64</container><unittitle>Sartoga National Historic Park, New York </unittitle></did></c03>
+<c03><did><container type="folder">65-67</container><unittitle>San Juan National Historic Site, Puerto Rico </unittitle></did></c03>
+<c03><did><container type="folder">68-70</container><unittitle>Saguaro National Monument, Arizona </unittitle></did></c03>
+<c03><did><container type="folder">71</container><unittitle>Sunset Crater National Monument, Arizona </unittitle></did></c03>
+<c03><did><container type="folder">72</container><unittitle>Stones River National Battlefield, Tennessee </unittitle></did></c03>
+<c03><did><container type="folder">73-74</container><unittitle>Statue of Liberty National Monument, New York </unittitle></did></c03>
+<c03><did><container type="folder">75</container><unittitle>St. Croix, United States Virgin Islands </unittitle></did></c03>
+<c03><did><container type="folder">76</container><unittitle>Sitka National Monument, Alaska </unittitle></did></c03>
+<c03><did><container type="folder">77</container><unittitle>Shiloh National Military Park, Tennessee </unittitle></did></c03>
+<c03><did><container type="folder">78-80</container><unittitle>Shenandoah National Park, Virginia </unittitle></did></c03>
+<c03><did><container type="folder">81</container><unittitle>Shadow Mountain National Recreation Area, Colorado </unittitle></did></c03>
+<c03><did><container type="folder">82-85</container><unittitle>Sequoia and Kings Canyon National Parks, California </unittitle></did></c03>
+<c03><did><container type="folder">86</container><unittitle>Salem Maritime National Historic Site, Massachusetts </unittitle></did></c03>
+<c03><did><container type="folder">87</container><unittitle>Sagamore Hill National Historic Site, New York </unittitle></did></c03>
+<c03><did><container type="folder">88</container><unittitle>Miscellaneous "T" </unittitle></did></c03>
+<c03><did><container type="folder">89</container><unittitle>Tumacacori National Monument, Arizona </unittitle></did></c03>
+<c03><did><container type="folder">90</container><unittitle>Theodore Roosevelt Island, Washington D.C. </unittitle></did></c03>
+<c03><did><container type="folder">91</container><unittitle>Theodore Roosevelt Birthplace, New York </unittitle></did></c03>
+<c03><did><container type="folder">92</container><unittitle>Tupelo National Battlefiled, Mississippi </unittitle></did></c03>
+<c03><did><container type="folder">93-94</container><unittitle>Tuzigoot National Monument, Arizona </unittitle></did></c03>
+<c03><did><container type="folder">95</container><unittitle>Touro Synagogue National Historic Site, Rhode Island </unittitle></did></c03>
+<c03><did><container type="folder">96</container><unittitle>Tonto National Monument </unittitle></did></c03>
+<c03><did><container type="folder">97</container><unittitle>Timpanogos Cave National Monument, Utah </unittitle></did></c03>
+<c03><did><container type="folder">98</container><unittitle>Thomas Jefferson Memorial, Washington, D.C. </unittitle></did></c03>
+<c03><did><container type="folder">99-101</container><unittitle>Theodore Roosevelt National Memorial Park, North Dakota </unittitle></did></c03>
+<c03><did><container type="folder">102</container><unittitle>The United States Marine Corps War Memorial, Washington, D.C. </unittitle></did></c03>
+<c03><did><container type="folder">103</container><unittitle>Bureau of Land Management, Utah </unittitle></did></c03>
+<c03><did><container type="folder">104-106</container><unittitle>Vanderbilt Mansion National Historic Site, New York </unittitle></did></c03>
+<c03><did><container type="folder">107-108</container><unittitle>Vicksburg National Military Park, Mississippi </unittitle></did></c03>
+<c03><did><container type="folder">109-112</container><unittitle>Virgin Islands National Park, Virgin Islands </unittitle></did></c03>
+<c03><did><container type="folder">113-115</container><unittitle>Washington, D.C.</unittitle></did></c03>
+<c03><did><container type="folder">116</container><unittitle>The White House </unittitle></did></c03>
+<c03><did><container type="folder">117</container><unittitle>Wupatki and Sunset Crater, Arizona </unittitle></did></c03>
+</c02>
+
+<c02><did><container type="box">Box 12</container></did>
+
+<c03><did><container type="folder">1-3</container><unittitle>Wright Brothers National Memorial, North Carolina </unittitle></did></c03>
+<c03><did><container type="folder">4-5</container><unittitle>Wind Cave National Park, South Dakota </unittitle></did></c03>
+<c03><did><container type="folder">6-7</container><unittitle>Whitman Mission National Site, Washington </unittitle></did></c03>
+<c03><did><container type="folder">8-9</container><unittitle>White Sands National Monument, New Mexico </unittitle></did></c03>
+<c03><did><container type="folder">10</container><unittitle>Washington Monument, Washington, D.C. </unittitle></did></c03>
+<c03><did><container type="folder">11</container><unittitle>Whiskeytown Lake, California </unittitle></did></c03>
+<c03><did><container type="folder">12</container><unittitle>Walnut Canyon National Monument, Arizona </unittitle></did></c03>
+<c03><did><container type="folder">13-16</container><unittitle>Yellowstone National Park, Wyoming, Montana, Idaho </unittitle></did></c03>
+<c03><did><container type="folder">17-18</container><unittitle>Yorktown Battlefield Historical Park, Virginia </unittitle></did></c03>
+<c03><did><container type="folder">19-22</container><unittitle>Yosemite National Park, California </unittitle></did></c03>
+<c03><did><container type="folder">23-25</container><unittitle>Zion National Park, Utah </unittitle></did></c03>
+<c03><did><container type="folder">26-42</container><unittitle>Publications, pamphlets, newsletters, 1971-1972 </unittitle></did></c03>
+<c03><did><container type="folder">43-46</container><unittitle>United States Department of the Interior - memorandums, 1972-1974 </unittitle></did></c03>
+<c03><did><container type="folder">47-58 </container><unittitle>Department of the Interior news release, 1972-1974 </unittitle></did></c03>
+<c03><did><container type="folder">59-68</container><unittitle>National Park Service newsletters, 1972-1974 </unittitle></did></c03>
+<c03><did><container type="folder">69-71</container><unittitle>National Parks - The Environmental Journal, March 1971 </unittitle></did></c03>
+<c03><did><container type="folder">72</container><unittitle>Wilderness Hearing, The Wilderness Society </unittitle></did></c03>
+<c03><did><container type="folder">73-84</container><unittitle>List of pages </unittitle></did></c03>
+</c02>
+
+<c02><did><container type="box">Box 13</container></did>
+
+<c03><did><container type="folder">1</container><unittitle>Final Report of the President and the Congress of the National Parks Centennial Commission - Washington, D.C. </unittitle></did></c03>
+<c03><did><container type="folder">2</container><unittitle>"Landscapes of Alaska: Their Geologic Evolution" Edited by Howel Williams </unittitle></did></c03>
+<c03><did><container type="folder">3</container><unittitle>The Steamboat Bertrand: History, Excavation, and Architecture </unittitle></did></c03>
+<c03><did><container type="folder">4</container><unittitle>Administrative Policies for Historical Areas of the National Park system </unittitle></did></c03>
+<c03><did><container type="folder">5</container><unittitle>Part one of the National Park System plan history </unittitle></did></c03>
+<c03><did><container type="folder">6</container><unittitle>"Prospectus for a North Cascades National Park" North Cascades Conservation Council, 1963 </unittitle></did></c03>
+<c03><did><container type="folder">7</container><unittitle>A report by the advisory committee to the National Park Service on research </unittitle></did></c03>
+<c03><did><container type="folder">8</container><unittitle>A gathering of nations; A time of purpose, Yellowstone and Grand Teton National Parks, 1972 </unittitle></did></c03>
+<c03><did><container type="folder">9</container><unittitle>"In touch with people: United States Department of the Interior Conservation Yearbook Series No. 9, 1973" </unittitle></did></c03>
+<c03><did><container type="folder">10</container><unittitle>Yellowstone National Park: Its exploration and establishment </unittitle></did></c03>
+<c03><did><container type="folder">11-12</container><unittitle>In Touch magazine, 1980-1981</unittitle></did></c03>
+<c03><did><container type="folder">13</container><unittitle>"11593" - Heritage Coservation and Recreation Service newsletter </unittitle></did></c03>
+<c03><did><container type="folder">14-15</container><unittitle>Cultural Resources Management bulletin, 1980-1981 </unittitle></did></c03>
+<c03><did><container type="folder">16</container><unittitle>National Park Service news release </unittitle></did></c03>
+<c03><did><container type="folder">17-18</container><unittitle>Department of the Interior news release, 1980-1981 </unittitle></did></c03>
+<c03><did><container type="folder">19-25</container><unittitle>National Park Service editorial briefs, 1979-1981 </unittitle></did></c03>
+<c03><did><container type="folder">26-30</container><unittitle>Courier: The National Park Service Newsletter, 1980-1981 </unittitle></did></c03>
+<c03><did><container type="folder">31-36</container><unittitle>United States Department of the Interior memorandums, 1980-1981 </unittitle></did></c03>
+<c03><did><container type="folder">37-42</container><unittitle>Publications, bulletins, newsletters </unittitle></did></c03>
+<c03><did><container type="folder">43-50</container><unittitle>National Park Service brochures </unittitle></did></c03>
+<c03><did><container type="book">1</container><unittitle>Scrapbook</unittitle></did></c03>
+</c02>
+
+<c02><did><container type="box">Box 14</container></did>
+
+<c03><did><container type="folder">1-2</container><unittitle>11593 - Information related to responsibilities of the Secretary of the Interior, 1979 </unittitle></did></c03>
+<c03><did><container type="folder">3-5</container><unittitle>In Touch - Interpreters Information Exchange, 1978-1980 </unittitle></did></c03>
+<c03><did><container type="folder">6-13</container><unittitle>Courier: The National Park Service Newsletter, 1978-1980 </unittitle></did></c03>
+<c03><did><container type="folder">14-17</container><unittitle>Department of the Interior news release, 1978-1980 </unittitle></did></c03>
+<c03><did><container type="folder">18-19</container><unittitle>National Park Service news release, 1978-1980 </unittitle></did></c03>
+<c03><did><container type="folder">20-28</container><unittitle>National Parks Service editorial briefs, 1978-1980 </unittitle></did></c03>
+<c03><did><container type="folder">29-31</container><unittitle>Redwood National Park </unittitle></did></c03>
+<c03><did><container type="folder">32-33</container><unittitle>National Parks and Conservation magazine </unittitle></did></c03>
+<c03><did><container type="folder">34-35</container><unittitle>CRM Bulletin: Cultural Resoruces Management, 1978-1979 </unittitle></did></c03>
+<c03><did><container type="folder">36</container><unittitle>Friends of the Boundary Waters Wilderness newsletter </unittitle></did></c03>
+<c03><did><container type="folder">37-44</container><unittitle>United States Department of the Interior memorandums, 1978-1980 </unittitle></did></c03>
+<c03><did><container type="folder">45</container><unittitle>Recycling Historic Railroad stations: A citizen's manual </unittitle></did></c03>
+<c03><did><container type="folder">46</container><unittitle>Rehabilitation: Fairmount Waterworks, 1978 </unittitle></did></c03>
+<c03><did><container type="folder">47</container><unittitle>Rehabilitation: Danville, 1978 </unittitle></did></c03>
+<c03><did><container type="folder">48</container><unittitle>Rehabilitation: Claremont, 1978</unittitle></did></c03>
+<c03><did><container type="folder">49-53</container><unittitle>Publications, pamphlets, bulletins, newsletters </unittitle></did></c03>
+<c03><did><container type="folder">54</container><unittitle>The Preservation of Natural Diversity: A Survey and Recommendations, The Nature Conservancy </unittitle></did></c03>
+<c03><did><container type="folder">55</container><unittitle>Big Thicket National Preserve, Texas, Wilderness Study, July 1979 </unittitle></did></c03>
+<c03><did><container type="folder">56</container><unittitle>Grand Canyon National Park, Arizona, final environmental statement </unittitle></did></c03>
+<c03><did><container type="folder">57</container><unittitle>Fire Island National Seashore, New York, Wilderness Study / Preliminary Wilderness Proposal </unittitle></did></c03>
+<c03><did><container type="folder">58</container><unittitle>Cleveland: An Inventory of Historic Engineering and Industrial Sites</unittitle></did></c03>
+<c03><did><container type="folder">59</container><unittitle>The Upper Peninsula of Michigan: An Inventory of Historic Engineering and Industrial Sites  </unittitle></did></c03>
+<c03><did><container type="folder">60</container><unittitle>Grand Canyon National Park, Arizona, draft environmental statement </unittitle></did></c03>
+<c03><did><container type="folder">61</container><unittitle>Rhode Island: An Inventory of Historic Engineering and Industrial Sites, Historic American Engineering Record </unittitle></did></c03>
+<c03><did><container type="folder">62-63</container><unittitle>E. Raymond Hall papers, 1966</unittitle></did></c03>
+</c02>
+
+<c02><did><container type="box">Box 15</container></did>
+
+<c03><did><container type="folder">1-2</container><unittitle>United States Fish and Wildlife Service, Office of Migratory Bird Management, 1978 </unittitle></did></c03>
+<c03><did><container type="folder">3-7</container><unittitle>Department of the Interior news release, 1976-1978 </unittitle></did></c03>
+<c03><did><container type="folder">8-12</container><unittitle>National Park Service news release, 1976-1978 </unittitle></did></c03>
+<c03><did><container type="folder">13-16</container><unittitle>Courier: The National Park Service newsletter, 1976-1978 </unittitle></did></c03>
+<c03><did><container type="folder">17-25</container><unittitle>Editorial briefs - The National Park Service, 1976-1978 </unittitle></did></c03>
+<c03><did><container type="folder">26-27</container><unittitle>In touch: Interpreters Information Exchange </unittitle></did></c03>
+<c03><did><container type="folder">28-31</container><unittitle>National Park Service newsletter, 1976-1977 </unittitle></did></c03>
+<c03><did><container type="folder">32</container><unittitle>Update: Yosemite general management plan, 1977-1978 </unittitle></did></c03>
+<c03><did><container type="folder">33</container><unittitle>Friends of the boundary waters wilderness, 1978 </unittitle></did></c03>
+<c03><did><container type="folder">34</container><unittitle>Preservation briefs, 1978 </unittitle></did></c03>
+<c03><did><container type="folder">35-38</container><unittitle>11593 - Information related to responsibilities of the Secretary of the Interior </unittitle></did></c03>
+<c03><did><container type="folder">39</container><unittitle>ASC newsletter - Association of Systematics Collections </unittitle></did></c03>
+<c03><did><container type="folder">40-46</container><unittitle>United States Department of the Interior, 1976-1978 </unittitle></did></c03>
+<c03><did><container type="folder">47</container><unittitle>United States Department of the Interior - employment </unittitle></did></c03>
+<c03><did><container type="folder">48</container><unittitle>Technical preservation services reading list, 1977 </unittitle></did></c03>
+<c03><did><container type="folder">49-51</container><unittitle>Midwest Regional Advisory Committee Meeting, 1977 </unittitle></did></c03>
+<c03><did><container type="folder">52-58</container><unittitle>Publications, bulletins, papers, newsletters </unittitle></did></c03>
+<c03><did><container type="folder">59-63</container><unittitle>National Park Service brochures and publications </unittitle></did></c03>
+<c03><did><container type="folder">64</container><unittitle>Mountain Home, 1977 </unittitle></did></c03>
+<c03><did><container type="folder">65</container><unittitle>Index - National Park System and Affiliated Areas, 1977 </unittitle></did></c03>
+<c03><did><container type="folder">66</container><unittitle>Historic American Engineering Record Catalog, 1976 </unittitle></did></c03>
+<c03><did><container type="folder">67</container><unittitle>Fort Stanwix: History, Historic Furnishing, and Historic Structures Reports </unittitle></did></c03>
+<c03><did><container type="folder">68</container><unittitle>"Shenandoah trip", April 20-22, 1959 [empty envelope] </unittitle></did></c03>
+<c03><did><container type="folder">69</container><unittitle>E. Raymond Hall correspondence with the Department of Agriculture, 1924 </unittitle></did></c03>
+<c03><did><container type="folder">70</container><unittitle>Predatroy mammals, hearings before the subcommittee on fisheries and wildlife conservation </unittitle></did></c03>
+<c03><did><container type="book">1</container><unittitle>Annual Report of the Chief Scientist of the National Park Service, CY 1977 </unittitle></did></c03>
+</c02>
+
+<c02><did><container type="box">Box 16</container></did>
+
+<c03><did><container type="folder">1-2</container><unittitle>Research Foundation of Kansas, 1967 </unittitle></did></c03>
+<c03><did><container type="folder">3-5</container><unittitle>Economic Development for Kansas, 1963 </unittitle></did></c03>
+<c03><did><container type="folder">6-8</container><unittitle>National Research Council - report to the U.S. National Committee for International Biological Program </unittitle></did></c03>
+<c03><did><container type="folder">9</container><unittitle>Religion - The Journal of Kansas School of Religion at the University of Kansas (2), 1972 </unittitle></did></c03>
+<c03><did><container type="folder">10</container><unittitle>World's bulletin: Biology, Earth Science and Chemistry (2), 1977 </unittitle></did></c03>
+<c03><did><container type="folder">11-12</container><unittitle>United States Department of the Interior news release, 1967 </unittitle></did></c03>
+<c03><did><container type="folder">13</container><unittitle>United States Department of the Interior </unittitle></did></c03>
+<c03><did><container type="folder">14</container><unittitle>Maps and Atlases: Selected new acquisitions in the map library, University of Kansas Libraries, 1978 </unittitle></did></c03>
+<c03><did><container type="folder">15-19</container><unittitle>Save-the-Redwoods League </unittitle></did></c03>
+<c03><did><container type="folder">20-24</container><unittitle>Kansas! magazine </unittitle></did></c03>
+<c03><did><container type="folder">25-26</container><unittitle>Conservation Foundation: Letter newsletter </unittitle></did></c03>
+<c03><did><container type="folder">27</container><unittitle>Kansas recreation and park association: Focus newsletter, 1975 </unittitle></did></c03>
+<c03><did><container type="folder">28</container><unittitle>11593 newsletter - National Park Service </unittitle></did></c03>
+<c03><did><container type="folder">29</container><unittitle>A self study: Extension classes and centers at the Univesity of Kansas, 1969 </unittitle></did></c03>
+<c03><did><container type="folder">30</container><unittitle>Research Foundation of Kansas, 1965-1966 </unittitle></did></c03>
+<c03><did><container type="folder">31</container><unittitle>Student handbook 1964-1965, University of Kansas </unittitle></did></c03>
+<c03><did><container type="folder">32</container><unittitle>State of the University, 1965, 1967 </unittitle></did></c03>
+<c03><did><container type="folder">33</container><unittitle>Kansas Alumni, January 1970 </unittitle></did></c03>
+<c03><did><container type="folder">34</container><unittitle>The University of Kansas - "What is a university?", 1965 </unittitle></did></c03>
+<c03><did><container type="folder">35</container><unittitle>Faculty handbook, 1965-1966, The University of Kansas </unittitle></did></c03>
+<c03><did><container type="folder">36</container><unittitle>The University of Kansas 59th annual commencement, June 5, 1967 </unittitle></did></c03>
+<c03><did><container type="folder">37</container><unittitle>The Kansas University Endowment Association, Greater University Fund, annual report, 1964</unittitle></did></c03>
+<c03><did><container type="folder">38</container><unittitle>Annual Report, The University of Kansas School of Religion, 1972 </unittitle></did></c03>
+<c03><did><container type="folder">39</container><unittitle>Annual Report 1969-1970, University of Kansas Libraries </unittitle></did></c03>
+<c03><did><container type="folder">40</container><unittitle>The University of Kansas financial report, 1968 </unittitle></did></c03>
+<c03><did><container type="folder">41</container><unittitle>The University of Kansas financial report, 1965 </unittitle></did></c03>
+<c03><did><container type="folder">42</container><unittitle>The University of Kansas financial report, 1961 </unittitle></did></c03>
+<c03><did><container type="folder">43-44</container><unittitle>The University of Kansas financial report, 1960 </unittitle></did></c03>
+<c03><did><container type="folder">45-46</container><unittitle>The University of Kansas financial report, 1959 </unittitle></did></c03>
+<c03><did><container type="folder">47</container><unittitle>New Directions for the National Park System: The Proposed Kansas Tallgrass Prairie National Park, 1977 </unittitle></did></c03>
+<c03><did><container type="folder">48</container><unittitle>The Advancement of Science, volume XIV, number 54, Dublin 1957 </unittitle></did></c03>
+<c03><did><container type="folder">49</container><unittitle>Polish Academy of Sciences Institute of Ecology, Report on Scientific Activities for 1971 </unittitle></did></c03>
+<c03><did><container type="folder">50</container><unittitle>Science: The endless frontier, 1945 </unittitle></did></c03>
+<c03><did><container type="folder">51</container><unittitle>Journal of Proceedings and Addresses of the 53rd Annual Conference of the Association of American Universities, 1952 </unittitle></did></c03>
+<c03><did><container type="folder">52-62</container><unittitle>Publications, bulletins, papers, newsletters </unittitle></did></c03>
+<c03><did><container type="book">1</container><unittitle>Department of the Interior and Related Agencies Appropriations for Fiscal Year 1967 </unittitle></did></c03>
+</c02>
+
+<c02><did><container type="box">Box 17</container></did>
+
+<c03><did><container type="folder">1</container><unittitle>Zoology 115, E. Raymond Hall, University of California-Berkeley, Spring 1925 </unittitle></did></c03>
+<c03><did><container type="folder">2</container><unittitle>Palaeontology 104A, E. Raymond Hall, University of California-Berkeley, Fall 1924</unittitle></did></c03>
+<c03><did><container type="folder">3</container><unittitle>Palaeontology 106, E. Raymond Hall, University of California-Berkeley, Fall 1924</unittitle></did></c03>
+<c03><did><container type="folder">4</container><unittitle>Zoology 110, E. Raymond Hall, University of California-Berkeley </unittitle></did></c03>
+<c03><did><container type="folder">5</container><unittitle>Zoology-Experimental Zoology, E. Raymond Hall, [University of California-Berkeley], Fall of 1925 </unittitle></did></c03>
+<c03><did><container type="folder">6</container><unittitle>Palaeontology 104A, book II, E. Raymond Hall, University of California-Berkeley, Fall 1924 </unittitle></did></c03>
+<c03><did><container type="folder">7</container><unittitle>Palaeontology 104B, book I, E. Raymond Hall, University of California-Berkeley, Spring 1925 </unittitle></did></c03>
+<c03><did><container type="folder">8</container><unittitle>Palaeontology 106C, E. Raymond Hall, University of California-Berkeley, Fall 1924 </unittitle></did></c03>
+<c03><did><container type="folder">9-10</container><unittitle>Loose notes, E. Raymond Hall, University of California-Berkeley, Fall 1924 </unittitle></did></c03>
+<c03><did><container type="folder">11</container><unittitle>Field book notes </unittitle></did></c03>
+<c03><did><container type="folder">12</container><unittitle>Information on mammals </unittitle></did></c03>
+<c03><did><container type="folder">13-51</container><unittitle>Defenders of Wildlife </unittitle></did></c03>
+<c03><did><container type="folder">52-53</container><unittitle>Reorganization and chairman of zool[ogy] 116-113 </unittitle></did></c03>
+<c03><did><container type="folder">54-58</container><unittitle>Zool[ogy] 116 </unittitle></did></c03>
+<c03><did><container type="folder">59-65</container><unittitle>zool[ogy] 113 </unittitle></did></c03>
+<c03><did><container type="folder">66</container><unittitle>University of Kansas, graduate student information, 1939-1940 </unittitle></did></c03>
+</c02>
+
+<c02><did><container type="box">Box 18</container></did>
+
+<c03><did><container type="folder">1</container><unittitle>A request by the people of Kansas for the creation of a tallgrass prairie national park in Kansas, 1971 </unittitle></did></c03>
+<c03><did><container type="folder">2</container><unittitle>Saving the prairie two days at a time </unittitle></did></c03>
+<c03><did><container type="folder">3</container><unittitle>American Society of Zoologists </unittitle></did></c03>
+<c03><did><container type="folder">4</container><unittitle>Endangered plants and animals of Oregon, 1969 </unittitle></did></c03>
+<c03><did><container type="folder">5-6</container><unittitle>Fulbright Alumni Association </unittitle></did></c03>
+<c03><did><container type="folder">7-9</container><unittitle>California Academy of Sciences </unittitle></did></c03>
+<c03><did><container type="folder">10</container><unittitle>KWRB (Kansas Water Resources Board) newsletter </unittitle></did></c03>
+<c03><did><container type="folder">11-14</container><unittitle>The Nature Conservancy News, 1978-1979 </unittitle></did></c03>
+<c03><did><container type="folder">15-19</container><unittitle>Kansas! magazine, 1978-1979 </unittitle></did></c03>
+<c03><did><container type="folder">20</container><unittitle>Research monitor news, 1978 </unittitle></did></c03>
+<c03><did><container type="folder">21</container><unittitle>NRDC newsletter, Natural Resources Defense Council, 1978 </unittitle></did></c03>
+<c03><did><container type="folder">22-27</container><unittitle>Outdoor News Bulletin, Wildlife Management Institute, 1979 </unittitle></did></c03>
+<c03><did><container type="folder">28-29</container><unittitle>Conservation Foundation - Letter, 1979 </unittitle></did></c03>
+<c03><did><container type="folder">30</container><unittitle>Save-the-Redwoods League, 1979 </unittitle></did></c03>
+<c03><did><container type="folder">31</container><unittitle>Environmental Protection Agency, 1978-1979 </unittitle></did></c03>
+<c03><did><container type="folder">32</container><unittitle>Environmental Policy Center, 1979 </unittitle></did></c03>
+<c03><did><container type="folder">33</container><unittitle>EPA [Environmental Protection Agency] News, 1979 </unittitle></did></c03>
+<c03><did><container type="folder">34-35</container><unittitle>American Society of Mammalogists, 1978-1979 </unittitle></did></c03>
+<c03><did><container type="folder">36-46</container><unittitle>Publications, pamphlets, bulletins, papers, newsletters </unittitle></did></c03>
+</c02>
+
+<c02><did><container type="box">Box 19</container></did>
+
+<c03><did><container type="book">1</container><unittitle>Final Environmental Impact Statement: General Management Plan, Yosemite National Park, California </unittitle></did></c03>
+</c02>
+
+<c02><did><container type="box">Box 20</container></did>
+
+<c03><did><container type="book">1</container><unittitle>Ministry of Agriculture, State Meteorological Service, Mean and Extreme Meteorological Bulletin, Ankara, 1967 </unittitle></did></c03>
+<c03><did><container type="book">2</container><unittitle>Yosemite: Summary of the Draft General Management Plan </unittitle></did></c03>
+<c03><did><container type="book">3</container><unittitle>The Kansas Sportsman [removed from Box 18] </unittitle></did></c03>
+<c03><did><container type="book">4</container><unittitle>Miscellaneous materials removed from Box 17 </unittitle></did></c03>
+<c03><did><container type="book">5</container><unittitle>Scrapbook: Loose newspaper articles [removed from Box 13] </unittitle></did></c03>
+<c03><did><container type="book">6</container><unittitle>Defenders of Wildlife [2 newspaper clippings] </unittitle></did></c03>
+<c03><did><container type="book">7</container><unittitle>Information on mammals [newspaper articles] </unittitle></did></c03>
+<c03><did><container type="book">8</container><unittitle>National Parks [newspapers clippings removed from Box 7] </unittitle></did></c03>
+<c03><did><container type="book">9</container><unittitle>Newspaper clippings [removed from Box 5] </unittitle></did></c03>
+<c03><did><container type="book">10</container><unittitle>Turkey: brochures, publications, reports [newspaper clippings] </unittitle></did></c03>
+</c02>
+
+<c02><did><container type="folder">Oversized Folder</container></did>
+
+<c03><did><container type="folder">1</container><unittitle>Department of the Interior and National Park Service [4 maps]; Turkey: brochures, publications, reports [2 maps] </unittitle></did></c03>
+</c02>
+
+</c01>
+
+<c01 level="collection"><did><unittitle>PP 513</unittitle></did>
+
+<c02><did><container type="box">Box 1</container></did>
+
+<c03><did><container type="folder">1</container><unittitle>Hillsdale Resevoir</unittitle></did></c03>
+<c03><did><container type="folder">2</container><unittitle>Hillsdale Resevoir</unittitle></did></c03>
+<c03><did><container type="folder">3</container><unittitle>Handwritten manuscript - correspondence</unittitle></did></c03>
+<c03><did><container type="folder">4</container><unittitle>Handwritten manuscript - correspondence</unittitle></did></c03>
+<c03><did><container type="folder">5</container><unittitle>Hillside Resevoir</unittitle></did></c03>
+<c03><did><container type="folder">6</container><unittitle>Racial and subspecific differences in Homosapien </unittitle></did></c03>
+<c03><did><container type="folder">7</container><unittitle>1949 fish and game bill transcript - correspondence </unittitle></did></c03>
+<c03><did><container type="folder">8</container><unittitle>Correspondence up to 1948 </unittitle></did></c03>
+<c03><did><container type="folder">9</container><unittitle>Correspondence up to 1948 </unittitle></did></c03>
+<c03><did><container type="folder">10</container><unittitle>Correspondence up to 1948 </unittitle></did></c03>
+<c03><did><container type="folder">11</container><unittitle>Correspondence up to 1948</unittitle></did></c03>
+<c03><did><container type="folder">12</container><unittitle>Correspondence up to 1948</unittitle></did></c03>
+<c03><did><container type="folder">13</container><unittitle>87th - 1982 National Park System Advisory Board </unittitle></did></c03>
+<c03><did><container type="folder">14</container><unittitle>Biographical data </unittitle></did></c03>
+<c03><did><container type="folder">15</container><unittitle>C-Ci (1983), Cl-Cle (1983) - correspondence </unittitle></did></c03>
+<c03><did><container type="folder">16</container><unittitle>Jerry Choate 1983 - correspondence </unittitle></did></c03>
+<c03><did><container type="folder">17</container><unittitle>Correspondence 1983 - D-E, Mtg Mns [meeting minutes] 1983, National Park System Advisory Board </unittitle></did></c03>
+<c03><did><container type="folder">18</container><unittitle>Frank Masland 1983 - correspondence </unittitle></did></c03>
+<c03><did><container type="folder">19</container><unittitle>Ma - Mc 1983 - correspondence, Eleanor Lohmann - 1974-[19]75 </unittitle></did></c03>
+<c03><did><container type="folder">20</container><unittitle>F. Robert Henderson 1983 - J-K correspondence </unittitle></did></c03>
+<c03><did><container type="folder">21</container><unittitle>Li-Le, Li-Ly, 1983 - correspondence</unittitle></did></c03>
+<c03><did><container type="folder">22</container><unittitle>Am-Ax 1983 - correspondence</unittitle></did></c03>
+<c03><did><container type="folder">23</container><unittitle>American Society of Mammalogists 1983 - Directory of Members 1978 </unittitle></did></c03>
+<c03><did><container type="folder">24</container><unittitle>Black-footed Ferret - South Dakota (1964) by Richard L. Adrian </unittitle></did></c03>
+<c03><did><container type="folder">25</container><unittitle>B-Bl 1983-, Bo-Bw 1983-, petition 1976 </unittitle></did></c03>
+<c03><did><container type="folder">26</container><unittitle>Correspondence H - 1983 affidavit </unittitle></did></c03>
+<c03><did><container type="folder">27</container><unittitle>Correspondence R - 1978, B - 1982, misc[ellaneous] </unittitle></did></c03>
+<c03><did><container type="folder">28</container><unittitle>Correspondence D - 1982, H-Hi - 1983- </unittitle></did></c03>
+<c03><did><container type="folder">29</container><unittitle>Correspondence N - 1983, US Dept[artment] of Interior NPSAB [National Park Service Advisory Board] </unittitle></did></c03>
+<c03><did><container type="folder">30</container><unittitle>G 1983 - correspondence </unittitle></did></c03>
+<c03><did><container type="folder">31</container><unittitle>Ho-Hy 1983 - correspondence</unittitle></did></c03>
+<c03><did><container type="folder">32</container><unittitle>Correspondence 1983 - P</unittitle></did></c03>
+<c03><did><container type="folder">33</container><unittitle>Correspondence 1983 - F</unittitle></did></c03>
+<c03><did><container type="folder">34</container><unittitle>Kaibab</unittitle></did></c03>
+<c03><did><container type="folder">35</container><unittitle>Letters - Senator Nelson's herbicides and wildlife bill </unittitle></did></c03>
+</c02>
+
+<c02><did><container type="box">Box 2</container></did>
+
+<c03><did><container type="folder">1</container><unittitle>315 Hillsdale Resevoir, 316 Hillsdale Resevoir </unittitle></did></c03>
+<c03><did><container type="folder">2</container><unittitle>MVZ [museum of vertebrate zoology] notices and memos, Senate hearings 1976, outlines, correspondence </unittitle></did></c03>
+<c03><did><container type="folder">3</container><unittitle>General statement, schedule of curatorial duties, museum related memos </unittitle></did></c03>
+<c03><did><container type="folder">4</container><unittitle>Museum problems, memos, suggestions, assignment of work tablet </unittitle></did></c03>
+<c03><did><container type="folder">5</container><unittitle>Museum duties correspondence, memos, vertebrate review </unittitle></did></c03>
+<c03><did><container type="folder">6</container><unittitle>Plat of MVZ [museum of vertebrate zoology] research space directory, museum of vertebrate zoology </unittitle></did></c03>
+<c03><did><container type="folder">7</container><unittitle>Correspondence - Museum of Vertebrate Zoology </unittitle></did></c03>
+<c03><did><container type="folder">8</container><unittitle>Proceedings, Two new meadow mice, A new pocket gopher, No need for Hillsdale Dam, Natural History 1972</unittitle></did></c03>
+<c03><did><container type="folder">9</container><unittitle>Foreward, Native mammals, Tallgrass prairie, Hearings </unittitle></did></c03>
+<c03><did><container type="folder">10</container><unittitle>Dallas Natural Science Association quarterly, pesticides not required, commencement schedule hearings </unittitle></did></c03>
+<c03><did><container type="folder">11</container><unittitle>Alternative proposed for Hillsdale, Osawatomie graphic news, Feasible alternative for Hillsdale Resevoir </unittitle></did></c03>
+<c03><did><container type="folder">12</container><unittitle>Prairie National Park, State of biological survey of Kansas </unittitle></did></c03>
+<c03><did><container type="folder">13</container><unittitle>Minutes of the biological faculties </unittitle></did></c03>
+<c03><did><container type="folder">14</container><unittitle>4065-703 NSF [National Science Foundation], NA [North American] mammals </unittitle></did></c03>
+<c03><did><container type="folder">15</container><unittitle>4360-705 Navy, Zoogeog. and System., Y379 - 703 (NSF) [National Science Foundation] Ha. Sys. Rec. Amer. Ursus.</unittitle></did></c03>
+<c03><did><container type="folder">16</container><unittitle>3591 - 5038, Bears ursus., 3823-5038</unittitle></did></c03>
+<c03><did><container type="folder">17</container><unittitle>GB 30969 4830 Bio. - Med., 4852-5706 </unittitle></did></c03>
+<c03><did><container type="folder">18</container><unittitle>KU Endowment 4830-X703</unittitle></did></c03>
+<c03><did><container type="folder">19</container><unittitle>ERH Rice Woodland, Biological Sciences</unittitle></did></c03>
+<c03><did><container type="folder">20</container><unittitle>Wall woods endowment (continued), biological services </unittitle></did></c03>
+<c03><did><container type="folder">21</container><unittitle>Budget correspondence </unittitle></did></c03>
+<c03><did><container type="folder">22</container><unittitle>Kaibab investigate committee hearings </unittitle></did></c03>
+<c03><did><container type="folder">23</container><unittitle>Correspondence - Deer of California </unittitle></did></c03>
+<c03><did><container type="folder">24</container><unittitle>Correspondence J. Grinnell, conservation matters </unittitle></did></c03>
+<c03><did><container type="folder">25</container><unittitle>Report to President, UC, Martens study, Beaver study </unittitle></did></c03>
+<c03><did><container type="folder">26</container><unittitle>Bubonic plague, 9 publications </unittitle></did></c03>
+<c03><did><container type="folder">27</container><unittitle>Correspondence</unittitle></did></c03>
+<c03><did><container type="folder">28</container><unittitle>Correspondence</unittitle></did></c03>
+<c03><did><container type="folder">29</container><unittitle>Correspondence</unittitle></did></c03>
+<c03><did><container type="folder">30</container><unittitle>Correspondence A-B</unittitle></did></c03>
+<c03><did><container type="folder">31</container><unittitle>Correspondence C-D</unittitle></did></c03>
+<c03><did><container type="folder">32</container><unittitle>Correspondence E-G</unittitle></did></c03>
+<c03><did><container type="folder">33</container><unittitle>Correspondence H</unittitle></did></c03>
+<c03><did><container type="folder">34</container><unittitle>Correspondence I-J-K</unittitle></did></c03>
+<c03><did><container type="folder">35</container><unittitle>Correspondence L</unittitle></did></c03>
+<c03><did><container type="folder">36</container><unittitle>Correspondence M</unittitle></did></c03>
+<c03><did><container type="folder">37</container><unittitle>Correspondence N-O</unittitle></did></c03>
+<c03><did><container type="folder">38</container><unittitle>Correspondence R</unittitle></did></c03>
+<c03><did><container type="folder">39</container><unittitle>Correspondence T-U-V </unittitle></did></c03>
+<c03><did><container type="folder">40</container><unittitle>Correspondence Amer[ican] Society of Mammalogists 1955, E.R. Hall photo by Jim Tice Oct[ober] 1960 [photographs]</unittitle></did></c03>
+<c03><did><container type="folder">41</container><unittitle>Czecheslovakia Sept[ember] 1960 [photographs] </unittitle></did></c03>
+<c03><did><container type="folder">42</container><unittitle>National Conv[ention] of Mammalogists, June 1940, Feb[ruary] 1952 Two Amsden Brothers and Hall [photographs]</unittitle></did></c03>
+<c03><did><container type="folder">43</container><unittitle>E.R. Hall Autumn of 1967, 2 copies photo [photographs] </unittitle></did></c03>
+<c03><did><container type="folder">44</container><unittitle>E.R. Hall Autumn 1967, 2 copies photo [photographs] </unittitle></did></c03>
+<c03><did><container type="folder">45</container><unittitle>E.R. Hall Autumn 1967, 1960 photo by Guy James Tice, Mammal Division of Nat[ural] Hist[ory] Mus[eum] [photographs] </unittitle></did></c03>
+<c03><did><container type="folder">46</container><unittitle>To Dr. E.R. Hall, with my compliments, W.L. Jellison 1947, Dec[ember] 1944, Le Loup, Franklin Co[unty], coyote hunters [photographs] </unittitle></did></c03>
+<c03><did><container type="folder">47</container><unittitle>1949 fish and game bill transcript - correspondence [photographs] </unittitle></did></c03>
+<c03><did><container type="folder">48</container><unittitle>Chemistry lecture from July 1958, London zoology Feb[ruary] 1951 [photographs] </unittitle></did></c03>
+<c03><did><container type="folder">49</container><unittitle>37th Annual Mtg [meeting] 1957, American Society of Mammalogists, Advisory Board to the Virgin Islands [photographs] </unittitle></did></c03>
+<c03><did><container type="folder">50</container><unittitle>66th Stated Meeting Ornithologist's Union, 20th Annual Mtg. [meeting] as Mammalogists [photographs] </unittitle></did></c03>
+<c03><did><container type="folder">51</container><unittitle>Ecology Symposium April 1955, 1956 Mammal meeting [photographs] </unittitle></did></c03>
+<c03><did><container type="folder">52</container><unittitle>1957 Renel Lipman, Charles A Leone 1948, Cpt. [captain] James E. Cohn, From Louise Kellogg 1950, Mammalogists Faculty Club 1956 [photographs] </unittitle></did></c03>
+<c03><did><container type="folder">53</container><unittitle>1953 Frankfort (Main) Germany, To Prof[essor] Hall from Albert Sobel, unidentified men (2), March 1950 Matamoros Tamoulifas [photographs] </unittitle></did></c03>
+<c03><did><container type="folder">54</container><unittitle>March 1950, Matamoros, Photos by Curt von Wedel and Alfredo Arnez Cua, unidentified man [photographs] </unittitle></did></c03>
+<c03><did><container type="folder">55</container><unittitle>Chantilly France 1948, Boschma Toller and Hall, unidentified woman, Mrs. Hall? [photographs] </unittitle></did></c03>
+<c03><did><container type="folder">56</container><unittitle>Unidentified woman (Mrs. Hall?), 1959 commencement time, 1958 British Commonwealth vice chancellor, two unidentified women n[o] d[ate] [photographs]</unittitle></did></c03>
+<c03><did><container type="folder">57</container><unittitle>1941 W.E. Saunder, 1961 Mammalogists symposium, Czechoslovakia [photosgraphs] </unittitle></did></c03>
+<c03><did><container type="folder">58</container><unittitle>Negatives (35mm) of Mrs. Hall's, From early October 1969, Taken by Barry L Siler, Hillsdale Resevoir </unittitle></did></c03>
+</c02>
+
+<c02><did><container type="box">Box 3</container></did>
+
+<c03><did><container type="folder">1-6</container><unittitle>Correspondence A-B, 1930s-[19]40s</unittitle></did></c03>
+<c03><did><container type="folder">7-9</container><unittitle>Correspondence C-F, 1940s</unittitle></did></c03>
+<c03><did><container type="folder">10-14</container><unittitle>Correspondence G-H, 1940s</unittitle></did></c03>
+<c03><did><container type="folder">15-20</container><unittitle>Correspondence L-M, U-Z, 1940s </unittitle></did></c03>
+<c03><did><container type="folder">21-24</container><unittitle>Correspondence N-R, 1940s</unittitle></did></c03>
+<c03><did><container type="folder">25-27</container><unittitle>Correspondence S-W, 1940s</unittitle></did></c03>
+</c02>
+
+<c02><did><container type="box">Box 4</container></did>
+
+<c03><did><container type="folder">1</container><unittitle>Miscellaneous correspondence, reports, notes, publications </unittitle></did></c03>
+<c03><did><container type="folder">2</container><unittitle>Bldg. [building], campus, "To answer" </unittitle></did></c03>
+<c03><did><container type="folder">3</container><unittitle>Miscellaneous correspondence </unittitle></did></c03>
+<c03><did><container type="folder">4</container><unittitle>Miscellaneous maps, correspondence, publications, memorandum </unittitle></did></c03>
+<c03><did><container type="folder">5</container><unittitle>Navy project (correspondence) </unittitle></did></c03>
+<c03><did><container type="folder">6</container><unittitle>Research note cards, research articles, Department of the Interior memos </unittitle></did></c03>
+<c03><did><container type="folder">7</container><unittitle>Memorandum and correspondence - E. Raymond Hall and the University of Kansas and KU Natural History Museum </unittitle></did></c03>
+<c03><did><container type="folder">8</container><unittitle>National Park Services newsletters, miscellaneous notes, correspondence, writings </unittitle></did></c03>
+<c03><did><container type="folder">9</container><unittitle>National Park Services newsletters, miscellaneous notes, correspondence, writings </unittitle></did></c03>
+<c03><did><container type="folder">10</container><unittitle>Miscellaneous publications, correspondence, research, newspaper articles </unittitle></did></c03>
+<c03><did><container type="folder">11</container><unittitle>Miscellaneous research notes, correspondence, Department of the Interior newsletters </unittitle></did></c03>
+<c03><did><container type="folder">12</container><unittitle>Notes on rules for mss [manuscript] preparation </unittitle></did></c03>
+<c03><did><container type="folder">13</container><unittitle>Notes mainly from 1922-[19]23 at KU, Carly mss [manuscripts] of birds of Douglas County </unittitle></did></c03>
+<c03><did><container type="folder">14</container><unittitle>Pyramid Lake notes summer 1924 </unittitle></did></c03>
+<c03><did><container type="folder">15</container><unittitle>Nebraska field expedition summer 1922 </unittitle></did></c03>
+<c03><did><container type="folder">16</container><unittitle>Correspondence - old mss [manuscripts] </unittitle></did></c03>
+<c03><did><container type="folder">17</container><unittitle>Manuscripts - possibly to finish </unittitle></did></c03>
+<c03><did><container type="folder">18</container><unittitle>Staff mtg. [meeting] minutes, course materials, notes </unittitle></did></c03>
+<c03><did><container type="folder">19</container><unittitle>Staff mtg. [meeting] minutes, course materials, notes </unittitle></did></c03>
+<c03><did><container type="folder">20</container><unittitle>Museum monthly mtg [meeting] </unittitle></did></c03>
+<c03><did><container type="folder">21</container><unittitle>Nat[ural] Hist[ory] Mus[eum] related, Hillsdale Reservoir Army Corps </unittitle></did></c03>
+<c03><did><container type="folder">22</container><unittitle>US Army Corps of Engineer - Tract no. [number] 335  </unittitle></did></c03>
+<c03><did><container type="folder">23</container><unittitle>Salary misc[ellaneous] Hillsdale </unittitle></did></c03>
+<c03><did><container type="folder">24</container><unittitle>Hillsdale Trial - Hamilton misc[ellaneous] </unittitle></did></c03>
+<c03><did><container type="folder">25</container><unittitle>Tract no [number] 335 - Hillsdale Lake Prg [program] </unittitle></did></c03>
+<c03><did><container type="folder">26</container><unittitle>Hillsdale Trial, Hamilton, Humphreys </unittitle></did></c03>
+<c03><did><container type="folder">27</container><unittitle>Hillsdale Trial, Hamilton, Humphreys </unittitle></did></c03>
+<c03><did><container type="folder">28</container><unittitle>Hillsdale Trial, Hamilton, Humphreys </unittitle></did></c03>
+<c03><did><container type="folder">29</container><unittitle>Hillsdale Resevoir </unittitle></did></c03>
+<c03><did><container type="folder">30</container><unittitle>Hillsdale Resevoir </unittitle></did></c03>
+<c03><did><container type="folder">31</container><unittitle>Hillsdale Resevoir </unittitle></did></c03>
+<c03><did><container type="folder">32</container><unittitle>Museum of Natural History, Dept [department] of Zoology, group picture 1962-[19]63, Sept[ember] 1962 Faculty of Zoology </unittitle></did></c03>
+</c02>
+
+<c02><did><container type="box">Box 5 (Oversized)</container></did>
+
+<c03><did><container type="folder">1</container><unittitle>Oversized photograph removed from Box 2 </unittitle></did></c03>
+</c02>
+
+</c01>
+
+</dsc>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- End Description of Subordinate Components-->
+
+</archdesc>
+</ead>

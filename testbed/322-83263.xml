@@ -1,0 +1,633 @@
+<?xml version="1.0" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.974.8.D65-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.974.8.D65</num>
+                    <num>Mss.974.8.D65</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-02-08T21:10-0500</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Documents, 1728-1816, relating to the province of Pennsylvania and to the American Revolution</unittitle>
+            <unitid>Mss.974.8.D65</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid13331001" type="Volume" label="Manuscripts">1</container>
+            <physdesc>
+                <extent>1.0 volume, 50 p.</extent>
+            </physdesc>
+            <unitdate normal="1728/1816" type="inclusive">1728-1816</unitdate>
+            <abstract id="ref3" label="Abstract">This volume includes messages and proclamations of governors of the province, a petition to the King from the province of Georgia [n.d.], the draft of an address of the University of the State of Pennsylvania to George Washington (1781), a letter from Arthur Lee to Alexander Wedderburn (1774), letters of Timothy Matlack to Abiel Holmes (1819), and George Wythe's draft resolutions (1775).</abstract>
+            <physloc id="ref4" label="Paging">LH-MV-E-13</physloc>
+            <physdesc id="ref2" label="General Physical Description note">1 volume, 50 p.</physdesc>
+            <origination label="creator">
+                <persname source="ingest">Holmes, Abiel, 1763-1837</persname>
+            </origination>
+            <origination label="creator">
+                <persname source="ingest">Lee, Arthur, 1740-1792</persname>
+            </origination>
+            <origination label="creator">
+                <persname source="ingest">Matlack, Timothy, 1736-1829</persname>
+            </origination>
+            <origination label="creator">
+                <persname source="ingest">Various authors</persname>
+            </origination>
+        </did>
+        <odd id="ref5">
+            <head>Early American History Note</head>
+            <p>This volume contains documents that relate to the government of Pennsylvania. Although the volume is described in MOLE as pertaining to the American Revolution in Pennsylvania, the volume begins with a proclamation from 1728 and contains a range of proclamations from the Seven Years’ War, before ending with a series of proclamations from the 1770s and 1780s. Although there are some lists and petitionsand orders in the volume, almost all of the documents are official government proclamations, often from the governor. The revolutionary era documents are a bit more diverse. In addition to official government documents, such as militia instructions, the volume contains manuscript copies of letters and essays intended for print, as well as private correspondence and messages from other colonies.</p>
+        </odd>
+        <acqinfo id="ref6">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Received and accessioned, 1913 (1911 47041).</p>
+        </acqinfo>
+        <odd id="ref7">
+            <head>General note</head>
+            <p>An index to the manuscripts (3 p.) is included in the volume.</p>
+        </odd>
+        <processinfo id="ref89">
+            <head>Processing Information note</head>
+            <p>Index incomplete.</p>
+        </processinfo>
+        <controlaccess>
+            <persname source="ingest">Washington, George, 1732-1799</persname>
+            <persname source="ingest">Wedderburn, Alexander</persname>
+            <persname source="ingest">Wythe, George, 1726-1806</persname>
+            <subject source="leah">American Revolution</subject>
+            <subject source="leah">Colonial Politics</subject>
+            <geogname source="lcsh">Georgia -- History -- Colonial period, ca. 1600-1775.</geogname>
+            <subject source="leah">Government Affairs</subject>
+            <genreform source="leah">Official Government Documents and Records</genreform>
+            <geogname source="lcsh">Pennsylvania -- History -- Colonial period, ca. 1600-1775.</geogname>
+            <geogname source="lcsh">Pennsylvania -- Politics and government -- To 1775.</geogname>
+            <subject source="leah">Pennsylvania History</subject>
+            <genreform source="lcsh">Petitions.</genreform>
+            <genreform source="lcsh">Proclamations.</genreform>
+            <geogname source="lcsh">United States -- History -- Revolution, 1775-1783 -- Personal histories.</geogname>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref8" level="series">
+                <did>
+                    <unittitle>Papers</unittitle>
+                </did>
+                <c02 id="ref9" level="file">
+                    <did>
+                        <unittitle>Instructions to the governments of New York,</unittitle>
+                        <unitid>974.8 D65. 1</unitid>
+                        <unitdate>1728</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Great Britain. Sovereign (1727-1760 : George II)</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref10">
+                        <head>Scope and Contents note</head>
+                        <p>New Jersey, Pennsylvania and Connecticut, for the suppression of piracy. 15p. F. Lond. (in Documents relating to the province of Pennsylvania and to the American Revolution, no. 1) Manuscript.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref11" level="file">
+                    <did>
+                        <unittitle>Proclamation laying an embargo on provisions and war stores.</unittitle>
+                        <unitid>974.8 D65. 10</unitid>
+                        <unitdate>1755</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Pennsylvania (Colony) Governor - Morris, Robert Hunter</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref12">
+                        <head>Scope and Contents note</head>
+                        <p>1p. F. Phil. (in Documents relating to the provice of Pennsylvania and to the American Revolution. No. 10) Manuscript.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref13" level="file">
+                    <did>
+                        <unittitle>Proclamation laying an embargo on all shipping.</unittitle>
+                        <unitid>974.8 D65. 11</unitid>
+                        <unitdate>1757</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Pennsylvania (Colony) Governor - Denny, William</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref14">
+                        <head>Scope and Contents note</head>
+                        <p>1p. F. New Castle, (in Documents relating to the province of Pennsylvania and to the American Revolution. No. 11) Manuscript.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref15" level="file">
+                    <did>
+                        <unittitle>Petition to the Assembly of Pennsylvania.</unittitle>
+                        <unitid>974.8 D65. 12</unitid>
+                        <unitdate>1755</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Menunist church in Lancaster</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref16">
+                        <head>Scope and Contents note</head>
+                        <p>2p. F. Lancaster, (in Documents relating to the province of Pennsylvania and to the American Revolution. No. 12) Manuscript.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref21" level="file">
+                    <did>
+                        <unittitle>From Col. John Stanwix to the commander of his majesty's forces at New Castle.</unittitle>
+                        <unitid>974.8 D65. 16</unitid>
+                        <unitdate>1757</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Stanwix, John, 1690?-1766</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref22">
+                        <head>Scope and Contents note</head>
+                        <p>1p. F. Phil. (in Documents relating to the province of Pennsylvania and to the American Revolution. No. 16) Manuscript.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref23" level="file">
+                    <did>
+                        <unittitle>From Richard Peters to William Till,</unittitle>
+                        <unitid>974.8 D65. 17</unitid>
+                        <unitdate>1757</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Peters, Richard, 1704-1776</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref24">
+                        <head>Scope and Contents note</head>
+                        <p>collector of customs at New Castle. 1p. F. n.p. (in Documents relating to the province of Pennsylvania and to the American Revolution. No. 17) Manuscript.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref25" level="file">
+                    <did>
+                        <unittitle>[Letter] From Gov. James Hamilton to William Till.</unittitle>
+                        <unitid>974.8 D65. 18</unitid>
+                        <unitdate>1760</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Pennsylvania (Colony) Governor - Hamilton, James</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref26">
+                        <head>Scope and Contents note</head>
+                        <p>4p. F. New Castle, (in Documents relating to the province of Pennsylvania and to the American Revolution. No. 18) Manuscript.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref27" level="file">
+                    <did>
+                        <unittitle>From William Till to Gov.</unittitle>
+                        <unitid>974.8 D65. 19</unitid>
+                        <unitdate>1760</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Till, William</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref28">
+                        <head>Scope and Contents note</head>
+                        <p>James Hamilton. 2p. F. New Castle, (in Documents relating to the province of Pennsylvania and to the American Revolution. no. 19) Manuscript.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref29" level="file">
+                    <did>
+                        <unittitle>From Lord Egremont to the governor of Pennsylvania.</unittitle>
+                        <unitid>974.8 D65. 21</unitid>
+                        <unitdate>1763</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Pennsylvania (Colony) Governor - Hamilton, James</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref30">
+                        <head>Scope and Contents note</head>
+                        <p>3p. F. Whitehall, (in Documents relating to the province of Pennsylvania and to the American Revolution. No. 20) Manuscript.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref31" level="file">
+                    <did>
+                        <unittitle>From the Commissioners of the customs to William Till.</unittitle>
+                        <unitid>974.8 D65. 22</unitid>
+                        <unitdate>1763</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Great Britain - Commissioners of the customs</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref32">
+                        <head>Scope and Contents note</head>
+                        <p>2p. F. Lond. (in Documents relating to the province of Pennsylvania and to the American Revolution. No. 22) Manuscript. Dup. no.23</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref33" level="file">
+                    <did>
+                        <unittitle>From Lord Egrement to the governor of Pennsylvania.</unittitle>
+                        <unitid>974.8 D65. 22</unitid>
+                        <unitdate>1763</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Egremont, Charles Wyndham, Earl of, 1710-1763</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref34">
+                        <head>Scope and Contents note</head>
+                        <p>3p. F. Whitehall, (in Documents relating to the province of Pennsylvania and to the American Revolution. no.20) Manuscript. Dup.no.21</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref35" level="file">
+                    <did>
+                        <unittitle>From the Commissioners of the customs to William Till.</unittitle>
+                        <unitid>974.8 D65. 24</unitid>
+                        <unitdate>1763</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Great Britain - Commissioners of the customs</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref36">
+                        <head>Scope and Contents note</head>
+                        <p>2p. F. Lond. (in Documents relating to the province of Pennsylvania and to the American Revolution. No. 24) Manuscript.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref37" level="file">
+                    <did>
+                        <unittitle>From the Commissioners of the customs to William Till.</unittitle>
+                        <unitid>974.8 D65. 25</unitid>
+                        <unitdate>1764</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Great Britain - Commissioners of the customs</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref38">
+                        <head>Scope and Contents note</head>
+                        <p>2p. F. Lond. (in Documents relating to the province of Pennsylvania and to the American revolution. No. 25) Manuscript</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref41" level="file">
+                    <did>
+                        <unittitle>Circular letter of Gilbert Tennent,</unittitle>
+                        <unitid>974.8 D65. 26</unitid>
+                        <unitdate>1764</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Ewing, John, 1732-1802  others</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref42">
+                        <head>Scope and Contents note</head>
+                        <p>Francis Alison and John Ewing, relating to making Pennsylvania a royal province. 2p. F. Phil. (in documents relating to the province of Pennsylvania and to the American revolution. no.26) Manuscript.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref43" level="file">
+                    <did>
+                        <unittitle>Pardon granted to Anne Jew by Gov. Penn.</unittitle>
+                        <unitid>974.8 D65. 27</unitid>
+                        <unitdate>1766</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Pennsylvania (Colony) Proprietary governor - Penn, John</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref44">
+                        <head>Scope and Contents note</head>
+                        <p>1 p. F. phil. (in Documents relating to the province of Pennsylvania and to the American revolution. No. 27) Manuscript.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref47" level="file">
+                    <did>
+                        <unittitle>From Arthur Lee to Alexander Wedderburn.</unittitle>
+                        <unitid>974.8 D65. 31</unitid>
+                        <unitdate>1774</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Lee, Arthur, 1740-1792</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref48">
+                        <head>Scope and Contents note</head>
+                        <p>1 p. F. n.p. (in Documents relating to the province of Pennsylvania and to the American revolution. No. 31) Manuscript.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref49" level="file">
+                    <did>
+                        <unittitle>Petition to the king to withdraw troops and fleets from our shores.</unittitle>
+                        <unitid>974.8 D65. 32</unitid>
+                        <unitdate>Undated</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Georgia (Colony) - Assembly</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref50">
+                        <head>Scope and Contents note</head>
+                        <p>2p. F. n.P. n.d. (in Documents relating to the province of Pennsylvania and to the American revolution. no.32.) Manuscript.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref53" level="file">
+                    <did>
+                        <unittitle>From Samuel Purviance, jr. to William Bradford.</unittitle>
+                        <unitid>974.8 D65. 34</unitid>
+                        <unitdate>1774</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Purviance, Samuel, jr.</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref54">
+                        <head>Scope and Contents note</head>
+                        <p>1 p. F. Baltimore, (in Documents relating to the province of Pennsylvania and to the American revolution. No. 34) Manuscript.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref55" level="file">
+                    <did>
+                        <unittitle>From Nathaniel Coffin to John Paterson.</unittitle>
+                        <unitid>974.8 D65. 35</unitid>
+                        <unitdate>1775</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Coffin, Nathaniel</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref56">
+                        <head>Scope and Contents note</head>
+                        <p>3p. F. Boston, (in Documents relating to the province of Pennsylvania and to the American Revolution. No. 35.) Manuscript.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref57" level="file">
+                    <did>
+                        <unittitle>From Edward Burd to James Burd.</unittitle>
+                        <unitid>974.8 D65. 36</unitid>
+                        <unitdate>1775</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Burd, Edward, 1751-1833</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref58">
+                        <head>Scope and Contents note</head>
+                        <p>3p. F. Cambridge, (in Documents relating to the province of Pennsylvania and to the American revolution. No. 36) Manuscript.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref59" level="file">
+                    <did>
+                        <unittitle>Message to the assembly of Pennsylvania.</unittitle>
+                        <unitid>974.8 D65. 4</unitid>
+                        <unitdate>1756</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Pennsylvania (Colony) Governor - Denny, William</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref60">
+                        <head>Scope and Contents note</head>
+                        <p>1p. F. Phil. (in Documents relating to the province of Pennsylvania and to the American Revolution. No. 4.) Manuscript.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref61" level="file">
+                    <did>
+                        <unittitle>Circular letter from Thomas Wharton, jr.</unittitle>
+                        <unitid>974.8 D65. 41</unitid>
+                        <unitdate>1777</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Wharton, Thomas, 1730-1782</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref62">
+                        <head>Scope and Contents note</head>
+                        <p>President of the Supreme executive council of Pennsylvania, in reference to disarming the loyalists. 2p. F. Phil. (in Documents relating to the province of Pennsylvania and to the American revolution. no.41.) Manuscript.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref63" level="file">
+                    <did>
+                        <unittitle>Congratulatory address to Gen. Washington by the Trustees of the University of Pennsylvania.</unittitle>
+                        <unitid>974.8 D65. 42</unitid>
+                        <unitdate>1781</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">University of Pennsylvania. Trustees</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref64">
+                        <head>Scope and Contents note</head>
+                        <p>2p. F. [Phil.] (in Documents relating to the province of Pennsylvania and to the American revolution. No. 42.) Manuscript.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref73" level="file">
+                    <did>
+                        <unittitle>Letter to Matthew Carey;</unittitle>
+                        <unitid>974.8 D65. 47</unitid>
+                        <unitdate>March 15, 1785</unitdate>
+                        <physdesc id="ref74" label="General Physical Description note">8" x 12 3/4"</physdesc>
+                        <origination label="creator">
+                            <persname source="ingest">Washington, George, 1732-1799</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref75">
+                        <head>Scope and Contents note</head>
+                        <p>Mount Vernon, Facsimile of A.L.S. 1p. Relates to the delivery of his newspaper [Pennsylvania evening herald]. For dup. see in Documents relating to the province of Pennsylvania...no.47.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref78" level="file">
+                    <did>
+                        <unittitle>Message to the assembly of Pennsylvania.</unittitle>
+                        <unitid>974.8 D65. 5</unitid>
+                        <unitdate>1758</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Pennsylvania (Colony) Governor - Denny, William</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref79">
+                        <head>Scope and Contents note</head>
+                        <p>2p. F. Phil. (in Documents relating to the province of Pennsylvania and to the American Revolution. No. 5.) Manuscript.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref82" level="file">
+                    <did>
+                        <unittitle>Proclamation for keeping the peace with the Indians.</unittitle>
+                        <unitid>974.8 D65. 7</unitid>
+                        <unitdate>1728</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Pennsylvania (Colony) - Governor - Gordon, Patrick</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref83">
+                        <head>Scope and Contents note</head>
+                        <p>2p. F. Phil. (in Documents relating to the province of Pennsylvania and to the American Revolution. No. 7.) Manuscript.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref84" level="file">
+                    <did>
+                        <unittitle>Proclamation for suppressing riots.</unittitle>
+                        <unitid>974.8 D65. 8</unitid>
+                        <unitdate>1729</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Pennsylvania (Colony) Governor - Gordon, Patrick</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref85">
+                        <head>Scope and Contents note</head>
+                        <p>2p. F. Phil. (in Documents relating to the province of Pennsylvania and to the American Revolution. No. 8.) Manuscript.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref86" level="file">
+                    <did>
+                        <unittitle>Proclamation relating to the commission to run the line between Pennsylvania and Delaware.</unittitle>
+                        <unitid>974.8 D65. 9</unitid>
+                        <unitdate>1738</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Pennsylvania (Colony) Governor - Thomas, George</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref87">
+                        <head>Scope and Contents note</head>
+                        <p>2p. F. Phil. (in Documents relating to the province of Pennsylvania and to the American Revolution. No. 9.) Manuscript.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref65" level="file">
+                    <did>
+                        <unittitle>Account of the capture of the General Monk by the Hyder Alley.</unittitle>
+                        <unitid>974.8 D65. 43</unitid>
+                        <unitdate>Undated</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Mease, James, 1771-1846</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref66">
+                        <head>Scope and Contents note</head>
+                        <p>5p. F. n.p. 1825. (in Documents relating to the province of Pennsylvania and to the American revolution. no.43.)</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref67" level="file">
+                    <did>
+                        <unittitle>Act of Parliament for opening commercial intercourse with the United States.</unittitle>
+                        <unitid>974.8 D65. 44</unitid>
+                        <unitdate>Undated</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Great Britain. Parliament</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref68">
+                        <head>Scope and Contents note</head>
+                        <p>2p. F. n.p., n.d. (in Documents relating to the province of Pennsylvania and to the American revolution. no.44.) Manuscript copy.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref19" level="file">
+                    <did>
+                        <unittitle>Examination of Michael La Chauvignerie, jr.</unittitle>
+                        <unitid>974.8 D65. 15</unitid>
+                        <unitdate>Undated</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Allen, William, 1704-1780</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref20">
+                        <head>Scope and Contents note</head>
+                        <p>a French prisoner, before Chief Justice Allen. 4p. F. n.p. 1757. (in Documents relating to the province of Pennsylvania and to the American Revolution. no. 15) Manuscript.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref45" level="file">
+                    <did>
+                        <unittitle>From A Countryman to the Messers Bradford.</unittitle>
+                        <unitid>974.8 D65. 28</unitid>
+                        <unitdate>Undated</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Bradford, William, 1719-1791</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref46">
+                        <head>Scope and Contents note</head>
+                        <p>2p. F. n.p., n.d. (in Documents relating to the province of Pennsylvania and to the American revolution. no.28) Manuscript.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref51" level="file">
+                    <did>
+                        <unittitle>From the Committee of correspondence of the province of Massachusetts Bay to the Committee of correspondence in the province of Pennsylvania.</unittitle>
+                        <unitid>974.8 D65. 33</unitid>
+                        <unitdate>Undated</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Massachusetts (Colony) - Committee of correspondence.</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref52">
+                        <head>Scope and Contents note</head>
+                        <p>1 p. F. Boston, 1774. (in Documents relating to the province of Pennsylvania and to the American revolution. no.33) Manuscript.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref80" level="file">
+                    <did>
+                        <unittitle>Message to the assembly of Pennsylvania.</unittitle>
+                        <unitid>974.8 D65. 6</unitid>
+                        <unitdate>Undated</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Pennsylvania (Colony) Governor - Hamilton, James.</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref81">
+                        <head>Scope and Contents note</head>
+                        <p>3p. F. n.p. 1762. (in Documents relating to the province of Pennsylvania and to the American Revolution. No. 6.) Manuscript.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref71" level="file">
+                    <did>
+                        <unittitle>Minute of a meeting of a committee of the West India planters and merchants.</unittitle>
+                        <unitid>974.8 D65. 46</unitid>
+                        <unitdate>Undated</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">West India Planters and Merchants (London, England)</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref72">
+                        <head>Scope and Contents note</head>
+                        <p>2p. F. n.p., n.d. (in Documents relating to the province of Pennsylvania and to the American revolution. No. 46.) Manuscript</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref69" level="file">
+                    <did>
+                        <unittitle>Minute of a meeting of a committee of the West India planters and merchants.</unittitle>
+                        <unitid>974.8 D65. 45</unitid>
+                        <unitdate>Undated</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">West India Planters and Merchants (London, England)</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref70">
+                        <head>Scope and Contents note</head>
+                        <p>3p. F. n.p. 1784. (in Documents relating to the province of Pennsylvania and to the American revolution. No. 45) Manuscript.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref17" level="file">
+                    <did>
+                        <unittitle>Order of Capt. Desligneris,</unittitle>
+                        <unitid>974.8 D65. 13</unitid>
+                        <unitdate>Undated</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Desligneris, Capt.</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref18">
+                        <head>Scope and Contents note</head>
+                        <p>Fort Duquesne. 1p. F. Fort Duquesne 1757. (in Documents relating to the province of Pennsylvania and to the American Revolution no.13.) Manuscripts.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref76" level="file">
+                    <did>
+                        <unittitle>Report to committee of the American philosophical society,</unittitle>
+                        <unitid>974.8 D65. 48</unitid>
+                        <unitdate>Undated</unitdate>
+                        <origination label="creator">
+                            <persname source="ingest">Pollock, James, 1810-1890</persname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref77">
+                        <head>Scope and Contents note</head>
+                        <p>giving a numerical statement of Continental troops engaged in the Revolution. 2p. F. Shepherdstown, Va. 1816. (in Documents relating to the province of Pennsylvania and to the American revolution. No. 48.) Manuscript.</p>
+                    </scopecontent>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

@@ -1,0 +1,71 @@
+<?xml version="1.0" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-PPAmP" url="http://www.amphilsoc.org/mole/view?docId=ead/Mss.Film.1221-ead.xml"></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>Mss.Film.1221</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Anne Harney</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>American Philosophical Society</publisher>
+                <address>
+                    <addressline>105 South Fifth Street</addressline>
+                    <addressline>Philadelphia, PA, 19106</addressline>
+                    <addressline>215-440-3400</addressline>
+                    <addressline>manuscripts@amphilsoc.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-02-08T20:06-0500</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Collection of family letters, 1787-1869</unittitle>
+            <unitid>Mss.Film.1221</unitid>
+            <repository>
+                <corpname>American Philosophical Society</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid1733" type="Reel" label="Microform">1</container>
+            <physdesc>
+                <extent>1.0 Microfilm reel(s)</extent>
+            </physdesc>
+            <unitdate normal="1787/1869" type="inclusive">1787-1869</unitdate>
+            <abstract id="ref1" label="Abstract">This collection includes family letters of the Eccles, Jones, and Lanneau families of North Carolina and Florida. Some letters were written from Philadelphia (and speak of the Peale family), New York, and New Haven.</abstract>
+            <physdesc id="ref6" label="General Physical Description note">1 microfilm reel.</physdesc>
+            <physloc id="ref8" label="Paging">LH-RR-Media Rm-4</physloc>
+            <origination label="creator">
+                <persname source="ingest" role="Author (aut)">Pierce, Catherine J.,collector.</persname>
+            </origination>
+        </did>
+        <odd id="ref7">
+            <head>Early American History Note</head>
+            <p>This is a microfilm of an early American collection that may be of interest to researchers at the APS and may complement an original manuscript collection at the APS.</p>
+        </odd>
+        <acqinfo id="ref5">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Received from Catherine J. Pierce and accessioned, 1966 (1966 26mf).</p>
+        </acqinfo>
+        <originalsloc id="ref3">
+            <head>Existence and Location of Originals note</head>
+            <p>Originals in possession of Catherine J. Pierce.</p>
+        </originalsloc>
+        <controlaccess>
+            <famname source="ingest">Echols family.</famname>
+            <famname source="ingest">Jones family.</famname>
+            <famname source="ingest">Lanneau family.</famname>
+            <famname source="ingest">Peale family.</famname>
+            <genreform source="leah">Microfilm Collection</genreform>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

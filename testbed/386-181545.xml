@@ -1,0 +1,286 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="naastyle.xsl"?>
+<!DOCTYPE ead PUBLIC "-//Society of American Archivists//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead audience="external"> 
+  <eadheader audience="internal" langencoding="iso639-2b" repositoryencoding="iso15511" scriptencoding="iso15924" dateencoding="iso8601" countryencoding="iso3166-1" relatedencoding="Dublin Core"> 
+	 <eadid countrycode="mnu" mainagencycode="MnU" encodinganalog="Identifier" publicid="-//University of Minnesota, Twin Cities    Campus::Manuscripts Division//TEXT us::MnU::naa159.xml::Harry W. Jones collection , 19//EN">
+		naa159</eadid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper encodinganalog="Title"> Harry W. Jones
+			 collection</titleproper> 
+		  <author encodinganalog="Contributor">Archives Staff</author> 
+		</titlestmt> 
+		<publicationstmt> 
+		  <publisher encodinganalog="Publisher">University of Minnesota
+			 Libraries</publisher> 
+		  <date encodinganalog="Date">undated</date> 
+		  <address> 
+			 <addressline>University of Minnesota Libraries</addressline> 
+			 <addressline>Minneapolis, MN 55455</addressline> 
+		  </address> 
+		</publicationstmt> 
+	 </filedesc> 
+	 <profiledesc> 
+		<creation>EAD encoding by Karen Spilman, Christine Avery
+		  <date>June 2005, November 2012</date></creation> 
+		<langusage> <language encodinganalog="Language" langcode="eng">English</language></langusage> 
+	 </profiledesc> 
+  </eadheader> 
+  <archdesc level="collection" relatedencoding="MARC21"> 
+	 <did> 
+		<origination> 
+		  <corpname source="lcnaf" rules="aacr2" role="creator" encodinganalog="100">Jones, Harry W.</corpname></origination> 
+		<unittitle encodinganalog="245$a" label="Title: ">Harry W. Jones
+		  collection</unittitle> 
+		<unitdate normal="1906" encodinganalog="245$f" type="inclusive" label="Dates: ">1906, </unitdate> 
+		<unitdate normal="1909" encodinganalog="245$f" type="inclusive" label="Dates: ">1909, </unitdate> 
+		<unitdate normal="1924/1925" encodinganalog="245$f" type="inclusive" label="Dates: ">1924-1925, </unitdate> 
+		<unitdate normal="1987" encodinganalog="245$f" type="inclusive" label="Dates: ">1987 </unitdate> 
+		<repository encodinganalog="852$a" label="Repository: ">University of
+		  Minnesota Libraries. <subarea>Northwest Architectural Archives, Manuscripts
+		  Division [naa]</subarea></repository> 
+		<physdesc label="Quantity: "> <extent encodinganalog="300">4 cubic
+		  feet</extent></physdesc> 
+		<abstract encodinganalog="520" label="Abstract: ">Collection contains
+		  plans of residences and buildings designed by architect Harry W. Jones.
+		  </abstract> 
+		<unitid encodinganalog="099" countrycode="mnu" repositorycode="MnU" label="Collection Number: ">N 159</unitid>
+		<langmaterial encodinganalog="546" label="Language: ">
+		<language encodinganalog="041" langcode="eng">English</language>
+		</langmaterial> 
+		<physloc label="Location: ">High Bay</physloc> 
+	 </did> <descgrp> 
+	 <head>Administrative Information</head> 
+	 <accessrestrict encodinganalog="506"> 
+		<head>Restrictions on Access</head> 
+		<p>Available for use in the Manuscripts Division reading room. Advance
+		  notice is requested.</p> 
+	 </accessrestrict> 
+	 <userestrict encodinganalog="540"> 
+		<head>Restrictions on Use</head> 
+		<p>There are no restrictions on the use of materials in this collection.
+		  Copies can be requested if the condition of the originals warrants it. </p> 
+	 </userestrict> 
+	 <prefercite encodinganalog="524"> 
+		<head>Preferred Citation</head> 
+		<p>Harry W. Jones collection (N 159), Northwest Architectural Archives,
+		  University of Minnesota Libraries, Minneapolis.</p> 
+	 </prefercite> 
+	 <acqinfo encodinganalog="541"> 
+		<head>Acquisition</head> 
+		<p>Plans for the Minneapolis Bedding Company and Emery Mapes residence
+		  were separated from the Minneapolis Plan Vault collection (N 115) and added to
+		  the Harry W. Jones collection in October 1999.</p> 
+	 </acqinfo></descgrp> 
+	 <arrangement encodinganalog="351"> 
+		<head>Arrangement</head> 
+		<p>The collection is organized alphabetically by commission name.</p> 
+	 </arrangement> 
+	 <bioghist encodinganalog="545"> 
+		<head>Biographical Note</head> 
+		<p>Harry Wild Jones was born near Kalamazoo, Michigan on June 9, 1859. He
+		  graduated from Brown University in 1880 and the Massachusetts Institute of
+		  Technology in 1882. After graduating from M.I.T., Jones worked for the
+		  architect H. H. Richardson in Boston, and in 1883 he came to Minneapolis to
+		  work in the firm of Plant and Whitney, a firm that specialized in the design
+		  and construction of large, prestigious homes in the Minneapolis area. Harry W.
+		  Jones died in Minneapolis on September 25, 1935. </p> 
+		<p>Jones was instrumental in the establishment of the department of
+		  architecture at the University of Minnesota in the 1890s and his tour of the
+		  world with President William Howard Taft resulted in designs for churches in
+		  China, India and Burma. He designed many notable buildings in Minneapolis,
+		  including the Scottish Rite Temple (1904), Lindsay Brothers Warehouse (1895),
+		  Bulter Square (Butler Brothers' Warehouse, 1906) and his own home at 5101
+		  Nicollet Avenue (1887). </p> 
+	 </bioghist> 
+	 <scopecontent encodinganalog="520"> 
+		<head>Scope and Content Note</head> 
+		<p>The collection includes elevations and plans for four residences in
+		  Minneapolis, including the A.P. Stacy residence (1906), E.E. Franz residence
+		  (1924), the G.A. Heinrich residence (Minneapolis MN, 1925) and the Emery Mapes
+		  residence (n.d., 1987). Also included in the collection are plans for the
+		  Minneapolis Bedding Company (1909). </p> 
+	 </scopecontent> 
+	 <otherfindaid> 
+		<head>Additional Finding Aid</head> 
+		<p>An unpublished finding aid with detailed contents is available in the
+		  Manuscripts Division.</p> 
+	 </otherfindaid> 
+	 <relatedmaterial encodinganalog="544 1"> 
+		<head>Related Material in the Northwest Architectural Archives</head> 
+		<p>Scottish Rite Temple collection (N 37)</p> 
+	 </relatedmaterial> 
+	 <relatedmaterial encodinganalog="544 1"> 
+		<head>Other Related Material </head> 
+		<p>Harry Wild Jones papers, Minnesota Historical Society. </p> 
+	 </relatedmaterial> 
+	 <controlaccess> 
+		<head>Index Terms</head> 
+		<p>This collection is indexed under the following headings in the catalog
+		  of the University of Minnesota Libraries. Researchers desiring materials about
+		  related topics, persons or places should search the catalog using these
+		  headings. </p> 
+		<persname encodinganalog="700 1" source="lcnaf" rules="aacr2">Jones,
+		  Harry W. -- Archives</persname> 
+		<subject encodinganalog="650" source="lcsh">Architecture, Domestic --
+		  Minnesota -- Minneapolis -- Designs and plans</subject> 
+	 </controlaccess> 	 <dsc type="combined">
+		<head>Detailed Contents </head>
+		<p>The following section contains a detailed list of the materials in the
+		  collection.</p> 
+		<c01 level="series"> 
+		  <did id="a1"> 
+			 <unittitle/> 
+			 <unitdate/> 
+		  </did> 
+<c02 level="file">
+<did>
+<unittitle>
+Franz, Mr. E.E
+</unittitle>
+<unitdate>
+1924
+</unitdate>
+</did>
+<scopecontent>
+<p>
+Residence
+</p>
+<p>
+4929 1st Ave S
+</p>
+<p>
+Minneapolis, MN
+</p>
+<p>
+blueprints
+</p>
+</scopecontent>
+</c02>
+<c02 level="file">
+<did>
+<unittitle>
+Heinrich, Mr. G. A
+</unittitle>
+<unitdate>
+1925
+</unitdate>
+</did>
+<scopecontent>
+<p>
+Residence
+</p>
+<p>
+2305 Penn Ave. S
+</p>
+<p>
+Minneapolis, MN
+</p>
+<p>
+blueprints
+</p>
+</scopecontent>
+</c02>
+ 
+<c02 level="file">
+<did>
+<unittitle>
+Mapes, Emery
+</unittitle>
+<unitdate>
+1987
+</unitdate>
+</did>
+<scopecontent>
+<p>
+Residence
+</p>
+<p>
+2218 Lake of the Isles Blvd.
+</p>
+<p>
+Minneapolis, MN
+</p>
+<p>
+blueprint?, photocopy
+</p>
+</scopecontent>
+</c02>
+<c02 level="file">
+<did>
+<unittitle>
+Minneapolis Bedding Company
+</unittitle>
+<unitdate>
+1909
+</unitdate>
+</did>
+<scopecontent>
+<p>
+</p>
+<p>
+5th Ave. SE and Hennepin
+</p>
+<p>
+Minneapolis, MN
+</p>
+<p>
+blueprints with colored pencil
+</p>
+</scopecontent>
+</c02>
+ 
+<c02 level="file">
+<did>
+<unittitle>
+Simpson M. E. Church
+</unittitle>
+<unitdate>
+1924
+</unitdate>
+</did>
+<scopecontent>
+<p>
+Additions
+</p>
+<p>
+2750 1st Ave. S
+</p>
+<p>
+Minneapolis, MN
+</p>
+<p>
+blueprints, blueline
+</p>
+</scopecontent>
+</c02>
+<c02 level="file">
+<did>
+<unittitle>
+Stacy, Mr. A.P
+</unittitle>
+<unitdate>
+1906
+</unitdate>
+</did>
+<scopecontent>
+<p>
+Residence
+</p>
+<p>
+</p>
+<p>
+[Minneapolis, MN]
+</p>
+<p>
+photocopy on vellum
+</p>
+</scopecontent>
+</c02>
+
+
+		</c01>
+	 </dsc>
+  </archdesc> 
+</ead>

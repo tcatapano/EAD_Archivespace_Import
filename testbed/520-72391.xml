@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead relatedencoding="marc21"> 
+  <eadheader audience="internal"> 
+	 <eadid countrycode="US" mainagencycode="TxU-TH"
+	  encodinganalog="852$a">urn:taro:utexas.cah.00350</eadid> 
+	 <filedesc> 
+		<titlestmt> 
+		  <titleproper>A Guide to the John S. Griffin Jr. Papers,
+			 1929-1962</titleproper> 
+		</titlestmt> 
+	 </filedesc> 
+	 <profiledesc> 
+		<creation> 
+		  <date>July 27, 2004</date>Encoded in XMetal 2 by Amelia Abreu according
+		  to instructions in 
+		  <title>TARO 2 EAD 2002 Editing Instructions.</title></creation> 
+	 </profiledesc> 
+  </eadheader> 
+  <archdesc type="inventory" level="collection"> 
+	 <did> 
+		<head>Descriptive Summary</head> 
+		<origination label="Creator:"> 
+		  <persname encodinganalog="100">Griffin, John S.
+			 Jr.</persname></origination> 
+		<unittitle encodinganalog="245" label="Title:">John S. Griffin Jr. Papers
+		  </unittitle> 
+		<unitdate type="inclusive" encodinganalog="245"
+		 label="Dates:">1929-1962</unitdate><langmaterial label="Laguage:">Materials are
+		  written in <language langcode="eng">English, French, Greek and
+		  Polish.</language></langmaterial> 
+		<unitid label="Accession No.:">2004-122</unitid> 
+		<physdesc label="Extent:" encodinganalog="300$a">7 inches</physdesc> 
+		<repository label="Repository:" encodinganalog="852$a"> 
+		  <extref href="http://www.cah.utexas.edu/collectioncomponents/math.html"
+			show="new" actuate="onrequest"> 
+			 <corpname><subarea>Archives of American Mathematics, Center for
+				American History,</subarea>The University of Texas at
+				Austin</corpname></extref></repository> 
+		<abstract label="Abstract:" encodinganalog="520$a">These papers document
+		  mathematician John S. Griffin Jr.'s education and industrial career.</abstract>
+		
+	 </did> 
+	 <bioghist encodinganalog="545"> 
+		<head>Biographical Note</head> 
+		<p>Trained as a topologist, Dr. John Sanders Griffin Jr. received his Ph.
+		  D. at Tulane in 1956, with a dissertation entitled 
+		<title render="italic">A Notion of Parallelism in General Fibre
+		  Bundles</title>. He taught and completed post-graduate study at the University
+		of Michigan. Later, he joined the staff at IBM's Endicott Laboratories. </p> 
+	 </bioghist> 
+	 <scopecontent encodinganalog="520"> 
+		<head>Scope and Contents</head> 
+		<p>Most notably, these papers contain Griffin's personal collection of
+		  reprints, manuscripts and journals. There are materials in French, Polish, and
+		  Greek. Also included are course materials from Griffin's education, and some
+		  professional correspondence.</p> 
+		<p>Forms part of the Archives of American Mathematics</p> 
+	 </scopecontent> 
+	 <accessrestrict encodinganalog="506"> 
+		<head>Access Restrictions</head> 
+		<p> Unrestricted Access</p> 
+	 </accessrestrict> 
+	 <userestrict encodinganalog="540"> 
+		<head>Use Restrictions</head> 
+		<p>These papers are stored remotely. Contact reference staff for
+		  retrieval from offsite storage.</p> 
+	 </userestrict> 
+	 <prefercite encodinganalog="524"> 
+		<head>Preferred Citation</head> 
+		<p>John S. Griffin Jr. Papers, 1929-1962, Archives of American
+		  Mathematics, Dolph Briscoe Center for American History, The University of Texas at Austin</p>
+		
+	 </prefercite> 
+	 <controlaccess> 
+		<head>Index Terms</head> 
+		<controlaccess> 
+		  <persname encodinganalog="600">Griffin, John S. Jr.</persname> 
+		  <corpname encodinganalog="610">Tulane University</corpname> 
+		  <corpname encodinganalog="610">Tulane University, Department of
+			 Mathematics</corpname> 
+		  <corpname encodinganalog="610">IBM, Endicott Laboratories</corpname> 
+		</controlaccess> 
+	 </controlaccess><dsc type="in-depth"> 
+		<head>Detailed Description of the Papers</head> 
+		<c01 level="series" id="ser1"> 
+		  <did> 
+			 <unittitle>Reprints [collected by Griffin]:</unittitle> 
+		  </did> 
+		  <c02> 
+			 <did> 
+				<container type="box">CDL 1.8/2004-122/1</container> 
+				<unittitle>Geometrie sur les surfaces et les varietes algegbriques
+				  (Lefschetz), 
+				  <unitdate>1929</unitdate></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02> 
+			 <did> 
+				<container type="box">CDL 1.8/2004-122/1</container> 
+				<unittitle>Acualites Scientifiques et Industrielles: Le
+				  Parallelisme Absolu et la Theorie Unitare Du Champ (Cartan), 
+				  <unitdate>1932</unitdate></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02> 
+			 <did> 
+				<container type="box">CDL 1.8/2004-122/1</container> 
+				<unittitle>Acualites Scientifiques et Industrielles: La Topologie
+				  des Groupes de Lie (Cartan), 
+				  <unitdate>1936</unitdate></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02> 
+			 <did> 
+				<container type="box">CDL 1.8/2004-122/1</container> 
+				<unittitle>Acualites Scientifiques et Industrielles:
+				  Integralgeometrie (Blaschke), 
+				  <unitdate>1935</unitdate></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02> 
+			 <did> 
+				<container type="box">CDL 1.8/2004-122/1</container> 
+				<unittitle>Acualites Scientifiques et Industrielles: Sur les
+				  Groupes Classiques (Dieudonne), 
+				  <unitdate>1948</unitdate></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02> 
+			 <did> 
+				<container type="box">CDL 1.8/2004-122/1</container> 
+				<unittitle>Rozprawy Matematyczne (Dubikajtis), 
+				  <unitdate>1958</unitdate></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02> 
+			 <did> 
+				<container type="box">CDL 1.8/2004-122/1</container> 
+				<unittitle> [Greek Publication] 
+				  <unitdate>1958</unitdate></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02> 
+			 <did> 
+				<container type="box">CDL 1.8/2004-122/1</container> 
+				<unittitle> [Greek Publication, copy], 
+				  <unitdate>1953</unitdate></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02> 
+			 <did> 
+				<container type="box">CDL 1.8/2004-122/1</container> 
+				<unittitle> Relations entre les complexes de le Rham et d'
+				  Alexandre (Papy), 
+				  <unitdate>1956</unitdate></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02> 
+			 <did> 
+				<container type="box">CDL 1.8/2004-122/1</container> 
+				<unittitle>Lecture notes of Richard Brauer: Spherical harmonics, 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02> 
+			 <did> 
+				<container type="box">CDL 1.8/2004-122/1</container> 
+				<unittitle>Session Papers [with annotations], 
+				  <unitdate>1959</unitdate></unittitle> 
+			 </did> 
+		  </c02> 
+		</c01> 
+		<c01 level="series"> 
+		  <did> 
+			 <unittitle>Manuscripts: </unittitle> 
+		  </did> 
+		  <c02> 
+			 <did> 
+				<container type="box">CDL 1.8/2004-122/1</container> 
+				<unittitle>Borel on the Leray theory, 
+				  <unitdate>1951</unitdate></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02> 
+			 <did> 
+				<container type="box">CDL 1.8/2004-122/1</container> 
+				<unittitle> "Lectures on differential geometry in the large, 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02> 
+			 <did> 
+				<container type="box">CDL 1.8/2004-122/1</container> 
+				<unittitle> A notion of parallelism in general fibre bundles, 
+				  <unitdate>undated</unitdate></unittitle> 
+			 </did> 
+		  </c02> 
+		</c01> 
+		<c01>
+		  <did>
+			 <container type="box">CDL 1.8/2004-122/1</container>
+			 <unittitle> Thesis Abstract, Transfinite sequences, 
+				<unitdate>ca. 1952</unitdate></unittitle>
+		  </did>
+		</c01>
+		<c01 level="series"> 
+		  <did> 
+			 <unittitle>Manuscript, notes, correspondence </unittitle> 
+		  </did> 
+		  <c02> 
+			 <did> 
+				<container type="box">CDL 1.8/2004-122/1</container> 
+				<unittitle>"The Metrizability of the Bundle Space," 
+				  <unitdate>1953-1958</unitdate></unittitle> 
+			 </did> 
+		  </c02> 
+		  <c02> 
+			 <did> 
+				<container type="box">CDL 1.8/2004-122/1</container> 
+				<unittitle> "Affine Connections in Terms of a Tangent Bundle," 
+				  <unitdate>1953-1961</unitdate></unittitle> 
+			 </did> 
+		  </c02> 
+		</c01> 
+		<c01> 
+		  <did> 
+			 <unittitle>Course materials:</unittitle> 
+		  </did> 
+		  <c02> 
+			 <did> 
+				<container type="box">CDL 1.8/2004-122/2</container> 
+				<unittitle>"Samelson- Algebraic Topology,"</unittitle> 
+				<unitdate>1949-1950</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02> 
+			 <did> 
+				<container type="box">CDL 1.8/2004-122/2</container> 
+				<unittitle>"Notes for Mathematics 235, Differential Geometry-
+				  University of Michigan, Fall 1958,"</unittitle> 
+				<unitdate>1958</unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02> 
+			 <did> 
+				<container type="box">CDL 1.8/2004-122/2</container> 
+				<unittitle>"Vector Analysis Course, Spring 1962," </unittitle> 
+				<unitdate>1962 </unitdate> 
+			 </did> 
+		  </c02> 
+		  <c02> 
+			 <did> 
+				<container type="box">CDL 1.8/2004-122/2</container> 
+				<unittitle>""Eckerman- Differentiable Mainfolds," </unittitle> 
+				<unitdate>1950</unitdate> 
+			 </did> 
+		  </c02> 
+		</c01> 
+		<c01> 
+		  <did> 
+			 <unittitle>Correspondence:</unittitle> 
+		  </did> 
+		  <c02> 
+			 <did> 
+				<container type="box">CDL 1.8/2004-122/2</container> 
+				<unittitle>Steve Hu, Wayne State University, "Hu's Manuscript and
+				  C; ," </unittitle> 
+				<unitdate>1957-1959</unitdate> 
+			 </did> 
+		  </c02> 
+		</c01></dsc> 
+  </archdesc>
+</ead>

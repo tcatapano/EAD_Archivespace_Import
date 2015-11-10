@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xmlns:ns2="http://www.w3.org/1999/xlink">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US">M/A 1998.35.01</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>James Austin Williams Collection
+                    <num>M/A 1998.35.01</num>
+                </titleproper>
+            </titlestmt>
+            <publicationstmt>
+                <p>
+                    <extref ns2:type="simple" ns2:actuate="onLoad" ns2:show="embed" ns2:href="http://www.hclib.org/pub/images/HCL_HomepageLogo48.gif"/>
+                </p>
+                <publisher>James K. Hosmer Special Collections Library</publisher>
+                <address>
+                    <addressline>300 Nicollet Mall</addressline>
+                    <addressline>Minneapolis, MN, 55401</addressline>
+                    <addressline>952-847-8200</addressline>
+                    <addressline>specialcoll@hclib.org</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2010-02-16T12:08-0600</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>James Austin Williams Collection</unittitle>
+            <unitid>M/A 1998.35.01</unitid>
+            <repository>
+                <corpname>James K. Hosmer Special Collections Library</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <physdesc>
+                <extent>1.0 boxes</extent>
+            </physdesc>
+            <unitdate>1906-1934</unitdate>
+            <origination label="Creator:">
+                <persname rules="dacs" source="local" role="Author (aut)">Williams, James A. (James Austin)</persname>
+            </origination>
+        </did>
+        <bioghist id="ref1">
+            <head>Biography</head>
+            <p>James Austin Williams was born in Mitcheldean, England, on April 19, 1876, and died sometime after 1934. He moved to Winnipeg with his parents at age ten, and at eighteen served as assistant postmaster at Manitou and also worked for a general merchant. After studying music in Winnipeg he moved to Minneapolis in 1897 to continue his studies, finding employment with a manufacturer or rope and twine.</p>
+            <p>After traveling and singing through a lyceum bureau, he opened his own studio in 1900 and became conductor of The Philharmonic Club and sang tenor at the Church of the Redeemer, in Minneapolis. Later, he became director and choirmaster at Gethsemane Episcopal Church (his "headquarters"), Wesley M. E. Church, and Immanuel Norwegian Lutheran Church, all also in Minneapolis. At some time, he also served as director of the Central High Glee Club. He married, and by 1937 another man was serving as choirmaster at Gethsemane.</p>
+        </bioghist>
+        <scopecontent id="ref2">
+            <head>Description of the Collection</head>
+            <p>One box. Two folders containing clippings and programs and a scrapbook of clippings.</p>
+        </scopecontent>
+        <controlaccess>
+            <corpname rules="dacs" source="local">Gethsemane Church. (Minneapolis, Minn.)</corpname>
+            <corpname rules="dacs" source="local">Philharmonic Club. (Minneapolis, Minn.)</corpname>
+            <subject source="local">Choral music--Minnesota--Minneapolis.</subject>
+            <subject source="lcsh">Music--Minnesota--Minneapolis.</subject>
+            <subject source="lcsh">Music--societies.</subject>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref3" level="file">
+                <did>
+                    <unittitle>Clippings (travels, performances, pupils)</unittitle>
+                    <container id="cid194001" type="Box" label="Mixed materials">1</container>
+                    <container parent="cid194001" type="Folder">1</container>
+                    <unitdate>1918-1934</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref4" level="file">
+                <did>
+                    <unittitle>Clippings, programs, notes</unittitle>
+                    <container id="cid194002" type="Box" label="Mixed materials">1</container>
+                    <container parent="cid194002" type="Folder">2</container>
+                    <unitdate>1909-1931</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref5" level="file">
+                <did>
+                    <unittitle>Scrapbook of loose and glued clippings, notes (including names and addresses), postcards, and letters</unittitle>
+                    <container id="cid194003" type="Box" label="Mixed materials">1</container>
+                    <container parent="cid194003" type="Box-folder">3</container>
+                    <unitdate>1906-1916</unitdate>
+                </did>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

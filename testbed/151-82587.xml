@@ -1,0 +1,542 @@
+<?xml version="1.0"?>
+<ead>
+  
+  
+  
+  
+  
+  <eadheader xmlns:cdlpath="http://www.cdlib.org/path/" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" scriptencoding="iso15924" audience="internal" langencoding="iso639-2b" findaidstatus="unverified-full-draft"><eadid countrycode="us" identifier="ark:/13030/kt5w1018w1" mainagencycode="CU-SC" publicid="PUBLIC -//University of California, Santa Cruz::University Library::Special Collections//TEXT (US::CU-SC::::University Library Records, 1965-)//EN ua21.sgm" cdlpath:parent="ark:/13030/kt9t1nc831" cdlpath:grandparent="ark:/13030/kt3r29q08x">ua21.xml</eadid><filedesc>
+      <titlestmt>
+        <titleproper>University Library Records, 1979-2003</titleproper><titleproper type="filing">University Library Records, 1965-</titleproper>
+        <author>Processed by UCSC OAC Unit.</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>The University Library</publisher>
+        <address>
+          <addressline>Special Collections and Archives</addressline>
+          <addressline>University Library</addressline>
+          <addressline>University of California, Santa Cruz</addressline>
+          <addressline>Santa Cruz, California, 95064</addressline>
+          <addressline>Email: specoll@library.ucsc.edu</addressline>
+          <addressline>URL: http://library.ucsc.edu/speccoll/</addressline>
+        </address>
+        <date calendar="gregorian" era="ce"> 2003</date>
+        <p>The Regents of the University of California. All rights reserved.</p>
+      </publicationstmt>
+      <notestmt>
+        <note>
+          <p>
+            <subject source="cdl">Geographical (By Place)--University of California--UC Santa Cruz</subject>
+          </p>
+        </note>
+      </notestmt>
+    </filedesc><profiledesc>
+      <creation>Machine-readable finding aid created by UCSC OAC Unit. Machine-readable finding aid derived from MS Word. Date of source: <date calendar="gregorian" era="ce">October 2003.</date></creation>
+      <langusage>
+        <language>English</language>
+      </langusage>
+    </profiledesc><revisiondesc>
+      <change>
+        <date calendar="gregorian" era="ce" normal="20040323">March 23, 2004</date>
+        <item>PUBLIC "-//University of California, Santa Cruz::University Library::Special Collections//TEXT 
+(US::CU-SC::::University Library Records, 1965-)//EN" "ua21.sgm" converted from EAD 1.0 to 2002 by v1to02.cdl.xsl (2004-09-16).</item>
+      </change>
+    </revisiondesc></eadheader>
+  <frontmatter>
+    <titlepage>
+      <titleproper>University Library Records, 1979-2003</titleproper>
+      <num>Collection number: UA 21</num>
+      <publisher>The University Library
+<lb/><extptr linktype="simple" entityref="ucseal" show="embed" actuate="onload" inline="true"/><lb/>Special Collections and Archives 
+<lb/>University of California, Santa Cruz
+<lb/>Santa Cruz, California</publisher>
+      <list type="simple">
+        <head>Contact Information:</head>
+        <item>Special Collections and Archives</item>
+        <item>University Library</item>
+        <item>University of California, Santa Cruz</item>
+        <item>Santa Cruz, California, 95064</item>
+        <item>Email: specoll@library.ucsc.edu</item>
+        <item>URL: http://library.ucsc.edu/speccoll/</item>
+      </list>
+      <list type="deflist">
+        <defitem>
+          <label>Processed by:</label>
+          <item>UCSC OAC Unit</item>
+        </defitem>
+        <defitem>
+          <label>Date Completed:</label>
+          <item>October 2003</item>
+        </defitem>
+        <defitem>
+          <label>Encoded by:</label>
+          <item>UCSC OAC Unit</item>
+        </defitem>
+      </list>
+      <p> 2003 The Regents of the University of California. All rights reserved.</p>
+    </titlepage>
+  </frontmatter>
+  <archdesc xmlns:cdlpath="http://www.cdlib.org/path/" level="collection">
+    <did id="did-1.8.1">
+      <head>Descriptive Summary</head>
+      <unittitle label="Title">University Library Records, 
+</unittitle><unitdate calendar="gregorian" era="ce" type="inclusive" normal="1979-2003">1979-2003</unitdate>
+      <unitid label="Collection number" countrycode="US" repositorycode="CUSC">UA 21</unitid>
+      <origination label="Creator">
+        <corpname source="aacr2">University of California, Santa Cruz</corpname>
+      </origination>
+      <physdesc label="Extent">
+        <extent>3 linear ft.</extent>
+      </physdesc>
+      <repository label="Repository">
+        <corpname>University of California, Santa Cruz. University Library. 
+<subarea>Special Collections and Archives</subarea></corpname>
+        <address>
+          <addressline>Santa Cruz, California 95064</addressline>
+        </address>
+      </repository>
+      <abstract label="Abstract">Includes documents and records relating to the administration of
+the University Library</abstract>
+      <physloc label="Physical location">Stored offsite at NRLF: Advance notice is required for access to the papers.</physloc>
+      <langmaterial label="Language">
+        <language langcode="eng">English.</language>
+      </langmaterial>
+    </did>
+    <descgrp type="admininfo" id="descgrp-1.8.2">
+      <head>Administrative Information</head>
+      <accessrestrict>
+        <head>Access</head>
+        <p>Collection open for research.</p>
+      </accessrestrict>
+      <userestrict>
+        <head>Publication Rights</head>
+        <p>Property rights reside with the University of California. Literary rights are retained by the creators of the records and their heirs. For permission to publish or to reproduce the material, please contact the Head of Special Collections and Archives.</p>
+      </userestrict>
+      <prefercite>
+        <head>Preferred Citation</head>
+        <p>University Library Records, 1979-2003. UA 21. Special Collections and Archives, University Library, University of 
+California, Santa Cruz.</p>
+      </prefercite>
+      <acqinfo>
+        <head>Acquisition Information</head>
+        <p>Transferred in 2003.</p>
+      </acqinfo>
+    </descgrp>
+    <scopecontent id="scopecontent-1.8.3">
+      <head>Scope and Contents Note</head>
+      <p>Includes documents and records relating to the administration of
+the University Library.</p>
+    </scopecontent>
+    <controlaccess id="controlaccess-1.8.4">
+      <head>Indexing Terms</head>
+      <p>The following terms have been used to index the description of this collection in
+the library's online public access catalog.</p>
+      <controlaccess>
+        <head>Subjects</head>
+        <corpname source="lcnaf" encodinganalog="610" role="cre">University of California, Santa Cruz--Archives</corpname>
+      </controlaccess>
+      <controlaccess>
+        <head>Other Index Terms Related to this Collection</head>
+        <corpname source="local" encodinganalog="710" role="cre">University of California, Santa Cruz. University Library</corpname>
+        <corpname source="local" encodinganalog="710" role="cre">University of California, Santa Cruz. Science Library</corpname>
+        <corpname source="local" encodinganalog="710" role="cre">University of California, Santa Cruz. McHenry Library</corpname>
+      </controlaccess>
+    </controlaccess>
+    <dsc type="combined" id="dsc-1.8.5" score="1" C-ORDER="1" MAX-C-ORDER="57">
+      <head>Collection Contents</head>
+      <c01 level="series" id="c01-1.8.5.2" score="2" C-ORDER="2">
+        <did>
+          <unittitle>Restricted material, <unitdate calendar="gregorian" era="ce" type="inclusive">1990</unitdate></unittitle>
+          <physdesc>
+            <extent>9 folders</extent>
+          </physdesc>
+        </did>
+        <scopecontent>
+          <p>This series contains restricted material from the University Library.</p>
+        </scopecontent>
+        <c02 level="file" id="c02-1.8.5.2.3" score="1" C-ORDER="4">
+          <did>
+            <container type="Box-folder">1:1-9</container>
+            <unittitle>RESTRICTED FILES </unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series" id="c01-1.8.5.3" score="2" C-ORDER="5">
+        <did>
+          <unittitle>Reports and Statistics, <unitdate calendar="gregorian" era="ce" type="inclusive">1979-2003 </unitdate></unittitle>
+          <physdesc>
+            <extent>5 half cartons</extent>
+          </physdesc>
+        </did>
+        <scopecontent>
+          <p>This series contains reports and monthly statistics of the University Library.</p>
+        </scopecontent>
+        <c02 level="file" id="c02-1.8.5.3.3" score="1" C-ORDER="7">
+          <did>
+            <container type="Box-folder">2:6, 3:1-3</container>
+            <unittitle>LMG - Library Management Group Reports</unittitle>
+          </did>
+          <c03 level="file" id="c03-1.8.5.3.3.2" score="1" C-ORDER="8">
+            <did>
+              <container type="Box-folder">2:1</container>
+              <unittitle>
+                <unitdate calendar="gregorian" era="ce">July 1979-December 1981</unitdate>
+              </unittitle>
+            </did>
+          </c03>
+          <c03 level="file" id="c03-1.8.5.3.3.3" score="1" C-ORDER="9">
+            <did>
+              <container type="Box-folder">2:2</container>
+              <unittitle>
+                <unitdate calendar="gregorian" era="ce">1982</unitdate>
+              </unittitle>
+            </did>
+          </c03>
+          <c03 level="file" id="c03-1.8.5.3.3.4" score="1" C-ORDER="10">
+            <did>
+              <container type="Box-folder">2:3</container>
+              <unittitle>
+                <unitdate calendar="gregorian" era="ce">1983-84</unitdate>
+              </unittitle>
+            </did>
+          </c03>
+          <c03 level="file" id="c03-1.8.5.3.3.5" score="1" C-ORDER="11">
+            <did>
+              <container type="Box-folder">2:4</container>
+              <unittitle>
+                <unitdate calendar="gregorian" era="ce">1985-87</unitdate>
+              </unittitle>
+            </did>
+          </c03>
+          <c03 level="file" id="c03-1.8.5.3.3.6" score="1" C-ORDER="12">
+            <did>
+              <container type="Box-folder">2:5</container>
+              <unittitle>
+                <unitdate calendar="gregorian" era="ce">1988-1990</unitdate>
+              </unittitle>
+            </did>
+          </c03>
+          <c03 level="file" id="c03-1.8.5.3.3.7" score="1" C-ORDER="13">
+            <did>
+              <container type="Box-folder">2:6</container>
+              <unittitle>
+                <unitdate calendar="gregorian" era="ce">1991-1992</unitdate>
+              </unittitle>
+            </did>
+          </c03>
+          <c03 level="file" id="c03-1.8.5.3.3.8" score="1" C-ORDER="14">
+            <did>
+              <container type="Box-folder">3:1</container>
+              <unittitle>
+                <unitdate calendar="gregorian" era="ce">1993-1995</unitdate>
+              </unittitle>
+            </did>
+          </c03>
+          <c03 level="file" id="c03-1.8.5.3.3.9" score="1" C-ORDER="15">
+            <did>
+              <container type="Box-folder">3:2</container>
+              <unittitle>
+                <unitdate calendar="gregorian" era="ce">1996-1998</unitdate>
+              </unittitle>
+            </did>
+          </c03>
+          <c03 level="file" id="c03-1.8.5.3.3.10" score="1" C-ORDER="16">
+            <did>
+              <container type="Box-folder">3:3</container>
+              <unittitle>
+                <unitdate calendar="gregorian" era="ce">1999-2002</unitdate>
+              </unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.3.4" score="1" C-ORDER="17">
+          <did>
+            <container type="Box-folder">3:4-5</container>
+            <unittitle> Automation Committee [formerly Database Committee]</unittitle>
+          </did>
+          <c03 level="file" id="c03-1.8.5.3.4.2" score="1" C-ORDER="18">
+            <did>
+              <container type="Box-folder">3:4</container>
+              <unittitle>
+                <unitdate calendar="gregorian" era="ce">Oct 1987-Mar 1992</unitdate>
+              </unittitle>
+            </did>
+          </c03>
+          <c03 level="file" id="c03-1.8.5.3.4.3" score="1" C-ORDER="19">
+            <did>
+              <container type="Box-folder">3:5</container>
+              <unittitle>
+                <unitdate calendar="gregorian" era="ce">Oct 1986-Jun 1987</unitdate>
+              </unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.3.5" score="1" C-ORDER="20">
+          <did>
+            <container type="Box-folder">3:6</container>
+            <unittitle>Database Committee, <unitdate calendar="gregorian" era="ce">Oct 1979-Jun 1980</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.8.5.3.6" score="1" C-ORDER="21">
+          <did>
+            <container type="Box-folder">3:7 - 5:5</container>
+            <unittitle> Section Reports  Monthly Statistics</unittitle>
+          </did>
+          <c03 level="file" id="c03-1.8.5.3.6.2" score="1" C-ORDER="22">
+            <did>
+              <container type="Box-folder">4:1</container>
+              <unittitle>
+                <unitdate calendar="gregorian" era="ce">1984-1985</unitdate>
+              </unittitle>
+            </did>
+          </c03>
+          <c03 level="file" id="c03-1.8.5.3.6.3" score="1" C-ORDER="23">
+            <did>
+              <container type="Box-folder">4:2</container>
+              <unittitle>
+                <unitdate calendar="gregorian" era="ce">Jul 1985 - Jun 1986</unitdate>
+              </unittitle>
+            </did>
+          </c03>
+          <c03 level="file" id="c03-1.8.5.3.6.4" score="1" C-ORDER="24">
+            <did>
+              <container type="Box-folder">4:3</container>
+              <unittitle>
+                <unitdate calendar="gregorian" era="ce">Jul 1986 - Jun 1987</unitdate>
+              </unittitle>
+            </did>
+          </c03>
+          <c03 level="file" id="c03-1.8.5.3.6.5" score="1" C-ORDER="25">
+            <did>
+              <container type="Box-folder">4:4</container>
+              <unittitle>
+                <unitdate calendar="gregorian" era="ce">Jul 1987 - Jun 1988 </unitdate>
+              </unittitle>
+            </did>
+          </c03>
+          <c03 level="file" id="c03-1.8.5.3.6.6" score="1" C-ORDER="26">
+            <did>
+              <container type="Box-folder">4:5</container>
+              <unittitle>
+                <unitdate calendar="gregorian" era="ce">Jul 1988 - Jun 1989</unitdate>
+              </unittitle>
+            </did>
+          </c03>
+          <c03 level="file" id="c03-1.8.5.3.6.7" score="1" C-ORDER="27">
+            <did>
+              <container type="Box-folder">4:6</container>
+              <unittitle>
+                <unitdate calendar="gregorian" era="ce">Jul 1989 - Jun 1990 </unitdate>
+              </unittitle>
+            </did>
+          </c03>
+          <c03 level="file" id="c03-1.8.5.3.6.8" score="1" C-ORDER="28">
+            <did>
+              <container type="Box-folder">5:1</container>
+              <unittitle>
+                <unitdate calendar="gregorian" era="ce">Jul 1990 - Jun 1991</unitdate>
+              </unittitle>
+            </did>
+          </c03>
+          <c03 level="file" id="c03-1.8.5.3.6.9" score="1" C-ORDER="29">
+            <did>
+              <container type="Box-folder">5:2</container>
+              <unittitle>
+                <unitdate calendar="gregorian" era="ce">Jul 1991 - Jun 1992</unitdate>
+              </unittitle>
+            </did>
+          </c03>
+          <c03 level="file" id="c03-1.8.5.3.6.10" score="1" C-ORDER="30">
+            <did>
+              <container type="Box-folder">5:3</container>
+              <unittitle>
+                <unitdate calendar="gregorian" era="ce">Jul 1992 - Jun 1993</unitdate>
+              </unittitle>
+            </did>
+          </c03>
+          <c03 level="file" id="c03-1.8.5.3.6.11" score="1" C-ORDER="31">
+            <did>
+              <container type="Box-folder">5:4</container>
+              <unittitle>
+                <unitdate calendar="gregorian" era="ce">Jul 1993 - Jun 1994</unitdate>
+              </unittitle>
+            </did>
+          </c03>
+          <c03 level="file" id="c03-1.8.5.3.6.12" score="1" C-ORDER="32">
+            <did>
+              <container type="Box-folder">5:5</container>
+              <unittitle>
+                <unitdate calendar="gregorian" era="ce">Jul 1994 - Jun 1995</unitdate>
+              </unittitle>
+            </did>
+          </c03>
+          <c03 level="file" id="c03-1.8.5.3.6.13" score="1" C-ORDER="33">
+            <did>
+              <container type="Box-folder">3:7</container>
+              <unittitle>
+                <unitdate calendar="gregorian" era="ce">Jul 1995 - Jun 1996</unitdate>
+              </unittitle>
+            </did>
+          </c03>
+          <c03 level="file" id="c03-1.8.5.3.6.14" score="1" C-ORDER="34">
+            <did>
+              <container type="Box-folder">3:8</container>
+              <unittitle>
+                <unitdate calendar="gregorian" era="ce">Jul 1996 - Jun 1998</unitdate>
+              </unittitle>
+            </did>
+          </c03>
+          <c03 level="file" id="c03-1.8.5.3.6.15" score="1" C-ORDER="35">
+            <did>
+              <container type="Box-folder">3:9</container>
+              <unittitle>
+                <unitdate calendar="gregorian" era="ce">Jul 1998 - Jun 2001</unitdate>
+              </unittitle>
+            </did>
+          </c03>
+          <c03 level="file" id="c03-1.8.5.3.6.16" score="1" C-ORDER="36">
+            <did>
+              <container type="Box-folder">3:10</container>
+              <unittitle>
+                <unitdate calendar="gregorian" era="ce">Jul 2001 - Mar 2003</unitdate>
+              </unittitle>
+            </did>
+          </c03>
+        </c02>
+      </c01>
+      <c01 level="series" id="c01-1.8.5.4" score="2" C-ORDER="37">
+        <did>
+          <unittitle>Science Library Building Committee, <unitdate calendar="gregorian" era="ce" type="inclusive">1984-1987</unitdate></unittitle>
+          <physdesc>
+            <extent>2 half cartons</extent>
+          </physdesc>
+        </did>
+        <scopecontent>
+          <p>This series contains material about the construction of the Science Library. </p>
+        </scopecontent>
+        <c02 level="file" id="c02-1.8.5.4.3" score="1" C-ORDER="39">
+          <did>
+            <container type="Box-folder">5:6 - 6:13</container>
+            <unittitle>Science Library Building Committee</unittitle>
+          </did>
+          <c03 level="file" id="c03-1.8.5.4.3.2" score="1" C-ORDER="40">
+            <did>
+              <container type="Box-folder">5:6</container>
+              <unittitle>Circulation  Reference</unittitle>
+            </did>
+          </c03>
+          <c03 level="file" id="c03-1.8.5.4.3.3" score="1" C-ORDER="41">
+            <did>
+              <container type="Box-folder">5:7</container>
+              <unittitle>Construction Meetings</unittitle>
+            </did>
+          </c03>
+          <c03 level="file" id="c03-1.8.5.4.3.4" score="1" C-ORDER="42">
+            <did>
+              <container type="Box-folder">5:8</container>
+              <unittitle>Correspondence  Publicity</unittitle>
+            </did>
+          </c03>
+          <c03 level="file" id="c03-1.8.5.4.3.5" score="1" C-ORDER="43">
+            <did>
+              <container type="Box-folder">6:1</container>
+              <unittitle>Awards  Photos</unittitle>
+            </did>
+          </c03>
+          <c03 level="file" id="c03-1.8.5.4.3.6" score="1" C-ORDER="44">
+            <did>
+              <container type="Box-folder">6:2</container>
+              <unittitle>Dedication, Millionth volume, etc. event</unittitle>
+            </did>
+          </c03>
+          <c03 level="file" id="c03-1.8.5.4.3.7" score="1" C-ORDER="45">
+            <did>
+              <container type="Box-folder">6:3</container>
+              <unittitle>Cowell Grant</unittitle>
+            </did>
+          </c03>
+          <c03 level="file" id="c03-1.8.5.4.3.8" score="1" C-ORDER="46">
+            <did>
+              <container type="Box-folder">6:4</container>
+              <unittitle>Meeting Notes</unittitle>
+            </did>
+          </c03>
+          <c03 level="file" id="c03-1.8.5.4.3.9" score="1" C-ORDER="47">
+            <did>
+              <container type="Box-folder">6:5</container>
+              <unittitle>Building Planning - Pre-building committee</unittitle>
+            </did>
+          </c03>
+          <c03 level="file" id="c03-1.8.5.4.3.10" score="1" C-ORDER="48">
+            <did>
+              <container type="Box-folder">6:6</container>
+              <unittitle>Site dedication</unittitle>
+            </did>
+          </c03>
+          <c03 level="file" id="c03-1.8.5.4.3.11" score="1" C-ORDER="49">
+            <did>
+              <container type="Box-folder">6:7</container>
+              <unittitle>Preliminary Design Submittal - Outline Specs</unittitle>
+            </did>
+          </c03>
+          <c03 level="file" id="c03-1.8.5.4.3.12" score="1" C-ORDER="50">
+            <did>
+              <container type="Box-folder">6:8</container>
+              <unittitle>Final EIR,	<unitdate calendar="gregorian" era="ce" type="inclusive">10/1987</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 level="file" id="c03-1.8.5.4.3.13" score="1" C-ORDER="51">
+            <did>
+              <container type="Box-folder">6:9</container>
+              <unittitle>Detailed Project Program, DPP Revised, <unitdate calendar="gregorian" era="ce" type="inclusive">7/1987</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 level="file" id="c03-1.8.5.4.3.14" score="1" C-ORDER="52">
+            <did>
+              <container type="Box-folder">6:10-11</container>
+              <unittitle>PPG, revised</unittitle>
+            </did>
+            <c04 level="file" id="c04-1.8.5.4.3.14.2" score="1" C-ORDER="53">
+              <did>
+                <container type="Box-folder">6:10</container>
+                <unittitle>
+                  <unitdate calendar="gregorian" era="ce" type="inclusive">10/1985</unitdate>
+                </unittitle>
+              </did>
+            </c04>
+            <c04 level="file" id="c04-1.8.5.4.3.14.3" score="1" C-ORDER="54">
+              <did>
+                <container type="Box-folder">6:11</container>
+                <unittitle>
+                  <unitdate calendar="gregorian" era="ce" type="inclusive">9/1986</unitdate>
+                </unittitle>
+              </did>
+            </c04>
+          </c03>
+          <c03 level="file" id="c03-1.8.5.4.3.15" score="1" C-ORDER="55">
+            <did>
+              <container type="Box-folder">6:12-13</container>
+              <unittitle>PPG addendums</unittitle>
+            </did>
+            <c04 level="file" id="c04-1.8.5.4.3.15.2" score="1" C-ORDER="56">
+              <did>
+                <container type="Box-folder">6:12</container>
+                <unittitle>
+                  <unitdate calendar="gregorian" era="ce" type="inclusive">8/1987</unitdate>
+                </unittitle>
+              </did>
+            </c04>
+            <c04 level="file" id="c04-1.8.5.4.3.15.3" score="1" C-ORDER="57">
+              <did>
+                <container type="Box-folder">6:13</container>
+                <unittitle>
+                  <unitdate calendar="gregorian" era="ce" type="inclusive">9/1987</unitdate>
+                </unittitle>
+              </did>
+            </c04>
+          </c03>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

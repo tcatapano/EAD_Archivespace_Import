@@ -1,0 +1,61 @@
+<?xml version="1.0" standalone="no"?>
+<?xml-stylesheet href="file:///C:/Program%20Files/SoftQuad/XMetaL%203/Display/eadcbs2.xsl"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-9//DTD ead.dtd Encoded Archival Description (EAD) Version 2002//EN" "ead.dtd">
+<ead><!--Template for BLAC use. Incorporates elements added in editing of initial TARO files. Designed by Bob Stewart and Christian Kelleher. -->
+<eadheader audience="internal" langencoding="iso639-2b" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924" findaidstatus="unverified-partial-draft" relatedencoding="MARC21">
+<eadid countrycode="us" mainagencycode="TxU-LA" url="www.lib.utexas.edu/taro/utlac/00159.xml" encodinganalog="856$u">urn:taro:utexas.blac.00159</eadid>
+
+<filedesc><titlestmt><titleproper encodinganalog="245$a">Albert J. Schmidt Collection of Lantern Slides, c.1904-1921</titleproper>
+<author encodinganalog="245$c">Benson Latin American Collection</author></titlestmt>
+<publicationstmt><publisher encodinganalog="260$b">University of Texas Libraries, </publisher><date encodinganalog="260$c">2006</date></publicationstmt></filedesc>
+<profiledesc><creation encodinganalog="500">Finding aid encoded by Christian Kelleher, CA, <date>April 2006</date></creation><langusage>Finding aid written in<language encodinganalog="546" langcode="eng" scriptcode="arab">English.</language></langusage></profiledesc>
+
+<revisiondesc><change encodinganalog="583"><date><?xm-replace_text {date}?></date><item><?xm-replace_text {item}?></item></change></revisiondesc></eadheader>
+
+<archdesc level="collection" type="inventory" relatedencoding="MARC21"><did><head>Descriptive Summary</head>
+<origination label="Creator"><persname source="local" encodinganalog="100">Schmidt, Albert J.</persname></origination>
+<unittitle label="Title" encodinganalog="245">Albert J. Schmidt Collection of Latern Slides</unittitle>
+<unitdate type="inclusive" encodinganalog="245$f" normal="1904-1921">c.1904-1921</unitdate>
+<!-- Use ISO 8601 as the date standard within <unitdate> "normal" attribute. -->
+<langmaterial label="Language"><language langcode="eng" scriptcode="arab" encodinganalog="546">English</language></langmaterial>
+<unitid label="Call No." encodinganalog="099" countrycode="us" repositorycode="TxU-LA">BENSON-MS SCHMIDT</unitid>
+<unitid label="OCLC Record No." encodinganalog="001" countrycode="us" repositorycode="TxU-LA">33322476</unitid>
+<physdesc label="Extent" encodinganalog="300$a"><extent>593</extent> lantern slides</physdesc>
+<repository label="Repository" encodinganalog="852$a"><extref href="http://www.lib.utexas.edu/benson" actuate="onrequest" show="new"><corpname><subarea>Benson Latin American Collection, </subarea>The University of Texas at Austin</corpname></extref></repository>
+
+<abstract label="Abstract" encodinganalog="520$a">593 latern slides of scenes from Mexico and reproductions of cultural materials photographed by C.B. Waite, W.H. Horne, and others.</abstract></did>
+
+<scopecontent encodinganalog="520"><head>Scope and Contents Note</head>
+<p>593 lantern slides, circa 1904-1921. Subjects include: Art reproductions of Mexican codices, Aztec cultural artifacts, and images of the conquest of Mexico; views of monuments, sites, and scenes in Mexico City, the Distrito Federal, Mexico state, and other Mexican cities and states. Many reproductions are of items in the National Museum of Mexico. Most other slides are commercial travel views of street scenes, people, buildings, and social life and customs in Mexico, including bullfights, plantations, and other representative Mexican scenes. Photographed by C. B. Waite (Mexico City), W. H. Horne (El Paso, Texas), and unidentified photographers. 
+</p></scopecontent>
+
+<accessrestrict encodinganalog="506"><head>Access Restrictions</head><p>Unrestricted.</p></accessrestrict>
+
+<userestrict encodinganalog="540"><head>Use Restrictions</head><p>Standard copyright restrictions apply. Use of the lantern slides may also be restricted due to their fragility.</p></userestrict>
+
+<prefercite encodinganalog="524"><head>Preferred Citation</head><p>Cite as: Albert J. Schmidt Collection of Latern Slides, Benson Latin American Collection, University of Texas Libraries, the University of Texas at Austin.</p></prefercite>
+
+<controlaccess><head>Index Terms</head><p>The Albert J. Schmidt Collection is classified under the following <emph render="bold">Subject Headings</emph>:</p>
+<controlaccess>
+<geogname source="lcsh" encodinganalog="651">Mexico City (Mexico)--Photographs</geogname>
+<geogname source="lcsh" encodinganalog="651">Mexico--Photographs</geogname>
+<subject source="lcsh" encodinganalog="650">Aztecs--Antiquities--Photographs</subject>
+<subject source="lcsh" encodinganalog="650">Indians of Mexico--Social life and customs--Photographs</subject>
+</controlaccess>
+<controlaccess><head>Other Authors:</head>
+<persname source="lcnaf" encodinganalog="700">Waite, C. B. (Charles Burlingame)</persname>
+<persname source="lcnaf" encodinganalog="700">Horne, W. H.</persname>
+</controlaccess>
+</controlaccess>
+
+
+<dsc type="combined"><head>Box and Folder Inventory</head>
+
+<c01 level="collection"><did><unittitle>Collection Description</unittitle><unitdate></unitdate></did><scopecontent><p>A list of the Albert J. Schmidt latern slides is available in the Benson Latin American Collection rare books and manuscripts reading room.</p></scopecontent>
+</c01>
+
+
+</dsc>
+</archdesc>
+</ead>
+

@@ -1,0 +1,680 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "http://lcweb2.loc.gov/xmlcommon/dtds/ead2002/ead.dtd">
+<ead>
+<eadheader relatedencoding="Dublin Core" findaidstatus="edited-full-draft" langencoding="iso639-2b" scriptencoding="iso15924" audience="internal" id="a0">
+<eadid encodinganalog="Identifier" url="http://hdl.handle.net/10407/1296928335" identifier="10407/1296928335">ksrl.sc.altshulerharry</eadid>
+<filedesc>
+<titlestmt>
+<titleproper encodinganalog="Title">Guide to the Harry Altshuler Collection</titleproper>
+<subtitle>Harry Altshuler papers, 1944-1994</subtitle>
+<author encodinganalog="Creator">Finding aid prepared by mkt, 2008</author>
+
+</titlestmt>
+<publicationstmt>
+<publisher encodinganalog="Publisher">University of Kansas</publisher>
+<address><addressline>1450 Poplar Lane, Lawrence, KS 66045-7616</addressline><addressline>Phone: (785)864-4334</addressline><addressline>Fax: (785)864-5803</addressline><addressline>URL: http://spencer.lib.ku.edu</addressline></address>
+<date encodinganalog="Date">2008</date>
+</publicationstmt>
+</filedesc>
+<profiledesc>
+<creation>Finding aid encoded by mkt, 
+<date>2008</date>
+</creation>
+<langusage>Finding aid written in<language encodinganalog="language">English</language></langusage>
+</profiledesc>
+</eadheader>
+
+<archdesc relatedencoding="MARC21" level="collection" type="inventory">
+<did id="a1">
+<head>COLLECTION SUMMARY</head>
+<repository label="Repository:" encodinganalog="852$a"><corpname>University of Kansas<subarea>Kenneth Spencer Research Library</subarea> <subarea>Department of Special Collections</subarea></corpname><address><addressline>1450 Poplar Lane, Lawrence, KS 66045-7616</addressline><addressline>Phone: (785)864-4334</addressline><addressline>Fax: (785)864-5803</addressline><addressline>URL: http://spencer.lib.ku.edu</addressline></address></repository>
+
+<origination label="Creator:"><persname encodinganalog="100">Altshuler, Harry, 1913?-1990</persname></origination>
+
+<unittitle label="Title:" encodinganalog="245$a">Harry Altshuler papers</unittitle>
+
+<unitdate type="inclusive" encodinganalog="245$f" label="Dates:">1944-1994</unitdate>
+       <langmaterial label="Language(s):"> <language>English </language>
+</langmaterial>
+<physdesc>
+<extent label="Quantity:" encodinganalog="300$a">3 linear feet (6 boxes) </extent>
+
+</physdesc><abstract encodinganalog="520$a" label="Abstract:">Philadelphia, Pennsylvania native Harry Altshuler (c.1913-1990) was a journalist, literary agent, and author. This collection of his papers reflects his years as a literary agent, containing numerous tearsheets of stories sold by Altshuler as well as his business correspondence with authors and literary representatives.  </abstract>
+
+<unitid encodinganalog="099" type="call#" label="Identification:" countrycode="US" repositorycode="KFS">MS 251</unitid>
+<physloc label="Location:">Contact Spencer Library Reader Services (Library Annex)</physloc>
+</did>
+
+
+
+
+<!-- Top Level Metadata Goes Here: -->
+
+
+<bioghist altrender="biography" encodinganalog="545" id="a2">
+<head>BIOGRAPHY of <emph>Harry Altshuler</emph></head>
+<p>Harry Altshuler was born circa 1913 in Philadelphia, Pennsylvania. He was a was a journalist, literary agent, and author. Altshuler joined <emph render="italic">The Newark Star-Ledger</emph> in 1947. He moved to <emph render="italic">The New York Mirror</emph> as a rewrite man in 1955 and later was a feature writer for <emph render="italic">The World-Telegram </emph>and <emph render="italic">The Sun</emph>.</p> 
+
+<p>Altshuler published a novel in 1968 entitled <emph render="italic">She's Crazy, You'll Love Her</emph> under the pseudonym Joe Bruns.</p> 
+
+<p>As a literary agent, Altshuler worked with Robert Bloch, author of <emph render="italic">Psycho</emph>, the text that inspired Alfred Hitchcock's movie, and with other Science Fiction authors such as Roger Dee, Franklin Gregory, and Robert Sheckley.</p>
+
+<p>Later in career, Altshuler worked for <emph render="italic">The National Enquirer</emph> and <emph render="italic">The Globe</emph>. He died in 1990.
+</p> 
+</bioghist>
+
+<scopecontent encodinganalog="520" id="a3">
+<head>SCOPE and CONTENTS</head>
+<p>The Harry Altshuler papers range in date from 1944-1994 and contains professional correspondence and papers that reflect his career as a literary agent. Correspondence is the largest portion of the collection at 1.5 linear feet (3 boxes). The correspondence is generally between Altshuler and his clients, but is also between Altshuler and various publishers and reflect the interests of his clients. Among the correspondence are also Royalty Earning reports and publisher catalogs.</p>
+
+<p>The tearsheets of stories sold by Altshuler are 1 linear foot (2 boxes) of the collection. These reflect approximately 114 stories that Altshuler sold to various magazines. The authors represented are Franklin Gregory, Roger Dee, Robert Sheckley, Alice Eleanor Jones, and Damon Knight. </p>
+
+<p>Franklin Gregory's collection of short stories, <emph render="italic">Beyond the Blue Door</emph>, is contained in the smallest portion of the collection at .5 linear foot (1 box). This portion of the collection includes the table of contents for <emph render="italic">Beyond the Blue Door</emph> and correspondence about the book. There are also handwritten lists on manila envelopes with lists of submissions of various short stories and a list of authors. 
+</p>
+</scopecontent>
+
+
+
+
+
+
+
+
+	<!-- Arrangement/Series Info Goes Here: -->
+
+
+	<!-- End Arrangement/Series Info -->
+
+<!-- End Top Level Metadata -->
+
+<!-- Controlled Access Terms Go Here: -->
+
+<controlaccess id="a12">
+<head>INDEX TERMS</head>
+<controlaccess>
+<head>Names:</head>
+<persname role="creator" encodinganalog="^700" source="lcnaf">Altshuler, Harry,c.1913-1990</persname>
+<persname role="subject" encodinganalog="^700" source="lcnaf">Asimov, Isaac, 1920-1990</persname>
+<persname role="subject" encodinganalog="^700" source="lcnaf">Wollheim, Donald, 1914-1990</persname>
+<persname role="subject" encodinganalog="^700" source="lcnaf">Gunn, Jim, 1923-    </persname>
+<persname role="subject" encodinganalog="^700" source="lcnaf">Dee, Roger, 1914-2004</persname>
+<persname role="subject" encodinganalog="^700" source="lcnaf">Gregory, Franklin</persname>
+<persname role="subject" encodinganalog="^700" source="lcnaf">Knight, Damon, 1922-2002</persname>
+<persname role="subject" encodinganalog="^700" source="lcnaf">Bloch, Bob, 1917-1994</persname>
+<persname role="subject" encodinganalog="^700" source="lcnaf">Sheckley, Robert, 1928-2005</persname>
+<persname role="subject" encodinganalog="^700" source="lcnaf">Outlaw, Louise</persname>
+<persname role="subject" encodinganalog="^700" source="lcnaf">Farnham, Alice Drayton</persname>
+<persname role="subject" encodinganalog="^700" source="lcnaf">Rhoads, Gerda</persname>
+<persname role="subject" encodinganalog="^700" source="lcnaf">Matheson, Richard, 1926-   </persname>
+<persname role="subject" encodinganalog="^700" source="lcnaf">McMillan, Dennis</persname>
+<persname role="subject" encodinganalog="^700" source="lcnaf">McMillin, Guy</persname>
+<persname role="subject" encodinganalog="^700" source="lcnaf">Jones, Alice Eleanor</persname>
+<persname role="subject" encodinganalog="^700" source="lcnaf">Nourse, Alan E. </persname>
+<persname role="subject" encodinganalog="^700" source="lcnaf">Sheldon, Walt, 1917-</persname>
+<persname role="subject" encodinganalog="^700" source="lcnaf">Smith, Cordwainer, 1913-1966</persname>
+<persname role="subject" encodinganalog="^700" source="lcnaf">Linebarger, Paul, 1913-1966</persname>
+<persname role="subject" encodinganalog="^700" source="lcnaf">Dorémieux, Alain</persname>
+<persname role="subject" encodinganalog="^700" source="lcnaf">Steger, Shelby</persname>
+
+	</controlaccess>
+
+<controlaccess>
+<head>Organizations:</head>
+<corpname role="subject" encodinganalog="710" source="lcnaf">Frederic Brown Books</corpname>
+<corpname role="subject" encodinganalog="710" source="lcnaf">Dell books</corpname>
+<corpname role="subject" encodinganalog="710" source="lcnaf">Dell Publishing</corpname>
+<corpname role="subject" encodinganalog="710" source="lcnaf">Bantam Books</corpname>
+<corpname role="subject" encodinganalog="710" source="lcnaf">Ballantine Books</corpname>
+<corpname role="subject" encodinganalog="710" source="lcnaf">Avon Books</corpname>
+<corpname role="subject" encodinganalog="710" source="lcnaf">Warner Books</corpname>
+<corpname role="subject" encodinganalog="710" source="lcnaf">Candar Publishing</corpname>
+<corpname role="subject" encodinganalog="710" source="lcnaf">Quinn Publishing</corpname>
+<corpname role="subject" encodinganalog="710" source="lcnaf">New York Times Book Review</corpname>
+<corpname role="subject" encodinganalog="710" source="lcnaf">Reader's Digest</corpname>
+<corpname role="subject" encodinganalog="710" source="lcnaf">Good Housekeeping</corpname>
+<corpname role="subject" encodinganalog="710" source="lcnaf">Ladies Home Journal</corpname>
+<corpname role="subject" encodinganalog="710" source="lcnaf">McCall's</corpname>
+<corpname role="subject" encodinganalog="710" source="lcnaf">Redbook</corpname>
+<corpname role="subject" encodinganalog="710" source="lcnaf">New American Library</corpname>
+<corpname role="subject" encodinganalog="710" source="lcnaf">Silhouette Books</corpname>
+<corpname role="subject" encodinganalog="710" source="lcnaf">Harlequin Books</corpname>
+<corpname role="subject" encodinganalog="710" source="lcnaf">Harlequin Enterprises</corpname>
+<corpname role="subject" encodinganalog="710" source="lcnaf">Pyramid Communications</corpname>
+<corpname role="subject" encodinganalog="710" source="lcnaf">Pyramid Publications</corpname>
+
+</controlaccess>
+
+</controlaccess>
+
+
+
+<!-- End Controlled Access Terms -->
+<!-- Administrative Information Goes Here: -->
+
+<accessrestrict id="a14" encodinganalog="506">
+<head>Restrictions on Access</head>
+<p>These materials are stored in the KU Annex off-site storage area.</p>
+
+<p>All researchers interested in reviewing this material must consult Spencer Research Library staff (785-864-4334, 8-5 M-F CST) <emph render="bold">no less than three days</emph> in advance of a planned visit. Be advised that drop-in requests for this material can not be accommodated.</p>
+</accessrestrict>
+
+
+<prefercite encodinganalog="524" id="a18">
+<head>Preferred Citation</head>
+<p>Harry Altshuler Collection,  Department of Special Collections, MS 251, Kenneth Spencer Research Library, University of Kansas Libraries</p>
+</prefercite>
+<acqinfo encodinganalog="541" id="a19">
+<head>Acquisition Information</head>
+<p>Jean Altshuler, 1994</p>
+</acqinfo>
+<userestrict encodinganalog="540" id="a15">
+<head>Restrictions on Use</head>
+<p/>
+<p>Spencer Library staff may determine use restrictions dependent on the physical condition of manuscript materials.</p>
+</userestrict>
+
+<!-- End Administrative Information -->
+
+
+
+<!-- Start Description of Subordinate Components-->
+
+<dsc type="analyticover" id="a23">
+<head>COLLECTION DESCRIPTION</head>
+
+<c01 level="series"><did>
+<unittitle/></did>
+
+<c02><did> <container type="box">Box 1</container>
+<unittitle>Tearsheets of stories sold by Altshuler. </unittitle>  </did>
+
+<c03><did><container type="folder">1</container>
+<unittitle>Farnham, Alice. "The Pie that Said Hello." <emph render="italic">Story Digest</emph>, vol. 1, no. 6, </unittitle>
+<unitdate>January 1947. </unitdate></did> </c03>
+
+<c03><did><container type="folder">2</container>
+<unittitle>Dee, Roger. "The Poundstone Paradox." <emph render="italic">FSF</emph>, vol. 6, no. 5, May 1954. </unittitle>
+<unitdate/></did> </c03>
+
+<c03><did><container type="folder">3</container>
+<unittitle>Dee, Roger. "Man Friday." <emph render="italic">FSF</emph>,vol. 6, no. 3,  </unittitle>
+<unitdate>March 1954.</unitdate></did> </c03>
+
+<c03><did><container type="folder">4</container>
+<unittitle>Dee, Roger. "Guest Artist." <emph render="italic">Fantastic</emph>, vol. 2, no. 3,  </unittitle>
+<unitdate>May-June 1953.</unitdate></did> </c03>
+
+<c03><did><container type="folder">5</container>
+<unittitle>Dee, Roger. "The Frogs of Mars." <emph render="italic">Imagination</emph>, vol. 5, no. 4.  </unittitle>
+<unitdate>April, 1954.</unitdate></did> </c03>
+
+<c03><did><container type="folder">6</container>
+<unittitle>Dee, Roger. "The Springbird," <emph render="italic">Beyond</emph>, vol. 1, no. 1,  </unittitle>
+<unitdate>July 1953.</unitdate></did> </c03>
+
+<c03><did><container type="folder">7</container>
+<unittitle>Gregory, Franklin. "Pigs ain't Pigs," <emph render="italic">Adventure</emph>, vol. 116, no. 6,  </unittitle>
+<unitdate>April 1947.</unitdate></did> </c03>
+
+<c03><did><container type="folder">8</container>
+<unittitle>Gregory, Franklin. "The Pocket of Wun Tu Foo," <emph render="italic">Adventure</emph>, vol. 115, no. 4,  </unittitle>
+<unitdate>August 1946.</unitdate></did> </c03>
+
+<c03><did><container type="folder">9</container>
+<unittitle>Farnham, Alice Drayton. "Morne Perdu." <emph render="italic">Weird Tales</emph>, vol. 44, no. 3, </unittitle>
+<unitdate>March 1952.</unitdate></did> </c03>
+
+<c03><did><container type="folder">10</container>
+<unittitle>Farnham, Alice. "Black as the Night." <emph render="italic">Weird Tales</emph>, vol. 44, no. 7, </unittitle>
+<unitdate>November 1952.</unitdate></did> </c03>
+
+<c03><did><container type="folder">11</container>
+<unittitle>Farnham, Alice. "Lover, Come Back." <emph render="italic">Story</emph>, vol. XXV, no. 110, </unittitle>
+<unitdate>November-December 1944.</unitdate></did> </c03>
+
+<c03><did><container type="folder">12-13</container>
+<unittitle>Farnham, Alice. "The Song the Soldiers Sang." <emph render="italic">Story</emph>, vol. XXIV, no. 107, </unittitle>
+<unitdate>May-June 1944.</unitdate></did> </c03>
+
+<c03><did><container type="folder">14</container>
+<unittitle>Sheckley, Robert. "Operating Instructions," <emph render="italic">Astounding</emph>, vol. LI, no. 3, </unittitle>
+<unitdate>May 1953.</unitdate></did> </c03>
+
+<c03><did><container type="folder">15</container>
+<unittitle>Sheckley, Robert. "The PErfect Woman," [<emph render="italic">Amazing Stories</emph>, </unittitle>
+<unitdate>December 1953-January 1954].</unitdate></did> </c03>
+
+<c03><did><container type="folder">16</container>
+<unittitle>Sheckley, Robert. "Conquerer's Planet," <emph render="italic">Fantastic Universe</emph>, vol 2, no. 3, </unittitle>
+<unitdate>October 1954.</unitdate></did> </c03>
+
+<c03><did><container type="folder">17</container>
+<unittitle>Sheckley, Robert. "Carrier." <emph render="italic">If</emph>, vol. 3, no. 2,  </unittitle>
+<unitdate>April 1954.</unitdate></did> </c03>
+
+<c03><did><container type="folder">18</container>
+<unittitle>Sheckley, Robert. "What Goes Up." <emph render="italic">Science Fiction Adventures</emph>, vol, 1, no. 4, </unittitle>
+<unitdate>May 1953.</unitdate></did> </c03>
+
+<c03><did><container type="folder">19</container>
+<unittitle>Sheckley, Robert. "The PErfect Woman." [<emph render="italic">Amazing Stories</emph>,  </unittitle>
+<unitdate>December 1953-January 1954].</unitdate></did> </c03>
+
+<c03><did><container type="folder">20</container>
+<unittitle>Sheckley, Robert. "Diplomatic Immunity." [<emph render="italic">Galaxy</emph>, </unittitle>
+<unitdate>August 1953].</unitdate></did> </c03>
+
+<c03><did><container type="folder">21</container>
+<unittitle>Sheckley, Robert. "The Hungry." <emph render="italic">Fantastic</emph>, </unittitle>
+<unitdate>June [1954].</unitdate></did> </c03>
+
+<c03><did><container type="folder">22</container>
+<unittitle>Sheckley, Robert. "Keep Your Shape,." [<emph render="italic">Galaxy</emph>, </unittitle>
+<unitdate>November 1953].</unitdate></did> </c03>
+
+<c03><did><container type="folder">23</container>
+<unittitle>O'Donnevan, Rinn [Robert Sheckley]. "Subsistence Level." <emph render="italic">Galaxy</emph>, vol. 8, no. 5, </unittitle>
+<unitdate>August 1954. </unitdate></did> </c03>
+
+<c03><did><container type="folder">24</container>
+<unittitle>Sheckley, Robert. "The Odour of Thought." <emph render="italic">New Worlds Science Fiction</emph>, vol. 9, no. 25,  </unittitle>
+<unitdate>July 1954.</unitdate></did> </c03>
+
+<c03><did><container type="folder">25</container>
+<unittitle>Rhoads, Gerda. "My Past is Mine." [<emph render="italic">Fantastic Universe</emph>,  </unittitle>
+<unitdate>October 1954].</unitdate></did> </c03>
+
+<c03><did><container type="folder">26</container>
+<unittitle>Matheson, Richard. "Born of Man and Woman." <emph render="italic">FSF</emph>, vol. I, no. 3, </unittitle>
+<unitdate>Summer 1950.</unitdate></did> </c03>
+
+<c03><did><container type="folder">27</container>
+<unittitle>Smith, Evelyn E. "Floyd of the Eumenides." [<emph render="italic">Fantastic Universe</emph>, </unittitle>
+<unitdate>December 1955]. </unitdate></did> </c03>
+
+<c03><did><container type="folder">28</container>
+<unittitle>Wallace, F.L. "The Music Master." [<emph render="italic">Imagination</emph>, </unittitle>
+<unitdate>November 1953.]</unitdate></did> </c03>
+
+<c03><did><container type="folder">29</container>
+<unittitle>Matheson, Richard. "SRL Ad," <emph render="italic">FSF</emph>, vol. 3, no. 2, April 1952.</unittitle>
+<unitdate/></did> </c03>
+
+<c03><did><container type="folder">30</container>
+<unittitle>Knight, Damon. "Turncoat." <emph render="italic">Thrilling Wonder Stories</emph>, vol. XLII, no. 1,  </unittitle>
+<unitdate>April 1953.</unitdate></did> </c03>
+
+<c03><did><container type="folder">31</container>
+<unittitle>Sheckley, Robert. "The Monsters." [<emph render="italic">FSF</emph>, </unittitle>
+<unitdate>March 1953.]</unitdate></did> </c03>
+
+<c03><did><container type="folder">32</container>
+<unittitle>Sheckley, Robert. "The King's Wishes." [<emph render="italic">FSF</emph>, </unittitle>
+<unitdate>July 1953.] </unitdate></did> </c03>
+
+<c03><did><container type="folder">33</container>
+<unittitle>Gregory, Franklin. "The Street of the Damned." <emph render="italic">Doc Savage</emph>, vol. XXVIII, no. 1,  </unittitle>
+<unitdate>September 1946.</unitdate></did> </c03>
+
+<c03><did><container type="folder">34</container>
+<unittitle>Gregory, Franklin. "The Seeing Eye." <emph render="italic">The Shadow</emph>, vol. L, no. 5, </unittitle>
+<unitdate>January 1946.</unitdate></did> </c03>
+
+<c03><did><container type="folder">35</container>
+<unittitle>Gregory, Franklin. "Earth Shaker." [<emph render="italic">Beyond</emph>, </unittitle>
+<unitdate>September 1954.]</unitdate></did> </c03>
+
+<c03><did><container type="folder">36</container>
+<unittitle>Gregory, Franklin. "The Big Sneeze." <emph render="italic">Doc Savage</emph>, vol. XXIX, no. 4,  </unittitle>
+<unitdate>September-October 1947.</unitdate></did> </c03>
+
+<c03><did><container type="folder">37</container>
+<unittitle>Gregory, Franklin. "The Big Breeze." <emph render="italic">Beyond</emph>, vol. 1, no. 3, </unittitle>
+<unitdate>November 1953. </unitdate></did> </c03>
+
+<c03><did><container type="folder">38</container>
+<unittitle>Gregory, Franklin. "Stop on the Red." <emph render="italic">Fantastic</emph>, vol. 2, no. 2,  </unittitle>
+<unitdate>March-April 1953.</unitdate></did> </c03>
+
+<c03><did><container type="folder">39</container>
+<unittitle>Gregory, Franklin. "The Wonderful Benny." <emph render="italic">Doc Savage</emph>, vol. XXX, no. 3, </unittitle>
+<unitdate>July-August 1948.</unitdate></did> </c03>
+
+<c03><did><container type="folder">40</container>
+<unittitle>Gregory, Franklin. "The Street of the Damned." <emph render="italic">Doc Savage</emph>, vol. XXVIII, no. 1, </unittitle>
+<unitdate>September 1946.</unitdate></did> </c03>
+
+<c03><did><container type="folder">41</container>
+<unittitle>Sheckley, Robert. "Specialist." <emph render="italic">Galaxy</emph>,  </unittitle>
+<unitdate>[May 1953].</unitdate></did> </c03>
+
+<c03><did><container type="folder">42</container>
+<unittitle>Sheckley, Robert. "Warm." <emph render="italic">Galaxy</emph>, </unittitle>
+<unitdate>[June 1953]. </unitdate></did> </c03>
+
+<c03><did><container type="folder">43</container>
+<unittitle>Sheckley, Robert. "Warrior Race." <emph render="italic">Galaxy</emph>, </unittitle>
+<unitdate>[November 1952].</unitdate></did> </c03>
+
+<c03><did><container type="folder">44</container>
+<unittitle>Sheckley, Robert. "Potential." <emph render="italic">Astounding</emph>, </unittitle>
+<unitdate>[November 1953]. </unitdate></did> </c03>
+
+<c03><did><container type="folder">45</container>
+<unittitle>Sheckley, Robert. "Minority Group." <emph render="italic">Fantastic Universe</emph>, vol. 2, no. 4, </unittitle>
+<unitdate>November 1954.</unitdate></did> </c03>
+
+<c03><did><container type="folder">46</container>
+<unittitle>Sheckley, Robert. "Restricted Area." <emph render="italic">Amazing Stories</emph>, </unittitle>
+<unitdate>[June-July 1953].</unitdate></did> </c03>
+
+<c03><did><container type="folder">47</container>
+<unittitle>Sheckley, Robert. "Specialist." <emph render="italic">Galaxy</emph>, </unittitle>
+<unitdate>[May 1953].</unitdate></did> </c03>
+
+<c03><did><container type="folder">48</container>
+<unittitle>Sheckley, Robert. "What a Man Believes." <emph render="italic">Fantastic</emph>, vol. 2, no. 6, </unittitle>
+<unitdate>November-December 1953. </unitdate></did> </c03>
+
+<c03><did><container type="folder">49</container>
+<unittitle>Sheckley, Robert. "The Slow Season." <emph render="italic">FSF</emph>, vol. 7, no. 4,  </unittitle>
+<unitdate>October 1954.</unitdate></did> </c03>
+
+<c03><did><container type="folder">50</container>
+<unittitle>O'Donnevan, Finn [Robert Sheckley]. "Uncle Tom's Planet." <emph render="italic">Galaxy</emph>, </unittitle>
+<unitdate>[December 1954].</unitdate></did> </c03>
+
+<c03><did><container type="folder">51</container>
+<unittitle>Sheckley, Robert. "The Last Weapon." <emph render="italic">New Worlds Science Fiction</emph>, vol. 9, no. 26, </unittitle>
+<unitdate>August 1954. </unitdate></did> </c03>
+
+<c03><did><container type="folder">52</container>
+<unittitle>Sheckley, Robert. "Change from a Silver Dollar." <emph render="italic">The Saint</emph>, vol. 5, </unittitle>
+<unitdate>May 1954.</unitdate></did> </c03>
+
+<c03><did><container type="folder">53</container>
+<unittitle>Sheckley, Robert. "Off-Limits Planet," <emph render="italic">Imagination</emph>, vol. 5, no. 5, </unittitle>
+<unitdate>May 1954.</unitdate></did> </c03>
+
+<c03><did><container type="folder">54</container>
+<unittitle>Sheckley, Robert. "The Hour of Battle." <emph render="italic">Space Science Fiction</emph>, vol. 2, no. 2, </unittitle>
+<unitdate>September 1953. </unitdate></did> </c03>
+
+<c03><did><container type="folder">55</container>
+<unittitle>Knight, Damon. "Definition." <emph render="italic">Startling Stories</emph>, vol. 29, no. 1, </unittitle>
+<unitdate>February 1953. </unitdate></did> </c03>
+
+<c03><did><container type="folder">56</container>
+<unittitle>Gregory, Franklin. "Kilroy was Here." <emph render="italic">Adventure</emph>, vol. 116, no. 4, </unittitle>
+<unitdate>February 1947. </unitdate></did> </c03>
+
+<c03><did><container type="folder">57</container>
+<unittitle>Gregory, Franklin. "Pigs ain't Pigs." <emph render="italic">Adventure</emph>, vol. 116, no. 6,  </unittitle>
+<unitdate>April 1947.</unitdate></did> </c03>
+
+</c02>
+
+<c02><did> <container type="box">Box 2</container>
+<unittitle>Tearsheets of stories sold by Altshuler.</unittitle>  </did>
+
+<c03><did><container type="folder">58</container>
+<unittitle>Gregory, Franklin. "The End of the World." <emph render="italic">Adventure</emph>, </unittitle>
+<unitdate>[October 1945]. </unitdate></did> </c03>
+
+<c03><did><container type="folder">59</container>
+<unittitle>Gregory, Franklin. "A Charge of Mayhem." <emph render="italic">Adventure</emph>, vol. 113, no. 4, </unittitle>
+<unitdate>August 1945. </unitdate></did> </c03>
+
+<c03><did><container type="folder">60</container>
+<unittitle>Gregory, Franklin. "Rugged Journey." <emph render="italic">Adventure</emph>, vol. 118, no. 3. </unittitle>
+<unitdate>January 1948. </unitdate></did> </c03>
+
+<c03><did><container type="folder">61</container>
+<unittitle>Gregory, Franklin. 
+"A Charge of Mayhem." <emph render="italic">Adventure</emph>, vol. 113, no. 4,</unittitle>
+<unitdate>August 1945.</unitdate></did> </c03>
+
+<c03><did><container type="folder">62</container>
+<unittitle>Gregory, Franklin. "Cry Wolf, Cry Murder." <emph render="italic">Dime Mystery</emph>, vol. 35, no. 3,</unittitle>
+<unitdate>October 1947.</unitdate></did> </c03>
+
+<c03><did><container type="folder">63</container>
+<unittitle>Gregory, Franklin. "A Charge of Mayhem." <emph render="italic">Adventure</emph>, vol. 113, no. 4. </unittitle>
+<unitdate>August 1945.</unitdate></did> </c03>
+
+<c03><did><container type="folder">64</container>
+<unittitle>Gregory, Franklin. "The Devil to Pay." <emph render="italic">Adventure</emph>, vol. 116, no. 2, </unittitle>
+<unitdate>December 1946.</unitdate></did> </c03>
+
+<c03><did><container type="folder">65</container>
+<unittitle>Gregory, Franklin. "The End of the World." <emph render="italic">Adventure</emph>, vol. 113, no. 6, </unittitle>
+<unitdate>October 1945.</unitdate></did> </c03>
+
+<c03><did><container type="folder">66</container>
+<unittitle>Gregory, Franklin. "The Great Whaup." <emph render="italic">Dime Mystery</emph>, vol. 26, no. 3, </unittitle>
+<unitdate>February 1948. </unitdate></did> </c03>
+
+<c03><did><container type="folder">67</container>
+<unittitle>Gregory, Franklin. "Once in a Murderer's Moon." <emph render="italic">Dime Mystery</emph>, vol. 36, no. 1, </unittitle>
+<unitdate>December 1947.</unitdate></did> </c03>
+
+<c03><did><container type="folder">68</container>
+<unittitle>Gregory, Franklin. "The Poisonous Soul." <emph render="italic">10-Story Fantasy</emph>, vol. 1, no. 1, </unittitle>
+<unitdate>Spring 1951. </unitdate></did> </c03>
+
+<c03><did><container type="folder">69</container>
+<unittitle>Gregory, Franklin. "The Screaming Shapes." <emph render="italic">Amazing Stories</emph>, </unittitle>
+<unitdate>[August 1950].</unitdate></did> </c03>
+
+<c03><did><container type="folder">70</container>
+<unittitle>Gregory, Franklin. "Rugged Journey." <emph render="italic">Adventure</emph>, vol. 118, no. 3, </unittitle>
+<unitdate>January 1948. </unitdate></did> </c03>
+
+<c03><did><container type="folder">71</container>
+<unittitle>Gregory, Franklin. "The Pocket of Wun Tu Foo." <emph render="italic">Adventure</emph>, vol. 115, no. 4, </unittitle>
+<unitdate>August 1946. </unitdate></did> </c03>
+
+<c03><did><container type="folder">72</container>
+<unittitle>Jones, Alice Eleanor. "The Happy Clown." <emph render="italic">If</emph>, vol. 6, no. 1, </unittitle>
+<unitdate>December 1955. </unitdate></did> </c03>
+
+<c03><did><container type="folder">73</container>
+<unittitle>Jones, Alice Eleanor. "Life, Incorporated." <emph render="italic">Fantastic Universe</emph>, vol. 3, no. 3, </unittitle>
+<unitdate>April 1955.</unitdate></did> </c03>
+
+<c03><did><container type="folder">74</container>
+<unittitle>Dee, Roger. "The Enemy, Time." <emph render="italic">Space Stories</emph>, vol.2, no. 3, </unittitle>
+<unitdate>June 1953. </unitdate></did> </c03>
+
+<c03><did><container type="folder">75</container>
+<unittitle>Dee, Roger. "The Obligation." <emph render="italic">Startling Stories</emph>, vol. 27, no. 2, </unittitle>
+<unitdate>September 1952.</unitdate></did> </c03>
+
+<c03><did><container type="folder">76</container>
+<unittitle>Dee, Roger. "Oh Mesmerist from Mimas!" <emph render="italic">Planet Stories</emph>, vol. 5, no. 10, </unittitle>
+<unitdate>January 1953. </unitdate></did> </c03>
+
+<c03><did><container type="folder">77</container>
+<unittitle>Dee, Roger. "Palimpsest." <emph render="italic">Planet Stories</emph>, [vol.5, no. 3, </unittitle>
+<unitdate>November 1951]. </unitdate></did> </c03>
+
+<c03><did><container type="folder">78</container>
+<unittitle>Dee, Roger. "No Charge to the Membership." <emph render="italic">Startling Stories</emph>, vol. 28, no. 3, </unittitle>
+<unitdate>January 1953. </unitdate></did> </c03>
+
+<c03><did><container type="folder">79</container>
+<unittitle>Dee, Roger. "Legacy." <emph render="italic">Thrilling Wonder Stories</emph>, </unittitle>
+<unitdate>[Spring 1954].</unitdate></did> </c03>
+
+<c03><did><container type="folder">80</container>
+<unittitle>Dee, Roger. "Holdup at Twin Palms." <emph render="italic">Black Book Detective</emph>, vol. XXIX, no. 3, Winter, </unittitle>
+<unitdate>Winter 1953. </unitdate></did> </c03>
+
+<c03><did><container type="folder">81</container>
+<unittitle>Starr, John [Roger Dee]. "Grim Green World." <emph render="italic">Planet Stories</emph>, vol. 5, no. 3, </unittitle>
+<unitdate>November 1951. </unitdate></did> </c03>
+
+<c03><did><container type="folder">82</container>
+<unittitle>Dee, Roger. "Girl from Callisto." <emph render="italic">Thrilling Wonder Stories</emph>, </unittitle>
+<unitdate>[June 1951].</unitdate></did> </c03>
+
+<c03><did><container type="folder">83</container>
+<unittitle>Dee, Roger. "The Enemy, Time." <emph render="italic">Space Stories</emph>, vol. 2, no. 2, </unittitle>
+<unitdate>June 1953. </unitdate></did> </c03>
+
+<c03><did><container type="folder">84</container>
+<unittitle>Dee, Roger. "The Star Dice." <emph render="italic">Startling Stories</emph>, vol. 28, no. 1, </unittitle>
+<unitdate>November 1952. </unitdate></did> </c03>
+
+<c03><did><container type="folder">85</container>
+<unittitle>Dee, Roger. "Earthman's Choice." <emph render="italic">Science Fiction Adventures</emph>, vol. 1, no. 3, </unittitle>
+<unitdate>March 1953. </unitdate></did> </c03>
+
+<c03><did><container type="folder">86</container>
+<unittitle>Dee, Roger. "Clean Break." <emph render="italic">Galaxy</emph>, vol. 7, no. 2, </unittitle>
+<unitdate>November 1953. </unitdate></did> </c03>
+
+<c03><did><container type="folder">87</container>
+<unittitle>Jones, Alice Eleanor. "Miss Quatro." <emph render="italic">Fantastic Universe</emph>, vol. 3, no. 5, </unittitle>
+<unitdate>June 1955. </unitdate></did> </c03>
+
+<c03><did><container type="folder">88</container>
+<unittitle>Dee, Roger. "Today is Forever." <emph render="italic">Galaxy</emph>, </unittitle>
+<unitdate>September 1952. </unitdate></did> </c03>
+
+<c03><did><container type="folder">89</container>
+<unittitle>Dee, Roger. "The Persuasive Man." <emph render="italic">Science Fiction Adventures</emph>, vol. 1, no. 1, </unittitle>
+<unitdate>November 1952. </unitdate></did> </c03>
+
+<c03><did><container type="folder">90</container>
+<unittitle>Dee, Roger. "The Minister Had to Wait." <emph render="italic">Fantastic Universe</emph>, vol. 1, no. 1, </unittitle>
+<unitdate>June-July 1953. </unitdate></did> </c03>
+
+<c03><did><container type="folder">91</container>
+<unittitle>Dee, Roger. "Tiger's Cage."<emph render="italic">Science Stories</emph>, no. 4, </unittitle>
+<unitdate>April 1954.</unitdate></did> </c03>
+
+<c03><did><container type="folder">92</container>
+<unittitle>Dee, Roger. "The Poundstone Paradox." <emph render="italic">FSF</emph>, vol. 6, no. 5, </unittitle>
+<unitdate>May 1954.</unitdate></did> </c03>
+
+<c03><did><container type="folder">93</container>
+<unittitle>Dee, Roger. "The Anglers of Arz." <emph render="italic">If</emph>, vol. 1, no. 6, </unittitle>
+<unitdate>January 1953. </unitdate></did> </c03>
+
+<c03><did><container type="folder">94</container>
+<unittitle>Dee, Roger. "The Fresh Start." <emph render="italic">FSF</emph>,vol. 6, no. 1, </unittitle>
+<unitdate>January 1954. </unitdate></did> </c03>
+
+<c03><did><container type="folder">95</container>
+<unittitle>Dee, Roger. 
+"The Interlopers." <emph render="italic">Astounding</emph>, </unittitle>
+<unitdate>[September 1954]. </unitdate></did> </c03>
+
+<c03><did><container type="folder">96</container>
+<unittitle>Dee, Roger. "Thank You, Member." <emph render="italic">Fantastic Universe</emph>,</unittitle>
+<unitdate>[December 1954]. </unitdate></did> </c03>
+
+<c03><did><container type="folder">97</container>
+<unittitle>Dee, Roger. "Pet Farm." <emph render="italic">Galaxy</emph>, vol. 7, no. 5-A, </unittitle>
+<unitdate>February 1954.</unitdate></did> </c03>
+
+<c03><did><container type="folder">98</container>
+<unittitle>Dee, Roger. "Clean Break." <emph render="italic">Galaxy</emph>, vol. 7, no. 2, </unittitle>
+<unitdate>November 1953. </unitdate></did> </c03>
+
+<c03><did><container type="folder">99</container>
+<unittitle>Dee, Roger. "The Man Who Found Out." <emph render="italic">Fantastic Universe</emph>, </unittitle>
+<unitdate>[September 1954].</unitdate></did> </c03>
+
+<c03><did><container type="folder">100</container>
+<unittitle>Dee, Roger. "Problem on Balak." <emph render="italic">Galaxy</emph>, vol. 6, no. 6, </unittitle>
+<unitdate>September 1953.</unitdate></did> </c03>
+
+<c03><did><container type="folder">101</container>
+<unittitle>Dee, Roger. "To Remember Charlie By." <emph render="italic">Fantastic Universe</emph>, </unittitle>
+<unitdate>[March 1954].</unitdate></did> </c03>
+
+<c03><did><container type="folder">102</container>
+<unittitle>Dee, Roger. "Wailing Wall." <emph render="italic">Galaxy</emph>,</unittitle>
+<unitdate>July 1952. </unitdate></did> </c03>
+
+<c03><did><container type="folder">103</container>
+<unittitle>Sheckley, Robert. "The Ogre Test."<emph render="italic">Planet Stories</emph>, vol. 6, no. 7, </unittitle>
+<unitdate>Summer 1954. </unitdate></did> </c03>
+
+<c03><did><container type="folder">104</container>
+<unittitle>Sheckley, Robert. "Hex on Hax." <emph render="italic">Planet Stories</emph>, </unittitle>
+<unitdate>[Fall 1954].</unitdate></did> </c03>
+
+<c03><did><container type="folder">105</container>
+<unittitle>Sheckley, Robert. "Ultimatum!" <emph render="italic">Future Science Fiction</emph>, </unittitle>
+<unitdate>[November 1953].</unitdate></did> </c03>
+
+<c03><did><container type="folder">106</container>
+<unittitle>Dee, Roger. "Assignment's End." <emph render="italic">Galaxy</emph>,</unittitle>
+<unitdate>[December 1954].</unitdate></did> </c03>
+
+<c03><did><container type="folder">107</container>
+<unittitle>Dee, Roger. "The Dog that LIked Carmen." <emph render="italic">Orbit</emph>, [vol. 1, no. 3, </unittitle>
+<unitdate>May 1954].</unitdate></did> </c03>
+
+<c03><did><container type="folder">108</container>
+<unittitle>Dee, Roger. "Have Tux-Will Travel." <emph render="italic">Infinity</emph>, vol. 1, no. 1, </unittitle>
+<unitdate>November 1955. </unitdate></did> </c03>
+
+<c03><did><container type="folder">109</container>
+<unittitle>Dee, Roger. "The Reasonable People." <emph render="italic">Thrilling Wonder Stories</emph>, vol. XLI, no. 1, </unittitle>
+<unitdate>October 1952. </unitdate></did> </c03>
+
+<c03><did><container type="folder">110</container>
+<unittitle>Dee, Roger. "Paradox Planet." <emph render="italic">Thrilling Wonder Stories</emph>, vol. XLI, no. 2, </unittitle>
+<unitdate>December 1952.</unitdate></did> </c03>
+
+<c03><did><container type="folder">111</container>
+<unittitle>Dee, Roger. "No Charge to the Membership."<emph render="italic">Startling Stories</emph>, vol. 28, no. 3, </unittitle>
+<unitdate>January 1953. </unitdate></did> </c03>
+
+<c03><did><container type="folder">112</container>
+<unittitle>Dee, Roger. "Dead Weight." [<emph render="italic">New Detective</emph>, </unittitle>
+<unitdate>June 1953]</unitdate></did> </c03>
+
+<c03><did><container type="folder">113</container>
+<unittitle>Dee, Roger. "No Charge to the Membership." <emph render="italic">Startling Stories</emph>, vol. 28, no. 3, </unittitle>
+<unitdate>January 1953. </unitdate></did> </c03>
+
+<c03><did><container type="folder">114</container>
+<unittitle>Eynon, David Lewis. "An Old, Old Friends." <emph render="italic">Fantastic Universe</emph>,</unittitle>
+<unitdate>[November 1954].</unitdate></did> </c03>
+</c02>
+
+<c02><did> <container type="box">Box 3</container>
+<unittitle>Correspondence. </unittitle> <note><p>For a comprehensive list of items in this box, <extref>ksrl.sc.altshulerharry3.pdf</extref></p></note> </did>
+
+
+<c03><did> <container type="folder">115</container>
+<unittitle>Various correspondents, </unittitle>
+<unitdate>1989-1990, </unitdate>
+<physdesc>19 Letters. </physdesc>
+</did><scopecontent><p>Outlaw, Louise Lee. "I'll Always Remember Harry," ts, ph, 1p</p></scopecontent> </c03>
+
+<c03><did> <container type="folder">116</container>
+<unittitle>"Armchair Detective" - Correspondence, </unittitle>
+<unitdate>1977, </unitdate>
+<physdesc>1 letters</physdesc>
+</did> </c03>
+
+<c03><did> <container type="folder">117</container>
+<unittitle>Letter from Isaac Asimov to Harry Altshuler, </unittitle>
+<unitdate>June 4, 1980, </unitdate>
+<physdesc>1 p + env</physdesc>
+</did> </c03>
+
+<c03><did> <container type="folder">118</container>
+<unittitle>Letters from Newton Baird, Talisman Press) to Harry Altshuler, </unittitle>
+<unitdate>1986-1988, </unitdate>
+<physdesc>16 letters.</physdesc>
+</did> </c03>
+
+<c03><did> <container type="folder">119</container>
+<unittitle>Letter

@@ -1,0 +1,913 @@
+<?xml version="1.0"?>
+<ead>
+  
+  
+  
+  
+  <eadheader xmlns:cdlpath="http://www.cdlib.org/path/" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" scriptencoding="iso15924" audience="internal" langencoding="iso639-2b" findaidstatus="edited-full-draft"><eadid countrycode="us" identifier="ark:/13030/tf0c6000rg" mainagencycode="CLSCLS" publicid="PUBLIC -//Southern California Library forSocial Studies and Research//TEXT (US::CLSCLS::MSS038::Frances Robman EisenbergPapers: Blacklisted Teachers in Los Angeles)//EN feisenberg.sgm" cdlpath:parent="ark:/13030/tf7q2nb9fm">feisenberg.xml</eadid><filedesc>
+      <titlestmt>
+        <titleproper>Frances Robman Eisenberg Papers: Blacklisted Teachers in
+			 Los Angeles, 
+			 <date calendar="gregorian" era="ce">1928-1995</date></titleproper><titleproper type="filing">Eisenberg (Francis R.) Papers: Blacklisted Teachers in Los Angeles</titleproper>
+        <author>Processed by Julia Bazar</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Southern California Library for Social Studies and
+			 Research</publisher>
+        <address>
+          <addressline>6120 South Vermont Avenue</addressline>
+          <addressline>Los Angeles, CA 90044</addressline>
+          <addressline>Phone: (323) 759-6063</addressline>
+          <addressline>Fax: (323) 759-2252</addressline>
+          <addressline>Email: archives@socallib.org</addressline>
+          <addressline>URL: http://www.socallib.org/</addressline>
+        </address>
+        <date calendar="gregorian" era="ce"> 2000</date>
+        <p>Southern California Library for Social Studies and Research. All
+			 rights reserved.</p>
+      </publicationstmt>
+    </filedesc><profiledesc>
+      <creation>Machine-readable finding aid encoded by Julia Bazar, 
+		  <date calendar="gregorian" era="ce">Dec. 2000</date></creation>
+      <langusage>Description is in <language>English.</language></langusage>
+    </profiledesc><revisiondesc>
+      <change>
+        <date calendar="gregorian" era="ce" normal="20040323">March 23, 2004</date>
+        <item>PUBLIC "-//Southern California Library for
+		Social Studies and Research//TEXT (US::CLSCLS::MSS038::Frances Robman Eisenberg
+		Papers: Blacklisted Teachers in Los Angeles)//EN" "feisenberg.sgm" converted from EAD 1.0 to 2002 by v1to02.cdl.xsl (2004-09-16).</item>
+      </change>
+    </revisiondesc></eadheader>
+  <frontmatter>
+    <titlepage>
+      <titleproper>Register of the Frances Robman Eisenberg Papers: Blacklisted
+		  Teachers in Los Angeles, 
+		  <date calendar="gregorian" era="ce">1928-1995</date></titleproper>
+      <num>Collection number: MSS 038</num>
+      <publisher>Southern California Library for Social Studies and Research
+		  <lb/><extptr linktype="simple" entityref="socallibseal" show="embed" actuate="onload" inline="true"/><lb/>Los
+		  Angeles, California</publisher>
+      <list type="simple">
+        <head>Contact Information:</head>
+        <item>Southern California Library for Social Studies and
+			 Research</item>
+        <item>6120 South Vermont Avenue</item>
+        <item>Los Angeles, CA 90044</item>
+        <item>Phone: (323) 759-6063</item>
+        <item>Fax: (323) 759-2252</item>
+        <item>Email: archives@socallib.org</item>
+        <item>URL: http://www.socallib.org/</item>
+      </list>
+      <list type="deflist">
+        <defitem>
+          <label>Processed by: </label>
+          <item>Julia Bazar</item>
+        </defitem>
+        <defitem>
+          <label>Date Completed: </label>
+          <item>
+            <date calendar="gregorian" era="ce">Nov. 2000</date>
+          </item>
+        </defitem>
+        <defitem>
+          <label>Encoded by: </label>
+          <item>Julia Bazar</item>
+        </defitem>
+      </list>
+      <p> 2000 Southern California Library for Social Studies and
+		  Research. All rights reserved.</p>
+    </titlepage>
+  </frontmatter>
+  <archdesc xmlns:cdlpath="http://www.cdlib.org/path/" level="collection">
+    <did id="did-1.7.1">
+      <head>Descriptive Summary</head>
+      <unittitle label="Title">Frances Robman Eisenberg Papers: Blacklisted
+		  Teachers in Los Angeles, 
+		  </unittitle><unitdate calendar="gregorian" era="ce" type="inclusive">1928-1995</unitdate>
+      <unitid label="Collection number" countrycode="us" repositorycode="clscls">MSS 038</unitid>
+      <origination label="Creator">
+        <persname source="aacr2">Eisenberg, Frances Robman,
+			 1905-1996</persname>
+      </origination>
+      <physdesc label="Extent">
+        <extent>4 boxes, 1 oversized box</extent>
+        <extent>2 linear ft.</extent>
+      </physdesc>
+      <repository label="Repository">
+        <corpname source="lcnaf">Southern California Library for Social Studies and
+			 Research</corpname>
+        <address>
+          <addressline>Los Angeles, CA 90044</addressline>
+        </address>
+      </repository>
+      <abstract label="Abstract">Part of the larger Blacklisted Teachers in Los
+		  Angeles Collections, the Frances Robman Eisenberg Papers contain the personal
+		  papers of Eisenberg, a blacklisted Los Angeles teacher. The collection contains
+		  materials relating to Eisenberg's teaching and tutoring career, and involvement
+		  with the US-China Peoples Friendship Association (USCPFA) and other political
+		  and social issues, as well as material relating directly to the
+		  blacklist.</abstract>
+      <langmaterial label="Language">
+        <language langcode="eng">English.</language>
+      </langmaterial>
+    </did>
+    <descgrp type="admininfo" id="descgrp-1.7.2">
+      <head>Administrative Information</head>
+      <custodhist>
+        <head>Provenance</head>
+        <p>This collection was donated to the library by Frances Robman
+			 Eisenberg</p>
+      </custodhist>
+      <accessrestrict>
+        <head>Access</head>
+        <p>The collection is available for research only at the Library's
+			 facility in Los Angeles. The Library is open from 10 a.m. to 4 p.m., Tuesday
+			 through Saturday. Researchers are encouraged to call or email the Library
+			 indicating the nature of their research query prior to making a visit.</p>
+      </accessrestrict>
+      <userestrict>
+        <head>Publication Rights</head>
+        <p>Copyright has not been assigned to the Southern California Library
+			 for Social Studies and Research. Researchers may make single copies of any
+			 portion of the collection, but publication from the collection will be allowed
+			 only with the express written permission of the Library's director. It is not
+			 necessary to obtain written permission to quote from a collection. When the
+			 Southern California Library for Social Studies and Research gives permission
+			 for publication, it is as the owner of the physical items and is not intended
+			 to include or imply permission of the copyright holder, which must also be
+			 obtained by the reader.</p>
+      </userestrict>
+      <prefercite>
+        <head>Preferred Citation</head>
+        <p>[Identification of item], Frances Robman Eisenberg Papers:
+			 Blacklisted Teachers in Los Angeles, Southern California Library for Social
+			 Studies and Research, Los Angeles, California.</p>
+      </prefercite>
+    </descgrp>
+    <bioghist id="bioghist-1.7.3">
+      <head>Biography</head>
+      <bioghist>
+        <head>Historical Context: Blacklisting and the McCarthy Era </head>
+        <p>The individual collections within the Blacklisted Teachers in Los
+			 Angeles Collection share a common historical framework, the Anti-Communist
+			 fervor of the Cold War Period and what is commonly referred to as the McCarthy
+			 Era. After the end of World War II, the United States and the Soviet Union
+			 engaged in the ideological battle known as the Cold War. The identification of
+			 communists and other radicals through the use of federal and state legislative
+			 investigative committees and the punishment of those identified through firing
+			 and blacklisting comprised a successful U.S. tactic. The investigations spread
+			 from federal and other government employees to the entertainment industry, the
+			 professions, labor unions, and the private sector. The major players in these
+			 campaigns included, on the Federal level, Senator Joseph McCarthy and the House
+			 Un-American Activities Committee (HUAC). In California major players included
+			 California State Assemblyman (later State Senator) Nelson S. Dilworth, and
+			 State Senators Jack B. Tenney and Hugh M. Burns. All three served on the Joint
+			 Fact-Finding Committee on Un-American Activities in California (1945) and first
+			 Tenney and later Burns chaired the [California] Senate Fact-Finding Committee
+			 on Un-American Activities. Of special note are the Levering (1952) and Dilworth
+			 (1953) Acts. The Levering Act made refusal to fully cooperate with any state
+			 committee grounds for firing a teacher and the Dilworth Act gave local school
+			 boards investigating authority and also required that all teachers sign an oath
+			 denying any Communist affiliation. </p>
+      </bioghist>
+      <bioghist>
+        <head>Biography</head>
+        <p>Frances Robman Eisenberg was a teacher, unionist, and activist fired
+			 from the Los Angeles Unified School District for refusing to answer question
+			 concerning Communist Party membership before a state committee. She was an
+			 active member of the Los Angeles Federation of Teachers, serving as newsletter
+			 editor. Later she was active in the US-China People's Friendship Association
+			 (USCPFA) and local (West Hollywood) social and economic issues. She died August
+			 3, 1996.</p>
+        <p>Eisenberg was born June 19, 1905, in Wisconsin. Her parents were
+			 Jewish immigrants from Russia and the family moved to Colorado and then to Los
+			 Angeles. She attended Los Angeles High School, UCLA (graduating in 1928), and
+			 received her teaching credential from USC. She then took a job with the Oakland
+			 Unified School District in Northern California. She married Meyer Eisenberg, a
+			 widow with three children, in 1931 and returned to Los Angeles.</p>
+        <p>Eisenberg came to Canoga Park High School as a journalism teacher in
+			 1936. In her 15 years at Canoga Park she supervised an award-winning newspaper
+			 (Hunter's Call), taught English and Senior Problems. In 1946, she and a fellow
+			 teacher, Blanche Bettington, were called before the Joint Fact Finding
+			 Committee on Un-American Activities in California (Tenney Committee). A
+			 subsequent school board investigation found insufficient evidence for
+			 dismissal, but in 1950 she was forced to transfer to Fairfax High School. While
+			 at Fairfax, she pioneered in teaching "Negro" history. However in 1952, she was
+			 called before the California State Burns Committee investigation of the Los
+			 Angeles Housing Authority (she had supported low-income housing). Her refusal
+			 to answer questions concerning Communist Party membership and about associates
+			 led directly to her firing under the provisions of the recently passed Dilworth
+			 Act [see above]. After exhausting her appeals, she left Fairfax High in
+			 February 1954. After her dismissal, she was active in the Teachers' Defense
+			 Committee (TDC) and Women for Legislative Action. She wrote articles and
+			 speeches on education and free speech issues. For the next twenty years she
+			 tutored numerous students. Eisenberg and other blacklisted teachers applied for
+			 reinstatement in 1977. In 1980, the case was settled, she was awarded three
+			 years back pay, and was now considered a retired - instead of a dismissed -
+			 teacher.</p>
+        <p>The Eisenbergs were friends with W.E.B. DuBois and his wife, author
+			 Shirley Graham. They were also major supporters of artist Charles White.
+			 Eisenberg went to China in 1973 and 1980 and became active in the US-China
+			 People's Friendship Association. This led to her teaching a Los Angeles Board
+			 of Education Sponsored in-service training workshop for teachers: "Roots of
+			 Chinese-American Culture: Exploring the New China." In 1987, she established a
+			 scholarship fund at Los Angeles Southwest Community College. Her 90th Birthday
+			 Party benefited KPFK Radio and she was actively involved in several other labor
+			 and economic issues.</p>
+      </bioghist>
+    </bioghist>
+    <scopecontent id="scopecontent-1.7.4">
+      <head>Scope and Content</head>
+      <p>This collection contains correspondence, legal documents, student
+		  papers, articles, clippings, photographs, a 16mm film, and a VHS video
+		  cassette. The materials document Frances Robman Eisenberg's work as teacher,
+		  tutor, and activist. The collection includes an animated film, 
+		<title linktype="simple" inline="true">The Man Who Hated Children </title> produced by the Teachers'
+		Defense Committee (TDC). Of special note are materials concerning her
+		post-teaching activities, including her work with the US-China People's
+		Friendship Association (USCPFA), Los Angeles Southwest Community College, the
+		strike against Canter's Restaurant, and the Coalition for Economic Survival
+		(CES). The collection is not exhaustive and serves more to give a taste of
+		Eisenberg's work and activities rather than to fully document them. Eisenberg
+		donated the bulk of her papers to UCLA in 1970. The collection also includes
+		some family and personal papers as well as extensive snapshots of family and
+		friends. </p>
+      <arrangement>
+        <p>The collection is divided into four series:
+			 <emph render="boldunderline">1: Teaching and Tutoring -- Blacklist,
+			 </emph><emph render="boldunderline">2: USCPFA, </emph><emph render="boldunderline">3: Other Causes and Activities, </emph>and
+			 <emph render="boldunderline">4: Clippings, Photographs, and Art</emph></p>
+      </arrangement>
+    </scopecontent>
+    <separatedmaterial id="separatedmaterial-1.7.5">
+      <head>Separated Material</head>
+      <p>Eisenberg's run of the 
+		  <title linktype="simple" inline="true">L.A. Teacher, </title>the newsletter of the Los Angeles
+		  Federation of Teachers, has been combined with the run already in the Los
+		  Angeles Teachers Union Collection.</p>
+    </separatedmaterial>
+    <relatedmaterial id="relatedmaterial-1.7.6">
+      <head>Related Material at the Southern California Library for Social
+			 Studies and Research</head>
+      <archref linktype="simple" inline="true">
+        <unittitle>Abraham Minkus Papers: Blacklisted Teachers in Los
+				Angeles, 
+				<unitdate calendar="gregorian" era="ce">1945-1983</unitdate></unittitle>
+        <physdesc>
+          <extent>4 boxes</extent>
+        </physdesc>
+      </archref>
+      <archref linktype="simple" inline="true">
+        <unittitle>Florence Sloat Papers: Blacklisted Teachers in Los
+				Angeles, 
+				<unitdate calendar="gregorian" era="ce">1959-1991</unitdate></unittitle>
+        <physdesc>
+          <extent>1 box</extent>
+        </physdesc>
+      </archref>
+      <archref linktype="simple" inline="true">
+        <unittitle>Thomas Fagan Collection (Interviews): Blacklisted Teachers
+				in Los Angeles, 
+				<unitdate calendar="gregorian" era="ce">1989-1990</unitdate></unittitle>
+        <physdesc>
+          <extent>3 folders, 5 audio cassettes</extent>
+        </physdesc>
+      </archref>
+      <archref linktype="simple" inline="true">
+        <unittitle>Greg Goldin Collection (Interviews): Blacklisted Teachers
+				in Los Angeles, 
+				<unitdate calendar="gregorian" era="ce">1977</unitdate></unittitle>
+        <physdesc>
+          <extent>1 box, 15 audio cassette </extent>
+        </physdesc>
+      </archref>
+      <archref linktype="simple" inline="true">
+        <unittitle>Ellen Chase Verdries Collection (Interviews/Paper):
+				Blacklisted Teachers in Los Angeles, 
+				<unitdate calendar="gregorian" era="ce">1992-1996</unitdate></unittitle>
+        <physdesc>
+          <extent>1 (half) box</extent>
+        </physdesc>
+      </archref>
+      <archref linktype="simple" inline="true">
+        <unittitle>Jean Benson Wilkinson Papers: Blacklisted Teachers in Los
+				Angeles, 
+				<unitdate calendar="gregorian" era="ce">1953-1955</unitdate></unittitle>
+        <physdesc>
+          <extent>1 folder</extent>
+        </physdesc>
+      </archref>
+      <archref linktype="simple" inline="true">
+        <unittitle>Los Angeles Teachers Union Collection, 
+				<unitdate calendar="gregorian" era="ce">1933-1982</unitdate></unittitle>
+        <physdesc>
+          <extent>2 boxes</extent>
+        </physdesc>
+      </archref>
+      <archref linktype="simple" inline="true">
+        <unittitle>Dorothy Doyle Collection (Interviews): Blacklisted
+				Teachers In Los Angeles, 
+				<unitdate calendar="gregorian" era="ce">1986</unitdate></unittitle>
+        <physdesc>
+          <extent>1 audio tape</extent>
+        </physdesc>
+      </archref>
+      <archref linktype="simple" inline="true">
+        <unittitle>Clipping Collection: Blacklisted Teachers in Los Angeles, 
+				<unitdate calendar="gregorian" era="ce">1967-1982</unitdate></unittitle>
+        <physdesc>
+          <extent>1 folder</extent>
+        </physdesc>
+      </archref>
+    </relatedmaterial>
+    <bibliography id="bibliography-1.7.7">
+      <head>Bibliography</head>
+      <bibref linktype="simple" inline="true">
+        <persname>Kransdorf, Martha. </persname>
+        <title linktype="simple" inline="true">A Matter of Loyalty: The Los Angeles School Board vs. Frances
+				Eisenberg, </title>
+        <imprint>
+          <geogname>San Francisco: </geogname>
+          <publisher>Caddo Press, </publisher>
+          <date calendar="gregorian" era="ce">1994</date>
+        </imprint>
+      </bibref>
+      <bibref linktype="simple" inline="true"><persname>Ginger, Ann Fagan</persname> and 
+			 <persname>Christiano, David, </persname>eds. 
+			 <title linktype="simple" inline="true">The Cold War Against Labor, </title><num>Volume Two, </num><imprint><publisher>Meiklejohn Civil Liberties Institute, </publisher><date calendar="gregorian" era="ce">1987</date></imprint></bibref>
+    </bibliography>
+    <dsc type="combined" id="dsc-1.7.8" score="2" C-ORDER="1" MAX-C-ORDER="75">
+      <head>Collection Contents</head>
+      <p>A copy of the collection register is kept in the first box of the
+		  collection (1/0).</p>
+      <c01 level="series" id="c01-1.7.8.3" score="2" C-ORDER="3">
+        <did>
+          <unitid type="series">Series 1.</unitid>
+          <unittitle>Teaching and Tutoring - Blacklist Years, 
+				<unitdate calendar="gregorian" era="ce">1945-1994</unitdate></unittitle>
+          <physdesc>
+            <extent>2 boxes, 2 oversize items, 16mm film and VHS
+				videotape</extent>
+          </physdesc>
+        </did>
+        <scopecontent>
+          <p>The largest series in the collection contains material relating to
+				Eisenberg's teaching and tutoring career including materials directly related
+				to her reassignment, firing and court cases, along with correspondence
+				(students, parents, and others), student papers, articles by and about
+				Eisenberg. Included in this series are materials from Fairfax and Canoga Park
+				reunions at which Eisenberg was honored. Also included in this series is a 16mm
+				film (also in VHS format), 
+			 <title linktype="simple" inline="true">The Man Who Hated Children, </title>produced by the Teachers'
+			 Defense Committee (TDC), a TDC protest sign, and a pillow commemorating the
+			 protest around Eisenberg's transfer from Canoga Park.</p>
+          <p>Within the series files are divided into teaching (including
+				reunion materials) and post-teaching (tutoring and other materials). Teaching
+				materials include both material related to her teaching (class materials,
+				correspondence and student papers) and to her reassignment and dismissal (court
+				documents, hearing transcripts, and correspondence with lawyers). Reunion
+				materials include official reunion commemorative books from both Canoga High
+				School and Fairfax High School reunions, correspondence, a personal tribute
+				book given by a class, a copy of remarks given by Eisenberg at a reunion, and
+				other material. See also Lyn Nofziger clipping in Series 4. Tutoring materials
+				include letters Eisenberg sent out when she was first establishing herself as a
+				tutor, and a sampling of papers by her tutorees. Also included in this series
+				is a copy of Eisenberg's FBI file, which she requested in 1977.
+				<emph render="bold">The letter requesting the file appears in the Abraham
+				Minkus Collection.</emph></p>
+        </scopecontent>
+        <c02 level="file" id="c02-1.7.8.3.3" score="1" C-ORDER="5">
+          <did>
+            <container type="Box-folder">1/1-1/6</container>
+            <unittitle>Hearing and Legal Documents</unittitle>
+          </did>
+          <c03 level="file" id="c03-1.7.8.3.3.2" score="1" C-ORDER="6">
+            <did>
+              <container type="Box-folder">1/1</container>
+              <unittitle>Transfer from Canoga Park to Fairfax -- Documents in
+					 Legal Case, 
+					 <unitdate calendar="gregorian" era="ce">1949-1954</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 level="file" id="c03-1.7.8.3.3.3" score="1" C-ORDER="7">
+            <did>
+              <container type="Box-folder">1/2</container>
+              <unittitle>Copies of California Un-American Hearing Reports --
+					 Excerpts, 
+					 <unitdate calendar="gregorian" era="ce">1947-1959</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 level="file" id="c03-1.7.8.3.3.4" score="1" C-ORDER="8">
+            <did>
+              <container type="Box-folder">1/3</container>
+              <unittitle>
+                <title linktype="simple" inline="true">Testimony in re: Canoga Park: Joint Fact Finding
+						Committee on Un-America Activities in California: October 19 and 19, 1946:
+						State Building, Los Angeles, </title>
+                <unitdate calendar="gregorian" era="ce">1946</unitdate>
+              </unittitle>
+            </did>
+          </c03>
+          <c03 level="file" id="c03-1.7.8.3.3.5" score="2" C-ORDER="9">
+            <did>
+              <container type="Box-folder">1/4-1/5</container>
+              <unittitle><title linktype="simple" inline="true">Hearing Canoga Park High School: October 15, 16, and 17,
+						1946: In the Matter re: Blanche Bettington; Frances Eisenberg</title> [2
+					 folders], 
+					 <unitdate calendar="gregorian" era="ce">1946</unitdate></unittitle>
+            </did>
+            <altformavail>
+              <p>Document fragile please use photocopied version found in 
+						<archref linktype="simple" inline="true"><unittitle>Los Angeles Teachers Union Collection, 
+							 <unitdate calendar="gregorian" era="ce">1933-1982</unitdate></unittitle><physdesc><extent>(2 boxes), </extent></physdesc><repository>Southern California Library for Social Studies
+							 and Research</repository></archref></p>
+            </altformavail>
+          </c03>
+          <c03 level="file" id="c03-1.7.8.3.3.6" score="1" C-ORDER="11">
+            <did>
+              <container type="Box-folder">1/6</container>
+              <unittitle>Suit for Reinstatement, etc. (Including 1982
+					 Settlement), 
+					 <unitdate calendar="gregorian" era="ce">1978-1987</unitdate></unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="file" id="c02-1.7.8.3.4" score="1" C-ORDER="12">
+          <did>
+            <container type="Box-folder">1/7</container>
+            <unittitle>Teaching Materials -- Senior Problems Curriculum, etc., 
+				  <unitdate calendar="gregorian" era="ce">1945-1954</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.7.8.3.5" score="1" C-ORDER="13">
+          <did>
+            <container type="Box-folder">1/8</container>
+            <unittitle><title linktype="simple" inline="true">Hunter's Call</title>-- Canoga Park High School Newspaper,
+				  
+				  <unitdate calendar="gregorian" era="ce">1945</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.7.8.3.6" score="1" C-ORDER="14">
+          <did>
+            <container type="Box-folder">1/9</container>
+            <unittitle>Autograph Book -- Canoga Park [Tribute/Farewell?], 
+				  <unitdate calendar="gregorian" era="ce">[1950?]</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.7.8.3.7" score="1" C-ORDER="15">
+          <did>
+            <container label="Oversize Item" type="Oversize">5</container>
+            <unittitle>Teachers' Defense Committee Sign, 
+				  <unitdate calendar="gregorian" era="ce">n.d.</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.7.8.3.8" score="2" C-ORDER="16">
+          <did>
+            <container label="Film Storage" type="Reel">1</container>
+            <unittitle>
+              <title linktype="simple" inline="true">The Man Who Hated Children, </title>
+              <unitdate calendar="gregorian" era="ce">n.d.</unitdate>
+            </unittitle>
+            <physdesc>16 mm film</physdesc>
+          </did>
+          <altformavail>
+            <p>A VHS Videocassette version is available for viewing. Video
+					 tape is located in Video Storage.</p>
+          </altformavail>
+        </c02>
+        <c02 level="file" id="c02-1.7.8.3.9" score="1" C-ORDER="18">
+          <did>
+            <container type="Box-folder">1/10</container>
+            <unittitle>Paper written for City College Class -- 
+				  <title linktype="simple" inline="true" render="doublequote">The Negro in American Literature,</title><unitdate calendar="gregorian" era="ce">1952</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.7.8.3.10" score="1" C-ORDER="19">
+          <did>
+            <container type="Box-folder">1/11-1/13</container>
+            <unittitle>Correspondence</unittitle>
+          </did>
+          <c03 level="file" id="c03-1.7.8.3.10.2" score="1" C-ORDER="20">
+            <did>
+              <container type="Box-folder">1/11</container>
+              <unittitle>Francis Solnit, Former Student, 
+					 <unitdate calendar="gregorian" era="ce">1952-1954</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 level="file" id="c03-1.7.8.3.10.3" score="1" C-ORDER="21">
+            <did>
+              <container type="Box-folder">1/12</container>
+              <unittitle>Students and Others -- Support, 
+					 <unitdate calendar="gregorian" era="ce">1940-1950</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 level="file" id="c03-1.7.8.3.10.4" score="1" C-ORDER="22">
+            <did>
+              <container type="Box-folder">1/13</container>
+              <unittitle>1960s and Later, 
+					 <unitdate calendar="gregorian" era="ce">1962-1990, n.d.</unitdate></unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="file" id="c02-1.7.8.3.11" score="1" C-ORDER="23">
+          <did>
+            <container type="Box-folder">1/14</container>
+            <unittitle>Student Paper, 
+				  <unitdate calendar="gregorian" era="ce">1952-1953</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.7.8.3.12" score="1" C-ORDER="24">
+          <did>
+            <container type="Box-folder">2/1</container>
+            <unittitle>Canoga Park and Fairfax High School Reunions, 
+				  <unitdate calendar="gregorian" era="ce">1958-1995</unitdate></unittitle>
+          </did>
+          <c03 level="file" id="c03-1.7.8.3.12.2" score="1" C-ORDER="25">
+            <did>
+              <container type="Box-folder">2/2</container>
+              <unittitle>Fairfax High 30th -- Eisenberg Tribute Book, 
+					 <unitdate calendar="gregorian" era="ce">1983</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 level="file" id="c03-1.7.8.3.12.3" score="1" C-ORDER="26">
+            <did>
+              <container label="Oversize Item" type="Oversize">4</container>
+              <unittitle>Commemorative Photographic Pillow, 
+					 <unitdate calendar="gregorian" era="ce">n.d.</unitdate></unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="file" id="c02-1.7.8.3.13" score="1" C-ORDER="27">
+          <did>
+            <container type="Box-folder">2/3</container>
+            <unittitle>Tutoring -- Correspondence and Sample Student Papers, 
+				  <unitdate calendar="gregorian" era="ce">1957-1995, n.d.</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.7.8.3.14" score="1" C-ORDER="28">
+          <did>
+            <container type="Box-folder">2/4-2/5</container>
+            <unittitle>Activities -- Speeches, Letters</unittitle>
+          </did>
+          <c03 level="file" id="c03-1.7.8.3.14.2" score="1" C-ORDER="29">
+            <did>
+              <container type="Box-folder">2/4</container>
+              <unittitle>
+                <unitdate calendar="gregorian" era="ce">1943-1965, n.d.</unitdate>
+              </unittitle>
+            </did>
+          </c03>
+          <c03 level="file" id="c03-1.7.8.3.14.3" score="1" C-ORDER="30">
+            <did>
+              <container type="Box-folder">2/5</container>
+              <unittitle><title linktype="simple" inline="true" render="doublequote">To Whom It Does Concern</title> and
+					 Correspondence with Phil Kerby, 
+					 <unitdate calendar="gregorian" era="ce">1983</unitdate></unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="file" id="c02-1.7.8.3.15" score="1" C-ORDER="31">
+          <did>
+            <container type="Box-folder">2/6-2/9</container>
+            <unittitle>Projects by others about Eisenberg Case, 
+				  <unitdate calendar="gregorian" era="ce">1980-1994</unitdate></unittitle>
+          </did>
+          <c03 level="file" id="c03-1.7.8.3.15.2" score="1" C-ORDER="32">
+            <did>
+              <container type="Box-folder">2/6</container>
+              <unittitle>Meiklejohn Civil Liberties Institute Book --
+					 Correspondence, 
+					 <unitdate calendar="gregorian" era="ce">1984-1987</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 level="file" id="c03-1.7.8.3.15.3" score="1" C-ORDER="33">
+            <did>
+              <container type="Box-folder">2/7</container>
+              <unittitle>Lynn Laredo Video Documentary -- Correspondence, 
+					 <unitdate calendar="gregorian" era="ce">1987</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 level="file" id="c03-1.7.8.3.15.4" score="1" C-ORDER="34">
+            <did>
+              <container type="Box-folder">2/8</container>
+              <unittitle><title linktype="simple" inline="true">A Matter of Loyalty</title>and Martha Kransdorf --
+					 Correspondence, 
+					 <unitdate calendar="gregorian" era="ce">1987-1994</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 level="file" id="c03-1.7.8.3.15.5" score="1" C-ORDER="35">
+            <did>
+              <container type="Box-folder">2/9</container>
+              <unittitle>Miscellaneous Papers, 
+					 <unitdate calendar="gregorian" era="ce">1980-1994</unitdate></unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="file" id="c02-1.7.8.3.16" score="1" C-ORDER="36">
+          <did>
+            <container type="Box-folder">2/10</container>
+            <unittitle>Frances R. Eisenberg's FBI File -- FOIA, 
+				  <unitdate calendar="gregorian" era="ce">1956-1973</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series" id="c01-1.7.8.4" score="2" C-ORDER="37">
+        <did>
+          <unitid type="series">Series 2.</unitid>
+          <unittitle>US-China People's Friendship Association, 
+				<unitdate calendar="gregorian" era="ce">1973-1986, n.d.</unitdate></unittitle>
+          <physdesc>
+            <extent>6 folders</extent>
+          </physdesc>
+        </did>
+        <scopecontent>
+          <p>Besides a small collection of flyers and other notices, this
+				series contains materials pertaining to the in-service training workshop for
+				teachers, "Roots of Chinese-American Culture: Exploring the New China," which
+				Eisenberg arranged and taught through the Los Angeles Board of Education. It
+				also includes a notebook containing minutes from the West Los Angeles Chapter
+				of the USCPFA (1974-1976).</p>
+        </scopecontent>
+        <c02 level="file" id="c02-1.7.8.4.3" score="1" C-ORDER="39">
+          <did>
+            <container type="Box-folder">2/11</container>
+            <unittitle>Reports, Correspondence, etc., 
+				  <unitdate calendar="gregorian" era="ce">1973-1986, n.d.</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.7.8.4.4" score="1" C-ORDER="40">
+          <did>
+            <container type="Box-folder">3/1</container>
+            <unittitle>Articles/Reports by Eisenberg, 
+				  <unitdate calendar="gregorian" era="ce">1974-1983</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.7.8.4.5" score="1" C-ORDER="41">
+          <did>
+            <container type="Box-folder">3/2-3/3</container>
+            <unittitle>LAUSD In-Service Training</unittitle>
+          </did>
+          <c03 level="file" id="c03-1.7.8.4.5.2" score="1" C-ORDER="42">
+            <did>
+              <container type="Box-folder">3/2</container>
+              <unittitle>Proposal and Background, 
+					 <unitdate calendar="gregorian" era="ce">1980</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 level="file" id="c03-1.7.8.4.5.3" score="1" C-ORDER="43">
+            <did>
+              <container type="Box-folder">3/3</container>
+              <unittitle>Class Materials, Evaluations, Reports, 
+					 <unitdate calendar="gregorian" era="ce">1980</unitdate></unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="file" id="c02-1.7.8.4.6" score="1" C-ORDER="44">
+          <did>
+            <container type="Box-folder">3/4</container>
+            <unittitle>Flyers/Newsletters, 
+				  <unitdate calendar="gregorian" era="ce">1975-1977</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.7.8.4.7" score="1" C-ORDER="45">
+          <did>
+            <container type="Box-folder">3/5</container>
+            <unittitle>Westside-Los Angeles Chapter -- First Minutes, 
+				  <unitdate calendar="gregorian" era="ce">1974-1976</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series" id="c01-1.7.8.5" score="2" C-ORDER="46">
+        <did>
+          <unitid type="series">Series 3.</unitid>
+          <unittitle>Other Causes and Activities, 
+				<unitdate calendar="gregorian" era="ce">1928-1995, n.d.</unitdate></unittitle>
+          <physdesc>
+            <extent>8 folders</extent>
+          </physdesc>
+        </did>
+        <scopecontent>
+          <p>This series includes materials documenting other interests and
+				activities of Eisenberg, especially later in life. It includes information from
+				the Los Angeles Southwest Community College, which she supported, and extensive
+				records from her 90th birthday party, which was a fund-raiser for KPFK Radio.
+				Other organizations and actions mentioned are the strike against Canter's
+				Restaurant ["Speeches and Articles" folder], Sunset House, and the Coalition
+				for Economic Survival (CES) [both in "Miscellaneous Correspondence" folder].
+				Also included in this section are two files on friends of Eisenberg, the artist
+				Charles White and author Shirley Graham.</p>
+        </scopecontent>
+        <c02 level="file" id="c02-1.7.8.5.3" score="1" C-ORDER="48">
+          <did>
+            <container type="Box-folder">3/6</container>
+            <unittitle>Personal and Family Documents, 
+				  <unitdate calendar="gregorian" era="ce">1928-1980</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.7.8.5.4" score="1" C-ORDER="49">
+          <did>
+            <container type="Box-folder">3/7</container>
+            <unittitle>82nd Birthday -- Los Angeles Southwest Community College
+				  Benefit, 
+				  <unitdate calendar="gregorian" era="ce">1987-1990</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.7.8.5.5" score="1" C-ORDER="50">
+          <did>
+            <container type="Box-folder">3/8</container>
+            <unittitle>90th Birthday Celebration -- KPFK Benefit, 
+				  <unitdate calendar="gregorian" era="ce">1995</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.7.8.5.6" score="1" C-ORDER="51">
+          <did>
+            <container type="Box-folder">3/9</container>
+            <unittitle>Speeches and Articles, 
+				  <unitdate calendar="gregorian" era="ce">1980-1991, n.d.</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.7.8.5.7" score="1" C-ORDER="52">
+          <did>
+            <container type="Box-folder">3/10</container>
+            <unittitle>Miscellaneous Correspondence, Clippings, Awards, 
+				  <unitdate calendar="gregorian" era="ce">1968-1995</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.7.8.5.8" score="1" C-ORDER="53">
+          <did>
+            <container type="Box-folder">3/11</container>
+            <unittitle>Cards, Postcards, Memorial Programs, 
+				  <unitdate calendar="gregorian" era="ce">1977-1995, n.d.</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.7.8.5.9" score="1" C-ORDER="54">
+          <did>
+            <container type="Box-folder">3/12</container>
+            <unittitle>Shirley Graham, 
+				  <unitdate calendar="gregorian" era="ce">1976, n.d.</unitdate></unittitle>
+          </did>
+        </c02>
+        <c02 level="file" id="c02-1.7.8.5.10" score="1" C-ORDER="55">
+          <did>
+            <container type="Box-folder">3/13</container>
+            <unittitle>Charles White, 
+				  <unitdate calendar="gregorian" era="ce">1962-1992</unitdate></unittitle>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series" id="c01-1.7.8.6" score="2" C-ORDER="56">
+        <did>
+          <unitid type="series">Series 4.</unitid>
+          <unittitle>Clippings, Photographs, and Art, 
+				<unitdate calendar="gregorian" era="ce">1971-1995, n.d.</unitdate></unittitle>
+          <physdesc>
+            <extent>1 box, 3 oversized items</extent>
+          </physdesc>
+        </did>
+        <scopecontent>
+          <p>This series spans the collection chronologically and includes
+				clipping files on the blacklist, education, and other issues, as well as
+				photographs of Eisenberg, friends and family. Of special interest are the two
+				sets of clippings on former Canoga Park student and later indicted presidential
+				aide, Lyn Nofziger. The photographs (mostly snapshots) include four small photo
+				albums (three have been removed from the albums but kept in order), which show
+				her 90th birthday party, the Canter's strike and other events. There is a small
+				collection of family photographs, which include two photographs, perhaps of
+				Eisenberg as a child or Eisenberg's parents. One album includes photographs of
+				the Eisenberg son who died serving in World War II. Also included in this
+				series is a pillow made from a photograph protesting her reassignment from
+				Canoga Park, a series of prints, some dedicated to Eisenberg by Gary
+				[Eisenberg?], and a child's artwork.</p>
+        </scopecontent>
+        <c02 level="file" id="c02-1.7.8.6.3" score="1" C-ORDER="58">
+          <did>
+            <container type="Box-folder">4/1-4/3</container>
+            <unittitle>Clippings</unittitle>
+          </did>
+          <c03 level="file" id="c03-1.7.8.6.3.2" score="1" C-ORDER="59">
+            <did>
+              <container type="Box-folder">4/1</container>
+              <unittitle>Teachers' Cases in California, 
+					 <unitdate calendar="gregorian" era="ce">1961-1980</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 level="file" id="c03-1.7.8.6.3.3" score="1" C-ORDER="60">
+            <did>
+              <container type="Box-folder">4/2</container>
+              <unittitle>Miscellaneous Blacklisting, 
+					 <unitdate calendar="gregorian" era="ce">1960-1977</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 level="file" id="c03-1.7.8.6.3.4" score="1" C-ORDER="61">
+            <did>
+              <container type="Box-folder">4/3</container>
+              <unittitle>Lyn Nofziger, 
+					 <unitdate calendar="gregorian" era="ce">1987-1988</unitdate></unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="file" id="c02-1.7.8.6.4" score="1" C-ORDER="62">
+          <did>
+            <container type="Box-folder">4/4-4/11 </container>
+            <container label="Oversize Item" type="Oversize">1</container>
+            <unittitle>Photographs</unittitle>
+          </did>
+          <c03 level="file" id="c03-1.7.8.6.4.2" score="1" C-ORDER="63">
+            <did>
+              <container type="Box-folder">4/4</container>
+              <unittitle>Older Family Photos, 
+					 <unitdate calendar="gregorian" era="ce">n.d.</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 level="file" id="c03-1.7.8.6.4.3" score="1" C-ORDER="64">
+            <did>
+              <container type="Box-folder">4/5</container>
+              <unittitle>Shirley Graham and Africa, 
+					 <unitdate calendar="gregorian" era="ce">n.d.</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 level="file" id="c03-1.7.8.6.4.4" score="1" C-ORDER="65">
+            <did>
+              <container label="Oversize Item" type="Oversize">1</container>
+              <unittitle>Portrait -- Unidentified African-American Young Man, 
+					 <unitdate calendar="gregorian" era="ce">n.d.</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 level="file" id="c03-1.7.8.6.4.5" score="1" C-ORDER="66">
+            <did>
+              <container type="Box-folder">4/6-4/9</container>
+              <unittitle>Albums</unittitle>
+            </did>
+            <c04 level="file" id="c04-1.7.8.6.4.5.2" score="1" C-ORDER="67">
+              <did>
+                <container type="Box-folder">4/6</container>
+                <unittitle>Bernard Eisenberg's Grave and Canter's Protest
+						(Red), 
+						<unitdate calendar="gregorian" era="ce">1991</unitdate></unittitle>
+              </did>
+            </c04>
+            <c04 level="file" id="c04-1.7.8.6.4.5.3" score="1" C-ORDER="68">
+              <did>
+                <container type="Box-folder">4/7</container>
+                <unittitle>#1 -- Unidentifed [disbound, kept in original
+						order], 
+						<unitdate calendar="gregorian" era="ce">n.d.</unitdate></unittitle>
+              </did>
+            </c04>
+            <c04 level="file" id="c04-1.7.8.6.4.5.4" score="1" C-ORDER="69">
+              <did>
+                <container type="Box-folder">4/8</container>
+                <unittitle>#2 -- Partially Identified [disbound, kept in
+						original order], 
+						<unitdate calendar="gregorian" era="ce">n.d.</unitdate></unittitle>
+              </did>
+            </c04>
+            <c04 level="file" id="c04-1.7.8.6.4.5.5" score="1" C-ORDER="70">
+              <did>
+                <container type="Box-folder">4/9</container>
+                <unittitle>90th Birthday Party -- created by sister-in-law,
+						Millie Robman, 
+						<unitdate calendar="gregorian" era="ce">1995</unitdate></unittitle>
+              </did>
+            </c04>
+          </c03>
+          <c03 level="file" id="c03-1.7.8.6.4.6" score="1" C-ORDER="71">
+            <did>
+              <container type="Box-folder">4/10</container>
+              <unittitle>Eisenberg and Identified Photos, 
+					 <unitdate calendar="gregorian" era="ce">1971-1994, n.d.</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 level="file" id="c03-1.7.8.6.4.7" score="1" C-ORDER="72">
+            <did>
+              <container type="Box-folder">4/11</container>
+              <unittitle>Unidentified, 
+					 <unitdate calendar="gregorian" era="ce">n.d.</unitdate></unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="file" id="c02-1.7.8.6.5" score="1" C-ORDER="73">
+          <did>
+            <container label="Oversize Items" type="Oversize">2-3</container>
+            <unittitle>Artwork 
+				  <unitdate calendar="gregorian" era="ce">1992, n.d.</unitdate></unittitle>
+          </did>
+          <c03 level="file" id="c03-1.7.8.6.5.2" score="1" C-ORDER="74">
+            <did>
+              <container label="Oversize Item" type="Oversize">2</container>
+              <unittitle>Portfolio of Prints by Gary [Eisenberg?] 
+					 <unitdate calendar="gregorian" era="ce">n.d.</unitdate></unittitle>
+            </did>
+          </c03>
+          <c03 level="file" id="c03-1.7.8.6.5.3" score="1" C-ORDER="75">
+            <did>
+              <container label="Oversize Item" type="Oversize">3</container>
+              <unittitle>Child's Collage/Drawing -- "Matt" 
+					 <unitdate calendar="gregorian" era="ce">1992</unitdate></unittitle>
+            </did>
+          </c03>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

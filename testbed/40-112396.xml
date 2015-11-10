@@ -1,0 +1,3167 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="webead.xsl"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead audience="external">
+	<eadheader audience="internal" scriptencoding="iso15924" dateencoding="iso8601"
+		countryencoding="iso3166-1" repositoryencoding="iso15511" langencoding="iso639-2">
+		<eadid countrycode="us" mainagencycode="MnHi">P1979</eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper>HARRY WILD JONES: </titleproper>
+				<subtitle>An Inventory of His Papers at the Minnesota Historical Society</subtitle>
+				<author>Finding aid prepared by Dennis Meissner.</author>
+			</titlestmt>
+			<publicationstmt>
+				<publisher encodinganalog="Publisher">Minnesota Historical Society</publisher>
+				<address><addressline>St. Paul MN.</addressline></address>
+			</publicationstmt>
+
+		             <seriesstmt><p>Manuscripts Collection</p></seriesstmt>         </filedesc>
+		<profiledesc>
+			<creation>Finding aid encoded by Lyda Morehouse, <date era="ce" calendar="gregorian"
+					>November 4, 1999.</date>
+			</creation>
+			<langusage>Finding aid written in<language langcode="eng">English</language></langusage>
+		</profiledesc>
+		<revisiondesc>
+			<change>
+				<date>August 2008</date>
+				<item>Converted from EAD Version 1.0 to Version 2002 by Monica Manny Ralston, Daniel
+					Sher, and Joyce Chapman.</item>
+			</change>
+		</revisiondesc>
+	</eadheader>
+	<archdesc relatedencoding="MARC" type="inventory" level="collection">
+		<did id="a1">
+			<head>OVERVIEW</head>
+			<unitid countrycode="US" repositorycode="MnHi"> </unitid>
+			<repository label="Repository:">Minnesota Historical Society</repository>
+
+			<origination label="Creator:" encodinganalog="100">
+				<persname role="creator" encodinganalog="100"
+					>Jones, Harry Wild, 1859-1935.</persname>
+				
+			</origination>
+			<unittitle label="Title:">Harry Wild Jones Papers,</unittitle>
+			<unitdate label="Date:" era="ce" calendar="gregorian" normal="1884/1934">[undated] and
+				1884-1934.</unitdate>
+			<abstract label="Abstract:">Architectural drawings and plans, sketches of building
+				facades, photographs, and project bidding specifications, all documenting a number
+				of projects undertaken by Minneapolis architect Harry W. Jones.</abstract>
+			<physdesc label="Quantity:">3.0 cu. ft. (2 boxes and 2 oversize folders,
+				unboxed).</physdesc>
+			<physloc label="Location:">See <ref target="a9">Detailed Description</ref> section
+				for shelf locations.</physloc>
+		</did>
+		<bioghist>
+			<head altrender="biography" id="a2">BIOGRAPHY OF HARRY WILD JONES</head>
+			<p>Jones, the son of a Baptist clergyman, was born in Schoolcraft, Michigan on June 9,
+				1859. He attended Brown University for two years, then transferred to the
+				Massachusetts Institute of Technology, and graduated from MIT in 1882. He came to
+				Minneapolis in 1883, where he established an architectural practice in which he
+				remained for the rest of his career. Although Jones specialized in ecclesiastical
+				architecture, he also designed many private residences and public and commercial
+				buildings in the Minneapolis area, as well as in a number of other places around the
+				United States.</p>
+		</bioghist>
+		<arrangement>
+			<head id="a4">ARRANGEMENT</head>
+			<p>These documents are organized into the following sections:</p>
+			<list>
+				<item>Miscellaneous Papers</item>
+				<item>Architectural Drawings</item>
+				<item>Oversize Materials</item>
+			</list>
+		</arrangement>
+		<relatedmaterial>
+			<head id="a5">RELATED MATERIALS</head>
+			<p>The scrapbook is probably the first of a set, the rest of which were apparently
+				donated to the Hennepin County Historical Society, Minneapolis.</p>
+		</relatedmaterial>
+		<controlaccess>
+			<head id="a7">CATALOG HEADINGS</head>
+			<p>This collection is indexed under the following headings in the catalog of the
+				Minnesota Historical Society. Researchers desiring materials about related topics,
+				persons or places should <extref linktype="simple" show="new"
+					href="http://mnhs.mnpals.net">search the catalog</extref> using these
+				headings.</p>
+			<controlaccess>
+				<head>Topics:</head>
+				<subject>Church architecture--Designs and plans.</subject>
+				<subject>Commercial buildings--Minnesota--Minneapolis--Designs and plans.</subject>
+				<subject>Dwellings--Minnesota--Drawings.</subject>
+				<subject>Public architecture--Minnesota--Minneapolis--Designs and plans.</subject>
+				<subject>Church buildings--Minnesota--Drawings.</subject>
+				<subject>Architecture, Domestic--Designs and plans.</subject>
+			</controlaccess>
+			<controlaccess>
+				<head>Places:</head>
+				<geogname>Minneapolis (Minn.)--Buildings, structures, etc.</geogname>
+			</controlaccess>
+			<controlaccess>
+				<head>Organizations:</head>
+				<corpname>Bethlehem Swedish Lutheran Church (Minneapolis, Minn.)--Pictorial
+					works.</corpname>
+				<corpname>First Presbyterian Church (Hibbing, Minn.)--Pictorial works.</corpname>
+				<corpname>Northfield Methodist Episcopal Church (Minneapolis, Minn.)--Pictorial
+					works.</corpname>
+				<corpname>St. Cloud Presbyterian Church (Saint Cloud, Minn.)--Pictorial
+					works.</corpname>
+				<corpname>Simpson Methodist Episcopal Church (Minneapolis, Minn.)--Pictorial
+					works.</corpname>
+			</controlaccess>
+			<controlaccess>
+				<head>Types of Documents:</head>
+				<genreform>Architectural records.</genreform>
+			</controlaccess>
+			<controlaccess>
+				<head>Occupations:</head>
+				<occupation>Architects--Minnesota--Minneapolis.</occupation>
+			</controlaccess>
+		</controlaccess>
+		<descgrp type="admininfo">
+			<head id="a8">ADMINISTRATIVE INFORMATION</head>
+			<prefercite>
+				<head>Preferred Citation:</head>
+				<p><emph render="italic">[Indicate the cited item and/or series here]</emph>. Harry
+					Wild Jones Papers. Minnesota Historical Society.</p>
+				<p><emph render="italic">See the Chicago Manual of Style for additional
+						examples.</emph></p>
+			</prefercite>
+			<acqinfo>
+				<head>Accession Information:</head>
+				<p>Accession number: 4618</p>
+			</acqinfo>
+			<processinfo>
+				<head>Processing Information:</head>
+				<p>Processed by: Dennis Meissner, September 1993</p>
+				<p>Catalog ID number: 09-00037518</p>
+			</processinfo>
+		</descgrp>
+		<dsc type="combined" audience="external">
+			<head id="a9">DETAILED DESCRIPTION</head>
+
+			<c01 level="series">
+				<did>
+					<unittitle>Miscellaneous papers</unittitle>
+				</did>
+
+
+
+
+
+
+				<c02>
+					<did>
+						<physloc>P1979</physloc>
+						<container>1</container>
+						<unittitle>Miscellaneous Papers, </unittitle>
+						<unitdate era="ce" calendar="gregorian">undated and 1924-1933. </unitdate>
+					</did>
+					<scopecontent>
+						<p>Two folders of miscellaneous papers (undated and 1924-1933) contain
+							several small-format architectural drawings, sketches, and photographs
+							of buildings designed by Jones, as well as detailed bidding
+							specifications for several of his Minneapolis projects: Hiawatha Park
+							skating pavilion, White House restaurant, a Sunday school addition to
+							the Fourth Baptist Church, and an addition to the Simpson Methodist
+							Episcopal Church. These architectural materials are accompanied by a
+							newspaper article (1933) containing Jones' recollections of early days
+							in the Washburn Park area of Minneapolis</p>
+					</scopecontent>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Drawings of church facades, </unittitle>
+						<unitdate era="ce" calendar="gregorian">undated. </unitdate>
+					</did>
+					<scopecontent>
+						<p>Black and white photographic prints of eight Jones designs mounted on
+							matboard. They are accompanied by a watercolor sketch of the facade of
+							the First Baptist Church in Rockwell City, Iowa. </p>
+					</scopecontent>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Photograph, </unittitle>
+						<unitdate era="ce" calendar="gregorian">undated.</unitdate>
+					</did>
+					<scopecontent>
+						<p>A black and white photograph of an unnamed brick residence tentatively
+							identified as being in Northfield, Minnesota.</p>
+					</scopecontent>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Scrapbook, </unittitle>
+						<unitdate era="ce" calendar="gregorian">[1884-1931]. </unitdate>
+						<physdesc>1 volume.</physdesc>
+					</did>
+					<scopecontent>
+						<p>Contains many small-format architectural drawings, photographs, sketches,
+							and newspaper accounts of buildings designed by Jones. Most are
+							churches, but the volume also includes private residences, apartment
+							buildings, public buildings, and commercial structures in Minneapolis
+							and several other cities. One cyanotype photograph depicts the aftermath
+							of the 1894 Minneapolis Lumber Exchange fire.</p>
+					</scopecontent>
+				</c02>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>Architectural Drawings</unittitle>
+				</did>
+				<c02>
+					<did>
+						<physloc>142.E.2.2</physloc>
+						<container>2</container>
+						<unittitle>George A. Hormel home, Austin, Minn., </unittitle>
+						<unitdate era="ce" calendar="gregorian">undated. </unitdate>
+						<physdesc>Blueprints. 9 sheets.</physdesc>
+					</did>
+					<c03>
+						<did>
+							<unitid>1. </unitid>
+							<unittitle>Basement plan.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>2. </unitid>
+							<unittitle>First floor plan.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>3. </unitid>
+							<unittitle>Second floor plan.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>4. </unitid>
+							<unittitle>First floor plan, revised.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>5. </unitid>
+							<unittitle>Second floor plan, revised.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<physloc>142.E.2.2</physloc>
+							<container>2</container>
+							<unitid>6. </unitid>
+							<unittitle>Basement plan, revised.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>7. </unitid>
+							<unittitle>Basement plan.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>8. </unitid>
+							<unittitle>First floor plan.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>9. </unitid>
+							<unittitle>Second floor plan.</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Yale Bowl seating plan, New Haven, Conn., </unittitle>
+						<unitdate era="ce" calendar="gregorian">undated. </unitdate>
+						<physdesc>Blueprint. 1 sheet.</physdesc>
+					</did>
+					<c03>
+						<did>
+							<unitid>1. </unitid>
+							<unittitle>Overview.</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Lake Nokomis shelter building, Minneapolis, </unittitle>
+
+						<unitdate era="ce" calendar="gregorian">1929. </unitdate>
+						<physdesc>Blueprints. 8 sheets.</physdesc>
+					</did>
+					<c03>
+						<did>
+							<unitid>1. </unitid>
+							<unittitle>Foundation plan.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>2. </unitid>
+							<unittitle>First floor plan.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>3. </unitid>
+							<unittitle>South West elevation.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>4. </unitid>
+							<unittitle>North East elevation.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>5. </unitid>
+							<unittitle>North, west, south, east elevation and section
+								thru.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>6. </unitid>
+							<unittitle>Details.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>7. </unitid>
+							<unittitle>Detail of porch columns.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>8. </unitid>
+							<unittitle>Entrance detail.</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02>
+					<did>
+						<physloc>142.E.2.2</physloc>
+						<container>2</container>
+						<unittitle>Bryant Square field house for Minneapolis Park Board blueprints, </unittitle>
+						<unitdate era="ce" calendar="gregorian">1924. </unitdate>
+						<physdesc>Blueprints. 9 sheets.</physdesc>
+					</did>
+					<c03>
+						<did>
+							<unitid>1. </unitid>
+							<unittitle>Foundation plan.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>2. </unitid>
+							<unittitle>Floor plan.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>3. </unitid>
+							<unittitle>South elevation.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>4. </unitid>
+							<unittitle>North elevation</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>5. </unitid>
+							<unittitle>West and east elevation.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>6. </unitid>
+							<unittitle>Details.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>7. </unitid>
+							<unittitle>Details of doors and windows.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>8. </unitid>
+							<unittitle>Floor plan.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>9. </unitid>
+							<unittitle>Head piping detail.</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Hiawatha Park shelter building, Minneapolis, </unittitle>
+						<unitdate era="ce" calendar="gregorian">1932. </unitdate>
+						<physdesc>Blueprints. 8 sheets.</physdesc>
+					</did>
+					<c03>
+						<did>
+							<unitid>1.</unitid>
+							<unittitle>Foundation plan.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>2. </unitid>
+							<unittitle>Floor plan.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>3. </unitid>
+							<unittitle>Northeast elevation.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>4. </unitid>
+							<unittitle>Southwest elevation.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>5. </unitid>
+							<unittitle>Northwest and southeast elevations.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>6. </unitid>
+							<unittitle>Details.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>7. </unitid>
+							<unittitle>Heating plan.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>8. </unitid>
+							<unittitle>Floor plan, approved.</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>White House Restaurant, Minneapolis, </unittitle>
+						<unitdate era="ce" calendar="gregorian">1928. </unitdate>
+						<physdesc>Blueprints. 6 sheets.</physdesc>
+					</did>
+					<c03>
+						<did>
+							<unitid>1. </unitid>
+							<unittitle>Front elevation, floor plan, section thru.</unittitle>
+
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>2. </unitid>
+							<unittitle>Right, left, and rear elevation and section thru.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>3. </unitid>
+							<unittitle>Details.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>4. </unitid>
+							<unittitle>Front elevation, floor plan, section thru.</unittitle>
+
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>5. </unitid>
+							<unittitle>Right, left, and rear elevation and long and cross
+								section.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>6. </unitid>
+							<unittitle>Details.</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Lyndale Park, Linden Hills, Minneapolis, </unittitle>
+						<unitdate era="ce" calendar="gregorian">1916. </unitdate>
+						<physdesc>Blueprint. 1 sheet.</physdesc>
+					</did>
+					<c03>
+						<did>
+							<unittitle>Overview plan.</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Unidentified basement plan, </unittitle>
+						<unitdate era="ce" calendar="gregorian">undated. </unitdate>
+						<physdesc>Blueprint. 1 sheet.</physdesc>
+					</did>
+					<c03>
+						<did>
+							<unitid>1. </unitid>
+							<unittitle>Basement plan.</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Prayer's Addition to Minneapolis: Lot 3, Block 2, </unittitle>
+						<unitdate era="ce" calendar="gregorian">undated. </unitdate>
+						<physdesc>Blueprint. 1 sheet.</physdesc>
+					</did>
+					<c03>
+						<did>
+							<unitid>1. </unitid>
+							<unittitle>Overview.</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02>
+					<did>
+						<physloc>142.E.2.2</physloc>
+						<container>2</container>
+						<unittitle>Christ English Lutheran Church, Minneapolis, </unittitle>
+						<unitdate era="ce" calendar="gregorian">1915. </unitdate>
+						<physdesc>Blueprints. 10 sheets.</physdesc>
+					</did>
+					<c03>
+						<did>
+							<unitid>1. </unitid>
+							<unittitle>Basement plan.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>2. </unitid>
+							<unittitle>First floor.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>3. </unitid>
+							<unittitle>31st Street elevation.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>4. </unitid>
+							<unittitle>Oliver Street elevation.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>5. </unitid>
+							<unittitle>Rear elevation.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>6. </unitid>
+							<unittitle>Side elevation.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>7. </unitid>
+							<unittitle>Transverse section.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>8. </unitid>
+							<unittitle>Trussing.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>9. </unitid>
+							<unittitle>Scale details of door and trim.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>10. </unitid>
+							<unittitle>Roof plan.</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>First Baptist Church, Hastings, Minn., </unittitle>
+						<unitdate era="ce" calendar="gregorian">1923. </unitdate>
+						<physdesc>Blueprints. 12 sheets.</physdesc>
+					</did>
+					<c03>
+						<did>
+							<unitid>1A. </unitid>
+							<unittitle>Excavation plans.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>1. </unitid>
+							<unittitle>Basement plans.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>2. </unitid>
+							<unittitle>First floor. </unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>3. </unitid>
+							<unittitle>Front elevation.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>4. </unitid>
+							<unittitle>8th Street elevation.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>5. </unitid>
+							<unittitle>Rear elevation.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>6. </unitid>
+							<unittitle>Left end elevation.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>7. </unitid>
+							<unittitle>Transverse section thru tower.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>8. </unitid>
+							<unittitle>Longitudinal section.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>9. </unitid>
+							<unittitle>Transverse section thru tower.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>10-12. </unitid>
+							<unittitle>Details.</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02>
+					<did>
+						<physloc>142.E.2.2</physloc>
+						<container>2</container>
+						<unittitle>Knox Presbyterian Church, [n.p.], </unittitle>
+						<unitdate era="ce" calendar="gregorian">undated. </unitdate>
+						<physdesc>Blueprint. 1 sheet.</physdesc>
+					</did>
+					<c03>
+						<did>
+							<unitid>1. </unitid>
+							<unittitle>First floor plan.</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Windom Park Baptist Church, [n.p.], </unittitle>
+						<unitdate era="ce" calendar="gregorian">1909. </unitdate>
+						<physdesc>Blueprints. 9 sheets.</physdesc>
+					</did>
+					<c03>
+						<did>
+							<unitid>1. </unitid>
+							<unittitle>Basement plan.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>2. </unitid>
+							<unittitle>First floor plan.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>3. </unitid>
+							<unittitle>Front elevation.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>4. </unitid>
+							<unittitle>Side elevation.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>5. </unitid>
+							<unittitle>Rear elevation.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>6. </unitid>
+							<unittitle>Side elevation.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>7. </unitid>
+							<unittitle>Longitudinal section.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>8. </unitid>
+							<unittitle>Cross section.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>9. </unitid>
+							<unittitle>Amended plans.</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>First Norwegian Danish Baptist Church, Minneapolis, </unittitle>
+						<unitdate era="ce" calendar="gregorian">1917. </unitdate>
+						<physdesc>Blueprints. 15 sheets.</physdesc>
+					</did>
+					<c03>
+						<did>
+							<unitid>1. </unitid>
+							<unittitle>Excavation and footing plan.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>2. </unitid>
+							<unittitle>Basement plan.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>3. </unitid>
+							<unittitle>First floor plan.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>4. </unitid>
+							<unittitle>Second floor plan.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>5. </unitid>
+							<unittitle>16th Avenue elevation.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>6. </unitid>
+							<unittitle>13th Street elevation.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>7. </unitid>
+							<unittitle>Side elevation.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>8. </unitid>
+							<unittitle>Rear elevation.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>9. </unitid>
+							<unittitle>Cross section.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>10. </unitid>
+							<unittitle>Longitudinal section.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<physloc>142.E.2.2</physloc>
+							<container>2</container>
+							<unitid>11. </unitid>
+							<unittitle>Roof truss.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>12. </unitid>
+							<unittitle>Section thru tower.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>13. </unitid>
+							<unittitle>Details of window and wall section.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>14. </unitid>
+							<unittitle>Basement.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>15. </unitid>
+							<unittitle>Heating plans.</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Lynnhurst Congregational Church, Minneapolis, </unittitle>
+						<unitdate era="ce" calendar="gregorian">undated. </unitdate>
+						<physdesc>Blueprints. 4 sheets.</physdesc>
+					</did>
+					<c03>
+						<did>
+							<unitid>1. </unitid>
+							<unittitle>Front elevation.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>2. </unitid>
+							<unittitle>Sub-basement plan.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>3. </unitid>
+							<unittitle>First floor.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>4. </unitid>
+							<unittitle>Basement plan.</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Presbyterian Church, Bemidji, Minn., </unittitle>
+						<unitdate era="ce" calendar="gregorian">undated. </unitdate>
+						<physdesc>Blueprint. 1 mounted sheet.</physdesc>
+					</did>
+					<c03>
+						<did>
+							<unitid>1. </unitid>
+							<unittitle>First floor plan.</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Northfield Methodist Church, Northfield, Minn., </unittitle>
+						<unitdate era="ce" calendar="gregorian">1920. </unitdate>
+						<physdesc>Blueprints. 18 sheets.</physdesc>
+					</did>
+					<c03>
+						<did>
+							<unitid>1. </unitid>
+							<unittitle>Basement plan.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>2. </unitid>
+							<unittitle>First floor plan.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>3. </unitid>
+							<unittitle>Second floor plan.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>4. </unitid>
+							<unittitle>Front elevation.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>5. </unitid>
+							<unittitle>Right and left elevation.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>6. </unitid>
+							<unittitle>Left end elevation.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>7. </unitid>
+							<unittitle>Rear elevation.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>8. </unitid>
+							<unittitle>Half-cross and longitudinal section.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>9. </unitid>
+							<unittitle>Details of tower.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<physloc>142.E.2.2.</physloc>
+							<container>2</container>
+							<unitid>10. </unitid>
+							<unittitle>Detail of auditorium trusses.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>11. </unitid>
+							<unittitle>Trusses.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>12. </unitid>
+							<unittitle>Details.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>13. </unitid>
+							<unittitle>Window details.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>14-15. </unitid>
+							<unittitle>Details.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>16. </unitid>
+							<unittitle>Frame details.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>17-18. </unitid>
+							<unittitle>Rostrum and choir loft.</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Northfield Methodist Episcopal Church, Northfield, Minn., </unittitle>
+						<unitdate era="ce" calendar="gregorian">1921. </unitdate>
+						<physdesc>Blueprints. 21 sheets.</physdesc>
+					</did>
+					<c03>
+						<did>
+							<unitid>1. </unitid>
+							<unittitle>Basement plan.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>2. </unitid>
+							<unittitle>Auditorium floor plan.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>3. </unitid>
+							<unittitle>Balcony plan.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>4. </unitid>
+							<unittitle>South elevation.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>5. </unitid>
+							<unittitle>East elevation.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>6. </unitid>
+							<unittitle>West elevation.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>7. </unitid>
+							<unittitle>North elevation.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>8. </unitid>
+							<unittitle>Longitudinal and transverse section.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>9. </unitid>
+							<unittitle>Trusses.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<physloc>142.E.2.2</physloc>
+							<container>2</container>
+							<unitid>10. </unitid>
+							<unittitle>Window section.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>11. </unitid>
+							<unittitle>Balcony window.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>12. </unitid>
+							<unittitle>Main entrance door details.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>13. </unitid>
+							<unittitle>Cornice details.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>14. </unitid>
+							<unittitle>Details of tower.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>15. </unitid>
+							<unittitle>Two column details.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>16. </unitid>
+							<unittitle>Baluster base and post detail.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>17. </unitid>
+							<unittitle>Stairs, balcony, and auditorium details.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>18. </unitid>
+							<unittitle>Details.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>19. </unitid>
+							<unittitle>Elevation of upper part of choir loft.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>20. </unitid>
+							<unittitle>Details of pulpit.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>21. </unitid>
+							<unittitle>Details.</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>First Baptist Church, Brainerd, Minn. Addition, </unittitle>
+						<unitdate era="ce" calendar="gregorian">1921. </unitdate>
+						<physdesc>Blueprints. 16 sheets.</physdesc>
+					</did>
+					<c03>
+						<did>
+							<unitid>1. </unitid>
+							<unittitle>Basement plan.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>2. </unitid>
+							<unittitle>First floor.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>3. </unitid>
+							<unittitle>Second floor.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>4. </unitid>
+							<unittitle>North elevation.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>5. </unitid>
+							<unittitle>East elevation.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>6. </unitid>
+							<unittitle>South elevation.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>7. </unitid>
+							<unittitle>West elevation.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>8. </unitid>
+							<unittitle>Transverse section.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>9. </unitid>
+							<unittitle>Longitudinal sections.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>10. </unitid>
+							<unittitle>Tower. </unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<physloc>142.E.2.2</physloc>
+							<container>2</container>
+							<unitid>11. </unitid>
+							<unittitle>Auditorium windows.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>12. </unitid>
+							<unittitle>Windows in tower.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>13-16. </unitid>
+							<unittitle>Details.</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Advent Christian Church, Minneapolis, </unittitle>
+						<unitdate era="ce" calendar="gregorian">1926. </unitdate>
+						<physdesc>Blueprints. 12 sheets.</physdesc>
+					</did>
+					<c03>
+						<did>
+							<unitid>1. </unitid>
+							<unittitle>Basement floor plan.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>2. </unitid>
+							<unittitle>First floor.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>3. </unitid>
+							<unittitle>Roof plan.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>4. </unitid>
+							<unittitle>West elevation.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>5. </unitid>
+							<unittitle>South elevation.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>6. </unitid>
+							<unittitle>Rear elevation.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>7. </unitid>
+							<unittitle>Side elevation.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>8. </unitid>
+							<unittitle>Longitudinal section.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<physloc>142.E.2.2</physloc>
+							<container>2</container>
+							<unitid>9. </unitid>
+							<unittitle>Transverse section.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>10. </unitid>
+							<unittitle>Window and door section.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>11-12.</unitid>
+							<unittitle>Details.</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Tentative plans for unidentified Baptist church, </unittitle>
+						<unitdate era="ce" calendar="gregorian">1930. </unitdate>
+						<physdesc>Blueprints. 3 sheets.</physdesc>
+					</did>
+					<c03>
+						<did>
+							<unitid>1. </unitid>
+							<unittitle>Second floor plans.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>2. </unitid>
+							<unittitle>First floor.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>3. </unitid>
+							<unittitle>Basement.</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Congregational Church, Wayzata, Minn., </unittitle>
+						<unitdate era="ce" calendar="gregorian">1921. </unitdate>
+						<physdesc>Blueprints. 12 sheets.</physdesc>
+					</did>
+					<c03>
+						<did>
+							<unitid>1. </unitid>
+							<unittitle>Basement plan.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>2. </unitid>
+							<unittitle>First floor.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>3. </unitid>
+							<unittitle>Front elevation</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>4. </unitid>
+							<unittitle>South elevation.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>5. </unitid>
+							<unittitle>North elevation.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>6. </unitid>
+							<unittitle>East elevation.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>7. </unitid>
+							<unittitle>Transverse section.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>8. </unitid>
+							<unittitle>Longitudinal section.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>9. </unitid>
+							<unittitle>Details of basement window frames.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>10. </unitid>
+							<unittitle>Details of doors and windows.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>11. </unitid>
+							<unittitle>Details of window.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>12. </unitid>
+							<unittitle>Truss details.</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>First Presbyterian Church, Hibbing, Minn., </unittitle>
+						<unitdate era="ce" calendar="gregorian">1926. </unitdate>
+						<physdesc>Blueprints. 58 sheets.</physdesc>
+					</did>
+					<c03>
+						<did>
+							<unitid>1. </unitid>
+							<unittitle>Locking device for silver drawers.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>2. </unitid>
+							<unittitle>Full exterior.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>3. </unitid>
+							<unittitle>Seating and pew ends.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>4. </unitid>
+							<unittitle>Organ chamber.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>5. </unitid>
+							<unittitle>Organ.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>6. </unitid>
+							<unittitle>Iron cross.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>7-8. </unitid>
+							<unittitle>Revised kitchen plan.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>9. </unitid>
+							<unittitle>Basement floor plan.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>10. </unitid>
+							<unittitle>First floor.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<physloc>142.E.2.2</physloc>
+							<container>2</container>
+							<unitid>11. </unitid>
+							<unittitle>Auditorium seating plan.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>12. </unitid>
+							<unittitle>First floor plan [early?]</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>13. </unitid>
+							<unittitle>Basement floor plans.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>14. </unitid>
+							<unittitle>Fixture dimension.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>15-17. </unitid>
+							<unittitle>Fixture details.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>20. </unitid>
+							<unittitle>Details of tower foundation and pier and column.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>21. </unitid>
+							<unittitle>First floor plan.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>22. </unitid>
+							<unittitle>Second floor plan.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>23. </unitid>
+							<unittitle>East elevation.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>24. </unitid>
+							<unittitle>North elevation.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>25. </unitid>
+							<unittitle>South elevation.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>26. </unitid>
+							<unittitle>Rear elevation.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>27. </unitid>
+							<unittitle>Temporary elevation.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>28. </unitid>
+							<unittitle>Longitudinal section.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>29. </unitid>
+							<unittitle>Section towards chancel.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<physloc>142.E.2.2</physloc>
+							<container>2</container>
+							<unitid>30. </unitid>
+							<unittitle>Details of cast stone window tracery</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>31. </unitid>
+							<unittitle>Section towards balcony.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>32. </unitid>
+							<unittitle>Half elevation of tower.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>34. </unitid>
+							<unittitle>Window detail.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>35. </unitid>
+							<unittitle>Details of truss and cornice.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>36. </unitid>
+							<unittitle>Details of doors and rails.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>37. </unitid>
+							<unittitle>Kitchen details.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>38. </unitid>
+							<unittitle>Details of lectern, communion table, organ grille,
+								chancel.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>39. </unitid>
+							<unittitle>Stair and pew detail.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>40. </unitid>
+							<unittitle>First floor.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>41. </unitid>
+							<unittitle>First floor.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>42. </unitid>
+							<unittitle>Second floor.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>43. </unitid>
+							<unittitle>Connections to basement radiators.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>44. </unitid>
+							<unittitle>Basement plan.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>45. </unitid>
+							<unittitle>First floor plan.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>46. </unitid>
+							<unittitle>Second floor plan.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>47. </unitid>
+							<unittitle>Organ grille, corrected detail.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>48. </unitid>
+							<unittitle>Pew detail.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>49. </unitid>
+							<unittitle>Details of communion table.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>50. </unitid>
+							<unittitle>Plan of platform.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<physloc>142.E.2.2</physloc>
+							<container>2</container>
+							<unitid>51. </unitid>
+							<unittitle>Cornerstone detail.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>52. </unitid>
+							<unittitle>Alteration of kitchen arrangement.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>53. </unitid>
+							<unittitle>Revised kitchen plan.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>54. </unitid>
+							<unittitle>Cabinet details.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>55. </unitid>
+							<unittitle>Mounted sketch of church [broken].</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>56. </unitid>
+							<unittitle>Chancel furniture details.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>57-58. </unitid>
+							<unittitle>Stone inscriptions.</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Shanghai College Chapel, </unittitle>
+						<unitdate era="ce" calendar="gregorian">undated. </unitdate>
+						<physdesc>Studies. 10 sheets.</physdesc>
+					</did>
+					<c03>
+						<did>
+							<unitid>1. </unitid>
+							<unittitle>Front elevation [?].</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>2. </unitid>
+							<unittitle>Rear elevation [?].</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>3. </unitid>
+							<unittitle>Main floor plan.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>4-10. </unitid>
+							<unittitle>Front facades [?].</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Front Facade of unidentified church, </unittitle>
+						<unitdate era="ce" calendar="gregorian">undated. </unitdate>
+						<physdesc>Study. 1 sheet.</physdesc>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Bishop Whipple Memorial Christ Church, Minneapolis, </unittitle>
+						<unitdate era="ce" calendar="gregorian">undated. </unitdate>
+						<physdesc>Blueprints/studies. 11 sheets.</physdesc>
+					</did>
+					<c03>
+						<did>
+							<unitid>1. </unitid>
+							<unittitle>Blaisdell Ave. elevation.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>2. </unitid>
+							<unittitle>First floor sketch.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>3. </unitid>
+							<unittitle>37th Street front.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>4. </unitid>
+							<unittitle>First floor plan.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>5. </unitid>
+							<unittitle>Basement floor plan.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>6. </unitid>
+							<unittitle>First floor plan.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>7-8. </unitid>
+							<unittitle>Exterior facade.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>9. </unitid>
+							<unittitle>Auditorium layout.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>10. </unitid>
+							<unittitle>Transverse section.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>11. </unitid>
+							<unittitle>Exterior facade.</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02>
+					<did>
+						<physloc>142.E.2.2 (dov></physloc>
+						<container>2</container>
+						<unittitle>Columbia Heights Methodist Episcopal Church, Minneapolis, </unittitle>
+						<unitdate era="ce" calendar="gregorian">1920. </unitdate>
+						<physdesc>Blueprints. 16 sheets.</physdesc>
+					</did>
+					<c03>
+						<did>
+							<unitid>1. </unitid>
+							<unittitle>Plot and excavation plan.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>2. </unitid>
+							<unittitle>Ground floor plan.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>3. </unitid>
+							<unittitle>First floor.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>4. </unitid>
+							<unittitle>Central Ave. and front elevation.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>4A. </unitid>
+							<unittitle>Tower addition.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>5. </unitid>
+							<unittitle>North and east addition.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>6. </unitid>
+							<unittitle>Longitudinal and part cross plan.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>7. </unitid>
+							<unittitle>Details of truss and girders.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>8. </unitid>
+							<unittitle>Details of doors.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>9. </unitid>
+							<unittitle>Details of sills, casements, porch.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>10. </unitid>
+							<unittitle>Details of windows.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>11. </unitid>
+							<unittitle>Details of choir loft and rostrum.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>12. </unitid>
+							<unittitle>Details of pews and cupboards.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>13. </unitid>
+							<unittitle>Gould Ave. elevation.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>14. </unitid>
+							<unittitle>Main floor plan.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>15. </unitid>
+							<unittitle>Basement plan.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>16. </unitid>
+							<unittitle>Lot 26-28 elevation.</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Community Methodist Episcopal Church [n.p.], </unittitle>
+						<unitdate era="ce" calendar="gregorian">1922. </unitdate>
+						<physdesc>Blueprints. 12 sheets.</physdesc>
+					</did>
+					<c03>
+						<did>
+							<unitid>1. </unitid>
+							<unittitle>Basement floor plan.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>2. </unitid>
+							<unittitle>First floor.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>3. </unitid>
+							<unittitle>Front elevation.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>4. </unitid>
+							<unittitle>Left end elevation.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>5. </unitid>
+							<unittitle>Rear elevation.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>6. </unitid>
+							<unittitle>Right end elevation.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<physloc>142.E.2.2</physloc>
+							<container>2</container>
+							<unitid>7. </unitid>
+							<unittitle>Transverse and tower section.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>8. </unitid>
+							<unittitle>Longitudinal section.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>9. </unitid>
+							<unittitle>Details of cornice, truss, windows.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>10. </unitid>
+							<unittitle>Details of windows.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>11. </unitid>
+							<unittitle>Details of doors.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>12. </unitid>
+							<unittitle>Details of pulpit, communion table, stairway.</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Pine City Methodist Episcopal Church, Pine City, Minn., </unittitle>
+						<unitdate era="ce" calendar="gregorian">undated. </unitdate>
+						<physdesc>Sketches. 4 sheets.</physdesc>
+					</did>
+					<c03>
+						<did>
+							<unitid>1. </unitid>
+							<unittitle>Front elevation. </unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>2. </unitid>
+							<unittitle>Front elevation [different].</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>3. </unitid>
+							<unittitle>First floor.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>4. </unitid>
+							<unittitle>Second floor.</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Grace Methodist Episcopal Church, Minneapolis, </unittitle>
+						<unitdate era="ce" calendar="gregorian">1921. </unitdate>
+						<physdesc>Blueprints. 13 sheets.</physdesc>
+					</did>
+					<c03>
+						<did>
+							<unitid>1. </unitid>
+							<unittitle>Excavating, footing, and basement plan.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>2. </unitid>
+							<unittitle>First and second floor plan.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>3. </unitid>
+							<unittitle>Front and side elevation.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>4. </unitid>
+							<unittitle>Left and rear elevation.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>5. </unitid>
+							<unittitle>Half cross and longitudinal section.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>6. </unitid>
+							<unittitle>Main tower detail.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>7. </unitid>
+							<unittitle>Elevation of joints.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>8. </unitid>
+							<unittitle>Details of window and right elevation.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>9. </unitid>
+							<unittitle>Details of doors.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>10. </unitid>
+							<unittitle>Details of kitchen cupboards and girders.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>11. </unitid>
+							<unittitle>Half plan of choir loft and rostrum.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>12. </unitid>
+							<unittitle>Details of communion table, pulpit, pew, stairs.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>13. </unitid>
+							<unittitle>Revised balcony details.</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02>
+					<did>
+						<physloc>142.E.2.2</physloc>
+						<container>2</container>
+						<unittitle>Lake Park Baptist Church, St. Paul, Minn., </unittitle>
+						<unitdate era="ce" calendar="gregorian">1931. </unitdate>
+						<physdesc>Blueprints and specifications. 10 sheets plus specs.</physdesc>
+					</did>
+					<c03>
+						<did>
+							<unitid>1. </unitid>
+							<unittitle>Basement floor plan.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>2. </unitid>
+							<unittitle>Main floor.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>3. </unitid>
+							<unittitle>West elevation. </unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>4. </unitid>
+							<unittitle>South elevation.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>5. </unitid>
+							<unittitle>East elevation. </unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>6. </unitid>
+							<unittitle>North elevation. </unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>7. </unitid>
+							<unittitle>Transverse section looking towards chancel.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>8. </unitid>
+							<unittitle>Section towards balcony and balcony plans.</unittitle>
+
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>9. </unitid>
+							<unittitle>Basement plans.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>10. </unitid>
+							<unittitle>Main floor.</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Universalist Church, Owatonna, Minn., </unittitle>
+						<unitdate era="ce" calendar="gregorian">1905. </unitdate>
+						<physdesc>Blueprints. 14 sheets.</physdesc>
+					</did>
+					<c03>
+						<did>
+							<unitid>1. </unitid>
+							<unittitle>Basement plans.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>2. </unitid>
+							<unittitle>First floor. </unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>3. </unitid>
+							<unittitle>Roof plan.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>4. </unitid>
+							<unittitle>North plan.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>5. </unitid>
+							<unittitle>East elevation.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>6. </unitid>
+							<unittitle>West elevation.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>7. </unitid>
+							<unittitle>South elevation.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>8. </unitid>
+							<unittitle>Longitudinal elevation.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>9. </unitid>
+							<unittitle>Cross section.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>10. </unitid>
+							<unittitle>Section A-A.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<physloc>142.E.2.2</physloc>
+							<container>2</container>
+							<unitid>11. </unitid>
+							<unittitle>Plan of framing base of dome, tower section.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>12. </unitid>
+							<unittitle>Elevation showing organ front.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>13. </unitid>
+							<unittitle>Organ loft.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>14. </unitid>
+							<unittitle>Seating plan.</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Bethelhem Swedish Lutheran Church, Minneapolis, </unittitle>
+						<unitdate era="ce" calendar="gregorian">1927. </unitdate>
+						<physdesc>Blueprints. 57 sheets.</physdesc>
+					</did>
+					<c03>
+						<did>
+							<unitid>1. </unitid>
+							<unittitle>Foundation and sub-basement plan.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>2. </unitid>
+							<unittitle>Basement plan.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>3. </unitid>
+							<unittitle>Pier and buttress details.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>4. </unitid>
+							<unittitle>First floor.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>5. </unitid>
+							<unittitle>Second floor.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>6. </unitid>
+							<unittitle>Roof plan.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>7. </unitid>
+							<unittitle>South elevation.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>8. </unitid>
+							<unittitle>West elevation and details of cut stone panels.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>9. </unitid>
+							<unittitle>North elevation.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>10. </unitid>
+							<unittitle>Rear elevation.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<physloc>142.E.2.2</physloc>
+							<container>2</container>
+							<unitid>11. </unitid>
+							<unittitle>Transverse section.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>12. </unitid>
+							<unittitle>Longitudinal section.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>13. </unitid>
+							<unittitle>Tower detail.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>14. </unitid>
+							<unittitle>Pastor's window and basement entrance.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>15.</unitid>
+							<unittitle>Choir loft and auditorium windows.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>16. </unitid>
+							<unittitle>Chancel window.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>17. </unitid>
+							<unittitle>Elevation of truss.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>18. </unitid>
+							<unittitle>Auditorium wall section.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>19. </unitid>
+							<unittitle>Details and section thru tower.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>20. </unitid>
+							<unittitle>Details.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>21. </unitid>
+							<unittitle>Chancel details.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>22. </unitid>
+							<unittitle>Details of pulpit and choir screen.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>23. </unitid>
+							<unittitle>First floor seating plan and pew end.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>24. </unitid>
+							<unittitle>Plan of kitchen.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>25. </unitid>
+							<unittitle>Details of pulpit and bookcases.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>26. </unitid>
+							<unittitle>Window details.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>27. </unitid>
+							<unittitle>Drawing of choir loft and organ.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>28. </unitid>
+							<unittitle>Sub-basement plan.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>29. </unitid>
+							<unittitle>Basement plan.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>30.</unitid>
+							<unittitle>First floor.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<physloc>142.E.2.2 (doc)</physloc>
+							<container>2</container>
+							<unitid>31. </unitid>
+							<unittitle>Second floor.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>32. </unitid>
+							<unittitle>Basement plan </unittitle>
+							<unitdate era="ce" calendar="gregorian">(1924).</unitdate>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>33. </unitid>
+							<unittitle>First floor </unittitle>
+							<unitdate era="ce" calendar="gregorian">(1924).</unitdate>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>34. </unitid>
+							<unittitle>Second floor </unittitle>
+							<unitdate era="ce" calendar="gregorian">(1924).</unitdate>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>35. </unitid>
+							<unittitle>Transverse of chancel and plan of chancel.</unittitle>
+
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>36. </unitid>
+							<unittitle>Sketch of second floor.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>37. </unitid>
+							<unittitle>Second floor plan.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>38. </unitid>
+							<unittitle>Basement.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>39. </unitid>
+							<unittitle>First floor.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>40. </unitid>
+							<unittitle>Drawing of communion table [?].</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>41-42. </unitid>
+							<unittitle>Plans for organ.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>43. </unitid>
+							<unittitle>Details of organ case.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>44. </unitid>
+							<unittitle>Drawing of Chancel.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>45. </unitid>
+							<unittitle>Detail of organ case.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>46. </unitid>
+							<unittitle>Details of organ grill.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>47-57.</unitid>
+							<unittitle>Details for Crown Iron Works Co.</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02>
+					<did>
+						<physloc>142.E.2.2</physloc>
+						<container>2</container>
+						<unittitle>Design for a Model Baptist Church, </unittitle>
+						<unitdate era="ce" calendar="gregorian">undated. </unitdate>
+						<physdesc>Blueprints. 3 sheets.</physdesc>
+					</did>
+					<c03>
+						<did>
+							<unitid>1. </unitid>
+							<unittitle>Basement.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>2. </unitid>
+							<unittitle>First floor.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>3. </unitid>
+							<unittitle>Second floor.</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Certificate from Gov. John A. Johnson, </unittitle>
+						<unitdate era="ce" calendar="gregorian">1924. </unitdate>
+					</did>
+					<scopecontent>
+						<p>Appointing Jones architect for the State Art Society.</p>
+					</scopecontent>
+				</c02>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>Oversized Material</unittitle>
+				</did>
+				<c02>
+					<did>
+						<physloc>+213</physloc>
+						<container type="folder">1</container>
+						<unittitle>YWCA Building (proposed additions), Austin, Minn., </unittitle>
+						<unitdate era="ce" calendar="gregorian">undated. </unitdate>
+						<physdesc>Sketches. 6 sheets.</physdesc>
+					</did>
+					<c03>
+						<did>
+							<unitid>1. </unitid>
+							<unittitle>First floor plans.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>2-5. </unitid>
+							<unittitle>Side elevation [?].</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>6. </unitid>
+							<unittitle>Front elevation, lower, and upper floor plan.</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Glenwood Park, Minneapolis. Topographical survey, </unittitle>
+						<unitdate era="ce" calendar="gregorian">1933. </unitdate>
+						<physdesc>Blueprint. 1 sheet.</physdesc>
+					</did>
+					<c03>
+						<did>
+							<unitid>1. </unitid>
+							<unittitle>Overview.</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Robbinsdale School, Minneapolis, </unittitle>
+						<unitdate era="ce" calendar="gregorian">undated. </unitdate>
+						<physdesc>Blueprint. 1 sheet.</physdesc>
+					</did>
+					<c03>
+						<did>
+							<unitid>1. </unitid>
+							<unittitle>Balcony girder.</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Washburn Park standpipe, Minneapolis, </unittitle>
+						<unitdate era="ce" calendar="gregorian">undated. </unitdate>
+						<physdesc>Blueprints. 5 sheets.</physdesc>
+					</did>
+					<c03>
+						<did>
+							<unitid>1. </unitid>
+							<unittitle>Band spacing on walls.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>2-4. </unitid>
+							<unittitle>Details. </unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>5. </unitid>
+							<unittitle>Detail of cupola.</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>St. Cloud Presbyterian Church, St. Cloud, Minn., </unittitle>
+						<unitdate era="ce" calendar="gregorian">1916. </unitdate>
+						<physdesc>Blueprints. 23 sheets.</physdesc>
+					</did>
+					<c03>
+						<did>
+							<unitid>1. </unitid>
+							<unittitle>Basement and foundation plans.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>2. </unitid>
+							<unittitle>First floor plan.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>3. </unitid>
+							<unittitle>Roof plan.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>4. </unitid>
+							<unittitle>Front elevation.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>5. </unitid>
+							<unittitle>Side elevation [?]</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>6. </unitid>
+							<unittitle>Rear and west elevations.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<physloc>+213</physloc>
+							<container type="folder">1</container>
+							<unitid>7. </unitid>
+							<unittitle>Cross and longitudinal section.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>8. </unitid>
+							<unittitle>Section thru tower and door details.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>9. </unitid>
+							<unittitle>Half elevation, section of center line, half plan of
+								choir.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>10. </unitid>
+							<unittitle>Elevation and details of truss.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>11. </unitid>
+							<unittitle>Window details and section thru main cornice.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>12. </unitid>
+							<unittitle>Detail of front elevation and section thru tower.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>13. </unitid>
+							<unittitle>Door details.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>14. </unitid>
+							<unittitle>Basement window details.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>15. </unitid>
+							<unittitle>Heating plan for basement.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>16. </unitid>
+							<unittitle>Heating for first floor.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>17. </unitid>
+							<unittitle>Seating plan.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>18. </unitid>
+							<unittitle>Back of center seat.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>19. </unitid>
+							<unittitle>Full size detail of carved brackets on organ
+								case.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>20. </unitid>
+							<unittitle>Chancel elevation showing choir stalls, pulpit, reading
+								desks...</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>21. </unitid>
+							<unittitle>First floor plan.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>22. </unitid>
+							<unittitle>Choir and pulpit detail.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>23. </unitid>
+							<unittitle>Colored drawing of #20</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02>
+					<did>
+						<physloc>+213</physloc>
+						<container type="folder">2</container>
+						<unittitle>Messiah Evangelical Lutheran Church, Minneapolis, </unittitle>
+						<unitdate era="ce" calendar="gregorian">1916. </unitdate>
+						<physdesc>Blueprints. 12 sheets.</physdesc>
+					</did>
+					<c03>
+						<did>
+							<unitid>1. </unitid>
+							<unittitle>Foundation and basement plan.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>2. </unitid>
+							<unittitle>First floor plan.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>3. </unitid>
+							<unittitle>Second floor plans.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>4. </unitid>
+							<unittitle>Front elevation.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>5. </unitid>
+							<unittitle>East and west elevation.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>6. </unitid>
+							<unittitle>Rear elevation.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>7. </unitid>
+							<unittitle>Longitudinal section.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>8. </unitid>
+							<unittitle>Details of windows in basement.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>9-10. </unitid>
+							<unittitle>Cross section.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>11. </unitid>
+							<unittitle>Tower entrance.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>12. </unitid>
+							<unittitle>Windows in auditorium.</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Fourth Baptist Church, Sunday School Addition, Minneapolis, </unittitle>
+						<unitdate era="ce" calendar="gregorian">1916. </unitdate>
+						<physdesc>Blueprints. 8 sheets.</physdesc>
+					</did>
+					<c03>
+						<did>
+							<unitid>1. </unitid>
+							<unittitle>Foundation plan.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>2. </unitid>
+							<unittitle>First floor plan.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>3. </unitid>
+							<unittitle>Second floor plans.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>4. </unitid>
+							<unittitle>Fremont St. elevation.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>5. </unitid>
+							<unittitle>North side elevation.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>6. </unitid>
+							<unittitle>West (rear) elevation.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>7. </unitid>
+							<unittitle>Longitudinal section.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>8. </unitid>
+							<unittitle>Traverse section and entrance details.</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Burmese Baptist Church, Moulmein, Burma, </unittitle>
+						<unitdate era="ce" calendar="gregorian">1921. </unitdate>
+						<physdesc>Blueprints. 9 sheets.</physdesc>
+					</did>
+					<c03>
+						<did>
+							<unitid>1. </unitid>
+							<unittitle>Plot plan.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>2. </unitid>
+							<unittitle>Ground floor.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>3. </unitid>
+							<unittitle>Auditorium floor plan.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>4. </unitid>
+							<unittitle>Front elevation.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>5. </unitid>
+							<unittitle>Right side elevation.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>6. </unitid>
+							<unittitle>Rear elevation.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>7. </unitid>
+							<unittitle>Left side elevation.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>8. </unitid>
+							<unittitle>Transverse section.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>9. </unitid>
+							<unittitle>Longitudinal section.</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02>
+					<did>
+						<physloc>+213</physloc>
+						<container type="folder">2</container>
+						<unittitle>Simpson Methodist Episcopal Church, Minneapolis. Additions, </unittitle>
+						<unitdate era="ce" calendar="gregorian">1924. </unitdate>
+						<physdesc>Blueprints. 25 sheets.</physdesc>
+					</did>
+					<c03>
+						<did>
+							<unitid>1. </unitid>
+							<unittitle>Basement plan.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>2. </unitid>
+							<unittitle>First floor plan.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>3. </unitid>
+							<unittitle>Second floor plan.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>4. </unitid>
+							<unittitle>Roof plan.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>5. </unitid>
+							<unittitle>East and south elevation.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>6. </unitid>
+							<unittitle>West and north elevation.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>7. </unitid>
+							<unittitle>Transverse and longitudinal section.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>8. </unitid>
+							<unittitle>Longitudinal and sub-basement.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>9. </unitid>
+							<unittitle>Chancel details.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>10. </unitid>
+							<unittitle>Plan of kitchen.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>11. </unitid>
+							<unittitle>Main stairway.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>12. </unitid>
+							<unittitle>Plan of kitchen.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>13. </unitid>
+							<unittitle>Cornerstone sketch.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>14-19. </unitid>
+							<unittitle>Mechanical equipment plans.</unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unitid>20-25. </unitid>
+							<unittitle>Erection plan.</unittitle>
+						</did>
+					</c03>
+				</c02>
+			</c01>
+		</dsc>
+	</archdesc>
+</ead>

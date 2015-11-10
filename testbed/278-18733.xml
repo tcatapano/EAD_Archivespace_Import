@@ -1,0 +1,3305 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.library.yale.edu/facc/schemas/ead/ead.xsd"
+     id="mssa.ms.1446">
+   <eadheader findaidstatus="edited-full-draft" repositoryencoding="iso15511"
+              countryencoding="iso3166-1"
+              dateencoding="iso8601"
+              langencoding="iso639-2b"
+              audience="internal"
+              scriptencoding="iso15924">
+      <eadid countrycode="US" mainagencycode="US-CtY"
+             publicid="-//Yale University::Manuscripts and Archives//TEXT (US::CtY::::[Henry Stuart Hughes papers])//EN"
+             url="http://hdl.handle.net/10079/fa/mssa.ms.1446">mssa.ms.1446</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper type="formal">Guide to the Henry Stuart Hughes Papers
+                    </titleproper>
+            <titleproper type="filing" audience="internal">Hughes (Henry Stuart) Papers</titleproper>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Yale University Library</publisher>
+            <publisher>Manuscripts and Archives</publisher>
+            <address>
+               <addressline>New Haven, Connecticut</addressline>
+            </address>
+            <date type="original" normal="2008-07">July 2008</date>
+            <p>
+               <extref ns2:type="simple" ns2:actuate="onRequest" ns2:show="new"
+                       ns2:href="http://hdl.handle.net/10079/9p8czk9">Copyright © <date type="copyright" normal="2012">2012</date> by the Yale University Library. </extref>
+            </p>
+         </publicationstmt>
+         <notestmt>
+            <note type="bpg">
+               <p>This encoded finding aid is compliant with the Yale EAD Best Practice Guidelines, Version 1.0.</p>
+            </note>
+         </notestmt>
+      </filedesc>
+      <profiledesc>
+         <creation>This finding aid was produced using the Archivists' Toolkit
+                </creation>
+         <langusage>Finding aid written in 
+                <language langcode="eng" scriptcode="Latn">English</language>
+         </langusage>
+         <descrules>Describing Archives: A Content Standard</descrules>
+      </profiledesc>
+   </eadheader>
+   <archdesc level="collection" relatedencoding="MARC21" type="register">
+      <did>
+         <head>Overview</head>
+         <unitid label="Call Number:" countrycode="US" repositorycode="US-CtY">MS 1446</unitid>
+         <origination label="Creator:">
+            <persname rules="aacr" source="ingest">Hughes, H. Stuart (Henry Stuart), 1916-</persname>
+         </origination>
+         <unittitle label="Title:">Henry Stuart Hughes papers</unittitle>
+         <unitdate normal="1916/2000" type="inclusive" label="Dates:" calendar="gregorian"
+                   era="ce"
+                   datechar="creation">1916-2000</unitdate>
+         <physdesc label="Physical Description:">
+            <extent>10.75 linear feet</extent>
+         </physdesc>
+         <abstract label="Summary:">The papers consist of correspondence, writings, campaign records, personal papers, and photographs documenting the life and career of Henry Stuart Hughes. The collection documents Hughes' military career during and after World War II, his 1962 senatorial campaign, his tenure as co-chair and chair of the National Committee for a Sane Nuclear Policy (SANE), his academic career and writings, and his personal life.</abstract>
+         <langmaterial label="Language(s):">Portions of the collection are in <language langcode="ita" scriptcode="Latn">Italian</language> and <language langcode="fre" scriptcode="Latn">French</language>.</langmaterial>
+         <repository label="Repository:">
+            <corpname>Manuscripts and Archives</corpname>
+            <address>
+               <addressline>Sterling Memorial Library</addressline>
+               <addressline>128 Wall Street</addressline>
+               <addressline>P.O. Box 208240</addressline>
+               <addressline>New Haven, CT 06520</addressline>
+               <addressline altrender="web">Web: http://www.library.yale.edu/mssa/</addressline>
+               <addressline altrender="email">Email: mssa.assist@yale.edu</addressline>
+               <addressline altrender="phone">Phone: (203) 432-1735</addressline>
+               <addressline altrender="fax">Fax: (203) 432-7441</addressline>
+            </address>
+         </repository>
+      </did>
+      <descgrp type="admininfo" id="ai">
+         <head>Administrative Information</head>
+         <descgrp type="provenance" id="prov">
+            <head>Provenance</head>
+            <acqinfo id="ref3">
+               <p>Gift of H. Stuart Hughes, 1986, 1989. Gift of Judith M. Hughes, 1999, 2000, 2005.</p>
+            </acqinfo>
+         </descgrp>
+         <accessrestrict id="ref4">
+            <head>Information about Access</head>
+            <p>This collection is open for research.</p>
+         </accessrestrict>
+         <userestrict id="ref5">
+            <head>Ownership  Copyright</head>
+            <p>Donor retains copyright.</p>
+         </userestrict>
+         <prefercite id="ref6">
+            <head>Cite As</head>
+            <p>Henry Stuart Hughes Papers (MS 1446). Manuscripts and Archives, Yale University Library.</p>
+         </prefercite>
+      </descgrp>
+      <bioghist id="ref7">
+         <head>Biographical/Historical Sketch</head>
+         <p>Henry Stuart Hughes was born May 7, 1916 in New York City, the son of Charles Evans Hughes, Jr. and Marjory Stuart Hughes. His grandfather was Charles Evans Hughes, former Secretary of State and Chief Justice of the Supreme Court. H. Stuart Hughes attended Amherst College (B.A. 1937) and Harvard University (Ph.D., History 1940). Before enlisting in the armed services, Hughes taught briefly at Brown University in 1940 1941.</p>
+         <p>In 1941, Hughes enlisted as a private in the Rhode Island National Guard. Later that year, he joined the Office of the Coordinator of Information within the Office of Strategic Services in Washington D.C. Hughes served in a variety of administrative and research capacities in the O.S.S. during the war, in a number of different venues, including Algeria, France, Italy, England and Germany. He was promoted several times, and was eventually elevated to the rank of Lieutenant Colonel. With the end of the war in 1945, Hughes returned to Washington and took a position in the Department of State.</p>
+         <p>In 1947, Hughes left the Department of State and returned to Harvard to teach half time in the Department of History and to be associate director of the Russian Research Center. Hughes was denied tenure at Harvard in 1952. He taught at Stanford University from 1952 to 1956 when he returned to the Harvard history department as an Associate Professor. Hughes remained at Harvard until 1975, when both he and his second wife, Judith, accepted positions in the history department at the University of California at San Diego. Throughout his distinguished academic career, Hughes published many books and articles on European history, and was acknowledged as one of the foremost voices in the field of European intellectual history.</p>
+         <p>In 1962, Hughes ran for the United States Senate as an independent candidate from the state of Massachusetts. Although Hughes finished third in a race won by Edward Kennedy, his candidacy was one of the first to emphasize peace and nuclear disarmament at the center of a campaign platform. In 1963, he became co chairman, with Benjamin Spock, of the board of directors of the National Committee for a Sane Nuclear Policy, known more commonly as SANE. Hughes stayed on as chairman of SANE, after Spock stepped down from the position in 1967, until 1970. He also was an active and outspoken critic of the Vietnam war who published articles, gave speeches and attended protests in opposition to the conflict.</p>
+         <p>Hughes' leftist leanings resulted in his being suspected as a subversive on at least two occasions. In the early 1950s, he was forced to resign his military commission due to allegations that he was a communist sympathizer, although he was given an honorable discharge. In 1966, he was temporarily refused a visa to travel abroad by the State Department on charges he was a communist conspirator, which were later dropped.</p>
+         <p>Hughes married twice and had three children, Sandra and Kenneth with his first wife Suzanne, and David, with his second wife Judith. He retired from the University of California at San Diego in 1986. In 1990, he published his autobiography, 
+                <title render="italic" ns2:type="simple">Gentleman Rebel: The Memoirs of H. Stuart Hughes</title>. Henry Stuart Hughes died October 21, 1999.</p>
+      </bioghist>
+      <scopecontent id="ref8">
+         <head>Description of the Collection</head>
+         <p>The papers consist of correspondence, writings, campaign records, personal papers, and photographs documenting the life and career of Henry Stuart Hughes. The collection documents Hughes' military career during and after World War II, his 1962 senatorial campaign, his tenure as co-chair and chair of the National Committee for a Sane Nuclear Policy (SANE), his academic career and writings, and his personal life.</p>
+      </scopecontent>
+      <arrangement id="ref9">
+         <head>Arrangement</head>
+         <p>Arranged in four series and two additions: I. Correspondence, 1945-1989. II. Senate Campaign Records, 1962-1964. III. Writings and Teaching Matrials, 1948-1990. IV. Personal Papers and Photographs, 1916-1989.</p>
+      </arrangement>
+      <controlaccess id="ca">
+         <head>Access Terms</head>
+         <corpname rules="dacs" source="ingest">Committee for a Sane Nuclear Policy.</corpname>
+         <persname rules="aacr" source="ingest">Hughes, H. Stuart (Henry Stuart), 1916-</persname>
+         <occupation source="lcsh">Historians.</occupation>
+         <geogname source="lcsh">Massachusetts--Politics and government.</geogname>
+      </controlaccess>
+      <dsc type="combined">
+         <head>Collection Contents</head>
+         <c01 id="ref10" level="series">
+            <did>
+               <unitid>Series I</unitid>
+               <unittitle>Correspondence</unittitle>
+               <unitdate>1945 1989</unitdate>
+            </did>
+            <scopecontent>
+               <p>Arranged alphabetically by individual and corporate names and broad subject area, Correspondence primarily documents the professional activities of H. Stuart Hughes. The correspondence ranges from 1945 to 1989, but the bulk of the material falls between 1958 and the late 1970s. Hughes' own organizational structure for the files has been largely retained, and relevant cross references have been created.</p>
+               <p>Arranged chronologically, materials listed under "National Committee for a Sane Nuclear Policy" (SANE) document Hughes' participation in the group, most notably from 1963 to 1970 when he served first as a co chair with Benjamin Spock and subsequently as chairman of the board of directors. Correspondence with SANE staff members Sanford Gottlieb, Donald Keyes, and Marie Runyon, as well as other board members such as Spock, Norman Cousins, Norman Thomas, Nathan Glazer, and Homer Jack make up the bulk of the section. Memoranda circulated among the board members and the staff, but not written by or specifically to Hughes, are also included. The files give a good representation of the activities of the group and particularly document the internal conflicts of the organization. Related but separate groups of materials pertaining to Hughes' anti war work are grouped under the headings "Vietnamese Conflict" and "Massachusetts Political Action for Peace (PAX)."</p>
+               <p>The series also contains much correspondence relating to Hughes' intellectual endeavors. Letters to and from many prominent intellectuals of his time, including Vladimir Dedijer, Erik Erikson, John K. Fairbank, Richard Hofstadter, James Joll, Herbert Marcuse, and David Riesman among others, provide insight into Hughes' scholarship. Hughes' correspondence with his several publishers, including Atheneum, Harper and Row, Harvard University Press, Alfred A. Knopf, Inc., Prentice Hall, and University of Chicago Press documents the publication process of his many books. For additional correspondence relating to Hughes' intellectual work, researchers should consult the Books section of the Writings series.</p>
+               <p>Hughes' writings on politics and other contemporary issues, including United States foreign policy, nuclear deterrence and the Vietnam War, are further documented in his correspondence with the editors of magazines for which he wrote. Files on Martin Greenberg (Commentary) and Robert Silvers (Harper's Magazine and New York Review of Books) are particularly revealing.</p>
+               <p>Hughes' active participation in many professional societies and other organizations is documented in the series. Groups of note include American Committee on Soviet Jewry, American Committee for the History of the Second World War, Center for the Study of Democratic Institutions, and the Congressional Liberal Group. The series also covers Hughes' tenure in his two most significant academic appointments: Harvard University and the University of California at San Diego.</p>
+               <p>The series holds additional correspondence of a more personal nature, to and from friends such as Lise de Carbonnel, Fairman Cowan, Robert L. Edwards, Albert Guérard, Sr., Hans Meyerhoff, Allan Mitchell, Franco Venturi, and Roberto Vivarelli. Correspondence with family members, particularly Hughes' parents, can be found in Series IV.</p>
+            </scopecontent>
+            <c02 id="ref11" level="file">
+               <did>
+                  <container type="Box" label="39002042589052">1</container>
+                  <container type="Folder">1</container>
+                  <unittitle>A (General)</unittitle>
+                  <unitdate>1959-1985</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref12" level="file">
+               <did>
+                  <container type="Box" label="39002042589052">1</container>
+                  <container type="Folder">2</container>
+                  <unittitle>Academic Committee on Soviet Jewry</unittitle>
+                  <unitdate>1972-1973, 1978-1979, n.d.</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref13" level="file">
+               <did>
+                  <container type="Box" label="39002042589052">1</container>
+                  <container type="Folder">3</container>
+                  <unittitle>American Academy of Arts and Sciences</unittitle>
+                  <unitdate>1968, 1975-1978, n.d.</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref14" level="file">
+               <did>
+                  <container type="Box" label="39002042589052">1</container>
+                  <container type="Folder">4 - 5</container>
+                  <unittitle>American Committee for the History of the Second World War</unittitle>
+                  <unitdate>1967-1973</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref15" level="file">
+               <did>
+                  <container type="Box" label="39002042589052">1</container>
+                  <container type="Folder">6</container>
+                  <unittitle>American Historical Association</unittitle>
+                  <unitdate>1968-1984</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref16" level="file">
+               <did>
+                  <container type="Box" label="39002042589052">1</container>
+                  <container type="Folder">7</container>
+                  <unittitle>American Professors for Peace in the Middle East</unittitle>
+                  <unitdate>1977-1979</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref17" level="file">
+               <did>
+                  <container type="Box" label="39002042589052">1</container>
+                  <container type="Folder">8</container>
+                  <unittitle>American Psychiatric Association</unittitle>
+                  <unitdate>1968-1969</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref18" level="file">
+               <did>
+                  <container type="Box" label="39002042589052">1</container>
+                  <container type="Folder">9</container>
+                  <unittitle>Americans for Democratic Action</unittitle>
+                  <unitdate>1965</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref19" level="file">
+               <did>
+                  <container type="Box" label="39002042589052">1</container>
+                  <container type="Folder">10</container>
+                  <unittitle>American Scholar</unittitle>
+                  <unitdate>1961-1967</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref20" level="file">
+               <did>
+                  <container type="Box" label="39002042589052">1</container>
+                  <container type="Folder">11</container>
+                  <unittitle>Anshen, Ruth [re: conflict with Department of State]</unittitle>
+                  <unitdate>1962-1966</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref21" level="file">
+               <did>
+                  <container type="Box" label="39002042589052">1</container>
+                  <container type="Folder">12</container>
+                  <unittitle>Atheneum Publishers</unittitle>
+                  <unitdate>1959-1973</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref22" level="file">
+               <did>
+                  <container type="Box" label="39002042589052">1</container>
+                  <container type="Folder">13 - 14</container>
+                  <unittitle>B (General)</unittitle>
+                  <unitdate>1958-1987</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref23" level="file">
+               <did>
+                  <container type="Box" label="39002042589052">1</container>
+                  <container type="Folder">15</container>
+                  <unittitle>Berlin, Isaiah</unittitle>
+                  <unitdate>1961, 1965</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref24" level="file">
+               <did>
+                  <container type="Box" label="39002042589052">1</container>
+                  <container type="Folder">16</container>
+                  <unittitle>Bolaffio, Robert E.</unittitle>
+                  <unitdate>1958-1962</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref25" level="file">
+               <did>
+                  <unittitle>Boyers, Robert</unittitle>
+               </did>
+               <note>
+                  <p>See: 
+                            <ref target="ref191" ns2:type="simple" ns2:actuate="onRequest" ns2:show="replace">Series I, folder 163</ref>
+                  </p>
+               </note>
+            </c02>
+            <c02 id="ref27" level="file">
+               <did>
+                  <container type="Box" label="39002042589052">1</container>
+                  <container type="Folder">17</container>
+                  <unittitle>Breines, Paul</unittitle>
+                  <unitdate>1970, 1978-1979</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref28" level="file">
+               <did>
+                  <container type="Box" label="39002042589052">1</container>
+                  <container type="Folder">18</container>
+                  <unittitle>Brinton, Crane</unittitle>
+                  <unitdate>1959, 1964, n.d.</unitdate>
+               </did>
+               <note>
+                  <p>See also: 
+                            <ref target="ref301" ns2:type="simple" ns2:actuate="onRequest" ns2:show="replace">Series III, folder 40</ref>
+                  </p>
+               </note>
+            </c02>
+            <c02 id="ref30" level="file">
+               <did>
+                  <container type="Box" label="39002042589052">1</container>
+                  <container type="Folder">19</container>
+                  <unittitle>Bundy, McGeorge</unittitle>
+                  <unitdate>1957-1959</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref31" level="file">
+               <did>
+                  <container type="Box" label="39002042589052">1</container>
+                  <container type="Folder">20</container>
+                  <unittitle>Burdett, Winston</unittitle>
+                  <unitdate>1958-1987</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref32" level="file">
+               <did>
+                  <container type="Box" label="39002042589052">1</container>
+                  <container type="Folder">21 - 23</container>
+                  <unittitle>C (General)</unittitle>
+                  <unitdate>1958-1985</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref33" level="file">
+               <did>
+                  <unittitle>Canfield, Cass</unittitle>
+               </did>
+               <note>
+                  <p>See: 
+                            <ref target="ref88" ns2:type="simple" ns2:actuate="onRequest" ns2:show="replace">Series I, folder 64-65</ref>
+                  </p>
+               </note>
+            </c02>
+            <c02 id="ref35" level="file">
+               <did>
+                  <container type="Box" label="39002042589060">2</container>
+                  <container type="Folder">24 - 29</container>
+                  <unittitle>de Carbonnel, Lise</unittitle>
+                  <unitdate>1944-1989</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref36" level="file">
+               <did>
+                  <container type="Box" label="39002042589060">2</container>
+                  <container type="Folder">30</container>
+                  <unittitle>Casalini, Mario</unittitle>
+                  <unitdate>1958-1976</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref37" level="file">
+               <did>
+                  <container type="Box" label="39002042589060">2</container>
+                  <container type="Folder">31</container>
+                  <unittitle>Center for the Study of Democratic Institutions</unittitle>
+                  <unitdate>1966-1969</unitdate>
+               </did>
+               <note>
+                  <p>See also: 
+                            <ref target="ref67" ns2:type="simple" ns2:actuate="onRequest" ns2:show="replace">Series I, folder 46</ref>
+                  </p>
+               </note>
+            </c02>
+            <c02 id="ref39" level="file">
+               <did>
+                  <unittitle>Chevreaux, Lise</unittitle>
+               </did>
+               <note>
+                  <p>See: 
+                            <ref target="ref35" ns2:type="simple" ns2:actuate="onRequest" ns2:show="replace">Series I, folder 24-29</ref>
+                  </p>
+               </note>
+            </c02>
+            <c02 id="ref41" level="file">
+               <did>
+                  <container type="Box" label="39002042589060">2</container>
+                  <container type="Folder">32</container>
+                  <unittitle>Clifford, James</unittitle>
+                  <unitdate>1971-1983</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref42" level="file">
+               <did>
+                  <unittitle>Commentary</unittitle>
+               </did>
+               <note>
+                  <p>See: 
+                            <ref target="ref82" ns2:type="simple" ns2:actuate="onRequest" ns2:show="replace">Series I, folder 55</ref>; 
+                            <ref target="ref178" ns2:type="simple" ns2:actuate="onRequest" ns2:show="replace">Series I, folder 142</ref>
+                  </p>
+               </note>
+            </c02>
+            <c02 id="ref44" level="file">
+               <did>
+                  <unittitle>Conference on the Stature of Soviet Jews</unittitle>
+               </did>
+               <note>
+                  <p>See: 
+                            <ref target="ref55" ns2:type="simple" ns2:actuate="onRequest" ns2:show="replace">Series I, folder 36</ref>
+                  </p>
+               </note>
+            </c02>
+            <c02 id="ref46" level="file">
+               <did>
+                  <unittitle>Congressional Liberal Group</unittitle>
+               </did>
+               <note>
+                  <p>See: 
+                            <ref target="ref125" ns2:type="simple" ns2:actuate="onRequest" ns2:show="replace">Series I, folder 92</ref>
+                  </p>
+               </note>
+            </c02>
+            <c02 id="ref48" level="file">
+               <did>
+                  <unittitle>Conn, Stetson</unittitle>
+               </did>
+               <note>
+                  <p>See: 
+                            <ref target="ref14" ns2:type="simple" ns2:actuate="onRequest" ns2:show="replace">Series I, folder 4-5</ref>
+                  </p>
+               </note>
+            </c02>
+            <c02 id="ref50" level="file">
+               <did>
+                  <unittitle>Cousins, Norman</unittitle>
+               </did>
+               <note>
+                  <p>See: 
+                            <ref target="ref160" ns2:type="simple" ns2:actuate="onRequest" ns2:show="replace">Series I, folder 123 - 131</ref>
+                  </p>
+               </note>
+            </c02>
+            <c02 id="ref52" level="file">
+               <did>
+                  <container type="Box" label="39002042589060">2</container>
+                  <container type="Folder">33  34</container>
+                  <unittitle>Cowan, Fairman</unittitle>
+                  <unitdate>1961-1987, n.d.</unitdate>
+               </did>
+               <note>
+                  <p>See also: 
+                            <ref target="ref381" ns2:type="simple" ns2:actuate="onRequest" ns2:show="replace">Series IV, folder 65</ref>
+                  </p>
+               </note>
+            </c02>
+            <c02 id="ref54" level="file">
+               <did>
+                  <container type="Box" label="39002042589060">2</container>
+                  <container type="Folder">35</container>
+                  <unittitle>D (General)</unittitle>
+                  <unitdate>1957-1983</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref55" level="file">
+               <did>
+                  <container type="Box" label="39002042589060">2</container>
+                  <container type="Folder">36</container>
+                  <unittitle>Decter, Moshe</unittitle>
+                  <unitdate>1965-1970</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref56" level="file">
+               <did>
+                  <container type="Box" label="39002042589060">2</container>
+                  <container type="Folder">37</container>
+                  <unittitle>Dedijer, Vladimir</unittitle>
+                  <unitdate>1962-1974, 1983</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref57" level="file">
+               <did>
+                  <container type="Box" label="39002042589060">2</container>
+                  <container type="Folder">38</container>
+                  <unittitle>Dickinson, Edwin</unittitle>
+                  <unitdate>1958, 1964-1972, 1979-1981</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref58" level="file">
+               <did>
+                  <container type="Box" label="39002042589060">2</container>
+                  <container type="Folder">39</container>
+                  <unittitle>Ditlev-Simonsen, Per</unittitle>
+                  <unitdate>1959-1960</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref59" level="file">
+               <did>
+                  <unittitle>Donald, Aida</unittitle>
+               </did>
+               <note>
+                  <p>See: 
+                            <ref target="ref102" ns2:type="simple" ns2:actuate="onRequest" ns2:show="replace">Series I, folder 75</ref>
+                  </p>
+               </note>
+            </c02>
+            <c02 id="ref61" level="file">
+               <did>
+                  <container type="Box" label="39002042589060">2</container>
+                  <container type="Folder">40</container>
+                  <unittitle>Dunlop, John</unittitle>
+                  <unitdate>1970-1973</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref62" level="file">
+               <did>
+                  <container type="Box" label="39002042589060">2</container>
+                  <container type="Folder">41</container>
+                  <unittitle>E (General)</unittitle>
+                  <unitdate>1957-1988</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref63" level="file">
+               <did>
+                  <container type="Box" label="39002042589060">2</container>
+                  <container type="Folder">42</container>
+                  <unittitle>Edwards, Robert L.</unittitle>
+                  <unitdate>1964-1989</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref64" level="file">
+               <did>
+                  <container type="Box" label="39002042589060">2</container>
+                  <container type="Folder">43</container>
+                  <unittitle>Erikson, Erik H.</unittitle>
+                  <unitdate>no date</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref65" level="file">
+               <did>
+                  <container type="Box" label="39002042589060">2</container>
+                  <container type="Folder">44</container>
+                  <unittitle>F (General)</unittitle>
+                  <unitdate>1958-1981</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref66" level="file">
+               <did>
+                  <container type="Box" label="39002042589060">2</container>
+                  <container type="Folder">45</container>
+                  <unittitle>Fairbank, John King</unittitle>
+                  <unitdate>1967-1973</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref67" level="file">
+               <did>
+                  <container type="Box" label="39002042589060">2</container>
+                  <container type="Folder">46</container>
+                  <unittitle>Ferry, W. H. ["Ping"]</unittitle>
+                  <unitdate>1962-1966</unitdate>
+               </did>
+               <note>
+                  <p>See also: 
+                            <ref target="ref37" ns2:type="simple" ns2:actuate="onRequest" ns2:show="replace">Series I, folder 31</ref>
+                  </p>
+               </note>
+            </c02>
+            <c02 id="ref69" level="file">
+               <did>
+                  <container type="Box" label="39002042589060">2</container>
+                  <container type="Folder">47</container>
+                  <unittitle>Fleming, Donald</unittitle>
+                  <unitdate>1965-1967</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref70" level="file">
+               <did>
+                  <container type="Box" label="39002042589060">2</container>
+                  <container type="Folder">48</container>
+                  <unittitle>Ford Hall Forum</unittitle>
+                  <unitdate>1962-1966</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref71" level="file">
+               <did>
+                  <container type="Box" label="39002042589060">2</container>
+                  <container type="Folder">49</container>
+                  <unittitle>Fromm, Erich</unittitle>
+                  <unitdate>1959-1968</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref72" level="file">
+               <did>
+                  <unittitle>Funk, Arthur</unittitle>
+               </did>
+               <note>
+                  <p>See: 
+                            <ref target="ref14" ns2:type="simple" ns2:actuate="onRequest" ns2:show="replace">Series I, folder 4-5</ref>
+                  </p>
+               </note>
+            </c02>
+            <c02 id="ref74" level="file">
+               <did>
+                  <container type="Box" label="39002042589078">3</container>
+                  <container type="Folder">50 - 51</container>
+                  <unittitle>G (General)</unittitle>
+                  <unitdate>1958-1985</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref75" level="file">
+               <did>
+                  <container type="Box" label="39002042589078">3</container>
+                  <container type="Folder">52</container>
+                  <unittitle>Gay, Peter</unittitle>
+                  <unitdate>1958, 1964-1965, 1977-1980</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref76" level="file">
+               <did>
+                  <container type="Box" label="39002042589078">3</container>
+                  <container type="Folder">53</container>
+                  <unittitle>Geertz, Clifford</unittitle>
+                  <unitdate>1962</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref77" level="file">
+               <did>
+                  <container type="Box" label="39002042589078">3</container>
+                  <container type="Folder">54</container>
+                  <unittitle>Gilbert, Felix</unittitle>
+                  <unitdate>1960-1985</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref78" level="file">
+               <did>
+                  <unittitle>Glazer, Nathan</unittitle>
+               </did>
+               <note>
+                  <p>See: 
+                            <ref target="ref160" ns2:type="simple" ns2:actuate="onRequest" ns2:show="replace">Series I, folder 123-131</ref>
+                  </p>
+               </note>
+            </c02>
+            <c02 id="ref80" level="file">
+               <did>
+                  <unittitle>Gottleib, Sanford</unittitle>
+               </did>
+               <note>
+                  <p>See: 
+                            <ref target="ref159" ns2:type="simple" ns2:actuate="onRequest" ns2:show="replace">Series I, folder 123-131 </ref>
+                  </p>
+               </note>
+            </c02>
+            <c02 id="ref82" level="file">
+               <did>
+                  <container type="Box" label="39002042589078">3</container>
+                  <container type="Folder">55</container>
+                  <unittitle>Greenberg, Martin</unittitle>
+                  <unitdate>1957-1968</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref83" level="file">
+               <did>
+                  <container type="Box" label="39002042589078">3</container>
+                  <container type="Folder">56</container>
+                  <unittitle>Grossman, Jerome</unittitle>
+                  <unitdate>1964-1977, 1986</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref84" level="file">
+               <did>
+                  <container type="Box" label="39002042589078">3</container>
+                  <container type="Folder">57</container>
+                  <unittitle>Guérard, Albert Sr.</unittitle>
+                  <unitdate>1956-1959</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref85" level="file">
+               <did>
+                  <container type="Box" label="39002042589078">3</container>
+                  <container type="Folder">58</container>
+                  <unittitle>Guérard, Albert Jr. and Maclin</unittitle>
+                  <unitdate>1959-1968</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref86" level="file">
+               <did>
+                  <container type="Box" label="39002042589078">3</container>
+                  <container type="Folder">59 - 62</container>
+                  <unittitle>H (General)</unittitle>
+                  <unitdate>1958-1986</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref87" level="file">
+               <did>
+                  <container type="Box" label="39002042589078">3</container>
+                  <container type="Folder">63</container>
+                  <unittitle>Hanslowe, Kurt L.</unittitle>
+                  <unitdate>1957-1959</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref88" level="file">
+               <did>
+                  <container type="Box" label="39002042589078">3</container>
+                  <container type="Folder">64 - 65</container>
+                  <unittitle>Harper and Row Publishers</unittitle>
+                  <unitdate>1965-1980</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref89" level="file">
+               <did>
+                  <unittitle>Harper's Magazine</unittitle>
+               </did>
+               <note>
+                  <p>See: 
+                            <ref target="ref201" ns2:type="simple" ns2:actuate="onRequest" ns2:show="replace">Series I, folder 171</ref>
+                  </p>
+               </note>
+            </c02>
+            <c02 id="ref91" level="file">
+               <did>
+                  <unittitle>Harvard University</unittitle>
+               </did>
+               <c03 id="ref92" level="file">
+                  <did>
+                     <container type="Box" label="39002042589078">3</container>
+                     <container type="Folder">66</container>
+                     <unittitle>General</unittitle>
+                     <unitdate>1965-1975</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref93" level="file">
+                  <did>
+                     <container type="Box" label="39002042589078">3</container>
+                     <container type="Folder">67</container>
+                     <unittitle>African American Studies Program</unittitle>
+                     <unitdate>1968-1973</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref94" level="file">
+                  <did>
+                     <container type="Box" label="39002042589078">3</container>
+                     <container type="Folder">68</container>
+                     <unittitle>Center for International Affairs</unittitle>
+                     <unitdate normal="1971/1973" type="inclusive">1971-1973</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref95" level="file">
+                  <did>
+                     <unittitle>Department of History</unittitle>
+                  </did>
+                  <c04 id="ref96" level="file">
+                     <did>
+                        <container type="Box" label="39002042589078">3</container>
+                        <container type="Folder">69</container>
+                        <unittitle>General</unittitle>
+                        <unitdate>1963-1974, n.d.</unitdate>
+                     </did>
+                  </c04>
+                  <c04 id="ref97" level="file">
+                     <did>
+                        <container type="Box" label="39002042589078">3</container>
+                        <container type="Folder">70</container>
+                        <unittitle>Job offer</unittitle>
+                        <unitdate>1956</unitdate>
+                     </did>
+                  </c04>
+                  <c04 id="ref98" level="file">
+                     <did>
+                        <container type="Box" label="39002042589078">3</container>
+                        <container type="Folder">71</container>
+                        <unittitle>Overseer's Committee to Visit the Department of History</unittitle>
+                        <unitdate>1970-1971</unitdate>
+                     </did>
+                  </c04>
+               </c03>
+               <c03 id="ref99" level="file">
+                  <did>
+                     <container type="Box" label="39002042589078">3</container>
+                     <container type="Folder">72</container>
+                     <unittitle>Faculty Council</unittitle>
+                     <unitdate>1970-1971</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref100" level="file">
+                  <did>
+                     <container type="Box" label="39002042589078">3</container>
+                     <container type="Folder">73</container>
+                     <unittitle>Kendall Foundation</unittitle>
+                     <unitdate>1961</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref101" level="file">
+                  <did>
+                     <container type="Box" label="39002042589078">3</container>
+                     <container type="Folder">74</container>
+                     <unittitle>Undergraduate curriculum</unittitle>
+                     <unitdate>1970-1971</unitdate>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="ref102" level="file">
+               <did>
+                  <container type="Box" label="39002042589078">3</container>
+                  <container type="Folder">75</container>
+                  <unittitle>Harvard University Press</unittitle>
+                  <unitdate>1973, 1979-1985</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref103" level="file">
+               <did>
+                  <unittitle>Hayden, Hiram</unittitle>
+               </did>
+               <note>
+                  <p>See: 
+                            <ref target="ref19" ns2:type="simple" ns2:actuate="onRequest" ns2:show="replace">Series I, folder 10</ref>; 
+                            <ref target="ref21" ns2:type="simple" ns2:actuate="onRequest" ns2:show="replace">Series I, folder 12</ref>
+                  </p>
+               </note>
+            </c02>
+            <c02 id="ref105" level="file">
+               <did>
+                  <container type="Box" label="39002042589086">4</container>
+                  <container type="Folder">76</container>
+                  <unittitle>Higgonet, Patrick</unittitle>
+                  <unitdate>1958-1973</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref106" level="file">
+               <did>
+                  <container type="Box" label="39002042589086">4</container>
+                  <container type="Folder">77</container>
+                  <unittitle>Hoffman, Stanley</unittitle>
+                  <unitdate>1961-1966</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref107" level="file">
+               <did>
+                  <container type="Box" label="39002042589086">4</container>
+                  <container type="Folder">78</container>
+                  <unittitle>Hofstadter Richard and Bede</unittitle>
+                  <unitdate>1963-1972</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref108" level="file">
+               <did>
+                  <container type="Box" label="39002042589086">4</container>
+                  <container type="Folder">79</container>
+                  <unittitle>Howard, Marghanita</unittitle>
+                  <unitdate normal="1960/1964" type="inclusive">1960-1964</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref109" level="file">
+               <did>
+                  <container type="Box" label="39002042589086">4</container>
+                  <container type="Folder">80</container>
+                  <unittitle>Howe, Irving</unittitle>
+                  <unitdate>1961-1970</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref110" level="file">
+               <did>
+                  <container type="Box" label="39002042589086">4</container>
+                  <container type="Folder">81</container>
+                  <unittitle>I (General)</unittitle>
+                  <unitdate>1960-1981</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref111" level="file">
+               <did>
+                  <unittitle>International Committee on the History of the Second World War</unittitle>
+               </did>
+               <note>
+                  <p>See: 
+                            <ref target="ref14" ns2:type="simple" ns2:actuate="onRequest" ns2:show="replace">Series I, folder 4-5</ref>
+                  </p>
+               </note>
+            </c02>
+            <c02 id="ref113" level="file">
+               <did>
+                  <container type="Box" label="39002042589086">4</container>
+                  <container type="Folder">82</container>
+                  <unittitle>International Council of the Future of the University</unittitle>
+                  <unitdate>1970-1975</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref114" level="file">
+               <did>
+                  <container type="Box" label="39002042589086">4</container>
+                  <container type="Folder">83</container>
+                  <unittitle>Izenberg, Gerald</unittitle>
+                  <unitdate>1965-1966, 1975-1977, 1984</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref115" level="file">
+               <did>
+                  <container type="Box" label="39002042589086">4</container>
+                  <container type="Folder">84</container>
+                  <unittitle>J (General)</unittitle>
+                  <unitdate>1959-1982</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref116" level="file">
+               <did>
+                  <unittitle>Jack, Homer</unittitle>
+               </did>
+               <note>
+                  <p>See: 
+                            <ref target="ref160" ns2:type="simple" ns2:actuate="onRequest" ns2:show="replace">Series I, folder 123-131</ref>
+                  </p>
+               </note>
+            </c02>
+            <c02 id="ref118" level="file">
+               <did>
+                  <container type="Box" label="39002042589086">4</container>
+                  <container type="Folder">85</container>
+                  <unittitle>Jay, Martin</unittitle>
+                  <unitdate>1968-1983</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref119" level="file">
+               <did>
+                  <container type="Box" label="39002042589086">4</container>
+                  <container type="Folder">86</container>
+                  <unittitle>Jemolo, Arturo Carlo</unittitle>
+                  <unitdate>1963, 1967-1981</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref120" level="file">
+               <did>
+                  <container type="Box" label="39002042589086">4</container>
+                  <container type="Folder">87</container>
+                  <unittitle>Joll, James</unittitle>
+                  <unitdate>1965-1968, 1979-1988</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref121" level="file">
+               <did>
+                  <container type="Box" label="39002042589086">4</container>
+                  <container type="Folder">88</container>
+                  <unittitle>K (General)</unittitle>
+                  <unitdate>1958-1986</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref122" level="file">
+               <did>
+                  <container type="Box" label="39002042589086">4</container>
+                  <container type="Folder">89</container>
+                  <unittitle>Kapstein, Ethan</unittitle>
+                  <unitdate>1970-1981</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref123" level="file">
+               <did>
+                  <container type="Box" label="39002042589086">4</container>
+                  <container type="Folder">90</container>
+                  <unittitle>Kapstein, John J.</unittitle>
+                  <unitdate>1961-1986</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref124" level="file">
+               <did>
+                  <container type="Box" label="39002042589086">4</container>
+                  <container type="Folder">91</container>
+                  <unittitle>Kapstein, Matthew</unittitle>
+                  <unitdate>1966-1968</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref125" level="file">
+               <did>
+                  <container type="Box" label="39002042589086">4</container>
+                  <container type="Folder">92</container>
+                  <unittitle>Katzenmaier, Robert</unittitle>
+                  <unitdate>1959-1960</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref126" level="file">
+               <did>
+                  <container type="Box" label="39002042589086">4</container>
+                  <container type="Folder">93</container>
+                  <unittitle>Kent, Sherman</unittitle>
+                  <unitdate>1968-1976</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref127" level="file">
+               <did>
+                  <unittitle>Keys, Donald</unittitle>
+               </did>
+               <note>
+                  <p>See: 
+                            <ref target="ref160" ns2:type="simple" ns2:actuate="onRequest" ns2:show="replace">Series I, folder 123-131</ref>
+                  </p>
+               </note>
+            </c02>
+            <c02 id="ref129" level="file">
+               <did>
+                  <container type="Box" label="39002042589086">4</container>
+                  <container type="Folder">94</container>
+                  <unittitle>Alfred A. Knopf, Inc.</unittitle>
+                  <unitdate>1957-1961, 1973-1977, 1985</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref130" level="file">
+               <did>
+                  <container type="Box" label="39002042589086">4</container>
+                  <container type="Folder">95</container>
+                  <unittitle>Kreiger, Leonard</unittitle>
+                  <unitdate>1960-1976</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref131" level="file">
+               <did>
+                  <container type="Box" label="39002042589086">4</container>
+                  <container type="Folder">96</container>
+                  <unittitle>L (General)</unittitle>
+                  <unitdate>1958-1989</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref132" level="file">
+               <did>
+                  <container type="Box" label="39002042589086">4</container>
+                  <container type="Folder">97</container>
+                  <unittitle>Landes, David</unittitle>
+                  <unitdate>1964-1974</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref133" level="file">
+               <did>
+                  <container type="Box" label="39002042589086">4</container>
+                  <container type="Folder">98</container>
+                  <unittitle>Lawler, Justus George</unittitle>
+                  <unitdate>1963-1966</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref134" level="file">
+               <did>
+                  <container type="Box" label="39002042589086">4</container>
+                  <container type="Folder">99</container>
+                  <unittitle>Léger, Bernard</unittitle>
+                  <unitdate>1947, 1958-1977</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref135" level="file">
+               <did>
+                  <container type="Box" label="39002042589086">4</container>
+                  <container type="Folder">100</container>
+                  <unittitle>Lichtheim, George</unittitle>
+                  <unitdate>1959-1965</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref136" level="file">
+               <did>
+                  <container type="Box" label="39002042589086">4</container>
+                  <container type="Folder">101</container>
+                  <unittitle>Lifton, Robert J.</unittitle>
+                  <unitdate>1965-1966</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref137" level="file">
+               <did>
+                  <container type="Box" label="39002042589086">4</container>
+                  <container type="Folder">102</container>
+                  <unittitle>Loewenstein, Karl</unittitle>
+                  <unitdate>1965-1971</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref138" level="file">
+               <did>
+                  <container type="Box" label="39002042589086">4</container>
+                  <container type="Folder">103</container>
+                  <unittitle>Luft, David</unittitle>
+                  <unitdate>1972-1978</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref139" level="file">
+               <did>
+                  <container type="Box" label="39002042589086">4</container>
+                  <container type="Folder">104 - 106</container>
+                  <unittitle>M (General)</unittitle>
+                  <unitdate>1958-1985</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref140" level="file">
+               <did>
+                  <container type="Box" label="39002042589094">5</container>
+                  <container type="Folder">107</container>
+                  <unittitle>Maier, Charles S.</unittitle>
+                  <unitdate>1966, 1971, 1975</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref141" level="file">
+               <did>
+                  <container type="Box" label="39002042589094">5</container>
+                  <container type="Folder">108</container>
+                  <unittitle>Mannucci, Cesare and Loretta</unittitle>
+                  <unitdate>1961-1983</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref142" level="file">
+               <did>
+                  <container type="Box" label="39002042589094">5</container>
+                  <container type="Folder">109</container>
+                  <unittitle>Marcuse, Herbert and Inge</unittitle>
+                  <unitdate>1959-1979</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref143" level="file">
+               <did>
+                  <unittitle>Massachusetts Political Action for Peace</unittitle>
+               </did>
+               <note>
+                  <p>See: 
+                            <ref target="ref173" ns2:type="simple" ns2:actuate="onRequest" ns2:show="replace">Series I, folder 139 </ref>
+                  </p>
+               </note>
+            </c02>
+            <c02 id="ref145" level="file">
+               <did>
+                  <container type="Box" label="39002042589094">5</container>
+                  <container type="Folder">110</container>
+                  <unittitle>McCarthy, Eugene</unittitle>
+                  <unitdate>1965-1968</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref146" level="file">
+               <did>
+                  <container type="Box" label="39002042589094">5</container>
+                  <container type="Folder">111</container>
+                  <unittitle>Meisner, Maurice</unittitle>
+                  <unitdate>1970</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref147" level="file">
+               <did>
+                  <container type="Box" label="39002042589094">5</container>
+                  <container type="Folder">112 - 113</container>
+                  <unittitle>Meyerhoff, Hans</unittitle>
+                  <unitdate>1947-1965</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref148" level="file">
+               <did>
+                  <container type="Box" label="39002042589094">5</container>
+                  <container type="Folder">114</container>
+                  <unittitle>Michel, Henri</unittitle>
+                  <unitdate>1961-1966</unitdate>
+               </did>
+               <note>
+                  <p>See also: 
+                            <ref target="ref14" ns2:type="simple" ns2:actuate="onRequest" ns2:show="replace">Series I, folder 4-5</ref>
+                  </p>
+               </note>
+            </c02>
+            <c02 id="ref150" level="file">
+               <did>
+                  <container type="Box" label="39002042589094">5</container>
+                  <container type="Folder">115</container>
+                  <unittitle>Mills, C. Wright</unittitle>
+                  <unitdate>1958-1959</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref151" level="file">
+               <did>
+                  <container type="Box" label="39002042589094">5</container>
+                  <container type="Folder">116</container>
+                  <unittitle>Mitchell, Allan</unittitle>
+                  <unitdate>1957-1980</unitdate>
+               </did>
+               <note>
+                  <p>See also: 
+                            <ref target="ref223" ns2:type="simple" ns2:actuate="onRequest" ns2:show="replace">Series I, folder 183</ref>
+                  </p>
+               </note>
+            </c02>
+            <c02 id="ref153" level="file">
+               <did>
+                  <container type="Box" label="39002042589094">5</container>
+                  <container type="Folder">117</container>
+                  <unittitle>Momigliano, Arnaldo D.</unittitle>
+                  <unitdate>1968-1971, 1981-1983</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref154" level="file">
+               <did>
+                  <container type="Box" label="39002042589094">5</container>
+                  <container type="Folder">118</container>
+                  <unittitle>Moore, Barrington</unittitle>
+                  <unitdate>1961-1965</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref155" level="file">
+               <did>
+                  <container type="Box" label="39002042589094">5</container>
+                  <container type="Folder">119</container>
+                  <unittitle>Moynihan, Daniel Patrick</unittitle>
+                  <unitdate>1989</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref156" level="file">
+               <did>
+                  <container type="Box" label="39002042589094">5</container>
+                  <container type="Folder">120</container>
+                  <unittitle>Mumford, Lewis</unittitle>
+                  <unitdate>1952, 1961-1965</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref157" level="file">
+               <did>
+                  <container type="Box" label="39002042589094">5</container>
+                  <container type="Folder">121</container>
+                  <unittitle>Muste, A. J.</unittitle>
+                  <unitdate>1965-1966, 1978</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref158" level="file">
+               <did>
+                  <container type="Box" label="39002042589094">5</container>
+                  <container type="Folder">122</container>
+                  <unittitle>N (General)</unittitle>
+                  <unitdate>1959-1983</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref159" level="file">
+               <did>
+                  <unittitle>National Committee for a Sane Nuclear Policy</unittitle>
+               </did>
+               <c03 id="ref160" level="file">
+                  <did>
+                     <container type="Box" label="39002042589094">5</container>
+                     <container type="Folder">123 - 131</container>
+                     <unittitle>General</unittitle>
+                     <unitdate>1960-1973, 1982</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref161" level="file">
+                  <did>
+                     <container type="Box" label="39002042589094">5</container>
+                     <container type="Folder">132</container>
+                     <unittitle>Publicity [flyers, press releases, statements, newsletters]</unittitle>
+                     <unitdate>1968-1972</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref162" level="file">
+                  <did>
+                     <container type="Box" label="39002042589094">5</container>
+                     <container type="Folder">133</container>
+                     <unittitle>Regional organizations</unittitle>
+                     <unitdate>1965-1967</unitdate>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="ref163" level="file">
+               <did>
+                  <unittitle>Neuhaus, Richard John</unittitle>
+               </did>
+               <note>
+                  <p>See: 
+                            <ref target="ref160" ns2:type="simple" ns2:actuate="onRequest" ns2:show="replace">Series I, folder 123-131</ref>
+                  </p>
+               </note>
+            </c02>
+            <c02 id="ref165" level="file">
+               <did>
+                  <unittitle>New York Review of Books</unittitle>
+               </did>
+               <note>
+                  <p>See: 
+                            <ref target="ref201" ns2:type="simple" ns2:actuate="onRequest" ns2:show="replace">Series I, folder 171</ref>
+                  </p>
+               </note>
+            </c02>
+            <c02 id="ref167" level="file">
+               <did>
+                  <container type="Box" label="39002042589094">5</container>
+                  <container type="Folder">134</container>
+                  <unittitle>O (General)</unittitle>
+                  <unitdate>1957-1984</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref168" level="file">
+               <did>
+                  <container type="Box" label="39002042589102">6</container>
+                  <container type="Folder">135 - 136</container>
+                  <unittitle>P (General)</unittitle>
+                  <unitdate>1958-1982</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref169" level="file">
+               <did>
+                  <unittitle>Packard, Lenore</unittitle>
+               </did>
+               <note>
+                  <p>See: 
+                            <ref target="ref160" ns2:type="simple" ns2:actuate="onRequest" ns2:show="replace">Series I, folder 123-131</ref>
+                  </p>
+               </note>
+            </c02>
+            <c02 id="ref171" level="file">
+               <did>
+                  <container type="Box" label="39002042589102">6</container>
+                  <container type="Folder">137</container>
+                  <unittitle>Padberg, John</unittitle>
+                  <unitdate>1962-1965, 1975, 1986</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref172" level="file">
+               <did>
+                  <container type="Box" label="39002042589102">6</container>
+                  <container type="Folder">138</container>
+                  <unittitle>Partisan Review</unittitle>
+                  <unitdate>1960-1966</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref173" level="file">
+               <did>
+                  <container type="Box" label="39002042589102">6</container>
+                  <container type="Folder">139</container>
+                  <unittitle>PAX [Massachusetts Political Action for Peace]</unittitle>
+                  <unitdate>1963-1970, 1982</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref174" level="file">
+               <did>
+                  <container type="Box" label="39002042589102">6</container>
+                  <container type="Folder">140</container>
+                  <unittitle>Paxton, Robert</unittitle>
+                  <unitdate>1972-1973, 1981</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref175" level="file">
+               <did>
+                  <container type="Box" label="39002042589102">6</container>
+                  <container type="Folder">141</container>
+                  <unittitle>Peretz, Martin</unittitle>
+                  <unitdate>1964-1971, 1977, 1985</unitdate>
+               </did>
+               <note>
+                  <p>See also: 
+                            <ref target="ref160" ns2:type="simple" ns2:actuate="onRequest" ns2:show="replace">Series I, folder 123-131</ref>
+                  </p>
+               </note>
+            </c02>
+            <c02 id="ref177" level="file">
+               <did>
+                  <container type="Box" label="39002042589102">6</container>
+                  <container type="Folder">142</container>
+                  <unittitle>Podhoretz, Norman</unittitle>
+                  <unitdate>1960-1976</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref178" level="file">
+               <did>
+                  <container type="Box" label="39002042589102">6</container>
+                  <container type="Folder">143</container>
+                  <unittitle>Polin, Raymond</unittitle>
+                  <unitdate>1965</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref179" level="file">
+               <did>
+                  <container type="Box" label="39002042589102">6</container>
+                  <container type="Folder">144 - 149</container>
+                  <unittitle>Prentice-Hall, Inc.</unittitle>
+                  <unitdate>1957-1985</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref180" level="file">
+               <did>
+                  <container type="Box" label="39002042589102">6</container>
+                  <container type="Folder">150</container>
+                  <unittitle>Psychohistory</unittitle>
+                  <unitdate>1966-1971</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref181" level="file">
+               <did>
+                  <container type="Box" label="39002042589102">6</container>
+                  <container type="Folder">151 - 152</container>
+                  <unittitle>R (General)</unittitle>
+                  <unitdate>1957-1983</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref182" level="file">
+               <did>
+                  <container type="Box" label="39002042589102">6</container>
+                  <container type="Folder">153</container>
+                  <unittitle>Ratté, John</unittitle>
+                  <unitdate>1963-1968</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref183" level="file">
+               <did>
+                  <container type="Box" label="39002042589102">6</container>
+                  <container type="Folder">154</container>
+                  <unittitle>Rhome, John O.</unittitle>
+                  <unitdate>1963-1964</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref184" level="file">
+               <did>
+                  <container type="Box" label="39002042589102">6</container>
+                  <container type="Folder">155</container>
+                  <unittitle>Riasnovsky, Alexander</unittitle>
+                  <unitdate>1958-1967, 1978</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref185" level="file">
+               <did>
+                  <container type="Box" label="39002042589102">6</container>
+                  <container type="Folder">156</container>
+                  <unittitle>Ricci, Rinaldo</unittitle>
+                  <unitdate>1945-1947, 1963, 1972</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref186" level="file">
+               <did>
+                  <container type="Box" label="39002042589102">6</container>
+                  <container type="Folder">157</container>
+                  <unittitle>Riesman, David</unittitle>
+                  <unitdate>1959-1975</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref187" level="file">
+               <did>
+                  <container type="Box" label="39002042589102">6</container>
+                  <container type="Folder">158</container>
+                  <unittitle>Robinson, Paul</unittitle>
+                  <unitdate>1966-1968, 1977, 1986, 1989</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref188" level="file">
+               <did>
+                  <unittitle>Runyon, Marie</unittitle>
+               </did>
+               <note>
+                  <p>See: 
+                            <ref target="ref160" ns2:type="simple" ns2:actuate="onRequest" ns2:show="replace">Series I, folder 123-131</ref>
+                  </p>
+               </note>
+            </c02>
+            <c02 id="ref190" level="file">
+               <did>
+                  <container type="Box" label="39002042589110">7</container>
+                  <container type="Folder">159 - 162</container>
+                  <unittitle>S (General)</unittitle>
+                  <unitdate>1957-1986</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref191" level="file">
+               <did>
+                  <container type="Box" label="39002042589110">7</container>
+                  <container type="Folder">163</container>
+                  <unittitle>Salamagundi</unittitle>
+                  <unitdate>1968-1974</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref192" level="file">
+               <did>
+                  <container type="Box" label="39002042589110">7</container>
+                  <container type="Folder">164</container>
+                  <unittitle>Salomone, A. William</unittitle>
+                  <unitdate>1969-1975</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref193" level="file">
+               <did>
+                  <unittitle>SANE</unittitle>
+               </did>
+               <note>
+                  <p>See: 
+                            <ref target="ref160" ns2:type="simple" ns2:actuate="onRequest" ns2:show="replace">Series I, folder 123-131</ref>
+                  </p>
+               </note>
+            </c02>
+            <c02 id="ref195" level="file">
+               <did>
+                  <container type="Box" label="39002042589110">7</container>
+                  <container type="Folder">165</container>
+                  <unittitle>Schenker, Steve</unittitle>
+                  <unitdate>1965, 1975-1978</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref196" level="file">
+               <did>
+                  <container type="Box" label="39002042589110">7</container>
+                  <container type="Folder">166</container>
+                  <unittitle>Schorske, Carl E.</unittitle>
+                  <unitdate>1959-1968, 1975, 1980</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref197" level="file">
+               <did>
+                  <container type="Box" label="39002042589110">7</container>
+                  <container type="Folder">167</container>
+                  <unittitle>Segre-Amar, Sion</unittitle>
+                  <unitdate>1983</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref198" level="file">
+               <did>
+                  <container type="Box" label="39002042589110">7</container>
+                  <container type="Folder">168</container>
+                  <unittitle>Senn, Edouard</unittitle>
+                  <unitdate>1958-1971</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref199" level="file">
+               <did>
+                  <container type="Box" label="39002042589110">7</container>
+                  <container type="Folder">169</container>
+                  <unittitle>Shafer, Boyd</unittitle>
+                  <unitdate>1957-1960</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref200" level="file">
+               <did>
+                  <container type="Box" label="39002042589110">7</container>
+                  <container type="Folder">170</container>
+                  <unittitle>Silone, Ignazio</unittitle>
+                  <unitdate>1963</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref201" level="file">
+               <did>
+                  <container type="Box" label="39002042589110">7</container>
+                  <container type="Folder">171</container>
+                  <unittitle>Silvers, Robert B.</unittitle>
+                  <unitdate>1960-1978</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref202" level="file">
+               <did>
+                  <container type="Box" label="39002042589110">7</container>
+                  <container type="Folder">172</container>
+                  <unittitle>Simons, Thomas</unittitle>
+                  <unitdate>1969-1970</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref203" level="file">
+               <did>
+                  <container type="Box" label="39002042589110">7</container>
+                  <container type="Folder">173</container>
+                  <unittitle>Smith, Denis Mack</unittitle>
+                  <unitdate>1957-1969, 1978</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref204" level="file">
+               <did>
+                  <container type="Box" label="39002042589110">7</container>
+                  <container type="Folder">174</container>
+                  <unittitle>Spini, Giorgio</unittitle>
+                  <unitdate>1960-1967</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref205" level="file">
+               <did>
+                  <container type="Box" label="39002042589110">7</container>
+                  <container type="Folder">175</container>
+                  <unittitle>Spock, Benjamin</unittitle>
+                  <unitdate>1964, 1968</unitdate>
+               </did>
+               <note>
+                  <p>See also: 
+                            <ref target="ref160" ns2:type="simple" ns2:actuate="onRequest" ns2:show="replace">Series I, folder 123-131</ref>
+                  </p>
+               </note>
+            </c02>
+            <c02 id="ref207" level="file">
+               <did>
+                  <container type="Box" label="39002042589110">7</container>
+                  <container type="Folder">176</container>
+                  <unittitle>Stern, Fritz</unittitle>
+                  <unitdate>1967-1979</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref208" level="file">
+               <did>
+                  <unittitle>Students for a Democratic Society</unittitle>
+               </did>
+               <c03 id="ref209" level="file">
+                  <did>
+                     <container type="Box" label="39002042589110">7</container>
+                     <container type="Folder">177</container>
+                     <unittitle>General</unittitle>
+                     <unitdate>1963-1965</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref210" level="file">
+                  <did>
+                     <container type="Box" label="39002042589110">7</container>
+                     <container type="Folder">178</container>
+                     <unittitle>Radical Education Project</unittitle>
+                     <unitdate>1966</unitdate>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="ref211" level="file">
+               <did>
+                  <container type="Box" label="39002042589110">7</container>
+                  <container type="Folder">179</container>
+                  <unittitle>T (General)</unittitle>
+                  <unitdate>1957-1968</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref212" level="file">
+               <did>
+                  <unittitle>Thomas, Edgar</unittitle>
+               </did>
+               <note>
+                  <p>See: 
+                            <ref target="ref179" ns2:type="simple" ns2:actuate="onRequest" ns2:show="replace">Series I, folder 144-149</ref>
+                  </p>
+               </note>
+            </c02>
+            <c02 id="ref214" level="file">
+               <did>
+                  <container type="Box" label="39002042589110">7</container>
+                  <container type="Folder">180</container>
+                  <unittitle>Thomas, Norman</unittitle>
+                  <unitdate>1959-1968</unitdate>
+               </did>
+               <note>
+                  <p>See also: 
+                            <ref target="ref160" ns2:type="simple" ns2:actuate="onRequest" ns2:show="replace">Series I, folder 123-131</ref>
+                  </p>
+               </note>
+            </c02>
+            <c02 id="ref216" level="file">
+               <did>
+                  <unittitle>Tillona, Francesca</unittitle>
+               </did>
+               <note>
+                  <p>See: 
+                            <ref target="ref179" ns2:type="simple" ns2:actuate="onRequest" ns2:show="replace">Series I, folder 144-149</ref>
+                  </p>
+               </note>
+            </c02>
+            <c02 id="ref218" level="file">
+               <did>
+                  <container type="Box" label="39002042589110">7</container>
+                  <container type="Folder">181</container>
+                  <unittitle>Toews, John</unittitle>
+                  <unitdate>1981-1983</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref219" level="file">
+               <did>
+                  <container type="Box" label="39002042589110">7</container>
+                  <container type="Folder">182</container>
+                  <unittitle>U (General)</unittitle>
+                  <unitdate>1957-1967</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref220" level="file">
+               <did>
+                  <unittitle>United States Army</unittitle>
+               </did>
+               <note>
+                  <p>See: 
+                            <ref target="ref381" ns2:type="simple" ns2:actuate="onRequest" ns2:show="replace">Series IV, folder 65</ref>
+                  </p>
+               </note>
+            </c02>
+            <c02 id="ref222" level="file">
+               <did>
+                  <unittitle>University of California San Diego</unittitle>
+               </did>
+               <c03 id="ref223" level="file">
+                  <did>
+                     <container type="Box" label="39002042589110">7</container>
+                     <container type="Folder">183</container>
+                     <unittitle>General</unittitle>
+                     <unitdate>1974-1986, n.d.</unitdate>
+                  </did>
+                  <note>
+                     <p>See also: 
+                                <ref target="ref151" ns2:type="simple" ns2:actuate="onRequest" ns2:show="replace">Series I, folder 116</ref>
+                     </p>
+                  </note>
+               </c03>
+               <c03 id="ref225" level="file">
+                  <did>
+                     <container type="Box" label="39002042589110">7</container>
+                     <container type="Folder">184</container>
+                     <unittitle>"Approaches to European Intellectual History" [symposium in honor of HSH]</unittitle>
+                     <unitdate>1986</unitdate>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="ref226" level="file">
+               <did>
+                  <container type="Box" label="39002042589110">7</container>
+                  <container type="Folder">185</container>
+                  <unittitle>University of Chicago Press</unittitle>
+                  <unitdate>1966-1982</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref227" level="file">
+               <did>
+                  <container type="Box" label="39002042589110">7</container>
+                  <container type="Folder">186</container>
+                  <unittitle>University of Pennsylvania</unittitle>
+                  <unitdate>1965, 1974</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref228" level="file">
+               <did>
+                  <container type="Box" label="39002042589110">7</container>
+                  <container type="Folder">187</container>
+                  <unittitle>University of Virginia [re: Richards Lectures]</unittitle>
+                  <unitdate>1970</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref229" level="file">
+               <did>
+                  <container type="Box" label="39002042589128">8</container>
+                  <container type="Folder">188</container>
+                  <unittitle>V (General)</unittitle>
+                  <unitdate>1957-1967</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref230" level="file">
+               <did>
+                  <container type="Box" label="39002042589128">8</container>
+                  <container type="Folder">189</container>
+                  <unittitle>Valiani, Leo</unittitle>
+                  <unitdate>1961-1962</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref231" level="file">
+               <did>
+                  <container type="Box" label="39002042589128">8</container>
+                  <container type="Folder">190</container>
+                  <unittitle>Venturi, Franco</unittitle>
+                  <unitdate>1961-1987</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref232" level="file">
+               <did>
+                  <container type="Box" label="39002042589128">8</container>
+                  <container type="Folder">191</container>
+                  <unittitle>Giambattista Vico Tricentennial Symposium</unittitle>
+                  <unitdate>1966-1968, 1979</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref233" level="file">
+               <did>
+                  <container type="Box" label="39002042589128">8</container>
+                  <container type="Folder">192 - 194</container>
+                  <unittitle>Vietnamese Conflict</unittitle>
+                  <unitdate>1965-1973</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref234" level="file">
+               <did>
+                  <container type="Box" label="39002042589128">8</container>
+                  <container type="Folder">195</container>
+                  <unittitle>Vivarelli, Roberto</unittitle>
+                  <unitdate>1965-1985</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref235" level="file">
+               <did>
+                  <container type="Box" label="39002042589128">8</container>
+                  <container type="Folder">196 - 197</container>
+                  <unittitle>W (General)</unittitle>
+                  <unitdate>1957-1984</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref236" level="file">
+               <did>
+                  <container type="Box" label="39002042589128">8</container>
+                  <container type="Folder">198</container>
+                  <unittitle>Waskow, Arthur I.</unittitle>
+                  <unitdate>1962-1970</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref237" level="file">
+               <did>
+                  <container type="Box" label="39002042589128">8</container>
+                  <container type="Folder">199</container>
+                  <unittitle>Wehler, Hans Ulrich</unittitle>
+                  <unitdate>1971-1974</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref238" level="file">
+               <did>
+                  <container type="Box" label="39002042589128">8</container>
+                  <container type="Folder">200</container>
+                  <unittitle>Wilkinson, James and Jennifer</unittitle>
+                  <unitdate>1975-1985</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref239" level="file">
+               <did>
+                  <container type="Box" label="39002042589128">8</container>
+                  <container type="Folder">201</container>
+                  <unittitle>Woodward, C. Vann</unittitle>
+                  <unitdate>1961, 1968</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref240" level="file">
+               <did>
+                  <container type="Box" label="39002042589128">8</container>
+                  <container type="Folder">202</container>
+                  <unittitle>Y-Z (General)</unittitle>
+                  <unitdate>1958-1987</unitdate>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="ref242" level="series">
+            <did>
+               <unitid>Series II</unitid>
+               <unittitle>Senate Campaign Files</unittitle>
+               <unitdate>1962 1964</unitdate>
+            </did>
+            <scopecontent>
+               <p>The series documents Hughes' 1962 campaign for a Massachusetts seat in United States Senate as an independent candidate who stressed arms control and peace issues. Correspondence arranged alphabetically within five consecutive chronological periods comprises the bulk of the series. Mail from supporters and detractors of the campaign and inter campaign correspondence and memoranda are included. A history of the campaign written in 1964 provides an excellent overview. Newsletters, statements, press releases, speech texts, and administrative records complete the series.</p>
+            </scopecontent>
+            <c02 id="ref243" level="file">
+               <did>
+                  <container type="Box" label="39002042589136">9</container>
+                  <container type="Folder">1</container>
+                  <unittitle>Clippings,</unittitle>
+                  <unitdate>1962</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref244" level="file">
+               <did>
+                  <unittitle>Correspondence</unittitle>
+               </did>
+               <c03 id="ref245" level="file">
+                  <did>
+                     <unittitle>1962</unittitle>
+                  </did>
+                  <c04 id="ref246" level="file">
+                     <did>
+                        <container type="Box" label="39002042589136">9</container>
+                        <container type="Folder">2-6</container>
+                        <unittitle>Mar-Jun (A-Z)</unittitle>
+                     </did>
+                  </c04>
+                  <c04 id="ref247" level="file">
+                     <did>
+                        <container type="Box" label="39002042589136">9</container>
+                        <container type="Folder">7 - 12</container>
+                        <unittitle>Jul-Sep (A-Z)</unittitle>
+                     </did>
+                  </c04>
+                  <c04 id="ref248" level="file">
+                     <did>
+                        <container type="Box" label="39002042589144">10</container>
+                        <container type="Folder">13-17</container>
+                        <unittitle>Sep-Oct (A-Z)</unittitle>
+                     </did>
+                  </c04>
+                  <c04 id="ref249" level="file">
+                     <did>
+                        <container type="Box" label="39002042589144">10</container>
+                        <container type="Folder">18-22</container>
+                        <unittitle>Oct (A-Z)</unittitle>
+                     </did>
+                  </c04>
+                  <c04 id="ref250" level="file">
+                     <did>
+                        <container type="Box" label="39002042589151">11</container>
+                        <container type="Folder">23-27</container>
+                        <unittitle>Nov-Dec (A-Z)</unittitle>
+                     </did>
+                  </c04>
+               </c03>
+            </c02>
+            <c02 id="ref251" level="file">
+               <did>
+                  <container type="Box" label="39002042589151">11</container>
+                  <container type="Folder">28</container>
+                  <unittitle>"Hughes for Senate: A Campaign History" [by Joel Cohen; forward by HSH],</unittitle>
+                  <unitdate>1964</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref252" level="file">
+               <did>
+                  <container type="Box" label="39002042589151">11</container>
+                  <container type="Folder">29</container>
+                  <unittitle>Newsletters</unittitle>
+                  <unitdate>1962</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref253" level="file">
+               <did>
+                  <container type="Box" label="39002042589151">11</container>
+                  <container type="Folder">30</container>
+                  <unittitle>Platform statement</unittitle>
+                  <unitdate>1962</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref254" level="file">
+               <did>
+                  <container type="Box" label="39002042589151">11</container>
+                  <container type="Folder">31</container>
+                  <unittitle>Press Releases</unittitle>
+                  <unitdate>1962</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref255" level="file">
+               <did>
+                  <container type="Box" label="39002042589151">11</container>
+                  <container type="Folder">32</container>
+                  <unittitle>Publicity [flyers and mailings]</unittitle>
+                  <unitdate>1962</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref256" level="file">
+               <did>
+                  <container type="Box" label="39002042589151">11</container>
+                  <container type="Folder">33</container>
+                  <unittitle>Signature drive</unittitle>
+                  <unitdate>1962</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref257" level="file">
+               <did>
+                  <container type="Box" label="39002042589151">11</container>
+                  <container type="Folder">34-35</container>
+                  <unittitle>Speeches</unittitle>
+                  <unitdate>1962</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref258" level="file">
+               <did>
+                  <container type="Box" label="39002042589151">11</container>
+                  <container type="Folder">36</container>
+                  <unittitle>Staff meeting minutes</unittitle>
+                  <unitdate>1962</unitdate>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="ref260" level="series">
+            <did>
+               <unitid>Series III</unitid>
+               <unittitle>Writings and Teaching Materials</unittitle>
+               <unitdate>1948-1990</unitdate>
+            </did>
+            <scopecontent>
+               <p>The series is arranged in six sections: articles and essays; books; book reviews; lectures, remarks and memoranda; student writings; and teaching materials. Each section is organized chronologically.</p>
+               <p>Typescripts of short works published in books and academic and mainstream journals comprise articles and essays. Topics vary widely but include Italian and French history, historiography, American foreign policy, the Vietnam war, and nuclear disarmament. One folder of autobiographical essays is located at the beginning of the section.</p>
+               <p>Books include correspondence, notes, drafts, outlines, and reviews of Hughes' many monographs. Correspondence relating to a publication includes comments from other academics and intellectuals. Researchers should also consult the files in Series I for Hughes' various publishers (Atheneum, Harper and Row, Harvard University Press, Alfred A. Knopf, Inc., Prentice Hall, and University of Chicago Press) for further documentation on the publication of his books.</p>
+               <p>The remainder of the series is comprised of four smaller sections. Book reviews contains reviews Hughes wrote for academic and mainstream intellectual serials. Lectures, remarks and memoranda include the texts of both formal and informal speeches delivered by Hughes at academic and political conferences, special events, and on television programs. The section also includes interviews of Hughes and testimonies by Hughes about academic colleagues. Hughes' writings from his undergraduate and graduate studies and two folders of teaching materials complete the series.</p>
+            </scopecontent>
+            <c02 id="ref261" level="file">
+               <did>
+                  <unittitle>Articles and essays</unittitle>
+               </did>
+               <c03 id="ref262" level="file">
+                  <did>
+                     <container type="Box" label="39002042589169">12</container>
+                     <container type="Folder">1</container>
+                     <unittitle>Autobiographical</unittitle>
+                     <unitdate>1961-1979</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref263" level="file">
+                  <did>
+                     <container type="Box" label="39002042589169">12</container>
+                     <container type="Folder">2</container>
+                     <unittitle>"The Course of the De Gasperi Regime"</unittitle>
+                     <unitdate>1949 Jan</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref264" level="file">
+                  <did>
+                     <container type="Box" label="39002042589169">12</container>
+                     <container type="Folder">3</container>
+                     <unittitle>"Italy: Toward a Christian Democratic - Regime'"</unittitle>
+                     <unitdate>1949 Nov</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref265" level="file">
+                  <did>
+                     <container type="Box" label="39002042589169">12</container>
+                     <container type="Folder">4</container>
+                     <unittitle>"The Act of Containment: A Balance Sheet"</unittitle>
+                     <unitdate>1950 Dec</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref266" level="file">
+                  <did>
+                     <container type="Box" label="39002042589169">12</container>
+                     <container type="Folder">5</container>
+                     <unittitle>"The End of Political Ideology"</unittitle>
+                     <unitdate>1951 Spring</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref267" level="file">
+                  <did>
+                     <container type="Box" label="39002042589169">12</container>
+                     <container type="Folder">6</container>
+                     <unittitle>"Transatlantic Misunderstanding: Realities and Abstractions"</unittitle>
+                     <unitdate>1951 Autumn</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref268" level="file">
+                  <did>
+                     <container type="Box" label="39002042589169">12</container>
+                     <container type="Folder">7</container>
+                     <unittitle>"Gaullism: Retrospect and Prospect,"</unittitle>
+                     <unitdate>1951</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref269" level="file">
+                  <did>
+                     <container type="Box" label="39002042589169">12</container>
+                     <container type="Folder">8</container>
+                     <unittitle>"The Intellectual as Corrupter"</unittitle>
+                     <unitdate>1952 Jul</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref270" level="file">
+                  <did>
+                     <container type="Box" label="39002042589169">12</container>
+                     <container type="Folder">9</container>
+                     <unittitle>"Second Thoughts on an Old Relationship"</unittitle>
+                     <unitdate>1952 Sep</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref271" level="file">
+                  <did>
+                     <container type="Box" label="39002042589169">12</container>
+                     <container type="Folder">10</container>
+                     <unittitle>"The Early Diplomacy of Italian Fascism: 1922-1932,"</unittitle>
+                     <unitdate>1953</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref272" level="file">
+                  <did>
+                     <container type="Box" label="39002042589169">12</container>
+                     <container type="Folder">11</container>
+                     <unittitle>"The Crisis of Italian Christian Democracy"</unittitle>
+                     <unitdate>1954 Spring</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref273" level="file">
+                  <did>
+                     <container type="Box" label="39002042589169">12</container>
+                     <container type="Folder">12</container>
+                     <unittitle>"Review Essay: The Problem of Limited Collaboration"</unittitle>
+                     <unitdate>1954 Jun</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref274" level="file">
+                  <did>
+                     <container type="Box" label="39002042589169">12</container>
+                     <container type="Folder">13</container>
+                     <unittitle>Thirty-five Years After Versailles</unittitle>
+                     <unitdate>1954 Aug</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref275" level="file">
+                  <did>
+                     <container type="Box" label="39002042589169">12</container>
+                     <container type="Folder">14</container>
+                     <unittitle>"Gaetano Mosca and the Political Lessons of History,"</unittitle>
+                     <unitdate>1954</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref276" level="file">
+                  <did>
+                     <container type="Box" label="39002042589169">12</container>
+                     <container type="Folder">15</container>
+                     <unittitle>"Reinterpretation of the Aftermath of the Risorgimento in Four Successive Interpretations"</unittitle>
+                     <unitdate>1955 Oct</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref277" level="file">
+                  <did>
+                     <container type="Box" label="39002042589169">12</container>
+                     <container type="Folder">16</container>
+                     <unittitle>"Western Strategy and Economic Revolution"</unittitle>
+                     <unitdate>1956 Feb</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref278" level="file">
+                  <did>
+                     <container type="Box" label="39002042589169">12</container>
+                     <container type="Folder">17</container>
+                     <unittitle>California-The America to Come</unittitle>
+                     <unitdate>1956 May</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref279" level="file">
+                  <did>
+                     <container type="Box" label="39002042589169">12</container>
+                     <container type="Folder">18</container>
+                     <unittitle>"Is the Intellectual Obsolete?"</unittitle>
+                     <unitdate>1956 Oct</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref280" level="file">
+                  <did>
+                     <container type="Box" label="39002042589169">12</container>
+                     <container type="Folder">19</container>
+                     <unittitle>"The Turn of the Tide"</unittitle>
+                     <unitdate>1958 Mar</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref281" level="file">
+                  <did>
+                     <container type="Box" label="39002042589169">12</container>
+                     <container type="Folder">20</container>
+                     <unittitle>"Rassegne, Discussioni E Varieté"</unittitle>
+                     <unitdate>1958 Apr</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref282" level="file">
+                  <did>
+                     <container type="Box" label="39002042589169">12</container>
+                     <container type="Folder">21</container>
+                     <unittitle>"How Democratic is Christian Democracy?"</unittitle>
+                     <unitdate>1958 May</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref283" level="file">
+                  <did>
+                     <container type="Box" label="39002042589169">12</container>
+                     <container type="Folder">22</container>
+                     <unittitle>"Catholicism and Democracy"</unittitle>
+                     <unitdate>1958 Aug</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref284" level="file">
+                  <did>
+                     <container type="Box" label="39002042589169">12</container>
+                     <container type="Folder">23</container>
+                     <unittitle>"Italy: The Elections and the Constituted Powers"</unittitle>
+                     <unitdate>1958 Summer</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref285" level="file">
+                  <did>
+                     <container type="Box" label="39002042589169">12</container>
+                     <container type="Folder">24</container>
+                     <unittitle>"Gaullism in the Mirror of History"</unittitle>
+                     <unitdate>1958 Sept</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref286" level="file">
+                  <did>
+                     <container type="Box" label="39002042589169">12</container>
+                     <container type="Folder">25</container>
+                     <unittitle>"A Politics of Peace"</unittitle>
+                     <unitdate>1959 Feb</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref287" level="file">
+                  <did>
+                     <container type="Box" label="39002042589169">12</container>
+                     <container type="Folder">26</container>
+                     <unittitle>"What Should Our Foreign Policy Be?"</unittitle>
+                     <unitdate>1959 Apr</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref288" level="file">
+                  <did>
+                     <container type="Box" label="39002042589169">12</container>
+                     <container type="Folder">27</container>
+                     <unittitle>"Mass Culture and Social Criticism"</unittitle>
+                     <unitdate>1960 Spring</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref289" level="file">
+                  <did>
+                     <container type="Box" label="39002042589169">12</container>
+                     <container type="Folder">28</container>
+                     <unittitle>"The Experience of Recent History"</unittitle>
+                     <unitdate>1961 Jan</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref290" level="file">
+                  <did>
+                     <container type="Box" label="39002042589169">12</container>
+                     <container type="Folder">29</container>
+                     <unittitle>"The Dilemmas of Modern Italian History"</unittitle>
+                     <unitdate>1961 Feb</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref291" level="file">
+                  <did>
+                     <container type="Box" label="39002042589169">12</container>
+                     <container type="Folder">30</container>
+                     <unittitle>"The Strategy of Deterrence"</unittitle>
+                     <unitdate>1961 Mar</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref292" level="file">
+                  <did>
+                     <container type="Box" label="39002042589169">12</container>
+                     <container type="Folder">31</container>
+                     <unittitle>"Grandeur and Misery of Guerilla Warfare"</unittitle>
+                     <unitdate>1962 Aug</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref293" level="file">
+                  <did>
+                     <container type="Box" label="39002042589169">12</container>
+                     <container type="Folder">32</container>
+                     <unittitle>"The Cold War and the West"</unittitle>
+                     <unitdate>1962 Winter</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref294" level="file">
+                  <did>
+                     <container type="Box" label="39002042589169">12</container>
+                     <container type="Folder">33</container>
+                     <unittitle>"Disengagement and NATO"</unittitle>
+                     <unitdate>1962</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref295" level="file">
+                  <did>
+                     <container type="Box" label="39002042589169">12</container>
+                     <container type="Folder">34</container>
+                     <unittitle>"Against Violence and Hatred"</unittitle>
+                     <unitdate>1963 Dec</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref296" level="file">
+                  <did>
+                     <container type="Box" label="39002042589169">12</container>
+                     <container type="Folder">35</container>
+                     <unittitle>"The Historian and the Social Scientist,"</unittitle>
+                     <unitdate>1963</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref297" level="file">
+                  <did>
+                     <container type="Box" label="39002042589169">12</container>
+                     <container type="Folder">36</container>
+                     <unittitle>"Pope John's Revolution: Secular or Religious?"</unittitle>
+                     <unitdate>1965 Dec</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref298" level="file">
+                  <did>
+                     <container type="Box" label="39002042589169">12</container>
+                     <container type="Folder">37</container>
+                     <unittitle>"Beyond Vietnam: New Assumptions for Old"</unittitle>
+                     <unitdate>1965 Dec</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref299" level="file">
+                  <did>
+                     <container type="Box" label="39002042589169">12</container>
+                     <container type="Folder">38</container>
+                     <unittitle>The Messianic Pose: Post-Cold War Delusions</unittitle>
+                     <unitdate>1966 Jan</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref300" level="file">
+                  <did>
+                     <container type="Box" label="39002042589169">12</container>
+                     <container type="Folder">39</container>
+                     <unittitle>"What's Happening to America?"</unittitle>
+                     <unitdate>1967 Winter</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref301" level="file">
+                  <did>
+                     <container type="Box" label="39002042589169">12</container>
+                     <container type="Folder">40</container>
+                     <unittitle>"Crane Brinton as an Intellectual Historian"</unittitle>
+                     <unitdate>1968 Apr</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref302" level="file">
+                  <did>
+                     <container type="Box" label="39002042589169">12</container>
+                     <container type="Folder">41</container>
+                     <unittitle>"Sanford Markham"</unittitle>
+                     <unitdate>1969 Feb</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref303" level="file">
+                  <did>
+                     <container type="Box" label="39002042589169">12</container>
+                     <container type="Folder">42</container>
+                     <unittitle>"Emotional Disturbance and American Social Change, 1944-1969"</unittitle>
+                     <unitdate>1969 July</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref304" level="file">
+                  <did>
+                     <container type="Box" label="39002042589169">12</container>
+                     <container type="Folder">43</container>
+                     <unittitle>The Need is Now to De-politicize the University</unittitle>
+                     <unitdate>1969 Sep</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref305" level="file">
+                  <did>
+                     <container type="Box" label="39002042589169">12</container>
+                     <container type="Folder">44</container>
+                     <unittitle>Le Problème des Guerres de Liberation Nationale</unittitle>
+                     <unitdate>1969</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref306" level="file">
+                  <did>
+                     <container type="Box" label="39002042589169">12</container>
+                     <container type="Folder">45</container>
+                     <unittitle>"Vico and Contemporary Social Theory and Social History"</unittitle>
+                     <unitdate>1969</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref307" level="file">
+                  <did>
+                     <container type="Box" label="39002042589169">12</container>
+                     <container type="Folder">46</container>
+                     <unittitle>"The Second Year of the Cold War"</unittitle>
+                     <unitdate>1970</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref308" level="file">
+                  <did>
+                     <container type="Box" label="39002042589169">12</container>
+                     <container type="Folder">47</container>
+                     <unittitle>"Editor's Introduction" [to Croce, Benedetto, History of the Kingdom of Naples]</unittitle>
+                     <unitdate>1970</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref309" level="file">
+                  <did>
+                     <container type="Box" label="39002042589169">12</container>
+                     <container type="Folder">48</container>
+                     <unittitle>"The Controversy about Violence in Modern History"</unittitle>
+                     <unitdate>1972</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref310" level="file">
+                  <did>
+                     <container type="Box" label="39002042589169">12</container>
+                     <container type="Folder">49</container>
+                     <unittitle>"Social Theory in a New Context"</unittitle>
+                     <unitdate>1980</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref311" level="file">
+                  <did>
+                     <container type="Box" label="39002042589169">12</container>
+                     <container type="Folder">50</container>
+                     <unittitle>"Contemporary Historiography: Progress, Paradigms, and the Regression Towards Positivism"</unittitle>
+                     <unitdate>1982</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref312" level="file">
+                  <did>
+                     <container type="Box" label="39002042589169">12</container>
+                     <container type="Folder">51</container>
+                     <unittitle>"European Intellectual History, 1884-1984: The Socialization of Ideas"</unittitle>
+                     <unitdate>1984 Dec</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref313" level="file">
+                  <did>
+                     <container type="Box" label="39002042589169">12</container>
+                     <container type="Folder">52</container>
+                     <unittitle>"Arnaldo Momigliano: Universal History, Hellenistic Civilization, and the Jews"</unittitle>
+                     <unitdate>1988</unitdate>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="ref314" level="file">
+               <did>
+                  <unittitle>Books</unittitle>
+               </did>
+               <c03 id="ref315" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic" ns2:type="simple">An Essay for Our Times</title>
+                     </unittitle>
+                  </did>
+                  <c04 id="ref316" level="file">
+                     <did>
+                        <container type="Box" label="39002042589177">13</container>
+                        <container type="Folder">53</container>
+                        <unittitle>Correspondence, notes and drafts</unittitle>
+                        <unitdate>1948-1951, n.d.</unitdate>
+                     </did>
+                  </c04>
+                  <c04 id="ref317" level="file">
+                     <did>
+                        <container type="Box" label="39002042589177">13</container>
+                        <container type="Folder">54</container>
+                        <unittitle>Reviews</unittitle>
+                        <unitdate>1950</unitdate>
+                     </did>
+                  </c04>
+               </c03>
+               <c03 id="ref318" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic" ns2:type="simple">Oswald Spengler: A Critical Estimate</title>
+                     </unittitle>
+                  </did>
+                  <c04 id="ref319" level="file">
+                     <did>
+                        <container type="Box" label="39002042589177">13</container>
+                        <container type="Folder">55</container>
+                        <unittitle>Correspondence, notes and drafts</unittitle>
+                        <unitdate>1950-1952, 1962-1970</unitdate>
+                     </did>
+                  </c04>
+                  <c04 id="ref320" level="file">
+                     <did>
+                        <container type="Box" label="39002042589177">13</container>
+                        <container type="Folder">56</container>
+                        <unittitle>Reviews</unittitle>
+                        <unitdate>1952-1953</unitdate>
+                     </did>
+                  </c04>
+               </c03>
+               <c03 id="ref321" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic" ns2:type="simple">The United States and Italy</title>
+                     </unittitle>
+                  </did>
+                  <c04 id="ref322" level="file">
+                     <did>
+                        <container type="Box" label="39002042589177">13</container>
+                        <container type="Folder">57</container>
+                        <unittitle>Correspondence, notes and drafts</unittitle>
+                        <unitdate>1953</unitdate>
+                     </did>
+                  </c04>
+                  <c04 id="ref323" level="file">
+                     <did>
+                        <container type="Box" label="39002042589177">13</container>
+                        <container type="Folder">58</container>
+                        <unittitle>Reviews</unittitle>
+                        <unitdate>1957, 1967</unitdate>
+                     </did>
+                  </c04>
+               </c03>
+               <c03 id="ref324" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic" ns2:type="simple">Consciousness and Society</title>
+                     </unittitle>
+                  </did>
+                  <c04 id="ref325" level="file">
+                     <did>
+                        <container type="Box" label="39002042589177">13</container>
+                        <container type="Folder">59</container>
+                        <unittitle>Correspondence</unittitle>
+                        <unitdate>1960-1979</unitdate>
+                     </did>
+                  </c04>
+                  <c04 id="ref326" level="file">
+                     <did>
+                        <container type="Box" label="39002042589177">13</container>
+                        <container type="Folder">60-61</container>
+                        <unittitle>Notes and drafts</unittitle>
+                        <unitdate>1956-1958, n.d.</unitdate>
+                     </did>
+                  </c04>
+                  <c04 id="ref327" level="file">
+                     <did>
+                        <container type="Box" label="39002042589177">13</container>
+                        <container type="Folder">62</container>
+                        <unittitle>Reviews</unittitle>
+                        <unitdate>1959</unitdate>
+                     </did>
+                  </c04>
+               </c03>
+               <c03 id="ref328" level="file">
+                  <did>
+                     <container type="Box" label="39002042589177">13</container>
+                     <container type="Folder">63</container>
+                     <unittitle>
+                        <title render="italic" ns2:type="simple">Contemporary Europe</title> [reviews]</unittitle>
+                     <unitdate>1961-1965</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref329" level="file">
+                  <did>
+                     <container type="Box" label="39002042589177">13</container>
+                     <container type="Folder">64</container>
+                     <unittitle>
+                        <title render="italic" ns2:type="simple">Approach to Peace and Other Essays</title> [reviews]</unittitle>
+                     <unitdate>1962-1963</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref330" level="file">
+                  <did>
+                     <container type="Box" label="39002042589177">13</container>
+                     <container type="Folder">65</container>
+                     <unittitle>
+                        <title render="italic" ns2:type="simple">History as Art and Science</title> [reviews]</unittitle>
+                     <unitdate>1964</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref331" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic" ns2:type="simple">Obstructed Path</title>
+                     </unittitle>
+                  </did>
+                  <c04 id="ref332" level="file">
+                     <did>
+                        <container type="Box" label="39002042589177">13</container>
+                        <container type="Folder">66</container>
+                        <unittitle>Correspondence</unittitle>
+                        <unitdate>1967-1974</unitdate>
+                     </did>
+                  </c04>
+                  <c04 id="ref333" level="file">
+                     <did>
+                        <container type="Box" label="39002042589177">13</container>
+                        <container type="Folder">67</container>
+                        <unittitle>Reviews</unittitle>
+                        <unitdate>1968-1971</unitdate>
+                     </did>
+                  </c04>
+               </c03>
+               <c03 id="ref334" level="file">
+                  <did>
+                     <container type="Box" label="39002042589177">13</container>
+                     <container type="Folder">68</container>
+                     <unittitle>
+                        <title render="italic" ns2:type="simple">The Sea Change</title> [reviews]</unittitle>
+                     <unitdate normal="1974/1977" type="inclusive">1974-1977</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref335" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic" ns2:type="simple">Prisoners of Hope</title>
+                     </unittitle>
+                  </did>
+                  <c04 id="ref336" level="file">
+                     <did>
+                        <container type="Box" label="39002042589177">13</container>
+                        <container type="Folder">69</container>
+                        <unittitle>Correspondence</unittitle>
+                        <unitdate>1983</unitdate>
+                     </did>
+                  </c04>
+                  <c04 id="ref337" level="file">
+                     <did>
+                        <container type="Box" label="39002042589177">13</container>
+                        <container type="Folder">70</container>
+                        <unittitle>Reviews</unittitle>
+                        <unitdate>1983-1985</unitdate>
+                     </did>
+                  </c04>
+               </c03>
+               <c03 id="ref338" level="file">
+                  <did>
+                     <unittitle>
+                        <title render="italic" ns2:type="simple">Sophisticated Rebels</title>
+                     </unittitle>
+                  </did>
+                  <c04 id="ref339" level="file">
+                     <did>
+                        <container type="Box" label="39002042589177">13</container>
+                        <container type="Folder">71</container>
+                        <unittitle>Correspondence, notes and drafts</unittitle>
+                        <unitdate>1985-1987</unitdate>
+                     </did>
+                  </c04>
+                  <c04 id="ref340" level="file">
+                     <did>
+                        <container type="Box" label="39002042589177">13</container>
+                        <container type="Folder">72</container>
+                        <unittitle>Reviews</unittitle>
+                        <unitdate>1988-1990</unitdate>
+                     </did>
+                  </c04>
+               </c03>
+               <c03 id="ref341" level="file">
+                  <did>
+                     <container type="Box" label="39002042589177">13</container>
+                     <container type="Folder">73</container>
+                     <unittitle>
+                        <title render="italic" ns2:type="simple">Gentleman Rebel: The Memoirs of H. Stuart Hughes</title> [correspondence, research material and drafts; includes biographical material]</unittitle>
+                     <unitdate>1961-1984, n.d.</unitdate>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="ref342" level="file">
+               <did>
+                  <container type="Box" label="39002042589185">14</container>
+                  <container type="Folder">74-78</container>
+                  <unittitle>Book reviews [by HSH]</unittitle>
+                  <unitdate>1949-1989</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref343" level="file">
+               <did>
+                  <container type="Box" label="39002042589185">14</container>
+                  <container type="Folder">79-85</container>
+                  <unittitle>Lectures, remarks, and memoranda</unittitle>
+                  <unitdate>1952-1990</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref344" level="file">
+               <did>
+                  <unittitle>Student writings</unittitle>
+               </did>
+               <c03 id="ref345" level="file">
+                  <did>
+                     <container type="Box" label="39002042589193">15</container>
+                     <container type="Folder">86-87</container>
+                     <unittitle>Amherst College</unittitle>
+                     <unitdate>1934-1937</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref346" level="file">
+                  <did>
+                     <container type="Box" label="39002042589193">15</container>
+                     <container type="Folder">88-89</container>
+                     <unittitle>Harvard University</unittitle>
+                     <unitdate normal="1938/1939" type="inclusive">1938-1939</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref347" level="file">
+                  <did>
+                     <container type="Box" label="39002042589193">15</container>
+                     <container type="Folder">90-91</container>
+                     <unittitle>Teaching materials [notes and syllabi]</unittitle>
+                     <unitdate>1949-1975, n.d.</unitdate>
+                  </did>
+               </c03>
+            </c02>
+         </c01>
+         <c01 id="ref349" level="series">
+            <did>
+               <unitid>Series IV</unitid>
+               <unittitle>Personal Papers and Photographs</unittitle>
+               <unitdate>1916-1989</unitdate>
+            </did>
+            <scopecontent>
+               <p>The series is arranged alphabetically by record type and includes clippings; family correspondence; diaries and notebooks; memorabilia; military papers; and photographs.</p>
+               <p>In addition to general coverage of Hughes and his family, clippings include one folder chronicling an incident when the Department of State refused Hughes a visa to travel abroad in 1966, due to suspicions about him being a subversive. He was cleared of the charges.</p>
+               <p>Family correspondence comprises the most substantial portion of the series. From 1928 to 1963, he wrote a letter to his mother and/or father almost every week detailing his activities. The letters begin when he was a student at Deerfield Academy, and continue through his undergraduate years at Amherst College, his graduate years at Harvard University, his service in the United States Armed Forces in Italy and France during and after the second world war, and his professorial appointments at Harvard and Stanford University. The World War II letters give detailed accounts and impressions of the war effort. Other family correspondents include his grandfathers, Charles Evans Hughes and Henry C. Stuart, his brother Charles Evans Hughes III, his sister Helen, his first wife Suzanne, and his children, Sandra and Kenneth. Files regarding the estate of Hughes' mother, Margory Stuart Hughes, and the Charles Evans Hughes Foundation, are listed under each of these correspondents.</p>
+               <p>Diaries and notebooks include travel journals from trips made to Europe in 1935 and 1941, along with a "history notebook" which Hughes compiled during his childhood years.</p>
+               <p>The military records contain documentation of Hughes' service in the armed forces, including allegations of subversion, of which he was later cleared. Files listed under "Department of State" and "Office of Strategic Services" comprise reports and other papers he wrote while serving in these two branches during the war.</p>
+               <p>One folder of photographs holds small portraits of Hughes from several different periods of his life.</p>
+            </scopecontent>
+            <c02 id="ref350" level="file">
+               <did>
+                  <unittitle>Clippings</unittitle>
+               </did>
+               <c03 id="ref351" level="file">
+                  <did>
+                     <container type="Box" label="39002042589201">16</container>
+                     <container type="Folder">1</container>
+                     <unittitle>General</unittitle>
+                     <unitdate>1961-1988</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref352" level="file">
+                  <did>
+                     <container type="Box" label="39002042589201">16</container>
+                     <container type="Folder">2</container>
+                     <unittitle>Family</unittitle>
+                     <unitdate>1916, 1950, 1982, n.d.</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref353" level="file">
+                  <did>
+                     <container type="Box" label="39002042589201">16</container>
+                     <container type="Folder">3</container>
+                     <unittitle>State Department incident</unittitle>
+                     <unitdate>1966, 1976-1977</unitdate>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="ref354" level="file">
+               <did>
+                  <unittitle>Family correspondence</unittitle>
+               </did>
+               <c03 id="ref355" level="file">
+                  <did>
+                     <container type="Box" label="39002042589201">16</container>
+                     <container type="Folder">4-5</container>
+                     <unittitle>General</unittitle>
+                     <unitdate>1936-1957</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref356" level="file">
+                  <did>
+                     <container type="Box" label="39002042589201">16</container>
+                     <container type="Folder">6</container>
+                     <unittitle>Gossett, Elizabeth Hughes [sister]</unittitle>
+                     <unitdate>1964-1981</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref357" level="file">
+                  <did>
+                     <container type="Box" label="39002042589201">16</container>
+                     <container type="Folder">7</container>
+                     <unittitle>Hughes, Charles Evans [grandfather]</unittitle>
+                     <unitdate>1941-1945</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref358" level="file">
+                  <did>
+                     <container type="Box" label="39002042589201">16</container>
+                     <container type="Folder">8</container>
+                     <unittitle>Charles Evans Hughes Memorial Foundation</unittitle>
+                     <unitdate>1985-1989</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref359" level="file">
+                  <did>
+                     <unittitle>Hughes, Charles Evans III [brother]</unittitle>
+                  </did>
+                  <c04 id="ref360" level="file">
+                     <did>
+                        <container type="Box" label="39002042589201">16</container>
+                        <container type="Folder">9</container>
+                        <unittitle>To HSH</unittitle>
+                        <unitdate>1983</unitdate>
+                     </did>
+                  </c04>
+                  <c04 id="ref361" level="file">
+                     <did>
+                        <container type="Box" label="39002042589201">16</container>
+                        <container type="Folder">10</container>
+                        <unittitle>To Hughes, Margory</unittitle>
+                        <unitdate>1931-1933</unitdate>
+                     </did>
+                  </c04>
+               </c03>
+               <c03 id="ref362" level="file">
+                  <did>
+                     <container type="Box" label="39002042589201">16</container>
+                     <container type="Folder">11</container>
+                     <unittitle>Hughes, Helen [sister]</unittitle>
+                     <unitdate>no date</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref363" level="file">
+                  <did>
+                     <container type="Box" label="39002042589201">16</container>
+                     <container type="Folder">12-18</container>
+                     <unittitle>Hughes, Marjory and Charles Evans, Jr. [mother and father]</unittitle>
+                     <unitdate>1928-1935</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref364" level="file">
+                  <did>
+                     <container type="Box" label="39002042589219">17</container>
+                     <container type="Folder">19-32</container>
+                     <unittitle>Hughes, Marjory and Charles Evans, Jr. [mother and father]</unittitle>
+                     <unitdate>1935-1946</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref365" level="file">
+                  <did>
+                     <container type="Box" label="39002042589227">18</container>
+                     <container type="Folder">33-42</container>
+                     <unittitle>Hughes, Marjory and Charles Evans, Jr. [mother and father]</unittitle>
+                     <unitdate>1946-1956</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref366" level="file">
+                  <did>
+                     <container type="Box" label="39002042589235">19</container>
+                     <container type="Folder">43-52</container>
+                     <unittitle>Hughes, Marjory [mother]</unittitle>
+                     <unitdate>1956-1963</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref367" level="file">
+                  <did>
+                     <container type="Box" label="39002042589235">19</container>
+                     <container type="Folder">53</container>
+                     <unittitle>Marjory Hughes estate</unittitle>
+                     <unitdate>1965-1966</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref368" level="file">
+                  <did>
+                     <container type="Box" label="39002042589235">19</container>
+                     <container type="Folder">54</container>
+                     <unittitle>Hughes, Sandra and Kenneth [children]</unittitle>
+                     <unitdate>no date</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref369" level="file">
+                  <did>
+                     <unittitle>Hughes, Suzanne [first wife]</unittitle>
+                  </did>
+                  <c04 id="ref370" level="file">
+                     <did>
+                        <container type="Box" label="39002042589235">19</container>
+                        <container type="Folder">55</container>
+                        <unittitle>To HSH</unittitle>
+                        <unitdate>1958, n.d.</unitdate>
+                     </did>
+                  </c04>
+                  <c04 id="ref371" level="file">
+                     <did>
+                        <container type="Box" label="39002042589235">19</container>
+                        <container type="Folder">56</container>
+                        <unittitle>To Hughes, Marjory</unittitle>
+                        <unitdate>1953-1954, n.d.</unitdate>
+                     </did>
+                  </c04>
+               </c03>
+               <c03 id="ref372" level="file">
+                  <did>
+                     <container type="Box" label="39002042589235">19</container>
+                     <container type="Folder">57</container>
+                     <unittitle>"Joan"</unittitle>
+                     <unitdate>1962-1963</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref373" level="file">
+                  <did>
+                     <unittitle>Stuart, Henry C. [grandfather]</unittitle>
+                  </did>
+                  <c04 id="ref374" level="file">
+                     <did>
+                        <container type="Box" label="39002042589243">20</container>
+                        <container type="Folder">58-59</container>
+                        <unittitle>General</unittitle>
+                        <unitdate>1937</unitdate>
+                     </did>
+                  </c04>
+                  <c04 id="ref375" level="file">
+                     <did>
+                        <container type="Box" label="39002042589243">20</container>
+                        <container type="Folder">60</container>
+                        <unittitle>Clippings and memorabilia</unittitle>
+                        <unitdate>1920-1937</unitdate>
+                     </did>
+                  </c04>
+               </c03>
+            </c02>
+            <c02 id="ref376" level="file">
+               <did>
+                  <container type="Box" label="39002042589243">20</container>
+                  <container type="Folder">61</container>
+                  <unittitle>Diaries and notebooks</unittitle>
+                  <unitdate>1935, 1943, n.d.</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref377" level="file">
+               <did>
+                  <unittitle>Memorabilia</unittitle>
+               </did>
+               <c03 id="ref378" level="file">
+                  <did>
+                     <container type="Box" label="39002042589243">20</container>
+                     <container type="Folder">62-63</container>
+                     <unittitle>Amherst College</unittitle>
+                     <unitdate>1934-1937, 1967-1975</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref379" level="file">
+                  <did>
+                     <container type="Box" label="39002042589243">20</container>
+                     <container type="Folder">64</container>
+                     <unittitle>Miscellaneous</unittitle>
+                     <unitdate>1916-1941, n.d.</unitdate>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="ref380" level="file">
+               <did>
+                  <unittitle>Military papers</unittitle>
+               </did>
+               <c03 id="ref381" level="file">
+                  <did>
+                     <container type="Box" label="39002042589243">20</container>
+                     <container type="Folder">65</container>
+                     <unittitle>Army discharge [includes allegations and response re: HSH as a subversive]</unittitle>
+                     <unitdate>1952-1953</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref382" level="file">
+                  <did>
+                     <container type="Box" label="39002042589243">20</container>
+                     <container type="Folder">66</container>
+                     <unittitle>Department of State</unittitle>
+                     <unitdate>1946-1947</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref383" level="file">
+                  <did>
+                     <container type="Box" label="39002042589243">20</container>
+                     <container type="Folder">67</container>
+                     <unittitle>Office of Strategic Services</unittitle>
+                     <unitdate normal="1944/1945" type="inclusive">1944-1945</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref384" level="file">
+                  <did>
+                     <container type="Box" label="39002042589243">20</container>
+                     <container type="Folder">68</container>
+                     <unittitle>Service record</unittitle>
+                     <unitdate>1938-1958</unitdate>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="ref385" level="file">
+               <did>
+                  <container type="Box" label="39002042589243">20</container>
+                  <container type="Folder">69</container>
+                  <unittitle>Photographs of HSH</unittitle>
+                  <unitdate>1941, 1949, n.d.</unitdate>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="ref387" level="series">
+            <did>
+               <unitid>Accession 2000-M-086</unitid>
+               <unittitle>Additional material</unittitle>
+               <physdesc>
+                  <extent>2.25 linear feet</extent>
+               </physdesc>
+            </did>
+            <scopecontent>
+               <p>Arranged alphabetically, the accession includes correspondence, writings, topical files, teaching materials, and audio recordings that primarily document the final decade of the life of H. Stuart Hughes. The correspondence primarily consists of letters written to Hughes from friends, colleagues, and other scholars, many of whom are also represented in Series I of the main accession. Topics range widely in a number of intellectual, personal, and professional areas.</p>
+               <p>The accession also includes articles, reviews, speeches and talks, all filed under the heading Writings. Most of the articles and reviews are published and cover scholarly topics. Speeches and talks are separated into two categories, Notes, which give only outlines, and Texts, which provide the full content of the speech. The notes for Hughes' Senate campaign speeches provide documentation of his platform and positions and supplement other campaign materials found in the main accession. A short publication of essays looking back upon the Hughes campaign after 25 years is also filed with the Writings. A complete listing of Hughes' publications can be found in the curriculum vita folder.</p>
+               <p>The remainder of the accession consists of teaching materials, personal papers, and ephemera. Audio tapes of the symposium honoring Hughes at his 1986 retirement are filed under "Approaches to European Intellectual History." Original audio tapes may not be played. For more information on copies created for research use consult the Audio Tapes appendix. The memorial service folder contains full texts of remarks made about Hughes after his death in 1999.</p>
+            </scopecontent>
+            <c02 id="ref389" level="file">
+               <did>
+                  <container type="Box" label="39002046623303">1</container>
+                  <unittitle>"Approaches to European Intellectual History" [audio tapes of a symposium honoring HSH]</unittitle>
+                  <unitdate>1986</unitdate>
+               </did>
+               <note>
+                  <p>See: Audio Tapes Appendix</p>
+               </note>
+            </c02>
+            <c02 id="ref391" level="file">
+               <did>
+                  <unittitle>Correspondence</unittitle>
+               </did>
+               <c03 id="ref392" level="file">
+                  <did>
+                     <container type="Box">2</container>
+                     <container type="Folder">2</container>
+                     <unittitle>General (A-Y)</unittitle>
+                     <unitdate>1983-1999</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref393" level="file">
+                  <did>
+                     <container type="Box" label="39002046623311">2</container>
+                     <container type="Folder">3</container>
+                     <unittitle>Alfred A. Knopf, Inc.</unittitle>
+                     <unitdate>1989-1996</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref394" level="file">
+                  <did>
+                     <container type="Box" label="39002046623311">2</container>
+                     <container type="Folder">4</container>
+                     <unittitle>Burdett, Winston</unittitle>
+                     <unitdate>1990, 1992</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref395" level="file">
+                  <did>
+                     <container type="Box" label="39002046623311">2</container>
+                     <container type="Folder">5</container>
+                     <unittitle>de Carbonnel, Lise</unittitle>
+                     <unitdate>1989-1995</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref396" level="file">
+                  <did>
+                     <container type="Box" label="39002046623311">2</container>
+                     <container type="Folder">6</container>
+                     <unittitle>Cowan, Fairman C.</unittitle>
+                     <unitdate>1989-1999</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref397" level="file">
+                  <did>
+                     <container type="Box" label="39002046623311">2</container>
+                     <container type="Folder">7</container>
+                     <unittitle>Edwards, Robert L.</unittitle>
+                     <unitdate>1990-1995</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref398" level="file">
+                  <did>
+                     <container type="Box" label="39002046623311">2</container>
+                     <container type="Folder">8</container>
+                     <unittitle>Ferry, W. H.</unittitle>
+                     <unitdate>1989</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref399" level="file">
+                  <did>
+                     <container type="Box" label="39002046623311">2</container>
+                     <container type="Folder">9</container>
+                     <unittitle>Harper and Row Publishers</unittitle>
+                     <unitdate>1989-1995</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref400" level="file">
+                  <did>
+                     <container type="Box" label="39002046623311">2</container>
+                     <container type="Folder">10</container>
+                     <unittitle>Harvard University Press</unittitle>
+                     <unitdate>1989-1998</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref401" level="file">
+                  <did>
+                     <container type="Box" label="39002046623311">2</container>
+                     <container type="Folder">11</container>
+                     <unittitle>Howe, Irving</unittitle>
+                     <unitdate>1984-1990</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref402" level="file">
+                  <did>
+                     <container type="Box" label="39002046623311">2</container>
+                     <container type="Folder">12</container>
+                     <unittitle>Joll, James</unittitle>
+                     <unitdate>1988-1994</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref403" level="file">
+                  <did>
+                     <container type="Box" label="39002046623311">2</container>
+                     <container type="Folder">13</container>
+                     <unittitle>Kapstein, John J.</unittitle>
+                     <unitdate>1994, 1996</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref404" level="file">
+                  <did>
+                     <container type="Box" label="39002046623311">2</container>
+                     <container type="Folder">14</container>
+                     <unittitle>Prentice-Hall, Inc.</unittitle>
+                     <unitdate>1989-1999</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref405" level="file">
+                  <did>
+                     <container type="Box" label="39002046623311">2</container>
+                     <container type="Folder">15</container>
+                     <unittitle>Robinson, Paul</unittitle>
+                     <unitdate>1991-1998</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref406" level="file">
+                  <did>
+                     <container type="Box" label="39002046623311">2</container>
+                     <container type="Folder">16</container>
+                     <unittitle>Schorske, Carl E.</unittitle>
+                     <unitdate>1975-1999</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref407" level="file">
+                  <did>
+                     <container type="Box" label="39002046623311">2</container>
+                     <container type="Folder">17</container>
+                     <unittitle>Segre-Amar, Sion</unittitle>
+                     <unitdate>1988</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref408" level="file">
+                  <did>
+                     <container type="Box" label="39002046623311">2</container>
+                     <container type="Folder">18</container>
+                     <unittitle>Snyder, Jon</unittitle>
+                     <unitdate>1994-1996</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref409" level="file">
+                  <did>
+                     <container type="Box" label="39002046623311">2</container>
+                     <container type="Folder">19</container>
+                     <unittitle>University of Chicago Press</unittitle>
+                     <unitdate>1990-1999</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref410" level="file">
+                  <did>
+                     <container type="Box" label="39002046623311">2</container>
+                     <container type="Folder">20</container>
+                     <unittitle>University Press of New England</unittitle>
+                     <unitdate>1990-1998</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref411" level="file">
+                  <did>
+                     <container type="Box" label="39002046623311">2</container>
+                     <container type="Folder">21</container>
+                     <unittitle>Venturi, Franco</unittitle>
+                     <unitdate>1989, 1990</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref412" level="file">
+                  <did>
+                     <container type="Box" label="39002046623311">2</container>
+                     <container type="Folder">22</container>
+                     <unittitle>Vivarelli, Roberto</unittitle>
+                     <unitdate>1991-1999</unitdate>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="ref413" level="file">
+               <did>
+                  <container type="Box" label="39002046623311">2</container>
+                  <container type="Folder">23</container>
+                  <unittitle>Curriculum vita</unittitle>
+                  <unitdate>1999, n.d.</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref414" level="file">
+               <did>
+                  <container type="Box" label="39002046623311">2</container>
+                  <container type="Folder">24 - 26</container>
+                  <unittitle>Daybooks</unittitle>
+                  <unitdate>1942-1962, n.d.</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref415" level="file">
+               <did>
+                  <container type="Box" label="39002046623311">2</container>
+                  <container type="Folder">27 - 28</container>
+                  <unittitle>Graduate students</unittitle>
+                  <unitdate>no date</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref416" level="file">
+               <did>
+                  <container type="Box" label="39002046623329">3</container>
+                  <container type="Folder">29</container>
+                  <unittitle>Memorial service</unittitle>
+                  <unitdate>1999</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref417" level="file">
+               <did>
+                  <container type="Box" label="39002046623329">3</container>
+                  <container type="Folder">30</container>
+                  <unittitle>Military service</unittitle>
+                  <unitdate normal="1943/1945" type="inclusive">1943-1945</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref418" level="file">
+               <did>
+                  <container type="Box" label="39002046623329">3</container>
+                  <container type="Folder">31</container>
+                  <unittitle>Passports</unittitle>
+                  <unitdate>1948-1989</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref419" level="file">
+               <did>
+                  <container type="Box" label="39002046623329">3</container>
+                  <container type="Folder">32</container>
+                  <unittitle>Symposia</unittitle>
+                  <unitdate>1986, 1997</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref420" level="file">
+               <did>
+                  <unittitle>Teaching materials</unittitle>
+               </did>
+               <c03 id="ref421" level="file">
+                  <did>
+                     <container type="Box" label="39002046623329">3</container>
+                     <container type="Folder">33</container>
+                     <unittitle>Lectures</unittitle>
+                     <unitdate>[1967]</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref422" level="file">
+                  <did>
+                     <container type="Box" label="39002046623337">4</container>
+                     <container type="Folder"/>
+                     <unittitle>Note cards</unittitle>
+                     <unitdate>no date</unitdate>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="ref423" level="file">
+               <did>
+                  <unittitle>Writings</unittitle>
+               </did>
+               <c03 id="ref424" level="file">
+                  <did>
+                     <container type="Box" label="39002046623345">5</container>
+                     <container type="Folder">34 - 42</container>
+                     <unittitle>Articles and reviews by HSH</unittitle>
+                     <unitdate>1949-2000, n.d.</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref425" level="file">
+                  <did>
+                     <container type="Box" label="39002046623345">5</container>
+                     <container type="Folder">43</container>
+                     <unittitle>"The Hughes Campaign: 25 Years Later" [essays about the 1962 senate campaign]</unittitle>
+                     <unitdate>1987</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref426" level="file">
+                  <did>
+                     <container type="Box" label="39002046623345">5</container>
+                     <container type="Folder">44</container>
+                     <unittitle>Reviews of HSH's books</unittitle>
+                     <unitdate>1959, 1991</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ref427" level="file">
+                  <did>
+                     <unittitle>Speeches and talks</unittitle>
+                  </did>
+                  <c04 id="ref428" level="file">
+                     <did>
+                        <unittitle>Notes</unittitle>
+                     </did>
+                     <c05 id="ref429" level="file">
+                        <did>
+                           <container type="Box" label="39002046623345">5</container>
+                           <container type="Folder">45 - 48</container>
+                           <unittitle>General</unittitle>
+                           <unitdate>1948-1991</unitdate>
+                        </did>
+                     </c05>
+                     <c05 id="ref430" level="file">
+                        <did>
+                           <container type="Box" label="39002046623345">5</container>
+                           <container type="Folder">49</container>
+                           <unittitle>Campaign speeches</unittitle>
+                           <unitdate>1962</unitdate>
+                        </did>
+                     </c05>
+                  </c04>
+                  <c04 id="ref431" level="file">
+                     <did>
+                        <container type="Box" label="39002046623345">5</container>
+                        <container type="Folder">50 - 51</container>
+                        <unittitle>Texts</unittitle>
+                        <unitdate>1985-1996</unitdate>
+                     </did>
+                  </c04>
+               </c03>
+            </c02>
+         </c01>
+         <c01 id="ref433" level="series">
+            <did>
+               <unitid>Accession 2005-M-063</unitid>
+               <unittitle>Additional material</unittitle>
+               <physdesc>
+                  <extent>0.25 linear feet</extent>
+               </physdesc>
+            </did>
+            <scopecontent>
+               <p>This addition consists of handwritten lecture notes, most likely from the late 1980s through the mid 1990s.</p>
+            </scopecontent>
+            <c02 id="ref435" level="file">
+               <did>
+                  <container type="Box" label="39002075148222">1</container>
+                  <container type="Folder">1</container>
+                  <unittitle>Architects and architecture</unittitle>
+                  <unitdate>no date</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref436" level="file">
+               <did>
+                  <container type="Box" label="39002075148222">1</container>
+                  <container type="Folder">2</container>
+                  <unittitle>Italian history</unittitle>
+                  <unitdate>no date</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref437" level="file">
+               <did>
+                  <container type="Box" label="39002075148222">1</container>
+                  <container type="Folder">3</container>
+                  <unittitle>Society and culture since 1945</unittitle>
+                  <unitdate>no date</unitdate>
+               </did>
+            </c02>
+         </c01>
+      </dsc>
+      <odd id="ref439" type="appendix">
+         <head>Audio Tape Appendix</head>
+         <table>
+            <tgroup cols="3">
+               <thead>
+                  <row>
+                     <entry>ID</entry>
+                     <entry>Description</entry>
+                     <entry>Format</entry>
+                  </row>
+               </thead>
+               <tbody>
+                  <row>
+                     <entry>1</entry>
+                     <entry>"Approaches to European Intellectual History" [Symposium honoring HSH], tape 1</entry>
+                     <entry>90 minute cassette, TDK D90</entry>
+                  </row>
+                  <row>
+                     <entry>2</entry>
+                     <entry>"Approaches to European Intellectual History" [Symposium honoring HSH], tape 2</entry>
+                     <entry>90 minute cassette, TDK D90</entry>
+                  </row>
+                  <row>
+                     <entry>3</entry>
+                     <entry>"Approaches to European Intellectual History" [Symposium honoring HSH], tape 3</entry>
+                     <entry>90 minute cassette, TDK D90</entry>
+                  </row>
+                  <row>
+                     <entry>4</entry>
+                     <entry>"Approaches to European Intellectual History" [Symposium honoring HSH], tape 4</entry>
+                     <entry>90 minute cassette, TDK D90</entry>
+                  </row>
+                  <row>
+                     <entry>5</entry>
+                     <entry>"Approaches to European Intellectual History" [Symposium honoring HSH], tape 5</entry>
+                     <entry>90 minute cassette, TDK D90</entry>
+                  </row>
+               </tbody>
+            </tgroup>
+         </table>
+      </odd>
+   </archdesc>
+</ead>

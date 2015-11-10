@@ -1,0 +1,4104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead> 
+<!--The following section is header information that describes the finding aid-->
+<eadheader langencoding="iso639-2b" scriptencoding="iso15924"
+ relatedencoding="dc" repositoryencoding="iso15511" countryencoding="iso3166-1"
+ dateencoding="iso8601" id="a0"> 
+	 <eadid countrycode="us" encodinganalog="identifier" mainagencycode="WaSMAR"
+	  identifier="80444/xv66709"
+	  url="http://nwda.orbiscascade.org/ark:/80444/xv66709">WaSMAR1620_02</eadid>
+	 
+	 <filedesc> 
+		  <titlestmt> 
+				<titleproper encodinganalog="title">Guide to the Seattle Department
+					 of Community Development Housing and Neighborhood Development Central Files 
+					 <date encodinganalog="date"
+					  normal="1960/1979">1960-1979</date></titleproper> 
+				<titleproper type="filing" altrender="nodisplay">Seattle Department
+					 of Community Development Housing and Neighborhood Development Central
+					 Files</titleproper> 
+				<author encodinganalog="creator">Finding aid prepared by Julie
+					 Kerssen</author> 
+		  </titlestmt> 
+		  <publicationstmt> 
+		  <!--To link to your logo, click on the diamond in the <extptr> tag below and enter the full
+URL of the digital logo file in the HREF attribute. Describe image in TITLE attribute, eg., University of 
+Oregon logo-->
+				<publisher encodinganalog="publisher">Seattle Municipal Archives
+					 <extptr actuate="onload" show="embed" role="image/jpeg"
+					  href="http://clerk.ci.seattle.wa.us/~archives/logo2.jpg "
+					  title="City of Seattle logo"/></publisher> 
+				<date encodinganalog="date" normal="2009">© 2009</date> 
+				<address> 
+					 <addressline>PO Box 94728</addressline> 
+					 <addressline>600 Fourth Avenue, Floor 3</addressline> 
+					 <addressline>Seattle, WA 98124-4728</addressline> 
+					 <addressline>Phone: 206/233-7807</addressline> 
+					 <addressline>Email: archives@seattle.gov</addressline> 
+					 <addressline>http://www.seattle.gov/cityarchives</addressline> 
+				</address> 
+		  </publicationstmt> 
+	 </filedesc> 
+	 <profiledesc> 
+		  <creation>Finding aid encoded by Julie Kerssen 
+				<date era="ce" calendar="gregorian"
+				 normal="2009">2009</date></creation> 
+		  <langusage>Finding aid written in
+				<language langcode="eng" encodinganalog="language"
+				 scriptcode="latn">English</language>.</langusage> <descrules>Finding aid based
+		  on DACS ( 
+		  <title render="italic">Describing Archives: A Content
+				Standard</title>).</descrules> 
+	 </profiledesc> 
+	 <revisiondesc> 
+		  <change> 
+				<date era="ce" calendar="gregorian" normal="2011">September
+					 2011</date> 
+				<item>Added boxes 17-21</item> 
+		  </change> 
+	 </revisiondesc>
+</eadheader> 
+<archdesc level="collection" type="inventory" relatedencoding="marc21"> 
+<did id="a1"> 
+	 <repository> 
+		  <corpname
+			encodinganalog="852$a">City of Seattle<subarea encodinganalog="852$b"> Seattle
+				Municipal Archives</subarea></corpname> 
+		  <address> 
+				<addressline>PO Box 94728</addressline> 
+				<addressline>600 Fourth Avenue, Floor 3</addressline> 
+				<addressline>Seattle, WA 98124-4728</addressline> 
+				<addressline>Phone: 206/233-7807</addressline> 
+				<addressline>Email: archives@seattle.gov</addressline> 
+				<addressline>http://www.seattle.gov/cityarchives</addressline> 
+		  </address> </repository> 
+	 <unitid encodinganalog="099" countrycode="us"
+	  repositorycode="WaSMAR">1620-02</unitid> 
+	 <origination> 
+		 <!--Use corpname element for creator of organizational records.  (For personal or family creators, use 
+persname or famname elements.)  Add/verify information in SOURCE, RULES, ROLE, and ENCODINGANALOG 
+attributes.  Look up name of organization in Library of Congress Name Authority File (http://authorities.loc.gov).  If it 
+appears, use that form of the name and set SOURCE="lcnaf".  If an authorized form of the name does not appear, 
+formulate according to DACS or AACR2 and set RULES attribute to "dacs" or "aacr2" as appropriate.
+Set ROLE="creator" (you may also use "collector" if appropriate) and ENCODINGANALOG="110"
+for corpname and "100" for persname).-->
+		  <corpname encodinganalog="110" role="creator" source="lcnaf">Seattle
+				(Wash.). Dept. of Community Development</corpname></origination> 
+	 <unittitle encodinganalog="245$a">Department of Community Development
+		  Housing and Neighborhood Development Central Files</unittitle> 
+	 <unitdate type="inclusive" encodinganalog="245$f" era="ce"
+	  calendar="gregorian" normal="1960/1979">1960-1979</unitdate> 
+
+	 <physdesc> 
+	 <extent encodinganalog="300$a">18.0 cubic feet</extent>
+	 <extent encodinganalog="300$a">21 boxes</extent>
+	 </physdesc>
+	 <abstract encodinganalog="5203_">Records documenting urban renewal and
+		  neighborhood development projects.</abstract> <langmaterial>Collection
+	 materials are in <language encodinganalog="546" langcode="eng">
+	 English</language></langmaterial> 
+</did> 
+<bioghist encodinganalog="5451_" id="a2">
+<!--Enter ENCODINGANALOG value of 5450_ for biog. or 5451_ for historical note, or use 
+<head> element-->
+	 <head>Historical Note</head> 
+	 <p>The Department of Community Development administered the City's
+		  comprehensive plan and provided direction and support for the City's physical
+		  and economic development through community planning. DCD was established in
+		  1969 and assumed the responsibilities of the City Planning Commission and the
+		  Urban Renewal Program. In 1972, the Office of Economic Development was created
+		  in the Department to provide information to businesses that were expanding or
+		  relocating in Seattle. DCD was the lead agency for implementing various types
+		  of grant funded projects, such as Neighborhood Improvement Program, Targeted
+		  Neighborhood Assistance Program, and Neighborhood Development Program. DCD was
+		  abolished in 1992 and its programs were relocated in the Department of
+		  Neighborhoods, Department of Housing and Human Services, Planning Department,
+		  and other agencies. DCD records include material from the City Planning
+		  Commission, Zoning Commission, Metropolitan Arts Commission, Board of
+		  Adjustment, and Urban Renewal Program. </p> 
+</bioghist> 
+<scopecontent encodinganalog="5202_" id="a3"> 
+	 <p>Correspondence, memoranda, reports, contracts, drawings, accounting
+		  records, and newspaper clippings relating to urban renewal, Neighborhood
+		  Improvement Projects, and Neighborhood Development Projects. Include records
+		  for Yesler-Atlantic, South Seattle, Northlake, South Park, Leschi, and North
+		  Greenwood projects. Early records in this series were generated by the Urban
+		  Renewal Program office. </p> 
+</scopecontent> 
+<accessrestrict encodinganalog="506" id="a14"> 
+	 <p>Records are open to the public.</p> 
+</accessrestrict> 
+<prefercite encodinganalog="524" id="a18"> 
+	 <!--Preferred format for citing the collection: samples follow.  Choose photos or records, then fill in collection
+title and record series number for the collection.  Delete the other sample.-->
+	 <p>[Item and date], Seattle Department of Community Development Housing and
+		  Neighborhood Development Central Files, Record Series 1620-02. Box [number],
+		  Folder [number]. Seattle Municipal Archives.</p>
+</prefercite> 
+<controlaccess id="a12"> 
+	 <p>This collection is indexed under the following headings in the online
+		  catalog. Researchers desiring materials about related topics, persons, or
+		  places should search the catalog using these headings.</p> 
+	 <controlaccess> 
+		  <corpname role="subject" encodinganalog="610" source="lcsh"> Seattle
+				(Wash.). Dept. of Community Development</corpname> 
+		  <corpname role="subject" encodinganalog="610" source="lcsh">Seattle
+				(Wash.). Urban Renewal Program</corpname> 
+	 </controlaccess> 
+	 <controlaccess> 
+		  <!--Place name; if established in LCSH or other authority, use SOURCE="lcsh" or 
+		  code for other authority.  ENCODINGANALOG="651" and ROLE="subject".-->
+		  <geogname role="subject" encodinganalog="651" source="lcsh">Seattle
+				(Wash.)</geogname> 
+	 </controlaccess> 
+	 <controlaccess><!--Subject term; indicate source of term in SOURCE attribute, such as 
+	 "lcsh" or "lctgm"; see Best Practices Guidelines for further details. If you cannot find appropriate terms in LCSH, 
+you may use terms from the City Clerk's Thesaurus and enter "local" under SOURCE.-->
+		  <subject encodinganalog="650" source="lcsh">Community
+				development--Washington (State)--Seattle</subject> 
+		  <subject encodinganalog="650" source="lcsh">Urban renewal--Washington
+				(State)--Seattle</subject> 
+		  <subject encodinganalog="650" source="lcsh">City planning--Washington
+				(State)--Seattle</subject> 
+		  <subject encodinganalog="650" source="lcsh">Housing--Washington
+				(State)--Seattle</subject> 
+		  <subject source="lcsh" encodinganalog="650">Pike Place Market (Seattle,
+				Wash.) </subject> 
+		  <subject source="lcsh" encodinganalog="650">Yesler-Atlantic
+				Neighborhood Improvement Project (Seattle, Wash.) </subject> 
+		  <subject source="lcsh" encodinganalog="650">South Seattle
+				(Wash.)</subject> 
+	 </controlaccess> 
+	 <controlaccess><!--NWDA browsing terms; at least one is required.  SOURCE="nwda", ALTRENDER="nodisplay", 
+and ENCODINGANALOG="690"-->
+		  <subject source="nwda" altrender="nodisplay" encodinganalog="690">City
+				Planning</subject> 
+		  <subject source="nwda" altrender="nodisplay"
+		  encodinganalog="690">Seattle</subject> 
+	 </controlaccess> 
+</controlaccess> 
+<dsc type="combined" id="a23"> 
+	 <p>The following section contains a detailed listing of the materials in
+		  the collection.</p> 
+	 <c01 level="series"> 
+		  <did> 
+				<unitid encodinganalog="099">1620-02</unitid> 
+				<unittitle encodinganalog="245$a">Department of Community
+					 Development Housing and Neighborhood Development Central Files</unittitle> 
+				<unitdate type="inclusive" encodinganalog="245$f"
+				normal="1960/1979">1960-1979</unitdate> 
+		  </did> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">1/1</container> 
+					 <unittitle encodinganalog="245$a">Housing and Neighborhood
+						  Development, Seattle Housing Authority</unittitle> 
+					 <unitdate normal="1976" encodinganalog="245$f">1976</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">1/2</container> 
+					 <unittitle encodinganalog="245$a">Housing and Neighborhood
+						  Development, Community Profiles</unittitle> 
+					 <unitdate normal="/" encodinganalog="245$f">-</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">1/3</container> 
+					 <unittitle encodinganalog="245$a">Housing and Neighborhood
+						  Development, Contracts, General</unittitle> 
+					 <unitdate normal="1974" encodinganalog="245$f">1974</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">1/4</container> 
+					 <unittitle encodinganalog="245$a">Housing and Neighborhood
+						  Development, Reports and Studies, General</unittitle> 
+					 <unitdate normal="1972/1974"
+					 encodinganalog="245$f">1972-1974</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">1/5</container> 
+					 <unittitle encodinganalog="245$a">Housing and Neighborhood
+						  Development, Reports and Studies, Annual Report</unittitle> 
+					 <unitdate normal="1976" encodinganalog="245$f">1976</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">1/6</container> 
+					 <unittitle encodinganalog="245$a">Housing and Neighborhood
+						  Development, Policies and Procedures, Director of Off of Housing
+						  Development</unittitle> 
+					 <unitdate normal="1974/1976"
+					 encodinganalog="245$f">1974-1976</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">1/7</container> 
+					 <unittitle encodinganalog="245$a">Housing and Neighborhood
+						  Development, Policies and Procedures, Administration</unittitle> 
+					 <unitdate normal="1970/1972"
+					 encodinganalog="245$f">1970-1972</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">1/8</container> 
+					 <unittitle encodinganalog="245$a">Housing and Neighborhood
+						  Development, Rehabilitation, Seattle Housing Authority</unittitle> 
+					 <unitdate normal="1973/1976"
+					 encodinganalog="245$f">1973-1976</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">1/9</container> 
+					 <unittitle encodinganalog="245$a">Housing and Neighborhood
+						  Development, Public Relations, Misc.</unittitle> 
+					 <unitdate normal="1977" encodinganalog="245$f">1977</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">1/10</container> 
+					 <unittitle encodinganalog="245$a">Housing and Neighborhood
+						  Development, Press Release and Newspaper Clippings</unittitle> 
+					 <unitdate normal="1976/1977"
+					 encodinganalog="245$f">1976-1977</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">1/11</container> 
+					 <unittitle encodinganalog="245$a">Housing and Neighborhood
+						  Development, Accountability Memoranda</unittitle> 
+					 <unitdate normal="1976/1977"
+					 encodinganalog="245$f">1976-1977</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">1/12</container> 
+					 <unittitle encodinganalog="245$a">Housing and Neighborhood
+						  Development, Affirmative Action Program, EEO</unittitle> 
+					 <unitdate normal="1971/1974"
+					 encodinganalog="245$f">1971-1974</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">1/13</container> 
+					 <unittitle encodinganalog="245$a">Housing and Neighborhood
+						  Development, Building Department, Inspection Services</unittitle> 
+					 <unitdate normal="1975/1976"
+					 encodinganalog="245$f">1975-1976</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">1/14</container> 
+					 <unittitle encodinganalog="245$a">Housing and Neighborhood
+						  Development, Building Department, Contracts</unittitle> 
+					 <unitdate normal="1976" encodinganalog="245$f">1976</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">1/15</container> 
+					 <unittitle encodinganalog="245$a">Housing and Neighborhood
+						  Development, Building Department</unittitle> 
+					 <unitdate normal="1976" encodinganalog="245$f">1976</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">1/16</container> 
+					 <unittitle encodinganalog="245$a">Housing and Neighborhood
+						  Development, Rehabilitation, General</unittitle> 
+					 <unitdate normal="1975/1976"
+					 encodinganalog="245$f">1975-1976</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">1/17</container> 
+					 <unittitle encodinganalog="245$a">Housing and Neighborhood
+						  Development, Demolition and Site Clearance</unittitle> 
+					 <unitdate normal="1975" encodinganalog="245$f">1975</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">1/18</container> 
+					 <unittitle encodinganalog="245$a">Housing and Neighborhood
+						  Development, Engineering Department, Public Improvements</unittitle> 
+					 <unitdate normal="1975" encodinganalog="245$f">1975</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">1/19</container> 
+					 <unittitle encodinganalog="245$a">Housing and Neighborhood
+						  Development, CETA, Real Estate Aide</unittitle> 
+					 <unitdate normal="/" encodinganalog="245$f">-</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">1/20</container> 
+					 <unittitle encodinganalog="245$a">Housing and Neighborhood
+						  Development, Policies and Procedures, Administration</unittitle> 
+					 <unitdate normal="/" encodinganalog="245$f">- </unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">1/21</container> 
+					 <unittitle encodinganalog="245$a">Housing and Neighborhood
+						  Development, Policies and Procedures, Administration</unittitle> 
+					 <unitdate normal="1973" encodinganalog="245$f">1973</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">1/22</container> 
+					 <unittitle encodinganalog="245$a">Housing and Neighborhood
+						  Development, Press Release and Newspaper clippings</unittitle> 
+					 <unitdate normal="1970/1976"
+					 encodinganalog="245$f">1970-1976</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">1/23</container> 
+					 <unittitle encodinganalog="245$a">Housing and Neighborhood
+						  Development, Citizen Participation, General</unittitle> 
+					 <unitdate normal="1970/1976"
+					 encodinganalog="245$f">1970-1976</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">2/1</container> 
+					 <unittitle encodinganalog="245$a">Housing and Neighborhood
+						  Development, Budget , Re - Programming</unittitle> 
+					 <unitdate normal="1977" encodinganalog="245$f">1977</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">2/2</container> 
+					 <unittitle encodinganalog="245$a">Housing and Neighborhood
+						  Development, Reports and Studies, General</unittitle> 
+					 <unitdate normal="1971/1973"
+					 encodinganalog="245$f">1971-1973</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">2/3</container> 
+					 <unittitle encodinganalog="245$a">Housing and Neighborhood
+						  Development, Physical Progress Reports</unittitle> 
+					 <unitdate normal="1973/1975"
+					 encodinganalog="245$f">1973-1975</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">2/4</container> 
+					 <unittitle encodinganalog="245$a">Housing and Neighborhood
+						  Development, Work Program Report, Quarterly Division Summary</unittitle> 
+					 <unitdate normal="/" encodinganalog="245$f">-</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">2/5</container> 
+					 <unittitle encodinganalog="245$a">Housing and Neighborhood
+						  Development, Reports and Studies, Real Property and Acquisition
+						  Reports</unittitle> 
+					 <unitdate normal="1973" encodinganalog="245$f">1973</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">2/6</container> 
+					 <unittitle encodinganalog="245$a">Housing and Neighborhood
+						  Development, Physical Progress Reports</unittitle> 
+					 <unitdate normal="1974" encodinganalog="245$f">1974</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">2/7</container> 
+					 <unittitle encodinganalog="245$a">Housing and Neighborhood
+						  Development, Section 312, Chronological Correspondence</unittitle> 
+					 <unitdate normal="1976/1977"
+					 encodinganalog="245$f">1976-1977</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">2/8</container> 
+					 <unittitle encodinganalog="245$a">Housing and Neighborhood
+						  Development, Housing Assistance Plan (Report)</unittitle> 
+					 <unitdate normal="1977" encodinganalog="245$f">1977</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">2/9</container> 
+					 <unittitle encodinganalog="245$a">Housing and Neighborhood
+						  Development, Seattle Urban Renewal (Report)</unittitle> 
+					 <unitdate normal="1973" encodinganalog="245$f">1973</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">2/10</container> 
+					 <unittitle encodinganalog="245$a">Housing and Neighborhood
+						  Development, I - 90</unittitle> 
+					 <unitdate normal="1976" encodinganalog="245$f">1976</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">2/11</container> 
+					 <unittitle encodinganalog="245$a">Housing and Neighborhood
+						  Development, Housing, General</unittitle> 
+					 <unitdate normal="1974/1975"
+					 encodinganalog="245$f">1974-1975</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">2/12</container> 
+					 <unittitle encodinganalog="245$a">Housing and Neighborhood
+						  Development, Housing Assistance Payment Program</unittitle> 
+					 <unitdate normal="1976/1977"
+					 encodinganalog="245$f">1976-1977</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">2/13</container> 
+					 <unittitle encodinganalog="245$a">Housing and Neighborhood
+						  Development, Grants</unittitle> 
+					 <unitdate normal="1976" encodinganalog="245$f">1976</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">2/14</container> 
+					 <unittitle encodinganalog="245$a">Housing and Neighborhood
+						  Development, Environmental, General</unittitle> 
+					 <unitdate normal="1976" encodinganalog="245$f">1976</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">2/15</container> 
+					 <unittitle encodinganalog="245$a">Northlake,
+						  Acquisition</unittitle> 
+					 <unitdate normal="1965/1976"
+					 encodinganalog="245$f">1965-1976</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">2/16</container> 
+					 <unittitle encodinganalog="245$a">Northlake, Acquisition,
+						  Direct by the University of Washington</unittitle> 
+					 <unitdate normal="1965/1976"
+					 encodinganalog="245$f">1965-1976</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">2/17</container> 
+					 <unittitle encodinganalog="245$a">Northlake, Appraisals, Number
+						  One</unittitle> 
+					 <unitdate normal="1965/1976"
+					 encodinganalog="245$f">1965-1976</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">2/18</container> 
+					 <unittitle encodinganalog="245$a">Northlake, Appraisals, Number
+						  Two</unittitle> 
+					 <unitdate normal="1965/1976"
+					 encodinganalog="245$f">1965-1976</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">2/19</container> 
+					 <unittitle encodinganalog="245$a">Northlake, Request for
+						  Concurrence</unittitle> 
+					 <unitdate normal="1965/1976"
+					 encodinganalog="245$f">1965-1976</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">3/1</container> 
+					 <unittitle encodinganalog="245$a">Northlake,
+						  Consultants</unittitle> 
+					 <unitdate normal="1965/1976"
+					 encodinganalog="245$f">1965-1976</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">3/2</container> 
+					 <unittitle encodinganalog="245$a">Northlake, Community
+						  Councils</unittitle> 
+					 <unitdate normal="1965/1976"
+					 encodinganalog="245$f">1965-1976</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">3/3</container> 
+					 <unittitle encodinganalog="245$a">Northlake, Amendatory
+						  Application for Loan and Grant, Part One</unittitle> 
+					 <unitdate normal="/" encodinganalog="245$f">-</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">3/4</container> 
+					 <unittitle encodinganalog="245$a">Northlake, Amendatory
+						  Application for Loan and Grant, Part Two</unittitle> 
+					 <unitdate normal="/" encodinganalog="245$f">-</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">3/5</container> 
+					 <unittitle encodinganalog="245$a">Northlake, Amendatory
+						  Application (Second), Part One</unittitle> 
+					 <unitdate normal="/" encodinganalog="245$f">-</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">3/6</container> 
+					 <unittitle encodinganalog="245$a">Northlake, Contract for
+						  Planning Advance</unittitle> 
+					 <unitdate normal="/" encodinganalog="245$f">-</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">3/7</container> 
+					 <unittitle encodinganalog="245$a">Northlake, Loan and Capital
+						  Grant Contract</unittitle> 
+					 <unitdate normal="/" encodinganalog="245$f">-</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">3/8</container> 
+					 <unittitle encodinganalog="245$a">Northlake, Amendatory
+						  Application (Second), Part Two</unittitle> 
+					 <unitdate normal="/" encodinganalog="245$f">-</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">3/9</container> 
+					 <unittitle encodinganalog="245$a">Northlake, Amendatory
+						  Application (Third)</unittitle> 
+					 <unitdate normal="/" encodinganalog="245$f">-</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">3/10</container> 
+					 <unittitle encodinganalog="245$a">Northlake, Time
+						  Extension</unittitle> 
+					 <unitdate normal="/" encodinganalog="245$f">-</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">3/11</container> 
+					 <unittitle encodinganalog="245$a">Northlake, Amendatory
+						  Application (First)</unittitle> 
+					 <unitdate normal="/" encodinganalog="245$f">-</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">3/12</container> 
+					 <unittitle encodinganalog="245$a">Northlake,
+						  Correspondence</unittitle> 
+					 <unitdate normal="1965/1976"
+					 encodinganalog="245$f">1965-1976</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">3/13</container> 
+					 <unittitle encodinganalog="245$a">Northlake, Memoranda, Tenant
+						  Accounts</unittitle> 
+					 <unitdate normal="1965/1976"
+					 encodinganalog="245$f">1965-1976</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">3/14</container> 
+					 <unittitle encodinganalog="245$a">Northlake, Environmental
+						  Impact Statement</unittitle> 
+					 <unitdate normal="/" encodinganalog="245$f">-</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">3/15</container> 
+					 <unittitle encodinganalog="245$a">Northlake, Demolition and
+						  Site Clearance</unittitle> 
+					 <unitdate normal="/" encodinganalog="245$f">-</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">3/16</container> 
+					 <unittitle encodinganalog="245$a">Northlake, Demolition
+						  Contract</unittitle> 
+					 <unitdate normal="/" encodinganalog="245$f">-</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">3/17</container> 
+					 <unittitle encodinganalog="245$a">Northlake, Demolition
+						  Contract</unittitle> 
+					 <unitdate normal="/" encodinganalog="245$f">-</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">3/18</container> 
+					 <unittitle encodinganalog="245$a">Northlake, Demolition
+						  Contract</unittitle> 
+					 <unitdate normal="/" encodinganalog="245$f">-</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">3/19</container> 
+					 <unittitle encodinganalog="245$a">Northlake, Labor
+						  Standards</unittitle> 
+					 <unitdate normal="1965/1976"
+					 encodinganalog="245$f">1965-1976</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">3/20</container> 
+					 <unittitle encodinganalog="245$a">Northlake, Fact Sheets,
+						  Statistics</unittitle> 
+					 <unitdate normal="/" encodinganalog="245$f">-</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">3/21</container> 
+					 <unittitle encodinganalog="245$a">Northlake, Budgetary Status
+						  Reports</unittitle> 
+					 <unitdate normal="/" encodinganalog="245$f">-</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">3/22</container> 
+					 <unittitle encodinganalog="245$a">Northlake, Capital Grant and
+						  Relocation</unittitle> 
+					 <unitdate normal="/" encodinganalog="245$f">-</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">3/23</container> 
+					 <unittitle encodinganalog="245$a">Northlake, Claim for
+						  Relocation</unittitle> 
+					 <unitdate normal="/" encodinganalog="245$f">-</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">3/24</container> 
+					 <unittitle encodinganalog="245$a">Northlake, Non-Cash Grants -
+						  in - Aid</unittitle> 
+					 <unitdate normal="1974" encodinganalog="245$f">1974</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">3/25</container> 
+					 <unittitle encodinganalog="245$a">Northlake, Non-Cash Grants -
+						  in - Aid</unittitle> 
+					 <unitdate normal="1972/1973"
+					 encodinganalog="245$f">1972-1973</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">4/1</container> 
+					 <unittitle encodinganalog="245$a">Northlake, Non-Cash Grants -
+						  in - Aid</unittitle> 
+					 <unitdate normal="1962/1971"
+					 encodinganalog="245$f">1962-1971</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">4/2</container> 
+					 <unittitle encodinganalog="245$a">Northlake, Preliminary Loan
+						  Notes</unittitle> 
+					 <unitdate normal="1963/1972"
+					 encodinganalog="245$f">1963-1972</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">4/3</container> 
+					 <unittitle encodinganalog="245$a">Northlake, Project Loan
+						  Notes</unittitle> 
+					 <unitdate normal="1974/1976"
+					 encodinganalog="245$f">1974-1976</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">4/4</container> 
+					 <unittitle encodinganalog="245$a">Northlake, Project Loan
+						  Notes, Second Series</unittitle> 
+					 <unitdate normal="1974" encodinganalog="245$f">1974</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">4/5</container> 
+					 <unittitle encodinganalog="245$a">Northlake, Project Loan
+						  Notes, Fourth Series</unittitle> 
+					 <unitdate normal="1974" encodinganalog="245$f">1974</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">4/6</container> 
+					 <unittitle encodinganalog="245$a">Northlake, Project Loan
+						  Notes, Third Series</unittitle> 
+					 <unitdate normal="1972" encodinganalog="245$f">1972</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">4/7</container> 
+					 <unittitle encodinganalog="245$a">Northlake, Reports, Quarterly
+						  and Semi - Annual</unittitle> 
+					 <unitdate normal="1964/1974"
+					 encodinganalog="245$f">1964-1974</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">4/8</container> 
+					 <unittitle encodinganalog="245$a">Northlake, Project Loan
+						  Notes, Second Series</unittitle> 
+					 <unitdate normal="1971" encodinganalog="245$f">1971</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">4/9</container> 
+					 <unittitle encodinganalog="245$a">Northlake, Project Loan
+						  Notes, Third Series</unittitle> 
+					 <unitdate normal="1970" encodinganalog="245$f">1970</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">4/10</container> 
+					 <unittitle encodinganalog="245$a">Northlake, Survey and
+						  Planning Budgets</unittitle> 
+					 <unitdate normal="1972" encodinganalog="245$f">1972</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">4/11</container> 
+					 <unittitle encodinganalog="245$a">Northlake, Urgent
+						  Needs</unittitle> 
+					 <unitdate normal="1976" encodinganalog="245$f">1976</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">4/12</container> 
+					 <unittitle encodinganalog="245$a">Northlake, Revised
+						  Application for Loan and Grant</unittitle> 
+					 <unitdate normal="1963" encodinganalog="245$f">1963</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">4/13</container> 
+					 <unittitle encodinganalog="245$a">Northlake, Revised
+						  Application for Loan and Grant</unittitle> 
+					 <unitdate normal="1963" encodinganalog="245$f">1963</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">4/14</container> 
+					 <unittitle encodinganalog="245$a">Northlake, Tax
+						  Credits</unittitle> 
+					 <unitdate normal="1966/1972"
+					 encodinganalog="245$f">1966-1972</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">4/15</container> 
+					 <unittitle encodinganalog="245$a">Northlake, Temporary Loan
+						  Notes</unittitle> 
+					 <unitdate normal="1972" encodinganalog="245$f">1972</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">4/16</container> 
+					 <unittitle encodinganalog="245$a">Northlake, Proposed Third
+						  Sale</unittitle> 
+					 <unitdate normal="1974/1976"
+					 encodinganalog="245$f">1974-1976</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">4/17</container> 
+					 <unittitle encodinganalog="245$a">Northlake,
+						  Redevelopment</unittitle> 
+					 <unitdate normal="1975" encodinganalog="245$f">1975</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">4/18</container> 
+					 <unittitle encodinganalog="245$a">Northlake, Request for
+						  Concurrence in Disposition</unittitle> 
+					 <unitdate normal="1967/1969"
+					 encodinganalog="245$f">1967-1969</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">4/19</container> 
+					 <unittitle encodinganalog="245$a">Northlake, Disposition
+						  Proceeds Estimates</unittitle> 
+					 <unitdate normal="1975/1976"
+					 encodinganalog="245$f">1975-1976</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">4/20</container> 
+					 <unittitle encodinganalog="245$a">Northlake, Disposition ,
+						  General</unittitle> 
+					 <unitdate normal="1975" encodinganalog="245$f">1975</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">4/21</container> 
+					 <unittitle encodinganalog="245$a">Northlake, Apostle verses
+						  City of Seattle</unittitle> 
+					 <unitdate normal="1969/1970"
+					 encodinganalog="245$f">1969-1970</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">4/22</container> 
+					 <unittitle encodinganalog="245$a">Northlake, Apostle verses
+						  City of Seattle</unittitle> 
+					 <unitdate normal="1969/1970"
+					 encodinganalog="245$f">1969-1970</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">4/23</container> 
+					 <unittitle encodinganalog="245$a">Northlake, Apostle verses
+						  City of Seattle, Final Decision</unittitle> 
+					 <unitdate normal="1970" encodinganalog="245$f">1970</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">4/24</container> 
+					 <unittitle encodinganalog="245$a">Northlake,
+						  Condemnation</unittitle> 
+					 <unitdate normal="1972" encodinganalog="245$f">1972</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">4/25</container> 
+					 <unittitle encodinganalog="245$a">Northlake, Land Purchase and
+						  Redevelopment Agreement</unittitle> 
+					 <unitdate normal="1972" encodinganalog="245$f">1972</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">5/1</container> 
+					 <unittitle encodinganalog="245$a">Northlake, Legal,
+						  General</unittitle> 
+					 <unitdate normal="1972" encodinganalog="245$f">1972</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">5/2</container> 
+					 <unittitle encodinganalog="245$a">Northlake, Agreements and
+						  Resolutions</unittitle> 
+					 <unitdate normal="1964/1972"
+					 encodinganalog="245$f">1964-1972</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">5/3</container> 
+					 <unittitle encodinganalog="245$a">Northlake, Wallingford and
+						  Montlake Community Council verses City</unittitle> 
+					 <unitdate normal="1975/1976"
+					 encodinganalog="245$f">1975-1976</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">5/4</container> 
+					 <unittitle encodinganalog="245$a">Northlake, Shorelines Permit
+						  Appeal, Wallingford and Montlake</unittitle> 
+					 <unitdate normal="1975/1976"
+					 encodinganalog="245$f">1975-1976</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">5/5</container> 
+					 <unittitle encodinganalog="245$a">Northlake,
+						  Organizations</unittitle> 
+					 <unitdate normal="1971" encodinganalog="245$f">1971</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">5/6</container> 
+					 <unittitle encodinganalog="245$a">Northlake, Other
+						  Departments</unittitle> 
+					 <unitdate normal="1962/1974"
+					 encodinganalog="245$f">1962-1974</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">5/7</container> 
+					 <unittitle encodinganalog="245$a">Northlake,
+						  Utilities</unittitle> 
+					 <unitdate normal="1961/1972"
+					 encodinganalog="245$f">1961-1972</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">5/8</container> 
+					 <unittitle encodinganalog="245$a">Northlake, Request for
+						  Certification of 112 Credit</unittitle> 
+					 <unitdate normal="1965" encodinganalog="245$f">1965</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">5/9</container> 
+					 <unittitle encodinganalog="245$a">Northlake, Project
+						  Improvements, General</unittitle> 
+					 <unitdate normal="1966/1976"
+					 encodinganalog="245$f">1966-1976</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">5/10</container> 
+					 <unittitle encodinganalog="245$a">Northlake, Northeast Pacific
+						  Street</unittitle> 
+					 <unitdate normal="1966/1976"
+					 encodinganalog="245$f">1966-1976</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">5/11</container> 
+					 <unittitle encodinganalog="245$a">Northlake, Owner
+						  Participants</unittitle> 
+					 <unitdate normal="1966/1976"
+					 encodinganalog="245$f">1966-1976</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">5/12</container> 
+					 <unittitle encodinganalog="245$a">Northlake, Property
+						  Owners</unittitle> 
+					 <unitdate normal="1966/1976"
+					 encodinganalog="245$f">1966-1976</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">5/13</container> 
+					 <unittitle encodinganalog="245$a">Northlake, Public
+						  Hearings</unittitle> 
+					 <unitdate normal="1966/1976"
+					 encodinganalog="245$f">1966-1976</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">5/14</container> 
+					 <unittitle encodinganalog="245$a">Northlake, Relocation and
+						  Property Management</unittitle> 
+					 <unitdate normal="1966/1976"
+					 encodinganalog="245$f">1966-1976</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">5/15</container> 
+					 <unittitle encodinganalog="245$a">Northlake, Relocation
+						  Study</unittitle> 
+					 <unitdate normal="1966/1976"
+					 encodinganalog="245$f">1966-1976</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">5/16</container> 
+					 <unittitle encodinganalog="245$a">Northlake, Activity
+						  Reports</unittitle> 
+					 <unitdate normal="1966/1976"
+					 encodinganalog="245$f">1966-1976</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">5/17</container> 
+					 <unittitle encodinganalog="245$a">Northlake, Liaison
+						  Committee</unittitle> 
+					 <unitdate normal="1966/1976"
+					 encodinganalog="245$f">1966-1976</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">5/18</container> 
+					 <unittitle encodinganalog="245$a">Northlake, Owners, Landlords
+						  and Tenants</unittitle> 
+					 <unitdate normal="1966/1976"
+					 encodinganalog="245$f">1966-1976</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">5/19</container> 
+					 <unittitle encodinganalog="245$a">Northlake, Liability
+						  Insurance</unittitle> 
+					 <unitdate normal="1966/1976"
+					 encodinganalog="245$f">1966-1976</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">5/20</container> 
+					 <unittitle encodinganalog="245$a">Northlake, Physical
+						  Progress</unittitle> 
+					 <unitdate normal="1966/1976"
+					 encodinganalog="245$f">1966-1976</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">5/21</container> 
+					 <unittitle encodinganalog="245$a">Northlake, Reports,
+						  General</unittitle> 
+					 <unitdate normal="1974" encodinganalog="245$f">1974</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">5/22</container> 
+					 <unittitle encodinganalog="245$a">Northlake, Special and Semi -
+						  Annual Reports</unittitle> 
+					 <unitdate normal="1972" encodinganalog="245$f">1972</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">5/23</container> 
+					 <unittitle encodinganalog="245$a">Northlake, Status of Land
+						  Acquisition</unittitle> 
+					 <unitdate normal="1975" encodinganalog="245$f">1975</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">5/24</container> 
+					 <unittitle encodinganalog="245$a">Northlake,
+						  Surveys</unittitle> 
+					 <unitdate normal="1962/1966"
+					 encodinganalog="245$f">1962-1966</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">5/25</container> 
+					 <unittitle encodinganalog="245$a">Northlake, University of
+						  Washington, Wessman Report</unittitle> 
+					 <unitdate normal="1968" encodinganalog="245$f">1968</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">5/26</container> 
+					 <unittitle encodinganalog="245$a">Northlake, Report on Public
+						  Improvements</unittitle> 
+					 <unitdate normal="1971" encodinganalog="245$f">1971</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">5/27</container> 
+					 <unittitle encodinganalog="245$a">Northlake, Northlake Project,
+						  General</unittitle> 
+					 <unitdate normal="1962" encodinganalog="245$f">1962</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">6/1</container> 
+					 <unittitle encodinganalog="245$a">Northlake, Preliminary Design
+						  Report</unittitle> 
+					 <unitdate normal="1965" encodinganalog="245$f">1965</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">6/2</container> 
+					 <unittitle encodinganalog="245$a">Northlake, Utilities
+						  Study</unittitle> 
+					 <unitdate normal="/" encodinganalog="245$f">-</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">6/3</container> 
+					 <unittitle encodinganalog="245$a">South Seattle,
+						  Acquisition</unittitle> 
+					 <unitdate normal="1965/1971"
+					 encodinganalog="245$f">1965-1971</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">6/4</container> 
+					 <unittitle encodinganalog="245$a">South Seattle,
+						  Appraisers</unittitle> 
+					 <unitdate normal="1965/1971"
+					 encodinganalog="245$f">1965-1971</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">6/5</container> 
+					 <unittitle encodinganalog="245$a">South Seattle, Request for
+						  Concurrence</unittitle> 
+					 <unitdate normal="1965/1971"
+					 encodinganalog="245$f">1965-1971</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">6/6</container> 
+					 <unittitle encodinganalog="245$a">South Seattle, Consultants,
+						  General</unittitle> 
+					 <unitdate normal="1965/1971"
+					 encodinganalog="245$f">1965-1971</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">6/7</container> 
+					 <unittitle encodinganalog="245$a">South Seattle, Planning
+						  Advance, Contract for</unittitle> 
+					 <unitdate normal="1965/1971"
+					 encodinganalog="245$f">1965-1971</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">6/8</container> 
+					 <unittitle encodinganalog="245$a">South Seattle, Loan and Grant
+						  Contract, First and Second Amendment</unittitle> 
+					 <unitdate normal="/" encodinganalog="245$f">-</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">6/9</container> 
+					 <unittitle encodinganalog="245$a">South Seattle, Third
+						  Amendatory Contract</unittitle> 
+					 <unitdate normal="/" encodinganalog="245$f">-</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">6/10</container> 
+					 <unittitle encodinganalog="245$a">South Seattle, Fourth
+						  Amendatory Contract</unittitle> 
+					 <unitdate normal="/" encodinganalog="245$f">-</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">6/11</container> 
+					 <unittitle encodinganalog="245$a">South Seattle,
+						  Correspondence, Loan and Grant and Amendatory</unittitle> 
+					 <unitdate normal="/" encodinganalog="245$f">-</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">6/12</container> 
+					 <unittitle encodinganalog="245$a">South Seattle,
+						  Correspondence, General</unittitle> 
+					 <unitdate normal="1965/1971"
+					 encodinganalog="245$f">1965-1971</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">6/13</container> 
+					 <unittitle encodinganalog="245$a">South Seattle,
+						  Memoranda</unittitle> 
+					 <unitdate normal="1965/1971"
+					 encodinganalog="245$f">1965-1971</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">6/14</container> 
+					 <unittitle encodinganalog="245$a">South Seattle, Demolition and
+						  Site Clearance</unittitle> 
+					 <unitdate normal="1965/1971"
+					 encodinganalog="245$f">1965-1971</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">6/15</container> 
+					 <unittitle encodinganalog="245$a">South Seattle, Fact Sheet,
+						  Statistics</unittitle> 
+					 <unitdate normal="/" encodinganalog="245$f">-</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">6/16</container> 
+					 <unittitle encodinganalog="245$a">South Seattle, Cost Estimate
+						  and Finance Plan</unittitle> 
+					 <unitdate normal="/" encodinganalog="245$f">-</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">6/17</container> 
+					 <unittitle encodinganalog="245$a">South Seattle, Financing,
+						  General</unittitle> 
+					 <unitdate normal="1965/1971"
+					 encodinganalog="245$f">1965-1971</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">6/18</container> 
+					 <unittitle encodinganalog="245$a">South Seattle, Relocation and
+						  Property Management</unittitle> 
+					 <unitdate normal="1965/1971"
+					 encodinganalog="245$f">1965-1971</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">6/19</container> 
+					 <unittitle encodinganalog="245$a">South Seattle, Claim for
+						  Relocation Payment</unittitle> 
+					 <unitdate normal="/" encodinganalog="245$f">-</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">6/20</container> 
+					 <unittitle encodinganalog="245$a">South Seattle, Contract, Part
+						  Two, Number Seven</unittitle> 
+					 <unitdate normal="1965" encodinganalog="245$f">1965</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">6/21</container> 
+					 <unittitle encodinganalog="245$a">South Seattle, Contract,
+						  Second Amendatory, Number Five</unittitle> 
+					 <unitdate normal="1969" encodinganalog="245$f">1969</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">6/22</container> 
+					 <unittitle encodinganalog="245$a">South Seattle, Contract,
+						  Fourth Amendatory, Number Eight</unittitle> 
+					 <unitdate normal="1971" encodinganalog="245$f">1971</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">6/23</container> 
+					 <unittitle encodinganalog="245$a">South Seattle, Contract,
+						  Second Amendatory, Number Two</unittitle> 
+					 <unitdate normal="1969" encodinganalog="245$f">1969</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">6/24</container> 
+					 <unittitle encodinganalog="245$a">South Seattle, Contract,
+						  Amendment Relocation, Number Six</unittitle> 
+					 <unitdate normal="1968" encodinganalog="245$f">1968</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">6/25</container> 
+					 <unittitle encodinganalog="245$a">South Seattle, Contract,
+						  Survey and Planning Application</unittitle> 
+					 <unitdate normal="1962" encodinganalog="245$f">1962</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">6/26</container> 
+					 <unittitle encodinganalog="245$a">South Seattle, Contract,
+						  Amendment Relocation, Number Four</unittitle> 
+					 <unitdate normal="1969" encodinganalog="245$f">1969</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">6/27</container> 
+					 <unittitle encodinganalog="245$a">South Seattle, Contract,
+						  Amendment Relocation, Number Six</unittitle> 
+					 <unitdate normal="1969" encodinganalog="245$f">1969</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">6/28</container> 
+					 <unittitle encodinganalog="245$a">South Seattle, Contract,
+						  Amendment Relocation, Number Eight</unittitle> 
+					 <unitdate normal="1969" encodinganalog="245$f">1969</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">6/29</container> 
+					 <unittitle encodinganalog="245$a">South Seattle, Non - Cash
+						  Grants - in - Aid</unittitle> 
+					 <unitdate normal="1972" encodinganalog="245$f">1972</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">6/30</container> 
+					 <unittitle encodinganalog="245$a">South Seattle, Non - Cash
+						  Grants - in - Aid</unittitle> 
+					 <unitdate normal="1974" encodinganalog="245$f">1974</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">6/31</container> 
+					 <unittitle encodinganalog="245$a">South Seattle, Project Note
+						  Sale, First Series</unittitle> 
+					 <unitdate normal="1969" encodinganalog="245$f">1969</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">7/1</container> 
+					 <unittitle encodinganalog="245$a">South Seattle, Project Note
+						  Sale, First Series</unittitle> 
+					 <unitdate normal="1970" encodinganalog="245$f">1970</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">7/2</container> 
+					 <unittitle encodinganalog="245$a">South Seattle, Project Note
+						  Sale, Sixth Series</unittitle> 
+					 <unitdate normal="1970" encodinganalog="245$f">1970</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">7/3</container> 
+					 <unittitle encodinganalog="245$a">South Seattle, Project Note
+						  Sale, Third Series</unittitle> 
+					 <unitdate normal="1971" encodinganalog="245$f">1971</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">7/4</container> 
+					 <unittitle encodinganalog="245$a">South Seattle, Project Note
+						  Sale, Fourth - Sixth Series</unittitle> 
+					 <unitdate normal="1971" encodinganalog="245$f">1971</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">7/5</container> 
+					 <unittitle encodinganalog="245$a">South Seattle, Request for
+						  Advance Payment</unittitle> 
+					 <unitdate normal="1960/1974"
+					 encodinganalog="245$f">1960-1974</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">7/6</container> 
+					 <unittitle encodinganalog="245$a">South Seattle, Request for
+						  Temporary Loan</unittitle> 
+					 <unitdate normal="1960/1974"
+					 encodinganalog="245$f">1960-1974</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">7/7</container> 
+					 <unittitle encodinganalog="245$a">South Seattle, Request for
+						  Temporary Loan</unittitle> 
+					 <unitdate normal="1960/1974"
+					 encodinganalog="245$f">1960-1974</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">7/8</container> 
+					 <unittitle encodinganalog="245$a">South Seattle, Request for
+						  Temporary Loan</unittitle> 
+					 <unitdate normal="1960/1974"
+					 encodinganalog="245$f">1960-1974</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">7/9</container> 
+					 <unittitle encodinganalog="245$a">South Seattle, Request for
+						  Capital Grant</unittitle> 
+					 <unitdate normal="1960/1974"
+					 encodinganalog="245$f">1960-1974</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">7/10</container> 
+					 <unittitle encodinganalog="245$a">South Seattle, Survey and
+						  Planning Budget</unittitle> 
+					 <unitdate normal="1960/1974"
+					 encodinganalog="245$f">1960-1974</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">7/11</container> 
+					 <unittitle encodinganalog="245$a">South Seattle, Tax
+						  Credits</unittitle> 
+					 <unitdate normal="1960/1974"
+					 encodinganalog="245$f">1960-1974</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">7/12</container> 
+					 <unittitle encodinganalog="245$a">South Seattle, Preliminary
+						  Loan, $3,290,000.00</unittitle> 
+					 <unitdate normal="/" encodinganalog="245$f">-</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">7/13</container> 
+					 <unittitle encodinganalog="245$a">South Seattle, Preliminary
+						  Loan, $3,875,000.00</unittitle> 
+					 <unitdate normal="/" encodinganalog="245$f">-</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">7/14</container> 
+					 <unittitle encodinganalog="245$a">South Seattle, Preliminary
+						  Loan, $3,800,000.00</unittitle> 
+					 <unitdate normal="/" encodinganalog="245$f">-</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">7/15</container> 
+					 <unittitle encodinganalog="245$a">South Seattle, Project
+						  Balance Sheet</unittitle> 
+					 <unitdate normal="1960/1974"
+					 encodinganalog="245$f">1960-1974</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">7/16</container> 
+					 <unittitle encodinganalog="245$a">South Seattle, Disposition,
+						  General</unittitle> 
+					 <unitdate normal="/" encodinganalog="245$f">-</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">7/17</container> 
+					 <unittitle encodinganalog="245$a">South Seattle, Disposition,
+						  General</unittitle> 
+					 <unitdate normal="/" encodinganalog="245$f">-</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">7/18</container> 
+					 <unittitle encodinganalog="245$a">South Seattle, Disposition,
+						  First Sale</unittitle> 
+					 <unitdate normal="/" encodinganalog="245$f">-</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">7/19</container> 
+					 <unittitle encodinganalog="245$a">South Seattle, Disposition,
+						  Second Sale</unittitle> 
+					 <unitdate normal="/" encodinganalog="245$f">-</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">7/20</container> 
+					 <unittitle encodinganalog="245$a">South Seattle, Land Marketing
+						  and Redevelopment</unittitle> 
+					 <unitdate normal="1960/1973"
+					 encodinganalog="245$f">1960-1973</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">7/21</container> 
+					 <unittitle encodinganalog="245$a">South Seattle, Disposition,
+						  Third Sale</unittitle> 
+					 <unitdate normal="/" encodinganalog="245$f">-</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">7/22</container> 
+					 <unittitle encodinganalog="245$a">South Seattle, Real Estate
+						  Listing Agreements</unittitle> 
+					 <unitdate normal="1960/1973"
+					 encodinganalog="245$f">1960-1973</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">7/23</container> 
+					 <unittitle encodinganalog="245$a">South Seattle,
+						  Condemnation</unittitle> 
+					 <unitdate normal="1960/1973"
+					 encodinganalog="245$f">1960-1973</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">7/24</container> 
+					 <unittitle encodinganalog="245$a">South Seattle, Legal, Folder
+						  One</unittitle> 
+					 <unitdate normal="1960/1973"
+					 encodinganalog="245$f">1960-1973</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">7/25</container> 
+					 <unittitle encodinganalog="245$a">South Seattle, Legal,
+						  General</unittitle> 
+					 <unitdate normal="1960/1973"
+					 encodinganalog="245$f">1960-1973</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">7/26</container> 
+					 <unittitle encodinganalog="245$a">South Seattle,
+						  Maps</unittitle> 
+					 <unitdate normal="/" encodinganalog="245$f">-</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">8/1</container> 
+					 <unittitle encodinganalog="245$a">South Seattle,
+						  Organizations</unittitle> 
+					 <unitdate normal="1960/1973"
+					 encodinganalog="245$f">1960-1973</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">8/2</container> 
+					 <unittitle encodinganalog="245$a">South Seattle, Other
+						  Departments</unittitle> 
+					 <unitdate normal="1960/1973"
+					 encodinganalog="245$f">1960-1973</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">8/3</container> 
+					 <unittitle encodinganalog="245$a">South Seattle, Plan, Urban
+						  Renewal</unittitle> 
+					 <unitdate normal="1960/1973"
+					 encodinganalog="245$f">1960-1973</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">8/4</container> 
+					 <unittitle encodinganalog="245$a">South Seattle,
+						  City</unittitle> 
+					 <unitdate normal="1960/1973"
+					 encodinganalog="245$f">1960-1973</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">8/5</container> 
+					 <unittitle encodinganalog="245$a">South Seattle,
+						  Landscaping</unittitle> 
+					 <unitdate normal="/" encodinganalog="245$f">-</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">8/6</container> 
+					 <unittitle encodinganalog="245$a">South Seattle, Project
+						  Improvements</unittitle> 
+					 <unitdate normal="1960/1973"
+					 encodinganalog="245$f">1960-1973</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">8/7</container> 
+					 <unittitle encodinganalog="245$a">South Seattle,
+						  Utilities</unittitle> 
+					 <unitdate normal="1960/1973"
+					 encodinganalog="245$f">1960-1973</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">8/8</container> 
+					 <unittitle encodinganalog="245$a">South Seattle, Owners
+						  Participants</unittitle> 
+					 <unitdate normal="1960/1973"
+					 encodinganalog="245$f">1960-1973</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">8/9</container> 
+					 <unittitle encodinganalog="245$a">South Seattle, Property
+						  Owners</unittitle> 
+					 <unitdate normal="1960/1973"
+					 encodinganalog="245$f">1960-1973</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">8/10</container> 
+					 <unittitle encodinganalog="245$a">South Seattle, Public
+						  Hearing</unittitle> 
+					 <unitdate normal="1960/1973"
+					 encodinganalog="245$f">1960-1973</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">8/11</container> 
+					 <unittitle encodinganalog="245$a">South Seattle, Public
+						  Relations</unittitle> 
+					 <unitdate normal="1960/1973"
+					 encodinganalog="245$f">1960-1973</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">8/12</container> 
+					 <unittitle encodinganalog="245$a">South Seattle,
+						  Rehabilitation</unittitle> 
+					 <unitdate normal="1960/1973"
+					 encodinganalog="245$f">1960-1973</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">8/13</container> 
+					 <unittitle encodinganalog="245$a">South Seattle, Owners,
+						  Landlords and Tenants Liability Insurance</unittitle> 
+					 <unitdate normal="1966/1973"
+					 encodinganalog="245$f">1966-1973</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">8/14</container> 
+					 <unittitle encodinganalog="245$a">South Seattle, Physical
+						  Progress</unittitle> 
+					 <unitdate normal="1966/1973"
+					 encodinganalog="245$f">1966-1973</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">8/15</container> 
+					 <unittitle encodinganalog="245$a">South Seattle, Special
+						  Reports</unittitle> 
+					 <unitdate normal="1966/1973"
+					 encodinganalog="245$f">1966-1973</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">8/16</container> 
+					 <unittitle encodinganalog="245$a">South Seattle, Status of Land
+						  Acquisition</unittitle> 
+					 <unitdate normal="1960/1973"
+					 encodinganalog="245$f">1960-1973</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">8/17</container> 
+					 <unittitle encodinganalog="245$a">South Seattle, Planning and
+						  Engineering Report</unittitle> 
+					 <unitdate normal="/" encodinganalog="245$f">-</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">8/18</container> 
+					 <unittitle encodinganalog="245$a">South Seattle, Proposal for
+						  Economic Services</unittitle> 
+					 <unitdate normal="/" encodinganalog="245$f">-</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">8/19</container> 
+					 <unittitle encodinganalog="245$a">South Seattle, Proposal for
+						  Planning and Engineering Services</unittitle> 
+					 <unitdate normal="/" encodinganalog="245$f">-</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">8/20</container> 
+					 <unittitle encodinganalog="245$a">South Seattle, Reuse
+						  Appraisal Analysis</unittitle> 
+					 <unitdate normal="/" encodinganalog="245$f">-</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">8/21</container> 
+					 <unittitle encodinganalog="245$a">South Seattle, Activity
+						  Reports</unittitle> 
+					 <unitdate normal="1966/1973"
+					 encodinganalog="245$f">1966-1973</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">8/22</container> 
+					 <unittitle encodinganalog="245$a">Yesler / Atlantic,
+						  Acquisition</unittitle> 
+					 <unitdate normal="1966/1973"
+					 encodinganalog="245$f">1966-1973</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">8/23</container> 
+					 <unittitle encodinganalog="245$a">Yesler / Atlantic, Land
+						  Acquisition Progress Report, Acquisition Number Two</unittitle> 
+					 <unitdate normal="/" encodinganalog="245$f">-</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">8/24</container> 
+					 <unittitle encodinganalog="245$a">Yesler / Atlantic,
+						  Appraisals</unittitle> 
+					 <unitdate normal="1966/1973"
+					 encodinganalog="245$f">1966-1973</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">9/1</container> 
+					 <unittitle encodinganalog="245$a">Yesler / Atlantic, Parcel
+						  Eleven -Three, Seattle Community College</unittitle> 
+					 <unitdate normal="/" encodinganalog="245$f">-</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">9/2</container> 
+					 <unittitle encodinganalog="245$a">Yesler / Atlantic,
+						  Proclaimers / Worksheets</unittitle> 
+					 <unitdate normal="1966/1973"
+					 encodinganalog="245$f">1966-1973</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">9/3</container> 
+					 <unittitle encodinganalog="245$a">Yesler / Atlantic, Request
+						  for Concurrence</unittitle> 
+					 <unitdate normal="/" encodinganalog="245$f">-</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">9/4</container> 
+					 <unittitle encodinganalog="245$a">Yesler / Atlantic, Parcel
+						  Forty -Three - One A</unittitle> 
+					 <unitdate normal="/" encodinganalog="245$f">-</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">9/5</container> 
+					 <unittitle encodinganalog="245$a">Yesler / Atlantic, Parcel
+						  Eight B, Seattle Koyasan Church</unittitle> 
+					 <unitdate normal="/" encodinganalog="245$f">-</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">9/6</container> 
+					 <unittitle encodinganalog="245$a">Yesler / Atlantic, Citizen
+						  Participation</unittitle> 
+					 <unitdate normal="1966/1973"
+					 encodinganalog="245$f">1966-1973</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">9/7</container> 
+					 <unittitle encodinganalog="245$a">Yesler / Atlantic, Project
+						  Committee</unittitle> 
+					 <unitdate normal="1966/1973"
+					 encodinganalog="245$f">1966-1973</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">9/8</container> 
+					 <unittitle encodinganalog="245$a">Yesler / Atlantic,
+						  Consultants, General</unittitle> 
+					 <unitdate normal="1966/1973"
+					 encodinganalog="245$f">1966-1973</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">9/9</container> 
+					 <unittitle encodinganalog="245$a">Yesler / Atlantic, Survey and
+						  Planning Application</unittitle> 
+					 <unitdate normal="/" encodinganalog="245$f">-</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">9/10</container> 
+					 <unittitle encodinganalog="245$a">Yesler / Atlantic, First
+						  Amendatory Application</unittitle> 
+					 <unitdate normal="/" encodinganalog="245$f">-</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">9/11</container> 
+					 <unittitle encodinganalog="245$a">Yesler / Atlantic, Second
+						  Amendatory Application</unittitle> 
+					 <unitdate normal="/" encodinganalog="245$f">-</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">9/12</container> 
+					 <unittitle encodinganalog="245$a">Yesler / Atlantic, Contract
+						  for Advance Survey</unittitle> 
+					 <unitdate normal="/" encodinganalog="245$f">-</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">9/13</container> 
+					 <unittitle encodinganalog="245$a">Yesler / Atlantic, Loan and
+						  Grant Contract</unittitle> 
+					 <unitdate normal="/" encodinganalog="245$f">-</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">9/14</container> 
+					 <unittitle encodinganalog="245$a">Yesler / Atlantic, First
+						  Amendatory Loan and Grant Contract</unittitle> 
+					 <unitdate normal="/" encodinganalog="245$f">-</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">9/15</container> 
+					 <unittitle encodinganalog="245$a">Yesler / Atlantic, Second
+						  Amendatory Loan and Grant Contract</unittitle> 
+					 <unitdate normal="/" encodinganalog="245$f">-</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">9/16</container> 
+					 <unittitle encodinganalog="245$a">Yesler / Atlantic, Loan and
+						  Grant Correspondence</unittitle> 
+					 <unitdate normal="1966/1973"
+					 encodinganalog="245$f">1966-1973</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">9/17</container> 
+					 <unittitle encodinganalog="245$a">Yesler / Atlantic, Fourth
+						  Amendatory Loan and Grant Contract</unittitle> 
+					 <unitdate normal="/" encodinganalog="245$f">-</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">9/18</container> 
+					 <unittitle encodinganalog="245$a">Yesler / Atlantic, Fifth
+						  Amendatory Loan and Grant Contract</unittitle> 
+					 <unitdate normal="/" encodinganalog="245$f">-</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">9/19</container> 
+					 <unittitle encodinganalog="245$a">Yesler / Atlantic,
+						  Correspondence, General</unittitle> 
+					 <unitdate normal="/" encodinganalog="245$f">-</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">9/20</container> 
+					 <unittitle encodinganalog="245$a">Yesler / Atlantic,
+						  Correspondence, General</unittitle> 
+					 <unitdate normal="/" encodinganalog="245$f">-</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">9/21</container> 
+					 <unittitle encodinganalog="245$a">Yesler / Atlantic, Memoranda,
+						  General</unittitle> 
+					 <unitdate normal="/" encodinganalog="245$f">-</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">9/22</container> 
+					 <unittitle encodinganalog="245$a">Yesler / Atlantic, Memoranda,
+						  General</unittitle> 
+					 <unitdate normal="/" encodinganalog="245$f">-</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">9/23</container> 
+					 <unittitle encodinganalog="245$a">Yesler / Atlantic, Demolition
+						  and Site Clearance</unittitle> 
+					 <unitdate normal="/" encodinganalog="245$f">-</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">9/24</container> 
+					 <unittitle encodinganalog="245$a">Yesler / Atlantic,
+						  Environmental Impact Statement</unittitle> 
+					 <unitdate normal="/" encodinganalog="245$f">-</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">10/1</container> 
+					 <unittitle encodinganalog="245$a">Yesler / Atlantic, Fact
+						  Sheet</unittitle> 
+					 <unitdate normal="/" encodinganalog="245$f">-</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">10/2</container> 
+					 <unittitle encodinganalog="245$a">Yesler / Atlantic,
+						  Financing</unittitle> 
+					 <unitdate normal="1966/1973"
+					 encodinganalog="245$f">1966-1973</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">10/3</container> 
+					 <unittitle encodinganalog="245$a">Yesler / Atlantic, Non - Cash
+						  Grants - In - Aid</unittitle> 
+					 <unitdate normal="/" encodinganalog="245$f">-</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">10/4</container> 
+					 <unittitle encodinganalog="245$a">Yesler / Atlantic, Project
+						  Cost Estimates</unittitle> 
+					 <unitdate normal="1966/1973"
+					 encodinganalog="245$f">1966-1973</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">10/5</container> 
+					 <unittitle encodinganalog="245$a">Yesler / Atlantic, Project
+						  Loan Notes</unittitle> 
+					 <unitdate normal="1966/1973"
+					 encodinganalog="245$f">1966-1973</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">10/6</container> 
+					 <unittitle encodinganalog="245$a">Yesler / Atlantic, Project
+						  Note Sale, Sixth Series</unittitle> 
+					 <unitdate normal="/" encodinganalog="245$f">-</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">10/7</container> 
+					 <unittitle encodinganalog="245$a">Yesler / Atlantic, Project
+						  Note Sale, Second Series</unittitle> 
+					 <unitdate normal="/" encodinganalog="245$f">-</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">10/8</container> 
+					 <unittitle encodinganalog="245$a">Yesler / Atlantic, Project
+						  Note Sale, First Series</unittitle> 
+					 <unitdate normal="/" encodinganalog="245$f">-</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">10/9</container> 
+					 <unittitle encodinganalog="245$a">Yesler / Atlantic, Report on
+						  Budget Status</unittitle> 
+					 <unitdate normal="1966/1973"
+					 encodinganalog="245$f">1966-1973</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">10/10</container> 
+					 <unittitle encodinganalog="245$a">Yesler / Atlantic, Request
+						  for Advance Payments</unittitle> 
+					 <unitdate normal="1962/1977"
+					 encodinganalog="245$f">1962-1977</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">10/11</container> 
+					 <unittitle encodinganalog="245$a">Yesler / Atlantic, Tax
+						  Credit</unittitle> 
+					 <unitdate normal="1962/1977"
+					 encodinganalog="245$f">1962-1977</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">10/12</container> 
+					 <unittitle encodinganalog="245$a">Yesler / Atlantic, Temporary
+						  Loan Payments</unittitle> 
+					 <unitdate normal="/" encodinganalog="245$f">-</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">10/13</container> 
+					 <unittitle encodinganalog="245$a">Yesler / Atlantic, Temporary
+						  Loan Payments</unittitle> 
+					 <unitdate normal="/" encodinganalog="245$f">-</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">10/14</container> 
+					 <unittitle encodinganalog="245$a">Yesler / Atlantic, Temporary
+						  Loan Payments</unittitle> 
+					 <unitdate normal="/" encodinganalog="245$f">-</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">10/15</container> 
+					 <unittitle encodinganalog="245$a">Yesler / Atlantic, Temporary
+						  Loan Payments</unittitle> 
+					 <unitdate normal="/" encodinganalog="245$f">-</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">10/16</container> 
+					 <unittitle encodinganalog="245$a">Yesler / Atlantic, Temporary
+						  Loan Payments</unittitle> 
+					 <unitdate normal="/" encodinganalog="245$f">-</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">10/17</container> 
+					 <unittitle encodinganalog="245$a">Yesler / Atlantic,
+						  Disposition, General</unittitle> 
+					 <unitdate normal="/" encodinganalog="245$f">-</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">10/18</container> 
+					 <unittitle encodinganalog="245$a">Yesler / Atlantic,
+						  Disposition, General</unittitle> 
+					 <unitdate normal="/" encodinganalog="245$f">-</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">10/19</container> 
+					 <unittitle encodinganalog="245$a">Yesler / Atlantic,
+						  Maps</unittitle> 
+					 <unitdate normal="/" encodinganalog="245$f">-</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">10/20</container> 
+					 <unittitle encodinganalog="245$a">Yesler / Atlantic, Other
+						  Departments, General</unittitle> 
+					 <unitdate normal="1962/1977"
+					 encodinganalog="245$f">1962-1977</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">10/21</container> 
+					 <unittitle encodinganalog="245$a">Yesler / Atlantic,
+						  Disposition, Parcel Three</unittitle> 
+					 <unitdate normal="/" encodinganalog="245$f">-</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">10/22</container> 
+					 <unittitle encodinganalog="245$a">Yesler / Atlantic,
+						  Disposition, Parcels Five and Six</unittitle> 
+					 <unitdate normal="/" encodinganalog="245$f">-</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">10/23</container> 
+					 <unittitle encodinganalog="245$a">Yesler / Atlantic,
+						  Disposition, Parcel Twenty - Three A</unittitle> 
+					 <unitdate normal="/" encodinganalog="245$f">-</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">10/24</container> 
+					 <unittitle encodinganalog="245$a">Yesler / Atlantic, Yesler
+						  Atlantic Park</unittitle> 
+					 <unitdate normal="/" encodinganalog="245$f">-</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">10/25</container> 
+					 <unittitle encodinganalog="245$a">Yesler / Atlantic, Daycare
+						  Center (Parcel 26)</unittitle> 
+					 <unitdate normal="/" encodinganalog="245$f">-</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">10/26</container> 
+					 <unittitle encodinganalog="245$a">Yesler / Atlantic,
+						  Disposition, Parcel Twenty - Five</unittitle> 
+					 <unitdate normal="/" encodinganalog="245$f">-</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">10/27</container> 
+					 <unittitle encodinganalog="245$a">Yesler / Atlantic,
+						  Disposition, Parcel Thirty - Eight</unittitle> 
+					 <unitdate normal="/" encodinganalog="245$f">-</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">10/28</container> 
+					 <unittitle encodinganalog="245$a">Yesler / Atlantic,
+						  Disposition, Parcel Sixty - Eight A</unittitle> 
+					 <unitdate normal="/" encodinganalog="245$f">-</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">10/29</container> 
+					 <unittitle encodinganalog="245$a">Yesler / Atlantic,
+						  Disposition, Parcel Seventy - Eight</unittitle> 
+					 <unitdate normal="/" encodinganalog="245$f">-</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">10/30</container> 
+					 <unittitle encodinganalog="245$a">Yesler / Atlantic, Land Use,
+						  General</unittitle> 
+					 <unitdate normal="1962/1977"
+					 encodinganalog="245$f">1962-1977</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">10/31</container> 
+					 <unittitle encodinganalog="245$a">Yesler / Atlantic,
+						  P-Patch</unittitle> 
+					 <unitdate normal="1962/1977"
+					 encodinganalog="245$f">1962-1977</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">10/32</container> 
+					 <unittitle encodinganalog="245$a">Yesler / Atlantic, Safeway
+						  Store</unittitle> 
+					 <unitdate normal="/" encodinganalog="245$f">-</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">10/33</container> 
+					 <unittitle encodinganalog="245$a">Yesler / Atlantic, Legal,
+						  General</unittitle> 
+					 <unitdate normal="1962/1977"
+					 encodinganalog="245$f">1962-1977</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">10/34</container> 
+					 <unittitle encodinganalog="245$a">Yesler / Atlantic, Parks,
+						  Playgrounds, and Schools</unittitle> 
+					 <unitdate normal="1962/1977"
+					 encodinganalog="245$f">1962-1977</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">10/35</container> 
+					 <unittitle encodinganalog="245$a">Yesler / Atlantic, Yesler
+						  Atlantic Park</unittitle> 
+					 <unitdate normal="/" encodinganalog="245$f">-</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">10/36</container> 
+					 <unittitle encodinganalog="245$a">Yesler / Atlantic, Parks,
+						  Playgrounds, and Schools</unittitle> 
+					 <unitdate normal="1969/1977"
+					 encodinganalog="245$f">1969-1977</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">11/1</container> 
+					 <unittitle encodinganalog="245$a">Yesler / Atlantic, Rezone
+						  Petitions</unittitle> 
+					 <unitdate normal="/" encodinganalog="245$f">-</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">11/2</container> 
+					 <unittitle encodinganalog="245$a">Yesler / Atlantic, Yesler
+						  Atlantic Park</unittitle> 
+					 <unitdate normal="1971/1975"
+					 encodinganalog="245$f">1971-1975</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">11/3</container> 
+					 <unittitle encodinganalog="245$a">Yesler / Atlantic, Urban
+						  Renewal Plan, General</unittitle> 
+					 <unitdate normal="1962/1977"
+					 encodinganalog="245$f">1962-1977</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">11/4</container> 
+					 <unittitle encodinganalog="245$a">Yesler / Atlantic, Project
+						  Improvements, General</unittitle> 
+					 <unitdate normal="1969/1973"
+					 encodinganalog="245$f">1969-1973</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">11/5</container> 
+					 <unittitle encodinganalog="245$a">Yesler / Atlantic, Project
+						  Improvements, General</unittitle> 
+					 <unitdate normal="1973/1975"
+					 encodinganalog="245$f">1973-1975</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">11/6</container> 
+					 <unittitle encodinganalog="245$a">Yesler / Atlantic, Urban
+						  Renewal Activities: History and Plan</unittitle> 
+					 <unitdate normal="1975" encodinganalog="245$f">1975</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">11/7</container> 
+					 <unittitle encodinganalog="245$a">Yesler / Atlantic, Public
+						  Relations, General</unittitle> 
+					 <unitdate normal="1974" encodinganalog="245$f">1974</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">11/8</container> 
+					 <unittitle encodinganalog="245$a">Yesler / Atlantic,
+						  Utilities</unittitle> 
+					 <unitdate normal="1963/1975"
+					 encodinganalog="245$f">1963-1975</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">11/9</container> 
+					 <unittitle encodinganalog="245$a">Yesler / Atlantic, Parks
+						  Department</unittitle> 
+					 <unitdate normal="1973/1974"
+					 encodinganalog="245$f">1973-1974</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">11/10</container> 
+					 <unittitle encodinganalog="245$a">Yesler / Atlantic, Gai's
+						  Bakery</unittitle> 
+					 <unitdate normal="1972/1975"
+					  encodinganalog="245$f">1972-1975</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">11/11</container> 
+					 <unittitle encodinganalog="245$a">Yesler / Atlantic, Gai's
+						  Bakery</unittitle> 
+					 <unitdate normal="1971/1976"
+					 encodinganalog="245$f">1971-1976</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">11/12</container> 
+					 <unittitle encodinganalog="245$a">Yesler / Atlantic, Property
+						  Owners , General</unittitle> 
+					 <unitdate normal="1963/1975"
+					 encodinganalog="245$f">1963-1975</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">11/13</container> 
+					 <unittitle encodinganalog="245$a">Yesler / Atlantic, Planning,
+						  General</unittitle> 
+					 <unitdate normal="1969/1973"
+					 encodinganalog="245$f">1969-1973</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">11/15</container> 
+					 <unittitle encodinganalog="245$a">Yesler / Atlantic, Project
+						  Improvements, General</unittitle> 
+					 <unitdate normal="1970/1974"
+					 encodinganalog="245$f">1970-1974</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">11/16</container> 
+					 <unittitle encodinganalog="245$a">Yesler / Atlantic, Project
+						  Improvements, General</unittitle> 
+					 <unitdate normal="1975/1977"
+					 encodinganalog="245$f">1975-1977</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">11/17</container> 
+					 <unittitle encodinganalog="245$a">Yesler / Atlantic, Pedestrian
+						  Pathway</unittitle> 
+					 <unitdate normal="1970/1975"
+					 encodinganalog="245$f">1970-1975</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">11/18</container> 
+					 <unittitle encodinganalog="245$a">Yesler / Atlantic, Pedestrian
+						  Pathway</unittitle> 
+					 <unitdate normal="1969/1977"
+					 encodinganalog="245$f">1969-1977</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">11/18</container> 
+					 <unittitle encodinganalog="245$a">Yesler / Atlantic, Property
+						  Owners and Owner Participants (includes agreements)</unittitle> 
+					 <unitdate normal="1972/1976"
+					 encodinganalog="245$f">1972-1976</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">11/19</container> 
+					 <unittitle encodinganalog="245$a">Yesler / Atlantic, Buddhist
+						  Church</unittitle> 
+					 <unitdate normal="1976/1977"
+					 encodinganalog="245$f">1976-1977</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">11/20</container> 
+					 <unittitle encodinganalog="245$a">Yesler / Atlantic, Randolph
+						  Carter Industrial Workshop</unittitle> 
+					 <unitdate normal="1976/1977"
+					 encodinganalog="245$f">1976-1977</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">11/21</container> 
+					 <unittitle encodinganalog="245$a">Yesler / Atlantic, Odessa
+						  Brown Clinic</unittitle> 
+					 <unitdate normal="1976/1977"
+					 encodinganalog="245$f">1976-1977</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">11/22</container> 
+					 <unittitle encodinganalog="245$a">Yesler / Atlantic, Bethel
+						  Christian Church</unittitle> 
+					 <unitdate normal="1971/1977"
+					 encodinganalog="245$f">1971-1977</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">11/23</container> 
+					 <unittitle encodinganalog="245$a">Yesler / Atlantic,
+						  Rehabilitation, General</unittitle> 
+					 <unitdate normal="1969/1975"
+					 encodinganalog="245$f">1969-1975</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">11/24</container> 
+					 <unittitle encodinganalog="245$a">Yesler / Atlantic,
+						  Rehabilitation, General</unittitle> 
+					 <unitdate normal="1969/1977"
+					 encodinganalog="245$f">1969-1977</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">11/25</container> 
+					 <unittitle encodinganalog="245$a">Yesler / Atlantic
+						  Rehabilitation - Litigation</unittitle> 
+					 <unitdate normal="1969/1970"
+					 encodinganalog="245$f">1969-1970</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">11/25</container> 
+					 <unittitle encodinganalog="245$a">Yesler / Atlantic,
+						  Rehabilitation, Litigation (Bachman)</unittitle> 
+					 <unitdate normal="1969/1970"
+					 encodinganalog="245$f">1969-1970</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">11/26</container> 
+					 <unittitle encodinganalog="245$a">Yesler / Atlantic, Public
+						  Hearings, General</unittitle> 
+					 <unitdate normal="1963/1973"
+					 encodinganalog="245$f">1963-1973</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">12/1</container> 
+					 <unittitle encodinganalog="245$a">Yesler / Atlantic,
+						  Rehabilitation, Standards</unittitle> 
+					 <unitdate normal="1969/1977"
+					 encodinganalog="245$f">1969-1977</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">12/2</container> 
+					 <unittitle encodinganalog="245$a">Yesler / Atlantic,
+						  Rehabilitation, Litigation (Hawkins)</unittitle> 
+					 <unitdate normal="/" encodinganalog="245$f">-</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">12/3</container> 
+					 <unittitle encodinganalog="245$a">Yesler / Atlantic, Seattle
+						  Housing, Turnkey Three</unittitle> 
+					 <unitdate normal="1969/1977"
+					 encodinganalog="245$f">1969-1977</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">12/4</container> 
+					 <unittitle encodinganalog="245$a">Yesler / Atlantic, Property
+						  Management, Master File</unittitle> 
+					 <unitdate normal="1969/1977"
+					 encodinganalog="245$f">1969-1977</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">12/5</container> 
+					 <unittitle encodinganalog="245$a">Yesler / Atlantic, Property
+						  Status</unittitle> 
+					 <unitdate normal="1969/1977"
+					 encodinganalog="245$f">1969-1977</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">12/6</container> 
+					 <unittitle encodinganalog="245$a">Yesler / Atlantic, YANIP Rent
+						  Rolls</unittitle> 
+					 <unitdate normal="1976" encodinganalog="245$f">1976</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">12/7</container> 
+					 <unittitle encodinganalog="245$a">Yesler / Atlantic, Property
+						  Maintenance</unittitle> 
+					 <unitdate normal="1975/1976"
+					 encodinganalog="245$f">1975-1976</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">12/8</container> 
+					 <unittitle encodinganalog="245$a">Yesler / Atlantic, Activity
+						  Reports</unittitle> 
+					 <unitdate normal="1969/1977"
+					 encodinganalog="245$f">1969-1977</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">12/9</container> 
+					 <unittitle encodinganalog="245$a">Yesler / Atlantic, Owners ,
+						  Landlords and Tenants Liability Insurance</unittitle> 
+					 <unitdate normal="/" encodinganalog="245$f">-</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">12/10</container> 
+					 <unittitle encodinganalog="245$a">Yesler / Atlantic, EMAS
+						  Study</unittitle> 
+					 <unitdate normal="/" encodinganalog="245$f">-</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">12/11</container> 
+					 <unittitle encodinganalog="245$a">Yesler / Atlantic,
+						  Reports</unittitle> 
+					 <unitdate normal="1969/1977"
+					 encodinganalog="245$f">1969-1977</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">12/12</container> 
+					 <unittitle encodinganalog="245$a">Yesler / Atlantic, Survey and
+						  Studies</unittitle> 
+					 <unitdate normal="1969/1977"
+					 encodinganalog="245$f">1969-1977</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">12/13</container> 
+					 <unittitle encodinganalog="245$a">Yesler / Atlantic, Physical
+						  Progress</unittitle> 
+					 <unitdate normal="/" encodinganalog="245$f">-</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">12/14</container> 
+					 <unittitle encodinganalog="245$a">Yesler / Atlantic, Special
+						  and Semi - Annual Reports</unittitle> 
+					 <unitdate normal="/" encodinganalog="245$f">-</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">12/15</container> 
+					 <unittitle encodinganalog="245$a">Yesler / Atlantic, Status of
+						  Land Acquisition</unittitle> 
+					 <unitdate normal="1969/1977"
+					 encodinganalog="245$f">1969-1977</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">12/16</container> 
+					 <unittitle encodinganalog="245$a">Yesler / Atlantic, Status of
+						  Land Acquisition</unittitle> 
+					 <unitdate normal="1969/1977"
+					 encodinganalog="245$f">1969-1977</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">12/17</container> 
+					 <unittitle encodinganalog="245$a">Yesler / Atlantic, Closeout
+						  Contract</unittitle> 
+					 <unitdate normal="1977" encodinganalog="245$f">1977</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">12/18</container> 
+					 <unittitle encodinganalog="245$a">Yesler / Atlantic,
+						  Closeout</unittitle> 
+					 <unitdate normal="1976/1977"
+					 encodinganalog="245$f">1976-1977</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">12/19</container> 
+					 <unittitle encodinganalog="245$a">Yesler / Atlantic, Economic
+						  Feasibility of Land Uses in the YANIP (Report)</unittitle> 
+					 <unitdate normal="1973" encodinganalog="245$f">1973</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">12/20</container> 
+					 <unittitle encodinganalog="245$a">Yesler / Atlantic,
+						  Acquisition</unittitle> 
+					 <unitdate normal="1970/1977"
+					 encodinganalog="245$f">1970-1977</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">12/21</container> 
+					 <unittitle encodinganalog="245$a">Yesler / Atlantic, Request
+						  for Concurrence</unittitle> 
+					 <unitdate normal="1969/1977"
+					 encodinganalog="245$f">1969-1977</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">12/22</container> 
+					 <unittitle encodinganalog="245$a">Yesler / Atlantic,
+						  Appraisals</unittitle> 
+					 <unitdate normal="/" encodinganalog="245$f">-</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">12/23</container> 
+					 <unittitle encodinganalog="245$a">Yesler / Atlantic, Seattle
+						  Community College</unittitle> 
+					 <unitdate normal="/" encodinganalog="245$f">-</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">12/24</container> 
+					 <unittitle encodinganalog="245$a">Yesler / Atlantic, Citizen
+						  Participation</unittitle> 
+					 <unitdate normal="1969/1977"
+					 encodinganalog="245$f">1969-1977</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">12/25</container> 
+					 <unittitle encodinganalog="245$a">Yesler / Atlantic, Project
+						  Area Council</unittitle> 
+					 <unitdate normal="1970/1977"
+					 encodinganalog="245$f">1970-1977</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">12/26</container> 
+					 <unittitle encodinganalog="245$a">Yesler / Atlantic,
+						  Consultants</unittitle> 
+					 <unitdate normal="1970/1977"
+					 encodinganalog="245$f">1970-1977</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">12/27</container> 
+					 <unittitle encodinganalog="245$a">Yesler / Atlantic, Third
+						  Amendatory Loan and Grant Contract</unittitle> 
+					 <unitdate normal="/" encodinganalog="245$f">-</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">12/28</container> 
+					 <unittitle encodinganalog="245$a">Yesler / Atlantic, Loans and
+						  Grants</unittitle> 
+					 <unitdate normal="1973/1974"
+					 encodinganalog="245$f">1973-1974</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">12/29</container> 
+					 <unittitle encodinganalog="245$a">Yesler / Atlantic, Loans and
+						  Grants</unittitle> 
+					 <unitdate normal="1968/1972"
+					 encodinganalog="245$f">1968-1972</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">12/30</container> 
+					 <unittitle encodinganalog="245$a">Yesler / Atlantic,
+						  Correspondence, Other Departments</unittitle> 
+					 <unitdate normal="1970/1977"
+					 encodinganalog="245$f">1970-1977</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">13/1</container> 
+					 <unittitle encodinganalog="245$a">Yesler / Atlantic,
+						  Correspondence, General</unittitle> 
+					 <unitdate normal="1970/1977"
+					 encodinganalog="245$f">1970-1977</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">13/2</container> 
+					 <unittitle encodinganalog="245$a">Yesler / Atlantic, Demolition
+						  and Site Clearance</unittitle> 
+					 <unitdate normal="1970/1977"
+					 encodinganalog="245$f">1970-1977</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">13/3</container> 
+					 <unittitle encodinganalog="245$a">Yesler / Atlantic,
+						  Financing</unittitle> 
+					 <unitdate normal="1970/1977"
+					 encodinganalog="245$f">1970-1977</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">13/4</container> 
+					 <unittitle encodinganalog="245$a">Yesler / Atlantic, Non - Cash
+						  Grants - In - Aid</unittitle> 
+					 <unitdate normal="1970/1977"
+					 encodinganalog="245$f">1970-1977</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">13/5</container> 
+					 <unittitle encodinganalog="245$a">Yesler / Atlantic, Project
+						  Loan Notes</unittitle> 
+					 <unitdate normal="/" encodinganalog="245$f">-</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">13/6</container> 
+					 <unittitle encodinganalog="245$a">Yesler / Atlantic,
+						  Budgets</unittitle> 
+					 <unitdate normal="/" encodinganalog="245$f">-</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">13/7</container> 
+					 <unittitle encodinganalog="245$a">Yesler / Atlantic, Summary of
+						  Project Data</unittitle> 
+					 <unitdate normal="/" encodinganalog="245$f">-</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">13/8</container> 
+					 <unittitle encodinganalog="245$a">Yesler / Atlantic,
+						  Disposition, General</unittitle> 
+					 <unitdate normal="1969/1975"
+					 encodinganalog="245$f">1969-1975</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">13/9</container> 
+					 <unittitle encodinganalog="245$a">Yesler / Atlantic,
+						  Disposition Parcel, Number Thirteen</unittitle> 
+					 <unitdate normal="/" encodinganalog="245$f">-</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">13/10</container> 
+					 <unittitle encodinganalog="245$a">Yesler / Atlantic,
+						  Disposition Parcel, Number Twenty - Three</unittitle> 
+					 <unitdate normal="/" encodinganalog="245$f">-</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">13/11</container> 
+					 <unittitle encodinganalog="245$a">Yesler / Atlantic,
+						  Disposition Parcel, Number Twenty - Four</unittitle> 
+					 <unitdate normal="/" encodinganalog="245$f">-</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">13/12</container> 
+					 <unittitle encodinganalog="245$a">Yesler / Atlantic, Seattle
+						  Opportunities Industrialization Center</unittitle> 
+					 <unitdate normal="1969/1975"
+					 encodinganalog="245$f">1969-1975</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">13/13</container> 
+					 <unittitle encodinganalog="245$a">Yesler / Atlantic, Operation
+						  Breakthrough</unittitle> 
+					 <unitdate normal="/" encodinganalog="245$f">-</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">13/14</container> 
+					 <unittitle encodinganalog="245$a">Yesler / Atlantic, Operation
+						  Breakthrough</unittitle> 
+					 <unitdate normal="/" encodinganalog="245$f">-</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">13/15</container> 
+					 <unittitle encodinganalog="245$a">Yesler / Atlantic, Operation
+						  Breakthrough</unittitle> 
+					 <unitdate normal="/" encodinganalog="245$f">-</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">13/16</container> 
+					 <unittitle encodinganalog="245$a">Yesler / Atlantic,
+						  Disposition Parcel, Number Twenty - Five</unittitle> 
+					 <unitdate normal="/" encodinganalog="245$f">-</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">13/17</container> 
+					 <unittitle encodinganalog="245$a">Yesler / Atlantic,
+						  Disposition Parcel, Number Twenty - Six</unittitle> 
+					 <unitdate normal="/" encodinganalog="245$f">-</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">13/18</container> 
+					 <unittitle encodinganalog="245$a">Yesler / Atlantic,
+						  Disposition Parcel, (Daycare) Number Twenty - Six</unittitle> 
+					 <unitdate normal="/" encodinganalog="245$f">-</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">13/19</container> 
+					 <unittitle encodinganalog="245$a">Yesler / Atlantic,
+						  Disposition Parcel, Number Thirty - One</unittitle> 
+					 <unitdate normal="/" encodinganalog="245$f">-</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">13/20</container> 
+					 <unittitle encodinganalog="245$a">Yesler / Atlantic,
+						  Disposition Parcel, Number Forty - Nine A</unittitle> 
+					 <unitdate normal="/" encodinganalog="245$f">-</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">13/21</container> 
+					 <unittitle encodinganalog="245$a">Yesler / Atlantic,
+						  Disposition Parcel, Number Fifty - Three A</unittitle> 
+					 <unitdate normal="/" encodinganalog="245$f">-</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">13/22</container> 
+					 <unittitle encodinganalog="245$a">Yesler / Atlantic,
+						  Disposition Parcel, Number Seventy - Eight</unittitle> 
+					 <unitdate normal="/" encodinganalog="245$f">-</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">13/23</container> 
+					 <unittitle encodinganalog="245$a">Yesler / Atlantic, High Rise
+						  for the Elderly</unittitle> 
+					 <unitdate normal="/" encodinganalog="245$f">-</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">13/24</container> 
+					 <unittitle encodinganalog="245$a">Yesler / Atlantic,
+						  Disposition Parcel, Number Twenty - Four B</unittitle> 
+					 <unitdate normal="/" encodinganalog="245$f">-</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">13/25</container> 
+					 <unittitle encodinganalog="245$a">Yesler / Atlantic,
+						  Disposition Parcel, Number Nineteen and Twenty</unittitle> 
+					 <unitdate normal="/" encodinganalog="245$f">-</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">13/26</container> 
+					 <unittitle encodinganalog="245$a">Yesler / Atlantic,
+						  Disposition Parcel, Number Twenty - Nine A</unittitle> 
+					 <unitdate normal="/" encodinganalog="245$f">-</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">13/27</container> 
+					 <unittitle encodinganalog="245$a">Yesler / Atlantic,
+						  Disposition Parcel, Number Forty and Forty - One</unittitle> 
+					 <unitdate normal="/" encodinganalog="245$f">-</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">14/1</container> 
+					 <unittitle encodinganalog="245$a">Yesler / Atlantic, CETS
+						  verses Hawkins, USA</unittitle> 
+					 <unitdate normal="/" encodinganalog="245$f">-</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">14/2</container> 
+					 <unittitle encodinganalog="245$a">Yesler / Atlantic, Edwards,
+						  and Others verses City Council</unittitle> 
+					 <unitdate normal="/" encodinganalog="245$f">-</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">14/3</container> 
+					 <unittitle encodinganalog="245$a">Yesler / Atlantic, J. Dalton
+						  P and H Verses Erna Backman</unittitle> 
+					 <unitdate normal="/" encodinganalog="245$f">-</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">14/4</container> 
+					 <unittitle encodinganalog="245$a">Yesler / Atlantic, Shopping
+						  Center Site</unittitle> 
+					 <unitdate normal="/" encodinganalog="245$f">-</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">14/5</container> 
+					 <unittitle encodinganalog="245$a">Leschi, Rehabilitation,
+						  General</unittitle> 
+					 <unitdate normal="1972/1975"
+					 encodinganalog="245$f">1972-1975</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">14/6</container> 
+					 <unittitle encodinganalog="245$a">Leschi, Rehabilitation,
+						  General</unittitle> 
+					 <unitdate normal="1975/1976"
+					 encodinganalog="245$f">1975-1976</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">14/7</container> 
+					 <unittitle encodinganalog="245$a">Leschi, Rehabilitation,
+						  General</unittitle> 
+					 <unitdate normal="1969/1976"
+					 encodinganalog="245$f">1969-1976</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">14/8</container> 
+					 <unittitle encodinganalog="245$a">Leschi, Rehabilitation,
+						  General</unittitle> 
+					 <unitdate normal="1970/1972"
+					 encodinganalog="245$f">1970-1972</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">14/9</container> 
+					 <unittitle encodinganalog="245$a">Leschi, Rehabilitation, Berry
+						  - Pounds</unittitle> 
+					 <unitdate normal="1969/1976"
+					 encodinganalog="245$f">1969-1976</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">14/10</container> 
+					 <unittitle encodinganalog="245$a">Leschi, Rehabilitation,
+						  Agreement, Building Department</unittitle> 
+					 <unitdate normal="/" encodinganalog="245$f">-</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">14/11</container> 
+					 <unittitle encodinganalog="245$a">Leschi, Rehabilitation, FHA
+						  Inspection</unittitle> 
+					 <unitdate normal="/" encodinganalog="245$f">-</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">14/12</container> 
+					 <unittitle encodinganalog="245$a">North Greenwood, Housing
+						  Rehabilitation</unittitle> 
+					 <unitdate normal="1969/1977"
+					 encodinganalog="245$f">1969-1977</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">14/13</container> 
+					 <unittitle encodinganalog="245$a">North Greenwood,
+						  Rehabilitation, General</unittitle> 
+					 <unitdate normal="/" encodinganalog="245$f">-</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">14/14</container> 
+					 <unittitle encodinganalog="245$a">North Greenwood,
+						  Rehabilitation, General</unittitle> 
+					 <unitdate normal="/" encodinganalog="245$f">-</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">14/15</container> 
+					 <unittitle encodinganalog="245$a">North Greenwood,
+						  Rehabilitation, General</unittitle> 
+					 <unitdate normal="/" encodinganalog="245$f">-</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">15/1</container> 
+					 <unittitle encodinganalog="245$a">North Greenwood,
+						  Rehabilitation, General</unittitle> 
+					 <unitdate normal="/" encodinganalog="245$f">-</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">15/2</container> 
+					 <unittitle encodinganalog="245$a">South Park, Rehabilitation,
+						  General</unittitle> 
+					 <unitdate normal="/" encodinganalog="245$f">-</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">15/3</container> 
+					 <unittitle encodinganalog="245$a">South Park, Rehabilitation,
+						  General</unittitle> 
+					 <unitdate normal="/" encodinganalog="245$f">-</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">15/4</container> 
+					 <unittitle encodinganalog="245$a">Housing and Neighborhood
+						  Development, Relocation General</unittitle> 
+					 <unitdate normal="1974/1977"
+					 encodinganalog="245$f">1974-1977</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">15/5</container> 
+					 <unittitle encodinganalog="245$a">Housing and Neighborhood
+						  Development, Relocation and Property Management, Relocation - Code
+						  Enforcement</unittitle> 
+					 <unitdate normal="/" encodinganalog="245$f">-</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">15/6</container> 
+					 <unittitle encodinganalog="245$a">Housing and Neighborhood
+						  Development, Minority Housing</unittitle> 
+					 <unitdate normal="/" encodinganalog="245$f">-</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">15/7</container> 
+					 <unittitle encodinganalog="245$a">Housing and Neighborhood
+						  Development, Relocation Housing Resources General</unittitle> 
+					 <unitdate normal="/" encodinganalog="245$f">-</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">15/8</container> 
+					 <unittitle encodinganalog="245$a">Housing and Neighborhood
+						  Development, Multi - Family Housing</unittitle> 
+					 <unitdate normal="/" encodinganalog="245$f">-</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">15/9</container> 
+					 <unittitle encodinganalog="245$a">Housing and Neighborhood
+						  Development, Relocation, FACE Program</unittitle> 
+					 <unitdate normal="/" encodinganalog="245$f">-</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">15/10</container> 
+					 <unittitle encodinganalog="245$a">Housing and Neighborhood
+						  Development, Rehabilitation, 312 Loans</unittitle> 
+					 <unitdate normal="1975" encodinganalog="245$f">1975</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">15/11</container> 
+					 <unittitle encodinganalog="245$a">Housing and Neighborhood
+						  Development, Rehabilitation, General</unittitle> 
+					 <unitdate normal="1962/1973"
+					 encodinganalog="245$f">1962-1973</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">15/12</container> 
+					 <unittitle encodinganalog="245$a">Housing and Neighborhood
+						  Development, Rehabilitation, 312 Loans</unittitle> 
+					 <unitdate normal="1973/1974"
+					 encodinganalog="245$f">1973-1974</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">15/13</container> 
+					 <unittitle encodinganalog="245$a">Housing and Neighborhood
+						  Development, Rehabilitation, 312 Loans</unittitle> 
+					 <unitdate normal="1970/1973"
+					 encodinganalog="245$f">1970-1973</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">15/14</container> 
+					 <unittitle encodinganalog="245$a">Housing and Neighborhood
+						  Development, Rehabilitation, General</unittitle> 
+					 <unitdate normal="1973/1974"
+					 encodinganalog="245$f">1973-1974</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">15/15</container> 
+					 <unittitle encodinganalog="245$a">Housing and Neighborhood
+						  Development, Rehabilitation, General</unittitle> 
+					 <unitdate normal="1974" encodinganalog="245$f">1974</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">16/1</container> 
+					 <unittitle encodinganalog="245$a">Housing and Neighborhood
+						  Development, Project Improvements, General</unittitle> 
+					 <unitdate normal="/" encodinganalog="245$f">-</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">16/2</container> 
+					 <unittitle encodinganalog="245$a">Housing and Neighborhood
+						  Development, Project Improvements, CIP</unittitle> 
+					 <unitdate normal="/" encodinganalog="245$f">-</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">16/3</container> 
+					 <unittitle encodinganalog="245$a">Housing and Neighborhood
+						  Development, Model Cities, Other Departments</unittitle> 
+					 <unitdate normal="/" encodinganalog="245$f">-</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">16/4</container> 
+					 <unittitle encodinganalog="245$a">Housing and Neighborhood
+						  Development, Relocation General</unittitle> 
+					 <unitdate normal="1972/1973"
+					 encodinganalog="245$f">1972-1973</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">16/5</container> 
+					 <unittitle encodinganalog="245$a">Housing and Neighborhood
+						  Development, Relocation General</unittitle> 
+					 <unitdate normal="1963/1973"
+					 encodinganalog="245$f">1963-1973</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">16/6</container> 
+					 <unittitle encodinganalog="245$a">Housing and Neighborhood
+						  Development, Relocation, 221 (d) (3) Housing</unittitle> 
+					 <unitdate normal="/" encodinganalog="245$f">-</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">16/7</container> 
+					 <unittitle encodinganalog="245$a">Housing and Neighborhood
+						  Development, Property Management Income Expenditures</unittitle> 
+					 <unitdate normal="/" encodinganalog="245$f">-</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">16/8</container> 
+					 <unittitle encodinganalog="245$a">Housing and Neighborhood
+						  Development, Relocation, Appeal Procedures</unittitle> 
+					 <unitdate normal="/" encodinganalog="245$f">-</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">16/9</container> 
+					 <unittitle encodinganalog="245$a">Housing and Neighborhood
+						  Development, Correspondence, General</unittitle> 
+					 <unitdate normal="1974" encodinganalog="245$f">1974</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">16/10</container> 
+					 <unittitle encodinganalog="245$a">Housing and Neighborhood
+						  Development, Administrative Policies and Decisions (Mayor)</unittitle> 
+					 <unitdate normal="/" encodinganalog="245$f">-</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">16/11</container> 
+					 <unittitle encodinganalog="245$a">Housing and Neighborhood
+						  Development, Correspondence, General</unittitle> 
+					 <unitdate normal="1971/1973"
+					 encodinganalog="245$f">1971-1973</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">16/12</container> 
+					 <unittitle encodinganalog="245$a">Housing and Neighborhood
+						  Development, Correspondence, General</unittitle> 
+					 <unitdate normal="1962/1970"
+					 encodinganalog="245$f">1962-1970</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">16/13</container> 
+					 <unittitle encodinganalog="245$a">Housing and Neighborhood
+						  Development, Correspondence, City Officials</unittitle> 
+					 <unitdate normal="1960/1964"
+					 encodinganalog="245$f">1960-1964</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">16/14</container> 
+					 <unittitle encodinganalog="245$a">Housing and Neighborhood
+						  Development, Mission Statements</unittitle> 
+					 <unitdate normal="/" encodinganalog="245$f">-</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">16/15</container> 
+					 <unittitle encodinganalog="245$a">Housing and Neighborhood
+						  Development, Audits, Office of Management and Budget</unittitle> 
+					 <unitdate normal="/" encodinganalog="245$f">-</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">16/16</container> 
+					 <unittitle encodinganalog="245$a">Housing and Neighborhood
+						  Development, Reports and Studies, Seattle Development Program</unittitle> 
+					 <unitdate normal="/" encodinganalog="245$f">-</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">16/17</container> 
+					 <unittitle encodinganalog="245$a">Housing and Neighborhood
+						  Development, Reports and Studies, HUD Annual Report on Real Estate
+						  Acquisition.</unittitle> 
+					 <unitdate normal="/" encodinganalog="245$f">-</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">16/18</container> 
+					 <unittitle encodinganalog="245$a">Housing and Neighborhood
+						  Development, Reports and Studies, Management Study (Touche - Ross)</unittitle> 
+					 <unitdate normal="1972" encodinganalog="245$f">1972</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">16/19</container> 
+					 <unittitle encodinganalog="245$a">Housing and Neighborhood
+						  Development, Overview</unittitle> 
+					 <unitdate normal="/" encodinganalog="245$f">-</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">16/20</container> 
+					 <unittitle encodinganalog="245$a">Housing and Neighborhood
+						  Development, Reports and Studies, Workable Program</unittitle> 
+					 <unitdate normal="/" encodinganalog="245$f">-</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">16/21</container> 
+					 <unittitle encodinganalog="245$a">Housing and Neighborhood
+						  Development, Mission Statements, General</unittitle> 
+					 <unitdate normal="/" encodinganalog="245$f">-</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">17/1</container> 
+					 <unittitle encodinganalog="245$a">Activity Reports</unittitle> 
+					 <unitdate normal="1977/1979"
+					 encodinganalog="245$f">1977-1979</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">17/2</container> 
+					 <unittitle encodinganalog="245$a">Activity Reports, Weekly -
+						  Engineering Coordinator</unittitle> 
+					 <unitdate normal="1974/1975"
+					 encodinganalog="245$f">1974-1975</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">17/3</container> 
+					 <unittitle encodinganalog="245$a">Activity Reports, Weekly -
+						  Engineering Coordinator</unittitle> 
+					 <unitdate normal="1973/1974"
+					 encodinganalog="245$f">1973-1974</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">17/4</container> 
+					 <unittitle encodinganalog="245$a">Activity Reports, Weekly -
+						  Architectural Supervisor</unittitle> 
+					 <unitdate normal="1973/1974"
+					 encodinganalog="245$f">1973-1974</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">17/5</container> 
+					 <unittitle encodinganalog="245$a">Demolition - Environmental
+						  Impact</unittitle> 
+					 <unitdate normal="1972/1973"
+					 encodinganalog="245$f">1972-1973</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">17/6</container> 
+					 <unittitle encodinganalog="245$a">Demolition
+						  Procedure</unittitle> 
+					 <unitdate normal="1973/1975"
+					 encodinganalog="245$f">1973-1975</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">17/7</container> 
+					 <unittitle encodinganalog="245$a">Demolition
+						  Projections</unittitle> 
+					 <unitdate normal="1972/1975"
+					 encodinganalog="245$f">1972-1975</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">17/8</container> 
+					 <unittitle encodinganalog="245$a">Langston Hughes Cultural
+						  Center</unittitle> 
+					 <unitdate normal="1973" encodinganalog="245$f">1973</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">17/9</container> 
+					 <unittitle encodinganalog="245$a">Leschi
+						  Acquisitions</unittitle> 
+					 <unitdate normal="/" encodinganalog="245$f">undated</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">17/10</container> 
+					 <unittitle encodinganalog="245$a">Leschi Demolitions (Includes
+						  Photographs)</unittitle> 
+					 <unitdate normal="1972/1976"
+					 encodinganalog="245$f">1972-1976</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">17/11</container> 
+					 <unittitle encodinganalog="245$a">Leschi Demolitions (Includes
+						  Photographs)</unittitle> 
+					 <unitdate normal="1972/1974"
+					 encodinganalog="245$f">1972-1974</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">17/12</container> 
+					 <unittitle encodinganalog="245$a">Leschi NW Phase B</unittitle>
+					 
+					 <unitdate normal="1971/1975"
+					 encodinganalog="245$f">1971-1975</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">17/13</container> 
+					 <unittitle encodinganalog="245$a">Leschi, Southwest Street Tree
+						  Planting</unittitle> 
+					 <unitdate normal="1973/1975"
+					 encodinganalog="245$f">1973-1975</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">17/14</container> 
+					 <unittitle encodinganalog="245$a">NCGIA Projects</unittitle> 
+					 <unitdate normal="1973" encodinganalog="245$f">1973</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">18/1</container> 
+					 <unittitle encodinganalog="245$a">North Greenwood
+						  Demolitions</unittitle> 
+					 <unitdate normal="1973/1975"
+					 encodinganalog="245$f">1973-1975</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">18/2</container> 
+					 <unittitle encodinganalog="245$a">North Greenwood Property
+						  Rehab Standards</unittitle> 
+					 <unitdate normal="1971/1972"
+					 encodinganalog="245$f">1971-1972</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">18/3</container> 
+					 <unittitle encodinganalog="245$a">North Greenwood Storm Drains,
+						  Contract No. 2</unittitle> 
+					 <unitdate normal="1972/1974"
+					 encodinganalog="245$f">1972-1974</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">18/4</container> 
+					 <unittitle encodinganalog="245$a">North Greenwood Storm Drains,
+						  Contract No. 3</unittitle> 
+					 <unitdate normal="1973/1975"
+					 encodinganalog="245$f">1973-1975</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">18/5</container> 
+					 <unittitle encodinganalog="245$a">Northlake
+						  Demolitions</unittitle> 
+					 <unitdate normal="1972/1974"
+					 encodinganalog="245$f">1972-1974</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">18/6</container> 
+					 <unittitle encodinganalog="245$a">Pike Project Demolition -
+						  Baker Building</unittitle> 
+					 <unitdate normal="1975" encodinganalog="245$f">1975</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">18/7</container> 
+					 <unittitle encodinganalog="245$a">Pike Project Demolition -
+						  Bayview Hotel</unittitle> 
+					 <unitdate normal="1973/1974"
+					 encodinganalog="245$f">1973-1974</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">18/8</container> 
+					 <unittitle encodinganalog="245$a">Pike Project Demolition -
+						  Billboards</unittitle> 
+					 <unitdate normal="1974" encodinganalog="245$f">1974</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">18/9</container> 
+					 <unittitle encodinganalog="245$a">Pike Project Demolition -
+						  Municipal Market Building</unittitle> 
+					 <unitdate normal="1974" encodinganalog="245$f">1974</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">18/10</container> 
+					 <unittitle encodinganalog="245$a">Pike Project Demolition -
+						  Future</unittitle> 
+					 <unitdate normal="1974" encodinganalog="245$f">1974</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">18/11</container> 
+					 <unittitle encodinganalog="245$a">Pike Plaza Historical Survey
+						  (Incl. Photographs)</unittitle> 
+					 <unitdate normal="1971" encodinganalog="245$f">1971</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">18/12</container> 
+					 <unittitle encodinganalog="245$a">Pike Plaza - Rehab
+						  Standards</unittitle> 
+					 <unitdate normal="1972" encodinganalog="245$f">1972</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">18/13</container> 
+					 <unittitle encodinganalog="245$a">Pike Project Sanitary and
+						  Storm Drain</unittitle> 
+					 <unitdate normal="1968/1975"
+					 encodinganalog="245$f">1968-1975</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">18/14</container> 
+					 <unittitle encodinganalog="245$a">Pike Plaza Shore Land
+						  Management</unittitle> 
+					 <unitdate normal="1973" encodinganalog="245$f">1973</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">18/15</container> 
+					 <unittitle encodinganalog="245$a">Pike Project Soil
+						  Tests</unittitle> 
+					 <unitdate normal="1973/1974"
+					 encodinganalog="245$f">1973-1974</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">19/1</container> 
+					 <unittitle encodinganalog="245$a">Pike Project - Street
+						  Vacation Drawings</unittitle> 
+					 <unitdate normal="1973/1974"
+					 encodinganalog="245$f">1973-1974</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">19/2</container> 
+					 <unittitle encodinganalog="245$a">Pike Project - Street
+						  Vacations</unittitle> 
+					 <unitdate normal="1973/1974"
+					 encodinganalog="245$f">1973-1974</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">19/3</container> 
+					 <unittitle encodinganalog="245$a">Pike Project - Study and
+						  Re-evaluation of Public Improvements</unittitle> 
+					 <unitdate normal="1974" encodinganalog="245$f">1974</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">19/4</container> 
+					 <unittitle encodinganalog="245$a">Pike Project - Study and
+						  Re-evaluation of Public Improvements</unittitle> 
+					 <unitdate normal="1967/1973"
+					 encodinganalog="245$f">1967-1973</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">19/5</container> 
+					 <unittitle encodinganalog="245$a">Pike Plaza Temporary
+						  Park</unittitle> 
+					 <unitdate normal="1972" encodinganalog="245$f">1972</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">19/6</container> 
+					 <unittitle encodinganalog="245$a">Pike Project -
+						  Undergrounding</unittitle> 
+					 <unitdate normal="1973/1975"
+					 encodinganalog="245$f">1973-1975</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">19/7</container> 
+					 <unittitle encodinganalog="245$a">Pike Project - Union St.
+						  Stairway</unittitle> 
+					 <unitdate normal="1972" encodinganalog="245$f">1972</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">19/8</container> 
+					 <unittitle encodinganalog="245$a">Pike Place View
+						  Site</unittitle> 
+					 <unitdate normal="1971" encodinganalog="245$f">1971</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">19/9</container> 
+					 <unittitle encodinganalog="245$a">Proposed Development
+						  Evaluation Guidelines</unittitle> 
+					 <unitdate normal="/" encodinganalog="245$f">undated</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">19/10</container> 
+					 <unittitle encodinganalog="245$a">Quarterly Work
+						  Programs</unittitle> 
+					 <unitdate normal="1973/1975"
+					 encodinganalog="245$f">1973-1975</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">19/11</container> 
+					 <unittitle encodinganalog="245$a">South Park
+						  Demolitions</unittitle> 
+					 <unitdate normal="1973/1974"
+					 encodinganalog="245$f">1973-1974</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">19/12</container> 
+					 <unittitle encodinganalog="245$a">South Park
+						  General</unittitle> 
+					 <unitdate normal="1972/1973"
+					 encodinganalog="245$f">1972-1973</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">19/13</container> 
+					 <unittitle encodinganalog="245$a">South Park NDP General
+						  Correspondence (Incl Photographs)</unittitle> 
+					 <unitdate normal="1971/1973"
+					 encodinganalog="245$f">1971-1973</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">19/14</container> 
+					 <unittitle encodinganalog="245$a">South Park NDP</unittitle> 
+					 <unitdate normal="1971/1973"
+					 encodinganalog="245$f">1971-1973</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">20/1</container> 
+					 <unittitle encodinganalog="245$a">South Seattle Redevelopment
+						  Project</unittitle> 
+					 <unitdate normal="1966/1973"
+					 encodinganalog="245$f">1966-1973</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">20/2</container> 
+					 <unittitle encodinganalog="245$a">Yesler - Atlantic - 20th Ave
+						  S. et al Widening (Incl Photographs)</unittitle> 
+					 <unitdate normal="1975/1976"
+					 encodinganalog="245$f">1975-1976</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">20/3</container> 
+					 <unittitle encodinganalog="245$a">Yesler - Atlantic - 20th Ave
+						  S. et al Widening</unittitle> 
+					 <unitdate normal="1975" encodinganalog="245$f">1975</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">20/4</container> 
+					 <unittitle encodinganalog="245$a">Yesler - Atlantic - 20th Ave
+						  S. et al Widening</unittitle> 
+					 <unitdate normal="1973/1974"
+					 encodinganalog="245$f">1973-1974</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">20/5</container> 
+					 <unittitle encodinganalog="245$a">Yesler - Atlantic
+						  Acquisitions</unittitle> 
+					 <unitdate normal="/" encodinganalog="245$f">undated</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">20/6</container> 
+					 <unittitle encodinganalog="245$a">Yesler - Atlantic, Alley
+						  Block 22, Hill Track Add</unittitle> 
+					 <unitdate normal="1974/1976"
+					 encodinganalog="245$f">1974-1976</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">20/7</container> 
+					 <unittitle encodinganalog="245$a">Yesler - Atlantic
+						  Closeout</unittitle> 
+					 <unitdate normal="1977" encodinganalog="245$f">1977</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">20/8</container> 
+					 <unittitle encodinganalog="245$a">Yesler - Atlantic Demolitions
+						  (Incl Photographs)</unittitle> 
+					 <unitdate normal="1972/1976"
+					 encodinganalog="245$f">1972-1976</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">20/9</container> 
+					 <unittitle encodinganalog="245$a">Yesler - Atlantic
+						  Demolitions</unittitle> 
+					 <unitdate normal="1972/1974"
+					 encodinganalog="245$f">1972-1974</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">20/10</container> 
+					 <unittitle encodinganalog="245$a">Yesler - Atlantic
+						  EIS</unittitle> 
+					 <unitdate normal="1974" encodinganalog="245$f">1974</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">20/11</container> 
+					 <unittitle encodinganalog="245$a">Yesler - Atlantic Garfield B
+						  Backup</unittitle> 
+					 <unitdate normal="1972" encodinganalog="245$f">1972</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">20/12</container> 
+					 <unittitle encodinganalog="245$a">Yesler - Atlantic Land
+						  Surveys</unittitle> 
+					 <unitdate normal="1973" encodinganalog="245$f">1973</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">20/13</container> 
+					 <unittitle encodinganalog="245$a">Yesler - Atlantic, Operation
+						  Breakthrough, Electrical</unittitle> 
+					 <unitdate normal="1970/1972"
+					 encodinganalog="245$f">1970-1972</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">20/14</container> 
+					 <unittitle encodinganalog="245$a">Yesler - Atlantic Park and
+						  Recreation Facility</unittitle> 
+					 <unitdate normal="1971/1973"
+					 encodinganalog="245$f">1971-1973</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">20/15</container> 
+					 <unittitle encodinganalog="245$a">Yesler - Atlantic Pedestrian
+						  Pathway</unittitle> 
+					 <unitdate normal="1972/1973"
+					 encodinganalog="245$f">1972-1973</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">21/1</container> 
+					 <unittitle encodinganalog="245$a">Yesler - Atlantic, S. Main
+						  St. et al Widening</unittitle> 
+					 <unitdate normal="1971/1972"
+					 encodinganalog="245$f">1971-1972</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">21/2</container> 
+					 <unittitle encodinganalog="245$a">Yesler - Atlantic, S. Main
+						  St. et al Widening, Drawings</unittitle> 
+					 <unitdate normal="1971" encodinganalog="245$f">1971</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">21/3</container> 
+					 <unittitle encodinganalog="245$a">Yesler - Atlantic, S. Main
+						  St. et al Widening, Landscape Drawings</unittitle> 
+					 <unitdate normal="1972" encodinganalog="245$f">1972</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">21/4</container> 
+					 <unittitle encodinganalog="245$a">Yesler - Atlantic, S.
+						  Washington St. et al Widening</unittitle> 
+					 <unitdate normal="1975/1977"
+					 encodinganalog="245$f">1975-1977</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">21/5</container> 
+					 <unittitle encodinganalog="245$a">Yesler - Atlantic, S.
+						  Washington St. et al Widening</unittitle> 
+					 <unitdate normal="1974/1975"
+					 encodinganalog="245$f">1974-1975</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">21/6</container> 
+					 <unittitle encodinganalog="245$a">Yesler - Atlantic, S.
+						  Washington St. et al Widening</unittitle> 
+					 <unitdate normal="1972/1974"
+					 encodinganalog="245$f">1972-1974</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">21/7</container> 
+					 <unittitle encodinganalog="245$a">Yesler - Atlantic Street
+						  Vacation Status Report</unittitle> 
+					 <unitdate normal="1974/1975"
+					 encodinganalog="245$f">1974-1975</unitdate> 
+				</did> 
+		  </c02> 
+		  <c02 level="file"> 
+				<did> 
+					 <container type="box-folder">21/8</container> 
+					 <unittitle encodinganalog="245$a">Yesler - Atlantic, Wonder
+						  Bread Bakery</unittitle> 
+					 <unitdate normal="1972/1973"
+					 encodinganalog="245$f">1972-1973</unitdate> 
+				</did> 
+		  </c02> 
+	 </c01> 
+</dsc> </archdesc>
+</ead>

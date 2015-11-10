@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+    <eadheader findaidstatus="2_edited_or_revised_draft" repositoryencoding="iso15511"
+              countryencoding="iso3166-1"
+              dateencoding="iso8601"
+              langencoding="iso639-2b"
+              id="a0"
+              relatedencoding="dc"
+              scriptencoding="iso15924">
+        <eadid countrycode="us" mainagencycode="oru"
+             url="http://nwda.orbiscascade.org/ark:/80444/xv29495"
+             encodinganalog="identifier"
+             identifier="80444/xv29495">ORU_UA174.xml</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper encodinganalog="title">Guide to the Student Cooperative Records
+                    
+                <date encodinganalog="date" normal="1930/1981" type="inclusive">1930-1981</date>
+            </titleproper>
+                <titleproper type="filing" altrender="nodisplay">Student Cooperative records</titleproper>
+                <author encodinganalog="creator">Finding aid prepared by Jenn Newby</author>
+                <sponsor>Funding for production of this finding aid was provided through a grant awarded by the National Historical Publications and Records Commission (NHPRC).</sponsor>
+            </titlestmt>
+            <publicationstmt>
+                <publisher encodinganalog="publisher">Special Collections and University Archives, University of Oregon Libraries</publisher>
+                <address>
+                    <addressline>1299 University of Oregon</addressline>
+                    <addressline>Eugene, Oregon, 97403-1299</addressline>
+                    <addressline>(541) 346-3068</addressline>
+                    <addressline>spcarref@uoregon.edu</addressline>
+                </address>
+                <date encodinganalog="date" calendar="gregorian" era="ce" normal="2012">2012</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date calendar="gregorian" era="ce" normal="20120911">2012-09-11</date>
+            </creation>
+            <langusage>
+            <language langcode="eng" encodinganalog="language" scriptcode="latn">Finding aid is written in English</language>
+         </langusage>
+            <descrules>Finding aid based on DACS (<title render="italic">Describing Archives: A Content Standard</title>).</descrules>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection" relatedencoding="marc21" type="inventory">
+        <did id="a1">
+            <unittitle encodinganalog="245$a">Student Cooperative Association records</unittitle>
+            <unitid encodinganalog="099" countrycode="us" repositorycode="oru">UA 174</unitid>
+            <repository>
+                <corpname encodinganalog="852$a">Special Collections and University Archives, University of Oregon Libraries</corpname>
+            <address>
+                    <addressline>1299 University of Oregon</addressline>
+                    <addressline>Eugene, Oregon, 97403-1299</addressline>
+                    <addressline>(541) 346-3068</addressline>
+                    <addressline>spcarref@uoregon.edu</addressline>
+                </address>
+         </repository>
+            <langmaterial>Collection materials are in <language langcode="eng" encodinganalog="546">English</language>.</langmaterial>
+            <container type="box">1-5 (11209.A)</container>
+            <physdesc>
+                <extent encodinganalog="300$a">7.5 linear feet</extent>
+                <extent encodinganalog="300$a">5 containers</extent>
+            </physdesc>
+            <unitdate normal="1930/1981" type="inclusive" encodinganalog="245$f">1930-1981</unitdate>
+            <abstract id="ref1" encodinganalog="5203_">The Student's Cooperative Association in Eugene, Oregon is a student-owned housing organization that offers cooperative living arrangements for members who live in the Campbell Club, Lorax Manner, and the Janet Smith cooperative. This collection includes scrapbooks, newspaper clippings, photographs, and membership applications, 1930-1960.</abstract>
+            <physdesc id="ref7">5 record storage boxes.</physdesc>
+            <origination label="creator">
+                <corpname source="ingest" encodinganalog="110">University of Oregon. Student Cooperative Association..</corpname>
+            </origination>
+        </did>
+        <bioghist id="a2" encodinganalog="545">
+            <head>Biographical/Historical note</head>
+            <p>The Student's Cooperative Association in Eugene, Oregon is a student-owned housing organization that offers cooperative living arrangements for members. The cooperative includes the houses Campbell Club, Lorax Manner, and the Janet Smith cooperative. The houses are near the University of Oregon campus and one house is geared toward graduate students. Membership includes both room and board; members share responsibility for the daily functions of the house.</p>
+            <p>[Source: http://pages.uoregon.edu/asuosch/]</p>
+        </bioghist>
+        <scopecontent id="a3" encodinganalog="5202_">
+            
+            <p>The collection contains records that document the functions and activities of this department.</p>
+            <p>Collection is organized by accession and includes the following material:</p>
+            <p>As of 2012 there is only one accession:</p>
+            <p>Accession 11209.A: Scrapbooks, newspaper clippings, photographs, and membership applications, 1930-1960.</p>
+        </scopecontent>
+        <relatedmaterial id="a6" encodinganalog="5441_">
+            
+            <p>Other collections relating to the Student Cooperative Association at Special Collections and University Archives include: University Archives alphabetical subject files, UA Ref 1; University Archives publications, UA Ref 4.</p>
+            <p>Other collections relating to the Campbell Club at Special Collections and University Archives include: University Archives alphabetical single subject files, UA Ref 6; University Archives photographs, UA Ref 3.</p>
+        </relatedmaterial>
+        <userestrict id="a15" encodinganalog="540">
+            
+            <p>Property rights reside with Special Collections  University Archives, University of Oregon Libraries. Copyright resides with the creators of the documents or their heirs. All requests for permission to publish collection materials must be submitted to Special Collections  University Archives. The reader must also obtain permission of the copyright holder.</p>
+            <p>Archival material may contain materials with sensitive or confidential information that is protected under federal and/or state right to privacy laws and other regulations.</p>
+            <p>Researchers are advised that the disclosure of certain information pertaining to identifiable living individuals represented in this collection without the consent of those individuals may have legal ramifications (e.g. a cause of action for invasion of privacy may arise if facts concerning an individual's private life are published that would be deemed highly offensive to a reasonable person) for which the University of Oregon assumes no responsibility.</p>
+            <p>If a researcher finds sensitive personal information in a collection, please bring it to the attention of the reading room staff.</p>
+        </userestrict>
+        <accessrestrict id="a14" encodinganalog="506">
+            
+            <p>Collection is open to the public.</p>
+            <p>Collection must be used in Special Collections  University Archives Reading Room.</p>
+            <p>Collection or parts of collection may be stored offsite. Please contact Special Collections  University Archives in advance of your visit to allow for transportation time.</p>
+        </accessrestrict>
+        <processinfo id="a20" encodinganalog="583">
+            
+            <p>Collection processed by Jenn Newby and Tanya Parlet, 2012.</p>
+            <p>This finding aid may be updated periodically to account for new acquisitions to the collection and/or revisions in arrangement and description.</p>
+            <p>This collection received a basic level of processing including minimal organization and rehousing. Multiple accession(s) for the collection have not been merged or organized as a whole. Each accession is described separately.</p>
+            <p>Description information is drawn in part from information supplied with the collection and initial surveys of the contents.</p>
+        </processinfo>
+        <prefercite id="a18" encodinganalog="524">
+            
+            <p>[Identification of item], Student Cooperative Association records, UA 174, Special Collections  University Archives, University of Oregon Libraries, Eugene, Oregon.</p>
+        </prefercite>
+        <acqinfo id="a19" encodinganalog="541">
+            
+            <p>Donated by the Student Cooperative Association.</p>
+        </acqinfo>
+        <accruals id="a10" encodinganalog="584">
+            
+            <p>Continued transfers of records from the Student Cooperative Association are expected indefinitely.</p>
+        </accruals>
+        <controlaccess id="a12">
+         <controlaccess>
+            <corpname source="ingest" encodinganalog="610">University of Oregon. Student Cooperative Association..</corpname>
+         </controlaccess>
+         <controlaccess>
+            <subject source="lcsh" encodinganalog="650">Clippings (Books, newspapers, etc.)</subject>
+            <subject source="lcsh" encodinganalog="650">College students--Oregon--Eugene</subject>
+            <subject source="lcsh" encodinganalog="650">Education, Higher--Oregon--Eugene</subject>
+            <subject source="lcsh" encodinganalog="650">Universities and colleges--Oregon--Eugene</subject>
+         </controlaccess>
+         <controlaccess>
+            <subject source="nwda" encodinganalog="690" altrender="nodisplay">Colleges and Universities</subject>
+            <subject source="nwda" encodinganalog="690" altrender="nodisplay">Scrapbooks</subject>
+         </controlaccess>
+         <controlaccess>
+            <genreform source="aat" encodinganalog="655">Photographs</genreform>
+         </controlaccess>
+      </controlaccess>
+        
+    </archdesc>
+</ead>

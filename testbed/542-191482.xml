@@ -1,0 +1,161 @@
+<?xml version="1.0"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "http://lcweb2.loc.gov/xmlcommon/dtds/ead2002/ead.dtd">
+<ead>
+<eadheader relatedencoding="Dublin Core" findaidstatus="edited-full-draft" langencoding="iso639-2b" scriptencoding="iso15924" audience="internal" id="a0">
+<eadid encodinganalog="Identifier" url="http://hdl.handle.net/10407/6416382294" identifier="10407/6416382294">ksrl.kc.whitewilliamallenmartin</eadid>
+<filedesc>
+<titlestmt>
+<titleproper encodinganalog="Title">Guide to William Allen White letters to Sarah Martin</titleproper>
+<subtitle>William Allen White letters to Sarah Martin, 1932 and 1933</subtitle>
+<author encodinganalog="Creator">Finding aid prepared by mh, 2007</author>
+
+</titlestmt>
+<publicationstmt>
+<publisher encodinganalog="Publisher">University of Kansas</publisher>
+<address><addressline>1450 Poplar Lane, Lawrence, KS 66045-7616</addressline><addressline>Phone: (785)864-4334</addressline><addressline>Fax: (785)864-5803</addressline><addressline>URL: http://spencer.lib.ku.edu</addressline></address>
+<date encodinganalog="Date">2007</date>
+</publicationstmt>
+</filedesc>
+<profiledesc>
+<creation>Finding aid encoded by mh, 
+<date>2007</date>
+</creation>
+<langusage>Finding aid written in<language encodinganalog="language">English.</language></langusage>
+</profiledesc>
+</eadheader>
+
+<archdesc relatedencoding="MARC21" level="collection" type="inventory">
+<did id="a1">
+<head>COLLECTION SUMMARY</head>
+<repository label="Repository:" encodinganalog="852$a"><corpname>University of Kansas<subarea>Kenneth Spencer Research Library</subarea> <subarea>Kansas Collection</subarea></corpname><address><addressline>1450 Poplar Lane, Lawrence, KS 66045-7616</addressline><addressline>Phone: (785)864-4334</addressline><addressline>Fax: (785)864-5803</addressline><addressline>URL: http://spencer.lib.ku.edu</addressline></address></repository>
+
+<origination label="Creator:"><persname encodinganalog="100">White, William Allen, 1868-1944 </persname></origination>
+
+<unittitle label="Title:" encodinganalog="245$a">Letters to Sarah Martin</unittitle>
+
+<unitdate type="inclusive" encodinganalog="245$f" label="Dates:">May 18, 1932 and December 22, 1933;</unitdate>
+       <langmaterial label="Language(s):"> <language>English </language>
+</langmaterial>
+<physdesc>
+<extent label="Quantity:" encodinganalog="300$a">1 folder (2 letters) </extent>
+
+</physdesc><abstract encodinganalog="520$a" label="Abstract:">These two letters, dated 1932 and 1933, were written by <emph render="italic">Emporia Gazette</emph> editor William Allen White to Sarah Martin, a former employee of the <emph render="italic">Gazette</emph>, who was employed in New York City at the time of his writing.</abstract>
+
+<unitid encodinganalog="099" type="call#" label="Identification:" countrycode="US" repositorycode="KFS">RH MS P742</unitid>
+
+</did>
+
+
+
+
+<!-- Top Level Metadata Goes Here: -->
+<bioghist altrender="biography" encodinganalog="545" id="a2">
+<head>BIOGRAPHY of <emph>William Allen White</emph></head>
+<p>William Allen White was born at Emporia, Kansas, on February 10, 1868. He attended the University of Kansas and later moved to Emporia, where his grassroots editorials as owner of the <emph render="italic">Emporia Gazette</emph> gained him national prominence. In addition to his editorials, White wrote many widely-published poems, articles, and books. He died on January 29, 1944 at Emporia.</p>  
+</bioghist>
+
+
+
+
+
+
+
+
+
+
+	<!-- Arrangement/Series Info Goes Here: -->
+
+
+	<!-- End Arrangement/Series Info -->
+
+<!-- End Top Level Metadata -->
+
+<!-- Controlled Access Terms Go Here: -->
+
+<controlaccess id="a12">
+<head>INDEX TERMS</head>
+<controlaccess>
+<head>Names:</head>
+<persname role="subject" encodinganalog="700" source="lcnaf">White, William Allen, 1868-1944.</persname><persname role="subject" encodinganalog="^700" source="lcnaf">Martin, Sarah.</persname>	</controlaccess>
+
+<controlaccess>
+		<head>Titles:</head>
+		<title encodinganalog="730" source="lcsh">Emporia gazette (Emporia, Kan.:1899)</title>
+
+	</controlaccess>
+	
+
+
+</controlaccess>
+
+
+
+<!-- End Controlled Access Terms -->
+<!-- Administrative Information Goes Here: -->
+<acqinfo encodinganalog="541" id="a19">
+<head>Acquisition Information</head>
+<p>Gift, Claude Martin, 1 February 1972</p>
+</acqinfo>
+<userestrict encodinganalog="540" id="a15">
+<head>Restrictions on Use</head>
+<p/>
+<p>Spencer Library staff may determine use restrictions dependent on the physical condition of manuscript materials.</p>
+</userestrict>
+<accessrestrict id="a14" encodinganalog="506">
+<head>Restrictions on Access</head>
+<p>No access restrictions</p>
+</accessrestrict>
+
+
+<prefercite encodinganalog="524" id="a18">
+<head>Preferred Citation</head>
+<p>White, William Allen, 1868-1944, Letters to Sarah Martin,  Kansas Collection, RH MS P742, Kenneth Spencer Research Library, University of Kansas Libraries</p>
+</prefercite>
+
+
+<!-- End Administrative Information -->
+
+
+
+<!-- Start Description of Subordinate Components-->
+
+<dsc type="in-depth" id="a23">
+<head>COLLECTION DESCRIPTION</head>
+
+<c01 level="collection"><did>
+<container type="folder"/></did>
+
+<c02><did>  <container type="item">1</container>
+<unittitle>Signed letter from William Allen White, Emporia, Kansas to Sarah Martin, New York, NY, with postmarked envelope,</unittitle>
+<unitdate>May 18, 1932.</unitdate></did>
+</c02>
+
+<c02><did>  <container type="item">2</container>
+<unittitle>Signed letter from William Allen White, Emporia, Kansas to Sarah Martin, New York, NY,</unittitle>
+<unitdate>December 22, 1933.</unitdate></did>
+</c02>
+
+</c01>
+
+
+
+</dsc>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- End Description of Subordinate Components-->
+
+</archdesc>
+</ead>

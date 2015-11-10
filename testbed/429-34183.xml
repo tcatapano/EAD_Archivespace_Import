@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+    <eadid countrycode="US" mainagencycode="US-UPB" publicid="-//L. Tom Perry Special Collections::20th Century Western  Mormon Manuscripts//TEXT(US::US-UPB::MSS 6881::League of Women Voters of Utah records)//EN" encodinganalog="identifier">UPB_MSS6881</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper encodinganalog="title">Register of League of Women Voters of Utah records
+                    
+                </titleproper>
+        <titleproper type="filing">League of Women Voters of Utah records</titleproper>
+        <author encodinganalog="creator">Finding aid prepared by Elizabeth Ballif and Geoff McLaughlin</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher encodinganalog="publisher">L. Tom Perry Special Collections</publisher>
+        <date encodinganalog="date">2010 June 25</date>
+        <address>
+          <addressline>1130 Harold B. Lee Library</addressline>
+          <addressline>Brigham Young University</addressline>
+          <addressline>Provo, Utah 84606</addressline>
+          <addressline>http://sc.lib.byu.edu/</addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2010-10-08T09:23-0600</date>
+            </creation>
+      <langusage>English</langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection" type="inventory">
+    <did>
+      <unittitle encodinganalog="title">League of Women Voters of Utah records</unittitle>
+      <unitid encodinganalog="identifier">MSS 6881</unitid>
+      <repository>
+        <corpname encodinganalog="publisher">L. Tom Perry Special Collections</corpname>
+        <subarea encodinganalog="publisher">20th Century Western  Mormon Manuscripts</subarea>
+        <address>
+          <addressline>1130 Harold B. Lee Library</addressline>
+          <addressline>Brigham Young University</addressline>
+          <addressline>Provo, Utah 84606</addressline>
+          <addressline>http://sc.lib.byu.edu/</addressline>
+        </address>
+      </repository>
+      <langmaterial>
+        <language langcode="eng" encodinganalog="language">English</language>
+      </langmaterial>
+      <physdesc>
+        <extent encodinganalog="format">5 folders</extent>
+        <extent encodinganalog="format">(0.1 linear ft.)</extent>
+      </physdesc>
+      <unitdate normal="1986/1992" era="ce" calendar="gregorian" datechar="creation" type="inclusive" encodinganalog="date">1986-1992</unitdate>
+      <langmaterial id="ref8">Materials are in English.</langmaterial>
+      <origination>
+        <corpname source="lcnaf" encodinganalog="creator" role="">League of Women Voters of Utah</corpname>
+      </origination>
+    </did>
+    <appraisal id="ref1">
+      <p>Utah political history (20th Century Western and Mormon Manuscripts Collection Development Policy, 5.I, 2007).</p>
+    </appraisal>
+    <arrangement id="ref2" encodinganalog="description">
+      <p>Arranged chronologically.</p>
+    </arrangement>
+    <bioghist id="ref3" encodinganalog="description">
+      <head>Administrative History</head>
+      <p>The League of Women Voters of Utah was founded in the 1920s during the women's rights movement. It is a grassroots political movement and currently has 350 members. The League of Women Voters of Utah supports ideas that are pertinent to the people and try to represent the people to the best of their ability.</p>
+    </bioghist>
+    <accessrestrict id="ref4" encodinganalog="rights">
+      <p>Open for public research.</p>
+    </accessrestrict>
+    <userestrict id="ref5" encodinganalog="rights">
+      <p>It is the responsibility of the researcher to obtain any necessary copyright clearances. Permission to publish material from the League of Women Voters of Utah records must be obtained from the Supervisor of Reference Services and/or the L. Tom Perry Special Collections Board of Curators.</p>
+    </userestrict>
+    <custodhist id="ref6">
+      <p>Donated by the League of Women Voters of Utah from 1986 to 1992.</p>
+    </custodhist>
+    <acqinfo id="ref7">
+      <p>Donated; League of Women Voters of Utah; 1986-1992.</p>
+    </acqinfo>
+    <prefercite id="ref9">
+      <p>Initial citation: MSS 6881; League of Women Voters of Utah records; 20th Century Western and Mormon Manuscripts; L. Tom Perry Special Collections, Harold B. Lee Library, Brigham Young University. Following citations: MSS 6881, LTPSC.</p>
+    </prefercite>
+    <processinfo id="ref10">
+      <p>Processed; Elizabeth Ballif, student processor, and John Murphy, curator; 2010.</p>
+    </processinfo>
+    <scopecontent id="ref11" encodinganalog="description">
+      <p>Collection includes newsletters and a pamphlet from various times between 1986 and 1992. The materials discuss state legislative sessions, contacting representatives, fundraising, and goals of the league.</p>
+    </scopecontent>
+    <controlaccess>
+      <corpname source="lcnaf" encodinganalog="subject">League of Women Voters of Utah--Archives</corpname>
+      <corpname source="lcnaf" encodinganalog="subject">Utah. Legislature</corpname>
+      <subject source="cclanarrow" encodinganalog="subject">Civic Activism</subject>
+      <subject source="umanarrow" encodinganalog="subject">Civic Activism</subject>
+      <subject source="lcsh" encodinganalog="subject">Lobbyists--Utah</subject>
+      <genreform source="lcsh" encodinganalog="type">Newsletters</genreform>
+      <subject source="cclabroad" encodinganalog="subject">Politics, Government, and Law</subject>
+      <subject source="umabroad" encodinganalog="subject">Politics, Government, and Law</subject>
+      <subject source="lcsh" encodinganalog="subject">Utah. Constitution</subject>
+    </controlaccess>
+  </archdesc>
+</ead>

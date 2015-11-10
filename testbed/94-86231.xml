@@ -1,0 +1,88 @@
+<?xml version="1.0"?>
+<ead>
+  <eadheader findaidstatus="publish_final" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+    <eadid xmlns:cdlpath="http://www.cdlib.org/path/" countrycode="US" mainagencycode="CLSU" identifier="ark:/13030/kt1n39r790" cdlpath:parent="ark:/13030/tf6t1nc15d" cdlpath:grandparent="ark:/13030/tf2870098j">0270</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Barber School of Speech scrapbook
+                    <num>0270</num></titleproper>
+        <titleproper type="filing">Barber School of Speech scrapbook</titleproper>
+        <author>Finding aid prepared by Sue Luftschein</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>USC Libraries Special Collections</publisher>
+        <address>
+          <addressline>Doheny Memorial Library  206</addressline>
+          <addressline>3550 Trousdale Parkway</addressline>
+          <addressline>Los Angeles, California, 90089-0189</addressline>
+          <addressline>213-740-5900</addressline>
+          <addressline>specol@usc.edu</addressline>
+        </address>
+        <date>2011 February</date>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2011-03-30T03:30-0700</date></creation>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection" id="archdesc-1.2">
+    <did id="did-1.2.1">
+      <unittitle>Barber School of Speech scrapbook</unittitle>
+      <unitid countrycode="US" label="Collection number" repositorycode="CLSU">0270</unitid>
+      <repository>
+        <corpname>USC Libraries Special Collections</corpname>
+      </repository>
+      <langmaterial>
+        <language langcode="eng">English</language>
+      </langmaterial>
+      <physdesc>
+        <extent>1.04 linear ft.</extent>
+        <extent>1 box</extent>
+      </physdesc>
+      <unitdate normal="1922/1940" type="bulk">Bulk, 1922-1940</unitdate>
+      <unitdate normal="1901/1980" type="inclusive">1901-1980</unitdate>
+      <abstract id="ref6" label="Abstract">The Barber School of Speech scrapbook contains clippings, announcements, programs, notes, cards, and other types of printed ephemera, 1901-1980 (bulk 1922-1940), collected by Julia Barber, founder and director of the school. The scrapbook documents the activities of Mrs. Barber, a dramatic reader and speech coach, and her colleagues and pupils--their performances, recitals, debates, commencements, and public speaking appearances, both in Los Angeles and elsewhere in the United States.</abstract>
+      <origination label="creator">
+        <persname rules="Anglo-American_Cataloguing_Rules__2nd_ed." source="naf">Barber, Julia, d. 1940</persname>
+      </origination>
+    </did>
+    <prefercite id="ref5">
+      <head>Preferred Citation</head>
+      <p>[Box/folder# or item name], Barber School of Speech scrapbook, Collection no. 0270, Special Collections, USC Libraries, University of Southern California</p>
+    </prefercite>
+    <userestrict id="ref4">
+      <head>Conditions Governing Use</head>
+      <p>All requests for permission to publish or quote from manuscripts must be submitted in writing to the Manuscripts Librarian. Permission for publication is given on behalf of Special Collections as the owner of the physical items and is not intended to include or imply permission of the copyright holder, which must also be obtained.</p>
+    </userestrict>
+    <accessrestrict id="ref3">
+      <head>Conditions Governing Access</head>
+      <p>COLLECTION STORED OFF-SITE. Advance notice required for access.</p>
+    </accessrestrict>
+    <bioghist id="ref1">
+      <head>Historical note</head>
+      <p>The Barber School of Speech was founded in Los Angeles in 1922 by Julia Barber, dramatic reader and speech coach. Originally housed in the Los Angeles Conservatory of Music, the school relocated to 1500 South Figueroa Street shortly after its founding, and then to various locations throughout Los Angeles including two locations on Western Avenue.</p>
+    </bioghist>
+    <scopecontent id="ref2">
+      <head>Scope and Content</head>
+      <p>The Barber School of Speech scrapbook contains clippings, announcements, programs, notes, cards, and other types of printed ephemera, 1901-1980 (bulk 1922-1940), collected by Julia Barber, founder and director of the school. The scrapbook documents the activities of Mrs. Barber, a dramatic reader and speech coach, and her colleagues and pupils--their performances, recitals, debates, commencements, and public speaking appearances, both in Los Angeles and elsewhere in the United States. Many pages are dedicated to the radio appearances of Virginia Barber, especially her role in the KFAC radio presentation of the "The Black Book" written by Barrie Evans (pen name for Miss Barber and her writing partner Eugene Alford) and directed by Julia Barber. Mrs. Barber also identified many specific students, assigning them individual pages in the scrapbook and including not only information about performances but also wedding and birth announcements.</p>
+    </scopecontent>
+    <controlaccess id="controlaccess-1.2.7">
+      <corpname rules="Anglo-American_Cataloguing_Rules__2nd_ed." source="local">Barber School of Speech (Los Angeles, Calif.). -- Archives</corpname>
+      <persname rules="Anglo-American_Cataloguing_Rules__2nd_ed." source="naf">Barber, Julia, d. 1940 -- Archives</persname>
+      <geogname source="lcsh">Los Angeles (Calif.)--Social life and customs--Archival resources</geogname>
+      <subject source="lcsh">Private schools--California--Los Angeles--Archival resources</subject>
+      <genreform source="aat">Scrapbooks</genreform>
+      <subject source="lcsh">Speech--Study and teaching--California--Los Angeles--Archival resources</subject>
+    </controlaccess>
+    <dsc type="combined" id="dsc-1.2.8" score="0" C-ORDER="1" MAX-C-ORDER="1">
+      <c01 id="ref7" level="item" score="1" C-ORDER="1">
+        <did>
+          <unittitle>[Scrapbook]</unittitle>
+          <container id="cid10415003" type="Box">1</container>
+        </did>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

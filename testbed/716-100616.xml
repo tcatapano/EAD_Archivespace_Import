@@ -1,0 +1,310 @@
+
+<ead audience="external" 
+     xmlns="urn:isbn:1-931666-22-9"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.loc.gov/ead/ http://www.loc.gov/ead/ead.xsd">
+   <eadheader langencoding="iso639-2b" audience="external" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924" relatedencoding="MARC21">
+      <eadid encodinganalog="856$u" mainagencycode="US-LNT" countrycode="US" identifier="ArchonInternalCollectionID:239">LaRC/Manuscripts Collection 205</eadid>
+      <filedesc>
+                  <titlestmt>
+               <titleproper encodinganalog="245">Guide to the Samuel A. Trufant papers</titleproper>
+               <titleproper type="filing">Trufant, Samuel A. papers</titleproper>
+                        <author encodinganalog="245$c">Finding Aid Authors: Deirdre Barr.</author>
+                  </titlestmt>
+         <publicationstmt>
+            <p> Copyright 2011 Louisiana Research Collection.  All rights reserved.</p>
+                           <publisher encodinganalog="260$b">Louisiana Research Collection</publisher>
+                        <date encodinganalog="260$c" type="publication" normal="2011-02-05">2011-02-05</date>
+
+                           <address>
+                  <addressline>202 Jones Hall</addressline>
+                                 <addressline>6801 Freret Street</addressline>
+                                 <addressline>New Orleans, LA, 70118</addressline>
+                                 <addressline>URL: http://specialcollections.tulane.edu/archon</addressline>
+                                 <addressline>Email: sbenjam@tulane.edu</addressline>
+                                 <addressline>Phone: 504-865-5685</addressline>
+                           </address>
+               
+         </publicationstmt>
+      </filedesc>
+
+      <profiledesc>
+         <creation encodinganalog="500">This finding aid was encoding in EAD by Archon 3.21 from an SQL database source on <date type="encoded" normal="2012-07-18">July 18th, 2012</date>.</creation>
+                     </profiledesc>
+
+
+               
+      </eadheader>
+
+      <frontmatter>
+         <titlepage>
+            <titleproper encodinganalog="245">Guide to the Samuel A. Trufant papers
+                              <date normal="1900/1920" encodinganalog="260$c">1900/1920</date>
+                        </titleproper>
+               <publisher encodinganalog="260$b">Louisiana Research Collection</publisher>
+               </titlepage>
+            </frontmatter>
+
+            <archdesc level="collection" type="inventory" audience="external" relatedencoding="MARC21">
+               <did>
+                  <head>Overview of the Collection</head>
+                           <unittitle label="Collection Title" encodinganalog="245">Samuel A. Trufant papers                              <unitdate label="Dates" encodinganalog="245$f" type="inclusive" normal="1900/1920">1900-1920</unitdate>
+                              </unittitle>
+                  <unitid encodinganalog="035" label="Identification" repositorycode="US-LNT" countrycode="US">LaRC/Manuscripts Collection 205</unitid>
+               <physdesc label="Physical Description"><extent encodinganalog="300" type="Boxes">1.00</extent></physdesc>
+                           <physdesc label="Alternate Extent Statement" encodinganalog="300$a">0.5 linear foot</physdesc>
+         
+               <langmaterial encodinganalog="546" label="Language of Materials">
+            		<language encodinganalog="041" langcode="eng">English</language>
+               </langmaterial>
+                        <repository encodinganalog="852$b" label="Repository">
+                              <corpname>Louisiana Research Collection</corpname>
+                              <address>
+                     <addressline>202 Jones Hall</addressline>
+                                    <addressline>6801 Freret Street</addressline>
+                                       <addressline>New Orleans, LA, </addressline>
+                                    <addressline>URL: http://specialcollections.tulane.edu/archon</addressline>
+                                    <addressline>Email: sbenjam@tulane.edu</addressline>
+                                    <addressline>Phone: 504-865-5685</addressline>
+                              </address>
+            </repository>
+
+
+                        
+      </did>
+
+
+      <!--COLLECTION LEVEL METADATA: -->
+
+
+            <!-- CONTROLLED ACCESS / SUBJECT TERMS -->
+
+      
+
+         <!-- END CONTROLLED ACCESS TERMS -->
+
+            
+            <!-- DIGITAL ARCHIVAL OBJECTS -->
+                              <!-- END DIGITAL ARCHIVAL OBJECTS -->
+                     <!-- ADMINISTRATIVE INFORMATION -->
+
+                  <descgrp>
+                     <head>Administrative Information</head>
+                              <userestrict encodinganalog="540">
+                           <head>Conditions Governing Use:</head>
+                                          <p>Physical rights are retained by the Louisiana Research Collection. Copyright is retained in accordance with U.S. copyright laws.</p>
+                              </userestrict>
+                     <accessrestrict encodinganalog="506">
+                        <head>Conditions Governing Access:</head>
+                                          <p>Collection is open to the public. No known restrictions.</p>
+                           </accessrestrict>
+                              <prefercite encodinganalog="524">
+                     <head>Preferred Citation:</head>
+                     <p>Samuel A. Trufant papers, Manuscripts Collection 205, Louisiana Research Collection, Howard-Tilton Memorial Library, Tulane University, New Orleans, LA 70118.</p>
+                     </prefercite>
+                     </descgrp>
+
+                           <arrangement encodinganalog="351">
+                  <head>Arrangement of Materials:</head>
+                                 <p>This collection is arranged by subject. It consists of 0.5 linear foot.</p>
+                        </arrangement>
+            <scopecontent>
+               <head>Scope and Contents</head>
+                                 <p>The papers in this collection are divided into three groups. The first group deals with the Crescent City Stock Yard and Slaughter House records (1900-1914). There are also financial records and production inventories of the company in which Mr. Trufant had the position of treasurer. The second group of papers revolves around the upkeep and repair of the levees in 1897, which was the concern of the Citizens Committee on Levees of which Mr. Trufant was Vice-Chairman. Papers from various business interests that Mr. Trufant was engaged in and a few personal papers make up the third group of documents.</p>
+                        </scopecontent>
+            
+
+
+         <!-- END ADMINISTRATIVE INFORMATION -->
+
+         <!-- END COLLECTION LEVEL METADATA -->
+
+                        <!-- BEGIN SUBORDINATE COMPONENTS -->
+            <dsc type="combined">
+               <head>Detailed List of Contents</head>
+               <c01 level="">
+   <did>
+      <unitid label="ArchonID" audience="internal">id62920</unitid>
+         	<container type="Box">1</container>
+      <unittitle>Samuel A. Trufant papers</unittitle>
+                  <unitdate>1900-1920</unitdate>
+               </did>
+         <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id62927</unitid>
+         	<container type="Box">1</container>
+	<container type="Folder">1</container>
+      <unittitle>Crescent City stock yards and slaughter House papers</unittitle>
+                  <unitdate>1900-1904</unitdate>
+               </did>
+         
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id62932</unitid>
+         	<container type="Box">1</container>
+	<container type="Folder">2</container>
+      <unittitle>Crescent City stock yards and slaughter house papers</unittitle>
+                  <unitdate>1904</unitdate>
+               </did>
+         
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id62934</unitid>
+         	<container type="Box">1</container>
+	<container type="Folder">3</container>
+      <unittitle>Crescent City stock yards and slaughter house papers</unittitle>
+                  <unitdate>1905</unitdate>
+               </did>
+         
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id62942</unitid>
+         	<container type="Box">1</container>
+	<container type="Folder">4</container>
+      <unittitle>Crescent City stock yards and slaughter house papers</unittitle>
+                  <unitdate>1905</unitdate>
+               </did>
+         
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id62944</unitid>
+         	<container type="Box">1</container>
+	<container type="Folder">5</container>
+      <unittitle>Crescent City stock yards and slaughter house papers</unittitle>
+                  <unitdate>1905-1907</unitdate>
+               </did>
+         
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id62945</unitid>
+         	<container type="Box">1</container>
+	<container type="Folder">6</container>
+      <unittitle>Crescent City stock yards and slaughter house papers</unittitle>
+                  <unitdate>1908-1909</unitdate>
+               </did>
+         
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id62947</unitid>
+         	<container type="Box">1</container>
+	<container type="Folder">7</container>
+      <unittitle>Crescent City stock yards and slaughter house papers</unittitle>
+                  <unitdate>1910</unitdate>
+               </did>
+         
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id62958</unitid>
+         	<container type="Box">1</container>
+	<container type="Folder">8</container>
+      <unittitle>Crescent City stock yards and slaughter house papers</unittitle>
+                  <unitdate>1910</unitdate>
+               </did>
+         
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id62967</unitid>
+         	<container type="Box">1</container>
+	<container type="Folder">9</container>
+      <unittitle>Crescent City stock yards and slaughter house papers</unittitle>
+                  <unitdate>1911</unitdate>
+               </did>
+         
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id62969</unitid>
+         	<container type="Box">1</container>
+	<container type="Folder">10</container>
+      <unittitle>Crescent City stock yards and slaughter house papers</unittitle>
+                  <unitdate>undated</unitdate>
+               </did>
+         
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id62970</unitid>
+         	<container type="Box">1</container>
+	<container type="Folder">11</container>
+      <unittitle>Crescent City stock yards and slaughter house papers</unittitle>
+                  <unitdate>1912-1914</unitdate>
+               </did>
+         
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id62979</unitid>
+         	<container type="Box">1</container>
+	<container type="Folder">12</container>
+      <unittitle>Crescent city stock yards and slaughter house newspaper clippings</unittitle>
+                  <unitdate>1897-1910</unitdate>
+               </did>
+         
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id62985</unitid>
+         	<container type="Box">1</container>
+	<container type="Folder">13</container>
+      <unittitle>Citizens Committee on Levees</unittitle>
+                  <unitdate>1879</unitdate>
+               </did>
+         
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id63000</unitid>
+         	<container type="Box">1</container>
+	<container type="Folder">14</container>
+      <unittitle>Personal and business papers</unittitle>
+                  <unitdate>1879-1901</unitdate>
+               </did>
+         
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id63016</unitid>
+         	<container type="Box">1</container>
+	<container type="Folder">15</container>
+      <unittitle>Personal and business papers</unittitle>
+                  <unitdate>1910-1912</unitdate>
+               </did>
+         
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id63017</unitid>
+         	<container type="Box">1</container>
+	<container type="Folder">16</container>
+      <unittitle>Personal and business papers</unittitle>
+                  <unitdate>1912</unitdate>
+               </did>
+         
+</c02>
+   <c02 level="file">
+   <did>
+      <unitid label="ArchonID" audience="internal">id82034</unitid>
+         	<container type="Box">1</container>
+	<container type="Folder">17</container>
+      <unittitle>Personal and business papers</unittitle>
+                  <unitdate>1913-1920</unitdate>
+               </did>
+         
+</c02>
+   
+</c01>
+   
+            </dsc>
+               <!-- END SUBORDINATE COMPONENTS -->
+   </archdesc>
+</ead>
+

@@ -1,0 +1,3254 @@
+<?xml version="1.0" standalone="no"?>
+
+<!-- ======== DO NOT MODIFY THIS INFORMATION!!! =======  -->
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<?xml-stylesheet type="text/xsl" href="webead.xsl"?>
+<!-- =============================================== -->
+<ead audience="external" relatedencoding="MARC">
+	<eadheader audience="internal" countryencoding="iso3166-1" dateencoding="iso8601"
+		langencoding="iso639-2" repositoryencoding="iso15511" scriptencoding="iso15924">
+		<eadid countrycode="us" mainagencycode="MnHi">00847.xml</eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper>SAINT PAUL AREA YMCA (MINN.).: </titleproper>
+				<subtitle>An Inventory of Its Records at the Minnesota Historical Society</subtitle>
+				<author>Finding aid prepared by Rich Arpi.</author>
+			</titlestmt>
+			<notestmt>
+				<note audience="internal">
+					<p>MHS finding aid format: feith</p>
+				</note>
+			</notestmt>
+		             <seriesstmt><p>Manuscripts Collection</p></seriesstmt>         </filedesc>
+		<profiledesc>
+			<creation>Finding aid encoded by Meagan Kellom and Alex Kent<date>February
+				2011.</date></creation>
+			<langusage>Finding aid written in <language langcode="eng">English</language>.
+			</langusage>
+		</profiledesc>
+	</eadheader>
+	<archdesc level="collection" type="inventory" relatedencoding="MARC">
+		<did>
+			<head id="a1">OVERVIEW</head>
+			<repository label="Label:"><corpname>Minnesota Historical
+				Society</corpname></repository>
+			<origination label="Creator:"><corpname role="creator" encodinganalog="110">Saint Paul
+					Area YMCA (Minn.).</corpname></origination>
+			<unittitle label="Title:" encodinganalog="245$a">Saint Paul Area YMCA
+				records.</unittitle>
+			<unitdate label="Date:" encodinganalog="245$f" type="inclusive" normal="1856/1999"
+				>1856-1999.</unitdate>
+			<langmaterial label="Language of Materials">Materials in <language langcode="eng"
+					>English</language>. </langmaterial>
+			<abstract label="Abstract:">Minutes, constitution and by-laws, annual meeting materials,
+				financial and committee records, correspondence, transcripts of newspaper articles,
+				subject files, branch files, camp files, photographs, and scrapbooks containing
+				information on the St. Paul (Minn.) area YMCA's many programs and activities for
+				youths and adults.</abstract>
+			<physdesc label="Quantity:" encodinganalog="300">31 cubic feet (30 boxes).</physdesc>
+			<physloc label="Location:"> See <ref target="a9">Detailed Description</ref> for shelf
+				locations.</physloc>
+		</did>
+		<scopecontent encodinganalog="520">
+			<head id="a3">SCOPE AND CONTENTS</head>
+			<p>The collection includes a fairly complete set of minutes of the board of directors
+				and executive committee, the metropolitan business and finance committee, and the
+				nominating committee. There are also minutes for the physical department committee,
+				and the "Y's Menette's Club," a women's organization. Other corporate records
+				include annual meeting programs and minutes, board of directors rosters, and audits.
+				Subject files relate program development, construction programs, and planning.</p>
+			<p>Extensive publicity scrapbooks, and several scrapbooks kept by
+				various units within the organization, consist largely of newspaper clippings.</p>
+			<p>A substantial collection of photographs document the many activities and programs of
+				the YMCA. Included are depictions of youth and adult groups covering all aspects of
+				the program, including sports, dancing, meetings, conferences, and music and
+				theatrical groups. They include many photographs of the various branches throughout
+				St. Paul, particularly in relation to building construction, and a set of identified portraits.</p>
+		</scopecontent>
+		<controlaccess>
+			<head id="a7">CATALOG HEADINGS</head>
+			<p>This collection is indexed under the following headings in the catalog of the
+				Minnesota Historical Society. Researchers desiring materials about related topics
+				should <extref href="http://mnhs.mnpals.net/F" show="new" actuate="onrequest">search
+					the catalog</extref> using these headings.</p>
+			<controlaccess>
+				<head>Topics:</head>
+				<subject encodinganalog="650">Amateur theater -- Minnesota -- Saint Paul.</subject>
+				<subject encodinganalog="650">Athletics -- Minnesota -- Saint Paul.</subject>
+				<subject encodinganalog="650">Boys -- Minnesota -- Saint Paul -- Societies and
+					clubs.</subject>
+				<subject encodinganalog="650">Girls -- Minnesota -- Saint Paul -- Societies and
+					clubs.</subject>
+				<subject encodinganalog="650">Men -- Minnesota -- Saint Paul -- Societies and
+					clubs.</subject>
+				<subject encodinganalog="650">Pageants -- Minnesota -- Saint Paul.</subject>
+				<subject encodinganalog="650">Young adults -- Minnesota -- Saint Paul.</subject>
+				<subject encodinganalog="650">Young Men's Christian associations -- Minnesota --
+					Saint Paul -- Administration.</subject>
+				<subject encodinganalog="650">Youth -- Minnesota -- Saint Paul -- Societies and
+					clubs.</subject>
+			</controlaccess>
+			<controlaccess>
+				<head>Persons:</head>
+				<persname role="subject" encodinganalog="600">Driscoll, Arthur Brown,
+					1862-1938.</persname>
+				<persname role="creator" encodinganalog="700">Funk, John Philip.</persname>
+				<persname role="subject" encodinganalog="600">Ingersoll, Daniel Wesley,
+					1812-1894.</persname>
+				<persname role="creator" encodinganalog="700">Nye, Herbert.</persname>
+				<persname role="creator" encodinganalog="700">Stassen, Harold Edward,
+					1907-2001.</persname>
+			</controlaccess>
+			<controlaccess>
+				<head>Organizations:</head>
+				<corpname role="subject" encodinganalog="610">Methodist Episcopal Church --
+					Minnesota -- Saint Paul.</corpname>
+				<corpname role="subject" encodinganalog="610">Saint Paul Young Men's Christian
+					Association -- Buildings.</corpname>
+				<corpname role="subject" encodinganalog="610">Saint Paul Young Men's Christian
+					Association -- Libraries.</corpname>
+				<corpname role="creator" encodinganalog="710">Saint Paul Young Men's Christian
+					Association.</corpname>
+				<corpname role="subject" encodinganalog="610">St. Paul YMCA Players
+					(Minn.).</corpname>
+				<corpname role="subject" encodinganalog="610">United Nations.</corpname>
+				<corpname role="creator" encodinganalog="710">Young Men's Christian Association
+					of St. Paul (Saint Paul, Minn.).</corpname>
+			</controlaccess>
+			<controlaccess>
+				<head>Places:</head>
+				<geogname encodinganalog="651">Saint Paul (Minn.)</geogname>
+			</controlaccess>
+			<controlaccess>
+				<head>Document Types:</head>
+				<genreform encodinganalog="655">Photographs.</genreform>
+			</controlaccess>
+		</controlaccess>
+		<descgrp type="admininfo">
+			<head id="a8">ADMINISTRATIVE INFORMATION</head>
+			<prefercite encodinganalog="524">
+				<head>Preferred Citation:</head>
+				<p><emph render="italic">[Indicate the cited item and/or series here]. </emph>Saint
+					Paul Area YMCA (Minn.). Saint Paul Area YMCA Records. Minnesota Historical
+					Society.</p>
+				<p><emph render="italic">See the Chicago Manual of Style for additional
+						examples.</emph></p>
+			</prefercite>
+			<acqinfo encodinganalog="541">
+				<head>Accession Information:</head>
+				<p>Accession numbers: 3481; 8118; 10,955; 11,340; 11,343; 11,551; 12,064; 12,128;
+					12,463; 13,246; 14,303; 16,131; 16,349</p>
+			</acqinfo>
+			<processinfo>
+				<head>Processing Information:</head>
+				<p><extref actuate="onrequest" audience="external" show="new"
+						href="http://www.archives.gov/nhprc/"><extptr show="embed" altrender="right"
+							title="NHPRC logo" href="images/nhprc-178x178.jpg"/></extref></p>
+				<p>Processing and cataloging of this collection was supported with a Basic Project
+					grant awarded by the National Historical Publications and Records Commission
+						<extref actuate="onrequest" audience="external"
+						href="http://www.archives.gov/nhprc/">(NHPRC)</extref>.</p>
+				<p>Catalog ID number: 001713517</p>
+			</processinfo>
+		</descgrp>
+		<dsc type="combined">
+			<head id="a9">DETAILED DESCRIPTION</head>
+			<c01 level="series">
+				<did>
+					<unittitle>Board and Administrative Files</unittitle>
+				</did>
+				<c02>
+					<did>
+						<physloc>129.I.1.8F</physloc>
+						<container>7</container>
+						<unittitle>Constitution and bylaws,</unittitle>
+						<unitdate>1887-1941. </unitdate>
+					</did>
+				</c02>
+
+				<c02>
+					<did>
+						<physloc>129.I.2.7B</physloc>
+						<container>17</container>
+						<unittitle>Constitutions, articles of incorporation, and bylaws,</unittitle>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>1940-1979. </unittitle>
+						<physdesc>12 folders. </physdesc>
+					</did>
+				</c02>
+
+				<c02>
+					<did>
+						<physloc>129.I.1.8F</physloc>
+						<container>7</container>
+						<unittitle>Correspondence and miscellaneous papers,</unittitle>
+						<unitdate>undated and 1848-1944. </unitdate>
+						<physdesc>4 folders. </physdesc>
+					</did>
+					<scopecontent>
+						<p>Includes undated histories.</p>
+					</scopecontent>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Report of the General Secretary,</unittitle>
+						<unitdate>1914-1917. </unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Transcripts of newspaper articles about the St. Paul
+							YMCA,</unittitle>
+						<unitdate>1856-1910. </unitdate>
+						<physdesc>4 folders. </physdesc>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Minutes of Meetings of the Board of Directors:</unittitle>
+					</did>
+					<scopecontent>
+						<p>Arranged in chronological order.</p>
+					</scopecontent>
+					<c03>
+						<did>
+							<unittitle>Volume 1, </unittitle>
+							<unitdate>September 8, 1856-November 1, 1858. </unitdate>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unittitle>Volume 2, </unittitle>
+							<unitdate> June 1, 1878-February 24, 1898. </unitdate>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unittitle>Volume 3, </unittitle>
+							<unitdate> February 24, 1898-April 6, 1909. </unitdate>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<physloc>129.H.1.2F</physloc>
+							<container>9</container>
+							<unittitle>Volume 4. Minutes and Committee Reports, </unittitle>
+							<unitdate> November 4, 1909-February 6, 1912. </unitdate>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<physloc>129.I.1.8F</physloc>
+							<container>7</container>
+							<unittitle>Volume 5, </unittitle>
+							<unitdate>October 4, 1912-October 8, 1914. </unitdate>
+						</did>
+						<scopecontent>
+							<p> In reverse chronological order.</p>
+						</scopecontent>
+					</c03>
+					<c03>
+						<did>
+							<unittitle>January 13, 1913-October 23, 1929. </unittitle>
+							<physdesc> 2 folders. </physdesc>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<physloc>129.I.1.9B</physloc>
+							<container>8</container>
+							<unittitle>November 19, 1929-December 31, 1947. </unittitle>
+							<physdesc> 8 folders. </physdesc>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<physloc>129.H.1.2F</physloc>
+							<container>9</container>
+							<unittitle>January 30, 1948-December 30, 1953. </unittitle>
+							<physdesc> 7 folders. </physdesc>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unittitle>January 28, 1954-February 26, 1960. </unittitle>
+							<physdesc> 6 folders. </physdesc>
+						</did>
+					</c03>
+				</c02>
+				<c02>
+					<did>
+						<physloc>129.I.1.8F</physloc>
+						<container>7</container>
+						<unittitle>Volume 6. Joint Committee, </unittitle>
+						<unitdate> April 12, 1897-January 27, 1898. </unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Volume 7. Minutes of Meetings, Student branch, </unittitle>
+						<unitdate>January 14, 1896-March 7, 1912. </unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>149.B.14.13B</physloc>
+						<container>1</container>
+						<unittitle>Historical information.</unittitle>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Physical Department Committee minutes, </unittitle>
+						<unitdate>1914-1949. </unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Y’s Menette’s Club of St. Paul minutes, </unittitle>
+						<unitdate>1942-1961. </unitdate>
+						<physdesc>6 folders. </physdesc>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Board of Directors and Executive Committee minutes:</unittitle>
+					</did>
+					<c03>
+						<did>
+							<unittitle>March 1961-September 1970. </unittitle>
+							<physdesc> 15 folders. </physdesc>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<physloc>149.B.14.14F</physloc>
+							<container>2</container>
+							<unittitle>October 1970-May 24, 1978. </unittitle>
+							<physdesc>20 folders. </physdesc>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<physloc>149.B.14.15B</physloc>
+							<container>3</container>
+							<unittitle>May 25, 1978-December 1981. </unittitle>
+							<physdesc> 9 folders. </physdesc>
+						</did>
+					</c03>
+				</c02>
+				
+				<c02>	<did>
+					<unittitle>Annual meeting, </unittitle>
+					<unitdate>1929-1989. </unitdate>
+					<physdesc> 6 folders. </physdesc>
+				</did>
+					<scopecontent>
+						<p>Includes annual reports and programs. Files from 1960-1981 include
+							minutes. There are no meeting records for the year 1945.</p>
+					</scopecontent></c02>
+				
+				<c02>
+					<did>
+						<unittitle>Roster: Board of Directors, Boards of Management, and committee
+							organization, </unittitle>
+						<unitdate>1976-1981. </unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Board of Directors resource packet, </unittitle>
+						<unitdate>1980. </unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>A.B. Driscoll papers, </unittitle>
+						<unitdate>1907-1967. </unitdate>
+						<physdesc> 3 folders. </physdesc>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Correspondence from civic leaders following 1928 retirement
+							(1929) and miscellaneous materials.</unittitle>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Business and Finance Committee minutes:</unittitle>
+					</did>
+					<c03>
+						<did>
+							<unittitle>1967-1972.</unittitle>
+							<physdesc>6 folders. </physdesc>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<physloc>149.B.14.16F</physloc>
+							<container>4</container>
+							<unittitle>1974-1976. </unittitle>
+							<physdesc>3 folders. </physdesc>
+						</did>
+					</c03>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Annual audits, </unittitle>
+						<unitdate>1965-1979. </unitdate>
+					</did>
+					<scopecontent>
+						<p>Incomplete.</p>
+					</scopecontent>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Nominating Committee records, </unittitle>
+						<unitdate>1972-1974. </unitdate>
+						<physdesc> 2 folders. </physdesc>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Program plans, </unittitle>
+						<unitdate> 1949/50, 1965/66, 1971 and 1972. </unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Development and building, </unittitle>
+						<unitdate> 1977 and 1981. </unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Corporate planning process report, </unittitle>
+						<unitdate>1980. </unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Miscellaneous papers, </unittitle>
+						<unitdate>1918-1978. </unitdate>
+					</did>
+					<odd>
+						<p>[.5 cubic feet empty]</p>
+					</odd>
+				</c02>
+			</c01>
+
+
+
+
+
+
+
+
+			<c01 level="series">
+				<did>
+					<unittitle>Subject files </unittitle>
+				</did>
+				<c02>
+					<did>
+						<physloc>129.I.2.7B</physloc>
+						<container>17</container>
+
+						<unittitle>American Indian Center Project, </unittitle>
+						<unitdate>1968-1970. </unitdate>
+						<physdesc>2 folders.</physdesc>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Amortization Projects: Purchase of Properties, </unittitle>
+						<unittitle>1965-1967. </unittitle>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Annual meetings, programs and minutes, <unitdate>1950-1990.
+							</unitdate></unittitle>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Anniversaries (75th), </unittitle>
+						<unitdate>1931. </unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Anniversaries (100th), </unittitle>
+						<unitdate>1956. </unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Board of Directors: </unittitle>
+					</did>
+					<c03>
+						<did>
+							<unittitle><emph render="italic">How We Work Together</emph>, </unittitle>
+							<unitdate>1976. </unitdate>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unittitle>Minutes, </unittitle>
+							<unitdate>1977-1978, 1981. </unitdate>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unittitle>Resolution on check signing, </unittitle>
+							<unitdate>1970-1978. </unitdate>
+						</did>
+					</c03>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Brochures, </unittitle>
+						<unitdate>undated. </unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Camping Task Force, </unittitle>
+						<unitdate>1976. </unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Capital Campaign, </unittitle>
+						<unitdate>1985. </unitdate>
+						<physdesc>2 folders. </physdesc>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Catholic Church and the YMCA: </unittitle>
+					</did>
+					<c03>
+						<did>
+							<unittitle>St. Paul and Minneapolis Archdiocese, </unittitle>
+							<unitdate>1956-1968. </unitdate>
+							<physdesc>5 folders. </physdesc>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unittitle>National Council for Ecumenical Consultation, <unitdate>1966.
+								</unitdate></unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Corporate goals and objectives, 1973 and beyond, <unitdate>circa
+								1973. </unitdate></unittitle>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Deficit: financial alternatives, </unittitle>
+						<unitdate>1972-1973.</unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Deficit reduction, </unittitle>
+						<unitdate>1972-1973. </unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Distinguished leader award, </unittitle>
+						<unitdate>1973-1989. </unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>129.I.2.8F</physloc>
+						<container>18</container>
+						<unittitle>Euclid Hotel, </unittitle>
+
+						<unitdate>1967-1972. </unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>History of the St. Paul YMCA: </unittitle>
+					</did>
+					<c03>
+						<did>
+							<unittitle>General information files, </unittitle>
+							<unitdate>1909-1986. </unitdate>
+							<physdesc>3 folders. </physdesc>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unittitle>Minnesota Historical Society,
+								<unitdate>1925-1999.</unitdate></unittitle>
+
+							<physdesc>2 folders. </physdesc>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unittitle>Writing of the history, </unittitle>
+							<unitdate>1955-1957. </unitdate>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unittitle>Philosophy of the St. Paul YMCA, </unittitle>
+							<unitdate>undated. </unitdate>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unittitle><emph render="italic">One Hundred Years of Fellowship and
+									Service 1856-1956: The Story of the St. Paul Young Men's
+									Christian Association</emph>.</unittitle>
+							<origination><persname>Bill, Alfred Hoyt.</persname></origination>
+						</did>
+					</c03>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Minnesota State-Trust supervision, </unittitle>
+						<unitdate>1975. </unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>National YMCA: Purpose and Paris Basis Study, </unittitle>
+						<unitdate>1968-1972. </unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>National Council: International Division Program Center, </unittitle>
+						<unittitle>1978-1979. </unittitle>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>National Council Reports, </unittitle>
+						<unittitle>1975-1979. </unittitle>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>National Youth Project Using Mini-Bikes, </unittitle>
+						<unitdate>1976. </unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Program plans and policies, </unittitle>
+						<unitdate>1960/1961-1972.</unitdate>
+						<physdesc>7 folders.</physdesc>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Racism, </unittitle>
+						<unitdate>1972. </unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Recognition events: </unittitle>
+					</did>
+					<c03>
+						<did>
+							<unittitle>Tony Bechik, </unittitle>
+							<unitdate>July 19, 1978. </unitdate>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unittitle>Paul Bremicker, </unittitle>
+							<unitdate>September 7, 1961. </unitdate>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unittitle>Warren E. Burger, </unittitle>
+							<unitdate>1969-1972. </unitdate>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unittitle>Ernie Collingham, </unittitle>
+							<unitdate>September 20, 1972. </unitdate>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unittitle>Clifford E. Comfort, </unittitle>
+							<unitdate>April 16, 1963. </unitdate>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unittitle>Ted Gray, </unittitle>
+							<unitdate>September 12, 1974. </unitdate>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unittitle>Phil R. Hall, </unittitle>
+							<unitdate>June 26, 1979. </unitdate>
+							<physdesc>3 folders. </physdesc>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unittitle>John R. Mott, </unittitle>
+							<unitdate>1955. </unitdate>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unittitle>Roger B. Shepard, Jr.,</unittitle>
+							<unitdate>August 20, 1969. </unitdate>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unittitle>Henry Setzer, </unittitle>
+							<unitdate>September 25, 1978. </unitdate>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unittitle>Robert Tucker, </unittitle>
+							<unitdate>October 7, 1974. </unitdate>
+						</did>
+					</c03>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Service Honor Roll: YMCA Building Fund Campaign, </unittitle>
+						<unitdate>1947. </unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Stationary samples, </unittitle>
+						<unitdate>circa 1913. </unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Social Security, </unittitle>
+						<unitdate>1950-1976. </unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>St. Paul YMCA tax ruling, </unittitle>
+						<unitdate>1981. </unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Student branch, </unittitle>
+						<unitdate>1948-1969. </unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>YMCA Players: <emph render="italic">Liberty Ho!</emph> program
+							and score, </unittitle>
+						<unitdate>1938. </unitdate>
+						<physdesc>2 folders.</physdesc>
+					</did>
+				</c02>
+
+				<c02>
+					<did>
+						<unittitle>YMCA Players theatrical productions, programs and news clippings, </unittitle>
+						<unitdate>1935-1943. </unitdate>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>Branch Files</unittitle>
+				</did>
+				<c02>
+					<did>
+						<physloc>129.I.2.9B</physloc>
+						<container>19</container>
+
+						<unittitle>Downtown St. Paul YMCA:</unittitle>
+					</did>
+					<c03>
+						<did>
+							<unittitle>Program plans, </unittitle>
+							<unitdate>1945-1947; 1950-1952. </unitdate>
+							<physdesc>2 folders.</physdesc>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unittitle>Building renovation, </unittitle>
+							<unitdate>1958. </unitdate>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unittitle>City office remodeling, </unittitle>
+							<unitdate>1962. </unitdate>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unittitle>General files, </unittitle>
+							<unitdate>1972-1984. </unitdate>
+							<physdesc>22 folders. </physdesc>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unittitle>Skyway-East branch general files, </unittitle>
+							<unitdate>1985-1998. </unitdate>
+							<physdesc>15 folders.</physdesc>
+						</did>
+					</c03>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>East Branch: </unittitle>
+					</did>
+					<c03>
+						<did>
+							<unittitle>Program plans and policies, </unittitle>
+							<unitdate>1965-1966. </unitdate>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unittitle>Land purchase, </unittitle>
+							<unitdate>1960-1967. </unitdate>
+							<physdesc>2 folders. </physdesc>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unittitle>General files, </unittitle>
+							<unitdate>1971-1988. </unitdate>
+							<physdesc>25 folders. </physdesc>
+						</did>
+					</c03>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Midway Branch: </unittitle>
+					</did>
+					<c03>
+						<did>
+							<unittitle>Bylaws, </unittitle>
+							<unitdate>1951-1955. </unitdate>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unittitle>Committee of Management, </unittitle>
+							<unitdate>1964-1969.</unitdate>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unittitle>Leonard, Jody: Lawsuit (Midway pool collapse), </unittitle>
+							<unitdate>1973-1974.</unitdate>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unittitle>Midway pool ceiling collapse, </unittitle>
+							<unitdate>1968-1973.</unitdate>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unittitle>Midway pool ceiling replacement, </unittitle>
+							<unitdate>1972. </unitdate>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<physloc>129.I.2.10F</physloc>
+							<container>20</container>
+							<unittitle>General files, </unittitle>
+							<unitdate>1953, 1972-1998. </unitdate>
+							<physdesc>32 folders.</physdesc>
+						</did>
+					</c03>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Northeast Branch: </unittitle>
+					</did>
+					<c03>
+						<did>
+							<unittitle>General files, </unittitle>
+							<unitdate>1967-1998.</unitdate>
+							<physdesc>38 folders. </physdesc>
+						</did>
+					</c03>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Northwest Suburban Branch: </unittitle>
+					</did>
+					<c03>
+						<did>
+							<unittitle>Five year plan, </unittitle>
+							<unitdate>1974. </unitdate>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unittitle>Committee of Management, </unittitle>
+							<unitdate>1965-1967. </unitdate>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unittitle>Minutes, </unittitle>
+							<unitdate>1968-1969. </unitdate>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unittitle>Background paper, </unittitle>
+							<unitdate>1966. </unitdate>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<physloc>129.I.3.1B</physloc>
+							<container>21</container>
+							<unittitle>General files, </unittitle>
+							<unitdate>1964-1998. </unitdate>
+							<physdesc>33 folders. </physdesc>
+						</did>
+					</c03>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>South Branch: </unittitle>
+
+					</did>
+					<c03>
+						<did>
+							<unittitle>Riverview branch, </unittitle>
+							<unitdate>1950.</unitdate>
+						</did>
+						<scopecontent>
+							<p>Called Tri-Town in 1954 and South District in 1958. </p>
+						</scopecontent>
+					</c03>
+					<c03>
+						<did>
+							<unittitle>South district builiding committee, </unittitle>
+							<unitdate>1963-1964. </unitdate>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unittitle>Tri-town building site, </unittitle>
+							<unitdate>1958. </unitdate>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unittitle>South Branch property purchase, </unittitle>
+							<unitdate>1963. </unitdate>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unittitle>Committee of Management, </unittitle>
+							<unitdate>1963-1969. </unitdate>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unittitle>General files, </unittitle>
+							<unitdate>34 folders.</unitdate>
+						</did>
+					</c03>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Southeast Branch: </unittitle>
+					</did>
+					<c03>
+						<did>
+							<unittitle>General files, </unittitle>
+							<unitdate>1990-1998. </unitdate>
+							<physdesc>10 folders. </physdesc>
+						</did>
+					</c03>
+				</c02>
+				<c02>
+					<did>
+						<physloc>129.I.3.2F</physloc>
+						<container>22</container>
+						<unittitle>Southwest Branch: </unittitle>
+					</did>
+					<c03>
+						<did>
+
+							<unittitle>General files, </unittitle>
+							<unitdate>1990-1998. </unitdate>
+							<physdesc>9 folders. </physdesc>
+						</did>
+					</c03>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>St. Croix Valley Branch: </unittitle>
+					</did>
+					<c03>
+						<did>
+							<unittitle>General files, </unittitle>
+							<unitdate>1992-1998. </unitdate>
+							<physdesc>8 folders. </physdesc>
+						</did>
+					</c03>
+				</c02>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>Camp Files </unittitle>
+				</did>
+				<c02>
+					<did>
+						<physloc>129.I.3.2F</physloc>
+						<container>22</container>
+						<unittitle>Camp Du Nord: </unittitle>
+
+					</did>
+					<c03>
+						<did>
+							<unittitle>Annual reports, </unittitle>
+							<unitdate>1984-1986, 1988. </unitdate>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unittitle>Bylaws, </unittitle>
+							<unitdate>1964-1965. </unitdate>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unittitle>Finance committee, </unittitle>
+							<unitdate>1960-1963. </unitdate>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unittitle>General files, </unittitle>
+							<unittitle>1973-1997. </unittitle>
+							<physdesc>30 folders. </physdesc>
+						</did>
+					</c03>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Camp Northland: </unittitle>
+					</did>
+					<c03>
+						<did>
+							<unittitle>General files, </unittitle>
+							<unittitle>1983-1989. </unittitle>
+							<physdesc>8 folders. </physdesc>
+						</did>
+					</c03>
+				</c02>
+				<c02>
+					<did>
+						<physloc>129.I.3.3B</physloc>
+						<container>23</container>
+						<unittitle>Camp St. Croix: </unittitle>
+					</did>
+					<c03>
+						<did>
+							<unittitle>Annual reports, </unittitle>
+							<unittitle>1980-1981, 1984-1987. </unittitle>
+							<physdesc>3 folders. </physdesc>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unittitle>Master plan report, </unittitle>
+							<unitdate>1966. </unitdate>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unittitle>Five year plan, </unittitle>
+							<unittitle>May 1985. </unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unittitle>Voices of St. Croix: The First 90 Years, </unittitle>
+							<unitdate>1999. </unitdate>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unittitle>Annual reports, </unittitle>
+							<unitdate>1967-1971. </unitdate>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unittitle>St. Croix land survey, </unittitle>
+							<unitdate>1964-1966. </unitdate>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unittitle>Headquarters: fire loss and replacement, </unittitle>
+							<unitdate>1968. </unitdate>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unittitle>Railroad right of way purchase, </unittitle>
+							<unitdate>1966. </unitdate>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unittitle>Real estate taxes, </unittitle>
+							<unitdate>1965-1973. </unitdate>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unittitle>Cabin project, </unittitle>
+							<unitdate>1959-1960. </unitdate>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unittitle>Dining Hall-Conference Center, </unittitle>
+							<unittitle>1973-1976. </unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unittitle>Map of camp, </unittitle>
+							<unitdate>undated. </unitdate>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unittitle>Planning for the future, </unittitle>
+							<unitdate>1973. </unitdate>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unittitle>Troy Township zoning ordinance, </unittitle>
+							<unitdate>1964. </unitdate>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unittitle>Wisconsin state taxes, </unittitle>
+							<unitdate>1969. </unitdate>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unittitle>Northern States Power Company property acquisition,
+									<unitdate>1967-1968. </unitdate></unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unittitle>General files, </unittitle>
+							<unitdate>1965-1992. </unitdate>
+							<physdesc>39 folders. </physdesc>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<physloc>129.I.3.4F</physloc>
+
+							<container>24</container>
+							<unittitle>General files, </unittitle>
+							<unitdate>1994-1999.</unitdate>
+							<physdesc>8 folders. </physdesc>
+						</did>
+					</c03>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Camp Widjiwagan:</unittitle>
+					</did>
+					<c03>
+						<did>
+							<unittitle>Pictures, maps, brochures, </unittitle>
+							<unitdate>1938-1960. </unitdate>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unittitle>Newspaper clippings, </unittitle>
+							<unitdate>1962. </unitdate>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unittitle>Brauer campsite study, </unittitle>
+							<unitdate>1967. </unitdate>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unittitle>Thor's Lodge dining hall, </unittitle>
+							<unitdate>1998. </unitdate>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unittitle>Summer schedule brochure, </unittitle>
+							<unitdate>1999. </unitdate>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unittitle>General files, </unittitle>
+							<unitdate>1971-1991. </unitdate>
+							<physdesc>29 folders. </physdesc>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<physloc>129.I.3.5B</physloc>
+
+							<container>25</container>
+							<unittitle>General files, </unittitle>
+							<unitdate>1992-1998. </unitdate>
+							<physdesc>7 folders. </physdesc>
+						</did>
+					</c03>
+				</c02>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>Photograph materials</unittitle>
+				</did>
+				<c02>
+					<did>
+						<physloc>129.I.3.5B</physloc>
+
+						<container>25</container>
+						<unittitle>Philip C. Dittes negatives, </unittitle>
+
+
+
+						<unitdate>1948-1965.</unitdate>
+						<physdesc>4" x 5" and smaller. </physdesc>
+					</did>
+					<scopecontent>
+						<p>Prints of the negatives appear scattered throughout the photographic
+							files. </p>
+					</scopecontent>
+				</c02>
+
+
+				<c02>
+					<did>
+						<unittitle>Annual meetings, </unittitle>
+						<unitdate>1936-1974. </unitdate>
+						<physdesc>17 folders. </physdesc>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Barn Dance, </unittitle>
+						<unitdate>1941. </unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Basketball. </unittitle>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Beckman-Kirby Page dinner, </unittitle>
+						<unitdate>1939. </unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Boxing. </unittitle>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Boys Department reunion, </unittitle>
+						<unitdate>1941. </unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Boys Department, </unittitle>
+						<unitdate>1943. </unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Boys Division, </unittitle>
+						<unitdate>1925-1960. </unitdate>
+						<physdesc>17 folders. </physdesc>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Boys division canoe trip, </unittitle>
+						<unitdate>1937. </unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Boys Division tumbling team, </unittitle>
+						<unitdate>1944-1945. </unitdate>
+						<physdesc>2 folders. </physdesc>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Building, Central YMCA. </unittitle>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Building campaign, </unittitle>
+						<unitdate>1947. </unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Building completion campaign, </unittitle>
+						<unitdate>1952. </unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Business Men's Club, </unittitle>
+						<unitdate>1938. </unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Business Men's Club Christmas dinner. </unittitle>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Business Men's Folder, </unittitle>
+						<unitdate>1950. </unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Business Men's Professional Club. </unittitle>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Cafeteria. </unittitle>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Camera Club. </unittitle>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Capital funds program. </unittitle>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Centennial, </unittitle>
+						<unitdate>1951. </unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Centennial dinner, </unittitle>
+						<unitdate>1944. </unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Centennial meeting, </unittitle>
+						<unitdate>1956. </unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Central Branch, </unittitle>
+						<unitdate>1942, 1946-1947. </unitdate>
+						<physdesc>3 folders. </physdesc>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Church Athletic Association, </unittitle>
+						<unitdate>1946-1953. </unitdate>
+						<physdesc>4 folders. </physdesc>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Co-ed program, </unittitle>
+						<unitdate>1946-1947, 1951. </unitdate>
+						<physdesc>3 folders. </physdesc>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>CPR.</unittitle>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>129.I.3.6F</physloc>
+						<container>26</container>
+						<unittitle>Delta Club. </unittitle>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Dormitory Council, </unittitle>
+						<unitdate>1945. </unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Downtown Branch, </unittitle>
+						<unitdate>1956, 1961. </unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Downtown Committee, </unittitle>
+						<unitdate>1952. </unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Downtown remodeling, </unittitle>
+						<unitdate>1947. </unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Dry night club. </unittitle>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>DuNord. </unittitle>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>East Branch/East District, </unittitle>
+						<unitdate>undated and 1937-1963. </unitdate>
+						<physdesc>11 folders. </physdesc>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>East Side building. </unittitle>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Empo Club. </unittitle>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Fall planning conference, </unittitle>
+						<unitdate>1927, 1931-1946. </unitdate>
+						<physdesc>6 folders. </physdesc>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Fall Prom, </unittitle>
+						<unitdate>1941. </unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Family swim, </unittitle>
+						<unitdate>1937, 1946. </unitdate>
+						<physdesc>2 folders. </physdesc>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Father and Son Stag, </unittitle>
+						<unitdate>1937-1942. </unitdate>
+						<physdesc>3 folders. </physdesc>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Fire. </unittitle>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Fisherman's luncheon, </unittitle>
+						<unitdate>1939. </unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Folk dancing. </unittitle>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Foreign work, </unittitle>
+						<unitdate>1937. </unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Founder's Day/Week, </unittitle>
+						<unitdate>1935-1941. </unitdate>
+						<physdesc>6 folders. </physdesc>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Friday Nighters. </unittitle>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Future Champions of America. </unittitle>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Golden Ball basketball game, </unittitle>
+						<unitdate>1941. </unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Grade: Y. </unittitle>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Gymnastic squad. </unittitle>
+					</did>
+					<scopecontent>
+						<p>Includes tickets to First Annual Indoor Athletic Meet, 1908.</p>
+					</scopecontent>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Handball, </unittitle>
+						<unitdate>1938-1947. </unitdate>
+						<physdesc>4 folders. </physdesc>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Health Service. </unittitle>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Health Week, </unittitle>
+						<unitdate>1938-1939. </unitdate>
+						<physdesc>3 folders. </physdesc>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Hi-Hop, </unittitle>
+						<unitdate>1944-1947. </unitdate>
+						<physdesc>5 folders. </physdesc>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>High School activities, </unittitle>
+						<unitdate>1945-1965. </unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>High School dancing class, </unittitle>
+						<unitdate>1947. </unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>High School groups, </unittitle>
+						<unitdate>1946. </unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>High School gym meet, </unittitle>
+						<unitdate>1938. </unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>High School Swimming Association, </unittitle>
+						<unitdate>1937, 1939. </unitdate>
+						<physdesc>2 folders. </physdesc>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>High School YMCA Forum, </unittitle>
+						<unitdate>1945-1947. </unitdate>
+						<physdesc>3 folders. </physdesc>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>History, writing of, </unittitle>
+						<unitdate>1955. </unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Hi-Y, </unittitle>
+						<unitdate>1946-1962. </unitdate>
+						<physdesc>5 folders. </physdesc>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Hi-Y Officers Training Conference, </unittitle>
+						<unitdate>1945. </unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Hi-Y Youth and Government Program, </unittitle>
+						<unitdate>1946. </unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Hobby Club. </unittitle>
+					</did>
+					<scopecontent>
+						<p>Includes wood shop.</p>
+					</scopecontent>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Hyperion Club, </unittitle>
+						<unitdate>1935-1937. </unitdate>
+						<physdesc>2 folders. </physdesc>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>I.C.E.P., </unittitle>
+						<unitdate>1965. </unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Indian Guide Club. </unittitle>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Indian guides, </unittitle>
+						<unitdate>undated and 1941-1969. </unitdate>
+						<physdesc>3 folders. </physdesc>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Lake Placid Party, </unittitle>
+						<unitdate>1937-1938. </unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Levee Center, </unittitle>
+						<unitdate>undated and 1930s. </unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle><emph render="italic">Liberty Ho!</emph></unittitle>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Life members, </unittitle>
+						<unitdate>1954-1968. </unitdate>
+						<physdesc>8 folders. </physdesc>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Lounge, </unittitle>
+						<unitdate>1948. </unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Membership campaign, </unittitle>
+						<unitdate>1925-1961. </unitdate>
+						<physdesc>27 folders. </physdesc>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Membership round-up</unittitle>
+						<unitdate>1962, 1964-1966. </unitdate>
+						<physdesc>4 folders. </physdesc>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Membership enrollment, </unittitle>
+						<unitdate>1968. </unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Men's Division golf tournament, </unittitle>
+						<unitdate>1938. </unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Men's Division picnic, </unittitle>
+						<unitdate>1937-1938. </unitdate>
+						<physdesc>2 folders. </physdesc>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Men's Club, </unittitle>
+						<unitdate>1937, 1940. </unitdate>
+						<physdesc>2 folders. </physdesc>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Midway YMCA, </unittitle>
+						<unitdate>1939-1953, 1958, 1995. </unitdate>
+						<physdesc>5 folders. </physdesc>
+					</did>
+					<scopecontent>
+						<p>Includes brochures.</p>
+					</scopecontent>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Modernization folder, </unittitle>
+						<unitdate>1936. </unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Monroe Hi-Y Club. </unittitle>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>National Volleyball Tournament, </unittitle>
+						<unitdate>1942. </unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>New building. </unittitle>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>New Years. </unittitle>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>New Year's dance, </unittitle>
+						<unitdate>1940-1942. </unitdate>
+						<physdesc>2 folders. </physdesc>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Noon workout Christmas party, </unittitle>
+						<unitdate>1941. </unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Noon gym class, </unittitle>
+						<unitdate>1941, 1946. </unitdate>
+						<physdesc>2 folders. </physdesc>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>North Central Area Conference, </unittitle>
+						<unitdate>1937-1938. </unitdate>
+						<physdesc>3 folders. </physdesc>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Northeast Branch, </unittitle>
+						<unitdate>1967, 1970-1971. </unitdate>
+						<physdesc>3 folders. </physdesc>
+					</did>
+					<scopecontent>
+						<p>Includes brochures.</p>
+					</scopecontent>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Northwest Airlines. </unittitle>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Northwest Branch, </unittitle>
+						<unitdate>1960-1971. </unitdate>
+						<physdesc>2 folders. </physdesc>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>129.I.3.7B</physloc>
+						<container>27</container>
+						<unittitle>Old building. </unittitle>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>One hundred first anniversary. </unittitle>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>One hundred second anniversary. </unittitle>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Operation Big Wheel. </unittitle>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Palavan Club, </unittitle>
+						<unitdate>1937-1946. </unitdate>
+						<physdesc>2 folders. </physdesc>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Personality Growth Institute, </unittitle>
+						<unitdate>1938-1940. </unitdate>
+						<physdesc>5 folders. </physdesc>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Phalanx fraternity, </unittitle>
+						<unitdate>1938-1940. </unitdate>
+						<physdesc>2 folders. </physdesc>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Physical Department, </unittitle>
+						<unitdate>1901-1957. </unitdate>
+						<physdesc>8 folders. </physdesc>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>P.Q. Luncheon, </unittitle>
+						<unitdate>1942. </unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Program Committee, </unittitle>
+						<unitdate>1946. </unitdate>
+						<physdesc>2 folders. </physdesc>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Red Triangle Club, </unittitle>
+						<unitdate>1946. </unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Retired Men's Club, </unittitle>
+						<unitdate>1956. </unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Riverboat program. </unittitle>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Safety Quiz contest. </unittitle>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Sea Horse Club. </unittitle>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>S.E.R.A. classes, </unittitle>
+						<unitdate>1935. </unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Semper Fidelis Glee Club, </unittitle>
+						<unitdate>undated. </unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Service men, </unittitle>
+						<unitdate>1945-1946. </unitdate>
+						<physdesc>3 folders. </physdesc>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Shingle Creek Village. </unittitle>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>South Youth Choir. </unittitle>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>South District Branch, </unittitle>
+						<unitdate>1958-1975. </unitdate>
+						<physdesc>2 folders. </physdesc>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>South Family Branch dedication, </unittitle>
+						<unitdate>1970. </unitdate>
+						<physdesc>2 folders. </physdesc>
+					</did>
+					<scopecontent>
+						<p>Includes brochures.</p>
+					</scopecontent>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Spotlight, </unittitle>
+						<unitdate>1945. </unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Spring Frolic, </unittitle>
+						<unitdate>May 24, 1941. </unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Square Dance Group, </unittitle>
+						<unitdate>1946-1947, 1949. </unitdate>
+						<physdesc>2 folders. </physdesc>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Staff, </unittitle>
+						<unitdate>1946-1947, 1973. </unitdate>
+						<physdesc>4 folders. </physdesc>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Staff and laymen retreat, Camp St. Croix, </unittitle>
+						<unitdate>1973. </unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Student Branch, </unittitle>
+						<unitdate>1947. </unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Summer Fun Club, </unittitle>
+						<unitdate>1945-1963. </unitdate>
+						<physdesc>8 folders. </physdesc>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Swimming, </unittitle>
+						<unitdate>1931-1959. </unitdate>
+						<physdesc>13 folders. </physdesc>
+					</did>
+					<scopecontent>
+						<p>Includes Learn-to-Swim program.</p>
+					</scopecontent>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Swimming beach party, </unittitle>
+						<unitdate>1941. </unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Swing shift party, </unittitle>
+						<unitdate>1943. </unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Taffy sale. </unittitle>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Teen canteen, </unittitle>
+						<unitdate>1947. </unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Tuberculosis clinics, </unittitle>
+						<unitdate>undated. </unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Triad Club, </unittitle>
+						<physdesc>2 folders. </physdesc>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>University of Life. </unittitle>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Vavoulis (George) trip. </unittitle>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Vikings training camp visit, </unittitle>
+						<unitdate>1965. </unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Volleyball. </unittitle>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Volleyball Dutch Lunch, </unittitle>
+						<unitdate>1939. </unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Volleyball get together, </unittitle>
+						<unitdate>1935. </unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Weight lifting, </unittitle>
+						<unitdate>1945. </unitdate>
+						<physdesc>2 folders. </physdesc>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>West Publishing, </unittitle>
+						<unitdate>1946. </unitdate>
+						<physdesc>2 folders. </physdesc>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Winter Carnival, </unittitle>
+						<unitdate>1937. </unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Wood shop. </unittitle>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>World Service, </unittitle>
+						<unitdate>1947, 1966. </unitdate>
+						<physdesc>3 folders. </physdesc>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Wrestlers, boxers, karate, </unittitle>
+						<unitdate>undated and 1938-1940. </unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Y Camera Club. </unittitle>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Y.M.D. </unittitle>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Y.M.D. dances.</unittitle>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Y.M.D. golf tournament, </unittitle>
+						<unitdate>1937, 1941. </unitdate>
+						<physdesc>2 folders. </physdesc>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>YMCA building, downtown, </unittitle>
+						<unitdate>undated and 1910, 1936-1958. </unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>YMCA Church League, </unittitle>
+						<unitdate>1950. </unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>YMCA historical. </unittitle>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>YMCA pageant. </unittitle>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>YMCA players:</unittitle>
+					</did>
+					<c03>
+						<did>
+							<unittitle>Miscellaneous. </unittitle>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unittitle><emph render="italic">The great adventure</emph>, </unittitle>
+							<unitdate>1935. </unitdate>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unittitle><emph render="italic">Double door</emph>, </unittitle>
+							<unitdate>1936. </unitdate>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unittitle><emph render="italic">Barchester towers</emph>, </unittitle>
+							<unitdate>1937. </unitdate>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unittitle><emph render="italic">First lady</emph>, </unittitle>
+							<unitdate>1937. </unitdate>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unittitle><emph render="italic">Death takes a holiday</emph>, </unittitle>
+							<unitdate>1938. </unitdate>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unittitle><emph render="italic">Cinderella house</emph>, </unittitle>
+							<unitdate>1938. </unitdate>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unittitle><emph render="italic">Journey's end</emph>, </unittitle>
+							<unitdate>1938. </unitdate>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unittitle><emph render="italic">Down to victory</emph>, </unittitle>
+							<unitdate>1939. </unitdate>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unittitle><emph render="italic">Poor dear Edgar</emph>, </unittitle>
+							<unitdate>1939. </unitdate>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unittitle><emph render="italic">Laburnum Grove</emph>, </unittitle>
+							<unitdate>1940. </unitdate>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unittitle><emph render="italic">Passing third floor back</emph>, </unittitle>
+							<unitdate>1940. </unitdate>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unittitle><emph render="italic">Her husband's wife</emph>, </unittitle>
+							<unitdate>1940. </unitdate>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unittitle><emph render="italic">As the clock strikes</emph>, </unittitle>
+							<unitdate>1941. </unitdate>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unittitle><emph render="italic">Fresh fields</emph>, </unittitle>
+							<unitdate>1941. </unitdate>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unittitle><emph render="italic">Rain on the roof</emph>, </unittitle>
+							<unitdate>1941. </unitdate>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unittitle>Productions, </unittitle>
+							<unitdate>1935-1947. </unitdate>
+							<physdesc>3 folders. </physdesc>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unittitle>General, </unittitle>
+							<unitdate>1942-1947. </unitdate>
+							<physdesc>4 folders. </physdesc>
+						</did>
+					</c03>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Y's Menettes, </unittitle>
+						<unitdate>1939. </unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Y-Gang League, miscellaneous, </unittitle>
+						<unitdate>1936-1937, 1939. </unitdate>
+						<physdesc>3 folders. </physdesc>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>129.I.3.8F</physloc>
+						<container>28</container>
+						<unittitle>Y Men's Club, </unittitle>
+						<unitdate>1928-1940. </unitdate>
+						<physdesc>28 folders. </physdesc>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Young Men's Division, </unittitle>
+						<unitdate>1926-1941. </unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Youth in Government Program, </unittitle>
+						<unitdate>1946. </unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Youthmobile, </unittitle>
+						<unitdate>undated and 1971. </unitdate>
+						<physdesc>2 folders. </physdesc>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Portraits:</unittitle>
+					</did>
+					<c03>
+						<did>
+							<unittitle>Anderson, Charles, </unittitle>
+							<unitdate>1963. </unitdate>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unittitle>Anderson, John Tracy, </unittitle>
+							<unitdate>1962. </unitdate>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unittitle>Ball, Armand, </unittitle>
+							<unitdate>1962, 1967. </unitdate>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unittitle>Bechik, Anthony, </unittitle>
+							<unitdate>undated and 1952, 1969. </unitdate>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unittitle>Beckman, Fredrick W., </unittitle>
+							<unitdate>undated and 1932, 1939. </unitdate>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unittitle>Behrends, William S., </unittitle>
+							<unitdate>undated. </unitdate>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unittitle>Bertelsen, Sig A., </unittitle>
+							<unitdate>undated and 1947. </unitdate>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unittitle>Bevenius, Ingvar, </unittitle>
+							<unitdate>1963. </unitdate>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unittitle>Bigelow, Charles H. Jr., </unittitle>
+							<unitdate>circa 1944-1949. </unitdate>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unittitle>Bigelow, Frederic R., </unittitle>
+							<unitdate>undated. </unitdate>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unittitle>Bjorklund, Frederick, </unittitle>
+							<unitdate>undated. </unitdate>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unittitle>Board of Directors, </unittitle>
+							<unitdate>1937, 1958, 1969. </unitdate>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unittitle>Bremicker, Paul B., </unittitle>
+							<unitdate>circa 1944-1961. </unitdate>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unittitle>Brownlow, Kent S., </unittitle>
+							<unitdate>1963. </unitdate>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unittitle>Caldwell, G. James, </unittitle>
+							<unitdate>1949-1955. </unitdate>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unittitle>Carlson, Richard L, Jr., </unittitle>
+							<unitdate>1959. </unitdate>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unittitle>Collingham, Ernest Jr., </unittitle>
+							<unitdate>1946, 1948, circa 1969-1972. </unitdate>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unittitle>Comfort, Clifford E., </unittitle>
+							<unitdate>1952, circa 1958-1963. </unitdate>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unittitle>Dane, Royden S., </unittitle>
+							<unitdate>circa 1939. </unitdate>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unittitle>Dean, William J., </unittitle>
+							<unitdate>circa 1912-1923. </unitdate>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unittitle>Dickey, Eugene, </unittitle>
+							<unitdate>undated. </unitdate>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unittitle>Dickson, Dr. T. H., </unittitle>
+							<unitdate>circa 1934-1944. </unitdate>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unittitle>Dietrich, Richard, </unittitle>
+							<unitdate>1965. </unitdate>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unittitle>Dietz, Charlton, </unittitle>
+							<unitdate>1977. </unitdate>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unittitle>Eyinck, Henning G., </unittitle>
+							<unitdate>circa 1956. </unitdate>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unittitle>Ferrari, Helen, </unittitle>
+							<unitdate>1942. </unitdate>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unittitle>Gamble, Sidney D., </unittitle>
+							<unitdate>1970. </unitdate>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unittitle>Gardner, Truman, </unittitle>
+							<unitdate>undated. </unitdate>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unittitle>Godfrey, Otis, </unittitle>
+							<unitdate>1974. </unitdate>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unittitle>Grace, Edward, </unittitle>
+							<unitdate>circa 1898-1912. </unitdate>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unittitle>Gray, Ted, </unittitle>
+							<unitdate>undated. </unitdate>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unittitle>Hanson, Jack, </unittitle>
+							<unitdate>1955. </unitdate>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unittitle>Headley, Louis S., </unittitle>
+							<unitdate>circa 1928-1932. </unitdate>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unittitle>Hoffman, Richard, </unittitle>
+							<unitdate>1977. </unitdate>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unittitle>Holmer, O. Geoffrey, </unittitle>
+							<unitdate>1932, 1936-1937, 1947. </unitdate>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unittitle>Hunting, Earl B., </unittitle>
+							<unitdate>1933, 1938. </unitdate>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unittitle>Jenckes, </unittitle>
+							<unitdate>undated. </unitdate>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unittitle>Jentinck, Norm, </unittitle>
+							<unitdate>undated. </unitdate>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unittitle>Johnson, Paul A., </unittitle>
+							<unitdate>undated. </unitdate>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unittitle>Johnson, Judy, </unittitle>
+							<unitdate>undated. </unitdate>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unittitle>Johnson, Stuart A., </unittitle>
+							<unitdate>1977. </unitdate>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unittitle>Jordan, Parker, </unittitle>
+							<unitdate>undated. </unitdate>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unittitle>Kanne, Gerald M., </unittitle>
+							<unitdate>1976. </unitdate>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unittitle>Kirk, Everett B., </unittitle>
+							<unitdate>undated. </unitdate>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unittitle>Kochendorfer, Robert L., </unittitle>
+							<unitdate>undated. </unitdate>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unittitle>LaJoie, Larry, </unittitle>
+							<unitdate>1962. </unitdate>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unittitle>LeMaster, William L., </unittitle>
+							<unitdate>1943. </unitdate>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unittitle>Lindeke, Al Jr., </unittitle>
+							<unitdate>undated. </unitdate>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unittitle>Lorentzen, Norman, </unittitle>
+							<unitdate>1980. </unitdate>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unittitle>MacDonald, Wayne A., </unittitle>
+							<unitdate>1970. </unitdate>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unittitle>Mayo, Gail, </unittitle>
+							<unitdate>undated. </unitdate>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unittitle>McCarthy, Eugene R., </unittitle>
+							<unitdate>1970. </unitdate>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unittitle>Melander, Art, </unittitle>
+							<unitdate>1963. </unitdate>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unittitle>Miller, Ralf, </unittitle>
+							<unitdate>1956. </unitdate>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unittitle>Moren, John A., </unittitle>
+							<unitdate>1947. </unitdate>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unittitle>Morgan, Samuel, </unittitle>
+							<unitdate>undated. </unitdate>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unittitle>Mundt, Logan, </unittitle>
+							<unitdate>undated, 1938, 1946. </unitdate>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unittitle>Murray, Eugene R., </unittitle>
+							<unitdate>undated. </unitdate>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unittitle>Nelson, Emil H., </unittitle>
+							<unitdate>undated and 1939. </unitdate>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unittitle>Nelson, Norman, </unittitle>
+							<unitdate>undated and 1947, 1955. </unitdate>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unittitle>Nye, Harry, </unittitle>
+							<unitdate>undated. </unitdate>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unittitle>Oehler, Cole, </unittitle>
+							<unitdate>circa 1955-1958. </unitdate>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unittitle>Paisley, Manley, </unittitle>
+							<unitdate>undated. </unitdate>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unittitle>Paulson, Leonard, </unittitle>
+							<unitdate>circa 1927-1928. </unitdate>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unittitle>Payne, Donald M., </unittitle>
+							<unitdate>1970. </unitdate>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unittitle>Phillips, Guybert M., </unittitle>
+							<unitdate>circa 1947. </unitdate>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unittitle>Rock, Walter J., </unittitle>
+							<unitdate>undated. </unitdate>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unittitle>Scott, W. A., </unittitle>
+							<unitdate>circa 1912-1914. </unitdate>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unittitle>Shepard, Roger B. Jr., </unittitle>
+							<unitdate>circa 1963-1969. </unitdate>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unittitle>Sideen, Wesley, </unittitle>
+							<unitdate>undated. </unitdate>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unittitle>Skellet, Oliver T., </unittitle>
+							<unitdate>circa 1947. </unitdate>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unittitle>Stanelle, Robert, </unittitle>
+							<unitdate>1969. </unitdate>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unittitle>Stanton, Richard, </unittitle>
+							<unitdate>1968. </unitdate>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unittitle>Stewart, Jacob H., </unittitle>
+							<unitdate>circa 1860s. </unitdate>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unittitle>Stone, John, </unittitle>
+							<unitdate>1938, 1943. </unitdate>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unittitle>Tani, Robert, </unittitle>
+							<unitdate>1963. </unitdate>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unittitle>Thompson, J. R., </unittitle>
+							<unitdate>circa 1914-1927, 1938. </unitdate>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unittitle>Thorsell, John F., </unittitle>
+							<unitdate>undated. </unitdate>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unittitle>Traver, John L., </unittitle>
+							<unitdate>1967. </unitdate>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unittitle>Tucker, Robert H., </unittitle>
+							<unitdate>1976. </unitdate>
+						</did>
+					</c03>
+					<c03>
+						<did>
+							<unittitle>Williams, George, </unittitle>
+							<unitdate>undated. </unitdate>
+						</did>
+					</c03>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>2006 History book. </unittitle>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Distinguished leaders awards ceremony, </unittitle>
+						<unitdate>1972-1977.</unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Miscellaneous, </unittitle>
+						<physdesc>8 folders. </physdesc>
+					</did>
+				</c02>
+
+
+				<c02>
+					<did>
+						<physloc>129.G.1.1B-2</physloc>
+
+						<container>30</container>
+						<unittitle>Two oversize portraits, </unittitle>
+						<unitdate>undated. </unitdate>
+					</did>
+				</c02>
+
+				<c02>
+					<did>
+
+						<unittitle>Executive Committee and Chairmen of Six Committees of Management
+							portrait, </unittitle>
+						<unitdate>1956. </unitdate>
+					</did>
+				</c02>
+
+
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>Scrapbooks</unittitle>
+				</did>
+				<c02>
+					<did>
+						<physloc>129.H.1.2F</physloc>
+						<container>9</container>
+						<unittitle>Volume 8. Student branch, </unittitle>
+						<unitdate> undated. </unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Volume 9. Printed materials, </unittitle>
+						<unitdate> 1906-1910. </unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Volume 10. Publicity, </unittitle>
+						<unitdate>1908-191922. </unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Volume 11. Publicity, </unittitle>
+						<unitdate>1910-1912. </unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>129.I.1.10F</physloc>
+						<container>10</container>
+						<unittitle>Volume 12. Publicity, </unittitle>
+						<unitdate>1910-1915. </unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Volume 13. Publicity, </unittitle>
+						<unitdate>1922-1930. </unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Volume 14, Physical Department, </unittitle>
+						<unitdate>1929-[1930?]. </unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Volume 15. Publicity, </unittitle>
+						<unitdate> 1930-1932. </unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>129.I.2.1B</physloc>
+						<container>11</container>
+						<unittitle>Volume 16. Publicity, </unittitle>
+						<unitdate>1932-1933. </unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Volume 17. Publicity, </unittitle>
+						<unitdate>1933-1934. </unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Volume 18. Publicity, </unittitle>
+						<unitdate>1934-1935. </unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Volume 19. Publicity, </unittitle>
+						<unitdate>1935-1936. </unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Volume 20. Publicity, </unittitle>
+						<unitdate>1936. </unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>129.I.2.2F</physloc>
+						<container>12</container>
+						<unittitle>Volume 21. Publicity, </unittitle>
+						<unitdate>1936-1937. </unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Volume 22. Publicity, </unittitle>
+						<unitdate>1937-1938. </unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Volume 23. Publicity, </unittitle>
+						<unitdate>1938-1939. </unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Volume 24, Third Annual Hobby Show, </unittitle>
+						<unitdate>1939. </unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Volume 25. Publicity, </unittitle>
+						<unitdate>1939-1941. </unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>129.I.2.3B</physloc>
+						<container>13</container>
+						<unittitle>Volume 26, Fourth Annual Hobby Show, </unittitle>
+						<unitdate>1940. </unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Volume 27. Publicity, </unittitle>
+						<unitdate>1940-1942. </unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Volume 28, Physical Department, </unittitle>
+						<unitdate>1940-1942. </unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Volume 29, Fifth Annual Hobby Show, </unittitle>
+						<unitdate>1941. </unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Volume 30. Publicity, </unittitle>
+						<unitdate>1941-1942. </unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Volume 31. Publicity, </unittitle>
+						<unitdate>1942-1944. </unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Volume 32, Centennial membership campaign, </unittitle>
+						<unitdate>1944. </unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Volume 33. Publicity, </unittitle>
+						<unitdate>1944-1945. </unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>129.I.2.4F</physloc>
+						<container>14</container>
+						<unittitle>Volume 34. Publicity, </unittitle>
+						<unitdate>1945-1946. </unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Volume 35. Publicity, </unittitle>
+						<unitdate>1946-1947. </unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Volume 36, Building fund campaign, </unittitle>
+						<unitdate>1947. </unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Volume 37. Publicity, </unittitle>
+						<unitdate>1947-1948. </unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Volume 38. Publicity, </unittitle>
+						<unitdate>1949-1950. </unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>129.I.2.5B</physloc>
+						<container>15</container>
+						<unittitle>Volume 39. Publicity, </unittitle>
+						<unitdate>1950-1951. </unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Volume 40. Publicity, </unittitle>
+						<unitdate>1951-1953. </unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Volume 41. Publicity, </unittitle>
+						<unitdate>1953-1955. </unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Volume 42. Publicity, </unittitle>
+						<unitdate>1955-1957. </unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Volume 43. Publicity, </unittitle>
+						<unitdate>1957-1959. </unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>129.I.2.6F</physloc>
+						<container>16</container>
+						<unittitle>Volume 44. Publicity, </unittitle>
+						<unitdate>1959-1960. </unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Volume 45. Publicity, </unittitle>
+						<unitdate>1960-1962. </unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Volume 46. Publicity, </unittitle>
+						<unitdate> 1962-1963. </unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Volume 47. Publicity, </unittitle>
+						<unitdate>1963-1964. </unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Volume 48. Publicity, </unittitle>
+						<unitdate>1964-1965. </unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Volume 49. Publicity, </unittitle>
+						<unitdate>1965-1966. </unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>144.D.9.8F</physloc>
+						<container>5</container>
+						<unittitle>Publicity, </unittitle>
+						<unitdate> April 1966-October 1971. </unitdate>
+						<physdesc>6 volumes. </physdesc>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>144.D.10.1B</physloc>
+						<container>6</container>
+						<unittitle>Publicity, </unittitle>
+						<unitdate>December 1973-December 1974. </unitdate>
+						<physdesc>2 volumes. </physdesc>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>Central Hi-Y Club, </unittitle>
+						<unitdate> 1921-1940. </unitdate>
+						<physdesc> 1 volume.</physdesc>
+					</did>
+				</c02>
+
+
+
+
+
+				<c02>
+					<did>
+						<physloc>129.G.1.1B-1</physloc>
+						<container>29</container>
+						<unittitle>YMCA Co-ed Club, </unittitle>
+						<unitdate>1949. </unitdate>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>1969- August 1972. </unittitle>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>November 1971 - December 1972. </unittitle>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unittitle>October 1977 - June 1979. </unittitle>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<physloc>129.G.1.1B-2</physloc>
+
+						<container>30</container>
+						<unittitle>July 1979 - February 1982. </unittitle>
+					</did>
+				</c02>
+				<c02>
+					<did>
+						<unitdate>November 1982-January 1989. </unitdate>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series">
+				<did>
+					<unittitle>Other Graphic materials </unittitle>
+				</did>
+
+
+				<c02>
+					<did>
+						<physloc>129.G.1.1B-2</physloc>
+
+						<container>30</container>
+						<unittitle>Architectural drawing, 1075 Arcade Street [East YMCA], </unittitle>
+						<unitdate>undated.</unitdate>
+					</did>
+				</c02>
+
+
+
+				<c02>
+					<did>
+						<physloc>142.C.13.3</physloc>
+						<unittitle>Proposed East Side YMCA, St. Paul, William M. Ingemann and Milton
+							V. Bergstedt, architects,</unittitle>
+						<unitdate>undated.</unitdate>
+					</did>
+				</c02>
+
+			</c01>
+		</dsc>
+	</archdesc>
+</ead>

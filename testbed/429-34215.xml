@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+    <eadid countrycode="US" mainagencycode="US-UPB" publicid="-//L. Tom Perry Special Collections::19th Century Western  Mormon Manuscripts//TEXT(US::US-UPB::MSS SC 1977::Brigham Young letter)//EN" encodinganalog="identifier">UPB_MSSSC1977</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper encodinganalog="title">Register of Brigham Young letter
+                    
+                </titleproper>
+        <titleproper type="filing">Young (Brigham) letter</titleproper>
+        <author encodinganalog="creator">Finding aid prepared by Benjamin Sipes</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher encodinganalog="publisher">L. Tom Perry Special Collections</publisher>
+        <date encodinganalog="date">2010 September 16</date>
+        <address>
+          <addressline>1130 Harold B. Lee Library</addressline>
+          <addressline>Brigham Young University</addressline>
+          <addressline>Provo, Utah 84606</addressline>
+          <addressline>http://sc.lib.byu.edu/</addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2010-10-04T17:04-0600</date>
+            </creation>
+      <langusage>English</langusage>
+      <descrules>Archives, Personal Papers, and Manuscripts</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="file" type="inventory">
+    <did>
+      <unittitle encodinganalog="title">Brigham Young letter</unittitle>
+      <unitid encodinganalog="identifier">MSS SC 1977</unitid>
+      <repository>
+        <corpname encodinganalog="publisher">L. Tom Perry Special Collections</corpname>
+        <subarea encodinganalog="publisher">19th Century Western  Mormon Manuscripts</subarea>
+        <address>
+          <addressline>1130 Harold B. Lee Library</addressline>
+          <addressline>Brigham Young University</addressline>
+          <addressline>Provo, Utah 84606</addressline>
+          <addressline>http://sc.lib.byu.edu/</addressline>
+        </address>
+      </repository>
+      <langmaterial>
+        <language langcode="eng" encodinganalog="language">English</language>
+      </langmaterial>
+      <physdesc>
+        <extent encodinganalog="format">1 item</extent>
+        <extent encodinganalog="format">(1 leaf)(0.01 linear ft.)</extent>
+      </physdesc>
+      <unitdate normal="1897/1897" era="ce" calendar="gregorian" datechar="creation" encodinganalog="date">1897</unitdate>
+      <langmaterial id="ref5">Materials are in English.</langmaterial>
+      <origination>
+        <persname source="lcnaf" encodinganalog="creator" role="">Young, Brigham, 1836-1903</persname>
+      </origination>
+    </did>
+    <bioghist id="ref1" encodinganalog="description">
+      <head>Biographical Note</head>
+      <p>Utah legislator, apostle in the Mormon Church who served as president of the Quorum of Twelve Apostles, and son of the Mormon Church President, Brigham Young (1801-1877).</p>
+    </bioghist>
+    <scopecontent id="ref2" encodinganalog="description">
+      <p>Photocopy of a handwritten letter. The item was addressed to "Katie." Young talks about some property in Idaho, mentions the prospect of Katie meeting him, and complains about his health.</p>
+    </scopecontent>
+    <accessrestrict id="ref3" encodinganalog="rights">
+      <p>Open for public research.</p>
+    </accessrestrict>
+    <userestrict id="ref4" encodinganalog="rights">
+      <p>It is the responsibility of the researcher to obtain any necessary copyright clearances. Permission to publish material from Brigham Young letter must be obtained from the Supervisor of Reference Services and/or the L. Tom Perry Special Collections Board of Curators.</p>
+    </userestrict>
+    <appraisal id="ref6">
+      <p>Utah and the American West and LDS cultural, social, and religious history (19th century Western and Mormon Manuscripts collection development policy, 5.VII, 2007).</p>
+    </appraisal>
+    <prefercite id="ref7">
+      <p>Initial citation: MSS SC 1977; Brigham Young letter; 19th Century Western and Mormon Manuscripts; L. Tom Perry Special Collections, Harold B. Lee Library, Brigham Young University. Following citations: MSS SC 1977, LTPSC.</p>
+    </prefercite>
+    <controlaccess>
+      <corpname source="lcnaf" encodinganalog="subject">Church of Jesus Christ of Latter-day Saints--Apostles--Correspondence</corpname>
+      <persname source="lcnaf" encodinganalog="subject">Young, Brigham, 1836-1903</persname>
+      <subject source="cclanarrow" encodinganalog="subject">Home and Family</subject>
+      <subject source="umanarrow" encodinganalog="subject">Home and Family</subject>
+      <genreform source="lcsh" encodinganalog="type">Letters</genreform>
+      <subject source="cclabroad" encodinganalog="subject">Social Life and Customs</subject>
+      <subject source="umabroad" encodinganalog="subject">Social Life and Customs</subject>
+    </controlaccess>
+  </archdesc>
+</ead>

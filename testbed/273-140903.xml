@@ -1,0 +1,873 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.library.yale.edu/facc/schemas/ead/ead.xsd"
+     id="beinecke.zilboorgg">
+   <eadheader audience="internal" countryencoding="iso3166-1"
+              findaidstatus="edited-full-draft"
+              dateencoding="iso8601"
+              repositoryencoding="iso15511"
+              scriptencoding="iso15924"
+              langencoding="iso639-2b">
+      <eadid countrycode="US" mainagencycode="US-CtY-BR"
+             publicid="-//Yale University::Beinecke Rare Book and Manuscript Library//TEXT (US::CtY-BR::::[Gregory Zilboorg Papers])//EN"
+             url="http://hdl.handle.net/10079/fa/beinecke.zilboorgg"> beinecke.zilboorgg </eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper type="formal">Guide to the Gregory Zilboorg Papers </titleproper>
+            <titleproper type="filing" render="altrender" altrender="nodisplay" audience="internal">Zilboorg (Gregory) Papers</titleproper>
+            <author>by Lisa Conathan</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Yale University Library</publisher>
+            <publisher>Beinecke Rare Book and Manuscript Library</publisher>
+            <publisher>Yale Collection of American Literature</publisher>
+            <address>
+               <addressline>New Haven, Connecticut</addressline>
+            </address>
+            <date type="original" normal="2007">2007</date>
+            <p>
+               <extref xlink:type="simple" xlink:actuate="onRequest" xlink:show="new"
+                       xlink:href="http://hdl.handle.net/10079/9p8czk9"> Copyright © <date type="copyright" normal="2007"> 2007</date> by the Yale University
+               Library. </extref>
+            </p>
+         </publicationstmt>
+         <notestmt>
+            <note type="bpg">
+               <p>This encoded finding aid is compliant with the Yale EAD Best Practice Guidelines,
+                  Version 1.0.</p>
+            </note>
+         </notestmt>
+      </filedesc>
+      <profiledesc>
+         <creation>Finding aid encoded by Lisa Conathan, with Yale Finding Aids Creation Tool
+            (XMetaL Author Customization).</creation>
+         <langusage>Finding aid written in <language langcode="eng" scriptcode="Latn">English</language>.</langusage>
+         <descrules>Finding aid prepared according to <title render="italic" xlink:type="simple">Describing Archives: A Content Standard (DACS)</title>.</descrules>
+      </profiledesc>
+      <revisiondesc>
+         <change>
+            <date normal="2010-02-10">2010-02-10</date>
+            <item>Transformed with yale.addEadidUrl.xsl. Adds @url with handle for finding aid. Overwrites @url if already present.</item>
+         </change>
+      </revisiondesc>
+   </eadheader>
+   <archdesc type="register" level="collection" relatedencoding="MARC21">
+      <did id="did">
+         <head>Overview</head>
+         <origination label="Creator:">
+            <persname>Zilboorg, Gregory</persname>
+         </origination>
+         <unittitle label="Title:">Gregory Zilboorg Papers</unittitle>
+         <unitdate normal="1910/1960" datechar="creation" type="inclusive" label="Dates:" era="ce"
+                   calendar="gregorian"> circa 1910-1960</unitdate>
+         <unitid countrycode="US" repositorycode="US-CtY-BR" label="Call Number:">YCAL MSS 258</unitid>
+         <physdesc label="Physical Description:">
+            <extent>9 boxes (incl. 2 oversize boxes)</extent>
+         </physdesc>
+         <physdesc label="Physical Description:">
+            <extent>6.26 linear feet</extent>
+         </physdesc>
+         <langmaterial label="Language(s):">Materials in <language langcode="eng" scriptcode="Latn">English</language>, Russian and French.</langmaterial>
+         <abstract label="Summary:">Correspondence, writings and photographs that document the
+            translations, psychoanalytic practice and scholarship of Gregory Zilboorg, the
+            relationship between Gregory and Margaret Zilboorg (neé Stone), and Gregory Zilboorg's
+            photographic portraiture.</abstract>
+         <repository label="Repository:">
+            <corpname>Beinecke Rare Book and Manuscript Library</corpname>
+            <address>
+               <addressline>121 Wall St.</addressline>
+               <addressline>New Haven, CT 06520-8240</addressline>
+               <addressline altrender="email">Email: Beinecke.Library@Yale.edu</addressline>
+               <addressline altrender="phone">Phone: (203) 432-2972</addressline>
+               <addressline altrender="fax">Fax: (203) 432-4047</addressline>
+            </address>
+         </repository>
+      </did>
+      <descgrp type="admininfo" id="ai">
+         <head>Administrative Information</head>
+         <descgrp type="provenance" id="prov">
+            <head>Provenance</head>
+            <acqinfo>
+               <p>Gift of Margaret Zilboorg, 1992.</p>
+            </acqinfo>
+         </descgrp>
+         <accessrestrict id="arest">
+            <head>Information about Access</head>
+            <p>This collection is open for research.</p>
+         </accessrestrict>
+         <userestrict id="urest">
+            <head>Ownership  Copyright</head>
+            <p>The Gregory Zilboorg Papers is the physical property of the Beinecke Rare Book and
+               Manuscript Library, Yale University. Literary rights, including copyright, belong to
+               the authors or their legal heirs and assigns. For further information, consult the
+               appropriate curator. </p>
+         </userestrict>
+         <prefercite id="cite">
+            <head>Cite As</head>
+            <p>Gregory Zilboorg Papers. Yale Collection of American Literature, Beinecke Rare Book
+               and Manuscript Library.</p>
+         </prefercite>
+         <relatedmaterial id="relma">
+            <head>Associated Materials</head>
+            <p>
+               <extref xlink:type="simple" xlink:actuate="onRequest" xlink:show="new"
+                       xlink:role="text/html"
+                       xlink:href="http://hdl.handle.net/10079/fa/beinecke.zilboorgj">James and Eugenia Zilboorg Papers, YCAL MSS 259</extref>
+            </p>
+         </relatedmaterial>
+      </descgrp>
+      <bioghist id="bh1">
+         <head>Gregory Zilboorg, 1890-1959</head>
+         <p>Gregory Zilboorg was a psychoanalyst and historian of psychiatry. His many writings and
+            lectures situated psychiatry within a broad sociological and humanistic context at a
+            time when psychoanalysis was gaining importance in literary culture. </p>
+         <p>Zilboorg was born in Kiev on December 25, 1890 and studied medicine in Petrograd (St.
+            Petersburg). In 1917 he served in the Ministry of Labor for two presidents (Aleksandr
+            Kerenskii and Georgii L'vov). In 1919 he emigrated to the United States and for a time
+            translated plays from Russian to English while studying medicine at Columbia University.
+            After graduating in 1926, he worked at the Bloomingdale Hospital and eventually
+            established a psychoanalitic practice in New York City. From the 1930s onward, Zilboorg
+            produced several volumes of lasting importance on the history of psychiatry. <title xlink:type="simple" render="italic">The Medical Man and the Witch During the
+               Renaissance</title> began as the Noguchi lectures at Johns Hopkins University in
+            1935. This volume was followed by <title xlink:type="simple" render="italic">History of
+               Medical Psychology</title> in 1941 and <title xlink:type="simple" render="italic">Sigmund Freud</title> in 1951.</p>
+         <p>Zilboorg's analytic practice brought him into contact with prominent figures in New
+            York's literary and theater milieu. His patients included Marshall Field, George
+            Gershwin, Lillian Hellman, Ralph Ingersoll, Kay Swift and James Warburg. Another of his
+            patients, Moss Hart, drew on his experience in psychoanalysis when writing the musical
+               <title xlink:type="simple" render="italic">Lady in the Dark</title>.</p>
+         <p>Zilboorg was also an avid photographer. His portraits of John Farquhar Fulton and Henry
+            Sigerist were featured in obituaries published in the <title xlink:type="simple" render="italic">Journal of the History of Medicine and Allied Sciences, Inc</title>.</p>
+         <p>Zilboorg married Ray Liebow in 1919 and they had two children (Nancy and Gregory, Jr.).
+            He married Margaret Stone in 1946 and they had three children (Caroline, John and
+            Matthew).</p>
+      </bioghist>
+      <arrangement id="arr1">
+         <head>Arrangement</head>
+         <p>The collection consists of three series: Correspondence, Writings, and Photographs.</p>
+      </arrangement>
+      <scopecontent id="sc">
+         <head>Description of the Papers</head>
+         <p>The correspondence, writings and photographs in this collection document the
+            translations, psychoanalytic practice and scholarship of Gregory Zilboorg, the
+            relationship between Gregory and Margaret Zilboorg (neé Stone) and Gregory Zilboorg's
+            photographic portraiture. Most of the papers date from the 1940s and early 1950s and
+            document Zilboorg's personal life and writings (including translations and writings on
+            the history of psychiatry). The papers illustrate the work of a prominent analyst at a
+            time when psychoanalysis had a significant influence on the New York literary circle in
+            which Zilboorg worked.</p>
+         <p>Writings (Series II) consists of notes, drafts and proofs of several of Zilboorg's
+            publications. The publications include short articles and lectures, books (<title xlink:type="simple" render="italic">History of Medical Psychology</title> and <title xlink:type="simple" render="italic">Sigmund Freud</title>), translations from Russian
+            to English (including the play "He, the One Who Gets Slapped") and two original
+            playscripts.</p>
+         <p>Photographs (Series III) includes informal snapshots and studio portraits of Gregory
+            Zilboorg and several portraits of others (likely by Zilboorg). Subjects of these
+            portraits include Diego Rivera and Jean Piaget.</p>
+         <p>While the papers described here do not date from Gregory Zilboorg's early years in Kiev
+            and Petrograd (St. Petersburg), readers may consult the <extref xlink:type="simple" xlink:actuate="onRequest" xlink:show="new"
+                    xlink:role="text/html"
+                    xlink:href="http://hdl.handle.net/10079/fa/beinecke.zilboorgj">James and Eugenia Zilboorg Papers, YCAL MSS 259</extref> for his letters to his
+            brother James Zilboorg, 1915-1959.</p>
+      </scopecontent>
+      <dsc type="combined" id="dsc">
+         <head>Collection Contents</head>
+         <c01 level="series" id="c01.1">
+            <did>
+               <unitid>Series I.</unitid>
+               <unittitle>Correspondence</unittitle>
+               <unitdate>1927-1957</unitdate>
+               <physdesc>
+                  <extent>0.83 linear feet (2 boxes)</extent>
+               </physdesc>
+            </did>
+            <arrangement>
+               <p>Series I consists of two subseries: Professional and Personal. Professional
+                  correspondence is arranged alphabetically and reflects Zilboorg's organization of
+                  his files. While most correspondence is filed under the name of correspondent or
+                  patient, some filing is based on subject (for example, letters related to
+                  Zilboorg's passport are filed under "P"). Correspondence related to <title xlink:type="simple" render="italic">History of Medical Psychology</title> is
+                  filed in <ref xlink:type="simple" xlink:actuate="onRequest" xlink:show="replace"
+                       target="ID100000">Series II</ref>.</p>
+               <p>Most personal correspondence is undated and remains in the order in which it was
+                  received.</p>
+            </arrangement>
+            <scopecontent>
+               <p>Professional correspondence dates mostly from 1940 to1941 and includes incoming,
+                  outgoing and third party letters. The topics addressed include Zilboorg's
+                  professional travel, speaking engagements, publishing arrangements, financial
+                  matters and medical patients. While Zilboorg discusses patient cases in his
+                  correspondence, the papers do not include patient records or case files.</p>
+               <p>Personal correspondence consists chiefly of letters between Zilboorg and his
+                  future wife, Margaret Norton Stone. Zilboorg and Stone met in 1940 when Stone
+                  became Zilboorg's research secretary. They married in 1946. There is also one
+                  folder of general correspondence addressed to Gregory and Margaret Zilboorg. This
+                  folder includes several letters of congratulations on their marriage.</p>
+            </scopecontent>
+            <c02 id="ID100034" level="subseries">
+               <did>
+                  <unittitle>Professional</unittitle>
+               </did>
+               <c03 id="ID100044">
+                  <did>
+                     <container type="Box">1</container>
+                     <container type="Folder">1-6</container>
+                     <unittitle>"A" - "F" general</unittitle>
+                     <unitdate>1928-1959</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ID100040">
+                  <did>
+                     <container type="Box">1</container>
+                     <container type="Folder">7</container>
+                     <unittitle>Field, Marshall</unittitle>
+                     <unitdate>1933-1941</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ID100043">
+                  <did>
+                     <container type="Box">1</container>
+                     <container type="Folder">8</container>
+                     <unittitle>Freud, Anna</unittitle>
+                     <unitdate>1929 October 14</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ID100046">
+                  <did>
+                     <container type="Box">1</container>
+                     <container type="Folder">9-14</container>
+                     <unittitle>"G" - "K" general</unittitle>
+                     <unitdate>1940-1941</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ID100051">
+                  <did>
+                     <container type="Box">2</container>
+                     <container type="Folder">15-16</container>
+                     <unittitle>"P" - "R" general</unittitle>
+                     <unitdate>1940-1941</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ID100045">
+                  <did>
+                     <container type="Box">2</container>
+                     <container type="Folder">17</container>
+                     <unittitle>Rolland, Romain</unittitle>
+                     <unitdate>1920-1921</unitdate>
+                     <langmaterial>In <language langcode="fre">French</language>
+                     </langmaterial>
+                  </did>
+               </c03>
+               <c03 id="ID100053">
+                  <did>
+                     <container type="Box">2</container>
+                     <container type="Folder">18</container>
+                     <unittitle>"S" general</unittitle>
+                     <unitdate>1940-1941</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ID100042">
+                  <did>
+                     <container type="Box">2</container>
+                     <container type="Folder">19</container>
+                     <unittitle>Semelaigne, René</unittitle>
+                     <unitdate>1927-1930</unitdate>
+                     <langmaterial>In <language langcode="fre">French</language> and <language langcode="eng">English</language>
+                     </langmaterial>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="ID100035" level="subseries">
+               <did>
+                  <unittitle>Personal</unittitle>
+               </did>
+               <c03 id="ID100054">
+                  <did>
+                     <container type="Box">2</container>
+                     <container type="Folder">20-26</container>
+                     <unittitle>Zilboorg, Margaret (neé Stone)</unittitle>
+                     <unitdate>1940-1955, undated</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ID100056">
+                  <did>
+                     <container type="Box">2</container>
+                     <container type="Folder">27</container>
+                     <unittitle>General correspondence A-Z, addressed to Gregory and Margaret
+                        Zilboorg</unittitle>
+                     <unitdate>1941-1957, undated</unitdate>
+                     <physloc>Also stored in: Oversize Box 8, folder 93.</physloc>
+                  </did>
+                  <arrangement>
+                     <p>Letters signed by first name only are filed at the end of the folder</p>
+                  </arrangement>
+                  <scopecontent>
+                     <p>Includes correspondence related to an essay Margaret Stone wrote for <title xlink:type="simple" render="italic">PM</title> in 1941</p>
+                  </scopecontent>
+               </c03>
+            </c02>
+         </c01>
+         <c01 id="ID100000" level="series">
+            <did>
+               <unitid>Series II.</unitid>
+               <unittitle>Writings</unittitle>
+               <unitdate>1910s-1960</unitdate>
+               <physdesc>
+                  <extent>1.67 linear feet (4 boxes)</extent>
+               </physdesc>
+            </did>
+            <arrangement>
+               <p>Series II consists of five subseries: Background Materials, Articles and Lectures,
+                  Books, Translations, and Other Writings. Each subseries is arranged
+                  chronologically.</p>
+            </arrangement>
+            <scopecontent>
+               <p>The writings in Series II include notes, drafts and proofs for several of
+                  Zilboorg's publications and lectures. Background materials consist of notes from
+                  articles and books that Zilboorg read prior to 1925. Articles and lectures consist
+                  of typescripts, printed versions and holograph drafts of lectures and short
+                  articles. Authorship is not certain for one pseudonymous article, "A Psychiatrist
+                  Looks at Hitler." Books consist of drafts, proofs and correspondence for two of
+                  Zilboorg's major publications, <title xlink:type="simple" render="italic">History
+                     of Medical Psychology</title> and <title xlink:type="simple" render="italic">Sigmund Freud</title>. Translations consist of typescripts for three plays
+                  that Zilboorg translated from Russian to English. Other writings include
+                  typescripts of two original plays, a transcript of Isaac Ray's 1828 diary,
+                  complete bibliographies of Zilboorg's work and an obituary.</p>
+            </scopecontent>
+            <c02 id="ID100020" level="subseries">
+               <did>
+                  <unittitle>Background Materials</unittitle>
+               </did>
+               <c03 id="ID100021">
+                  <did>
+                     <container type="Box">3</container>
+                     <container type="Folder">28-31</container>
+                     <unittitle>Research notes, holograph</unittitle>
+                     <unitdate>1910s-1925</unitdate>
+                     <langmaterial>In <language langcode="eng">English</language>, <language langcode="rus">Russian</language> and <language langcode="fre">French</language>
+                     </langmaterial>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="ID100003" level="subseries">
+               <did>
+                  <unittitle>Articles and Lectures</unittitle>
+               </did>
+               <c03 id="ID100007">
+                  <did>
+                     <container type="Box">3</container>
+                     <container type="Folder">32</container>
+                     <unittitle>"Most Common Mechanisms met with in Psychopathology," corrected
+                        typescript</unittitle>
+                     <unitdate>1928 January</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ID100019">
+                  <did>
+                     <container type="Box">3</container>
+                     <container type="Folder">33</container>
+                     <unittitle>"The Medical Man and the Witch During the Renaissance," abstract,
+                        printed version</unittitle>
+                     <unitdate>1935</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ID100006">
+                  <did>
+                     <container type="Box">3</container>
+                     <container type="Folder">34</container>
+                     <unittitle>"A Psychiatrist Looks at Hitler"</unittitle>
+                     <unitdate>1939 April 26</unitdate>
+                  </did>
+                  <scopecontent>
+                     <p>Written under the pseudonym Medicus</p>
+                  </scopecontent>
+               </c03>
+               <c03 id="ID100005">
+                  <did>
+                     <container type="Box">3</container>
+                     <container type="Folder">35</container>
+                     <unittitle>"Legal Aspects of Psychiatry," printed version</unittitle>
+                     <unitdate>1944</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ID100028">
+                  <did>
+                     <container type="Box">3</container>
+                     <container type="Folder">36</container>
+                     <unittitle>"The Ever-unfinished Chain of Learning," holograph and program</unittitle>
+                     <unitdate>1958 October 5</unitdate>
+                  </did>
+               </c03>
+               <c03 id="ID100033">
+                  <did>
+                     <container type="Box">3</container>
+                     <container type="Folder">37</container>
+                     <unittitle>"Psychology of the Criminal act," broadside for a lecture at Boston
+                        University</unittitle>
+                     <unitdate>1959 Feb 26</unitdate>
+                  </did>
+               </c03>
+            </c02>
+            <c02 id="ID100002" level="subseries">
+               <did>
+                  <unittitle>Books</unittitle>
+               </did>
+               <c03 id="ID100015">
+                  <did>
+                     <unittitle>
+                        <title xlink:type="simple" render="italic">History of Medical
+                        Psychology</title>
+                     </unittitle>
+                  </did>
+                  <c04 id="ID100016">
+                     <did>
+                        <container type="Box">3</container>
+                        <container type="Folder">38-41</container>
+                        <unittitle>Research notes</unittitle>
+                        <unitdate>undated</unitdate>
+                     </did>
+                  </c04>
+                  <c04 id="ID100017">
+                     <did>
+                        <container type="Box">4</container>
+                        <container type="Folder">42-50</container>
+                        <unittitle>Holograph draft, corrected</unittitle>
+                        <unitdate>1940-1941</unitdate>
+                     </did>
+                  </c04>
+                  <c04 id="ID100018">
+                     <did>
+                        <container type="Box">4</container>
+                        <container type="Folder">51-53</container>
+                        <unittitle>Correspondence</unittitle>
+                        <unitdate>1931-1940</unitdate>
+                     </did>
+                  </c04>
+               </c03>
+               <c03 id="ID100004">
+                  <did>
+                     <unittitle>
+                        <title xlink:type="simple" render="italic">Sigmund Freud</title>
+                     </unittitle>
+                  </did>
+                  <c04 id="ID100014">
+                     <did>
+                        <container type="Box">5</container>
+                        <container type="Folder">54-55</container>
+                        <unittitle>Research notes</unittitle>
+                        <unitdate>undated</unitdate>
+                     </did>
+                  </c04>
+                  <c04 id="ID100008">
+                     <did>
+                        <container type="Box">5</container>
+                        <container type="Folder">56-66</container>
+                        <unittitle>Drafts</unittitle>
+                        <unitdate>1951</unitdate>
+                     </did>
+                  </c04>
+                  <c04 id="ID100011">
+                     <did>
+                        <container type="Box">6</container>
+                        <container type="Folder">67-68</container>
+                        <unittitle>Proofs</unittitle>
+                        <unitdate>[1951]</unitdate>
+                     </did>
+                  </c04>
+               </c03>
+               <c03 id="ID100022" level="subseries">
+                  <did>
+                     <unittitle>Translations</unittitle>
+                  </did>
+                  <c04 id="ID100025">
+                     <did>
+                        <container type="Box">6</container>
+                        <container type="Folder">69</container>
+                        <unittitle>"He, The One Who Gets Slapped," by Leonid Andreyev, printed
+                           version</unittitle>
+                        <unitdate>1921</unitdate>
+                     </did>
+                  </c04>
+                  <c04 id="ID100030">
+                     <did>
+                        <container type="Box">6</container>
+                        <container type="Folder">70</container>
+                        <unittitle>"The Violins of Autumn," by I. Sourgoucheff, typescript</unittitle>
+                        <unitdate>1922</unitdate>
+                     </did>
+                  </c04>
+                  <c04 id="ID100029">
+                     <did>
+                        <container type="Box">6</container>
+                        <container type="Folder">71</container>
+                        <unittitle>"The Main Thing," by N. N. Yevreynov, typescript</unittitle>
+                        <unitdate>1923</unitdate>
+                     </did>
+                  </c04>
+               </c03>
+               <c03 id="ID100023" level="subseries">
+                  <did>
+                     <unittitle>Other Writings</unittitle>
+                  </did>
+                  <c04 id="ID100024">
+                     <did>
+                        <container type="Box">6</container>
+                        <container type="Folder">72</container>
+                        <unittitle>Untitled play, typescript</unittitle>
+                        <unitdate>1944</unitdate>
+                     </did>
+                  </c04>
+                  <c04 id="ID100027">
+                     <did>
+                        <container type="Box">6</container>
+                        <container type="Folder">73</container>
+                        <unittitle>"They Know Not," play, typescript</unittitle>
+                        <unitdate>undated</unitdate>
+                     </did>
+                  </c04>
+                  <c04 id="ID100026">
+                     <did>
+                        <container type="Box">6</container>
+                        <container type="Folder">74</container>
+                        <unittitle>Transcript of the diary of Isaac Ray from 1828, typescript</unittitle>
+                        <unitdate>undated</unitdate>
+                     </did>
+                  </c04>
+                  <c04 id="ID100031">
+                     <did>
+                        <container type="Box">6</container>
+                        <container type="Folder">75-84</container>
+                        <unittitle>Bibliographies of Gregory Zilboorg's work, 1920-1958</unittitle>
+                        <unitdate>undated</unitdate>
+                     </did>
+                  </c04>
+                  <c04 id="ID100032">
+                     <did>
+                        <container type="Box">6</container>
+                        <container type="Folder">85</container>
+                        <unittitle>"Gregory Zilboorg -- A Memorial, 1891-1959," reprints from the
+                           American Journal of Psychiatry</unittitle>
+                        <unitdate>1960 January</unitdate>
+                     </did>
+                  </c04>
+               </c03>
+            </c02>
+         </c01>
+         <c01 id="ID100001" level="series">
+            <did>
+               <unitid>Series III.</unitid>
+               <unittitle>Photographs</unittitle>
+               <unitdate>1920s-1950s</unitdate>
+               <physdesc>
+                  <extent>0.21 linear feet (1 box)</extent>
+               </physdesc>
+            </did>
+            <arrangement>
+               <p>Series III is arranged alphabetically by subject.</p>
+            </arrangement>
+            <scopecontent>
+               <p>The series contains snapshots and portraits of Gregory Zilboorg, Margaret Zilboorg
+                  and others. Gregory Zilboorg counted photography among his interests and it is
+                  likely that he took many of the photographic portraits in this series. He is,
+                  however, definitively identified as the photographer for only three of them.</p>
+            </scopecontent>
+            <c02 id="ID100070">
+               <did>
+                  <unittitle>Barrett, Bill</unittitle>
+                  <unitdate>1940s or 1950s</unitdate>
+                  <physloc>Stored in: Oversize Box 8, folder 94</physloc>
+               </did>
+            </c02>
+            <c02 id="ID100069">
+               <did>
+                  <unittitle>Castiglioni, Arturo, two portraits by Gregory Zilboorg</unittitle>
+                  <unitdate>1942, 1950</unitdate>
+                  <physloc>Stored in: Oversize Box 8, folder 95</physloc>
+               </did>
+            </c02>
+            <c02 id="ID100068">
+               <did>
+                  <unittitle>Covarrubias, Señora, portrait by Gregory Zilboorg</unittitle>
+                  <unitdate>1930s</unitdate>
+                  <physloc>Stored in: Oversize Box 8, folder 96</physloc>
+               </did>
+            </c02>
+            <c02 id="ID100071">
+               <did>
+                  <unittitle>Field, Ruth</unittitle>
+                  <unitdate>1939</unitdate>
+                  <physloc>Stored in: Oversize Box 8, folder 97</physloc>
+               </did>
+            </c02>
+            <c02 id="ID100075">
+               <did>
+                  <unittitle>Hartmann, Heinz, Anna Freud, Ernest Jones and others</unittitle>
+                  <unitdate>1950s</unitdate>
+                  <physloc>Stored in: Oversize Box 8, folder 98</physloc>
+               </did>
+            </c02>
+            <c02 id="ID100072">
+               <did>
+                  <unittitle>Holmes, Jesse (professor of Philosophy at Swarthmore)</unittitle>
+                  <unitdate>circa 1938</unitdate>
+                  <physloc>Stored in: Oversize Box 8, folder 99</physloc>
+               </did>
+            </c02>
+            <c02 id="ID100073">
+               <did>
+                  <unittitle>Ingersoll, Ralph</unittitle>
+                  <unitdate>1940</unitdate>
+                  <physloc>Stored in: Oversize Box 8, folder 100</physloc>
+               </did>
+            </c02>
+            <c02 id="ID100074">
+               <did>
+                  <unittitle>Jones, Ernest</unittitle>
+                  <unitdate>1950s</unitdate>
+                  <physloc>Stored in: Oversize Box 8, folder 101</physloc>
+               </did>
+            </c02>
+            <c02 id="ID100076">
+               <did>
+                  <unittitle>Koussevitsky, Serge</unittitle>
+                  <unitdate>1940s</unitdate>
+                  <physloc>Stored in: Oversize Box 8, folder 102</physloc>
+               </did>
+            </c02>
+            <c02 id="ID100079">
+               <did>
+                  <container type="Box">7</container>
+                  <container type="Folder">86</container>
+                  <unittitle>Piaget, Jean</unittitle>
+                  <unitdate>1950s</unitdate>
+               </did>
+            </c02>
+            <c02 id="ID100059">
+               <did>
+                  <container type="Box">7</container>
+                  <container type="Folder">87</container>
+                  <unittitle>Pichel, Irving, portrait by an unknown photographer (not Zilboorg)</unittitle>
+                  <unitdate>undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ID100077">
+               <did>
+                  <unittitle>Rivera, Diego</unittitle>
+                  <unitdate>1930s</unitdate>
+                  <physloc>Stored in: Oversize Box 9, folder 103</physloc>
+               </did>
+            </c02>
+            <c02 id="ID100060">
+               <did>
+                  <unittitle>de Saussure, Raymond</unittitle>
+                  <unitdate>1953</unitdate>
+                  <physloc>Stored in: Oversize Box 9, folder 104</physloc>
+               </did>
+            </c02>
+            <c02 id="ID100062">
+               <did>
+                  <container type="Box">7</container>
+                  <container type="Folder">88</container>
+                  <unittitle>Sigerist, Henry</unittitle>
+                  <unitdate>1945, circa 1949</unitdate>
+                  <physloc>Also stored in: Oversize Box 9, folder 105</physloc>
+               </did>
+            </c02>
+            <c02 id="ID100061">
+               <did>
+                  <unittitle>Tannenbaum, Frank (professor of History at New York University)</unittitle>
+                  <unitdate>undated</unitdate>
+                  <physloc>Stored in: Oversize Box 9, folder 106</physloc>
+               </did>
+            </c02>
+            <c02 id="ID100063">
+               <did>
+                  <unittitle>Warburg, Felix</unittitle>
+                  <unitdate>1930s</unitdate>
+                  <physloc>Stored in: Oversize Box 9, folder 107</physloc>
+               </did>
+            </c02>
+            <c02 id="ID100055">
+               <did>
+                  <unittitle>Zilboorg, Gregory</unittitle>
+               </did>
+               <c03 id="ID100064">
+                  <did>
+                     <container type="Box">7</container>
+                     <container type="Folder">89</container>
+                     <unittitle>Portraits by Berenice Abbott and others</unittitle>
+                     <unitdate>1920s-1950s</unitdate>
+                     <physloc>Also stored in: Oversize, Box 9, folder 108</physloc>
+                  </did>
+               </c03>
+               <c03 id="ID100065">
+                  <did>
+                     <container type="Box">7</container>
+                     <container type="Folder">90</container>
+                     <unittitle>Snapshots</unittitle>
+                     <unitdate>undated</unitdate>
+                  </did>
+                  <scopecontent>
+                     <p>Includes: one photograph with Franz Alexander</p>
+                  </scopecontent>
+               </c03>
+               <c03 id="ID100066">
+                  <did>
+                     <container type="Box">7</container>
+                     <container type="Folder">91</container>
+                     <unittitle>With Columbia University class</unittitle>
+                     <unitdate>1926</unitdate>
+                  </did>
+                  <scopecontent>
+                     <p>Includes: one photograph by Eve Arnold</p>
+                  </scopecontent>
+               </c03>
+            </c02>
+            <c02 id="ID100057">
+               <did>
+                  <container type="Box">7</container>
+                  <container type="Folder">92</container>
+                  <unittitle>Zilboorg, Margaret and Gregory Jr.</unittitle>
+                  <unitdate>1944 or 1945</unitdate>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="ID100058" level="series">
+            <did>
+               <unittitle>Oversize</unittitle>
+               <physdesc>
+                  <extent>3.34 linear feet (2 boxes)</extent>
+               </physdesc>
+            </did>
+            <c02 id="ID100078">
+               <did>
+                  <container type="Box">8</container>
+                  <container type="Folder">93</container>
+                  <unittitle>General correspondence A-Z (Series I)</unittitle>
+                  <unitdate>1941 May 11</unitdate>
+               </did>
+            </c02>
+            <c02 id="ID100081">
+               <did>
+                  <container type="Box">8</container>
+                  <container type="Folder">94</container>
+                  <unittitle>Barrett, Bill (Series III)</unittitle>
+                  <unitdate>1940s or 1950s</unitdate>
+               </did>
+            </c02>
+            <c02 id="ID100082">
+               <did>
+                  <container type="Box">8</container>
+                  <container type="Folder">95</container>
+                  <unittitle>Castiglioni, Arturo, two portraits by Gregory Zilboorg (Series III)</unittitle>
+                  <unitdate>1942, 1950</unitdate>
+               </did>
+            </c02>
+            <c02 id="ID100083">
+               <did>
+                  <container type="Box">8</container>
+                  <container type="Folder">96</container>
+                  <unittitle>Covarrubias, Señora, portrait by Gregory Zilboorg (Series III)</unittitle>
+                  <unitdate>1930s</unitdate>
+               </did>
+            </c02>
+            <c02 id="ID100084">
+               <did>
+                  <container type="Box">8</container>
+                  <container type="Folder">97</container>
+                  <unittitle>Field, Ruth (Series III)</unittitle>
+                  <unitdate>1939</unitdate>
+               </did>
+            </c02>
+            <c02 id="ID100067">
+               <did>
+                  <container type="Box">8</container>
+                  <container type="Folder">98</container>
+                  <unittitle>Hartmann, Heinz, Anna Freud, Ernest Jones and others (Series III)</unittitle>
+                  <unitdate>1950s</unitdate>
+               </did>
+            </c02>
+            <c02 id="ID100085">
+               <did>
+                  <container type="Box">8</container>
+                  <container type="Folder">99</container>
+                  <unittitle>Holmes, Jesse (Series III)</unittitle>
+                  <unitdate>circa 1938</unitdate>
+               </did>
+            </c02>
+            <c02 id="ID100086">
+               <did>
+                  <container type="Box">8</container>
+                  <container type="Folder">100</container>
+                  <unittitle>Ingersoll, Ralph (Series III)</unittitle>
+                  <unitdate>1940</unitdate>
+               </did>
+            </c02>
+            <c02 id="ID100087">
+               <did>
+                  <container type="Box">8</container>
+                  <container type="Folder">101</container>
+                  <unittitle>Jones, Ernest (Series III)</unittitle>
+                  <unitdate>1950s</unitdate>
+               </did>
+            </c02>
+            <c02 id="ID100088">
+               <did>
+                  <container type="Box">8</container>
+                  <container type="Folder">102</container>
+                  <unittitle>Koussevitsky, Serge (Series III)</unittitle>
+                  <unitdate>1940s</unitdate>
+               </did>
+            </c02>
+            <c02 id="ID100090">
+               <did>
+                  <container type="Box">9</container>
+                  <container type="Folder">103</container>
+                  <unittitle>Rivera, Diego (Series III)</unittitle>
+                  <unitdate>1930s</unitdate>
+               </did>
+            </c02>
+            <c02 id="ID100091">
+               <did>
+                  <container type="Box">9</container>
+                  <container type="Folder">104</container>
+                  <unittitle>Saussure, Raymond de (Series III)</unittitle>
+                  <unitdate>1953</unitdate>
+               </did>
+            </c02>
+            <c02 id="ID100095">
+               <did>
+                  <container type="Box">9</container>
+                  <container type="Folder">105</container>
+                  <unittitle>Sigerist, Henry</unittitle>
+                  <unitdate>circa 1949</unitdate>
+               </did>
+            </c02>
+            <c02 id="ID100092">
+               <did>
+                  <container type="Box">9</container>
+                  <container type="Folder">106</container>
+                  <unittitle>Tannenbaum, Frank (Series III)</unittitle>
+                  <unitdate>undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ID100093">
+               <did>
+                  <container type="Box">9</container>
+                  <container type="Folder">107</container>
+                  <unittitle>Warburg, Felix (Series III)</unittitle>
+                  <unitdate>1930s</unitdate>
+               </did>
+            </c02>
+            <c02 id="ID100094">
+               <did>
+                  <container type="Box">9</container>
+                  <container type="Folder">108</container>
+                  <unittitle>Zilboorg, Gregory, Portraits by Berenice Abbott and others (Series III)</unittitle>
+                  <unitdate>1920s-1950s</unitdate>
+               </did>
+            </c02>
+         </c01>
+      </dsc>
+   </archdesc>
+</ead>

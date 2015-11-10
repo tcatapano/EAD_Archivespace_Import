@@ -1,0 +1,478 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+    <eadheader findaidstatus="Completed" repositoryencoding="iso15511"
+              countryencoding="iso3166-1"
+              dateencoding="iso8601"
+              langencoding="iso639-2b"
+              id="a0"
+              relatedencoding="dc"
+              scriptencoding="iso15924">
+        <eadid countrycode="US" mainagencycode="OrPHS" url="http://nwda.orbiscascade.org/ark:/80444/xv26974"
+             encodinganalog="identifier"
+             identifier="80444/xv26974">80444/xv26974</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper encodinganalog="title">Guide to the Oregon State Tuberculosis Hospital Collection
+                    
+                <date encodinganalog="date" normal="1920/1973" type="inclusive">1920-1973</date>
+            </titleproper>
+                <titleproper type="filing" altrender="nodisplay">Oregon State Tuberculosis Hospital Collection</titleproper>
+                <author encodinganalog="creator">Finding aid prepared by Karen Peterson</author>
+                <sponsor>Oregon Health  Science University</sponsor>
+            </titlestmt>
+            <publicationstmt>
+                <publisher encodinganalog="publisher">Oregon Health  Science University Historical Collections  Archives</publisher>
+                <address>
+                    <addressline>3181 SW Sam Jackson Park Road</addressline>
+                    <addressline>Portland, Oregon, LIB</addressline>
+                    <addressline>503-494-3239</addressline>
+                    <addressline>peterska@ohsu.edu</addressline>
+                </address>
+                <date encodinganalog="date" calendar="gregorian" era="ce">2012-11-13</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date calendar="gregorian" era="ce" normal="20121113">2012-11-13</date>
+            </creation>
+            <langusage>
+            <language langcode="eng" encodinganalog="language" scriptcode="latn">English</language>
+         </langusage>
+            <descrules>Finding aid based on DACS (<title render="italic">Describing Archives: A Content Standard</title>).</descrules>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection" relatedencoding="marc21" type="inventory">
+        <did id="a1">
+            <unittitle encodinganalog="245$a">Oregon State Tuberculosis Hospital Collection</unittitle>
+            <unitid encodinganalog="099" countrycode="US" repositorycode="OrPHS">2000-001</unitid>
+            <repository>
+                <corpname encodinganalog="852$a">Oregon Health  Science University Historical Collections  Archives</corpname>
+            <address>
+                    <addressline>3181 SW Sam Jackson Park Road</addressline>
+                    <addressline>Portland, Oregon, LIB</addressline>
+                    <addressline>503-494-3239</addressline>
+                    <addressline>peterska@ohsu.edu</addressline>
+                </address>
+         </repository>
+            <langmaterial>Collection materials are in <language langcode="eng" encodinganalog="546">English</language>.</langmaterial>
+            <physdesc>
+                <extent encodinganalog="300$a">2.0 linear feet</extent>
+                <extent encodinganalog="300$a">2 boxes</extent>
+            </physdesc>
+            <unitdate normal="1920/1960" type="bulk" encodinganalog="245$g">1920-1960</unitdate>
+            <unitdate normal="1920/1973" type="inclusive" encodinganalog="245$f">1920-1973</unitdate>
+            <physloc id="ref3">Archives, 440, Old Library</physloc>
+            <physdesc id="ref7">Materials are in good condition.</physdesc>
+            <abstract id="ref9" encodinganalog="5203_">The Oregon State Tuberculosis Hospital was housed in the buildings of the former Oregon Mute School in Salem, OR. The Hospital began admitting patients in 1910. In 1963 due to increase of patients and the combination of the Hospital in Salem with the University of Oregon Medical School State Tuberculosis Hospital. As a result patients on the Portland campus were transferred to the Salem Hospital. The collection contains reports, Birth Certificate Books, Admissions and Discharges, Scrapbooks, Photographs and Correspondence.</abstract>
+            <origination label="creator">
+                <corpname rules="dacs" source="Library_of_Congress_Name_Authority_File"
+                      encodinganalog="110">Oregon State. Tuberculosis Hospital.</corpname>
+            </origination>
+        </did>
+        <userestrict id="a15" encodinganalog="540">
+            
+            <p>The OHSU Historical Collections  Archives is the owner of the materials and makes available reproductions for research, publication, and other uses. Written permission must be obtained from the OHSU HCA before any reproduction use. The OHSU HCA does not necessarily hold copyright to all of the materials in the collections. In some cases, permission for use may require seeking additional authorization from the copyright owners.</p>
+        </userestrict>
+        <accessrestrict id="a14" encodinganalog="506">
+            
+            <p>No restrictions on access.</p>
+        </accessrestrict>
+        <prefercite id="a18" encodinganalog="524">
+            
+            <p>Oregon State Tuberculosis Hospital Collection, Accession Number 2000-001, Oregon Health  Science University, Historical Collections  Archives</p>
+        </prefercite>
+        <scopecontent id="a3" encodinganalog="5202_">
+            
+            <p>The Tuberculosis Hospital collection consists of photographs and scrapbooks, hospital record books and correspondence pertaining to the operation, staffing and publicity of the Oregon State Tuberculosis Hospital, and its assimilation into the University of Oregon Medical School. The majority of the materials are dated between the early 1920’s and mid 1960’s. Photographs were either loose-leaf, or were taken from one of three scrapbooks detailing the history of the hospital. Record books are dated from 1939 to 1973. See inventory for more details.</p>
+        </scopecontent>
+        <acqinfo id="a19" encodinganalog="541">
+            
+            <p>The Tuberculosis Hospital Collection was found in a storage closet on the Oregon Health  Science University campus. The records were given to Christine Slusarenko, Director of Health Information Services, who transferred them to the OHSU Archives on March 3, 2000. The collection was processed by the OHSU Special Collections staff August 2001.</p>
+        </acqinfo>
+        <bioghist id="a2" encodinganalog="545">
+            <head>Biography - Historical Note</head>
+            <p>In 1894, construction was started in Salem on a building designated to be the Oregon Mute School. The school was abandoned only a short time later because of a lack of adequate roads to its relatively secluded location. Its empty buildings were used to house the newly commissioned Oregon State Tuberculosis Hospital, which began admitting patients in November of 1910.</p>
+            <p>Doctor H.J. Clement, M.D., was superintendent in 1910 and 1911, and administered the medical program and business. Several new buildings were completed during this period. Later, in 1913 Dr. G.C. Bellinger, M.D., became superintendent. He would remain superintendent until his retirement in 1954.</p>
+            <p>During the first few years, patients came very slowly, as the idea of a tuberculosis sanatorium was new to the public. Soon, however, the hospital was forced to form a waiting list, and the demand for treatment exceeded the supply of beds. Starting from only fifty beds in 1910, Oregon State Tuberculosis Hospital expanded to 120 beds in 1920, many of which were in open-air pavilions. For the next few decades, the hospital continued to have a significant waiting list, and so kept expanding with new pavilions.</p>
+            <p>In 1963, the State Legislature combined the Oregon State Tuberculosis Hospital in Salem with the University of Oregon Medical School State Tuberculosis Hospital, which was opened in 1939 on the University’s Portland campus. As a result, patients located in the University State Tuberculosis Hospital on the Portland campus were transferred to the State Hospital in Salem.</p>
+        </bioghist>
+        <controlaccess id="a12">
+         <controlaccess>
+            <persname rules="dacs" source="local" encodinganalog="600">Bellinger, Grover C., M.D., Dr.</persname>
+            <persname rules="dacs" source="local" encodinganalog="600">Clements, Harvey J., M.D.</persname>
+         </controlaccess>
+         <controlaccess>
+            <geogname source="lcsh" encodinganalog="651">Oregon</geogname>
+         </controlaccess>
+         <controlaccess>
+            <subject source="mesh" encodinganalog="650">Hospitals, Chronic Disease</subject>
+            <subject source="mesh" encodinganalog="650">Hospitals, Special</subject>
+            <subject source="local" encodinganalog="650">Medicine and Health</subject>
+            <subject source="mesh" encodinganalog="650">Tuberculosis</subject>
+         </controlaccess>
+      </controlaccess>
+        <dsc id="a23">
+            <c01 level="series">
+                <did>
+                    <unittitle encodinganalog="245$a">Box 1</unittitle>
+                </did>
+                <c02 level="item">
+                    <did>
+                        <unittitle encodinganalog="245$a">Birth Certificate Book – September 1950-September 1952</unittitle>
+                    </did>
+                </c02>
+                <c02 level="item">
+                    <did>
+                        <unittitle encodinganalog="245$a">Birth Certificate Book – October 1952-June 1955</unittitle>
+                    </did>
+                </c02>
+                <c02 level="item">
+                    <did>
+                        <unittitle encodinganalog="245$a">Admissions and discharges – November 1955-December 1961</unittitle>
+                    </did>
+                </c02>
+                <c02 level="item">
+                    <did>
+                        <unittitle encodinganalog="245$a">Admissions and discharges – January 1962-June 1963</unittitle>
+                    </did>
+                </c02>
+                <c02 level="item">
+                    <did>
+                        <unittitle encodinganalog="245$a">Admissions and discharges – January 1963-July 1963</unittitle>
+                    </did>
+                </c02>
+                <c02 level="item">
+                    <did>
+                        <unittitle encodinganalog="245$a">Admissions and discharges – November 1963-June 1967</unittitle>
+                    </did>
+                </c02>
+                <c02 level="item">
+                    <did>
+                        <unittitle encodinganalog="245$a">Admissions and discharges – July 1967-December 1973</unittitle>
+                    </did>
+                </c02>
+                <c02 level="item">
+                    <did>
+                        <unittitle encodinganalog="245$a">Outpatient records - 1957-1961</unittitle>
+                    </did>
+                </c02>
+            </c01>
+            <c01 level="series">
+                <did>
+                    <unittitle encodinganalog="245$a">Box 2</unittitle>
+                </did>
+                <c02 level="item">
+                    <did>
+                        <unittitle encodinganalog="245$a">Color Slides – ND</unittitle>
+                    </did>
+                </c02>
+                <c02 level="item">
+                    <did>
+                        <unittitle encodinganalog="245$a">Surgery Logbook – November 1939-August 1943</unittitle>
+                    </did>
+                </c02>
+                <c02 level="item">
+                    <did>
+                        <unittitle encodinganalog="245$a">Surgery Logbook – August 1943-September 1947</unittitle>
+                    </did>
+                </c02>
+                <c02 level="item">
+                    <did>
+                        <unittitle encodinganalog="245$a">Surgery Logbook – February 1957-March 1961</unittitle>
+                    </did>
+                </c02>
+                <c02 level="item">
+                    <did>
+                        <unittitle encodinganalog="245$a">Surgery Logbook – March 1961-June 1963</unittitle>
+                    </did>
+                </c02>
+            </c01>
+            <c01 level="series">
+                <did>
+                    <unittitle encodinganalog="245$a">Box 3</unittitle>
+                </did>
+                <c02 level="item">
+                    <did>
+                        <unittitle encodinganalog="245$a">F1 – Scrapbook 1 Photographs – Early to mid 1930’s</unittitle>
+                    </did>
+                </c02>
+                <c02 level="item">
+                    <did>
+                        <unittitle encodinganalog="245$a">F2 – Scrapbook 1 Photographs – Mid to late 1930’s</unittitle>
+                    </did>
+                </c02>
+                <c02 level="item">
+                    <did>
+                        <unittitle encodinganalog="245$a">F3 – Scrapbook 2 Photographs – 1910 to early 1920’s</unittitle>
+                    </did>
+                </c02>
+                <c02 level="item">
+                    <did>
+                        <unittitle encodinganalog="245$a">F4 – Scrapbook 3 Photographs – Miscellaneous Subfolder containing loose photographs taken from folder within scrapbook 3</unittitle>
+                    </did>
+                </c02>
+                <c02 level="item">
+                    <did>
+                        <unittitle encodinganalog="245$a">F5 – Miscellaneous Photographs</unittitle>
+                    </did>
+                </c02>
+                <c02 level="item">
+                    <did>
+                        <unittitle encodinganalog="245$a">F6 – Miscellaneous Photographs</unittitle>
+                    </did>
+                </c02>
+                <c02 level="item">
+                    <did>
+                        <unittitle encodinganalog="245$a">F7 – Miscellaneous Photographs</unittitle>
+                    </did>
+                </c02>
+            </c01>
+            <c01 level="series">
+                <did>
+                    <unittitle encodinganalog="245$a">Box 4</unittitle>
+                </did>
+                <c02 level="subseries">
+                    <did>
+                        <unittitle encodinganalog="245$a">F8</unittitle>
+                    </did>
+                    <c03 level="item">
+                        <did>
+                            <unittitle encodinganalog="245$a">Newspaper Clipping Photocopies – 1956-1966</unittitle>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 level="subseries">
+                    <did>
+                        <unittitle encodinganalog="245$a">F9</unittitle>
+                    </did>
+                    <c03 level="item">
+                        <did>
+                            <unittitle encodinganalog="245$a">“Campus Gram” – Christmas 1966 (x2), February 1967 (x2)</unittitle>
+                        </did>
+                    </c03>
+                    <c03 level="item">
+                        <did>
+                            <unittitle encodinganalog="245$a">Service Awards – 1964, 1965 (2), 1966, 1967 (2 copies)</unittitle>
+                        </did>
+                    </c03>
+                    <c03 level="item">
+                        <did>
+                            <unittitle encodinganalog="245$a">“Oregon Pulse” – 1960, 1963</unittitle>
+                        </did>
+                    </c03>
+                    <c03 level="item">
+                        <did>
+                            <unittitle encodinganalog="245$a">“What’s Going On?” – April 1962, November 1963, October 1964 (2)</unittitle>
+                        </did>
+                    </c03>
+                    <c03 level="item">
+                        <did>
+                            <unittitle encodinganalog="245$a">Annual Report: “The First Half Century” – 1964-65</unittitle>
+                        </did>
+                    </c03>
+                    <c03 level="item">
+                        <did>
+                            <unittitle encodinganalog="245$a">Oregon State Board for Examination and Registration of Graduate Nurses correspondence – 1940-1945</unittitle>
+                        </did>
+                    </c03>
+                    <c03 level="item">
+                        <did>
+                            <unittitle encodinganalog="245$a">Oregon State Medical Society correspondence – May 1932</unittitle>
+                        </did>
+                    </c03>
+                    <c03 level="item">
+                        <did>
+                            <unittitle encodinganalog="245$a">Department of State Correspondence – 1922</unittitle>
+                        </did>
+                    </c03>
+                    <c03 level="item">
+                        <did>
+                            <unittitle encodinganalog="245$a">Utah Tuberculosis Association correspondence – 1934</unittitle>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 level="subseries">
+                    <did>
+                        <unittitle encodinganalog="245$a">F10</unittitle>
+                    </did>
+                    <c03 level="item">
+                        <did>
+                            <unittitle encodinganalog="245$a">50 Year History – 1961</unittitle>
+                        </did>
+                    </c03>
+                    <c03 level="item">
+                        <did>
+                            <unittitle encodinganalog="245$a">Hospital Standardization Department Survey – 1936</unittitle>
+                        </did>
+                    </c03>
+                    <c03 level="item">
+                        <did>
+                            <unittitle encodinganalog="245$a">Medical Staff of Tuberculosis Hospital 1946-1955</unittitle>
+                        </did>
+                    </c03>
+                    <c03 level="item">
+                        <did>
+                            <unittitle encodinganalog="245$a">Oregon State Tuberculosis Sanatorium by Dr. Bellinger – 1938</unittitle>
+                        </did>
+                    </c03>
+                    <c03 level="item">
+                        <did>
+                            <unittitle encodinganalog="245$a">Correspondence – the Statesman Publishing Co. and Dr. Bellinger – 1927</unittitle>
+                        </did>
+                    </c03>
+                    <c03 level="item">
+                        <did>
+                            <unittitle encodinganalog="245$a">Visiting Tuberculosis Sanatoria of the U.S. B. H. J. Clements – 1910</unittitle>
+                        </did>
+                    </c03>
+                    <c03 level="item">
+                        <did>
+                            <unittitle encodinganalog="245$a">Tuberculosis Commission in session December 29, 1910</unittitle>
+                        </did>
+                    </c03>
+                    <c03 level="item">
+                        <did>
+                            <unittitle encodinganalog="245$a">Traveling Expenses 1915-1916</unittitle>
+                        </did>
+                    </c03>
+                    <c03 level="item">
+                        <did>
+                            <unittitle encodinganalog="245$a">Correspondence to Hon. Board of Control – 1914</unittitle>
+                        </did>
+                    </c03>
+                    <c03 level="item">
+                        <did>
+                            <unittitle encodinganalog="245$a">Annual Report to Hon. Board of Commissioners – Jan 1912</unittitle>
+                        </did>
+                    </c03>
+                    <c03 level="item">
+                        <did>
+                            <unittitle encodinganalog="245$a">Tuberculosis Sanatorium – history and description – March 1913</unittitle>
+                        </did>
+                    </c03>
+                    <c03 level="item">
+                        <did>
+                            <unittitle encodinganalog="245$a">“The Health Pilot” – May 1942</unittitle>
+                        </did>
+                    </c03>
+                    <c03 level="item">
+                        <did>
+                            <unittitle encodinganalog="245$a">Smears and Cultures order slips – 1940-1941</unittitle>
+                        </did>
+                    </c03>
+                    <c03 level="item">
+                        <did>
+                            <unittitle encodinganalog="245$a">Correspondence – Dr. Bellinger with Sadie Drr-Dunbar – January 1925</unittitle>
+                        </did>
+                    </c03>
+                    <c03 level="item">
+                        <did>
+                            <unittitle encodinganalog="245$a">Letter to Dr. Bellinger with aerial photo – June 1933</unittitle>
+                        </did>
+                    </c03>
+                    <c03 level="item">
+                        <did>
+                            <unittitle encodinganalog="245$a">Clipping from Eugene Register Guard on the Hospital with related correspondence – October 1951</unittitle>
+                        </did>
+                    </c03>
+                    <c03 level="item">
+                        <did>
+                            <unittitle encodinganalog="245$a">Dr. Bellinger to A L. Lindbeck regarding publicity items – November 1934</unittitle>
+                        </did>
+                    </c03>
+                    <c03 level="item">
+                        <did>
+                            <unittitle encodinganalog="245$a">Letter to Julia A. O’Brien regarding publicity statement</unittitle>
+                        </did>
+                    </c03>
+                    <c03 level="item">
+                        <did>
+                            <unittitle encodinganalog="245$a">50th Anniversary Invitations (2 copies) and Memo</unittitle>
+                        </did>
+                    </c03>
+                    <c03 level="item">
+                        <did>
+                            <unittitle encodinganalog="245$a">Leslie Broadcaster, December 1956 (4 copies)</unittitle>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 level="subseries">
+                    <did>
+                        <unittitle encodinganalog="245$a">F11 - Scrapbook Items/non-photographic materials</unittitle>
+                    </did>
+                    <c03 level="item">
+                        <did>
+                            <unittitle encodinganalog="245$a">Rehabilitation Program – May 1947 [scrapbook 1]</unittitle>
+                        </did>
+                    </c03>
+                    <c03 level="item">
+                        <did>
+                            <unittitle encodinganalog="245$a">Letter from H.J. Clements informing of hospital’s opening – September 15, 1910 [scrapbook 2]</unittitle>
+                        </did>
+                    </c03>
+                    <c03 level="item">
+                        <did>
+                            <unittitle encodinganalog="245$a">Oregon State Archives Record of Search – March 1960 [scrapbook 2]</unittitle>
+                        </did>
+                    </c03>
+                    <c03 level="item">
+                        <did>
+                            <unittitle encodinganalog="245$a">Letter to J. G. Lamont re: Children’s Pavilion from Dr. Bellinger – February 1928 [scrapbook 2]</unittitle>
+                        </did>
+                    </c03>
+                    <c03 level="item">
+                        <did>
+                            <unittitle encodinganalog="245$a">Letter to Kenneth C. Ross from R. E. Joseph re: occupational therapy equipment with attached photo [scrapbook 3]</unittitle>
+                        </did>
+                    </c03>
+                    <c03 level="item">
+                        <did>
+                            <unittitle encodinganalog="245$a">Service Award certificates (x3) – 1964, 1965, 1966</unittitle>
+                        </did>
+                    </c03>
+                    <c03 level="item">
+                        <did>
+                            <unittitle encodinganalog="245$a">“Campus Gram” – June 4, 1963, September 20, 1965 [scrapbook 3]</unittitle>
+                        </did>
+                    </c03>
+                    <c03 level="item">
+                        <did>
+                            <unittitle encodinganalog="245$a">Note taken from 1955 [scrapbook 3]</unittitle>
+                        </did>
+                    </c03>
+                    <c03 level="item">
+                        <did>
+                            <unittitle encodinganalog="245$a">50th Anniversary Invitations 9x2) [scrapbook 3]</unittitle>
+                        </did>
+                    </c03>
+                    <c03 level="item">
+                        <did>
+                            <unittitle encodinganalog="245$a">“Golden” 50th Anniversary program [scrapbook 3]</unittitle>
+                        </did>
+                    </c03>
+                    <c03 level="item">
+                        <did>
+                            <unittitle encodinganalog="245$a">Newspaper articles – 1931-1939, 1952-1967</unittitle>
+                        </did>
+                    </c03>
+                    <c03 level="item">
+                        <did>
+                            <unittitle encodinganalog="245$a">Operative Records – March 3, 1937-May 12, 1963</unittitle>
+                        </did>
+                    </c03>
+                    <c03 level="item">
+                        <did>
+                            <unittitle encodinganalog="245$a">Register of Operations – January 1, 1958-August 20, 1965</unittitle>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 level="item">
+                    <did>
+                        <unittitle encodinganalog="245$a">F12 - Oversized Photographs</unittitle>
+                    </did>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

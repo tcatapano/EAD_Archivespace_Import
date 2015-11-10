@@ -1,0 +1,3965 @@
+<?xml version="1.0"?>
+
+<!DOCTYPE ead
+  PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd"
+
+>
+<ead>
+   <eadheader audience="internal" langencoding="iso639-2b" findaidstatus="unverified-partial-draft" repositoryencoding="iso15511" scriptencoding="iso15924" dateencoding="iso8601" countryencoding="iso3166-1">
+      <eadid publicid="PUBLIC -//National Library of Medicine::History of Medicine Division//TEXT(US::DNLM::MS C 225::Jacob M. Ulmer Papers Relating to the promotion and funding of research to prevent blindness)//EN ulmer" countrycode="us" mainagencycode="DNLM">ulmer</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>Finding Aid to the Jacob M. Ulmer Papers , <date era="ce" calendar="gregorian">1949-1969</date>
+            </titleproper>
+            <subtitle>Relating to the promotion and funding of research to prevent blindness</subtitle>
+            <author>Archives and Modern Manuscripts Program, History of Medicine Division </author>
+         </titlestmt>
+         <editionstmt>
+            <edition>Version 1.0 </edition>
+         </editionstmt>
+         <publicationstmt>
+            <publisher>History of Medicine Division, National Library of Medicine.</publisher>
+            <address>
+               <addressline>8600 Rockville Pike</addressline>
+               <addressline>Bethesda, Maryland, 20894</addressline>
+               <addressline>USA</addressline>
+               <addressline>Phone: (301) 402-8878 (Reference Desk)</addressline>
+               <addressline>Fax: (301) 402-0872</addressline>
+               <addressline>Email: hmdref@nlm.nih.gov</addressline>
+            </address>
+         </publicationstmt>
+      </filedesc>
+      <profiledesc>
+         <creation>Machine-readable finding aid encoded by Dan Jenkins</creation>
+         <langusage>Finding aid is written in <language>English.</language>
+         </langusage>
+      </profiledesc>
+      <revisiondesc>
+         <change>
+            <date normal="200407">July 2004</date>
+            <item>PUBLIC "-//National Library of Medicine::History of Medicine Division//TEXT
+(US::DNLM::MS C 225::Jacob M. Ulmer Papers Relating to the promotion and funding of research to prevent blindness)//EN" "ulmer" converted from EAD 1.0 to 2002 by v1to02.xsl (sy2003-10-15).</item>
+         </change>
+      </revisiondesc>
+   </eadheader>
+   <frontmatter>
+      <titlepage>
+
+         <titleproper>Finding Aid to the Jacob M. Ulmer Papers Relating to the promotion and funding of research to prevent blindness, <date era="ce" calendar="gregorian">1949-1969</date>
+         </titleproper>
+         <num>MS C 225</num>
+         <author>Archives and Modern Manuscripts Program, History of Medicine Division</author>
+         <publisher>National Library of Medicine<lb/>
+         </publisher>
+         <date type="publication" era="ce" calendar="gregorian">2000</date>
+         <edition>Version 1.0 </edition>
+         <list type="simple">
+            <head>Contact Information</head>
+            <item>History of Medicine Division</item>
+            <item>National Library of Medicine</item>
+            <item>8600 Rockville Pike</item>
+            <item>Bethesda, Maryland</item>
+            <item>USA</item>
+            <item>Phone: (301) 402-8878 (Reference Desk)</item>
+            <item>Fax: (301) 402-0872</item>
+            <item>Email: hmdref@nlm.nih.gov</item>
+         </list>
+         <list type="deflist">
+            <defitem>
+               <label>Processed by </label>
+               <item>HMD Staff</item>
+            </defitem>
+            <defitem>
+               <label>Date completed: </label>
+               <item/>
+            </defitem>
+            <defitem>
+               <label>Encoded by </label>
+               <item>Dan Jenkins</item>
+            </defitem>
+         </list>
+      </titlepage>
+
+   </frontmatter>
+   <archdesc level="collection" relatedencoding="marc">
+      <did>
+         <head>Descriptive Summary</head>
+         <origination label="Creator:">
+            <persname encodinganalog="100">Ulmer, Jacob M. 1886-1972</persname>
+         </origination>
+         <unittitle label="Title:" encodinganalog="245">Jacob M. Ulmer Papers Relating to the promotion and funding of research to prevent blindness 
+		<unitdate type="inclusive" era="ce" calendar="gregorian">1949-1969</unitdate>
+         </unittitle>
+         <physdesc label="Extent:" encodinganalog="300">34 MS boxes and 62 v.</physdesc>
+         <unitid label="Collection number:" encodinganalog="060">MS C 225</unitid>
+         <repository label="Repository:" encodinganalog="852">
+            <corpname>History of Medicine Division. National Library of Medicine</corpname>
+         </repository>
+         <abstract label="Abstract:">Jacob Ulmer was secretary of the National Foundation for Eye Research and served on the National Advisory Neurological Diseases and Blindness Council. Contains correspondence, memoranda, clippings, and printed material on ophthalmology, medical research, rehabilitation of the blind, and persons and organizations active in those fields in the United States and abroad.</abstract>
+         <langmaterial label="Language:">Collection materials primarily in 
+            <language langcode="eng">English.</language>
+         </langmaterial>
+      </did>
+      <descgrp type="admininfo">
+                <acqinfo encodinganalog="541">
+            <head>Provenance</head>
+            <p>Gift of J. M. Ulmer, 1969.</p>
+         </acqinfo>
+         <accessrestrict encodinganalog="506">
+            <head>Restrictions</head>
+            <p>Collection is not restricted. Contact the Reference Staff for information regarding access.</p>
+         </accessrestrict>
+         <userestrict encodinganalog="540">
+            <head>Copyright</head>
+            <p>NLM possesses copyright to the collection. Contact the Reference Staff for details regarding rights.</p>
+         </userestrict>
+         <prefercite encodinganalog="524">
+            <head>Prefered Citation</head>
+            <p>[Call Number, Collection Name, Series Number], Modern Manuscripts Collection, History of Medicine Division, National Library of Medicine, USA.</p>
+         </prefercite>
+      </descgrp>
+      <bioghist encodinganalog="545">
+         <head>Biographical Note</head>
+         <p>
+Jacob M. Ulmer was born in Shreve, OH, 19 November 1886 and died in 1972. He received his LLB from Western Reserve University's Franklin Thomas Backus School of Law in 1908. A lawyer by training and profession, cataracts developed in Ulmer's eyes and he began to go blind in 1946. After several operations to remove the cataracts, Ulmer began investigating the state of eye disease research and discovered that over 75% of all the blinding diseases were unknown to science. He decided that something had to be done about the state of opthomological research and since then devoted the rest of his life to the field.
+</p>
+         <p>In 1949, Ulmer, along with Al Hirshberg (another layman) and Dr. V. Everett Kinsey (Howe Laboratory of Opthamology, Harvard Medical School) joined forces and created the National Foundation for Eye Research in Washington, D.C. The group immediately began looking for the finances to support their eye research proposals. Several groups came to their aid, most notably the Lasker Foundation. With the personal support of Albert and Mary Lasker and the Lasker Foundation, Ulmer lobbied Congress to create an institute on blindness. In 1950 Public Law 692 was passed, establishing the National Institute for Neurological Diseases and Blindness under the Public Health Service. In 1968, the National Eye Institute became a separate institute.</p>
+         <p>Ulmer also had a profound affect on the operational structure of NIH itself. After establishing NINDB, Ulmer proposed a revolutionary method of financing medical research. His idea was for NINDB to distribute grant money directly to individual medical schools and research institutes to foster eye research projects. Medical schools were at first sceptical, fearing NIH was trying to take control their activities after making them dependent on the grant money. After much negotiating between the schools and and extensive study performed by NIH's Inter-Council Committee on Institutional Grants, the idea of "block grants" was instituted, whereby grants applicants spelled out who was receiving the funds, who the researchers were, scope of the project, etc., so that when the grant was made the researchers were free of any interference by NIH. This method of encouraging research via institutional grants changed forever how NIH operated and helped foster its own prominence in the scientific world.</p>
+         <p>Ulmer spent the remainder of his life devoted to educating himself and the world about the treatment of blindness and eye disease. It was mainly through his efforts that physicians changed their focus from simply rehabilitating the blind to seeking out the causes of blindness and developing treatments and cures.</p>
+      </bioghist>
+      <scopecontent encodinganalog="520">
+         <head>Collection Summary</head>
+         <p>Papers are arranged into 7 series: I. General, II. Correspondence and papers, III. Miscellaneous papers, IV. Clippings and miscellaneous data, V. International papers and correspondence, VI. Congressional papers, VII. Bound volumes.</p>
+         <p>Papers contain correspondence, memoranda, clippings, and printed material on ophthalmology, medical research, rehabilitation of the blind, and persons and organizations active in those fields in the United States and abroad.</p>
+         <p>Correspondents include Silas Adelsheim, Pearce Bailey, Harold T. Clark, Charles Austin Doan, Stewart Duke-Elder, Edwin B. Dunphy, Novice G. Fawcett, Jonas S. Friedenwald, William Henry Havener, Lister Hill, Victor Everett Kinsey, Richard L. Masland, Leonard A. Scheele, Frederick Logan Stone, Derrick Vail, and C. J. Van Slyke. Organizations represented are the American Foundation for the Blind, the Howe Laboratory of Ophthalmology, the National Committee for Research in Neurological Disorders, the National Institute of Neurological Diseases and Blindness, the Ohio State University Institute for Research in Vision, and the Retina Foundation.</p>
+      </scopecontent>
+      <controlaccess>
+         <head>Index Terms</head>
+         <p>These terms are indexed in the National Library of Medicine's online catalog LocatorPlus. Researchers wishing to find related materials should search the catalog using these terms.</p>
+         <controlaccess>
+            <head>MeSH Subjects</head>
+            <subject source="mesh" encodinganalog="650">Diseases / Eye</subject>
+            <subject source="mesh" encodinganalog="650">Ophthalmology</subject>
+         </controlaccess>
+         <controlaccess>
+            <head>Personal Names</head>
+            <persname encodinganalog="600">Havener, William H. (William Henry), 1924-</persname>
+            <persname encodinganalog="600">Kinsey, Victor Everett, 1909-</persname>
+            <persname encodinganalog="600">Stone, Frederick Logan, 1915-</persname>
+         </controlaccess>
+         <controlaccess>
+            <head>Corporate Names</head>
+            <corpname encodinganalog="610">Lasker Foundation</corpname>
+            <corpname encodinganalog="610">National Foundation for Eye Research</corpname>
+            <corpname encodinganalog="610">National Institute of Neurological Diseases and Blindness (U.S.)</corpname>
+            <corpname encodinganalog="610">Ohio. State University. Columbus. Institute for Research in Vision</corpname>
+         </controlaccess>
+      </controlaccess>
+      <dsc type="combined">
+         <head>Series Descriptions</head>
+         <c01 level="series">
+            <did>
+               <unittitle>General, <unitdate era="ce" calendar="gregorian">1949-1969</unitdate>
+               </unittitle>
+            </did>
+            
+            <thead valign="bottom">
+               <row>
+                  <entry morerows="0">Box</entry>
+                  <entry morerows="0">Folder</entry>
+                  <entry morerows="0">Contents</entry>
+               </row>
+            </thead>
+            <c02>
+               <did>
+                  <container type="box">01</container>
+                  <container type="folder"/>
+                  <unittitle>Biographical Data</unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">01</container>
+                  <container type="folder"/>
+                  <unittitle>"other people's opinions"</unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">01</container>
+                  <container type="folder"/>
+                  <unittitle>Interview with Wyndham D. Miles,  <unitdate era="ce" calendar="gregorian">April 1969</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">01</container>
+                  <container type="folder"/>
+                  <unittitle>Volume of general data relating to collection</unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">01</container>
+                  <container type="folder"/>
+                  <unittitle>Volumes 1-3, newspaper clippings and data related to eye research</unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">1</container>
+                  <container type="folder"/>
+                  <unittitle>Report-Inter-Council Committee of Institutional Grants,  <unitdate era="ce" calendar="gregorian">1952</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">1</container>
+                  <container type="folder"/>
+                  <unittitle>Study and report, retrolental fibroplasia.  "America's first national program in eye research",  <unitdate era="ce" calendar="gregorian"/>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">1</container>
+                  <container type="folder"/>
+                  <unittitle>Volume: Miscellaneous data on prevention of blindness thru research, with index</unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">1</container>
+                  <container type="folder"/>
+                  <unittitle>Notes, drafts, memoranda</unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">1</container>
+                  <container type="folder"/>
+                  <unittitle>Reports, speeches, and papers</unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">1</container>
+                  <container type="folder"/>
+                  <unittitle>Clippings</unittitle>
+               </did>
+            </c02>
+         </c01>
+         <c01 level="series">
+            <did>
+               <unittitle>Correspondence and Papers, <unitdate era="ce" calendar="gregorian">1949-1969</unitdate>
+               </unittitle>
+            </did>
+            
+            <thead valign="bottom">
+               <row>
+                  <entry morerows="0">Box</entry>
+                  <entry morerows="0">Folder</entry>
+                  <entry morerows="0">Contents</entry>
+               </row>
+            </thead>
+            <c02>
+               <did>
+                  <container type="box">1</container>
+                  <container type="folder"/>
+                  <unittitle>Adelsheim, S.,  <unitdate era="ce" calendar="gregorian">1949-1958</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">2</container>
+                  <container type="folder"/>
+                  <unittitle>Adelsheim, S.,  <unitdate era="ce" calendar="gregorian">1959-1967</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">2</container>
+                  <container type="folder"/>
+                  <unittitle>Adler, A.</unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">2</container>
+                  <container type="folder"/>
+                  <unittitle>Adler, F.H.</unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">2</container>
+                  <container type="folder"/>
+                  <unittitle>Alexander, E.B., Optometric Extension Program</unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">2</container>
+                  <container type="folder"/>
+                  <unittitle>Allen, E.M.</unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">2</container>
+                  <container type="folder"/>
+                  <unittitle>Allen, J.H.</unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">2</container>
+                  <container type="folder"/>
+                  <unittitle>American Association of Ophthalmology</unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">2</container>
+                  <container type="folder"/>
+                  <unittitle>American Contract Bridge League,  <unitdate era="ce" calendar="gregorian">1952-1954</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02 level="subseries">
+               <did>
+                  <unittitle>American Association for the Blind, <unitdate era="ce" calendar="gregorian">1949-1969</unitdate>
+                  </unittitle>
+               </did>
+               
+               <thead valign="bottom">
+                  <row>
+                     <entry morerows="0">Box</entry>
+                     <entry morerows="0">Folder</entry>
+                     <entry morerows="0">Contents</entry>
+                  </row>
+               </thead>
+               <c03 level="subseries">
+                  <did>
+                     <unittitle>Correspondence<unitdate era="ce" calendar="gregorian"/>
+                     </unittitle>
+                  </did>
+                  
+                  <thead valign="bottom">
+                     <row>
+                        <entry morerows="0">Box</entry>
+                        <entry morerows="0">Folder</entry>
+                        <entry morerows="0">Contents</entry>
+                     </row>
+                  </thead>
+                  <c04>
+                     <did>
+                        <container type="box">2</container>
+                        <container type="folder"/>
+                        <unittitle>General, A - Z<unitdate era="ce" calendar="gregorian"/>
+                        </unittitle>
+                     </did>
+                  </c04>
+                  <c04>
+                     <did>
+                        <container type="box">2</container>
+                        <container type="folder"/>
+                        <unittitle>Barnett, M.R., <unitdate era="ce" calendar="gregorian">1949-1958</unitdate>
+                        </unittitle>
+                     </did>
+                  </c04>
+                  <c04>
+                     <did>
+                        <container type="box">2</container>
+                        <container type="folder"/>
+                        <unittitle>Irwin, R.B.<unitdate era="ce" calendar="gregorian"/>
+                        </unittitle>
+                     </did>
+                  </c04>
+                  <c04>
+                     <did>
+                        <container type="box">2</container>
+                        <container type="folder"/>
+                        <unittitle>Walker, H.C.<unitdate era="ce" calendar="gregorian"/>
+                        </unittitle>
+                     </did>
+                  </c04>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="box">2-3</container>
+                     <container type="folder"/>
+                     <unittitle>Publications</unittitle>
+                  </did>
+               </c03>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">3</container>
+                  <container type="folder"/>
+                  <unittitle>American Foundation for the Overseas Blind</unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">3</container>
+                  <container type="folder"/>
+                  <unittitle>American Foundation Studies</unittitle>
+               </did>
+               <c03 level="item">
+                  <did>
+                     <unittitle>-- <title linktype="simple">Medical Research: A Mid-Century Survey</title> - Reviews<unitdate era="ce" calendar="gregorian"/>
+                     </unittitle>
+                  </did>
+               </c03>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">3</container>
+                  <container type="folder"/>
+                  <unittitle>American Foundations Information Service</unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">3</container>
+                  <container type="folder"/>
+                  <unittitle>American Foundations News,  <unitdate era="ce" calendar="gregorian">1959-1960</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">3</container>
+                  <container type="folder"/>
+                  <unittitle>American Medical Association</unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">3</container>
+                  <container type="folder"/>
+                  <unittitle>Animal Experimentation - Reprints and miscellaneous data</unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">3</container>
+                  <container type="folder"/>
+                  <unittitle>Arthritis and Rheumatism Foundation</unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">3</container>
+                  <container type="folder"/>
+                  <unittitle>Association of American Medical Colleges</unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">3</container>
+                  <container type="folder"/>
+                  <unittitle>Bailey, P.,  <unitdate era="ce" calendar="gregorian">1951-1960</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">4</container>
+                  <container type="folder"/>
+                  <unittitle>Bayne-Jones, S.</unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">4</container>
+                  <container type="folder"/>
+                  <unittitle>Burney, L.E.</unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">4</container>
+                  <container type="folder"/>
+                  <unittitle>Carroll, T.J. - "Cerebral Death; Theological Considerations"</unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">4</container>
+                  <container type="folder"/>
+                  <unittitle>Clark, H.T. and clippings,  <unitdate era="ce" calendar="gregorian">1948-1960</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">4</container>
+                  <container type="folder"/>
+                  <unittitle>Cleveland Mental Health Association</unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">4</container>
+                  <container type="folder"/>
+                  <unittitle>Cleveland Metropolitan General Hospital</unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">4</container>
+                  <container type="folder"/>
+                  <unittitle>Cleveland Mount Sinai Hospital</unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">4</container>
+                  <container type="folder"/>
+                  <unittitle>Cleveland Plain Dealer</unittitle>
+               </did>
+            </c02>
+            <c02 level="subseries">
+               <did>
+                  <unittitle>Cleveland Press<unitdate era="ce" calendar="gregorian"/>
+                  </unittitle>
+               </did>
+               
+               <thead valign="bottom">
+                  <row>
+                     <entry morerows="0">Box</entry>
+                     <entry morerows="0">Folder</entry>
+                     <entry morerows="0">Contents</entry>
+                  </row>
+               </thead>
+               <c03>
+                  <did>
+                     <container type="box">4</container>
+                     <container type="folder"/>
+                     <unittitle>General</unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="box">4</container>
+                     <container type="folder"/>
+                     <unittitle>Seltzer, L.B.</unittitle>
+                  </did>
+               </c03>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">4</container>
+                  <container type="folder"/>
+                  <unittitle>Cleveland Society for the Blind</unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">4</container>
+                  <container type="folder"/>
+                  <unittitle>Cogan, D.g.,  <unitdate era="ce" calendar="gregorian">1951-1970</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">4</container>
+                  <container type="folder"/>
+                  <unittitle>Commonwealth Fund</unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">4</container>
+                  <container type="folder"/>
+                  <unittitle>Cummings, M.M.</unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">4</container>
+                  <container type="folder"/>
+                  <unittitle>Deignan, S.L.,  <unitdate era="ce" calendar="gregorian">1949-1959</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02 level="subseries">
+               <did>
+                  <unittitle>Department of Health, Education and Welfare, <unitdate era="ce" calendar="gregorian">1956-1969, n.d.</unitdate>
+                  </unittitle>
+               </did>
+               
+               <thead valign="bottom">
+                  <row>
+                     <entry morerows="0">Box</entry>
+                     <entry morerows="0">Folder</entry>
+                     <entry morerows="0">Contents</entry>
+                  </row>
+               </thead>
+               <c03>
+                  <did>
+                     <container type="box">5</container>
+                     <container type="folder"/>
+                     <unittitle>Annual Report,  <unitdate era="ce" calendar="gregorian">1956</unitdate>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="box">5</container>
+                     <container type="folder"/>
+                     <unittitle>Children's Bureau</unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="box">5</container>
+                     <container type="folder"/>
+                     <unittitle>Medical Research Activities</unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="box">5</container>
+                     <container type="folder"/>
+                     <unittitle>Office of Education Publications</unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="box">5</container>
+                     <container type="folder"/>
+                     <unittitle>Report, Resources for medical research</unittitle>
+                  </did>
+               </c03>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">5</container>
+                  <container type="folder"/>
+                  <unittitle>Dow Corning Center for Aid to Medical Research,  <unitdate era="ce" calendar="gregorian">1959-1969</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">5</container>
+                  <container type="folder"/>
+                  <unittitle>Duke-Elder, S.,  <unitdate era="ce" calendar="gregorian">1949-1967</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">5</container>
+                  <container type="folder"/>
+                  <unittitle>Dunphy, E.B.,  <unitdate era="ce" calendar="gregorian">1950-1968</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02 level="subseries">
+               <did>
+                  <unittitle>Excerpta Medica, <unitdate era="ce" calendar="gregorian">1952-1956</unitdate>
+                  </unittitle>
+               </did>
+               
+               <thead valign="bottom">
+                  <row>
+                     <entry morerows="0">Box</entry>
+                     <entry morerows="0">Folder</entry>
+                     <entry morerows="0">Contents</entry>
+                  </row>
+               </thead>
+               <c03>
+                  <did>
+                     <container type="box">5</container>
+                     <container type="folder"/>
+                     <unittitle>Correspondence,  <unitdate era="ce" calendar="gregorian">1952-1956</unitdate>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="box">5</container>
+                     <container type="folder"/>
+                     <unittitle>Miscellaneous printed material</unittitle>
+                  </did>
+               </c03>
+            </c02>
+            <c02 level="subseries">
+               <did>
+                  <unittitle>Eye Bank for Sight Restoration, Inc<unitdate era="ce" calendar="gregorian"/>
+                  </unittitle>
+               </did>
+               
+               <thead valign="bottom">
+                  <row>
+                     <entry morerows="0">Box</entry>
+                     <entry morerows="0">Folder</entry>
+                     <entry morerows="0">Contents</entry>
+                  </row>
+               </thead>
+               <c03>
+                  <did>
+                     <container type="box">5</container>
+                     <container type="folder"/>
+                     <unittitle>Correspondence,  <unitdate era="ce" calendar="gregorian">1952-1960</unitdate>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="box">5</container>
+                     <container type="folder"/>
+                     <unittitle>Manual</unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="box">6</container>
+                     <container type="folder"/>
+                     <unittitle>Miscellaneous printed material</unittitle>
+                  </did>
+               </c03>
+            </c02>
+            <c02 level="subseries">
+               <did>
+                  <unittitle>Eye Banks<unitdate era="ce" calendar="gregorian"/>
+                  </unittitle>
+               </did>
+               
+               <thead valign="bottom">
+                  <row>
+                     <entry morerows="0">Box</entry>
+                     <entry morerows="0">Folder</entry>
+                     <entry morerows="0">Contents</entry>
+                  </row>
+               </thead>
+               <c03>
+                  <did>
+                     <container type="box">6</container>
+                     <container type="folder"/>
+                     <unittitle>Correspondence, A - W,  <unitdate era="ce" calendar="gregorian"/>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="box">6</container>
+                     <container type="folder"/>
+                     <unittitle>Fact Sheets</unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="box">6</container>
+                     <container type="folder"/>
+                     <unittitle>Miscellaneous printed material</unittitle>
+                  </did>
+               </c03>
+            </c02>
+            <c02 level="subseries">
+               <did>
+                  <unittitle>Eye Banks - Rochester, <unitdate era="ce" calendar="gregorian"/>
+                  </unittitle>
+               </did>
+               
+               <thead valign="bottom">
+                  <row>
+                     <entry morerows="0">Box</entry>
+                     <entry morerows="0">Folder</entry>
+                     <entry morerows="0">Contents</entry>
+                  </row>
+               </thead>
+               <c03>
+                  <did>
+                     <container type="box">6</container>
+                     <container type="folder"/>
+                     <unittitle>Correspondence,  <unitdate era="ce" calendar="gregorian">1952-1959</unitdate>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="box">6</container>
+                     <container type="folder"/>
+                     <unittitle>Publications</unittitle>
+                  </did>
+               </c03>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box"/>
+                  <container type="folder"/>
+                  <unittitle>Federal Register.  New Drug Regulations,  <unitdate era="ce" calendar="gregorian">1963</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">6</container>
+                  <container type="folder"/>
+                  <unittitle>Federal Register.  Reprints re: Food and Drug Administration and drug abuse,  <unitdate era="ce" calendar="gregorian">1963-1968</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">7</container>
+                  <container type="folder"/>
+                  <unittitle>Federal Register.  Reprints re: Food and Drug Administration and drug abuse,  <unitdate era="ce" calendar="gregorian">1969</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">7</container>
+                  <container type="folder"/>
+                  <unittitle>Federal Security Agency</unittitle>
+               </did>
+               <c03 level="item">
+                  <did>
+                     <unittitle>-- Office of Vocational Rehabilitation and Social Security Administration - Publications<unitdate era="ce" calendar="gregorian"/>
+                     </unittitle>
+                  </did>
+               </c03>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">7</container>
+                  <container type="folder"/>
+                  <unittitle>Felix, R.H.,  <unitdate era="ce" calendar="gregorian">1951-1964</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">7</container>
+                  <container type="folder"/>
+                  <unittitle>Flemming, A.S.</unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">7</container>
+                  <container type="folder"/>
+                  <unittitle>Food and Drug Administration.  Proceedings of Conference on 1965 Drug Abuse Control Amendments,  <unitdate era="ce" calendar="gregorian">1965</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">7</container>
+                  <container type="folder"/>
+                  <unittitle>Friedenwald, J.S.</unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">7</container>
+                  <container type="folder"/>
+                  <unittitle>Fulbright Professors</unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">7</container>
+                  <container type="folder"/>
+                  <unittitle>Gans, J.</unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">7</container>
+                  <container type="folder"/>
+                  <unittitle>Glaucoma Survey - Cleveland</unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">7</container>
+                  <container type="folder"/>
+                  <unittitle>Grant, W. Morton</unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">7</container>
+                  <container type="folder"/>
+                  <unittitle>Gregg, Alan,  <unitdate era="ce" calendar="gregorian">1950-1960</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02 level="subseries">
+               <did>
+                  <unittitle>Health Information Foundation<unitdate era="ce" calendar="gregorian"/>
+                  </unittitle>
+               </did>
+               
+               <thead valign="bottom">
+                  <row>
+                     <entry morerows="0">Box</entry>
+                     <entry morerows="0">Folder</entry>
+                     <entry morerows="0">Contents</entry>
+                  </row>
+               </thead>
+               <c03>
+                  <did>
+                     <container type="box">7</container>
+                     <container type="folder"/>
+                     <unittitle>An Inventory of Social and Economic Research in Health,  <unitdate era="ce" calendar="gregorian">1952</unitdate>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="box">7</container>
+                     <container type="folder"/>
+                     <unittitle>"Progress in Health Services",  <unitdate era="ce" calendar="gregorian">1956-1966</unitdate>
+                     </unittitle>
+                  </did>
+               </c03>
+            </c02>
+            <c02 level="subseries">
+               <did>
+                  <unittitle>Hinsey, J.C.<unitdate era="ce" calendar="gregorian"/>
+                  </unittitle>
+               </did>
+               
+               <thead valign="bottom">
+                  <row>
+                     <entry morerows="0">Box</entry>
+                     <entry morerows="0">Folder</entry>
+                     <entry morerows="0">Contents</entry>
+                  </row>
+               </thead>
+               <c03>
+                  <did>
+                     <container type="box">7</container>
+                     <container type="folder"/>
+                     <unittitle>Correspondence</unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="box">7</container>
+                     <container type="folder"/>
+                     <unittitle>Articles</unittitle>
+                  </did>
+               </c03>
+            </c02>
+            <c02 level="subseries">
+               <did>
+                  <unittitle>Howe Laboratory of Ophthalmology<unitdate era="ce" calendar="gregorian"/>
+                  </unittitle>
+               </did>
+               
+               <thead valign="bottom">
+                  <row>
+                     <entry morerows="0">Box</entry>
+                     <entry morerows="0">Folder</entry>
+                     <entry morerows="0">Contents</entry>
+                  </row>
+               </thead>
+               <c03>
+                  <did>
+                     <container type="box">7</container>
+                     <container type="folder"/>
+                     <unittitle>Correspondence,  <unitdate era="ce" calendar="gregorian">1958-1970</unitdate>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="box">8</container>
+                     <container type="folder"/>
+                     <unittitle>Application for research grant</unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="box">8</container>
+                     <container type="folder"/>
+                     <unittitle>Program</unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="box">8</container>
+                     <container type="folder"/>
+                     <unittitle>1964 Report</unittitle>
+                  </did>
+               </c03>
+            </c02>
+            <c02 level="subseries">
+               <did>
+                  <unittitle>Illinois Society for Medical Research, <unitdate era="ce" calendar="gregorian">1962-1969</unitdate>
+                  </unittitle>
+               </did>
+               
+               <thead valign="bottom">
+                  <row>
+                     <entry morerows="0">Box</entry>
+                     <entry morerows="0">Folder</entry>
+                     <entry morerows="0">Contents</entry>
+                  </row>
+               </thead>
+               <c03>
+                  <did>
+                     <container type="box">8</container>
+                     <container type="folder"/>
+                     <unittitle>Bulletins,  <unitdate era="ce" calendar="gregorian">1962-1969</unitdate>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="box">8</container>
+                     <container type="folder"/>
+                     <unittitle>Correspondence,  <unitdate era="ce" calendar="gregorian">1962-1963</unitdate>
+                     </unittitle>
+                  </did>
+               </c03>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">8</container>
+                  <container type="folder"/>
+                  <unittitle>Imus, H.A.</unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">8</container>
+                  <container type="folder"/>
+                  <unittitle>Institute for Advancement of Medical Communication</unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">8</container>
+                  <container type="folder"/>
+                  <unittitle>Johnson, L.V.</unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">8</container>
+                  <container type="folder"/>
+                  <unittitle>Kellogg Foundation</unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">8</container>
+                  <container type="folder"/>
+                  <unittitle>Kennedy, President J.F. and Lee C. White</unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">8</container>
+                  <container type="folder"/>
+                  <unittitle>Keppel, F.</unittitle>
+               </did>
+            </c02>
+            <c02 level="subseries">
+               <did>
+                  <unittitle>Kinsey, V.E., <unitdate era="ce" calendar="gregorian">1948-1968</unitdate>
+                  </unittitle>
+               </did>
+               
+               <thead valign="bottom">
+                  <row>
+                     <entry morerows="0">Box</entry>
+                     <entry morerows="0">Folder</entry>
+                     <entry morerows="0">Contents</entry>
+                  </row>
+               </thead>
+               <c03>
+                  <did>
+                     <container type="box">8</container>
+                     <container type="folder"/>
+                     <unittitle>Correspondence,  <unitdate era="ce" calendar="gregorian">1948-1968</unitdate>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="box">8</container>
+                     <container type="folder"/>
+                     <unittitle>Retrolental Fibrolasia Project</unittitle>
+                  </did>
+               </c03>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">8</container>
+                  <container type="folder"/>
+                  <unittitle>Kintner, K.</unittitle>
+               </did>
+            </c02>
+            <c02 level="subseries">
+               <did>
+                  <unittitle>Knights Templar<unitdate era="ce" calendar="gregorian"/>
+                  </unittitle>
+               </did>
+               
+               <thead valign="bottom">
+                  <row>
+                     <entry morerows="0">Box</entry>
+                     <entry morerows="0">Folder</entry>
+                     <entry morerows="0">Contents</entry>
+                  </row>
+               </thead>
+               <c03 level="subseries">
+                  <did>
+                     <unittitle>Correspondence<unitdate era="ce" calendar="gregorian"/>
+                     </unittitle>
+                  </did>
+                  
+                  <thead valign="bottom">
+                     <row>
+                        <entry morerows="0">Box</entry>
+                        <entry morerows="0">Folder</entry>
+                        <entry morerows="0">Contents</entry>
+                     </row>
+                  </thead>
+                  <c04>
+                     <did>
+                        <container type="box">9</container>
+                        <container type="folder"/>
+                        <unittitle>Delamater, W.A., <unitdate era="ce" calendar="gregorian">1956-1962</unitdate>
+                        </unittitle>
+                     </did>
+                  </c04>
+                  <c04>
+                     <did>
+                        <container type="box">9</container>
+                        <container type="folder"/>
+                        <unittitle>Wieber, L.H.<unitdate era="ce" calendar="gregorian"/>
+                        </unittitle>
+                     </did>
+                  </c04>
+               </c03>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">9</container>
+                  <container type="folder"/>
+                  <unittitle>Kloss, A.G.</unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">9</container>
+                  <container type="folder"/>
+                  <unittitle>Kresge Eye Institute Publications</unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">9</container>
+                  <container type="folder"/>
+                  <unittitle>Lanning, L. McC,  <unitdate era="ce" calendar="gregorian">1951-1960</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">9</container>
+                  <container type="folder"/>
+                  <unittitle>Lape, E.E,  <unitdate era="ce" calendar="gregorian">1955-1958</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02 level="subseries">
+               <did>
+                  <unittitle>Lasker, M., <unitdate era="ce" calendar="gregorian">1949-1961</unitdate>
+                  </unittitle>
+               </did>
+               
+               <thead valign="bottom">
+                  <row>
+                     <entry morerows="0">Box</entry>
+                     <entry morerows="0">Folder</entry>
+                     <entry morerows="0">Contents</entry>
+                  </row>
+               </thead>
+               <c03>
+                  <did>
+                     <container type="box">9</container>
+                     <container type="folder"/>
+                     <unittitle>Correspondence,  <unitdate era="ce" calendar="gregorian">1949-1961</unitdate>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="box">9</container>
+                     <container type="folder"/>
+                     <unittitle>Clippings</unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="box">9</container>
+                     <container type="folder"/>
+                     <unittitle>Factsheet on Blindness</unittitle>
+                  </did>
+               </c03>
+            </c02>
+            <c02 level="subseries">
+               <did>
+                  <unittitle>Lasker Awards<unitdate era="ce" calendar="gregorian"/>
+                  </unittitle>
+               </did>
+               
+               <thead valign="bottom">
+                  <row>
+                     <entry morerows="0">Box</entry>
+                     <entry morerows="0">Folder</entry>
+                     <entry morerows="0">Contents</entry>
+                  </row>
+               </thead>
+               <c03>
+                  <did>
+                     <container type="box">9</container>
+                     <container type="folder"/>
+                     <unittitle>General</unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="box">9</container>
+                     <container type="folder"/>
+                     <unittitle>"Out of Darkness"</unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="box">9</container>
+                     <container type="folder"/>
+                     <unittitle>"Wassaic Story"</unittitle>
+                  </did>
+               </c03>
+            </c02>
+            <c02 level="subseries">
+               <did>
+                  <unittitle>Lasker Foundation<unitdate era="ce" calendar="gregorian"/>
+                  </unittitle>
+               </did>
+               
+               <thead valign="bottom">
+                  <row>
+                     <entry morerows="0">Box</entry>
+                     <entry morerows="0">Folder</entry>
+                     <entry morerows="0">Contents</entry>
+                  </row>
+               </thead>
+               <c03 level="subseries">
+                  <did>
+                     <unittitle>Correspondence<unitdate era="ce" calendar="gregorian"/>
+                     </unittitle>
+                  </did>
+                  
+                  <thead valign="bottom">
+                     <row>
+                        <entry morerows="0">Box</entry>
+                        <entry morerows="0">Folder</entry>
+                        <entry morerows="0">Contents</entry>
+                     </row>
+                  </thead>
+                  <c04>
+                     <did>
+                        <container type="box">9</container>
+                        <container type="folder"/>
+                        <unittitle>Fordyce, A.<unitdate era="ce" calendar="gregorian"/>
+                        </unittitle>
+                     </did>
+                  </c04>
+                  <c04>
+                     <did>
+                        <container type="box">9</container>
+                        <container type="folder"/>
+                        <unittitle>Mantell, H.<unitdate era="ce" calendar="gregorian"/>
+                        </unittitle>
+                     </did>
+                  </c04>
+                  <c04>
+                     <did>
+                        <container type="box">9</container>
+                        <container type="folder"/>
+                        <unittitle>McDonough, J.E.<unitdate era="ce" calendar="gregorian"/>
+                        </unittitle>
+                     </did>
+                  </c04>
+                  <c04>
+                     <did>
+                        <container type="box">9</container>
+                        <container type="folder"/>
+                        <unittitle>Zikmund, H.L.<unitdate era="ce" calendar="gregorian"/>
+                        </unittitle>
+                     </did>
+                  </c04>
+               </c03>
+            </c02>
+            <c02 level="subseries">
+               <did>
+                  <unittitle>Lions Club<unitdate era="ce" calendar="gregorian"/>
+                  </unittitle>
+               </did>
+               
+               <thead valign="bottom">
+                  <row>
+                     <entry morerows="0">Box</entry>
+                     <entry morerows="0">Folder</entry>
+                     <entry morerows="0">Contents</entry>
+                  </row>
+               </thead>
+               <c03>
+                  <did>
+                     <container type="box">9</container>
+                     <container type="folder"/>
+                     <unittitle>Indiana</unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="box">9</container>
+                     <container type="folder"/>
+                     <unittitle>Massachusetts,  <unitdate era="ce" calendar="gregorian">1951-1956</unitdate>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03 level="subseries">
+                  <did>
+                     <unittitle>Ohio<unitdate era="ce" calendar="gregorian"/>
+                     </unittitle>
+                  </did>
+                  
+                  <thead valign="bottom">
+                     <row>
+                        <entry morerows="0">Box</entry>
+                        <entry morerows="0">Folder</entry>
+                        <entry morerows="0">Contents</entry>
+                     </row>
+                  </thead>
+                  <c04>
+                     <did>
+                        <container type="box">10</container>
+                        <container type="folder"/>
+                        <unittitle>Publications<unitdate era="ce" calendar="gregorian"/>
+                        </unittitle>
+                     </did>
+                  </c04>
+                  <c04>
+                     <did>
+                        <container type="box">10</container>
+                        <container type="folder"/>
+                        <unittitle>Steece, E.<unitdate era="ce" calendar="gregorian"/>
+                        </unittitle>
+                     </did>
+                  </c04>
+               </c03>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">10</container>
+                  <container type="folder"/>
+                  <unittitle>Lions Clubs</unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">10</container>
+                  <container type="folder"/>
+                  <unittitle>Lions International</unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">10</container>
+                  <container type="folder"/>
+                  <unittitle>Masland, R.L.,  <unitdate era="ce" calendar="gregorian">1959-1967</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">10</container>
+                  <container type="folder"/>
+                  <unittitle>Massachusetts Eye and Ear Infirmary</unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">10</container>
+                  <container type="folder"/>
+                  <unittitle>Mayo, L.W.</unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">10</container>
+                  <container type="folder"/>
+                  <unittitle>Muscular Dystrophy Associations of America, Inc.</unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">10</container>
+                  <container type="folder"/>
+                  <unittitle>Mutual Security Program</unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">10</container>
+                  <container type="folder"/>
+                  <unittitle>National Committee for Research in Eye Diseases and Disabilities</unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">10</container>
+                  <container type="folder"/>
+                  <unittitle>National Committee for Research in Neurological Disorders.  Chiefly correspondence with A.B. Baker,  <unitdate era="ce" calendar="gregorian">1952-1966</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">11</container>
+                  <container type="folder"/>
+                  <unittitle>National Committee for Research in Neurological Disorders,  <unitdate era="ce" calendar="gregorian">1966-1967</unitdate>
+                  </unittitle>
+               </did>
+               <c03 level="item">
+                  <did>
+                     <unittitle>-- Program<unitdate era="ce" calendar="gregorian"/>
+                     </unittitle>
+                  </did>
+               </c03>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">11</container>
+                  <container type="folder"/>
+                  <unittitle>National Committee for Research in Ophthalmology and Blindness,  <unitdate era="ce" calendar="gregorian">1957-1967</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">11</container>
+                  <container type="folder"/>
+                  <unittitle>National Conference on Cardiovascular Disease</unittitle>
+               </did>
+            </c02>
+            <c02 level="subseries">
+               <did>
+                  <unittitle>National Council to Combat Blindness, <unitdate era="ce" calendar="gregorian"/>
+                  </unittitle>
+               </did>
+               
+               <thead valign="bottom">
+                  <row>
+                     <entry morerows="0">Box</entry>
+                     <entry morerows="0">Folder</entry>
+                     <entry morerows="0">Contents</entry>
+                  </row>
+               </thead>
+               <c03>
+                  <did>
+                     <container type="box">11</container>
+                     <container type="folder"/>
+                     <unittitle>General information</unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="box">11</container>
+                     <container type="folder"/>
+                     <unittitle>Correspondence - Wisenfeld, M.,  <unitdate era="ce" calendar="gregorian">1946-1967</unitdate>
+                     </unittitle>
+                  </did>
+               </c03>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">11</container>
+                  <container type="folder"/>
+                  <unittitle>National Foundation for Eye Research,  <unitdate era="ce" calendar="gregorian">1948-1957</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">12</container>
+                  <container type="folder"/>
+                  <unittitle>National Health Education Committee, Inc. - Publications</unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">13</container>
+                  <container type="folder"/>
+                  <unittitle>National Heart Institute - Publications</unittitle>
+               </did>
+            </c02>
+            <c02 level="subseries">
+               <did>
+                  <unittitle>National Institute of Neurological Diseases and Blindness<unitdate era="ce" calendar="gregorian"/>
+                  </unittitle>
+               </did>
+               
+               <thead valign="bottom">
+                  <row>
+                     <entry morerows="0">Box</entry>
+                     <entry morerows="0">Folder</entry>
+                     <entry morerows="0">Contents</entry>
+                  </row>
+               </thead>
+               <c03>
+                  <did>
+                     <container type="box">13</container>
+                     <container type="folder"/>
+                     <unittitle>Advisory Council,  <unitdate era="ce" calendar="gregorian">1950-1951</unitdate>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="box">13</container>
+                     <container type="folder"/>
+                     <unittitle>Booklet - "Exploring the Brain of Man"</unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="box">13</container>
+                     <container type="folder"/>
+                     <unittitle>Budgets and other information,  <unitdate era="ce" calendar="gregorian">1955-1968</unitdate>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="box">13</container>
+                     <container type="folder"/>
+                     <unittitle>Miscellaneous correspondence</unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="box">13</container>
+                     <container type="folder"/>
+                     <unittitle>Publications</unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="box">13</container>
+                     <container type="folder"/>
+                     <unittitle>Reports</unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="box">13</container>
+                     <container type="folder"/>
+                     <unittitle>NINDB Review,  <unitdate era="ce" calendar="gregorian">1963-1966</unitdate>
+                     </unittitle>
+                  </did>
+               </c03>
+            </c02>
+            <c02 level="subseries">
+               <did>
+                  <unittitle>National Institutes of Health<unitdate era="ce" calendar="gregorian"/>
+                  </unittitle>
+               </did>
+               
+               <thead valign="bottom">
+                  <row>
+                     <entry morerows="0">Box</entry>
+                     <entry morerows="0">Folder</entry>
+                     <entry morerows="0">Contents</entry>
+                  </row>
+               </thead>
+               <c03>
+                  <did>
+                     <container type="box">13</container>
+                     <container type="folder"/>
+                     <unittitle>Clippings</unittitle>
+                  </did>
+               </c03>
+               <c03 level="subseries">
+                  <did>
+                     <unittitle>Inter-Council Committee on Institutional Grants, <unitdate era="ce" calendar="gregorian">1950-1952</unitdate>
+                     </unittitle>
+                  </did>
+                  
+                  <thead valign="bottom">
+                     <row>
+                        <entry morerows="0">Box</entry>
+                        <entry morerows="0">Folder</entry>
+                        <entry morerows="0">Contents</entry>
+                     </row>
+                  </thead>
+                  <c04>
+                     <did>
+                        <container type="box">13</container>
+                        <container type="folder"/>
+                        <unittitle>Correspondence<unitdate era="ce" calendar="gregorian">1950-1952</unitdate>
+                        </unittitle>
+                     </did>
+                  </c04>
+                  <c04>
+                     <did>
+                        <container type="box">13</container>
+                        <container type="folder"/>
+                        <unittitle>Report, <unitdate era="ce" calendar="gregorian">1952</unitdate>
+                        </unittitle>
+                     </did>
+                  </c04>
+                  <c04>
+                     <did>
+                        <container type="box">13</container>
+                        <container type="folder"/>
+                        <unittitle>Scrapbook compiled by Ulmer<unitdate era="ce" calendar="gregorian"/>
+                        </unittitle>
+                     </did>
+                  </c04>
+                  <c04>
+                     <did>
+                        <container type="box">14</container>
+                        <container type="folder"/>
+                        <unittitle>Notebooks<unitdate era="ce" calendar="gregorian"/>
+                        </unittitle>
+                     </did>
+                  </c04>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="box">14</container>
+                     <container type="folder"/>
+                     <unittitle>National Advisory Research Resources Committee</unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="box">14</container>
+                     <container type="folder"/>
+                     <unittitle>News Releases,  <unitdate era="ce" calendar="gregorian">1949-1968</unitdate>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="box">14</container>
+                     <container type="folder"/>
+                     <unittitle>Publications and Information</unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="box">14</container>
+                     <container type="folder"/>
+                     <unittitle>Scientific Directories,  <unitdate era="ce" calendar="gregorian">1964, 1967</unitdate>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="box">14</container>
+                     <container type="folder"/>
+                     <unittitle>Woolridge Committee Report</unittitle>
+                  </did>
+               </c03>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">14</container>
+                  <container type="folder"/>
+                  <unittitle>National Library of Medicine - MEDLARS information</unittitle>
+               </did>
+            </c02>
+            <c02 level="subseries">
+               <did>
+                  <unittitle>National Medical Foundation for Eye Care<unitdate era="ce" calendar="gregorian"/>
+                  </unittitle>
+               </did>
+               
+               <thead valign="bottom">
+                  <row>
+                     <entry morerows="0">Box</entry>
+                     <entry morerows="0">Folder</entry>
+                     <entry morerows="0">Contents</entry>
+                  </row>
+               </thead>
+               <c03>
+                  <did>
+                     <container type="box">14</container>
+                     <container type="folder"/>
+                     <unittitle>Correspondence and miscellaneous</unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="box">15</container>
+                     <container type="folder"/>
+                     <unittitle>Jaeckle, C.E.</unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="box">15</container>
+                     <container type="folder"/>
+                     <unittitle>Publications</unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="box">15</container>
+                     <container type="folder"/>
+                     <unittitle>News Bulletin, <unitdate era="ce" calendar="gregorian">1961-1965</unitdate>
+                     </unittitle>
+                  </did>
+               </c03>
+            </c02>
+            <c02 level="subseries">
+               <did>
+                  <unittitle>National Multiple Sclerosis Society<unitdate era="ce" calendar="gregorian"/>
+                  </unittitle>
+               </did>
+               
+               <thead valign="bottom">
+                  <row>
+                     <entry morerows="0">Box</entry>
+                     <entry morerows="0">Folder</entry>
+                     <entry morerows="0">Contents</entry>
+                  </row>
+               </thead>
+               <c03 level="subseries">
+                  <did>
+                     <unittitle>Correspondence<unitdate era="ce" calendar="gregorian"/>
+                     </unittitle>
+                  </did>
+                  
+                  <thead valign="bottom">
+                     <row>
+                        <entry morerows="0">Box</entry>
+                        <entry morerows="0">Folder</entry>
+                        <entry morerows="0">Contents</entry>
+                     </row>
+                  </thead>
+                  <c04>
+                     <did>
+                        <container type="box">15</container>
+                        <container type="folder"/>
+                        <unittitle>Lawry, S.<unitdate era="ce" calendar="gregorian"/>
+                        </unittitle>
+                     </did>
+                  </c04>
+                  <c04>
+                     <did>
+                        <container type="box">15</container>
+                        <container type="folder"/>
+                        <unittitle>Traeger, C.<unitdate era="ce" calendar="gregorian"/>
+                        </unittitle>
+                     </did>
+                  </c04>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="box">15</container>
+                     <container type="folder"/>
+                     <unittitle>Publications</unittitle>
+                  </did>
+               </c03>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">15</container>
+                  <container type="folder"/>
+                  <unittitle>National Neurological Research Foundation</unittitle>
+               </did>
+            </c02>
+            <c02 level="subseries">
+               <did>
+                  <unittitle>National Science Foundation, <unitdate era="ce" calendar="gregorian">n.d., 1955</unitdate>
+                  </unittitle>
+               </did>
+               
+               <thead valign="bottom">
+                  <row>
+                     <entry morerows="0">Box</entry>
+                     <entry morerows="0">Folder</entry>
+                     <entry morerows="0">Contents</entry>
+                  </row>
+               </thead>
+               <c03>
+                  <did>
+                     <container type="box">15</container>
+                     <container type="folder"/>
+                     <unittitle>Annual Reports</unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="box">15</container>
+                     <container type="folder"/>
+                     <unittitle>Correspondence,  <unitdate era="ce" calendar="gregorian">1955</unitdate>
+                     </unittitle>
+                  </did>
+               </c03>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">15</container>
+                  <container type="folder"/>
+                  <unittitle>National Society for Crippled Children</unittitle>
+               </did>
+            </c02>
+            <c02 level="subseries">
+               <did>
+                  <unittitle>National Society for the Prevention of Blindness<unitdate era="ce" calendar="gregorian"/>
+                  </unittitle>
+               </did>
+               
+               <thead valign="bottom">
+                  <row>
+                     <entry morerows="0">Box</entry>
+                     <entry morerows="0">Folder</entry>
+                     <entry morerows="0">Contents</entry>
+                  </row>
+               </thead>
+               <c03>                  <did>
+                     <container type="box">15</container>
+                     <container type="folder"/>
+                     <unittitle>Correspondence</unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="box">15</container>
+                     <container type="folder"/>
+                     <unittitle>Miscellaneous Publications</unittitle>
+                  </did>
+               </c03>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">15</container>
+                  <container type="folder"/>
+                  <unittitle>Naval Research Technical Reports re: Ophthalmology</unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">16</container>
+                  <container type="folder"/>
+                  <unittitle>Nestingen, I.A.</unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">16</container>
+                  <container type="folder"/>
+                  <unittitle>New York Association for the Blind</unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">16</container>
+                  <container type="folder"/>
+                  <unittitle>New York Guild for the Jewish Blind</unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">16</container>
+                  <container type="folder"/>
+                  <unittitle>New York Institute for the Education of the Blind - "No More Light"</unittitle>
+               </did>
+            </c02>
+            <c02 level="subseries">
+               <did>
+                  <unittitle>Newell, F.W.<unitdate era="ce" calendar="gregorian"/>
+                  </unittitle>
+               </did>
+               
+               <thead valign="bottom">
+                  <row>
+                     <entry morerows="0">Box</entry>
+                     <entry morerows="0">Folder</entry>
+                     <entry morerows="0">Contents</entry>
+                  </row>
+               </thead>
+               <c03>
+                  <did>
+                     <container type="box">16</container>
+                     <container type="folder"/>
+                     <unittitle>Correspondence,  <unitdate era="ce" calendar="gregorian">1955-1968</unitdate>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="box">16</container>
+                     <container type="folder"/>
+                     <unittitle>National Committee for Research in Ophthalmology and Blindness</unittitle>
+                  </did>
+               </c03>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">16</container>
+                  <container type="folder"/>
+                  <unittitle>Nixon, R.M.</unittitle>
+               </did>
+            </c02>
+            <c02 level="subseries">
+               <did>
+                  <unittitle>Office of Technical Services (Dept. of Commerce)<unitdate era="ce" calendar="gregorian"/>
+                  </unittitle>
+               </did>
+               
+               <thead valign="bottom">
+                  <row>
+                     <entry morerows="0">Box</entry>
+                     <entry morerows="0">Folder</entry>
+                     <entry morerows="0">Contents</entry>
+                  </row>
+               </thead>
+               <c03>
+                  <did>
+                     <container type="box">16</container>
+                     <container type="folder"/>
+                     <unittitle>OTS Selective Bibliography</unittitle>
+                  </did>
+               </c03>
+            </c02>
+            <c02 level="subseries">
+               <did>
+                  <unittitle>Ohio State Correspondence, <unitdate era="ce" calendar="gregorian">1950-1958</unitdate>
+                  </unittitle>
+               </did>
+               
+               <thead valign="bottom">
+                  <row>
+                     <entry morerows="0">Box</entry>
+                     <entry morerows="0">Folder</entry>
+                     <entry morerows="0">Contents</entry>
+                  </row>
+               </thead>
+               <c03>
+                  <did>
+                     <container type="box">16</container>
+                     <container type="folder"/>
+                     <unittitle>DiSalle, M.V.,  <unitdate era="ce" calendar="gregorian">1958-1962</unitdate>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="box">16</container>
+                     <container type="folder"/>
+                     <unittitle>Ferguson, D. McK.</unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="box">16</container>
+                     <container type="folder"/>
+                     <unittitle>Lausche, F.J.</unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="box">16</container>
+                     <container type="folder"/>
+                     <unittitle>McClure, J.F.</unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="box">16</container>
+                     <container type="folder"/>
+                     <unittitle>Porterfield, J.D.,  <unitdate era="ce" calendar="gregorian">1950-1957</unitdate>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="box">16</container>
+                     <container type="folder"/>
+                     <unittitle>Steece, E.R.</unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="box">16</container>
+                     <container type="folder"/>
+                     <unittitle>Others, A-Z</unittitle>
+                  </did>
+               </c03>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">16</container>
+                  <container type="folder"/>
+                  <unittitle>Ohio State Legislature - Name Lists and Ulmer letters</unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">16</container>
+                  <container type="folder"/>
+                  <unittitle>Ohio State - Services for Preschool Blind Children</unittitle>
+               </did>
+            </c02>
+            <c02 level="subseries">
+               <did>
+                  <unittitle>Ohio State University<unitdate era="ce" calendar="gregorian"/>
+                  </unittitle>
+               </did>
+               
+               <thead valign="bottom">
+                  <row>
+                     <entry morerows="0">Box</entry>
+                     <entry morerows="0">Folder</entry>
+                     <entry morerows="0">Contents</entry>
+                  </row>
+               </thead>
+               <c03 level="subseries">
+                  <did>
+                     <unittitle>Correspondence<unitdate era="ce" calendar="gregorian"/>
+                     </unittitle>
+                  </did>
+                  
+                  <thead valign="bottom">
+                     <row>
+                        <entry morerows="0">Box</entry>
+                        <entry morerows="0">Folder</entry>
+                        <entry morerows="0">Contents</entry>
+                     </row>
+                  </thead>
+                  <c04>
+                     <did>
+                        <container type="box">17</container>
+                        <container type="folder"/>
+                        <unittitle>Collins, A.D. - re: medical ethics and College of Optometry<unitdate era="ce" calendar="gregorian"/>
+                        </unittitle>
+                     </did>
+                  </c04>
+                  <c04>
+                     <did>
+                        <container type="box">17</container>
+                        <container type="folder"/>
+                        <unittitle>Culler, A.M., <unitdate era="ce" calendar="gregorian">1949-1953</unitdate>
+                        </unittitle>
+                     </did>
+                  </c04>
+                  <c04>
+                     <did>
+                        <container type="box">17</container>
+                        <container type="folder"/>
+                        <unittitle>Doan, C.A.<unitdate era="ce" calendar="gregorian">1949-1961</unitdate>
+                        </unittitle>
+                     </did>
+                  </c04>
+                  <c04>
+                     <did>
+                        <container type="box">17</container>
+                        <container type="folder"/>
+                        <unittitle>Fawcett, N.G.<unitdate era="ce" calendar="gregorian">1958-1965</unitdate>
+                        </unittitle>
+                     </did>
+                  </c04>
+                  <c04 level="subseries">
+                     <did>
+                        <unittitle>Havener, W.H., <unitdate era="ce" calendar="gregorian">1955-1967</unitdate>
+                        </unittitle>
+                     </did>
+                     
+                     <thead valign="bottom">
+                        <row>
+                           <entry morerows="0">Box</entry>
+                           <entry morerows="0">Folder</entry>
+                           <entry morerows="0">Contents</entry>
+                        </row>
+                     </thead>
+                     <c05>
+                        <did>
+                           <container type="box">17</container>
+                           <container type="folder"/>
+                           <unittitle>Correspondence, <unitdate era="ce" calendar="gregorian">1955-1967</unitdate>
+                           </unittitle>
+                        </did>
+                     </c05>
+                     <c05>
+                        <did>
+                           <container type="box">17</container>
+                           <container type="folder"/>
+                           <unittitle>Publications and printed matter, <unitdate era="ce" calendar="gregorian"/>
+                           </unittitle>
+                        </did>
+                     </c05>
+                  </c04>
+                  <c04>
+                     <did>
+                        <container type="box">17</container>
+                        <container type="folder"/>
+                        <unittitle>Meiling, R.L.<unitdate era="ce" calendar="gregorian"/>
+                        </unittitle>
+                     </did>
+                  </c04>
+                  <c04>
+                     <did>
+                        <container type="box">17</container>
+                        <container type="folder"/>
+                        <unittitle>Others, A - T<unitdate era="ce" calendar="gregorian"/>
+                        </unittitle>
+                     </did>
+                  </c04>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="box">18</container>
+                     <container type="folder"/>
+                     <unittitle>Hospitals</unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="box">18</container>
+                     <container type="folder"/>
+                     <unittitle>Institute for Research in Vision</unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="box">18</container>
+                     <container type="folder"/>
+                     <unittitle>Ophthalmology</unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="box">18</container>
+                     <container type="folder"/>
+                     <unittitle>Printed Matter re: Optometry</unittitle>
+                  </did>
+               </c03>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">18</container>
+                  <container type="folder"/>
+                  <unittitle>"Ohio Story" Radio Program</unittitle>
+               </did>
+            </c02>
+            <c02 level="subseries">
+               <did>
+                  <unittitle>Ophthalmology Foundation, Inc., <unitdate era="ce" calendar="gregorian">1943-1959</unitdate>
+                  </unittitle>
+               </did>
+               
+               <thead valign="bottom">
+                  <row>
+                     <entry morerows="0">Box</entry>
+                     <entry morerows="0">Folder</entry>
+                     <entry morerows="0">Contents</entry>
+                  </row>
+               </thead>
+               <c03>
+                  <did>
+                     <container type="box">18</container>
+                     <container type="folder"/>
+                     <unittitle>Annual Reports and miscellaneous,  <unitdate era="ce" calendar="gregorian">1943-1951</unitdate>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="box">18</container>
+                     <container type="folder"/>
+                     <unittitle>Berens, C.,  <unitdate era="ce" calendar="gregorian">1947-1957</unitdate>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="box">18</container>
+                     <container type="folder"/>
+                     <unittitle>Tolman, C.P.,  <unitdate era="ce" calendar="gregorian">1958-1959</unitdate>
+                     </unittitle>
+                  </did>
+               </c03>
+            </c02>
+            <c02 level="subseries">
+               <did>
+                  <unittitle>Optometry - miscellaneous<unitdate era="ce" calendar="gregorian"/>
+                  </unittitle>
+               </did>
+               
+               <thead valign="bottom">
+                  <row>
+                     <entry morerows="0">Box</entry>
+                     <entry morerows="0">Folder</entry>
+                     <entry morerows="0">Contents</entry>
+                  </row>
+               </thead>
+               <c03>
+                  <did>
+                     <container type="box">18</container>
+                     <container type="folder"/>
+                     <unittitle>Information Re: Ohio State controversy</unittitle>
+                  </did>
+               </c03>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">18</container>
+                  <container type="folder"/>
+                  <unittitle>Papian, W.N. - Computer Technology</unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">18</container>
+                  <container type="folder"/>
+                  <unittitle>Perkins Institution</unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">18</container>
+                  <container type="folder"/>
+                  <unittitle>Permanent Charity Fund - Year Book for 1961</unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">18</container>
+                  <container type="folder"/>
+                  <unittitle>Perrott, G. St. J.</unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">18</container>
+                  <container type="folder"/>
+                  <unittitle>Porterfield, J.D.</unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">18</container>
+                  <container type="folder"/>
+                  <unittitle>Potts, A.M.</unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">18</container>
+                  <container type="folder"/>
+                  <unittitle>Price, D.E.,  <unitdate era="ce" calendar="gregorian">1950-1964</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">19</container>
+                  <container type="folder"/>
+                  <unittitle>Proctor Foundation for Research in Ophthalmology</unittitle>
+               </did>
+            </c02>
+            <c02 level="subseries">
+               <did>
+                  <unittitle>Public Health Service<unitdate era="ce" calendar="gregorian"/>
+                  </unittitle>
+               </did>
+               
+               <thead valign="bottom">
+                  <row>
+                     <entry morerows="0">Box</entry>
+                     <entry morerows="0">Folder</entry>
+                     <entry morerows="0">Contents</entry>
+                  </row>
+               </thead>
+               <c03>
+                  <did>
+                     <container type="box">19</container>
+                     <container type="folder"/>
+                     <unittitle>Eighth Annual Report of the Surgeon General,  <unitdate era="ce" calendar="gregorian">1964</unitdate>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="box">19</container>
+                     <container type="folder"/>
+                     <unittitle>Miscellaneous publications</unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="box">19</container>
+                     <container type="folder"/>
+                     <unittitle>Grants and Awards,  <unitdate era="ce" calendar="gregorian">1967</unitdate>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="box">19</container>
+                     <container type="folder"/>
+                     <unittitle>Research Grants and Fellowships,  <unitdate era="ce" calendar="gregorian">1941-1955</unitdate>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="box">19</container>
+                     <container type="folder"/>
+                     <unittitle>Impact of Public Health Grant Programs on Medical Research and Education.  Report of Interstate and Foreign Commerce Committee</unittitle>
+                  </did>
+               </c03>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">19</container>
+                  <container type="folder"/>
+                  <unittitle>Putnam, P.</unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">19</container>
+                  <container type="folder"/>
+                  <unittitle>Radiation accidents - Information</unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">19</container>
+                  <container type="folder"/>
+                  <unittitle>Reader's Digest correspondence,  <unitdate era="ce" calendar="gregorian">1950-1962</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02 level="subseries">
+               <did>
+                  <unittitle>Research to Prevent Blindness, Inc<unitdate era="ce" calendar="gregorian"/>
+                  </unittitle>
+               </did>
+               
+               <thead valign="bottom">
+                  <row>
+                     <entry morerows="0">Box</entry>
+                     <entry morerows="0">Folder</entry>
+                     <entry morerows="0">Contents</entry>
+                  </row>
+               </thead>
+               <c03>
+                  <did>
+                     <container type="box">19</container>
+                     <container type="folder"/>
+                     <unittitle>Correspondence</unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="box">19</container>
+                     <container type="folder"/>
+                     <unittitle>Stein, J.</unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="box">19</container>
+                     <container type="folder"/>
+                     <unittitle>Stein, J. - Clippings</unittitle>
+                  </did>
+               </c03>
+            </c02>
+            <c02 level="subseries">
+               <did>
+                  <unittitle>Retina Foundation<unitdate era="ce" calendar="gregorian"/>
+                  </unittitle>
+               </did>
+               
+               <thead valign="bottom">
+                  <row>
+                     <entry morerows="0">Box</entry>
+                     <entry morerows="0">Folder</entry>
+                     <entry morerows="0">Contents</entry>
+                  </row>
+               </thead>
+               <c03>
+                  <did>
+                     <container type="box">20</container>
+                     <container type="folder"/>
+                     <unittitle>Correspondence, chiefly with C.L. Schepens,  <unitdate era="ce" calendar="gregorian"/>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="box">20</container>
+                     <container type="folder"/>
+                     <unittitle>Description of Eye Research,  <unitdate era="ce" calendar="gregorian"/>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="box">20</container>
+                     <container type="folder"/>
+                     <unittitle>Miscellaneous Printed Material</unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="box">20</container>
+                     <container type="folder"/>
+                     <unittitle>Report for 1964-1965,  <unitdate era="ce" calendar="gregorian">1964-1965</unitdate>
+                     </unittitle>
+                  </did>
+               </c03>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">20</container>
+                  <container type="folder"/>
+                  <unittitle>Retrolental Fibroplasia Study</unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">20</container>
+                  <container type="folder"/>
+                  <unittitle>Robert, L.</unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">20</container>
+                  <container type="folder"/>
+                  <unittitle>Rockefeller Foundation,  <unitdate era="ce" calendar="gregorian">1947-1958</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">20</container>
+                  <container type="folder"/>
+                  <unittitle>Rockefeller, N.A.</unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">20</container>
+                  <container type="folder"/>
+                  <unittitle>Scheele, L.A.,  <unitdate era="ce" calendar="gregorian">1950-1962</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">20</container>
+                  <container type="folder"/>
+                  <unittitle>Schilling, Capt. C.W.,  <unitdate era="ce" calendar="gregorian">1950-1955</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">20</container>
+                  <container type="folder"/>
+                  <unittitle>Sebrell, W.H.</unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">20</container>
+                  <container type="folder"/>
+                  <unittitle>Sherman, A.W.</unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">20</container>
+                  <container type="folder"/>
+                  <unittitle>Sloan Foundation</unittitle>
+               </did>
+               <c03 level="item">
+                  <did>
+                     <unittitle>-- Zurcher, A.J., <unitdate era="ce" calendar="gregorian">1955-1965</unitdate>
+                     </unittitle>
+                  </did>
+               </c03>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">21</container>
+                  <container type="folder"/>
+                  <unittitle>Sloan-Kettering Institute for Cancer Research</unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">21</container>
+                  <container type="folder"/>
+                  <unittitle>Smelser, G.K.</unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">21</container>
+                  <container type="folder"/>
+                  <unittitle>Social Legislation Information Service.  Washington Bulletin,  <unitdate era="ce" calendar="gregorian">1957-1969</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02 level="subseries">
+               <did>
+                  <unittitle>Stone, F.L., <unitdate era="ce" calendar="gregorian">1951-1965</unitdate>
+                  </unittitle>
+               </did>
+               
+               <thead valign="bottom">
+                  <row>
+                     <entry morerows="0">Box</entry>
+                     <entry morerows="0">Folder</entry>
+                     <entry morerows="0">Contents</entry>
+                  </row>
+               </thead>
+               <c03>
+                  <did>
+                     <container type="box">22</container>
+                     <container type="folder"/>
+                     <unittitle>Correspondence,  <unitdate era="ce" calendar="gregorian">1951-1965</unitdate>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="box">22</container>
+                     <container type="folder"/>
+                     <unittitle>Miscellaneous</unittitle>
+                  </did>
+               </c03>
+            </c02>
+            <c02 level="subseries">
+               <did>
+                  <unittitle>Stone, W., Jr., <unitdate era="ce" calendar="gregorian">1952-1963</unitdate>
+                  </unittitle>
+               </did>
+               
+               <thead valign="bottom">
+                  <row>
+                     <entry morerows="0">Box</entry>
+                     <entry morerows="0">Folder</entry>
+                     <entry morerows="0">Contents</entry>
+                  </row>
+               </thead>
+               <c03>
+                  <did>
+                     <container type="box">22</container>
+                     <container type="folder"/>
+                     <unittitle>Correspondence,  <unitdate era="ce" calendar="gregorian">1952-1963</unitdate>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="box">22</container>
+                     <container type="folder"/>
+                     <unittitle>Miscellaneous</unittitle>
+                  </did>
+               </c03>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">22</container>
+                  <container type="folder"/>
+                  <unittitle>Swan, K.C.</unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">22</container>
+                  <container type="folder"/>
+                  <unittitle>Symposium on Research in Blindness and Severe Visual Impairment</unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">22</container>
+                  <container type="folder"/>
+                  <unittitle>Tankersley, Mrs. G.E.</unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">22</container>
+                  <container type="folder"/>
+                  <unittitle>Thygeson, P.</unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">22</container>
+                  <container type="folder"/>
+                  <unittitle>Trachoma data</unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">22</container>
+                  <container type="folder"/>
+                  <unittitle>Tufts-New England Medical Center News</unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">22</container>
+                  <container type="folder"/>
+                  <unittitle>Vail, D.,  <unitdate era="ce" calendar="gregorian">1952-1963</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">22</container>
+                  <container type="folder"/>
+                  <unittitle>Van Slyke, C.J.,  <unitdate era="ce" calendar="gregorian">1949-1963</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">22</container>
+                  <container type="folder"/>
+                  <unittitle>Volk, David</unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">22</container>
+                  <container type="folder"/>
+                  <unittitle>Watizman, M.B.</unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">23</container>
+                  <container type="folder"/>
+                  <unittitle>Warren, S.L.</unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">23</container>
+                  <container type="folder"/>
+                  <unittitle>Western Reserve University - Miscellaneous</unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">23</container>
+                  <container type="folder"/>
+                  <unittitle>Williams, G.</unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">23</container>
+                  <container type="folder"/>
+                  <unittitle>Winter, N.</unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">23</container>
+                  <container type="folder"/>
+                  <unittitle>Woods, A.C.,  <unitdate era="ce" calendar="gregorian">1950-1958</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">23</container>
+                  <container type="folder"/>
+                  <unittitle>World Federation of Neurology - Reports</unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">23</container>
+                  <container type="folder"/>
+                  <unittitle>World Health Organization - Newsletter,  <unitdate era="ce" calendar="gregorian">1955-1956</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">23</container>
+                  <container type="folder"/>
+                  <unittitle>Zacharias, L.,  <unitdate era="ce" calendar="gregorian">1952-1958</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+         </c01>
+         <c01 level="series">
+            <did>
+               <unittitle>Miscellaneous papers and correspondence<unitdate era="ce" calendar="gregorian"/>
+               </unittitle>
+            </did>
+            
+            <thead valign="bottom">
+               <row>
+                  <entry morerows="0">Box</entry>
+                  <entry morerows="0">Folder</entry>
+                  <entry morerows="0">Contents</entry>
+               </row>
+            </thead>
+            <c02>
+               <did>
+                  <container type="box">23</container>
+                  <container type="folder"/>
+                  <unittitle>Ab - Fr (Includes A. Celebrezze)</unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">24</container>
+                  <container type="folder"/>
+                  <unittitle>G - Z (includes H. Hoover, H. Keller)</unittitle>
+               </did>
+            </c02>
+            <c02 level="subseries">
+               <did>
+                  <unittitle>Miscellaneous Legal Sized Items<unitdate era="ce" calendar="gregorian"/>
+                  </unittitle>
+               </did>
+               
+               <thead valign="bottom">
+                  <row>
+                     <entry morerows="0">Box</entry>
+                     <entry morerows="0">Folder</entry>
+                     <entry morerows="0">Contents</entry>
+                  </row>
+               </thead>
+               <c03 level="subseries">
+                  <did>
+                     <unittitle>National Institutes of Health<unitdate era="ce" calendar="gregorian"/>
+                     </unittitle>
+                  </did>
+                  
+                  <thead valign="bottom">
+                     <row>
+                        <entry morerows="0">Box</entry>
+                        <entry morerows="0">Folder</entry>
+                        <entry morerows="0">Contents</entry>
+                     </row>
+                  </thead>
+                  <c04>
+                     <did>
+                        <container type="box">24</container>
+                        <container type="folder"/>
+                        <unittitle>Research Projects Grants Awarded to Foreign Institutions and International Organizations, <unitdate era="ce" calendar="gregorian">1962</unitdate>
+                        </unittitle>
+                     </did>
+                  </c04>
+                  <c04>
+                     <did>
+                        <container type="box">24</container>
+                        <container type="folder"/>
+                        <unittitle>Research at the National Institutes of Health<unitdate era="ce" calendar="gregorian"/>
+                        </unittitle>
+                     </did>
+                  </c04>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="box">24</container>
+                     <container type="folder"/>
+                     <unittitle>Parke Davis  Co.  A History of Medicine in Pictures</unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="box">24</container>
+                     <container type="folder"/>
+                     <unittitle>Roche Medical Image,  <unitdate era="ce" calendar="gregorian">1962</unitdate>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="box">24</container>
+                     <container type="folder"/>
+                     <unittitle>Western Reserve University Medical Center</unittitle>
+                  </did>
+               </c03>
+            </c02>
+         </c01>
+         <c01 level="series">
+            <did>
+               <unittitle>Clippings and Miscellaneous data<unitdate era="ce" calendar="gregorian"/>
+               </unittitle>
+            </did>
+            
+            <thead valign="bottom">
+               <row>
+                  <entry morerows="0">Box</entry>
+                  <entry morerows="0">Folder</entry>
+                  <entry morerows="0">Contents</entry>
+               </row>
+            </thead>
+            <c02>
+               <did>
+                  <container type="box">25</container>
+                  <container type="folder"/>
+                  <unittitle>Blindness - rehabilitation</unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">25</container>
+                  <container type="folder"/>
+                  <unittitle>Cancer</unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">25</container>
+                  <container type="folder"/>
+                  <unittitle>Cataracts</unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">25</container>
+                  <container type="folder"/>
+                  <unittitle>Cerebral Palsy</unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">25</container>
+                  <container type="folder"/>
+                  <unittitle>Computers</unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">25</container>
+                  <container type="folder"/>
+                  <unittitle>Contact lenses</unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">25</container>
+                  <container type="folder"/>
+                  <unittitle>Corneal diseases, transplants</unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">25</container>
+                  <container type="folder"/>
+                  <unittitle>Cryosurgery</unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">25</container>
+                  <container type="folder"/>
+                  <unittitle>Department of Health, Education, and Welfare</unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">25</container>
+                  <container type="folder"/>
+                  <unittitle>Diseases</unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">25</container>
+                  <container type="folder"/>
+                  <unittitle>Drug Control</unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">25</container>
+                  <container type="folder"/>
+                  <unittitle>Drugs - use and abuse</unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">25</container>
+                  <container type="folder"/>
+                  <unittitle>Education, general</unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">25</container>
+                  <container type="folder"/>
+                  <unittitle>Educatioin, medical</unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">26</container>
+                  <container type="folder"/>
+                  <unittitle>Education, science</unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">26</container>
+                  <container type="folder"/>
+                  <unittitle>Eye care</unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">26</container>
+                  <container type="folder"/>
+                  <unittitle>Eye diseases</unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">26</container>
+                  <container type="folder"/>
+                  <unittitle>Eye research</unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">26</container>
+                  <container type="folder"/>
+                  <unittitle>Food and Drug Administration</unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">26</container>
+                  <container type="folder"/>
+                  <unittitle>Foreign aid</unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">26</container>
+                  <container type="folder"/>
+                  <unittitle>Foundations</unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">26</container>
+                  <container type="folder"/>
+                  <unittitle>Glaucoma</unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">26</container>
+                  <container type="folder"/>
+                  <unittitle>Heart disease</unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">26</container>
+                  <container type="folder"/>
+                  <unittitle>Lasers</unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">26</container>
+                  <container type="folder"/>
+                  <unittitle>Legal medicine</unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">26</container>
+                  <container type="folder"/>
+                  <unittitle>Medicare</unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">26</container>
+                  <container type="folder"/>
+                  <unittitle>Medicine, general</unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">26</container>
+                  <container type="folder"/>
+                  <unittitle>Mental health, psychology, behavior</unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">26</container>
+                  <container type="folder"/>
+                  <unittitle>Miscellaneous</unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">26</container>
+                  <container type="folder"/>
+                  <unittitle>Multiple sclerosis</unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">26</container>
+                  <container type="folder"/>
+                  <unittitle>Ophthalmology</unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">26</container>
+                  <container type="folder"/>
+                  <unittitle>Optometry</unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">26</container>
+                  <container type="folder"/>
+                  <unittitle>Physiology</unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">26</container>
+                  <container type="folder"/>
+                  <unittitle>Research, general</unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">27</container>
+                  <container type="folder"/>
+                  <unittitle>Research Facilities</unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">27</container>
+                  <container type="folder"/>
+                  <unittitle>Research Funds</unittitle>
+                  <abstract>Support of Medical Research:  A Symposium (Published by the Council for Internal Organizations of Medical Sciences, 1956)</abstract>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">27</container>
+                  <container type="folder"/>
+                  <unittitle>Retinal detachment</unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">27</container>
+                  <container type="folder"/>
+                  <unittitle>Retrolental Fibroplasia</unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">27</container>
+                  <container type="folder"/>
+                  <unittitle>Scholarships</unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">27</container>
+                  <container type="folder"/>
+                  <unittitle>Science and Government</unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">27</container>
+                  <container type="folder"/>
+                  <unittitle>Surgery</unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">27</container>
+                  <container type="folder"/>
+                  <unittitle>Trachoma</unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">27</container>
+                  <container type="folder"/>
+                  <unittitle>Ultrasonics data</unittitle>
+               </did>
+            </c02>
+         </c01>
+         <c01 level="series">
+            <did>
+               <unittitle>International Papers and correspondence<unitdate era="ce" calendar="gregorian"/>
+               </unittitle>
+            </did>
+            
+            <thead valign="bottom">
+               <row>
+                  <entry morerows="0">Box</entry>
+                  <entry morerows="0">Folder</entry>
+                  <entry morerows="0">Contents</entry>
+               </row>
+            </thead>
+            <c02>
+               <did>
+                  <container type="box">27</container>
+                  <container type="folder"/>
+                  <unittitle>Africa</unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">27</container>
+                  <container type="folder"/>
+                  <unittitle>Bangkok, Thailand</unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">27</container>
+                  <container type="folder"/>
+                  <unittitle>Brazil - Koch-Weser, d.</unittitle>
+               </did>
+            </c02>
+            <c02 level="subseries">
+               <did>
+                  <unittitle>Denmark, <unitdate era="ce" calendar="gregorian">1950, n.d.</unitdate>
+                  </unittitle>
+               </did>
+               
+               <thead valign="bottom">
+                  <row>
+                     <entry morerows="0">Box</entry>
+                     <entry morerows="0">Folder</entry>
+                     <entry morerows="0">Contents</entry>
+                  </row>
+               </thead>
+               <c03>
+                  <did>
+                     <container type="box">27</container>
+                     <container type="folder"/>
+                     <unittitle>Miscellaneous health data</unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="box">27</container>
+                     <container type="folder"/>
+                     <unittitle>National Morbidity Study,  <unitdate era="ce" calendar="gregorian">1950</unitdate>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="box">27</container>
+                     <container type="folder"/>
+                     <unittitle>Ronne, G.</unittitle>
+                  </did>
+               </c03>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">27</container>
+                  <container type="folder"/>
+                  <unittitle>Egypt</unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">27</container>
+                  <container type="folder"/>
+                  <unittitle>England - Researchers in Ophthalmology</unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">27</container>
+                  <container type="folder"/>
+                  <unittitle>Greece</unittitle>
+               </did>
+            </c02>
+            <c02 level="subseries">
+               <did>
+                  <unittitle>Holland<unitdate era="ce" calendar="gregorian"/>
+                  </unittitle>
+               </did>
+               
+               <thead valign="bottom">
+                  <row>
+                     <entry morerows="0">Box</entry>
+                     <entry morerows="0">Folder</entry>
+                     <entry morerows="0">Contents</entry>
+                  </row>
+               </thead>
+               <c03>
+                  <did>
+                     <container type="box">27</container>
+                     <container type="folder"/>
+                     <unittitle>General correspondence</unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="box">27</container>
+                     <container type="folder"/>
+                     <unittitle>Flieringa, H.J.</unittitle>
+                  </did>
+               </c03>
+            </c02>
+            <c02 level="subseries">
+               <did>
+                  <unittitle>Hong Kong, <unitdate era="ce" calendar="gregorian"/>
+                  </unittitle>
+               </did>
+               
+               <thead valign="bottom">
+                  <row>
+                     <entry morerows="0">Box</entry>
+                     <entry morerows="0">Folder</entry>
+                     <entry morerows="0">Contents</entry>
+                  </row>
+               </thead>
+               <c03>
+                  <did>
+                     <container type="box">28</container>
+                     <container type="folder"/>
+                     <unittitle>Blindness survey</unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="box">28</container>
+                     <container type="folder"/>
+                     <unittitle>Correspondence re: Ulmer's trip</unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="box">28</container>
+                     <container type="folder"/>
+                     <unittitle>Ophthalmology research</unittitle>
+                  </did>
+               </c03>
+            </c02>
+            <c02 level="subseries">
+               <did>
+                  <unittitle>28, <unitdate era="ce" calendar="gregorian">India</unitdate>
+                  </unittitle>
+               </did>
+               
+               <thead valign="bottom">
+                  <row>
+                     <entry morerows="0">Box</entry>
+                     <entry morerows="0">Folder</entry>
+                     <entry morerows="0">Contents</entry>
+                  </row>
+               </thead>
+               <c03>
+                  <did>
+                     <container type="box">28</container>
+                     <container type="folder"/>
+                     <unittitle>Basu, P.K.</unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="box">28</container>
+                     <container type="folder"/>
+                     <unittitle>Bombay, Lion; Indian Lion</unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="box">28</container>
+                     <container type="folder"/>
+                     <unittitle>Clippings and articles</unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="box">28</container>
+                     <container type="folder"/>
+                     <unittitle>Clippings and notes</unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="box">28</container>
+                     <container type="folder"/>
+                     <unittitle>Commission on International Economic Growth - Conference on India and the U.S.,  <unitdate era="ce" calendar="gregorian">1959</unitdate>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="box">28</container>
+                     <container type="folder"/>
+                     <unittitle>Cooper, S.N.,  <unitdate era="ce" calendar="gregorian">1957-1964</unitdate>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="box">28</container>
+                     <container type="folder"/>
+                     <unittitle>Galbraith, J.K.,  <unitdate era="ce" calendar="gregorian"/>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="box">28</container>
+                     <container type="folder"/>
+                     <unittitle>Gerstein, A.</unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="box">28</container>
+                     <container type="folder"/>
+                     <unittitle>Krishna, N.,  <unitdate era="ce" calendar="gregorian">1958-1962</unitdate>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="box">28</container>
+                     <container type="folder"/>
+                     <unittitle>Lazarus, A.S.</unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="box">28</container>
+                     <container type="folder"/>
+                     <unittitle>Mohatta, B.S.</unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="box">28</container>
+                     <container type="folder"/>
+                     <unittitle>Monnier, D.C.</unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="box">28</container>
+                     <container type="folder"/>
+                     <unittitle>Nain, J.L.,  <unitdate era="ce" calendar="gregorian">1957-1961</unitdate>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="box">28</container>
+                     <container type="folder"/>
+                     <unittitle>Nehru, J.</unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="box">28</container>
+                     <container type="folder"/>
+                     <unittitle>Pandit, Y.K.C.</unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="box">28</container>
+                     <container type="folder"/>
+                     <unittitle>Rambo, V.C.</unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="box">28</container>
+                     <container type="folder"/>
+                     <unittitle>Schroff, M.S.</unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="box">28</container>
+                     <container type="folder"/>
+                     <unittitle>West, K.M.</unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="box">28</container>
+                     <container type="folder"/>
+                     <unittitle>Wood, C.T.</unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="box">28</container>
+                     <container type="folder"/>
+                     <unittitle>General Correspondence - A-D</unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="box">29</container>
+                     <container type="folder"/>
+                     <unittitle>General Correspondence - G-Y</unittitle>
+                  </did>
+               </c03>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">29</container>
+                  <container type="folder"/>
+                  <unittitle>International - France, Italy, Switzerland</unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">29</container>
+                  <container type="folder"/>
+                  <unittitle>International Cooperation Administration</unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">29</container>
+                  <container type="folder"/>
+                  <unittitle>International health - Miscellaneous data</unittitle>
+               </did>
+            </c02>
+            <c02 level="subseries">
+               <did>
+                  <unittitle>Israel, <unitdate era="ce" calendar="gregorian">1959-1964</unitdate>
+                  </unittitle>
+               </did>
+               
+               <thead valign="bottom">
+                  <row>
+                     <entry morerows="0">Box</entry>
+                     <entry morerows="0">Folder</entry>
+                     <entry morerows="0">Contents</entry>
+                  </row>
+               </thead>
+               <c03>
+                  <did>
+                     <container type="box">29</container>
+                     <container type="folder"/>
+                     <unittitle>Feigenbaum, A.</unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="box">29</container>
+                     <container type="folder"/>
+                     <unittitle>Kornbleuth, W.,  <unitdate era="ce" calendar="gregorian">1959-1964</unitdate>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="box">29</container>
+                     <container type="folder"/>
+                     <unittitle>Reprints and clippings re: eye research</unittitle>
+                  </did>
+               </c03>
+            </c02>
+            <c02 level="subseries">
+               <did>
+                  <unittitle>Japan, <unitdate era="ce" calendar="gregorian">1956-1960</unitdate>
+                  </unittitle>
+               </did>
+               
+               <thead valign="bottom">
+                  <row>
+                     <entry morerows="0">Box</entry>
+                     <entry morerows="0">Folder</entry>
+                     <entry morerows="0">Contents</entry>
+                  </row>
+               </thead>
+               <c03>
+                  <did>
+                     <container type="box">29</container>
+                     <container type="folder"/>
+                     <unittitle>Correspondence and miscellaneous</unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="box">29</container>
+                     <container type="folder"/>
+                     <unittitle>Inouye, M.</unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="box">29</container>
+                     <container type="folder"/>
+                     <unittitle>Nakajima, A.</unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="box">29</container>
+                     <container type="folder"/>
+                     <unittitle>Nakaizumi, Y.</unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="box">29</container>
+                     <container type="folder"/>
+                     <unittitle>Sato, T.,  <unitdate era="ce" calendar="gregorian">1956-1960</unitdate>
+                     </unittitle>
+                  </did>
+               </c03>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">29</container>
+                  <container type="folder"/>
+                  <unittitle>Lebanon</unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">29</container>
+                  <container type="folder"/>
+                  <unittitle>Mexico - Instituto Nacional de Oftalmologia</unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">29</container>
+                  <container type="folder"/>
+                  <unittitle>Norway</unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">29</container>
+                  <container type="folder"/>
+                  <unittitle>Researchers in foreign countries</unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">29</container>
+                  <container type="folder"/>
+                  <unittitle>Russia - Articles, clippings</unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">30</container>
+                  <container type="folder"/>
+                  <unittitle>Spain - Mier, L.</unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">30</container>
+                  <container type="folder"/>
+                  <unittitle>Sweden</unittitle>
+               </did>
+            </c02>
+         </c01>
+         <c01 level="series">
+            <did>
+               <unittitle>Congressional Papers, <unitdate era="ce" calendar="gregorian">1949-1969</unitdate>
+               </unittitle>
+            </did>
+            
+            <thead valign="bottom">
+               <row>
+                  <entry morerows="0">Box</entry>
+                  <entry morerows="0">Folder</entry>
+                  <entry morerows="0">Contents</entry>
+               </row>
+            </thead>
+            <c02>
+               <did>
+                  <container type="box">30</container>
+                  <container type="folder"/>
+                  <unittitle>Data re: establishment of Eye Institute</unittitle>
+               </did>
+            </c02>
+            <c02 level="subseries">
+               <did>
+                  <unittitle>House Correspondence<unitdate era="ce" calendar="gregorian"/>
+                  </unittitle>
+               </did>
+               
+               <thead valign="bottom">
+                  <row>
+                     <entry morerows="0">Box</entry>
+                     <entry morerows="0">Folder</entry>
+                     <entry morerows="0">Contents</entry>
+                  </row>
+               </thead>
+               <c03>
+                  <did>
+                     <container type="box">30</container>
+                     <container type="folder"/>
+                     <unittitle>General</unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="box">30</container>
+                     <container type="folder"/>
+                     <unittitle>Bolton, F.T.</unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="box">30</container>
+                     <container type="folder"/>
+                     <unittitle>Celler, E.</unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="box">30</container>
+                     <container type="folder"/>
+                     <unittitle>Elliott, C.</unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="box">30</container>
+                     <container type="folder"/>
+                     <unittitle>Fogarty, J.E.</unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="box">30</container>
+                     <container type="folder"/>
+                     <unittitle>Priest, P.</unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="box">30</container>
+                     <container type="folder"/>
+                     <unittitle>Young, S.M., <unitdate era="ce" calendar="gregorian">1949-1960</unitdate>
+                     </unittitle>
+                  </did>
+               </c03>
+            </c02>
+            <c02 level="subseries">
+               <did>
+                  <unittitle>Senate Correspondence, <unitdate era="ce" calendar="gregorian">1957-1968</unitdate>
+                  </unittitle>
+               </did>
+               
+               <thead valign="bottom">
+                  <row>
+                     <entry morerows="0">Box</entry>
+                     <entry morerows="0">Folder</entry>
+                     <entry morerows="0">Contents</entry>
+                  </row>
+               </thead>
+               <c03>
+                  <did>
+                     <container type="box">30</container>
+                     <container type="folder"/>
+                     <unittitle>General</unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="box">30</container>
+                     <container type="folder"/>
+                     <unittitle>Cooper, J.S.</unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="box">30</container>
+                     <container type="folder"/>
+                     <unittitle>Hill, L.,  <unitdate era="ce" calendar="gregorian">1958-1968</unitdate>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="box">30</container>
+                     <container type="folder"/>
+                     <unittitle>Kefauver, E.</unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="box">30</container>
+                     <container type="folder"/>
+                     <unittitle>Neuberger, R.L.,  <unitdate era="ce" calendar="gregorian">1957-1960</unitdate>
+                     </unittitle>
+                  </did>
+               </c03>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">30</container>
+                  <container type="folder"/>
+                  <unittitle>Related Correspondence - Quinn, L.C., Jr.,  <unitdate era="ce" calendar="gregorian">1957-1966</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">31</container>
+                  <container type="folder"/>
+                  <unittitle>Related correspondence - Quinn, L.C., Jr. - and miscellaneous,  <unitdate era="ce" calendar="gregorian">1967</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02 level="subseries">
+               <did>
+                  <unittitle>House Committee on Interstate and Foreign Commerce, <unitdate era="ce" calendar="gregorian">1949-1960</unitdate>
+                  </unittitle>
+               </did>
+               
+               <thead valign="bottom">
+                  <row>
+                     <entry morerows="0">Box</entry>
+                     <entry morerows="0">Folder</entry>
+                     <entry morerows="0">Contents</entry>
+                  </row>
+               </thead>
+               <c03>
+                  <did>
+                     <container type="box">31</container>
+                     <container type="folder"/>
+                     <unittitle>Correspodence,  <unitdate era="ce" calendar="gregorian">1949-1960</unitdate>
+                     </unittitle>
+                  </did>
+               </c03>
+               <c03>
+                  <did>
+                     <container type="box">31</container>
+                     <container type="folder"/>
+                     <unittitle>Statements re: Eye Institute</unittitle>
+                  </did>
+               </c03>
+               <c03 level="subseries">
+                  <did>
+                     <unittitle>Hearings, <unitdate era="ce" calendar="gregorian">1949-1955</unitdate>
+                     </unittitle>
+                  </did>
+                  
+                  <thead valign="bottom">
+                     <row>
+                        <entry morerows="0">Box</entry>
+                        <entry morerows="0">Folder</entry>
+                        <entry morerows="0">Contents</entry>
+                     </row>
+                  </thead>
+                  <c04>
+                     <did>
+                        <container type="box">31</container>
+                        <container type="folder"/>
+                        <unittitle>Mental Health Study Act of 1955, <unitdate era="ce" calendar="gregorian">1955</unitdate>
+                        </unittitle>
+                     </did>
+                  </c04>
+                  <c04>
+                     <did>
+                        <container type="box">31</container>
+                        <container type="folder"/>
+                        <unittitle>Construction of Medical Schools<unitdate era="ce" calendar="gregorian"/>
+                        </unittitle>
+                     </did>
+                  </c04>
+                  <c04>
+                     <did>
+                        <container type="box">31</container>
+                        <container type="folder"/>
+                        <unittitle>Health Inquiry, <unitdate era="ce" calendar="gregorian">1953</unitdate>
+                        </unittitle>
+                     </did>
+                  </c04>
+                  <c04>
+                     <did>
+                        <container type="box">31</container>
+                        <container type="folder"/>
+                        <unittitle>Health Plan, <unitdate era="ce" calendar="gregorian">1949</unitdate>
+                        </unittitle>
+                     </did>
+                  </c04>
+                  <c04>
+                     <did>
+                        <container type="box">31</container>
+                        <container type="folder"/>
+                        <unittitle>Research Facilities<unitdate era="ce" calendar="gregorian"/>
+                        </unittitle>
+                     </did>
+                  </c04>
+               </c03>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">32</container>
+                  <container type="folder"/>
+                  <unittitle>House Committee on Appropriations, Statements and Reports,  <unitdate era="ce" calendar="gregorian">1952-1967</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">33</container>
+                  <container type="folder"/>
+                  <unittitle>House Committee on Education and Labor.  Hearings on Scholarship and Loan Program,  <unitdate era="ce" calendar="gregorian">1958</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">33</container>
+                  <container type="folder"/>
+                  <unittitle>Senate Committee on Labor and Public Welfare.  Health Hearings and Reports</unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">33</container>
+                  <container type="folder"/>
+                  <unittitle>Public Laws re: health and research,  <unitdate era="ce" calendar="gregorian">1950-1965</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">34</container>
+                  <container type="folder"/>
+                  <unittitle>Senate Bills, acts, amendments,  <unitdate era="ce" calendar="gregorian">1949, 1957-1967</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">34</container>
+                  <container type="folder"/>
+                  <unittitle>House bills, acts, amendments,  <unitdate era="ce" calendar="gregorian">1949-1965</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">34</container>
+                  <container type="folder"/>
+                  <unittitle>Resolutions</unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">34</container>
+                  <container type="folder"/>
+                  <unittitle>Congressional Record - Miscellaneous excerpts</unittitle>
+               </did>
+            </c02>
+         </c01>
+         <c01 level="series">
+            <did>
+               <unittitle>Bound Volumes, <unitdate era="ce" calendar="gregorian">1948-1970</unitdate>
+               </unittitle>
+            </did>
+            
+            <thead valign="bottom">
+               <row>
+                  <entry morerows="0">Box</entry>
+                  <entry morerows="0">Folder</entry>
+                  <entry morerows="0">Contents</entry>
+               </row>
+            </thead>
+            <c02>
+               <did>
+                  <container type="box">Volumes</container>
+                  <container type="folder"/>
+                  <unittitle>Howe Laboratory of Ophthamology, Annual Reports,  <unitdate era="ce" calendar="gregorian">1948-1970</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">v.1-8</container>
+                  <container type="folder"/>
+                  <unittitle>Senate Committee on the Judiciary.  Subcommittee on Anti-trust and Monopoly.  Hearings, Parts 18-24, 26 on Administered Prices in the Drug Industry,  <unitdate era="ce" calendar="gregorian">1960</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">v.9-25</container>
+                  <container type="folder"/>
+                  <unittitle>Senate Committee on Apropriations.  Subcommittee Hearings on Labor-Health, Education, and Welfare Appropriations,  <unitdate era="ce" calendar="gregorian">1954, 1958-1967</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">v.26-29</container>
+                  <container type="folder"/>
+                  <unittitle>House Committee on Appropriation.  Subcommittee Hearings on Appropriations for the Labor Department and Federal Security Agency,  <unitdate era="ce" calendar="gregorian">1954-1955</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02>
+               <did>
+                  <container type="box">v.30-62</container>
+                  <container type="folder"/>
+                  <unittitle>House Committee on Appropriations.  Subcommittee Hearings on Appropriations for the Departments of Labor and Health, Education, and Welfare,  <unitdate era="ce" calendar="gregorian">1957-1968</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+         </c01>
+      </dsc>
+
+   </archdesc>
+</ead>

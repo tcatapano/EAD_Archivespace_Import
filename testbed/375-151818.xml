@@ -1,0 +1,577 @@
+<?xml version="1.0" standalone="no" ?>
+<?xml-stylesheet type="text/xsl" href="./styles/gwuead_2002.xsl" ?>
+<?xml-stylesheet type="text/xsl" href="./styles/ead.xsl"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "./dtds2002/ead.dtd" [
+
+<!ENTITY % xmlchars SYSTEM "./entities/xmlchars.ent">
+<!ENTITY gwuaddr SYSTEM "./entities/gwuaddr.xml">
+<!ENTITY gwucpyrt SYSTEM "./entities/gwucpyrt.xml">    
+
+%xmlchars;
+]>
+<ead>
+
+<eadheader langencoding="iso639-2b" scriptencoding="iso15924" relatedencoding="DC" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601">
+<eadid countrycode="us" mainagencycode="DcWaGWG">ms2118</eadid>
+<filedesc>
+<titlestmt>
+
+	<titleproper encodinganalog="Title.titleproper">Guide to the Constance M. Green papers, <date>Undated</date></titleproper>
+        <author encodinganalog="Creator.author">Special Collections Research Center, The George Washington University</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher encodinganalog="Publisher">Special Collections Research Center, The Gelman Library, The George Washington University</publisher>
+        <date encodinganalog="Date.publication" type="publication" normal="2006">2006</date>
+        <address>
+          <addressline> 2130 H. St. NW, Washington, D.C. 20052</addressline>
+              <addressline>Phone: 202-994-7549</addressline>
+     <addressline>Email: speccoll@gwu.edu</addressline>
+        </address>
+      </publicationstmt>
+ </filedesc>
+ <profiledesc>
+<creation encodinganalog="Description.creation">Machine-readable finding aid derived from Re:discovery database program and converted into xml; Code template by Archives and Information Associates (http://archivesandinformation.com), Alexandria, Virginia 
+. <date encodinganalog="Date.available" normal="2005">2005</date>
+</creation>
+
+<langusage>Finding aid written in <language encodinganalog="language">English</language></langusage>
+</profiledesc>
+
+
+  </eadheader>
+  <frontmatter>
+      <titlepage>
+          <titleproper encodinganalog="title">Guide to the Constance M. Green Papers, <date>Undated</date></titleproper>
+      <num>MS2118</num>
+      <publisher encodinganalog="publisher">Special Collections Research Center, The Gelman Library, The George Washington University</publisher>
+	<address>
+	<addressline>Washington, D.C.</addressline>
+	</address>
+<list type="deflist">
+<defitem>
+<label>Processed by: </label>
+<item>Special Collections Staff, <date>2006</date></item>
+</defitem>
+<defitem>
+ <label>Encoded by: </label>
+<item>Jennifer King, <date>2006</date></item>
+ </defitem>
+ </list><p>copyright 2006 The George Washington University. All rights reserved.</p>
+  </titlepage>
+  </frontmatter>
+<archdesc level="collection" type="inventory" relatedencoding="DC">
+    <did id="d_summary">
+<head>Descriptive Summary</head>
+	<origination label="Creator">
+  <persname>Green, Constance M.</persname>
+	</origination>
+<unittitle encodinganalog="Title" label="Title">Constance M. Green papers, <unitdate type="inclusive" normal="" encodinganalog="Coverage.temporal">undated</unitdate></unittitle>
+          <unitid countrycode="us" repositorycode="DcWaGWG" encodinganalog="Source.collectionnumber" label="Catalog number">MS2118</unitid>
+<physdesc><extent encodinganalog="Format.extent" label="Extent">1 Linear feet</extent></physdesc>
+ <abstract encodinganalog="Abstract">Collection primarily contains notes and early drafts of Constance Green's writings, and also includes pamphlets, bibliographies, and classroom materials in the area of urban and negro studies.
+</abstract>
+ <repository encodinganalog="Source.repository" label="Repository">
+            <corpname>The George Washington University, The Gelman Library, Special Collections Research Center</corpname>
+<address><addressline><lb />2130 H. St. NW<lb /></addressline>
+<addressline>Washington, D.C. 20052<lb /></addressline>
+<addressline>Phone: 202-994-7549<lb /></addressline>
+<addressline>Email: <extptr href="mailto:speccoll@gwu.edu" title="speccoll@gwu.edu"></extptr></addressline></address>
+</repository>
+
+      <langmaterial label="Language of Materials">English</langmaterial>
+
+      </did>
+<descgrp encodinganalog="Description.descgrp" type="admininfo">
+<head>Information for Users</head>
+<prefercite encodinganalog="Description.prefercite">
+            <head>Preferred citation</head>
+            <p>Constance M. Green Papers, Special Collections Research Center, The George Washington University.</p>
+      </prefercite>
+      	 	<accessrestrict encodinganalog="Rights.accessrestrict">
+      	 	<head>Restrictions on Access</head>
+      	 	<p>Some records may be restricted.</p>
+      	 	</accessrestrict>
+<acqinfo encodinganalog="541">
+<head>Acquisition Information</head>
+<p>[required]</p>
+</acqinfo>
+      	 	<userestrict encodinganalog="Rights.userestrict ">
+      	 	<head>Restrictions on Use</head>
+      	 	<p>Some material may be copyrighted or restricted. It is the patron's obligation to determine and satisfy copyright or other case restrictions when publishing or otherwise distributing materials found in the collections.</p>
+</userestrict>
+   </descgrp>
+<bioghist encodinganalog="Description.bioghist">
+<head>Historical or Biographical Note</head>
+<p>Constance McLaughlin Green (1897-1975) was an accomplished historian and author of many scholarly books about urban history in the United States. Green was director of the Washington History Project at American University and an active member of the Committee of 100 on the Federal City. She won the 1963 Pulitzer Prize in history for the first volume of her study of Washington, D.C., "Washington: Village and Capital, 1800-1878." </p>
+</bioghist>
+<scopecontent><scopecontent encodinganalog="Description.scopecontent">
+<head>Collection Scope and Content</head>
+<p>This collection primarily contains notes and early drafts of Green's writings, and also includes pamphlets, bibliographies, and classroom materials in the area of urban and negro studies.</p></scopecontent>
+<arrangement encodinganalog="351a">
+<head>Collection Organization</head>
+<p>Organized in five series: Notes to "The Secret City," Pamphlets and bibliographies on urban and negro studies, Class materials and student essays from the course "Negro Life in American Cities since 1860," Typescripts of later writings including "The Church on Lafayette Square," and Early drafts of "Washington, Capital City, 1879-1950."</p>
+</arrangement>
+	</scopecontent>
+<controlaccess>
+<head>Subject Terms</head>
+<controlaccess><head>Individuals</head>
+<persname encodinganalog="Subject.personalnames" rules="aacr2">Green, Constance McLaughlin</persname>
+</controlaccess>
+ <controlaccess>
+<head>Corporate Entities</head>
+<corpname encodinganalog="Subject.corporatenames" rules="aacr2"></corpname>
+</controlaccess>
+<controlaccess>
+<head>Topics</head>
+<subject encodinganalog="Subject" source="lcsh">Constance M. Green collection</subject>
+<subject encodinganalog="Subject" source="lcsh">
+Washington (D.C.) history</subject>
+<subject encodinganalog="Subject" source="lcsh">
+Cities and towns Study and teaching</subject>
+<subject encodinganalog="Subject" source="lcsh">
+Black studies</subject>
+<subject encodinganalog="Subject" source="lcsh">
+African Americans Study and teaching</subject>
+</controlaccess>
+<controlaccess>
+<head>Geographic Locations</head>
+<geogname encodinganalog="Coverage.spatial">Washington (D.C.)</geogname>
+</controlaccess>
+ </controlaccess>
+<dsc type="combined">
+<head>Detailed Description of the Records</head>
+<c01 level="series" id="ms2118_001">
+  <did>
+ <unitid encodinganalog="Identifier.SERid">MS2118 Series 1</unitid>
+ <unittitle encodinganalog="Title.series">Notes to "The Secret City", <unitdate encodinganalog="Date.series">undated</unitdate></unittitle>
+ <physdesc encodinganalog="Format.extentSER">0.25 Linear feet</physdesc>
+  </did>
+ <scopecontent encodinganalog="Description.scopecontentSER">
+ <p>This series contains notes taken by Constance Green in the preparation of "The Secret City."</p>
+  </scopecontent>
+
+<c02 level="file">
+<did>
+<container label="Box" type="Box">1</container>
+<unittitle encodinganalog="Title.folder">Notes to "The Secret City", <unitdate encodinganalog="Date.folder" type="inclusive">undated</unitdate></unittitle>
+<note encodinganalog="Description.noteF"><p></p></note>
+	</did>
+	</c02>
+
+<c02 level="file">
+<did>
+<container label="Box" type="Box">1</container>
+<container label="Folder" type="Folder">1</container>
+<unittitle encodinganalog="Title.folder">Bibliographical information and notes taken from The History of The Bethel Literary and Historical Association and Negro Thought in America 1880-1915, <unitdate encodinganalog="Date.folder" type="inclusive">undated</unitdate></unittitle>
+<note encodinganalog="Description.noteF"><p></p></note>
+	</did>
+	</c02>
+
+<c02 level="file">
+<did>
+<container label="Box" type="Box">1</container>
+<container label="Folder" type="Folder">2</container>
+<unittitle encodinganalog="Title.folder">"Red, White and Black: Minority in America", <unitdate encodinganalog="Date.folder" type="inclusive">1969</unitdate></unittitle>
+<note encodinganalog="Description.noteF"><p>a selected list of bibliographies published in 1969 by the American Library Association Conference.</p></note>
+	</did>
+	</c02>
+
+<c02 level="file">
+<did>
+<container label="Box" type="Box">1</container>
+<container label="Folder" type="Folder">3</container>
+<unittitle encodinganalog="Title.folder">Notes on the integration of D.C. Fire Departments, <unitdate encodinganalog="Date.folder" type="inclusive">undated</unitdate></unittitle>
+<note encodinganalog="Description.noteF"><p>from 1949-1962, used on pages 316-18 of Secret City, largely illegible.</p></note>
+	</did>
+	</c02>
+
+<c02 level="file">
+<did>
+<container label="Box" type="Box">1</container>
+<container label="Folder" type="Folder">4</container>
+<unittitle encodinganalog="Title.folder">Preliminary chronological notes concerning the governments role in racial relations and related issues, <unitdate encodinganalog="Date.folder" type="inclusive">undated</unitdate></unittitle>
+<note encodinganalog="Description.noteF"><p></p></note>
+	</did>
+	</c02>
+
+<c02 level="file">
+<did>
+<container label="Box" type="Box">1</container>
+<container label="Folder" type="Folder">5</container>
+<unittitle encodinganalog="Title.folder">Primarily notes concerning court records and trials, infringements of racial' laws, 1860's and 70's, <unitdate encodinganalog="Date.folder" type="inclusive">undated</unitdate></unittitle>
+<note encodinganalog="Description.noteF"><p>some census records and lists of courses and workshops on Minority Studies in the 1930's and 40's.</p></note>
+	</did>
+	</c02>
+
+<c02 level="file">
+<did>
+<container label="Box" type="Box">1</container>
+<container label="Folder" type="Folder">6</container>
+<unittitle encodinganalog="Title.folder">Notes about legislation and court cases concerning school budceting, integration, and related topics, <unitdate encodinganalog="Date.folder" type="inclusive">undated</unitdate></unittitle>
+<note encodinganalog="Description.noteF"><p>faculty, percentage of Negro students and teachers, and related topics.</p></note>
+	</did>
+	</c02>
+
+<c02 level="file">
+<did>
+<container label="Box" type="Box">1</container>
+<container label="Folder" type="Folder">7</container>
+<unittitle encodinganalog="Title.folder">Notes about Boy's Clubs, Fraternities, Parks and Playgrounds, and other recreational facilities, <unitdate encodinganalog="Date.folder" type="inclusive">undated</unitdate></unittitle>
+<note encodinganalog="Description.noteF"><p>in the district. Cryptic and often seemingly incoherent.</p></note>
+	</did>
+	</c02>
+
+<c02 level="file">
+<did>
+<container label="Box" type="Box">1</container>
+<container label="Folder" type="Folder">8</container>
+<unittitle encodinganalog="Title.folder">Notes taken at the Library of Congress on various subjects, <unitdate encodinganalog="Date.folder" type="inclusive">undated</unitdate></unittitle>
+<note encodinganalog="Description.noteF"><p>Mostly taken on scrap paper and difficult to decipher. These materials were not originally grouped together by the author.</p></note>
+	</did>
+	</c02>
+
+<c02 level="file">
+<did>
+<container label="Box" type="Box">1</container>
+<container label="Folder" type="Folder">9</container>
+<unittitle encodinganalog="Title.folder">Corrections of the typescript of a chapter entitled "Disillusionment and Readjustments", <unitdate encodinganalog="Date.folder" type="inclusive">undated</unitdate></unittitle>
+<note encodinganalog="Description.noteF"><p>includes scattered and illegible personal notes.</p></note>
+	</did>
+	</c02>
+
+<c02 level="file">
+<did>
+<container label="Box" type="Box">1</container>
+<container label="Folder" type="Folder">10</container>
+<unittitle encodinganalog="Title.folder">Bibliography of Civil Rights and the Truman Administration, <unitdate encodinganalog="Date.folder" type="inclusive">02/1968</unitdate></unittitle>
+<note encodinganalog="Description.noteF"><p>from the Harry S. Truman Library in Independence, Missouri. Feb. 1968.</p></note>
+	</did>
+	</c02>
+
+<c02 level="file">
+<did>
+<container label="Box" type="Box">1</container>
+<container label="Folder" type="Folder">11</container>
+<unittitle encodinganalog="Title.folder">Notes police court records and from other works., <unitdate encodinganalog="Date.folder" type="inclusive">undated</unitdate></unittitle>
+<note encodinganalog="Description.noteF"><p></p></note>
+	</did>
+	</c02>
+
+<c02 level="file">
+<did>
+<container label="Box" type="Box">1</container>
+<container label="Folder" type="Folder">12</container>
+<unittitle encodinganalog="Title.folder">Notes concerning schooling in the district with related court cases., <unitdate encodinganalog="Date.folder" type="inclusive">undated</unitdate></unittitle>
+<note encodinganalog="Description.noteF"><p></p></note>
+	</did>
+	</c02>
+
+<c02 level="file">
+<did>
+<container label="Box" type="Box">1</container>
+<container label="Folder" type="Folder">13</container>
+<unittitle encodinganalog="Title.folder">Photocopied type-text of "Summary of an Era", <unitdate encodinganalog="Date.folder" type="inclusive">undated</unitdate></unittitle>
+<note encodinganalog="Description.noteF"><p>dealing with turn of the century Washington. Some hand¬written corrections. Authorship unknown.</p></note>
+	</did>
+	</c02>
+
+<c02 level="file">
+<did>
+<container label="Box" type="Box">1</container>
+<container label="Folder" type="Folder">14</container>
+<unittitle encodinganalog="Title.folder">Photocopied typescript of "The Enforcement of the Civil Rights Act of 1875" by John Hope Franklin, <unitdate encodinganalog="Date.folder" type="inclusive">1966</unitdate></unittitle>
+<note encodinganalog="Description.noteF"><p>December 1964. 26 pages with 5 pages of notes. (published in AHA 1966)</p></note>
+	</did>
+</c02>
+	</c01>
+<c01 level="series" id="ms2118_002">
+  <did>
+ <unitid encodinganalog="Identifier.SERid">MS2118 Series 2</unitid>
+ <unittitle encodinganalog="Title.series">Pamphlets and bibliographies on urban and negro studies, <unitdate encodinganalog="Date.series">undated</unitdate></unittitle>
+ <physdesc encodinganalog="Format.extentSER">0.25 Linear feet</physdesc>
+  </did>
+ <scopecontent encodinganalog="Description.scopecontentSER">
+ <p>This series contains pamphlets, essays, and bibliographies in the area of urban and negro studies.</p>
+  </scopecontent>
+
+<c02 level="file">
+<did>
+<container label="Box" type="Box">1</container>
+<unittitle encodinganalog="Title.folder">Pamphlets and Bibliographies: Urban and Negro Studies, <unitdate encodinganalog="Date.folder" type="inclusive">undated</unitdate></unittitle>
+<note encodinganalog="Description.noteF"><p></p></note>
+	</did>
+	</c02>
+
+<c02 level="file">
+<did>
+<container label="Box" type="Box">1</container>
+<container label="Folder" type="Folder">1</container>
+<unittitle encodinganalog="Title.folder">"Black Studies" Myths and Realities, A. Philip Randolph Educational Fund, <unitdate encodinganalog="Date.folder" type="inclusive">1969</unitdate></unittitle>
+<note encodinganalog="Description.noteF"><p>September 1969. Including two loose newspaper articles: "Black Students Wont Yield" November 23, 1969 by Benjamin Fine. "For Good Schools Try Live Politics" by Richardson Dilworth. Both of unknown source.</p></note>
+	</did>
+	</c02>
+
+<c02 level="file">
+<did>
+<container label="Box" type="Box">1</container>
+<container label="Folder" type="Folder">2</container>
+<unittitle encodinganalog="Title.folder">"Organization of American Historians Sixtieth Annual N.eeting.", <unitdate encodinganalog="Date.folder" type="inclusive">04/1967</unitdate></unittitle>
+<note encodinganalog="Description.noteF"><p>Chicago, Ill. April 27-29, 1967.</p></note>
+	</did>
+	</c02>
+
+<c02 level="file">
+<did>
+<container label="Box" type="Box">1</container>
+<container label="Folder" type="Folder">3</container>
+<unittitle encodinganalog="Title.folder">Map of D.C. Area showing the spread of Negroes, <unitdate encodinganalog="Date.folder" type="inclusive">01/10/1964</unitdate></unittitle>
+<note encodinganalog="Description.noteF"><p>who moved into previously all white areas- in an attempt to create equal housing opportunities. Metropolitain Washington Housing Program, American Friends Service Committee, Inc. October 1, 1964</p></note>
+	</did>
+	</c02>
+
+<c02 level="file">
+<did>
+<container label="Box" type="Box">1</container>
+<container label="Folder" type="Folder">4</container>
+<unittitle encodinganalog="Title.folder">The Arthur and Elizabeth Schlesinger Library on the history of women in America 1966-1968, <unitdate encodinganalog="Date.folder" type="inclusive">undated</unitdate></unittitle>
+<note encodinganalog="Description.noteF"><p>(Radcliffe College)</p></note>
+	</did>
+	</c02>
+
+<c02 level="file">
+<did>
+<container label="Box" type="Box">1</container>
+<container label="Folder" type="Folder">5</container>
+<unittitle encodinganalog="Title.folder">Three Essays by Bayard Rustin, <unitdate encodinganalog="Date.folder" type="inclusive">09/1969</unitdate></unittitle>
+<note encodinganalog="Description.noteF"><p>Myths of the Black Revolt, The Role of the Negro Middle Class, The Ballot Box and Union Card. A. Philip Randolph Institute, September 1969.</p></note>
+	</did>
+	</c02>
+
+<c02 level="file">
+<did>
+<container label="Box" type="Box">1</container>
+<container label="Folder" type="Folder">6</container>
+<unittitle encodinganalog="Title.folder">"Separatism of Integration- Which Way for America?" a dialogue by Robert S. Brown and Bayard Rustin, <unitdate encodinganalog="Date.folder" type="inclusive">10/1968</unitdate></unittitle>
+<note encodinganalog="Description.noteF"><p>with an introduction by john A. Morsell. A. Philip Randolph Educational Fund, October 1968.</p></note>
+	</did>
+	</c02>
+
+<c02 level="file">
+<did>
+<container label="Box" type="Box">1</container>
+<container label="Folder" type="Folder">7</container>
+<unittitle encodinganalog="Title.folder">"Our Nation's Capital: The City and The Freeway" A symposium, <unitdate encodinganalog="Date.folder" type="inclusive">05/23/1965</unitdate></unittitle>
+<note encodinganalog="Description.noteF"><p>May 23, 1965, State Department Auditorium, Wash. D.C. by the Committee on Urban Conservation. Mrs. Green was a participant and her remarks are recorded.</p></note>
+	</did>
+	</c02>
+
+<c02 level="file">
+<did>
+<container label="Box" type="Box">1</container>
+<container label="Folder" type="Folder">8</container>
+<unittitle encodinganalog="Title.folder">"The Complex Web, Problems and Prospects of the Contemporary Urban Scene", <unitdate encodinganalog="Date.folder" type="inclusive">1968-1969</unitdate></unittitle>
+<note encodinganalog="Description.noteF"><p>a list of Praeger books on Urban Affairs. Winter 1968-69.</p></note>
+	</did>
+	</c02>
+
+<c02 level="file">
+<did>
+<container label="Box" type="Box">1</container>
+<container label="Folder" type="Folder">9</container>
+<unittitle encodinganalog="Title.folder">"The City- A Bibliography of Current Classical Classical Readings", <unitdate encodinganalog="Date.folder" type="inclusive">1965</unitdate></unittitle>
+<note encodinganalog="Description.noteF"><p>2 pages. The Rise of Urban America by Mrs. Green is under fined in red. N.Y., Harper and Row, 1965.</p></note>
+	</did>
+	</c02>
+
+<c02 level="file">
+<did>
+<container label="Box" type="Box">1</container>
+<container label="Folder" type="Folder">10</container>
+<unittitle encodinganalog="Title.folder">"Urban History Group" (Newsletter), <unitdate encodinganalog="Date.folder" type="inclusive">04/1966</unitdate></unittitle>
+<note encodinganalog="Description.noteF"><p>Charles N. Glaab, editor. #21 April 1966. Mostly bibliographical material.</p></note>
+	</did>
+	</c02>
+
+<c02 level="file">
+<did>
+<container label="Box" type="Box">1</container>
+<container label="Folder" type="Folder">11</container>
+<unittitle encodinganalog="Title.folder">"Report of the Institute on Minority Groups in an Urban Society", <unitdate encodinganalog="Date.folder" type="inclusive">08/1968</unitdate></unittitle>
+<note encodinganalog="Description.noteF"><p>August 5-9, 1968. Montgomery County Public Schools. Rockville, Maryland.</p></note>
+	</did>
+	</c02>
+
+<c02 level="file">
+<did>
+<container label="Box" type="Box">1</container>
+<container label="Folder" type="Folder">12</container>
+<unittitle encodinganalog="Title.folder">"Negro History and Literature" a selected bibliography, <unitdate encodinganalog="Date.folder" type="inclusive">12/1968</unitdate></unittitle>
+<note encodinganalog="Description.noteF"><p>St. Clair Drake, professor of sociology at Roosevelt U., Chicago. National Federation of Settlements and Neighborhood Centers. December 1968.</p></note>
+	</did>
+	</c02>
+
+<c02 level="file">
+<did>
+<container label="Box" type="Box">1</container>
+<container label="Folder" type="Folder">13</container>
+<unittitle encodinganalog="Title.folder">"1972 Annual Report" Planned Parenthood of Metropolitain 6 Washington, <unitdate encodinganalog="Date.folder" type="inclusive">1972</unitdate></unittitle>
+<note encodinganalog="Description.noteF"><p>Mailed to Mrs. Green.</p></note>
+	</did>
+</c02>
+	</c01>
+<c01 level="series" id="ms2118_003">
+  <did>
+ <unitid encodinganalog="Identifier.SERid">MS2118 Series 3</unitid>
+ <unittitle encodinganalog="Title.series">Class materials and student essays from the course "Negro Life in American Cities since 1860", <unitdate encodinganalog="Date.series">1969</unitdate></unittitle>
+ <physdesc encodinganalog="Format.extentSER">0.25 Linear feet</physdesc>
+  </did>
+ <scopecontent encodinganalog="Description.scopecontentSER">
+ <p>This series contains notes, bibliographical material, and student essays from the class "Negro Life in American Cities Since 1860," taught by Constance Green at the George Washington University in the summer of 1969.</p>
+  </scopecontent>
+
+<c02 level="file">
+<did>
+<container label="Box" type="Box">1</container>
+<unittitle encodinganalog="Title.folder">"Negro Life in American Cities Since 1860", <unitdate encodinganalog="Date.folder" type="inclusive">undated</unitdate></unittitle>
+<note encodinganalog="Description.noteF"><p></p></note>
+	</did>
+	</c02>
+
+<c02 level="file">
+<did>
+<container label="Box" type="Box">1</container>
+<container label="Folder" type="Folder">1</container>
+<unittitle encodinganalog="Title.folder">"The Urban Negro American In The 20th Century" and class discussion notes., <unitdate encodinganalog="Date.folder" type="inclusive">undated</unitdate></unittitle>
+<note encodinganalog="Description.noteF"><p>A survey of sources. Bibliographical material on diverse topics within the subject. Organization and comments of unknown authorship.</p></note>
+	</did>
+	</c02>
+
+<c02 level="file">
+<did>
+<container label="Box" type="Box">1</container>
+<container label="Folder" type="Folder">2</container>
+<unittitle encodinganalog="Title.folder">Students Essays. 14, including grades given., <unitdate encodinganalog="Date.folder" type="inclusive">undated</unitdate></unittitle>
+<note encodinganalog="Description.noteF"><p></p></note>
+	</did>
+</c02>
+	</c01>
+<c01 level="series" id="ms2118_004">
+  <did>
+ <unitid encodinganalog="Identifier.SERid">MS2118 Series 4</unitid>
+ <unittitle encodinganalog="Title.series">Typescripts of later writings including "The Church on Lafayette Square", <unitdate encodinganalog="Date.series">undated</unitdate></unittitle>
+ <physdesc encodinganalog="Format.extentSER">0.25 Linear feet</physdesc>
+  </did>
+ <scopecontent encodinganalog="Description.scopecontentSER">
+ <p>This series contains typescripts of an essay titled "Urbanization, Technology, and the Historian" and a book titled "The Church on Lafayette Square: A History of St. John's Church, Washington, D.C.," both by Constance Green.</p>
+  </scopecontent>
+
+<c02 level="file">
+<did>
+<container label="Box" type="Box">1</container>
+<unittitle encodinganalog="Title.folder">Typescripts of Late Writings, <unitdate encodinganalog="Date.folder" type="inclusive">undated</unitdate></unittitle>
+<note encodinganalog="Description.noteF"><p></p></note>
+	</did>
+	</c02>
+
+<c02 level="file">
+<did>
+<container label="Box" type="Box">1</container>
+<container label="Folder" type="Folder">1</container>
+<unittitle encodinganalog="Title.folder">"Urbanization, Technology anf The Historian" typescript, <unitdate encodinganalog="Date.folder" type="inclusive">undated</unitdate></unittitle>
+<note encodinganalog="Description.noteF"><p>This paper focusus on the historian's role in evaluating and researching the process of city-building,and its connection with the growth of technology. She discusses the state of research in the field of urban evolution as it was in the 1960's, and the approaches of several historians. Valuable insight into the needs of further study is given, along with extensive notes and bibliographical material.</p></note>
+	</did>
+	</c02>
+
+<c02 level="file">
+<did>
+<container label="Box" type="Box">1</container>
+<container label="Folder" type="Folder">2</container>
+<unittitle encodinganalog="Title.folder">Typescript, The Church on Lafayette Square: A History of St.John's Church, Wash.,D.C., <unitdate encodinganalog="Date.folder" type="inclusive">undated</unitdate></unittitle>
+<note encodinganalog="Description.noteF"><p>incomplete typescript by Constance McLaughlin Green.</p></note>
+	</did>
+</c02>
+	</c01>
+<c01 level="series" id="ms2118_005">
+  <did>
+ <unitid encodinganalog="Identifier.SERid">MS2118 Series 5</unitid>
+ <unittitle encodinganalog="Title.series">Early drafts of "Washington, Capital City, 1879-1950", <unitdate encodinganalog="Date.series">undated</unitdate></unittitle>
+ <physdesc encodinganalog="Format.extentSER">0.25 Linear feet</physdesc>
+  </did>
+ <scopecontent encodinganalog="Description.scopecontentSER">
+ <p>This series contains early drafts of what would become chapters 7, 8, 9, 15, 20, and unmarked chapters in "Washington, Capital City, 1879-1950," by Constance Green.</p>
+  </scopecontent>
+
+<c02 level="file">
+<did>
+<container label="Box" type="Box">2</container>
+<unittitle encodinganalog="Title.folder">"Washington, Capital City, 1879 - 1950," Early Drafts with copies and corrections., <unitdate encodinganalog="Date.folder" type="inclusive">undated</unitdate></unittitle>
+<note encodinganalog="Description.noteF"><p></p></note>
+	</did>
+	</c02>
+
+<c02 level="file">
+<did>
+<container label="Box" type="Box">2</container>
+<container label="Folder" type="Folder">1</container>
+<unittitle encodinganalog="Title.folder">Drafts of Chapter 7, "Washington, Capital City, 1879-1950", <unitdate encodinganalog="Date.folder" type="inclusive">undated</unitdate></unittitle>
+<note encodinganalog="Description.noteF"><p>early draughts here marked Chapter 16.</p></note>
+	</did>
+	</c02>
+
+<c02 level="file">
+<did>
+<container label="Box" type="Box">2</container>
+<container label="Folder" type="Folder">2</container>
+<unittitle encodinganalog="Title.folder">Drafts of Chapter 8, "Washington, Capital City, 1879-1950", <unitdate encodinganalog="Date.folder" type="inclusive">undated</unitdate></unittitle>
+<note encodinganalog="Description.noteF"><p></p></note>
+	</did>
+	</c02>
+
+<c02 level="file">
+<did>
+<container label="Box" type="Box">2</container>
+<container label="Folder" type="Folder">3</container>
+<unittitle encodinganalog="Title.folder">Draft, Part III, "From Uncertainty to Complaceny, 1878 - 1817", Chapter XI, <unitdate encodinganalog="Date.folder" type="inclusive">undated</unitdate></unittitle>
+<note encodinganalog="Description.noteF"><p></p></note>
+	</did>
+	</c02>
+
+<c02 level="file">
+<did>
+<container label="Box" type="Box">2</container>
+<container label="Folder" type="Folder">4</container>
+<unittitle encodinganalog="Title.folder">Chapter 9, Draft, <unitdate encodinganalog="Date.folder" type="inclusive">undated</unitdate></unittitle>
+<note encodinganalog="Description.noteF"><p></p></note>
+	</did>
+	</c02>
+
+<c02 level="file">
+<did>
+<container label="Box" type="Box">2</container>
+<container label="Folder" type="Folder">5</container>
+<unittitle encodinganalog="Title.folder">Unknown chapter, Capital City, <unitdate encodinganalog="Date.folder" type="inclusive">undated</unitdate></unittitle>
+<note encodinganalog="Description.noteF"><p></p></note>
+	</did>
+	</c02>
+
+<c02 level="file">
+<did>
+<container label="Box" type="Box">2</container>
+<container label="Folder" type="Folder">6</container>
+<unittitle encodinganalog="Title.folder">Chapter 15., <unitdate encodinganalog="Date.folder" type="inclusive">undated</unitdate></unittitle>
+<note encodinganalog="Description.noteF"><p></p></note>
+	</did>
+	</c02>
+
+<c02 level="file">
+<did>
+<container label="Box" type="Box">2</container>
+<container label="Folder" type="Folder">7</container>
+<unittitle encodinganalog="Title.folder">Chapter 20., <unitdate encodinganalog="Date.folder" type="inclusive">undated</unitdate></unittitle>
+<note encodinganalog="Description.noteF"><p></p></note>
+	</did>
+</c02>
+	</c01>
+</dsc>
+  </archdesc>
+</ead>

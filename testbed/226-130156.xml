@@ -1,0 +1,1772 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+<eadheader langencoding="iso639-2b" scriptencoding="iso15924" relatedencoding="dc" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" id="a0">
+<eadid countrycode="us" mainagencycode="wau-ar" url="http://nwda.orbiscascade.org/ark:/80444/xv11898" encodinganalog="identifier" identifier="80444/xv11898">RotschyEdgar3298.xml</eadid>
+<filedesc>
+<titlestmt>
+<titleproper encodinganalog="title">Guide to the Edgar Rotschy Papers 
+			 <date encodinganalog="date" era="ce" calendar="gregorian">1892-1983</date></titleproper>
+<titleproper type="filing" altrender="nodisplay">Rotschy (Edgar)
+			 Papers</titleproper>
+<author encodinganalog="creator">Finding aid prepared by John
+			 Gibbs</author>
+<sponsor encodinganalog="contributor">Funding for encoding this finding
+			 aid was partially provided through a grant awarded by the National Endowment
+			 for the Humanities.</sponsor>
+</titlestmt>
+<publicationstmt>
+<publisher encodinganalog="publisher">Special Collections, University
+			 of Washington Libraries</publisher>
+<date normal="2007" encodinganalog="date">©
+			 2007</date>
+<address><addressline>Seattle, WA 98195</addressline></address>
+</publicationstmt>
+</filedesc>
+<profiledesc>
+<creation>Finding aid encoded by John Gibbs 
+		  <date era="ce" calendar="gregorian">2006</date></creation>
+<langusage>Finding aid written in 
+		  <language langcode="eng" encodinganalog="language" scriptcode="latn">English</language>.</langusage>
+<descrules>Finding aid based
+		on DACS ( 
+		<title render="italic" linktype="simple">Describing Archives: A Content
+		  Standard</title>).</descrules>
+</profiledesc>
+</eadheader>
+<archdesc level="collection" type="inventory" relatedencoding="marc21">
+<did id="a1">
+<repository><corpname encodinganalog="852$a">University of Washington Libraries 
+			 <subarea encodinganalog="852$b">Special Collections</subarea></corpname><address><addressline>Box 352900</addressline><addressline>Seattle, WA 98195-2900</addressline></address></repository>
+<unitid encodinganalog="9455_$a" countrycode="us" repositorycode="wau-ar" type="mss">3298</unitid>
+<unitid countrycode="us" repositorycode="wau-ar" type="accession">3298-005</unitid>
+<origination>
+<persname encodinganalog="100" role="creator">Rotschy, Edgar</persname>
+</origination>
+<unittitle encodinganalog="245$a" type="collection">Edgar Rotschy papers
+		  </unittitle>
+<unitdate type="inclusive" encodinganalog="245$f" normal="1892/1983" era="ce" calendar="gregorian">1892-1983</unitdate>
+<unitdate type="bulk" encodinganalog="245$g" normal="1922/1953" era="ce" calendar="gregorian">1922-1953</unitdate>
+<physdesc><extent encodinganalog="300$a">1.05 cubic feet</extent><extent encodinganalog="300$a">3 boxes</extent></physdesc>
+<daogrp linktype="extended"><daodesc><p>Edgar Rotschy, 1918. </p></daodesc><resource label="start" linktype="resource"></resource><!--In <daoloc>, enter into "href" attribute the full URL of the image file. 
+Eg,  http://www.lib.washington.edu/specialcoll/images/ead/MS3783.jpg. Also enter MIME type of digital file 
+(eg., "image/jpeg") in ROLE attribute; enter brief description of image in TITLE attribute, eg. Image of Mike 
+Lowry, 1982.--><daoloc role="image/jpeg" label="image" title="Image of " href="http://www.lib.washington.edu/specialcoll/images/ead/MS3298.jpg" linktype="locator" /><arc show="embed" actuate="onload" from="start" to="image" linktype="arc" /></daogrp>
+<abstract encodinganalog="5203_$a">Papers of an
+		  Swiss-American amateur composer who homesteaded near Yacolt,
+		  Washington</abstract>
+<langmaterial>Collection materials are in 
+										<language scriptcode="latn" langcode="eng" encodinganalog="546">English</language>.
+									</langmaterial>
+</did>
+<bioghist encodinganalog="5450_" id="a2"><p>James Edgar Rotschy, known as Edgar, was a Swiss-American self-taught
+		  amatuer composer who resided near Yacolt, Washington.</p><p>Rotschy was born August 29, 1868 in Geneva, Switzerland, where his
+		  father owned a music school. Having been told that he had no musical talent and
+		  discouraged from a career in music, Rotschy trained as a photographer,
+		  specializing in retouching and printing.</p><p>Rotschy arrived in the United States in September 1889 and, after
+		  working as a photo finisher in New York, worked his way west with friends from
+		  Switzerland. In July 6, 1891 he filed for a homestead overlooking the
+		  Chelatchie Prairie near the town of Yacolt in Clark County. In 1894 he married
+		  the sister of a fellow homesteader, Madeleine de Niederhausern, with whom he
+		  had nine children between 1895 and 1909. Rotschy worked at various jobs
+		  including laborer at the Long Bell Paper Mill, cook at a Civilian Conservation
+		  Corps camp, and fire watch at the Greenleaf logging camp.</p><p>In1898 Rotschy began to compose music. His compositions are
+		  conservative in style, emphasizing melody and simple harmonic accompaniments.
+		  Several fugues display a didactic style imitative of the Baroque. His music is
+		  characterized by the lack of dynamic and articulation markings. He felt that
+		  the meaning of his music should be clear to any "good" musician and that each
+		  musician was free to supply his own expression markings.</p><p>Edgar Rotschy donated music manuscripts to the Libraries on several
+		  occasions between 1938 and 1953. He also presented Hazel Kinsella music for the
+		  American Music Center in the Music Library. On his trips to Seattle, Rotschy
+		  discussed his music with George McKay, professor of theory and composition in
+		  the School of Music, who arranged for a reading of his string quartets.
+		  According to his journal this was the most satisfying time in his musical life.
+		  </p><p>In later life Rotschy moved to Vancouver, Washington, where he died in
+		  1962.</p></bioghist>
+<scopecontent encodinganalog="5202_" id="a3"><p>The Rotschy papers contain original musical compositions, musical
+		  writings, journals and correspondence. The journals, which include drawings,
+		  serve as a first hand account of the historic Yacolt Burn of 1902 and that of a
+		  working man's life in logging camps and saw and paper mills in the 1920s and
+		  1930s. The correspondence with the Libraries details the nature of his gifts to
+		  the Libraries.</p></scopecontent>
+<accessrestrict encodinganalog="506" id="a14"><p>Open to all users.</p></accessrestrict>
+<userestrict encodinganalog="540" id="a15"><p>Creator's literary rights not transfered to the University of
+		  Washington Libraries.</p></userestrict>
+<prefercite encodinganalog="524" id="a18"><p>Edgar Rotschy papers, Special Collection Division, University of
+		  Washington Libraries</p></prefercite>
+<custodhist encodinganalog="561" id="a16"><p>Most of the Edgar Rotschy papers were transferred from the University
+		  of Washington Music Library.</p></custodhist>
+<acqinfo encodinganalog="541" id="a19"><p>Gift of Edgar Rotschy to the Libraries between 1938 and 1953. Some
+		  music was given to Hazel Kinsella of the School of Music and transferred to
+		  Manuscripts Division in 1983 from the Music Library. Correspondence with Samuel
+		  Rotschy given to Libraries by John Gibbs in 2006. </p></acqinfo>
+<processinfo id="a20" encodinganalog="583"><p>Processed by John R. Gibbs; processing completed in 2007.</p></processinfo>
+<controlaccess id="a12">
+<controlaccess>
+<persname role="subject" encodinganalog="600">Kinscella, Hazel Gertrude--Correspondence</persname>
+<persname encodinganalog="600" role="subject" source="lcnaf" rules="aacr2">Rotschy, Edgar--Archives</persname>
+</controlaccess>
+<controlaccess>
+<subject source="lcsh" encodinganalog="650">Composers--Washington (State)--Archives</subject>
+<subject source="lcsh" encodinganalog="650">Frontier and pioneer life--Washington (State)--Clark County</subject>
+</controlaccess>
+<controlaccess>
+<subject source="nwda" altrender="nodisplay" encodinganalog="690">Music</subject>
+<subject source="nwda" altrender="nodisplay" encodinganalog="690">Pioneers</subject>
+</controlaccess>
+<controlaccess>
+<genreform source="aat" encodinganalog="655">Scores</genreform>
+<genreform source="aat" encodinganalog="655">Autobiographies</genreform>
+<genreform source="aat" encodinganalog="655">Correspondence</genreform>
+<genreform source="lcsh" encodinganalog="655">Diaries</genreform>
+<genreform source="lcsh" encodinganalog="655">Notebooks</genreform>
+</controlaccess>
+<controlaccess>
+<occupation>Composers</occupation>
+</controlaccess>
+</controlaccess>
+<dsc type="combined" id="a23">
+<c01 level="series">
+<did>
+<unittitle encodinganalog="245$a">Musical compositions</unittitle>
+</did>
+<c02>
+<did>
+<unittitle>Symphonic works</unittitle>
+</did>
+<c03 level="file">
+<did>
+<container type="box-folder">1/1</container>
+<unittitle>Symphony 13, for strings</unittitle>
+<unitdate era="ce" calendar="gregorian">undated</unitdate>
+</did>
+</c03>
+</c02>
+<c02 level="file">
+<did>
+<container type="box-folder">1/2</container>
+<unittitle>Wind band</unittitle>
+</did>
+<c03 level="file">
+<did>
+<unittitle>National Suite for Harmony Band</unittitle>
+<unitdate era="ce" calendar="gregorian">undated</unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unittitle>Easter Prelude and March</unittitle>
+<unitdate era="ce" calendar="gregorian">1922</unitdate>
+</did>
+</c03>
+</c02>
+<c02 level="file">
+<did>
+<unittitle>Chamber music for strings</unittitle>
+</did>
+<c03 level="file">
+<did>
+<container type="box-folder">1/3</container>
+<unittitle>String trios</unittitle>
+</did>
+<c04 level="file">
+<did>
+<unittitle>String trio number 3</unittitle>
+<unitdate era="ce" calendar="gregorian">1945 February 19</unitdate>
+</did>
+</c04>
+<c04 level="file">
+<did>
+<unittitle>String trio number 5</unittitle>
+<unitdate era="ce" calendar="gregorian">undated</unitdate>
+</did>
+</c04>
+<c04 level="file">
+<did>
+<unittitle>String trio V</unittitle>
+<unitdate era="ce" calendar="gregorian">1952 December 27</unitdate>
+</did>
+</c04>
+<c04 level="file">
+<did>
+<unittitle>String trio VI</unittitle>
+<unitdate era="ce" calendar="gregorian">1953 January 13</unitdate>
+</did>
+</c04>
+</c03>
+<c03 level="file">
+<did>
+<unittitle>String quartets</unittitle>
+</did>
+<c04 level="file">
+<did>
+<container type="box-folder">1/4</container>
+<unittitle>String quartet number 15</unittitle>
+<unitdate era="ce" calendar="gregorian">1944 January</unitdate>
+</did>
+</c04>
+<c04 level="file">
+<did>
+<container type="box-folder">1/4</container>
+<unittitle>String quartet number 16</unittitle>
+<unitdate era="ce" calendar="gregorian">1944 December 4</unitdate>
+</did>
+</c04>
+<c04 level="file">
+<did>
+<container type="box-folder">1/4</container>
+<unittitle>String quartet number 18</unittitle>
+<unitdate era="ce" calendar="gregorian">1947 May 12</unitdate>
+</did>
+</c04>
+<c04 level="file">
+<did>
+<container type="box-folder">1/5</container>
+<unittitle>String quartet number 20</unittitle>
+<unitdate era="ce" calendar="gregorian">1947 November 12</unitdate>
+</did>
+</c04>
+<c04 level="file">
+<did>
+<container type="box-folder">1/5</container>
+<unittitle>String quartet number 21</unittitle>
+<unitdate era="ce" calendar="gregorian">1949 May 11</unitdate>
+</did>
+</c04>
+<c04 level="file">
+<did>
+<container type="box-folder">1/5</container>
+<unittitle>String quartet number 25</unittitle>
+<unitdate era="ce" calendar="gregorian">1953 June 15</unitdate>
+</did>
+</c04>
+<c04 level="file">
+<did>
+<container type="box-folder">1/6</container>
+<unittitle>String quartet number 26</unittitle>
+<unitdate era="ce" calendar="gregorian">1953 July 31</unitdate>
+</did>
+</c04>
+<c04 level="file">
+<did>
+<container type="box-folder">1/6</container>
+<unittitle>String quartet number 28</unittitle>
+<unitdate era="ce" calendar="gregorian">1955 September 20</unitdate>
+</did>
+</c04>
+<c04 level="file">
+<did>
+<container type="box-folder">1/6</container>
+<unittitle>String quartet number 29</unittitle>
+<unitdate era="ce" calendar="gregorian">1955 December 29</unitdate>
+</did>
+</c04>
+<c04 level="file">
+<did>
+<container type="box-folder">1/6</container>
+<unittitle>Recreation number 2 (for string quartet)</unittitle>
+<unitdate era="ce" calendar="gregorian">1949 November 2</unitdate>
+</did>
+</c04>
+</c03>
+<c03 level="file">
+<did>
+<container type="box-folder">1/7</container>
+<unittitle>String Quintets (with double bass)</unittitle>
+</did>
+<c04 level="file">
+<did>
+<unittitle>String quintet, G major</unittitle>
+<unitdate era="ce" calendar="gregorian">1946 September 28</unitdate>
+</did>
+</c04>
+<c04 level="file">
+<did>
+<unittitle>String quintet, g minor</unittitle>
+<unitdate era="ce" calendar="gregorian">1946 December 24</unitdate>
+</did>
+</c04>
+</c03>
+</c02>
+<c02 level="file">
+<did>
+<unittitle>Chamber music for winds alone and with
+				  strings</unittitle>
+</did>
+<c03 level="file">
+<did>
+<container type="box-folder">1/8</container>
+<unittitle>Woodwinds and strings</unittitle>
+</did>
+<c04 level="file">
+<did>
+<unittitle>Old days at Fort Vancouver: Centennial
+						Suite</unittitle>
+<unitdate era="ce" calendar="gregorian">1926</unitdate>
+</did>
+</c04>
+</c03>
+<c03 level="file">
+<did>
+<container type="box-folder">1/9</container>
+<unittitle>Woodwind quintets</unittitle>
+</did>
+<c04 level="file">
+<did>
+<unittitle>Aubade</unittitle>
+<unitdate era="ce" calendar="gregorian">undated</unitdate>
+</did>
+</c04>
+<c04 level="file">
+<did>
+<unittitle>Musical Evening at Monticello</unittitle>
+<unitdate era="ce" calendar="gregorian">19?? July 3</unitdate>
+</did>
+</c04>
+<c04 level="file">
+<did>
+<unittitle>Concert for Mr. Thomas Jefferson</unittitle>
+<unitdate era="ce" calendar="gregorian">1941 May 21</unitdate>
+</did>
+</c04>
+</c03>
+<c03 level="file">
+<did>
+<container type="box-folder">1/9</container>
+<unittitle>Flute trios</unittitle>
+</did>
+<c04 level="file">
+<did>
+<unittitle>Flute trio, C major</unittitle>
+<unitdate era="ce" calendar="gregorian">1944 October 31</unitdate>
+</did>
+</c04>
+<c04 level="file">
+<did>
+<unittitle>Suite, G major</unittitle>
+<unitdate era="ce" calendar="gregorian">1945 January 1</unitdate>
+</did>
+</c04>
+</c03>
+<c03 level="file">
+<did>
+<container type="box-folder">1/10</container>
+<unittitle>Saxophone quartets</unittitle>
+</did>
+<c04 level="file">
+<did>
+<unittitle>Saxophone quartet number 3</unittitle>
+<unitdate era="ce" calendar="gregorian">1952 February 21</unitdate>
+</did>
+</c04>
+<c04 level="file">
+<did>
+<unittitle>Saxophone quartet number 4 "Popular"</unittitle>
+<unitdate era="ce" calendar="gregorian">1952</unitdate>
+</did>
+</c04>
+<c04 level="file">
+<did>
+<unittitle>Saxophone quartet number 6</unittitle>
+<unitdate era="ce" calendar="gregorian">1952 May 2</unitdate>
+</did>
+</c04>
+<c04 level="file">
+<did>
+<unittitle>4 pieces for Saxophone quartet</unittitle>
+<unitdate era="ce" calendar="gregorian">undated</unitdate>
+</did>
+</c04>
+</c03>
+<c03 level="file">
+<did>
+<container type="box-folder">1/10</container>
+<unittitle>Clarinet sonata</unittitle>
+<unitdate era="ce" calendar="gregorian">1948 April 13</unitdate>
+</did>
+</c03>
+</c02>
+<c02 level="file">
+<did>
+<container type="box-folder">1/11</container>
+<unittitle>Chamber music with piano</unittitle>
+</did>
+<c03 level="file">
+<did>
+<unittitle>Viola and piano</unittitle>
+</did>
+<c04 level="file">
+<did>
+<unittitle>Sonata IV</unittitle>
+<unitdate era="ce" calendar="gregorian">1945 May 25</unitdate>
+</did>
+</c04>
+<c04 level="file">
+<did>
+<unittitle>Sonata V</unittitle>
+<unitdate era="ce" calendar="gregorian">1954 May 7</unitdate>
+</did>
+</c04>
+<c04 level="file">
+<did>
+<unittitle>Sonata VI</unittitle>
+<unitdate era="ce" calendar="gregorian">1954 May 7</unitdate>
+</did>
+</c04>
+</c03>
+<c03 level="file">
+<did>
+<unittitle>Violin and piano</unittitle>
+</did>
+<c04 level="file">
+<did>
+<unittitle>Sonata 12</unittitle>
+<unitdate era="ce" calendar="gregorian">1944 May 26</unitdate>
+</did>
+</c04>
+<c04 level="file">
+<did>
+<unittitle>Sonata 13</unittitle>
+<unitdate era="ce" calendar="gregorian">1945 January 31</unitdate>
+</did>
+</c04>
+<c04 level="file">
+<did>
+<unittitle>Sonata 14</unittitle>
+<unitdate era="ce" calendar="gregorian">1947 September 13</unitdate>
+</did>
+</c04>
+<c04 level="file">
+<did>
+<unittitle>Sonata 15</unittitle>
+<unitdate era="ce" calendar="gregorian">1948 January 17</unitdate>
+</did>
+</c04>
+<c04 level="file">
+<did>
+<unittitle>Sonata 16</unittitle>
+<unitdate era="ce" calendar="gregorian">1951 June 2</unitdate>
+</did>
+</c04>
+</c03>
+<c03 level="file">
+<did>
+<unittitle>Violoncello and piano</unittitle>
+</did>
+<c04 level="file">
+<did>
+<unittitle>Sonata, D major</unittitle>
+<unitdate era="ce" calendar="gregorian">1947 February 19</unitdate>
+</did>
+</c04>
+</c03>
+<c03 level="file">
+<did>
+<container type="box-folder">1/12</container>
+<unittitle>Piano trios</unittitle>
+</did>
+<c04 level="file">
+<did>
+<unittitle>Recreation IV "France"</unittitle>
+<unitdate era="ce" calendar="gregorian">1930 August 15</unitdate>
+</did>
+</c04>
+<c04 level="file">
+<did>
+<unittitle>Recreation V "18e siecle"</unittitle>
+<unitdate era="ce" calendar="gregorian">1930 October 31</unitdate>
+</did>
+</c04>
+<c04 level="file">
+<did>
+<unittitle>Trio, G major</unittitle>
+<unitdate era="ce" calendar="gregorian">1931</unitdate>
+</did>
+</c04>
+<c04 level="file">
+<did>
+<unittitle>Trio number 10 "Anecortes"</unittitle>
+<unitdate era="ce" calendar="gregorian">1949 July 5</unitdate>
+</did>
+</c04>
+<c04 level="file">
+<did>
+<unittitle>Trio number 10, g minor</unittitle>
+<unitdate era="ce" calendar="gregorian">1948 February 8</unitdate>
+</did>
+</c04>
+<c04 level="file">
+<did>
+<unittitle>Trio number 14</unittitle>
+<unitdate era="ce" calendar="gregorian">1955 June 17</unitdate>
+</did>
+</c04>
+</c03>
+</c02>
+<c02 level="file">
+<did>
+<container type="box-folder">1/13</container>
+<unittitle>Piano sonatas</unittitle>
+</did>
+<c03 level="file">
+<did>
+<unittitle>Sonata number 16</unittitle>
+<unitdate era="ce" calendar="gregorian">1945 July 7</unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unittitle>Sonata number 17</unittitle>
+<unitdate era="ce" calendar="gregorian">1946 August 19</unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unittitle>Sonata number 18</unittitle>
+<unitdate era="ce" calendar="gregorian">1947 January 8</unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unittitle>Sonata number 19</unittitle>
+<unitdate era="ce" calendar="gregorian">1949 July 20</unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unittitle>Sonata number 20</unittitle>
+<unitdate era="ce" calendar="gregorian">1951 March 9 </unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unittitle>Sonata number 21</unittitle>
+<unitdate era="ce" calendar="gregorian">1951 November 29</unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unittitle>Sonata number 22</unittitle>
+<unitdate era="ce" calendar="gregorian">1951 December 21</unitdate>
+</did>
+</c03>
+</c02>
+<c02 level="file">
+<did>
+<container type="box-folder">1/14</container>
+<unittitle>Piano four hands</unittitle>
+</did>
+<c03 level="file">
+<did>
+<unittitle>Sonata</unittitle>
+<unitdate era="ce" calendar="gregorian">undated</unitdate>
+</did>
+</c03>
+</c02>
+<c02 level="file">
+<did>
+<unittitle>Organ sonatas</unittitle>
+</did>
+<c03 level="file">
+<did>
+<container type="box-folder">2/1</container>
+<unittitle>Sonata II</unittitle>
+<unitdate era="ce" calendar="gregorian">1927 October 12</unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box-folder">2/1</container>
+<unittitle>Sonata III</unittitle>
+<unitdate era="ce" calendar="gregorian">1928 May 1</unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box-folder">2/1</container>
+<unittitle>Sonata IV</unittitle>
+<unitdate era="ce" calendar="gregorian">1928 August 15</unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box-folder">2/1</container>
+<unittitle>Sonata V</unittitle>
+<unitdate era="ce" calendar="gregorian">1928 October 3</unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box-folder">2/1</container>
+<unittitle>Sonata VI</unittitle>
+<unitdate era="ce" calendar="gregorian">1929 May 16</unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box-folder">2/1</container>
+<unittitle>Sonata VII</unittitle>
+<unitdate era="ce" calendar="gregorian">undated</unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box-folder">2/2</container>
+<unittitle>Sonata number 8</unittitle>
+<unitdate era="ce" calendar="gregorian">1932 June 8</unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box-folder">2/2</container>
+<unittitle>Sonata II (second series)</unittitle>
+<unitdate era="ce" calendar="gregorian">1935 March 11</unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box-folder">2/2</container>
+<unittitle>Sonata IV (second series)</unittitle>
+<unitdate era="ce" calendar="gregorian">1936 March 17</unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box-folder">2/2</container>
+<unittitle>Sonata VI (second series)</unittitle>
+<unitdate era="ce" calendar="gregorian">1936 October 27</unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box-folder">2/2</container>
+<unittitle>Sonata number 7 (second series)</unittitle>
+<unitdate era="ce" calendar="gregorian">1937 February 17</unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box-folder">2/2</container>
+<unittitle>Sonata 8 (second series)</unittitle>
+<unitdate era="ce" calendar="gregorian">1937 August 24</unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box-folder">2/3</container>
+<unittitle>Sonata, E major (second series)</unittitle>
+<unitdate era="ce" calendar="gregorian">1942 July 31</unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box-folder">2/3</container>
+<unittitle>Sonata, Bb major (second series)</unittitle>
+<unitdate era="ce" calendar="gregorian">1943 July 7</unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box-folder">2/3</container>
+<unittitle>Sonata, a minor(second series)</unittitle>
+<unitdate era="ce" calendar="gregorian">1945 October 1</unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box-folder">2/3</container>
+<unittitle>Sonata number 12</unittitle>
+<unitdate era="ce" calendar="gregorian">1939 January 11</unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box-folder">2/3</container>
+<unittitle>Sonata number 13</unittitle>
+<unitdate era="ce" calendar="gregorian">1939 May 33</unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box-folder">2/3</container>
+<unittitle>Sonata number 14</unittitle>
+<unitdate era="ce" calendar="gregorian">1939 October 9</unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box-folder">2/3</container>
+<unittitle>Sonata, F major(second series)</unittitle>
+<unitdate era="ce" calendar="gregorian">1950 October 21</unitdate>
+</did>
+</c03>
+</c02>
+<c02 level="file">
+<did>
+<unittitle>Organ sonatas transcribed for strings</unittitle>
+</did>
+<c03 level="file">
+<did>
+<container type="box-folder">2/4</container>
+<unittitle>Sonata, F major, transcribed for strings</unittitle>
+<unitdate era="ce" calendar="gregorian">1945 August 29</unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box-folder">2/5</container>
+<unittitle>Sonata number 1</unittitle>
+<unitdate era="ce" calendar="gregorian">1953 February 3</unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box-folder">2/5</container>
+<unittitle>Sonata number 2</unittitle>
+<unitdate era="ce" calendar="gregorian">undated</unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box-folder">2/5</container>
+<unittitle>Sonata number 3</unittitle>
+<unitdate era="ce" calendar="gregorian">1953 April 22</unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box-folder">2/5</container>
+<unittitle>Sonata number 4</unittitle>
+<unitdate era="ce" calendar="gregorian">1953 May 22</unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box-folder">2/5</container>
+<unittitle>Sonata number 5</unittitle>
+<unitdate era="ce" calendar="gregorian">1953 July 9</unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box-folder">2/5</container>
+<unittitle>Sonata number 6</unittitle>
+<unitdate era="ce" calendar="gregorian">1953 September 8</unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box-folder">2/5</container>
+<unittitle>Sonata, D major</unittitle>
+<unitdate era="ce" calendar="gregorian">1955 November 24</unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box-folder">2/5</container>
+<unittitle>Sonata, Ab major</unittitle>
+<unitdate era="ce" calendar="gregorian">1956 February 3</unitdate>
+</did>
+</c03>
+</c02>
+<c02 level="file">
+<did>
+<unittitle>Organ toccatas</unittitle>
+</did>
+<c03 level="file">
+<did>
+<container type="box-folder">2/5</container>
+<unittitle>Toccata, D major</unittitle>
+<unitdate era="ce" calendar="gregorian">undated</unitdate>
+</did>
+</c03>
+</c02>
+<c02 level="file">
+<did>
+<unittitle>Organ preludes</unittitle>
+</did>
+<c03 level="file">
+<did>
+<container type="box-folder">2/6</container>
+<unittitle>Prelude and Fugue, g minor</unittitle>
+<unitdate era="ce" calendar="gregorian">1951 September 12</unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box-folder">2/6</container>
+<unittitle>Prelude and Fugue, c minor</unittitle>
+<unitdate era="ce" calendar="gregorian">1951 October 30</unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box-folder">2/6</container>
+<unittitle>Prelude and Valse</unittitle>
+<unitdate era="ce" calendar="gregorian">1921</unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box-folder">2/7</container>
+<unittitle>16 Preludes and 16 Postludes</unittitle>
+<unitdate era="ce" calendar="gregorian">1913-1924</unitdate>
+</did>
+</c03>
+</c02>
+<c02 level="file">
+<did>
+<unittitle>Organ hymns</unittitle>
+</did>
+<c03 level="file">
+<did>
+<container type="box-folder">2/8</container>
+<unittitle>Hymns, Book VIII</unittitle>
+<unitdate era="ce" calendar="gregorian">1926-1927</unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box-folder">2/8</container>
+<unittitle>Hymns, Book IX</unittitle>
+<unitdate era="ce" calendar="gregorian">1927</unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box-folder">2/8</container>
+<unittitle>Hymns, Book X</unittitle>
+<unitdate era="ce" calendar="gregorian">1928</unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box-folder">2/8</container>
+<unittitle>Hymns, Book XI</unittitle>
+<unitdate era="ce" calendar="gregorian">1930-1931</unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box-folder">2/8</container>
+<unittitle>Hymns, Book XII</unittitle>
+<unitdate era="ce" calendar="gregorian">1932</unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box-folder">2/9</container>
+<unittitle>Hymns, Thankgiving</unittitle>
+<unitdate era="ce" calendar="gregorian">1933 December 8</unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box-folder">2/9</container>
+<unittitle>Hymns 1934</unittitle>
+<unitdate era="ce" calendar="gregorian">1935 January 12</unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box-folder">2/9</container>
+<unittitle>Easter Hymns (I)</unittitle>
+<unitdate era="ce" calendar="gregorian">1935</unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box-folder">2/9</container>
+<unittitle>Easter Hymns (II)</unittitle>
+<unitdate era="ce" calendar="gregorian">1935</unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box-folder">2/9</container>
+<unittitle>Hymns 1935</unittitle>
+<unitdate era="ce" calendar="gregorian">1935 August</unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box-folder">2/9</container>
+<unittitle>Hymns 1935 (II)</unittitle>
+<unitdate era="ce" calendar="gregorian">1935 December 6</unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box-folder">2/9</container>
+<unittitle>Hymn</unittitle>
+<unitdate era="ce" calendar="gregorian">1935 December 6</unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box-folder">2/9</container>
+<unittitle>Hymns 1936</unittitle>
+<unitdate era="ce" calendar="gregorian">1936</unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box-folder">2/9</container>
+<unittitle>Hymns, Sept. 1936</unittitle>
+<unitdate era="ce" calendar="gregorian">1936 October 9</unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box-folder">2/9</container>
+<unittitle>Hymns 1936</unittitle>
+<unitdate era="ce" calendar="gregorian">1936 March</unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box-folder">2/9</container>
+<unittitle>Christmas 1936</unittitle>
+<unitdate era="ce" calendar="gregorian">1936</unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box-folder">2/9</container>
+<unittitle>3 Hymns</unittitle>
+<unitdate era="ce" calendar="gregorian">1936 December 20</unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box-folder">2/10</container>
+<unittitle>Hymns for Passion Friday</unittitle>
+<unitdate era="ce" calendar="gregorian">1937 April 6</unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box-folder">2/10</container>
+<unittitle>Easter Hymns 1937</unittitle>
+<unitdate era="ce" calendar="gregorian">1937 April 6</unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box-folder">2/10</container>
+<unittitle>3 Hymns in minor 1937</unittitle>
+<unitdate era="ce" calendar="gregorian">1937 July 9</unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box-folder">2/10</container>
+<unittitle>6 Hymns in major 1937</unittitle>
+<unitdate era="ce" calendar="gregorian">1939 July 9</unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box-folder">2/10</container>
+<unittitle>4 Hymns in major Dec. 1937</unittitle>
+<unitdate era="ce" calendar="gregorian">1937 December 6</unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box-folder">2/10</container>
+<unittitle>Christmas 1937</unittitle>
+<unitdate era="ce" calendar="gregorian">1937</unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box-folder">2/10</container>
+<unittitle>4 Hymns in minor</unittitle>
+<unitdate era="ce" calendar="gregorian">1937 December 23</unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box-folder">2/10</container>
+<unittitle>Hymns for Easter 1938</unittitle>
+<unitdate era="ce" calendar="gregorian">undated</unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box-folder">2/10</container>
+<unittitle>3 Hymns in minor Passion 1938</unittitle>
+<unitdate era="ce" calendar="gregorian">1938 April 2</unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box-folder">2/10</container>
+<unittitle>Christmas music</unittitle>
+<unitdate era="ce" calendar="gregorian">1938</unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box-folder">2/10</container>
+<unittitle>Hymn</unittitle>
+<unitdate era="ce" calendar="gregorian">1938 December 23</unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box-folder">2/10</container>
+<unittitle>Hymns Dec. 1938</unittitle>
+<unitdate era="ce" calendar="gregorian">1939 January 2</unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box-folder">2/10</container>
+<unittitle>Hymns in minor</unittitle>
+<unitdate era="ce" calendar="gregorian">1939</unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box-folder">2/10</container>
+<unittitle>Passion music 1939</unittitle>
+<unitdate era="ce" calendar="gregorian">1939 April 10</unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box-folder">2/11</container>
+<unittitle>Easter music 1939</unittitle>
+<unitdate era="ce" calendar="gregorian">1939 April 22</unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box-folder">2/11</container>
+<unittitle>Hymns for Easter </unittitle>
+<unitdate era="ce" calendar="gregorian">1939</unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box-folder">2/11</container>
+<unittitle>6 Hymns in major</unittitle>
+<unitdate era="ce" calendar="gregorian">1939 October</unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box-folder">2/11</container>
+<unittitle>Xmas music 1939</unittitle>
+<unitdate era="ce" calendar="gregorian">1939 December 13</unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box-folder">2/11</container>
+<unittitle>Easter music 1940</unittitle>
+<unitdate era="ce" calendar="gregorian">1940 April 19</unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box-folder">2/11</container>
+<unittitle>6 Hymns in minor and major, August 1940</unittitle>
+<unitdate era="ce" calendar="gregorian">1940 September 26</unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box-folder">2/11</container>
+<unittitle>5 Hymns Christmas 1940</unittitle>
+<unitdate era="ce" calendar="gregorian">1940 December 30</unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box-folder">2/11</container>
+<unittitle>Christmas music 1940</unittitle>
+<unitdate era="ce" calendar="gregorian">1940 December 21</unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box-folder">2/11</container>
+<unittitle>Easter music 1941 Passion</unittitle>
+<unitdate era="ce" calendar="gregorian">1941 March 22</unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box-folder">2/11</container>
+<unittitle>Easter music 1941</unittitle>
+<unitdate era="ce" calendar="gregorian">1941 April 3</unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box-folder">2/11</container>
+<unittitle>3 Hymns in minor</unittitle>
+<unitdate era="ce" calendar="gregorian">1941 September 5</unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box-folder">2/11</container>
+<unittitle>Hymns Oct. Nov. 1941</unittitle>
+<unitdate era="ce" calendar="gregorian">1941 November 16 and 25</unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box-folder">2/11</container>
+<unittitle>Christmas music 1941</unittitle>
+<unitdate era="ce" calendar="gregorian">1941 December 16</unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box-folder">2/11</container>
+<unittitle>A Hymn (with Psalm 143)</unittitle>
+<unitdate era="ce" calendar="gregorian">1942?</unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box-folder">2/11</container>
+<unittitle>Easter music 1942</unittitle>
+<unitdate era="ce" calendar="gregorian">1942 April 17</unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box-folder">2/11</container>
+<unittitle>Passion music 1942</unittitle>
+<unitdate era="ce" calendar="gregorian">1942 April 29</unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box-folder">2/11</container>
+<unittitle>Easter music 1943 Passion</unittitle>
+<unitdate era="ce" calendar="gregorian">1942 March 16</unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box-folder">2/11</container>
+<unittitle>Easter music 1943 Easter day</unittitle>
+<unitdate era="ce" calendar="gregorian">1943 May 5</unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box-folder">2/12</container>
+<unittitle>Xmas music</unittitle>
+<unitdate era="ce" calendar="gregorian">1949</unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box-folder">2/12</container>
+<unittitle>Hymns</unittitle>
+<unitdate era="ce" calendar="gregorian">1950 April 10</unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box-folder">2/12</container>
+<unittitle>5 Hymns 1952</unittitle>
+<unitdate era="ce" calendar="gregorian">1952 May 7</unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box-folder">2/12</container>
+<unittitle>Easter music, Passion 1953</unittitle>
+<unitdate era="ce" calendar="gregorian">1953 March 15</unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box-folder">2/12</container>
+<unittitle>Easter music II</unittitle>
+<unitdate era="ce" calendar="gregorian">1953 April 4</unitdate>
+</did>
+</c03>
+</c02>
+<c02 level="file">
+<did>
+<unittitle>Organ hymns, transcribed</unittitle>
+</did>
+<c03 level="file">
+<did>
+<container type="box-folder">2/12</container>
+<unittitle>Hymns in minor (numbers 15 and 16 from Book
+					 XII)</unittitle>
+<unitdate era="ce" calendar="gregorian">1932 January</unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box-folder">2/12</container>
+<unittitle>Prelude and 4 Hymns</unittitle>
+<unitdate era="ce" calendar="gregorian">1951 September 28</unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box-folder">2/12</container>
+<unittitle>Three[sic] Hymns and Choral Fugue</unittitle>
+<unitdate era="ce" calendar="gregorian">1956 February 20</unitdate>
+</did>
+</c03>
+</c02>
+<c02 level="file">
+<did>
+<unittitle>Miscellaneous keyboard works</unittitle>
+</did>
+<c03 level="file">
+<did>
+<container type="box-folder">2/13</container>
+<unittitle>Chansons 1936</unittitle>
+<unitdate era="ce" calendar="gregorian">1936 November</unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box-folder">2/13</container>
+<unittitle>Chansons</unittitle>
+<unitdate era="ce" calendar="gregorian">undated</unitdate>
+</did>
+</c03>
+</c02>
+<c02 level="file">
+<did>
+<container type="box-folder">2/14</container>
+<unittitle>Choral works</unittitle>
+</did>
+<c03 level="file">
+<did>
+<unittitle>The 18th Choral in major</unittitle>
+<unitdate era="ce" calendar="gregorian">1942 December 25</unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unittitle>May Comes Laughing</unittitle>
+<unitdate era="ce" calendar="gregorian">undated</unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unittitle>Reveille (male quartet)</unittitle>
+<unitdate era="ce" calendar="gregorian">undated</unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unittitle>Ruth and Naomi</unittitle>
+<unitdate era="ce" calendar="gregorian">undated</unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unittitle>Xmas music 1955 Nativity according to Luke</unittitle>
+</did>
+</c03>
+</c02>
+<c02 level="file">
+<did>
+<unittitle>Choral works, psalms</unittitle>
+</did>
+<c03 level="file">
+<did>
+<container type="box-folder">2/15</container>
+<unittitle>Psalms 23 and 24</unittitle>
+<unitdate era="ce" calendar="gregorian">1934 March 12</unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box-folder">2/15</container>
+<unittitle>Psalms 28, 29, 32 and Festival Hymn </unittitle>
+<unitdate era="ce" calendar="gregorian">1936 January 7</unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box-folder">2/15</container>
+<unittitle>Psalm 39</unittitle>
+<unitdate era="ce" calendar="gregorian">1936 December 29</unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box-folder">2/15</container>
+<unittitle>Psalm 61</unittitle>
+<unitdate era="ce" calendar="gregorian">1937 December 26</unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box-folder">2/15</container>
+<unittitle>Psalm 65 Thanksgiving</unittitle>
+<unitdate era="ce" calendar="gregorian">1937 December</unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box-folder">2/15</container>
+<unittitle>Psalm 65 Thanksgiving 1951</unittitle>
+<unitdate era="ce" calendar="gregorian">1951 November 6</unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box-folder">2/15</container>
+<unittitle>Psalm 67</unittitle>
+<unitdate era="ce" calendar="gregorian">1938 January 6</unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box-folder">2/15</container>
+<unittitle>Psalm 70</unittitle>
+<unitdate era="ce" calendar="gregorian">1938 January 21</unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box-folder">2/16</container>
+<unittitle>Psalm 77</unittitle>
+<unitdate era="ce" calendar="gregorian">1938 January 28</unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box-folder">2/16</container>
+<unittitle>Psalm 81</unittitle>
+<unitdate era="ce" calendar="gregorian">1938 February 2</unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box-folder">2/16</container>
+<unittitle>Psalm 84</unittitle>
+<unitdate era="ce" calendar="gregorian">1939 February 28</unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box-folder">2/16</container>
+<unittitle>Psalms 87 and 93</unittitle>
+<unitdate era="ce" calendar="gregorian">1939 March 6</unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box-folder">2/16</container>
+<unittitle>Psalm 90</unittitle>
+<unitdate era="ce" calendar="gregorian">1932 January 9</unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box-folder">2/16</container>
+<unittitle>Psalm 96</unittitle>
+<unitdate era="ce" calendar="gregorian">1939 March 10</unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box-folder">2/16</container>
+<unittitle>Psalm 98</unittitle>
+<unitdate era="ce" calendar="gregorian">1939 March 20</unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box-folder">2/16</container>
+<unittitle>Psalm 100</unittitle>
+<unitdate era="ce" calendar="gregorian">1939 March 23</unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box-folder">2/16</container>
+<unittitle>Psalm 101</unittitle>
+<unitdate era="ce" calendar="gregorian">1939 November 14</unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box-folder">2/16</container>
+<unittitle>Psalm 103 Thanksgiving 1939</unittitle>
+<unitdate era="ce" calendar="gregorian">1939 December 3</unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box-folder">2/16</container>
+<unittitle>Psalm 108</unittitle>
+<unitdate era="ce" calendar="gregorian">1939 November 17</unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box-folder">2/16</container>
+<unittitle>Psalm 120</unittitle>
+<unitdate era="ce" calendar="gregorian">undated</unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box-folder">2/16</container>
+<unittitle>Psalms 124 and 125</unittitle>
+<unitdate era="ce" calendar="gregorian">undated</unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box-folder">2/16</container>
+<unittitle>Psalm 124</unittitle>
+<unitdate era="ce" calendar="gregorian">1941 January 20</unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box-folder">2/16</container>
+<unittitle>Psalm 126</unittitle>
+<unitdate era="ce" calendar="gregorian">1941 January 14</unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box-folder">2/16</container>
+<unittitle>Psalm 135</unittitle>
+<unitdate era="ce" calendar="gregorian">1941 January 31</unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box-folder">2/16</container>
+<unittitle>Psalm 137</unittitle>
+<unitdate era="ce" calendar="gregorian">1941 January 232</unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box-folder">2/16</container>
+<unittitle>Psalm 138</unittitle>
+<unitdate era="ce" calendar="gregorian">1942 January 13</unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box-folder">2/16</container>
+<unittitle>Psalm 143</unittitle>
+<unitdate era="ce" calendar="gregorian">1942 January 19</unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box-folder">2/16</container>
+<unittitle>Psalms 145 and 147</unittitle>
+<unitdate era="ce" calendar="gregorian">1943 January</unitdate>
+</did>
+</c03>
+</c02>
+<c02 level="file">
+<did>
+<unittitle>Songs</unittitle>
+</did>
+<c03 level="file">
+<did>
+<container type="box-folder">2/17</container>
+<unittitle>The Brook. Tennyson</unittitle>
+<unitdate era="ce" calendar="gregorian">undated</unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box-folder">2/17</container>
+<unittitle>Home is best</unittitle>
+<unitdate era="ce" calendar="gregorian">undated</unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box-folder">2/17</container>
+<unittitle>Blow, blow through winter's wind</unittitle>
+<unitdate era="ce" calendar="gregorian">undated</unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box-folder">2/17</container>
+<unittitle>The Kitten and the prince</unittitle>
+<unitdate era="ce" calendar="gregorian">undated</unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box-folder">2/17</container>
+<unittitle>A Song of little Japanese girls</unittitle>
+<unitdate era="ce" calendar="gregorian">undated</unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box-folder">2/17</container>
+<unittitle>Lullaby, heard by Mr. L Hearm from an Oki mother,
+					 Japan</unittitle>
+<unitdate era="ce" calendar="gregorian">undated</unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box-folder">2/17</container>
+<unittitle>Bantu cradle song</unittitle>
+<unitdate era="ce" calendar="gregorian">undated</unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box-folder">2/17</container>
+<unittitle>St. Kevin's lied. Lake Glendalaugh</unittitle>
+<unitdate era="ce" calendar="gregorian">undated</unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box-folder">2/17</container>
+<unittitle>The Old black bull</unittitle>
+<unitdate era="ce" calendar="gregorian">undated</unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box-folder">2/17</container>
+<unittitle>Old Scotch ballad. From Bracebridge Hall</unittitle>
+<unitdate era="ce" calendar="gregorian">1941 March 24</unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box-folder">2/17</container>
+<unittitle>Tircis. Souvenier de J.J.Rousseau</unittitle>
+<unitdate era="ce" calendar="gregorian">1941 June 18</unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box-folder">2/17</container>
+<unittitle>Two songs of early settlers</unittitle>
+<unitdate era="ce" calendar="gregorian">undated</unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box-folder">2/17</container>
+<unittitle>Civil War song</unittitle>
+<unitdate era="ce" calendar="gregorian">undated</unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box-folder">2/17</container>
+<unittitle>A Little song from Will. Blake</unittitle>
+<unitdate era="ce" calendar="gregorian">undated</unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box-folder">2/17</container>
+<unittitle>For a' that and a' that</unittitle>
+<unitdate era="ce" calendar="gregorian">undated</unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box-folder">2/17</container>
+<unittitle>The Spring of love</unittitle>
+<unitdate era="ce" calendar="gregorian">undated</unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box-folder">2/17</container>
+<unittitle>The Babie</unittitle>
+<unitdate era="ce" calendar="gregorian">undated</unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box-folder">2/17</container>
+<unittitle>Constancy</unittitle>
+<unitdate era="ce" calendar="gregorian">undated</unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<container type="box-folder">2/17</container>
+<unittitle>The Splendor falls</unittitle>
+<unitdate era="ce" calendar="gregorian">undated</unitdate>
+</did>
+</c03>
+</c02>
+</c01>
+<c01 level="series">
+<did>
+<container type="box-folder">3/1</container>
+<unittitle>Autobiography: "Edgar Rotschy My Life"</unittitle>
+</did>
+</c01>
+<c01 level="series">
+<did>
+<unittitle>Journals</unittitle>
+</did>
+<c02 level="file">
+<did>
+<container type="box-folder">3/2</container>
+<unittitle>"Journal from June 24, 1925 to October. Working for the
+				  Long Bell Company. Working at the Paper mill, Camas April 5 to July 10, 1926.
+				  Working with the C.C.C.Camp in the Columbia Nat'l Forest May 23 to Nov. 2,
+				  1933"</unittitle>
+<unitdate era="ce" calendar="gregorian">1925-1933</unitdate>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box-folder">3/2</container>
+<unittitle>"Working with the C.C.Corps. Aug. 22 to Nov. 3, 1933
+				  Journal II"</unittitle>
+<unitdate era="ce" calendar="gregorian">1933</unitdate>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box-folder">3/2</container>
+<unittitle>"Three months with the Timber buffaloes[sic]. Notes and
+				  reflexions[sic] from a Loging camp in 1929"</unittitle>
+<unitdate era="ce" calendar="gregorian">1929</unitdate>
+</did>
+</c02>
+</c01>
+<c01 level="series">
+<did>
+<unittitle>Notebooks</unittitle>
+</did>
+<c02 level="file">
+<did>
+<container type="box-folder">3/3</container>
+<unittitle>"Music; Recollections and apologies"</unittitle>
+<unitdate era="ce" calendar="gregorian">undated</unitdate>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box-folder">3/3</container>
+<unittitle>"The Philosophy in Music"</unittitle>
+<unitdate era="ce" calendar="gregorian">undated</unitdate>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box-folder">3/4</container>
+<unittitle>"Extracts and Notes from the New Jerusalm and its
+				  Heavenly Doctrines by Swedenborg"</unittitle>
+<unitdate era="ce" calendar="gregorian">undated</unitdate>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box-folder">3/4</container>
+<unittitle>"Extracts and remarks from Divine Providence by Emanuel
+				  Swedenborg"</unittitle>
+<unitdate era="ce" calendar="gregorian">1917</unitdate>
+</did>
+</c02>
+</c01>
+<c01 level="series">
+<did>
+<unittitle>Work lists</unittitle>
+</did>
+<c02 level="file">
+<did>
+<container type="box-folder">3/5</container>
+<unittitle>"List of Works sent to the Library of the University of
+				  Washing, [sic]with some remarks"</unittitle>
+<unitdate era="ce" calendar="gregorian">1938 October</unitdate>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box-folder">3/5</container>
+<unittitle>"List of manuscripts remitted to the Library of the
+				  University of Washington, August 19th 1939"</unittitle>
+<unitdate era="ce" calendar="gregorian">1939</unitdate>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box-folder">3/5</container>
+<unittitle>"List of musical compositions sent to the Library of the
+				  University of Washington. Nov. 30 1942"</unittitle>
+<unitdate era="ce" calendar="gregorian">1942</unitdate>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box-folder">3/5</container>
+<unittitle>"Music manuscripts, June 25 ,1943"</unittitle>
+<unitdate era="ce" calendar="gregorian">1943</unitdate>
+</did>
+</c02>
+</c01>
+<c01 level="series">
+<did>
+<container type="box-folder">3/6</container>
+<unittitle>Photographs</unittitle>
+<unitdate era="ce" calendar="gregorian">1892, 1894, 1911, 1913, undated</unitdate>
+</did>
+<scopecontent><p>Eleven black and white photographs of Edgar Rotschy, his family
+				and his homestead.</p></scopecontent></c01>
+<c01 level="series">
+<did>
+<container type="box-folder">3/7</container>
+<unittitle>Newpaper clipping</unittitle>
+</did>
+<c02 level="file">
+<did>
+<unittitle><title render="italic" linktype="simple">Anacortes American</title></unittitle>
+<unitdate era="ce" calendar="gregorian">1951 June 21</unitdate>
+</did>
+</c02>
+</c01>
+<c01 level="series">
+<did>
+<unittitle>Correspondence</unittitle>
+</did>
+<c02 level="file">
+<did>
+<container type="box-folder">3/8</container>
+<unittitle>Edgar Rotschy with University of Washingon Libraries,
+				  and Hazel Kinsella</unittitle>
+<unitdate era="ce" calendar="gregorian">1938-1953</unitdate>
+</did>
+</c02>
+<c02 level="file">
+<did>
+<container type="box-folder">3/9</container>
+<unittitle>Samuel Rotschy to John Gibbs</unittitle>
+<unitdate era="ce" calendar="gregorian">1983</unitdate>
+</did>
+</c02>
+</c01>
+</dsc>
+</archdesc>
+</ead>

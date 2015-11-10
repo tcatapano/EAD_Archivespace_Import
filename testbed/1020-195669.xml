@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+    <eadheader findaidstatus="3_published" repositoryencoding="iso15511"
+              countryencoding="iso3166-1"
+              dateencoding="iso8601"
+              langencoding="iso639-2b"
+              id="a0"
+              relatedencoding="dc"
+              scriptencoding="iso15924">
+        <eadid countrycode="us" mainagencycode="oreuurm"
+             url="http://nwda.orbiscascade.org/ark:/80444/xv31610"
+             encodinganalog="identifier"
+             identifier="80444/xv31610">ORFLR_1971_321.xml</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper encodinganalog="title">Guide to the Candice P. Berkstresser Student Folklore Fieldwork Project 
+                    <date normal="1971" encodinganalog="date">1971</date>
+                    
+                <date encodinganalog="date"/>
+            </titleproper>
+                <titleproper type="filing" altrender="nodisplay">Berkstresser (Candice P.) Student Folklore Fieldwork Project</titleproper>
+                <author encodinganalog="creator">Finding aid prepared by the collection creator and by Archives of Northwest Folklore staff.</author>
+                <sponsor>Publication of this finding aid was supported in whole or part by the Institute of Museum and Library Services through the Library Services and Technology Act, administered by Oregon State Library.</sponsor>
+            </titlestmt>
+            <publicationstmt>
+                <publisher encodinganalog="publisher">Randall V. Mills Archives of Northwest Folklore</publisher>
+                <address>
+                    <addressline>1287 University of Oregon</addressline>
+                    <addressline>Eugene, Oregon, 97403</addressline>
+                    <addressline>(541) 346-3925</addressline>
+                    <addressline>http://darkwing.uoregon.edu/~flr/archives/archives.htm</addressline>
+                </address>
+                <date encodinganalog="date" calendar="gregorian" era="ce" normal="2012">2012</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date calendar="gregorian" era="ce" normal="20120430">2012-04-30</date>
+            </creation>
+            <langusage>Finding aid is in 
+                <language langcode="eng" encodinganalog="language" scriptcode="Latn"> English</language>
+         </langusage>
+            <descrules>Finding aid based on DACS (<title render="italic">Describing Archives: A Content Standard</title>).</descrules>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection" relatedencoding="marc21" type="inventory">
+        <did id="a1">
+            <unittitle encodinganalog="245$a">Finnish Proverbs</unittitle>
+            <unitid encodinganalog="099" countrycode="us" repositorycode="oreuurm">1971_321</unitid>
+            <repository>
+                <corpname encodinganalog="852$a">Randall V. Mills Archives of Northwest Folklore</corpname>
+            <address>
+                    <addressline>1287 University of Oregon</addressline>
+                    <addressline>Eugene, Oregon, 97403</addressline>
+                    <addressline>(541) 346-3925</addressline>
+                    <addressline>http://darkwing.uoregon.edu/~flr/archives/archives.htm</addressline>
+                </address>
+         </repository>
+            <langmaterial>Collection materials are in <language langcode="eng" encodinganalog="546">English</language>.</langmaterial>
+            <physdesc>
+                <extent encodinganalog="300$a">0.02 linear feet</extent>
+            </physdesc>
+            <unitdate normal="1971/1971">1971</unitdate>
+            <abstract id="ref2" encodinganalog="5203_">Candice P. Berkstresser was a student of folklore at the University of Oregon. This collection includes an essay and fieldwork documentation relating to this student's folklore fieldwork project.</abstract>
+            <physdesc id="ref3">1 folder</physdesc>
+            <origination label="creator">
+                <persname source="ingest" encodinganalog="100">Berkstresser, Candice P.</persname>
+            </origination>
+        </did>
+        <accessrestrict id="a14" encodinganalog="506">
+            
+            <p>Collection is open for access in accordance with Archives of Northwest Folklore policy.</p>
+        </accessrestrict>
+        <userestrict id="a15" encodinganalog="540">
+            
+            <p>Collection is open for use in accordance with Archives of Northwest Folklore policy.</p>
+        </userestrict>
+        <controlaccess id="a12">
+         <controlaccess>
+            <persname source="ingest" encodinganalog="600">Hummasti, Irma</persname>
+         </controlaccess>
+         <controlaccess>
+            <geogname source="local" encodinganalog="651">Astoria, Or.</geogname>
+         </controlaccess>
+         <controlaccess>
+            <subject source="local" encodinganalog="650">Finnish-Americans</subject>
+         </controlaccess>
+         <controlaccess>
+            <subject source="nwda" encodinganalog="690" altrender="nodisplay">Folklore and Folklife</subject>
+         </controlaccess>
+         <controlaccess>
+            <genreform source="afn_type" encodinganalog="655">Fieldwork project</genreform>
+         </controlaccess>
+      </controlaccess>
+        <dsc id="a23" type="combined">
+            <c01 level="item">
+                <did>
+                    <unittitle encodinganalog="245$a">Master sheet</unittitle>
+                    <container type="folder">1</container>
+                </did>
+            </c01>
+            <c01 level="item">
+                <did>
+                    <unittitle encodinganalog="245$a">Project release form</unittitle>
+                    <container type="folder">1</container>
+                </did>
+            </c01>
+            <c01 level="item">
+                <did>
+                    <unittitle encodinganalog="245$a">Essay</unittitle>
+                    <container type="folder">1</container>
+                </did>
+            </c01>
+            <c01 level="series">
+                <did>
+                    <unittitle encodinganalog="245$a">Folklore texts</unittitle>
+                    <container type="folder">1</container>
+                </did>
+                <c02 level="subseries">
+                    <did>
+                        <unittitle encodinganalog="245$a">Proverbs</unittitle>
+                    </did>
+                    <c03 level="item">
+                        <did>
+                            <unittitle encodinganalog="245$a">A collection of 20 Finnish proverbs in everyday use among the Finnish speaking people of this particular region (Astoria, Oregon)</unittitle>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 level="subseries">
+                    <did>
+                        <unittitle encodinganalog="245$a">Custom</unittitle>
+                    </did>
+                    <c03 level="item">
+                        <did>
+                            <unittitle encodinganalog="245$a">Description of Finnish old wood-burning sauna ("savu-sauna")</unittitle>
+                        </did>
+                    </c03>
+                </c02>
+            </c01>
+            <c01 level="item">
+                <did>
+                    <unittitle encodinganalog="245$a">Interview transcript</unittitle>
+                    <container type="folder">1</container>
+                </did>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

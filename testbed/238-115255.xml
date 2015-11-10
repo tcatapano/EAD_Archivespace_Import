@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+  <eadheader id="a0" langencoding="iso639-2b" scriptencoding="iso15924" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" relatedencoding="dc">
+    <eadid countrycode="us" encodinganalog="identifier" mainagencycode="WaPS" identifier="80444/xv60888" url="http://nwda.orbiscascade.org/ark:/80444/xv60888">Archives 23</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper encodinganalog="title">Agriculture College Records <date era="ce" calendar="gregorian" encodinganalog="date" normal="1932/1936">1932-1936</date></titleproper>
+        <titleproper type="filing" altrender="nodisplay">Agriculture College Records</titleproper>
+        <author encodinganalog="creator">Finding aid prepared by Craig Holstine</author>
+        <sponsor encodinganalog="contributor">Funding for encoding this finding aid was provided through a grant awarded by the National Endowment for the Humanities.</sponsor>
+      </titlestmt>
+      <publicationstmt>
+        <publisher encodinganalog="publisher">Washington State University Libraries 
+                Manuscripts, Archives, and Special Collections
+        </publisher>
+        <date calendar="gregorian" encodinganalog="date" normal="2012">© 2012</date> 
+        <address> 
+		  <addressline>Pullman, WA 99164-5610 USA</addressline>
+          <addressline>(509) 335-6691</addressline>
+          <addressline>http://www.wsulibs.wsu.edu/masc/</addressline>
+          <addressline>mascref@wsu.edu</addressline>
+        </address> 
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>Finding aid encoded by <emph render="italic"><emph render="underline">ArchProteus</emph></emph><date era="ce" calendar="gregorian" normal="2006">2006</date></creation>
+      <langusage>Finding aid is in<language langcode="eng" encodinganalog="language" scriptcode="latn"> English</language></langusage>
+      <descrules>Finding aid based on DACS (<title render="italic">Describing Archives: A Content Standard</title>)</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection" type="inventory" relatedencoding="marc21">
+    <did id="a1">
+      <repository>
+        <corpname encodinganalog="852$a">Washington State University Libraries<subarea encodinganalog="852$b"> Manuscripts, Archives, and Special Collections</subarea></corpname>
+        <address> 
+          <addressline>Pullman, WA 99164-5610 USA</addressline> 
+          <addressline>(509) 335-6691</addressline>
+          <addressline>http://www.wsulibs.wsu.edu/masc/</addressline>
+          <addressline>mascref@wsu.edu</addressline>
+        </address>
+      </repository>
+      <unitid countrycode="us" encodinganalog="099" repositorycode="WaPS">Archives 23</unitid>
+      <unittitle encodinganalog="245$a" type="Collection">Agriculture College Records </unittitle>
+      <unitdate era="ce" calendar="gregorian" encodinganalog="245$f" type="inclusive" normal="1932/1936">1932-1936</unitdate>
+      <physdesc>
+        <extent encodinganalog="300$a">approximate 766 items</extent>
+        <extent encodinganalog="300$a"> 1 linear feet</extent>
+        <extent encodinganalog="300$a"> 2 containers</extent>
+      </physdesc>
+      <abstract encodinganalog="5203_">This material consists principally of correspondence between E.C. Johnson, Dean of the Washington State University College of Agriculture and Director of the Washington Agricultural Experiment Station, and F.E. Balmer, Director of the Washington State University Agricultural Extension Service. Numerous reports are also included in the collection.</abstract>
+    </did>
+    <bioghist id="a2" encodinganalog="5451_">
+      <head>Historical sketch:</head>
+      <p>The College of Agriculture began as one of six divisions of the Washington Agricultural College, Experiment Station, and School of Science in 1892. The Division of Agriculture became the Department of Agriculture in 1894 when the depart mental system was organized. In 1917, the departmental system was reformed into a system of schools and colleges, one of which was the College of Agriculture.</p>
+      <p>In an attempt to better coordinate agricultural work and research at the College, the experiment stations, and throughout the state, the Institute of Agricultural Sciences was formed at W.S.U. in 1946. The Institute included the College of Agriculture, the College of Veterinary Medicine, the Washington Agricultural Experiment Stations, and the Agricultural Extension Service. This administrative arrangement existed until September, 1965, when a revised version of the previous system was adopted.</p>
+    </bioghist>
+    <scopecontent id="a3" encodinganalog="5202_">
+      <p>This material consists principally of correspondence between E.C. Johnson, Dean of the Washington State University College of Agriculture and Director of the Washington Agricultural Experiment Station, and F.E. Balmer, Director of the Washington State University Agricultural Extension Service. Numerous reports are also included in the collection. The records are arranged chronologically beginning in April 1932 and ending in March 1936.</p>
+      <p>Additional records of the College of Agriculture can be found in the WSU University Archives.</p>
+    </scopecontent>
+    <accessrestrict id="a14" encodinganalog="506">
+      <p>The Collection is open for research use.</p>
+    </accessrestrict>
+    <acqinfo id="a19" encodinganalog="541">
+      <p>The records of the College of Agriculture were deposited in the Washington State University Library prior to 1970.</p>
+    </acqinfo>
+    <processinfo id="a20" encodinganalog="583">
+      <p>The records were processed by Craig Holstine in June 1978.</p>
+    </processinfo>
+    <controlaccess id="a12">
+      <controlaccess>
+        <persname encodinganalog="700" source="lcnaf" rules="aacr2" role="creator">Johnson, Edward Carl--Archives</persname>
+        <persname encodinganalog="700" source="lcnaf" rules="aacr2" role="creator">Balmer, Frank E.--Archives</persname>
+      </controlaccess>
+      <controlaccess>
+        <corpname source="lcnaf" rules="aacr2" role="creator" encodinganalog="610">Washington State University. College of Agriculture--Archives</corpname>
+        <corpname source="lcnaf" rules="aacr2" role="creator" encodinganalog="710">State College of Washington. College of Agriculture.</corpname>
+        <corpname source="lcnaf" rules="aacr2" role="subject" encodinganalog="610">Washington State University. College of Agriculture--Records and correspondence</corpname>
+      </controlaccess>
+      <controlaccess>
+        <subject source="lcsh" rules="scm" encodinganalog="650">Agricultural colleges--Washington (State)--Administration--Archives</subject>
+        <subject source="lcsh" rules="scm" encodinganalog="650">Agricultural experiment stations--Washington (State)--Archives</subject>
+        <subject source="lcsh" rules="scm" encodinganalog="650">Agricultural extension work--Washington (State)--Archives</subject>
+      </controlaccess>
+      <controlaccess>
+        <subject source="nwda" altrender="nodisplay" encodinganalog="690">Washington (State)</subject>
+        <subject source="nwda" altrender="nodisplay" encodinganalog="690">Colleges and Universities</subject>
+        <subject source="nwda" altrender="nodisplay" encodinganalog="690">Agriculture</subject>
+      </controlaccess>
+    </controlaccess>
+    <dsc id="a23" type="combined">
+      <c01 id="G8841" level="file">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">1</container>
+          <unittitle encodinganalog="245$a">April-May 1932 </unittitle>
+          <physdesc>
+            <extent encodinganalog="300$a">80 items</extent>
+          </physdesc>
+        </did>
+      </c01>
+      <c01 id="G8842" level="file">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">2</container>
+          <unittitle encodinganalog="245$a">June 1932 </unittitle>
+          <physdesc>
+            <extent encodinganalog="300$a">78 items</extent>
+          </physdesc>
+        </did>
+      </c01>
+      <c01 id="G8843" level="file">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">3</container>
+          <unittitle encodinganalog="245$a">June-August 1932 (Relating to the Farm Account Book) </unittitle>
+          <physdesc>
+            <extent encodinganalog="300$a">54 items</extent>
+          </physdesc>
+        </did>
+      </c01>
+      <c01 id="G8844" level="file">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">4</container>
+          <unittitle encodinganalog="245$a">July-October 1932 </unittitle>
+          <physdesc>
+            <extent encodinganalog="300$a">74 items</extent>
+          </physdesc>
+        </did>
+      </c01>
+      <c01 id="G8845" level="file">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">5</container>
+          <unittitle encodinganalog="245$a">October-December 1932 </unittitle>
+          <physdesc>
+            <extent encodinganalog="300$a">78 items</extent>
+          </physdesc>
+        </did>
+      </c01>
+      <c01 id="G8846" level="file">
+        <did>
+          <container type="box">1</container>
+          <container type="folder">6</container>
+          <unittitle encodinganalog="245$a">January-March 1933 </unittitle>
+          <physdesc>
+            <extent encodinganalog="300$a">94 items</extent>
+          </physdesc>
+        </did>
+      </c01>
+      <c01 id="G8847" level="file">
+        <did>
+          <container type="box">2</container>
+          <container type="folder">1</container>
+          <unittitle encodinganalog="245$a">April-June 1935 </unittitle>
+          <physdesc>
+            <extent encodinganalog="300$a">91 items</extent>
+          </physdesc>
+        </did>
+      </c01>
+      <c01 id="G8848" level="file">
+        <did>
+          <container type="box">2</container>
+          <container type="folder">2</container>
+          <unittitle encodinganalog="245$a">July-September 1935 </unittitle>
+          <physdesc>
+            <extent encodinganalog="300$a">45 items</extent>
+          </physdesc>
+        </did>
+      </c01>
+      <c01 id="G8849" level="file">
+        <did>
+          <container type="box">2</container>
+          <container type="folder">3</container>
+          <unittitle encodinganalog="245$a">October-December 1935 </unittitle>
+          <physdesc>
+            <extent encodinganalog="300$a">66 items</extent>
+          </physdesc>
+        </did>
+      </c01>
+      <c01 id="G8850" level="file">
+        <did>
+          <container type="box">2</container>
+          <container type="folder">4</container>
+          <unittitle encodinganalog="245$a">January-March 1936 </unittitle>
+          <physdesc>
+            <extent encodinganalog="300$a">106 items</extent>
+          </physdesc>
+        </did>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>

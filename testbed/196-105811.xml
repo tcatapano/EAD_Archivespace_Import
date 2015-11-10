@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="unda.xsl"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead2002.dtd">
+<ead>
+<eadheader langencoding="iso639-2b" relatedencoding="DC" scriptencoding="iso15924" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601">
+<eadid url="http://archives.nd.edu/findaids/ead/xml/mcr.xml" countrycode="US" mainagencycode="InNd" encodinganalog="Identifier"> MCR </eadid>
+<filedesc>
+<titlestmt>
+<titleproper encodinganalog="Title"> Joseph Maguire Correspondence </titleproper>
+<subtitle> Guide </subtitle>
+<author encodinganalog="Creator">University of Notre Dame Archives </author>
+ </titlestmt>
+<publicationstmt>
+<publisher encodinganalog="Publisher"> University of Notre Dame Archives </publisher>
+<date encodinganalog="Date" normal="2005">2005 </date>
+<address>
+<addressline> Notre Dame, Indiana 46556 </addressline>
+ </address>
+ </publicationstmt>
+ </filedesc>
+<profiledesc>
+<creation>Description based on paper finding aids and inhouse database. </creation>
+<langusage>
+<language encodinganalog="Language" langcode="eng" scriptcode="Latn"> English </language>
+ </langusage>
+ </profiledesc>
+<revisiondesc>
+<change>
+<date normal="2003-01-28">2003-01-28 </date>
+<item> MCR.SGM converted from EAD 1.0 to 2002 by v1to02.xsl (20030122). </item>
+ </change>
+ </revisiondesc>
+ </eadheader>
+<archdesc level="collection" relatedencoding="ISAD(G)v2">
+<did>
+<unitid countrycode="US" repositorycode="IND"> MCR </unitid>
+<unittitle> Joseph Maguire Correspondence </unittitle>
+<unitdate type="inclusive" normal="1933/1949"> 1933-1949. </unitdate>
+<origination>
+<persname> Maguire, Joseph, 1871-1964. </persname>
+ </origination>
+<physdesc>
+<extent> 2 linear inches. </extent>
+ </physdesc>
+<repository>
+<corpname> University of Notre Dame Archives </corpname>
+<address>
+<addressline> Notre Dame, Indiana 46556 </addressline>
+ </address>
+ </repository>
+<langmaterial label="Language">
+<language langcode="eng">English. </language>
+ </langmaterial>
+ </did>
+<accessrestrict>
+<head>Legal Status </head>
+<legalstatus type="private">Private </legalstatus>
+ </accessrestrict>
+<prefercite>
+<head> Preferred Citation </head>
+<p> Joseph Maguire Correspondence (MCR), University of Notre Dame Archives (UNDA), Notre Dame, IN 46556 </p>
+ </prefercite>
+<scopecontent>
+<head> Scope and Content </head>
+<p> Four files of correspondence generated during his tenure  as President of St. Edward's University, Austin, Texas,  1934-1937, and as Superior to the Holy Cross Community  House at Notre Dame. </p>
+<p> St. Edward's was operated by the Indiana Province of the  Congregation of Holy Cross, and correspondence reflects  this relationship. Includes letters from Fathers Thomas  A. Steiner (Assistant Provincial), James A. Burns 
+(Provincial), James W. Donahue (Superior General), and  others. </p>
+ </scopecontent>
+<bioghist>
+<head> Background </head>
+<p> Maguire earned bachelor's and master's degrees from the  University of Notre Dame (1886-1893); he joined the  Congregation of Holy Cross in 1891. </p>
+ </bioghist>
+<controlaccess>
+<persname source="lcnaf"> Steiner, Thomas A. </persname>
+<persname source="lcnaf"> Burns, James A. (James Aloysius), 1867-1940. </persname>
+<persname source="lcnaf"> Donahue, James W., 1885-1914. </persname>
+<subject source="lcsh"> St. Edward's University, (Austin, Texas) -- Presidents. </subject>
+<corpname source="lcnaf"> Congregation of Holy Cross. Indiana Province. </corpname>
+<persname source="lcnaf"> Maguire, Joseph, 1871-1964. </persname>
+<subject source="lcsh"> Universities and colleges -- Administration </subject>
+<subject source="lcsh"> College presidents -- Texas. </subject>
+<genreform source="rbgenr"> Letters. </genreform>
+ </controlaccess>
+<relatedmaterial>
+<head>Related Material </head>
+<list>
+<item><extref href="http://archives.nd.edu/findaids/ead/xml/dis.xml">Information Services </extref></item>
+<item><extref href="http://archives.nd.edu/findaids/ead/xml/jwc.xml">John W. Cavanaugh Papers </extref></item>
+<item><extref href="http://archives.nd.edu/findaids/ead/xml/pco.xml">President 1928-1934: Rev. Charles O'Donnell CSC </extref></item>
+<item><extref href="http://archives.nd.edu/findaids/ead/xml/pel.xml">Notre Dame Presidents' Letters, 1856-1906 </extref></item>
+<item><extref href="http://archives.nd.edu/findaids/ead/xml/por.xml">Portraits Collection </extref></item>
+<item><extref href="http://archives.nd.edu/findaids/ead/xml/scm.xml">Congregation of Holy Cross. Indiana Province Records </extref></item>
+<item><extref href="http://archives.nd.edu/findaids/ead/xml/sul.xml">Richard Sullivan Papers </extref></item>
+ </list>
+ </relatedmaterial>
+<dsc type="combined">
+<c01 level="collection"><did><unitid> CMCR </unitid><unittitle> Joseph Maguire: Manuscripts </unittitle></did>
+<c02><did><unitid> CMCR  1.01 </unitid><unittitle type="Letter"> Thomas A. Steiner to Maguire </unittitle><unitdate normal="1936-09-28"> 1936/0928 </unitdate></did></c02>
+<c02><did><unitid> CMCR  1.02 </unitid><unittitle type="Letter"> Thomas A. Steiner to Maguire </unittitle><unitdate normal="1936-07-23"> 1936/0723 </unitdate></did></c02>
+<c02><did><unitid> CMCR  1.03 </unitid><unittitle type="Letter"> J.A. Burns CSC to Maguire </unittitle><unitdate normal="1936-09-06"> 1936/0906 </unitdate></did></c02>
+<c02><did><unitid> CMCR  1.04 </unitid><unittitle type="Letter"> James W. Donahue CSC to Maguire </unittitle><unitdate normal="1936-01-03"> 1936/0103 </unitdate></did></c02>
+<c02><did><unitid> CMCR  1.05 </unitid><unittitle type="Letter"> Maguire to James Donahue </unittitle><unitdate normal="1936-01-26"> 1936/0126 </unitdate></did></c02>
+<c02><did><unitid> CMCR  1.06 </unitid><unittitle type="Letter"> J.A. Burns to Maguire </unittitle><unitdate normal="1936-05-18"> 1936/0518 </unitdate></did></c02>
+<c02><did><unitid> CMCR  1.07 </unitid><unittitle type="Letter"> John F. O'Hara CSC to Maguire </unittitle><unitdate normal="1936-03-31"> 1936/0331 </unitdate></did></c02>
+<c02><did><unitid> CMCR  1.08 </unitid><unittitle type="Letter"> Thomas A. Steiner to Maguire </unittitle><unitdate normal="1936-04-01"> 1936/0401 </unitdate></did></c02>
+<c02><did><unitid> CMCR  1.09 </unitid><unittitle type="Letter"> J.A. Burns to Maguire </unittitle><unitdate normal="1936-06-24"> 1936/0624 </unitdate></did></c02>
+<c02><did><unitid> CMCR  1.10 </unitid><unittitle type="Letter"> Maguire to J.A. Burns </unittitle><unitdate normal="1937-05-11"> 1937/0511 </unitdate></did></c02>
+<c02><did><unitid> CMCR  1.11 </unitid><unittitle type="Letter"> Maguire to J.A. Burns </unittitle><unitdate normal="1937-05-25"> 1937/0525 </unitdate></did></c02>
+<c02><did><unitid> CMCR  1.12 </unitid><unittitle type="Letter"> J.A. Burns to Maguire </unittitle><unitdate normal="1937-06-15"> 1937/0615 </unitdate></did></c02>
+<c02><did><unitid> CMCR  1.13 </unitid><unittitle type="Letter"> J.A. Burns to Maguire </unittitle><unitdate normal="1937-05-22"> 1937/0522 </unitdate></did></c02>
+<c02><did><unitid> CMCR  1.14 </unitid><unittitle type="Letter"> Maguire to J.A. Burns </unittitle><unitdate normal="1933-11-07"> 1933/1107 </unitdate></did></c02>
+<c02><did><unitid> CMCR  1.15 </unitid><unittitle type="Letter"> James W. Donahue to Maguire </unittitle><unitdate normal="1934-11-03"> 1934/1103 </unitdate></did></c02>
+<c02><did><unitid> CMCR  1.16 </unitid><unittitle type="Letter"> J.A. Burns to Maguire </unittitle><unitdate normal="1934-09-29"> 1934/0929 </unitdate></did></c02>
+<c02><did><unitid> CMCR  1.17 </unitid><unittitle type="Letter"> James W. Donahue to Maguire </unittitle><unitdate normal="1934-11-08"> 1934/1108 </unitdate></did></c02>
+<c02><did><unitid> CMCR  1.18 </unitid><unittitle type="Letter"> J.A. Burns to Maguire </unittitle><unitdate normal="1936-06-28"> 1936/0628 </unitdate></did></c02>
+<c02><did><unitid> CMCR  1.19 </unitid><unittitle type="Letter"> J.A. Burns to Maguire </unittitle><unitdate normal="1936-07-08"> 1936/0708 </unitdate></did></c02>
+<c02><did><unitid> CMCR  1.20 </unitid><unittitle type="Letter"> Maguire to J.W. Donahue </unittitle><unitdate normal="1935-10-01"> 1935/1001 </unitdate></did></c02>
+<c02><did><unitid> CMCR  1.21 </unitid><unittitle type="Letter"> Maguire to J.A. Burns </unittitle><unitdate normal="1935-09-02"> 1935/0902 </unitdate></did></c02>
+<c02><did><unitid> CMCR  1.22 </unitid><unittitle type="Letter"> Maguire to J.A. Burns </unittitle><unitdate normal="1937-06-19"> 1937/0619 </unitdate></did></c02>
+<c02><did><unitid> CMCR  1.23 </unitid><unittitle type="Letter"> Maguire to J.W. Donahue </unittitle><unitdate normal="1937-05-25"> 1937/0525 </unitdate></did></c02>
+<c02><did><unitid> CMCR  1.24 </unitid><unittitle type="Letter"> H.H. Homer to Maguire </unittitle><unitdate normal="1935-05-29"> 1935/0529 </unitdate></did></c02>
+<c02><did><unitid> CMCR  1.25 </unitid><unittitle type="Letter"> J.A. Burns to Maguire </unittitle><unitdate normal="1936-12-23"> 1936/1223 </unitdate></did></c02>
+<c02><did><unitid> CMCR  1.26 </unitid><unittitle type="Letter"> Joe L. Stanton to J.A. Burns </unittitle><unitdate normal="1937-05-11"> 1937/0511 </unitdate></did></c02>
+<c02><did><unitid> CMCR  1.27 </unitid><unittitle type="Letter"> Br. Chrysostom to Maguire </unittitle><unitdate normal="1937-06-25"> 1937/0625 </unitdate></did></c02>
+<c02><did><unitid> CMCR  1.28 </unitid><unittitle type="Letter"> J.A. Burns to Maguire </unittitle><unitdate normal="1936-08-11"> 1936/0811 </unitdate></did></c02>
+<c02><did><unitid> CMCR  1.29 </unitid><unittitle type="Letter"> J.A. Burns to Maguire </unittitle><unitdate normal="1936-07-21"> 1936/0721 </unitdate></did></c02>
+<c02><did><unitid> CMCR  1.30 </unitid><unittitle type="Letter"> J.A. Burns to Maguire </unittitle><unitdate normal="1936-07-07"> 1936/0707 </unitdate></did></c02>
+<c02><did><unitid> CMCR  1.31 </unitid><unittitle type="Letter"> J.A. Burns to Maguire </unittitle><unitdate normal="1936-06-24"> 1936/0624 </unitdate></did></c02>
+<c02><did><unitid> CMCR  1.32 </unitid><unittitle type="Letter"> J.A. Burns to Maguire </unittitle><unitdate normal="1936-08-28"> 1936/0828 </unitdate></did></c02>
+<c02><did><unitid> CMCR  1.33 </unitid><unittitle type="Letter"> J.A. Burns to Maguire </unittitle><unitdate normal="1936-06-16"> 1936/0616 </unitdate></did></c02>
+<c02><did><unitid> CMCR  1.34 </unitid><unittitle type="Letter"> Thomas A. Steiner to Maguire </unittitle><unitdate normal="1936-07-15"> 1936/0715 </unitdate></did></c02>
+<c02><did><unitid> CMCR  1.35 </unitid><unittitle type="Letter"> J.A. Burns to Maguire </unittitle><unitdate normal="1937-03-02"> 1937/0302 </unitdate></did></c02>
+<c02><did><unitid> CMCR  1.36 </unitid><unittitle type="Letter"> Maguire to J.A. Burns </unittitle><unitdate normal="1937-05-04"> 1937/0504 </unitdate></did></c02>
+<c02><did><unitid> CMCR  1.37 </unitid><unittitle type="Letter"> Maguire to J.A. Burns </unittitle><unitdate normal="1937-02-23"> 1937/0223 </unitdate></did></c02>
+<c02><did><unitid> CMCR  1.38 </unitid><unittitle type="Letter"> Maguire to J.A. Burns </unittitle><unitdate normal="1937-03-05"> 1937/0305 </unitdate></did></c02>
+<c02><did><unitid> CMCR  1.39 </unitid><unittitle type="Letter"> Maguire to J.A. Burns </unittitle><unitdate normal="1937-03-05"> 1937/0305 </unitdate></did></c02>
+<c02><did><unitid> CMCR  1.40 </unitid><unittitle type="Letter"> Maguire to J.A. Burns </unittitle><unitdate normal="1937-04-07"> 1937/0407 </unitdate></did></c02>
+<c02><did><unitid> CMCR  1.41 </unitid><unittitle type="Letter"> J.A. Burns to Maguire </unittitle><unitdate normal="1937-04-11"> 1937/0411 </unitdate></did></c02>
+<c02><did><unitid> CMCR  1.42 </unitid><unittitle type="Letter"> J.A. Burns to Maguire </unittitle><unitdate normal="1937-03-03"> 1937/0303 </unitdate></did></c02>
+<c02><did><unitid> CMCR  1.43 </unitid><unittitle type="Letter"> J.A. Burns to Maguire </unittitle><unitdate normal="1935-09-16"> 1935/0916 </unitdate></did></c02>
+<c02><did><unitid> CMCR  1.44 </unitid><unittitle type="Letter"> Maguire to J.A. Burns </unittitle><unitdate normal="1935-09-20"> 1935/0920 </unitdate></did></c02>
+<c02><did><unitid> CMCR  1.45 </unitid><unittitle type="Letter"> Maguire to J.A. Burns </unittitle><unitdate normal="1935-09-12"> 1935/0912 </unitdate></did></c02>
+<c02><did><unitid> CMCR  1.46 </unitid><unittitle type="Letter"> Maguire to J.A. Burns </unittitle><unitdate normal="1935-09-11"> 1935/0911 </unitdate></did></c02>
+<c02><did><unitid> CMCR  1.47 </unitid><unittitle type="Letter"> Burns to Maguire </unittitle><unitdate normal="1935-09-04"> 1935/0904 </unitdate></did></c02>
+<c02><did><unitid> CMCR  1.48 </unitid><unittitle type="Letter"> Burns to Maguire </unittitle><unitdate normal="1935-08-31"> 1935/0831 </unitdate></did></c02>
+<c02><did><unitid> CMCR  1.49 </unitid><unittitle type="Letter"> Burns to Maguire </unittitle><unitdate normal="1935-08-30"> 1935/0830 </unitdate></did></c02>
+<c02><did><unitid> CMCR  1.50 </unitid><unittitle type="Letter"> Maguire to Burns </unittitle><unitdate normal="1935-08-21"> 1935/0821 </unitdate></did></c02>
+<c02><did><unitid> CMCR  1.51 </unitid><unittitle type="Letter"> Burns to Maguire </unittitle><unitdate normal="1935-08-14"> 1935/0814 </unitdate></did></c02>
+<c02><did><unitid> CMCR  1.52 </unitid><unittitle type="Letter"> Maguire to Burns </unittitle><unitdate normal="1935-07-23"> 1935/0723 </unitdate></did></c02>
+<c02><did><unitid> CMCR  1.53 </unitid><unittitle type="Letter"> Burns to Maguire </unittitle><unitdate normal="1935-07-20"> 1935/0720 </unitdate></did></c02>
+<c02><did><unitid> CMCR  1.54 </unitid><unittitle type="Letter"> J.J. O'Brien to Burns </unittitle><unitdate normal="1935-07-22"> 1935/0722 </unitdate></did></c02>
+<c02><did><unitid> CMCR  1.55 </unitid><unittitle type="Letter"> Maguire to Burns </unittitle><unitdate normal="1935-07-08"> 1935/0708 </unitdate></did></c02>
+<c02><did><unitid> CMCR  1.56 </unitid><unittitle type="Letter"> Burns to Maguire </unittitle><unitdate normal="1935-07-02"> 1935/0702 </unitdate></did></c02>
+<c02><did><unitid> CMCR  1.57 </unitid><unittitle type="Letter"> Burns to Maguire </unittitle><unitdate normal="1935-07-04"> 1935/0704 </unitdate></did></c02>
+<c02><did><unitid> CMCR  1.58 </unitid><unittitle type="Letter"> Maguire to Burns </unittitle><unitdate normal="1935-07-18"> 1935/0718 </unitdate></did></c02>
+<c02><did><unitid> CMCR  1.59 </unitid><unittitle type="Letter"> Maguire to Burns </unittitle><unitdate normal="1935-07-02"> 1935/0702 </unitdate></did></c02>
+<c02><did><unitid> CMCR  1.60 </unitid><unittitle type="Letter"> J.J. O'Brien to Maguire </unittitle><unitdate normal="1935-07-02"> 1935/0702 </unitdate></did></c02>
+<c02><did><unitid> CMCR  1.61 </unitid><unittitle type="Letter"> Maguire to Burns </unittitle><unitdate normal="1935-07-02"> 1935/0702 </unitdate></did></c02>
+<c02><did><unitid> CMCR  1.62 </unitid><unittitle type="Letter"> Maguire to Burns </unittitle><unitdate normal="1935-06-28"> 1935/0628 </unitdate></did></c02>
+<c02><did><unitid> CMCR  1.63 </unitid><unittitle type="Letter"> Maguire to Burns </unittitle><unitdate normal="1935-06-24"> 1935/0624 </unitdate></did></c02>
+<c02><did><unitid> CMCR  1.64 </unitid><unittitle type="Letter"> Maguire to Burns </unittitle><unitdate normal="1935-06-22"> 1935/0622 </unitdate></did></c02>
+<c02><did><unitid> CMCR  1.65 </unitid><unittitle type="Letter"> Maguire to Burns </unittitle><unitdate normal="1935-07-17"> 1935/0717 </unitdate></did></c02>
+<c02><did><unitid> CMCR  1.66 </unitid><unittitle type="Letter"> J.J. O'Brien to Burns </unittitle><unitdate normal="1935-07-17"> 1935/0717 </unitdate></did></c02>
+<c02><did><unitid> CMCR  1.67 </unitid><unittitle type="Letter"> Maguire to Burns </unittitle><unitdate normal="1935-06-12"> 1935/0612 </unitdate></did></c02>
+<c02><did><unitid> CMCR  1.68 </unitid><unittitle type="Letter"> Maguire to J.W. Donahue </unittitle><unitdate normal="1935-06-10"> 1935/0610 </unitdate></did></c02>
+<c02><did><unitid> CMCR  1.69 </unitid><unittitle type="Letter"> Maguire to J.W. Donahue </unittitle><unitdate normal="1937-06-20"> 1937/0620 </unitdate></did></c02>
+<c02><did><unitid> CMCR  1.70 </unitid><unittitle type="Letter"> Maguire to Faculty Members of St. Edwards University </unittitle><unitdate normal="1937-05-24"> 1937/0524 </unitdate></did></c02>
+<c02><did><unitid> CMCR  1.71 </unitid><unittitle type="Letter"> Maguire to Burns </unittitle><unitdate normal="1935-06-05"> 1935/0605 </unitdate></did></c02>
+<c02><did><unitid> CMCR  1.72 </unitid><unittitle type="Letter"> Maguire to Burns </unittitle><unitdate normal="1935-06-03"> 1935/0603 </unitdate></did></c02>
+<c02><did><unitid> CMCR  1.73 </unitid><unittitle type="Letter"> James V. Allred to Maguire </unittitle><unitdate normal="1937-05-14"> 1937/0514 </unitdate></did></c02>
+<c02><did><unitid> CMCR  1.74 </unitid><unittitle type="Letter"> Burns to Maguire </unittitle><unitdate normal="1937-05-02"> 1937/0502 </unitdate></did></c02>
+<c02><did><unitid> CMCR  1.75 </unitid><unittitle type="Letter"> Hugh O'Donnell to Maguire </unittitle><unitdate normal="1937-04-27"> 1937/0427 </unitdate></did></c02>
+<c02><did><unitid> CMCR  1.76 </unitid><unittitle type="Letter"> Maguire to ? </unittitle><unitdate normal="1936-04-06"> 1936/0406 </unitdate></did></c02>
+<c02><did><unitid> CMCR  1.77 </unitid><unittitle type="Letter"> A. Lester Pierce to Principal </unittitle><unitdate> nd </unitdate></did></c02>
+<c02><did><unitid> CMCR  1.78 </unitid><unittitle type="Letter"> Maguire to Norman Johnson </unittitle><unitdate normal="1937-02-24"> 1937/0224 </unitdate></did></c02>
+<c02><did><unitid> CMCR  1.79 </unitid><unittitle type="Letter"> J.W. Donahue to Maguire </unittitle><unitdate normal="1936-05-20"> 1936/0520 </unitdate></did></c02>
+<c02><did><unitid> CMCR  1.80 </unitid><unittitle type="Letter"> James Allred to Maguire </unittitle><unitdate normal="1937-05-20"> 1937/0520 </unitdate></did></c02>
+<c02><did><unitid> CMCR  1.81 </unitid><unittitle type="Letter"> Thomas Steiner to James Allred </unittitle><unitdate normal="1937-05-17"> 1937/0517 </unitdate></did></c02>
+<c02><did><unitid> CMCR  1.82 </unitid><unittitle type="Letter"> P.J. Horkin to James A. Burns </unittitle><unitdate normal="1937-05-28"> 1937/0528 </unitdate></did></c02>
+<c02><did><unitid> CMCR  1.83 </unitid><unittitle type="Letter"> Maguire to Eugene Burke </unittitle><unitdate normal="1937-04-17"> 1937/0417 </unitdate></did></c02>
+<c02><did><unitid> CMCR  1.84 </unitid><unittitle type="Letter"> Maguire to Eugene Burke </unittitle><unitdate normal="1937-04-17"> 1937/0417 </unitdate></did></c02>
+<c02><did><unitid> CMCR  1.85 </unitid><unittitle type="Letter"> Maguire to Jos. Burke </unittitle><unitdate normal="1937-04-17"> 1937/0417 </unitdate></did></c02>
+<c02><did><unitid> CMCR  1.86 </unitid><unittitle type="Letter"> Maguire to Burns </unittitle><unitdate normal="1937-04-17"> 1937/0417 </unitdate></did></c02>
+<c02><did><unitid> CMCR  1.87 </unitid><unittitle type="Letter"> Br. Chrysostom to Maguire </unittitle><unitdate normal="1936-07-23"> 1936/0723 </unitdate></did></c02>
+<c02><did><unitid> CMCR  1.88 </unitid><unittitle type="Letter"> Burns to Maguire </unittitle><unitdate normal="1937-04-26"> 1937/0426 </unitdate></did></c02>
+<c02><did><unitid> CMCR  1.89 </unitid><unittitle type="Letter"> Maguire to John O'Brien </unittitle><unitdate normal="1937-02-23"> 1937/0223 </unitdate></did></c02>
+<c02><did><unitid> CMCR  1.90 </unitid><unittitle type="Letter"> Maguire to Lester Pierce </unittitle><unitdate normal="1937-06-10"> 1937/0610 </unitdate></did></c02>
+<c02><did><unitid> CMCR  1.91 </unitid><unittitle type="Letter"> Maguire to Matt. Schumacher </unittitle><unitdate normal="1937-02-25"> 1937/0225 </unitdate></did></c02>
+<c02><did><unitid> CMCR  1.92 </unitid><unittitle type="Letter"> Maguire to Burns </unittitle><unitdate normal="1936-06-16"> 1936/0616 </unitdate></did></c02>
+<c02><did><unitid> CMCR  1.93 </unitid><unittitle type="Letter"> Maguire to Burns </unittitle><unitdate normal="1936-06-17"> 1936/0617 </unitdate></did></c02>
+<c02><did><unitid> CMCR  1.94 </unitid><unittitle type="Letter"> Burns to Maguire </unittitle><unitdate normal="1935-06-15"> 1935/0615 </unitdate></did></c02>
+<c02><did><unitid> CMCR  1.95 </unitid><unittitle type="Letter"> Letter of Suggestions for Changes in Personel </unittitle></did></c02>
+<c02><did><unitid> CMCR  1.96 </unitid><unittitle type="Letter"> Suggestions for Replacements for St. Edwards for 1936 </unittitle></did></c02>
+<c02><did><unitid> CMCR  1.97 </unitid><unittitle type="Letter"> Burns to Maguire </unittitle><unitdate normal="1935-08-24"> 1935/0824 </unitdate></did></c02>
+<c02><did><unitid> CMCR  1.98 </unitid><unittitle type="Letter"> Byrne to Maguire </unittitle><unitdate normal="1935-04-22"> 1935/0422 </unitdate></did></c02>
+<c02><did><unitid> CMCR  1.99 </unitid><unittitle type="Letter"> Committee on Guidance to Mrs. Masterson </unittitle><unitdate normal="1935-07-23"> 1935/0723 </unitdate></did></c02>
+<c02><did><unitid> CMCR  1.100 </unitid><unittitle type="Letter"> Burns to James O'Brien </unittitle><unitdate normal="1935-07-20"> 1935/0720 </unitdate></did></c02>
+<c02><did><unitid> CMCR  1.101 </unitid><unittitle type="Letter"> Maguire to Burns </unittitle><unitdate normal="1936-05-25"> 1936/0525 </unitdate></did></c02>
+<c02><did><unitid> CMCR  1.102 </unitid><unittitle type="Document"> Newspaper Clipping, "New Teachers' Rules Listed" </unittitle></did></c02>
+<c02><did><unitid> CMCR  1.103 </unitid><unittitle type="Document"> Freshman class listings of St. Edward's University </unittitle><unitdate normal="1934"> 1934 </unitdate></did></c02>
+<c02><did><unitid> CMCR  1.104 </unitid><unittitle type="Document"> Freshman class listings of St. Edward's University </unittitle><unitdate normal="1936"> 1936 </unitdate></did></c02>
+<c02><did><unitid> CMCR  1.105 </unitid><unittitle type="Document"> Report of the Co-operative lesting bureau </unittitle></did></c02>
+<c02><did><unitid> CMCR  1.105 </unitid><unittitle type="Letter"> Maguire to Burns </unittitle><unitdate normal="1936-09-06"> 1936/0906 </unitdate></did></c02>
+<c02><did><unitid> CMCR  1.106 </unitid><unittitle type="Document"> 2 statements of Operating Costs for St. Edward's`University 1934/0616 - 1936/0615 </unittitle></did></c02>
+<c02><did><unitid> CMCR  1.107 </unitid><unittitle type="Letter"> John Lacey to Maguire </unittitle><unitdate normal="1936-04-01"> 1936/0401 </unitdate></did></c02>
+<c02><did><unitid> CMCR  1.108 </unitid><unittitle type="Letter"> Jos. J. Ryan to Maguire </unittitle><unitdate normal="1936-03-21"> 1936/0321 </unitdate></did></c02>
+<c02><did><unitid> CMCR  1.109 </unitid><unittitle type="Document"> Question and Answer sheets re St. Edward's University </unittitle></did></c02>
+<c02><did><unitid> CMCR  1.110 </unitid><unittitle type="Letter"> Lester Pierce to Maguire </unittitle><unitdate normal="1937-05-24"> 1937/0524 </unitdate></did></c02>
+<c02><did><unitid> CMCR  1.111 </unitid><unittitle type="Letter"> Maguire to Pat Haggerty </unittitle><unitdate normal="1937-07-21"> 1937/0721 </unitdate></did></c02>
+<c02><did><unitid> CMCR  1.112 </unitid><unittitle type="Letter"> Burns to Maguire </unittitle><unitdate normal="1934-07-14"> 1934/0714 </unitdate></did></c02>
+<c02><did><unitid> CMCR  1.113 </unitid><unittitle type="Letter"> Burns to Maguire </unittitle><unitdate normal="1935-10-21"> 1935/1021 </unitdate></did></c02>
+<c02><did><unitid> CMCR  1.114 </unitid><unittitle type="Letter"> Thomas Steiner to Maguire </unittitle><unitdate normal="1935-10-21"> 1935/1021 </unitdate></did></c02>
+<c02><did><unitid> CMCR  2.01 </unitid><unittitle type="Letter"> Thomas Steiner to Maguire </unittitle><unitdate normal="1940-07-23"> 1940/0723 </unitdate></did></c02>
+<c02><did><unitid> CMCR  2.02 </unitid><unittitle type="Letter"> Maguire to Edward Heston </unittitle><unitdate normal="1944-06-06"> 1944/0606 </unitdate></did></c02>
+<c02><did><unitid> CMCR  2.03 </unitid><unittitle type="Letter"> Maguire to Charles McCarthy </unittitle><unitdate normal="1944-03-30"> 1944/0330 </unitdate></did></c02>
+<c02><did><unitid> CMCR  2.04 </unitid><unittitle type="Letter"> Maguire to Richard Sullivan </unittitle><unitdate normal="1944-03-30"> 1944/0330 </unitdate></did></c02>
+<c02><did><unitid> CMCR  2.05 </unitid><unittitle type="Letter"> Charles McCarthy to Maguire </unittitle><unitdate normal="1944-03-25"> 1944/0325 </unitdate></did></c02>
+<c02><did><unitid> CMCR  2.06 </unitid><unittitle type="Letter"> Maguire to Thomas Steiner </unittitle><unitdate normal="1944-06-10"> 1944/0610 </unitdate></did></c02>
+<c02><did><unitid> CMCR  2.07 </unitid><unittitle type="Letter"> M.M. Walker to Thomas Steiner </unittitle><unitdate normal="1945-10-22"> 1945/1022 </unitdate></did></c02>
+<c02><did><unitid> CMCR  2.08 </unitid><unittitle type="Letter"> Maguire to A.G. Brakore </unittitle><unitdate normal="1945-11-09"> 1945/1109 </unitdate></did></c02>
+<c02><did><unitid> CMCR  2.09 </unitid><unittitle type="Letter"> A.G. Brakore to Thomas Steiner </unittitle><unitdate normal="1945-10-30"> 1945/1030 </unitdate></did></c02>
+<c02><did><unitid> CMCR  2.10 </unitid><unittitle type="Letter"> Thomas Steiner to Maguire </unittitle><unitdate normal="1945-11-08"> 1945/1108 </unitdate></did></c02>
+<c02><did><unitid> CMCR  2.11 </unitid><unittitle type="Letter"> M.M. Walker to Maguire </unittitle><unitdate normal="1945-11-05"> 1945/1105 </unitdate></did></c02>
+<c02><did><unitid> CMCR  2.12 </unitid><unittitle type="Letter"> Felix Duffey to Michael Early </unittitle><unitdate normal="1944-05-15"> 1944/0515 </unitdate></did></c02>
+<c02><did><unitid> CMCR  2.13 </unitid><unittitle type="Letter"> Richard Sullivan to Maguire </unittitle><unitdate normal="1944-05-17"> 1944/0517 </unitdate></did></c02>
+<c02><did><unitid> CMCR  2.14 </unitid><unittitle type="Letter"> Felix Duffey to Maguire </unittitle><unitdate normal="1944-05-15"> 1944/0515 </unitdate></did></c02>
+<c02><did><unitid> CMCR  2.15 </unitid><unittitle type="Letter"> Richard Sullivan to Maguire </unittitle><unitdate normal="1943-06-10"> 1943/0610 </unitdate></did></c02>
+<c02><did><unitid> CMCR  2.16 </unitid><unittitle type="Letter"> Richard Collentine to Thomas Steiner </unittitle><unitdate normal="1938-04-08"> 1938/0408 </unitdate></did></c02>
+<c02><did><unitid> CMCR  2.17 </unitid><unittitle type="Letter"> Richard Collentine to Thomas Steiner (duplicate) </unittitle><unitdate normal="1938-04-08"> 1938/0408 </unitdate></did></c02>
+<c02><did><unitid> CMCR  2.18 </unitid><unittitle type="Letter"> Thomas Steiner to Richard Collentine </unittitle><unitdate normal="1940-04-01"> 1940/0401 </unitdate></did></c02>
+<c02><did><unitid> CMCR  2.19 </unitid><unittitle type="Letter"> John Cavanaugh to Richard Collentine </unittitle><unitdate normal="1938-10-29"> 1938/1029 </unitdate></did></c02>
+<c02><did><unitid> CMCR  2.20 </unitid><unittitle type="Letter"> Burns to Richard Collentine </unittitle><unitdate normal="1938-07-21"> 1938/0721 </unitdate></did></c02>
+<c02><did><unitid> CMCR  2.21 </unitid><unittitle type="Letter"> Thomas Steiner to Richard Collentine </unittitle><unitdate normal="1940-04-01"> 1940/0401 </unitdate></did></c02>
+<c02><did><unitid> CMCR  2.22 </unitid><unittitle type="Letter"> Thomas Steiner to Maguire </unittitle><unitdate normal="1946-05-10"> 1946/0510 </unitdate></did></c02>
+<c02><did><unitid> CMCR  2.23 </unitid><unittitle type="Document"> Subprobation form for proposed New York </unittitle><unitdate normal="1935-01"> 1935/01 </unitdate></did></c02>
+<c02><did><unitid> CMCR  2.24 </unitid><unittitle type="Document"> Estimated cost of Plumbing alterations`(community house) </unittitle><unitdate normal="1935-01-05"> 1935/0105 </unitdate></did></c02>
+<c02><did><unitid> CMCR  2.25 </unitid><unittitle type="Letter"> Br. Augustus to Steiner </unittitle><unitdate normal="1934-01-05"> 1934/0105 </unitdate></did></c02>
+<c02><did><unitid> CMCR  2.26 </unitid><unittitle type="Letter"> Br. Augustus to Steiner </unittitle><unitdate normal="1934-01-09"> 1934/0109 </unitdate></did></c02>
+<c02><did><unitid> CMCR  2.27 </unitid><unittitle type="Letter"> Six letters of Admission to Profession- CSC </unittitle></did></c02>
+<c02><did><unitid> CMCR  2.27 </unitid><unittitle type="Comment"> CSC = Congregation of Holy Cross </unittitle></did></c02>
+<c02><did><unitid> CMCR  2.28 </unitid><unittitle type="Letter"> Thomas Steiner to Maguire </unittitle><unitdate normal="1946-01-07"> 1946/0107 </unitdate></did></c02>
+<c02><did><unitid> CMCR  2.29 </unitid><unittitle type="Letter"> Admission to Eugene Gormley </unittitle><unitdate normal="1945-12-04"> 1945/1204 </unitdate></did></c02>
+<c02><did><unitid> CMCR  2.30 </unitid><unittitle type="Letter"> Admission to Vincent Demsko </unittitle><unitdate normal="1945-12-04"> 1945/1204 </unitdate></did></c02>
+<c02><did><unitid> CMCR  2.31 </unitid><unittitle type="Letter"> Admission to Leonard Bombardier </unittitle><unitdate normal="1945-12-04"> 1945/1204 </unitdate></did></c02>
+<c02><did><unitid> CMCR  2.32 </unitid><unittitle type="Letter"> Thomas Steiner to Maguire </unittitle><unitdate normal="1946-02-19"> 1946/0219 </unitdate></did></c02>
+<c02><did><unitid> CMCR  2.33 </unitid><unittitle type="Letter"> Thomas Steiner to Maguire </unittitle><unitdate normal="1946-04-02"> 1946/0402 </unitdate></did></c02>
+<c02><did><unitid> CMCR  2.34 </unitid><unittitle type="Letter"> Thomas Steiner to Maguire </unittitle><unitdate normal="1946-04-10"> 1946/0410 </unitdate></did></c02>
+<c02><did><unitid> CMCR  2.35 </unitid><unittitle type="Letter"> Maguire to Thomas Steiner </unittitle><unitdate normal="1946-05-18"> 1946/0518 </unitdate></did></c02>
+<c02><did><unitid> CMCR  2.36 </unitid><unittitle type="Letter"> Thomas Steiner to Maguire </unittitle><unitdate normal="1945-10-24"> 1945/1024 </unitdate></did></c02>
+<c02><did><unitid> CMCR  2.37 </unitid><unittitle type="Letter"> Cletus Rose to Maguire </unittitle><unitdate normal="1945-10-30"> 1945/1030 </unitdate></did></c02>
+<c02><did><unitid> CMCR  2.38 </unitid><unittitle type="Letter"> G.A. Farabaugh to Maguire </unittitle><unitdate normal="1945-10-06"> 1945/1006 </unitdate></did></c02>
+<c02><did><unitid> CMCR  2.39 </unitid><unittitle type="Document"> Employer's First Report of Injury (Anton Wasnalski) </unittitle></did></c02>
+<c02><did><unitid> CMCR  2.40 </unitid><unittitle type="Letter"> Br. Alcuin to Maguire </unittitle><unitdate normal="1945-07-28"> 1945/0728 </unitdate></did></c02>
+<c02><did><unitid> CMCR  2.41 </unitid><unittitle type="Letter"> J. Brass to Maguire </unittitle><unitdate normal="1945-07-13"> 1945/0713 </unitdate></did></c02>
+<c02><did><unitid> CMCR  2.42 </unitid><unittitle type="Letter"> Br. Alcuin to Jos. Fiedler </unittitle><unitdate normal="1945-07-13"> 1945/0713 </unitdate></did></c02>
+<c02><did><unitid> CMCR  2.43 </unitid><unittitle type="Letter"> Jos. Fiedler to Maguire </unittitle><unitdate normal="1945-07-11"> 1945/0711 </unitdate></did></c02>
+<c02><did><unitid> CMCR  2.44 </unitid><unittitle type="Letter"> Frank Burger to Maguire </unittitle><unitdate normal="1945-07-23"> 1945/0723 </unitdate></did></c02>
+<c02><did><unitid> CMCR  2.45 </unitid><unittitle type="Letter"> Michael Driscoll to Maguire </unittitle><unitdate normal="1945-08-01"> 1945/0801 </unitdate></did></c02>
+<c02><did><unitid> CMCR  2.46 </unitid><unittitle type="Letter"> Maguire to Michael Driscoll </unittitle><unitdate normal="1945-08-03"> 1945/0803 </unitdate></did></c02>
+<c02><did><unitid> CMCR  2.47 </unitid><unittitle type="Letter"> J.J. Sechowski to Superior </unittitle><unitdate normal="1945-06-28"> 1945/0628 </unitdate></did></c02>
+<c02><did><unitid> CMCR  2.48 </unitid><unittitle type="Letter"> C.E. Reilly to Employment Department ND </unittitle><unitdate normal="1942-12-22"> 1942/1222 </unitdate></did></c02>
+<c02><did><unitid> CMCR  2.49 </unitid><unittitle type="Letter"> Christopher O'Toole to Maguire </unittitle><unitdate normal="1944-09-20"> 1944/0920 </unitdate></did></c02>
+<c02><did><unitid> CMCR  2.50 </unitid><unittitle type="Letter"> J.H. Fiedler to Maguire </unittitle><unitdate normal="1944-09-23"> 1944/0923 </unitdate></did></c02>
+<c02><did><unitid> CMCR  2.51 </unitid><unittitle type="Letter"> Richard Grimm to Maguire </unittitle><unitdate normal="1943-03-14"> 1943/0314 </unitdate></did></c02>
+<c02><did><unitid> CMCR  2.52 </unitid><unittitle type="Letter"> Br. Owen to Maguire </unittitle><unitdate normal="1942-11-14"> 1942/1114 </unitdate></did></c02>
+<c02><did><unitid> CMCR  2.53 </unitid><unittitle type="Letter"> Br. Stanislaus to Maguire </unittitle><unitdate normal="1943-09-28"> 1943/0928 </unitdate></did></c02>
+<c02><did><unitid> CMCR  2.54 </unitid><unittitle type="Letter"> Ph. Vanier to Maguire </unittitle><unitdate normal="1943-09-28"> 1943/0928 </unitdate></did></c02>
+<c02><did><unitid> CMCR  2.55 </unitid><unittitle type="Letter"> Maguire to William Robinson </unittitle><unitdate> nd </unitdate></did></c02>
+<c02><did><unitid> CMCR  2.56 </unitid><unittitle type="Letter"> William Robinson to Maguire </unittitle><unitdate normal="1943-09-06"> 1943/0906 </unitdate></did></c02>
+<c02><did><unitid> CMCR  2.57 </unitid><unittitle type="Letter"> Maguire to A.J. Huegel </unittitle><unitdate normal="1943-08-08"> 1943/0808 </unitdate></did></c02>
+<c02><did><unitid> CMCR  2.58 </unitid><unittitle type="Letter"> Frank Burger to Maguire </unittitle><unitdate normal="1945-03-19"> 1945/0319 </unitdate></did></c02>
+<c02><did><unitid> CMCR  2.59 </unitid><unittitle type="Letter"> Richard Sullivan to Maguire </unittitle><unitdate normal="1942-11-24"> 1942/1124 </unitdate></did></c02>
+<c02><did><unitid> CMCR  2.60 </unitid><unittitle type="Letter"> Joseph Hart to Maguire </unittitle><unitdate> nd </unitdate></did></c02>
+<c02><did><unitid> CMCR  2.61 </unitid><unittitle type="Letter"> Richard Sullivan to Maguire </unittitle><unitdate normal="1945-05-18"> 1945/0518 </unitdate></did></c02>
+<c02><did><unitid> CMCR  2.62 </unitid><unittitle type="Letter"> Felix Duffey to Maguire </unittitle><unitdate normal="1945-05-14"> 1945/0514 </unitdate></did></c02>
+<c02><did><unitid> CMCR  2.63 </unitid><unittitle type="Letter"> Richard Sullivan to Maguire </unittitle><unitdate normal="1943-02-15"> 1943/0215 </unitdate></did></c02>
+<c02><did><unitid> CMCR  2.64 </unitid><unittitle type="Letter"> Excerpts from letter from Msgr. Ready, N.C.W.C. (2) </unittitle><unitdate> nd </unitdate></did></c02>
+<c02><did><unitid> CMCR  2.65 </unitid><unittitle type="Document"> Registration under the Selective Training and`Services Act </unittitle></did></c02>
+<c02><did><unitid> CMCR  2.66 </unitid><unittitle type="Letter"> Maguire to Hugh O'Donnell </unittitle><unitdate normal="1940-12-09"> 1940/1209 </unitdate></did></c02>
+<c02><did><unitid> CMCR  2.67 </unitid><unittitle type="Letter"> Maguire to Hugh O'Donnell </unittitle><unitdate normal="1945-01-20"> 1945/0120 </unitdate></did></c02>
+<c02><did><unitid> CMCR  3.01 </unitid><unittitle type="Letter"> Albert Cousineau to Maguire </unittitle><unitdate normal="1949-02-06"> 1949/0206 </unitdate></did></c02>
+<c02><did><unitid> CMCR  3.02 </unitid><unittitle type="Letter"> Father Kenny to Maguire </unittitle><unitdate normal="1944-10-25"> 1944/1025 </unitdate></did></c02>
+<c02><did><unitid> CMCR  3.03 </unitid><unittitle type="Letter"> Jerry Folsonie to ? </unittitle><unitdate> nd </unitdate></did></c02>
+<c02><did><unitid> CMCR  3.04 </unitid><unittitle type="Document"> Annual Banquet Program </unittitle><unitdate normal="1927-01-01"> 1927/0101 </unitdate></did></c02>
+<c02><did><unitid> CMCR  3.05 </unitid><unittitle type="Letter">? to Charles O'Donnell </unittitle><unitdate normal="1924-09-08"> 1924/0908 </unitdate></did></c02>
+<c02><did><unitid> CMCR  3.06 </unitid><unittitle type="Letter"> St. Edward's University to Steiner </unittitle><unitdate> nd </unitdate></did></c02>
+<c02><did><unitid> CMCR  3.07 </unitid><unittitle type="Letter"> J.H. Fiedler to Maguire </unittitle><unitdate normal="1946-05-13"> 1946/0513 </unitdate></did></c02>
+<c02><did><unitid> CMCR  3.08 </unitid><unittitle type="Letter"> William Robinson to "Dear Father" </unittitle><unitdate normal="1946-05-10"> 1946/0510 </unitdate></did></c02>
+<c02><did><unitid> CMCR  3.09 </unitid><unittitle type="Letter"> Hugh O'Donnell to Maguire </unittitle><unitdate normal="1945-01-23"> 1945/0123 </unitdate></did></c02>
+<c02><did><unitid> CMCR  3.10 </unitid><unittitle type="Letter"> Maguire to William Molony </unittitle><unitdate normal="1945-03-29"> 1945/0329 </unitdate></did></c02>
+<c02><did><unitid> CMCR  3.11 </unitid><unittitle type="Letter"> Maguire to William Lallow </unittitle><unitdate normal="1943-06-29"> 1943/0629 </unitdate></did></c02>
+<c02><did><unitid> CMCR  3.12 </unitid><unittitle type="Letter"> Maguire to Francis Remler </unittitle><unitdate normal="1942-08-30"> 1942/0830 </unitdate></did></c02>
+<c02><did><unitid> CMCR  3.13 </unitid><unittitle type="Letter"> Francis Remler to Maguire </unittitle><unitdate normal="1942-09-15"> 1942/0915 </unitdate></did></c02>
+<c02><did><unitid> CMCR  3.14 </unitid><unittitle type="Letter"> C.E. Leutz to Maguire </unittitle><unitdate normal="1942-10-21"> 1942/1021 </unitdate></did></c02>
+<c02><did><unitid> CMCR  3.15 </unitid><unittitle type="Letter"> Maguire to John DeGroote </unittitle><unitdate normal="1941-01-16"> 1941/0116 </unitdate></did></c02>
+<c02><did><unitid> CMCR  3.16 </unitid><unittitle type="Letter"> William Robinson to Maguire </unittitle><unitdate normal="1945-03-16"> 1945/0316 </unitdate></did></c02>
+<c02><did><unitid> CMCR  3.17 </unitid><unittitle type="Letter"> Richard Grimm to Maguire </unittitle><unitdate normal="1941-03-01"> 1941/0301 </unitdate></did></c02>
+<c02><did><unitid> CMCR  3.18 </unitid><unittitle type="Letter"> Maguire to Richard Grimm </unittitle><unitdate normal="1941-03-05"> 1941/0305 </unitdate></did></c02>
+<c02><did><unitid> CMCR  3.19 </unitid><unittitle type="Letter"> Richard Grimm to Maguire </unittitle><unitdate normal="1941-03-10"> 1941/0310 </unitdate></did></c02>
+<c02><did><unitid> CMCR  3.20 </unitid><unittitle type="Letter"> Richard Grunenberg to Maguire </unittitle><unitdate normal="1941-04-23"> 1941/0423 </unitdate></did></c02>
+<c02><did><unitid> CMCR  3.21 </unitid><unittitle type="Letter"> Maguire to Richard Grunenberg </unittitle><unitdate normal="1941-04-25"> 1941/0425 </unitdate></did></c02>
+<c02><did><unitid> CMCR  3.22 </unitid><unittitle type="Letter"> Joseph Pendl to Maguire </unittitle><unitdate normal="1941-04-27"> 1941/0427 </unitdate></did></c02>
+<c02><did><unitid> CMCR  3.23 </unitid><unittitle type="Letter"> Maguire to Joseph Pendl </unittitle><unitdate normal="1941-05-02"> 1941/0502 </unitdate></did></c02>
+<c02><did><unitid> CMCR  3.24 </unitid><unittitle type="Letter"> Dr. Lisewski to Maguire </unittitle><unitdate normal="1941-05-23"> 1941/0523 </unitdate></did></c02>
+<c02><did><unitid> CMCR  3.25 </unitid><unittitle type="Letter"> Maguire to Lisewski </unittitle><unitdate normal="1941-05-28"> 1941/0528 </unitdate></did></c02>
+ </c01></dsc>
+ </archdesc>
+ </ead>

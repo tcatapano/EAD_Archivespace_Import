@@ -1,0 +1,951 @@
+<?xml version="1.0"?>
+<ead>
+	<eadheader repositoryencoding="iso15511" relatedencoding="MARC21" countryencoding="iso3166-1" scriptencoding="iso15924" dateencoding="iso8601" langencoding="iso639-2b" audience="internal" findaidstatus="edited-full-draft">
+		<eadid xmlns:cdlpath="http://www.cdlib.org/path/" mainagencycode="CMalG" countrycode="us" publicid=" PUBLIC -//Getty Research Institute::Special Collections and Visual Resources//TEXT (US::CMalG::910018::John Fitchen Papers)//EN fitchen_x.xml" identifier="ark:/13030/kt6v19s06c" cdlpath:parent="ark:/13030/kt98703819" cdlpath:grandparent="ark:/13030/tf8b69p8g1">US::CMalG::910018</eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper>INVENTORY OF THE JOHN FITCHEN PAPERS, 1927-1989</titleproper>
+				<titleproper type="filing">Fitchen (John) Papers</titleproper>
+				<author>Finding aid prepared by Teresa Morales</author>
+			</titlestmt>
+			<publicationstmt>
+				<publisher>Getty Research Institute </publisher>
+				<address>
+					<addressline>Research Library</addressline>
+					<addressline>Special Collections and Visual Resources</addressline>
+					<addressline>1200 Getty Center Drive, Suite 1100</addressline>
+					<addressline>Los Angeles, California 90049-1688</addressline>
+					<addressline>Phone: (310) 440-7390</addressline>
+					<addressline>Fax: (310) 440-7780</addressline>
+					<addressline>Email Requests: http://www.getty.edu/research/conducting_research/library/reference_form.html</addressline>
+					<addressline>URL: http://www.getty.edu/research/conducting_research/library/</addressline>
+				</address>
+				<date>1994</date>
+				<p> J. Paul Getty Trust</p>
+			</publicationstmt>
+		</filedesc>
+		<profiledesc>
+			<creation>Text converted and initial EAD tagging provided by Apex Data Services, <date>May 2002.</date>
+			</creation>
+			<langusage>Description is in <language scriptcode="latn" langcode="eng">English</language>
+			</langusage>
+			<descrules>Finding aid prepared using <title>Archives, Personal Papers, and Manuscripts</title>.</descrules>
+		</profiledesc>
+		<revisiondesc>
+			<change encodinganalog="583">
+				<date normal="20050214">2005 Feb 14</date>
+				<item> Edited to meet EAD 2002 Best Practice Guidelines by Tom Philo.</item>
+			</change>
+			<change encodinganalog="583">
+				<date normal="2005-01-21">2005-01-21</date>
+				<item>converted from EAD 1.0 to EAD 2002 </item>
+			</change>
+		</revisiondesc>
+	</eadheader>
+	<frontmatter>
+		<titlepage>
+			<titleproper>INVENTORY OF THE JOHN FITCHEN PAPERS, 1927-1989</titleproper>
+			<num>Accession no. 910018 </num>
+			<author>Finding aid prepared
+by Teresa Morales </author>
+			<publisher>Getty Research Institute<extptr href="gettylogo" id="gettylogo" actuate="onload" show="embed" linktype="simple"/>
+			</publisher>
+			<list type="simple">
+				<head>Contact Information:</head>
+				<item>The Getty Research Institute</item>
+				<item>Research Library</item>
+				<item>Special Collections and Visual Resources</item>
+				<item>1200 Getty Center Drive, Suite 1100</item>
+				<item>Los Angeles, California 90049-1688</item>
+				<item>Phone: (310) 440-7390</item>
+				<item>Fax: (310) 440-7780</item>
+				<item>Email Requests: http://www.getty.edu/research/conducting_research/library/reference_form.html</item>
+				<item>URL: http://www.getty.edu/research/conducting_research/library/</item>
+			</list>
+			<p>
+				<list type="deflist">
+					<defitem>
+						<label>Processed by:</label>
+						<item>Teresa Morales  </item>
+					</defitem>
+					<defitem>
+						<label>Date
+Completed:</label>
+						<item>
+							<date era="ce" calendar="gregorian">1994, rev. 2005</date>
+						</item>
+					</defitem>
+					<defitem>
+						<label>Encoded by:</label>
+						<item>Apex Data Systems, with additional coding by Tom Philo  </item>
+					</defitem>
+				</list>2005 J. Paul Getty Trust.</p>
+		</titlepage>
+	</frontmatter>
+	<archdesc level="collection" id="archdesc-1.3">
+		<did id="did-1.3.1">
+			<head>Descriptive Summary</head>
+			<unittitle label="Title" encodinganalog="245">John Fitchen papers  
+         </unittitle>
+			<unitdate type="inclusive" normal="1927/1989">1927-1989</unitdate>
+			<unitid label="Collection number" countrycode="US" repositorycode="CMalG">910018</unitid>
+			<origination label="Creator">
+				<persname source="lcnaf" encodinganalog="100" role="creator">Fitchen, John</persname>
+			</origination>
+			<physdesc label="Extent" encodinganalog="300">
+				<extent>4 lin. ft.</extent>
+				<extent> (10 boxes)</extent>
+			</physdesc>
+			<repository label="Repository" encodinganalog="852">
+				<corpname>Getty Research Institute</corpname>
+				<address>
+					<addressline>Research Library</addressline>
+					<addressline>Special Collections and Visual Resources</addressline>
+					<addressline>1200 Getty Center Drive, Suite 1100</addressline>
+					<addressline>Los Angeles, CA 90049-1688</addressline>
+				</address>
+			</repository>
+			<abstract label="Abstract">American architect and architectural historian. Most of the research materials relate to three of Fitchen's books: 
+			<title>Construction of Gothic Cathedrals</title>, 
+			<title>The New World Dutch Barn</title>, and 
+			<title>Building Construction Before Mechanization</title>. Other papers include designs, drawings, and sketchbooks, as well as correspondence with numerous architectural historians, primarily on the subject of medieval architecture.</abstract>
+<physloc label="Request Materials">To access physical materials on site, go to the <extref actuate="onrequest" show="new" href="http://library.getty.edu/cgi-bin/Pwebrecon.cgi?BBID=268958" linktype="simple">library catalog record</extref> for this collection and click "Request an Item." Click here for <extref actuate="onrequest" show="new" href="http://www.getty.edu/research/conducting_research/library/access_policy.html" linktype="simple">access policy</extref>.</physloc>
+			<langmaterial label="Language">Collection material in <language encodinganalog="041" langcode="eng" scriptcode="latn">English</language>
+			</langmaterial>
+		</did>
+		<descgrp type="admininfo" id="descgrp-1.3.2">
+			<head>Administrative Information</head>
+			<accessrestrict encodinganalog="505">
+				<head>Access</head>
+				<p>Open for use by qualified researchers.</p>
+			</accessrestrict>
+			<userestrict encodinganalog="540">
+				<head>Publication Rights</head>
+      <p>Contact <extref actuate="onrequest" show="new" href="http://www.getty.edu/research/conducting_research/library/rights_repro/">Library Rights and Reproductions</extref></p>
+			</userestrict>
+			<prefercite encodinganalog="524">
+				<head>Preferred Citation</head>
+				<p>John Fitchen papers, 1927-1989, Research Library, The Getty Research Institute, Accession number 910018.</p>
+			</prefercite>
+			<processinfo>
+				<head>Processing History</head>
+				<p>Teresa Morales processed the collection in 1996.</p>
+			</processinfo>
+		</descgrp>
+		<bioghist id="bioghist-1.3.3">
+			<head>Biographical/Historical note</head>
+			<p>John Fitchen, American architectural historian and architect, is the author of several works, among them, <title>Construction of Gothic cathedrals</title> (1961, 1981), <title>New World Dutch barn</title> (1968), and <title>Building construction before mechanization</title> (1986). He attended Harvard University's Graduate School of Design, where he studied with Kenneth John Conant and developed an abiding interest in medieval construction techniques.</p>
+		</bioghist>
+		<scopecontent id="scopecontent-1.3.4">
+			<head>Scope and Content of Collection</head>
+			<p>The Fitchen papers comprise research materials, manuscripts, correspondence, photographs and reviews for his publications, especially for his 3 books: <title>Construction of Gothic cathedrals</title>, <title>New World Dutch barn</title>, and <title>Building construction before mechanization</title>. Manuscripts and printed materials document numerous articles and lectures by Fitchen. Other files contain material for unpublished projects, including his manuscript Plot, plan and perspective. Sketches and drawings document Fitchen's designs for bookplates and buildings, including some done as a student. A sketchbook contains drawings of American Dutch barns. Correspondence with more than a dozen architectural historians centers largely on the subject of medieval architecture and construction.</p>
+			<arrangement>
+				<p>The papers are arranged in 3 series: 
+			<ref target="seriesi" role="SEE" show="embed" actuate="onload">Series I. Research for major publications, ca. 1927-1986</ref>
+					<ref target="seriesii" role="SEE" show="embed" actuate="onload">Series II. Student work, manuscripts, lectures, drawings, ca. 1927-1989</ref>
+					<ref target="seriesiii" role="SEE" show="embed" actuate="onload">Series III. Correspondence, ca. 1954-1984</ref>
+				</p>
+			</arrangement>
+		</scopecontent>
+		<controlaccess id="controlaccess-1.3.5">
+			<head>Indexing Terms</head>
+			<controlaccess>
+				<head>Subjects</head>
+				<persname source="lcnaf" encodinganalog="600">Fitchen, John</persname>
+				<corpname source="lcnaf" encodinganalog="610">Ayasofya Mzesi</corpname>
+				<corpname source="lcnaf" encodinganalog="610">Harvard University. Graduate School of Design</corpname>
+				<corpname source="lcnaf" encodinganalog="610">Washington Cathedral</corpname>
+				<subject source="lcsh" encodinganalog="650">Architecture</subject>
+				<subject source="lcsh" encodinganalog="650">Architecture, Gothic</subject>
+				<subject source="lcsh" encodinganalog="650">Architecture, GothicHistory</subject>
+				<subject source="lcsh" encodinganalog="650">ArchitectureHistoriography</subject>
+				<subject source="lcsh" encodinganalog="650">Architecture, Medieval</subject>
+				<subject source="lcsh" encodinganalog="650">Architecture, MedievalHistory</subject>
+				<subject source="lcsh" encodinganalog="650">BuildingEurope</subject>
+				<subject source="lcsh" encodinganalog="650">BuildingEuropeHistory</subject>
+				<subject source="lcsh" encodinganalog="650">Building materialsEuropeHistory</subject>
+				<subject source="lcsh" encodinganalog="650">BarnsNetherlands</subject>
+				<subject source="lcsh" encodinganalog="650">BarnsUnited States</subject>
+				<subject source="lcsh" encodinganalog="650">Cathedrals</subject>
+				<subject source="lcsh" encodinganalog="650">CathedralsEurope</subject>
+				<subject source="lcsh" encodinganalog="650">Church architecture</subject>
+				<subject source="lcsh" encodinganalog="650">Church architectureEuropeHistory</subject>
+				<subject source="lcsh" encodinganalog="650">Church architectureThemes, motives</subject>
+				<subject source="lcsh" encodinganalog="650">Church architectureDesigns and plans</subject>
+				<subject source="lcsh" encodinganalog="650">Civil engineering</subject>
+				<subject source="lcsh" encodinganalog="650">Vaults (Architecture)</subject>
+				<subject source="lcsh" encodinganalog="650">Vaults (Architecture), Gothic</subject>
+			</controlaccess>
+			<controlaccess>
+				<head>Genres and Forms of Materials</head>
+				<genreform source="aat" encodinganalog="655">Architectural drawingsUnited States20th century</genreform>
+				<genreform source="aat" encodinganalog="655">Photographs, Original</genreform>
+				<genreform source="aat" encodinganalog="655">Photographic prints </genreform>
+			</controlaccess>
+			<controlaccess>
+				<head>Contributors</head>
+				<persname source="lcnaf" encodinganalog="700">Bucher, Franois</persname>
+				<persname source="lcnaf" encodinganalog="700">Conant, Kenneth John, 1894-</persname>
+				<persname source="lcnaf" encodinganalog="700">Harvey, John Hooper</persname>
+				<persname source="lcnaf" encodinganalog="700">Heyman, Jacques</persname>
+				<persname source="lcnaf" encodinganalog="700">Horn, Walter William, 1908-</persname>
+				<persname source="lcnaf" encodinganalog="700">Hubka, Thomas C., 1946-</persname>
+				<persname source="lcnaf" encodinganalog="700">Macaulay, David</persname>
+				<persname source="lcnaf" encodinganalog="700">McKee, Harley J.</persname>
+				<persname source="lcnaf" encodinganalog="700">Placzek, Adolf K.</persname>
+				<persname source="lcnaf" encodinganalog="700">Szarmach, Paul E.</persname>
+				<persname source="lcnaf" encodinganalog="700">Van Nise, Robert L.</persname>
+				<persname source="lcnaf" encodinganalog="700">Wachs, William</persname>
+			</controlaccess>
+			<controlaccess>
+				<head>Titles</head>
+				<title rules="aacr2" encodinganalog="730">Construction of Gothic cathedrals</title>
+				<title rules="aacr2" encodinganalog="730">New World Dutch barn</title>
+				<title rules="aacr2" encodinganalog="730">Building construction before mechanization</title>
+			</controlaccess>
+		</controlaccess>
+		<dsc type="combined" id="dsc-1.3.6">
+			<head>Container List</head>
+			<c01 level="series" id="seriesi">
+				<did>
+					<unitid>Series I. </unitid>
+					<unittitle>Research for major publications, <unitdate type="inclusive">ca. 1954-1987,  </unitdate>
+						<unitdate type="inclusive">n.d.</unitdate>
+					</unittitle>
+					<physdesc>
+						<extent> 7 boxes</extent>
+					</physdesc>
+				</did>
+				<scopecontent>
+					<p>Primarily research materials, manuscripts, correspondence, printed matter and photographs related to Fitchen's three books: <title>The construction of Gothic cathedrals</title> (1961, 1981), <title>The New World Dutch barn</title> (1968), and <title>Building construction before mechanization</title> (1986).</p>
+				</scopecontent>
+				<c02 level="file" id="c02-1.3.6.2.3">
+					<did>
+						<container label="Box" type="box">1</container>
+						<container label="Folder" type="folder">1-6</container>
+						<unittitle>Gothic Cathedrals, <unitdate type="inclusive">ca. 1954-1981</unitdate>
+						</unittitle>
+					</did>
+					<c03 level="file" id="c03-1.3.6.2.3.2">
+						<did>
+							<container label="Box" type="box">1</container>
+							<container label="Folder" type="folder">1</container>
+							<unittitle>Research notes,<unitdate type="inclusive"> ca. 1954-1959</unitdate>
+							</unittitle>
+						</did>
+					</c03>
+					<c03 level="file" id="c03-1.3.6.2.3.3">
+						<did>
+							<container label="Box" type="box">1</container>
+							<container label="Folder" type="folder">2</container>
+							<unittitle>Drafts, <unitdate type="inclusive">1954-1958</unitdate>
+							</unittitle>
+						</did>
+					</c03>
+					<c03 level="file" id="c03-1.3.6.2.3.4">
+						<did>
+							<container label="Box" type="box">1</container>
+							<container label="Folder" type="folder">3</container>
+							<unittitle>Original drawings for ms, <unitdate type="inclusive">n.d</unitdate>
+							</unittitle>
+						</did>
+					</c03>
+					<c03 level="file" id="c03-1.3.6.2.3.5">
+						<did>
+							<container label="Box" type="box">1</container>
+							<container label="Folder" type="folder">4</container>
+							<unittitle>Correspondence with publisher, <unitdate type="inclusive">1957-1960</unitdate>
+							</unittitle>
+						</did>
+					</c03>
+					<c03 level="file" id="c03-1.3.6.2.3.6">
+						<did>
+							<container label="Box" type="box">1</container>
+							<container label="Folder" type="folder">5</container>
+							<unittitle>Miscellaneous correspondence, <unitdate type="inclusive">1958-1960</unitdate>
+							</unittitle>
+						</did>
+					</c03>
+					<c03 level="file" id="c03-1.3.6.2.3.7">
+						<did>
+							<container label="Box" type="box">1</container>
+							<container label="Folder" type="folder">6</container>
+							<unittitle>Reviews  letter in response to both, <unitdate type="inclusive">1960-1962, </unitdate>
+								<unitdate type="inclusive"> 1980</unitdate>
+							</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="file" id="c02-1.3.6.2.4">
+					<did>
+						<container label="Box" type="box">2</container>
+						<container label="Folder" type="folder">1-3</container>
+						<unittitle>Gothic Cathedrals, <unitdate type="inclusive">n.d.</unitdate>
+						</unittitle>
+					</did>
+					<c03 level="file" id="c03-1.3.6.2.4.2">
+						<did>
+							<container label="Box" type="box">2</container>
+							<container label="Folder" type="folder">1</container>
+							<unittitle>Manuscripts, <unitdate type="inclusive">n.d.</unitdate>
+							</unittitle>
+						</did>
+					</c03>
+					<c03 level="file" id="c03-1.3.6.2.4.3">
+						<did>
+							<container label="Box" type="box">2</container>
+							<container label="Folder" type="folder">2</container>
+							<unittitle>Manuscript, appendices, <unitdate type="inclusive">n.d.</unitdate>
+							</unittitle>
+						</did>
+					</c03>
+					<c03 level="file" id="c03-1.3.6.2.4.4">
+						<did>
+							<container label="Box" type="box">2</container>
+							<container label="Folder" type="folder">3</container>
+							<unittitle>Manuscript, notes, <unitdate type="inclusive">n.d.</unitdate>
+							</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="file" id="c02-1.3.6.2.5">
+					<did>
+						<container label="Box" type="box">3</container>
+						<container label="Folder" type="folder">1-3</container>
+						<unittitle>Dutch Barns, <unitdate type="inclusive">1963-1975,</unitdate>
+							<unitdate type="inclusive"> n.d.</unitdate>
+						</unittitle>
+					</did>
+					<c03 level="file" id="c03-1.3.6.2.5.2">
+						<did>
+							<container label="Box" type="box">3</container>
+							<container label="Folder" type="folder">1</container>
+							<unittitle>Notes  draft, <unitdate type="inclusive">1965-1968</unitdate>
+							</unittitle>
+						</did>
+					</c03>
+					<c03 level="file" id="c03-1.3.6.2.5.3">
+						<did>
+							<container label="Box" type="box">3</container>
+							<container label="Folder" type="folder">2</container>
+							<unittitle>Manuscript text, <unitdate type="inclusive">n.d.</unitdate>
+							</unittitle>
+						</did>
+					</c03>
+					<c03 level="file" id="c03-1.3.6.2.5.4">
+						<did>
+							<container label="Box" type="box">3</container>
+							<container label="Folder" type="folder">3</container>
+							<unittitle>Correspondence after publication, <unitdate type="inclusive">1965-1975</unitdate>
+							</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="file" id="c02-1.3.6.2.6">
+					<did>
+						<container label="Box" type="box">4</container>
+						<container label="Folder" type="folder">1-6</container>
+						<unittitle>Papers  photographs: Dutch Barns, <unitdate type="inclusive">ca. 1963-1986,</unitdate>
+							<unitdate type="inclusive"> n.d.</unitdate>
+						</unittitle>
+					</did>
+					<c03 level="file" id="c03-1.3.6.2.6.2">
+						<did>
+							<container label="Box" type="box">4</container>
+							<container label="Folder" type="folder">1</container>
+							<unittitle>Sketches. See also drawings of American barns in sketchbook, Box 9., <unitdate type="inclusive">1963</unitdate>
+							</unittitle>
+						</did>
+					</c03>
+					<c03 level="file" id="c03-1.3.6.2.6.3">
+						<did>
+							<container label="Box" type="box">4</container>
+							<container label="Folder" type="folder">2</container>
+							<unittitle>Miscellaneous photos (negatives placed in cold storage, box 10), <unitdate type="inclusive">n.d.</unitdate>
+							</unittitle>
+						</did>
+					</c03>
+					<c03 level="file" id="c03-1.3.6.2.6.4">
+						<did>
+							<container label="Box" type="box">4</container>
+							<container label="Folder" type="folder">3</container>
+							<unittitle>Miscellaneous plates, <unitdate type="inclusive">n.d.</unitdate>
+							</unittitle>
+						</did>
+					</c03>
+					<c03 level="file" id="c03-1.3.6.2.6.5">
+						<did>
+							<container label="Box" type="box">4</container>
+							<container label="Folder" type="folder">4</container>
+							<unittitle>Photographs for Netherlandish barns, <unitdate type="inclusive">1982-1986,</unitdate>
+								<unitdate type="inclusive"> n.d.</unitdate>
+							</unittitle>
+						</did>
+					</c03>
+					<c03 level="file" id="c03-1.3.6.2.6.6">
+						<did>
+							<container label="Box" type="box">4</container>
+							<container label="Folder" type="folder">5</container>
+							<unittitle>Illustrations for manuscript, <unitdate type="inclusive">n.d.</unitdate>
+							</unittitle>
+						</did>
+					</c03>
+					<c03 level="file" id="c03-1.3.6.2.6.7">
+						<did>
+							<container label="Box" type="box">4</container>
+							<container label="Folder" type="folder">6</container>
+							<unittitle>Photo mechanicals for manuscript,  <unitdate type="inclusive"> 1964</unitdate>
+							</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="file" id="c02-1.3.6.2.7">
+					<did>
+						<container label="Box" type="box">5</container>
+						<container label="Folder" type="folder">1-4</container>
+						<unittitle>Papers  photographs: Building Construction, <unitdate type="inclusive">ca. 1954-1985</unitdate>
+						</unittitle>
+					</did>
+					<c03 level="file" id="c03-1.3.6.2.7.2">
+						<did>
+							<container label="Box" type="box">5</container>
+							<container label="Folder" type="folder">1</container>
+							<unittitle>Notes, <unitdate type="inclusive">1954-1967</unitdate>
+							</unittitle>
+						</did>
+					</c03>
+					<c03 level="file" id="c03-1.3.6.2.7.3">
+						<did>
+							<container label="Box" type="box">5</container>
+							<container label="Folder" type="folder">2</container>
+							<unittitle>Drafts, <unitdate type="inclusive">1973-1976</unitdate>
+							</unittitle>
+						</did>
+					</c03>
+					<c03 level="file" id="c03-1.3.6.2.7.4">
+						<did>
+							<container label="Box" type="box">5</container>
+							<container label="Folder" type="folder">3</container>
+							<unittitle>Manuscript, <unitdate type="inclusive">1983-1985</unitdate>
+							</unittitle>
+						</did>
+					</c03>
+					<c03 level="file" id="c03-1.3.6.2.7.5">
+						<did>
+							<container label="Box" type="box">5</container>
+							<container label="Folder" type="folder">4</container>
+							<unittitle>Manuscript figures, <unitdate type="inclusive">1976</unitdate>
+							</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="file" id="c02-1.3.6.2.8">
+					<did>
+						<container label="Box" type="box">6</container>
+						<container label="Folder" type="folder">1-4</container>
+						<unittitle>Papers  photographs, <unitdate type="inclusive">ca. 1984-1987,</unitdate>
+							<unitdate type="inclusive"> n.d.</unitdate>
+						</unittitle>
+					</did>
+					<c03 level="file" id="c03-1.3.6.2.8.2">
+						<did>
+							<container label="Box" type="box">6</container>
+							<container label="Folder" type="folder">1</container>
+							<unittitle>Illustrations (n.b., post-its), <unitdate type="inclusive">n.d.</unitdate>
+							</unittitle>
+						</did>
+					</c03>
+					<c03 level="file" id="c03-1.3.6.2.8.3">
+						<did>
+							<container label="Box" type="box">6</container>
+							<container label="Folder" type="folder">2</container>
+							<unittitle>Illustrations (n.b., post-its,), <unitdate type="inclusive">n.d.</unitdate>
+							</unittitle>
+						</did>
+					</c03>
+					<c03 level="file" id="c03-1.3.6.2.8.4">
+						<did>
+							<container label="Box" type="box">6</container>
+							<container label="Folder" type="folder">3</container>
+							<unittitle>Reviews, correspondence, <unitdate type="inclusive">ca. 1987</unitdate>
+							</unittitle>
+						</did>
+					</c03>
+					<c03 level="file" id="c03-1.3.6.2.8.5">
+						<did>
+							<container label="Box" type="box">6</container>
+							<container label="Folder" type="folder">4</container>
+							<unittitle>Translation, <unitdate type="inclusive">1984-1988</unitdate>
+							</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="file" id="c02-1.3.6.2.9">
+					<did>
+						<container label="Box" type="box">10</container>
+						<unittitle>Negatives (2), pulled from Box 4, f.4, <unitdate type="inclusive">1982-1986,</unitdate>
+							<unitdate type="inclusive"> n.d.</unitdate>
+						</unittitle>
+					</did>
+				</c02>
+			</c01>
+			<c01 level="series" id="seriesii">
+				<did>
+					<unitid>Series II. </unitid>
+					<unittitle>Student work, manuscripts, lectures, drawings, <unitdate type="inclusive">ca. 1927-1989,</unitdate>
+					</unittitle>
+					<physdesc>
+						<extent> 2 boxes</extent>
+					</physdesc>
+				</did>
+				<scopecontent>
+					<p>Series comprises papers related to Fitchen's publications (other than those referenced in Series I), his lectures, student work at Harvard, and drawings and designs.</p>
+				</scopecontent>
+				<c02 level="file" id="c02-1.3.6.3.3">
+					<did>
+						<container label="Box" type="box">7</container>
+						<container label="Folder" type="folder">1-31</container>
+						<unittitle>Papers: Lectures, manuscripts, offprints, correspondence</unittitle>
+					</did>
+					<c03 level="file" id="c03-1.3.6.3.3.2">
+						<did>
+							<container label="Box" type="box">7</container>
+							<container label="Folder" type="folder">1</container>
+							<unittitle>Premier of Baseball, <unitdate type="inclusive">1989; </unitdate>lecture</unittitle>
+						</did>
+					</c03>
+					<c03 level="file" id="c03-1.3.6.3.3.3">
+						<did>
+							<container label="Box" type="box">7</container>
+							<container label="Folder" type="folder">2</container>
+							<unittitle>English vs. French Vaulting, <unitdate type="inclusive">1985; </unitdate>lecture</unittitle>
+						</did>
+					</c03>
+					<c03 level="file" id="c03-1.3.6.3.3.4">
+						<did>
+							<container label="Box" type="box">7</container>
+							<container label="Folder" type="folder">3</container>
+							<unittitle>Visual Impact of the Gothic Cathedral, lecture, <unitdate type="inclusive">1979 </unitdate>
+							</unittitle>
+						</did>
+					</c03>
+					<c03 level="file" id="c03-1.3.6.3.3.5">
+						<did>
+							<container label="Box" type="box">7</container>
+							<container label="Folder" type="folder">4</container>
+							<unittitle>Building Cheops' Pyramid, <title>Journal of the Society of Architectural Historians</title> (JSAH) <unitdate type="inclusive">1978 </unitdate>
+							</unittitle>
+						</did>
+					</c03>
+					<c03 level="file" id="c03-1.3.6.3.3.6">
+						<did>
+							<container label="Box" type="box">7</container>
+							<container label="Folder" type="folder">5</container>
+							<unittitle>Early Timber Framed Construction in America, lecture, <unitdate type="inclusive">1972 </unitdate>
+							</unittitle>
+						</did>
+					</c03>
+					<c03 level="file" id="c03-1.3.6.3.3.7">
+						<did>
+							<container label="Box" type="box">7</container>
+							<container label="Folder" type="folder">6</container>
+							<unittitle>New World Dutch Barn, lecture, <unitdate type="inclusive">1971 </unitdate>
+							</unittitle>
+						</did>
+					</c03>
+					<c03 level="file" id="c03-1.3.6.3.3.8">
+						<did>
+							<container label="Box" type="box">7</container>
+							<container label="Folder" type="folder">7</container>
+							<unittitle>Why Not Fountains in Winter? <unitdate type="inclusive">1970</unitdate>
+							</unittitle>
+						</did>
+					</c03>
+					<c03 level="file" id="c03-1.3.6.3.3.9">
+						<did>
+							<container label="Box" type="box">7</container>
+							<container label="Folder" type="folder">8</container>
+							<unittitle>Vitas, grant applications, etc; <unitdate type="inclusive">1967-1985</unitdate>
+							</unittitle>
+						</did>
+					</c03>
+					<c03 level="file" id="c03-1.3.6.3.3.10">
+						<did>
+							<container label="Box" type="box">7</container>
+							<container label="Folder" type="folder">9</container>
+							<unittitle>New York State Dutch Barns, lecture, <unitdate type="inclusive">1965 </unitdate>
+							</unittitle>
+						</did>
+					</c03>
+					<c03 level="file" id="c03-1.3.6.3.3.11">
+						<did>
+							<container label="Box" type="box">7</container>
+							<container label="Folder" type="folder">10</container>
+							<unittitle>Architecture, the Optimistic Art, <title>AIA Journal</title> proofs<unitdate type="inclusive">1964 </unitdate>
+							</unittitle>
+						</did>
+					</c03>
+					<c03 level="file" id="c03-1.3.6.3.3.12">
+						<did>
+							<container label="Box" type="box">7</container>
+							<container label="Folder" type="folder">11</container>
+							<unittitle>Masonry Techniques of the Middle Ages, lecture, <unitdate type="inclusive">1963 </unitdate>
+							</unittitle>
+						</did>
+					</c03>
+					<c03 level="file" id="c03-1.3.6.3.3.13">
+						<did>
+							<container label="Box" type="box">7</container>
+							<container label="Folder" type="folder">12</container>
+							<unittitle>Untitled miscellaneous articles,  <unitdate type="inclusive">1961</unitdate>
+							</unittitle>
+						</did>
+					</c03>
+					<c03 level="file" id="c03-1.3.6.3.3.14">
+						<did>
+							<container label="Box" type="box">7</container>
+							<container label="Folder" type="folder">13</container>
+							<unittitle>Erection of French Gothic Nave Vaults, Gazette offprint, <unitdate type="inclusive">1960 </unitdate>
+							</unittitle>
+						</did>
+					</c03>
+					<c03 level="file" id="c03-1.3.6.3.3.15">
+						<did>
+							<container label="Box" type="box">7</container>
+							<container label="Folder" type="folder">14</container>
+							<unittitle>Plot, Plan and Perspective, manuscript, <unitdate type="inclusive">1959 </unitdate>
+							</unittitle>
+						</did>
+					</c03>
+					<c03 level="file" id="c03-1.3.6.3.3.16">
+						<did>
+							<container label="Box" type="box">7</container>
+							<container label="Folder" type="folder">15</container>
+							<unittitle>Changing Face of the Riviera, <unitdate type="inclusive">1959</unitdate>
+							</unittitle>
+						</did>
+					</c03>
+					<c03 level="file" id="c03-1.3.6.3.3.17">
+						<did>
+							<container label="Box" type="box">7</container>
+							<container label="Folder" type="folder">16</container>
+							<unittitle>An Old House of Laminated, Solid Wood Walls, <title>Journal of the Society of Architectural Historians</title> (JSAH) <unitdate type="inclusive">1957 </unitdate>
+							</unittitle>
+						</did>
+					</c03>
+					<c03 level="file" id="c03-1.3.6.3.3.18">
+						<did>
+							<container label="Box" type="box">7</container>
+							<container label="Folder" type="folder">17</container>
+							<unittitle>Comment on Flying Buttresses, Gazette offprint, <unitdate type="inclusive">1955 </unitdate>
+							</unittitle>
+						</did>
+					</c03>
+					<c03 level="file" id="c03-1.3.6.3.3.19">
+						<did>
+							<container label="Box" type="box">7</container>
+							<container label="Folder" type="folder">18</container>
+							<unittitle>Draftsman to Architect, manuscript, <unitdate type="inclusive">1951-1952 </unitdate>
+							</unittitle>
+						</did>
+					</c03>
+					<c03 level="file" id="c03-1.3.6.3.3.20">
+						<did>
+							<container label="Box" type="box">7</container>
+							<container label="Folder" type="folder">19</container>
+							<unittitle>Architectural Subject Matter,
+							 <unitdate type="inclusive">1949</unitdate>
+							</unittitle>
+						</did>
+					</c03>
+					<c03 level="file" id="c03-1.3.6.3.3.21">
+						<did>
+							<container label="Box" type="box">7</container>
+							<container label="Folder" type="folder">20</container>
+							<unittitle>Introduction to Art, manuscript, <unitdate type="inclusive">1937 </unitdate>
+							</unittitle>
+						</did>
+					</c03>
+					<c03 level="file" id="c03-1.3.6.3.3.22">
+						<did>
+							<container label="Box" type="box">7</container>
+							<container label="Folder" type="folder">21</container>
+							<unittitle>Student drawings, Harvard,  <unitdate type="inclusive">1927-1928</unitdate>
+							</unittitle>
+						</did>
+					</c03>
+					<c03 level="file" id="c03-1.3.6.3.3.23">
+						<did>
+							<container label="Box" type="box">7</container>
+							<container label="Folder" type="folder">22</container>
+							<unittitle>
+                       "The Roof," manuscript</unittitle>
+						</did>
+					</c03>
+					<c03 level="file" id="c03-1.3.6.3.3.24">
+						<did>
+							<container label="Box" type="box">7</container>
+							<container label="Folder" type="folder">23</container>
+							<unittitle>Problem of Ventilation</unittitle>
+						</did>
+					</c03>
+					<c03 level="file" id="c03-1.3.6.3.3.25">
+						<did>
+							<container label="Box" type="box">7</container>
+							<container label="Folder" type="folder">24</container>
+							<unittitle>Principles of Architectural Construction</unittitle>
+						</did>
+					</c03>
+					<c03 level="file" id="c03-1.3.6.3.3.26">
+						<did>
+							<container label="Box" type="box">7</container>
+							<container label="Folder" type="folder">25</container>
+							<unittitle>Notes on Female Architecture</unittitle>
+						</did>
+					</c03>
+					<c03 level="file" id="c03-1.3.6.3.3.27">
+						<did>
+							<container label="Box" type="box">7</container>
+							<container label="Folder" type="folder">26</container>
+							<unittitle>Medieval Scaffolds</unittitle>
+						</did>
+					</c03>
+					<c03 level="file" id="c03-1.3.6.3.3.28">
+						<did>
+							<container label="Box" type="box">7</container>
+							<container label="Folder" type="folder">27</container>
+							<unittitle>
+								<title>"Here Once Stood a House,"  manuscript, </title>
+							</unittitle>
+						</did>
+					</c03>
+					<c03 level="file" id="c03-1.3.6.3.3.29">
+						<did>
+							<container label="Box" type="box">7</container>
+							<container label="Folder" type="folder">28</container>
+							<unittitle>"First Book on the Moon," manuscript</unittitle>
+						</did>
+					</c03>
+					<c03 level="file" id="c03-1.3.6.3.3.30">
+						<did>
+							<container label="Box" type="box">7</container>
+							<container label="Folder" type="folder">29</container>
+							<unittitle>Dealing with the Inexplicable</unittitle>
+						</did>
+					</c03>
+					<c03 level="file" id="c03-1.3.6.3.3.31">
+						<did>
+							<container label="Box" type="box">7</container>
+							<container label="Folder" type="folder">30</container>
+							<unittitle>Miscellaneous designs  drawings by Fitchen </unittitle>
+						</did>
+						<scopecontent>
+							<p>See also Box 9 for sketchbook.</p>
+						</scopecontent>
+					</c03>
+					<c03 level="file" id="c03-1.3.6.3.3.32">
+						<did>
+							<container label="Box" type="box">7</container>
+							<container label="Folder" type="folder">31</container>
+							<unittitle>Miscellaneous</unittitle>
+						</did>
+					</c03>
+				</c02>
+				<c02 level="file" id="c02-1.3.6.3.4">
+					<did>
+						<container label="Box" type="box">9*</container>
+						<unittitle>Fitchen sketchbook, <unitdate type="inclusive">n.d.</unitdate>
+						</unittitle>
+					</did>
+					<scopecontent>
+						<p>Includes measured sketches, most showing the construction of American Dutch barns.</p>
+					</scopecontent>
+				</c02>
+			</c01>
+			<c01 level="series" id="seriesiii">
+				<did>
+					<unitid>Series III. </unitid>
+					<unittitle>Correspondence, <unitdate type="inclusive">ca. 1954-1984</unitdate>
+					</unittitle>
+					<physdesc>
+						<extent> 1 box</extent>
+					</physdesc>
+				</did>
+				<scopecontent>
+					<p>Correspondence between Fitchen and other architectural historians, primarily dealing with the structure of medieval buildings. Letters include discussions of work in progress and critiques of publications.</p>
+				</scopecontent>
+				<c02 level="file" id="c02-1.3.6.4.3">
+					<did>
+						<container label="Box" type="box">8</container>
+						<container label="Folder" type="folder">1-20</container>
+						<unittitle>Correspondence</unittitle>
+					</did>
+					<c03 level="file" id="c03-1.3.6.4.3.2">
+						<did>
+							<container label="Box" type="box">8</container>
+							<container label="Folder" type="folder">1</container>
+							<unittitle>James Acland, <unitdate type="inclusive">1956-1966</unitdate>
+							</unittitle>
+						</did>
+					</c03>
+					<c03 level="file" id="c03-1.3.6.4.3.3">
+						<did>
+							<container label="Box" type="box">8</container>
+							<container label="Folder" type="folder">2</container>
+							<unittitle>Frank Brown, <unitdate type="inclusive">1957</unitdate>
+							</unittitle>
+						</did>
+					</c03>
+					<c03 level="file" id="c03-1.3.6.4.3.4">
+						<did>
+							<container label="Box" type="box">8</container>
+							<container label="Folder" type="folder">3</container>
+							<unittitle>Francois Bucher, <unitdate type="inclusive">1967</unitdate>
+							</unittitle>
+						</did>
+					</c03>
+					<c03 level="file" id="c03-1.3.6.4.3.5">
+						<did>
+							<container label="Box" type="box">8</container>
+							<container label="Folder" type="folder">4</container>
+							<unittitle>George Collins, <unitdate type="inclusive">1964-1968</unitdate>
+							</unittitle>
+						</did>
+					</c03>
+					<c03 level="file" id="c03-1.3.6.4.3.6">
+						<did>
+							<container label="Box" type="box">8</container>
+							<container label="Folder" type="folder">5</container>
+							<unittitle>Kenneth Conant, <unitdate type="inclusive">1955-1962</unitdate>
+							</unittitle>
+						</did>
+					</c03>
+					<c03 level="file" id="c03-1.3.6.4.3.7">
+						<did>
+							<container label="Box" type="box">8</container>
+							<container label="Folder" type="folder">6</container>
+							<unittitle>James M. Fitch, <unitdate type="inclusive">1956, </unitdate>
+								<unitdate type="inclusive"> 1970</unitdate>
+							</unittitle>
+						</did>
+					</c03>
+					<c03 level="file" id="c03-1.3.6.4.3.8">
+						<did>
+							<container label="Box" type="box">8</container>
+							<container label="Folder" type="folder">7</container>
+							<unittitle>John Harvey, <unitdate type="inclusive">1954-1962</unitdate>
+							</unittitle>
+						</did>
+					</c03>
+					<c03 level="file" id="c03-1.3.6.4.3.9">
+						<did>
+							<container label="Box" type="box">8</container>
+							<container label="Folder" type="folder">8</container>
+							<unittitle>Jacques Heyman, <unitdate type="inclusive">1965-1971</unitdate>
+							</unittitle>
+						</did>
+					</c03>
+					<c03 level="file" id="c03-1.3.6.4.3.10">
+						<did>
+							<container label="Box" type="box">8</container>
+							<container label="Folder" type="folder">9</container>
+							<unittitle>Walter H. Horn, <unitdate type="inclusive">1958</unitdate>
+							</unittitle>
+						</did>
+					</c03>
+					<c03 level="file" id="c03-1.3.6.4.3.11">
+						<did>
+							<container label="Box" type="box">8</container>
+							<container label="Folder" type="folder">10</container>
+							<unittitle>Thomas Hubka, <unitdate type="inclusive">1980</unitdate>
+							</unittitle>
+						</did>
+					</c03>
+					<c03 level="file" id="c03-1.3.6.4.3.12">
+						<did>
+							<container label="Box" type="box">8</container>
+							<container label="Folder" type="folder">11</container>
+							<unittitle>Lewis C. Jones, <unitdate type="inclusive">1963-1967</unitdate>
+							</unittitle>
+						</did>
+					</c03>
+					<c03 level="file" id="c03-1.3.6.4.3.13">
+						<did>
+							<container label="Box" type="box">8</container>
+							<container label="Folder" type="folder">12</container>
+							<unittitle>Christine Kaplan, <unitdate type="inclusive">1977, </unitdate>
+								<unitdate type="inclusive">1984</unitdate>
+							</unittitle>
+						</did>
+					</c03>
+					<c03 level="file" id="c03-1.3.6.4.3.14">
+						<did>
+							<container label="Box" type="box">8</container>
+							<container label="Folder" type="folder">13</container>
+							<unittitle>David Macaulay, <unitdate type="inclusive">1981</unitdate>
+							</unittitle>
+						</did>
+					</c03>
+					<c03 level="file" id="c03-1.3.6.4.3.15">
+						<did>
+							<container label="Box" type="box">8</container>
+							<container label="Folder" type="folder">14</container>
+							<unittitle>Harley McKee, <unitdate type="inclusive">1955, </unitdate>
+								<unitdate type="inclusive">1961</unitdate>
+							</unittitle>
+						</did>
+					</c03>
+					<c03 level="file" id="c03-1.3.6.4.3.16">
+						<did>
+							<container label="Box" type="box">8</container>
+							<container label="Folder" type="folder">15</container>
+							<unittitle>Adolf Placzek, <unitdate type="inclusive">1961</unitdate>
+							</unittitle>
+						</did>
+					</c03>
+					<c03 level="file" id="c03-1.3.6.4.3.17">
+						<did>
+							<container label="Box" type="box">8</container>
+							<container label="Folder" type="folder">16</container>
+							<unittitle>Paul E. Szarmach, <unitdate type="inclusive">1976, </unitdate>
+								<unitdate type="inclusive">1981</unitdate>
+							</unittitle>
+						</did>
+					</c03>
+					<c03 level="file" id="c03-1.3.6.4.3.18">
+						<did>
+							<container label="Box" type="box">8</container>
+							<container label="Folder" type="folder">17</container>
+							<unittitle>Robert L. Van Nise, <unitdate type="inclusive">1963-1978</unitdate>
+							</unittitle>
+						</did>
+					</c03>
+					<c03 level="file" id="c03-1.3.6.4.3.19">
+						<did>
+							<container label="Box" type="box">8</container>
+							<container label="Folder" type="folder">18</container>
+							<unittitle>William C. Wachs, <unitdate type="inclusive">1962-1972</unitdate>
+							</unittitle>
+						</did>
+					</c03>
+					<c03 level="file" id="c03-1.3.6.4.3.20">
+						<did>
+							<container label="Box" type="box">8</container>
+							<container label="Folder" type="folder">19</container>
+							<unittitle>Ben Weinreb, <unitdate type="inclusive">1964-1971</unitdate>
+							</unittitle>
+						</did>
+					</c03>
+					<c03 level="file" id="c03-1.3.6.4.3.21">
+						<did>
+							<container label="Box" type="box">8</container>
+							<container label="Folder" type="folder">20</container>
+							<unittitle>Miscellaneous, <unitdate type="inclusive">1955-1984</unitdate>
+							</unittitle>
+						</did>
+					</c03>
+				</c02>
+			</c01>
+		</dsc>
+	</archdesc>
+</ead>

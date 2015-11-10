@@ -1,0 +1,121 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead relatedencoding="marc21">
+<eadheader audience="internal"> 
+  <eadid countrycode="US" mainagencycode="TxU-TH"
+	encodinganalog="852$a">urn:taro:utexas.cah.01295</eadid> 
+  <filedesc> 
+	 <titlestmt> 
+		<titleproper>A Guide to the J. J. Galloway Report, 1925</titleproper> 
+	 </titlestmt> 
+  </filedesc> 
+  <profiledesc> 
+	 <creation>Original EAD encoding by Lauren Algee according to TARO 2 EAD
+		2002 Editing Instructions. 
+		<date>October 2009</date></creation> 
+	 <langusage>Finding aid written in <language>English.</language></langusage>
+	 
+  </profiledesc>
+</eadheader>
+<archdesc type="inventory" level="collection"> 
+  <did> 
+	 <head>Descriptive Summary</head> 
+	 <origination label="Creator:"> 
+		<persname encodinganalog="100">Galloway, Jesse James</persname>
+		</origination> 
+	 <unittitle encodinganalog="245" label="Title:">J. J. Galloway
+		Report</unittitle> 
+	 <unitdate type="inclusive" encodinganalog="245"
+	  label="Dates:">1925</unitdate> <langmaterial label="Language:">Materials are
+	 written in <language langcode="eng">English.</language></langmaterial> 
+	 <physdesc label="Extent:" encodinganalog="300$a">1 item</physdesc> 
+	 <repository label="Repository:" encodinganalog="852$a"> 
+		<extref href="http://www.cah.utexas.edu" show="new" actuate="onrequest"> 
+		  <corpname><subarea> Dolph Briscoe Center for American
+			 History,</subarea>The University of Texas at
+			 Austin</corpname></extref></repository> 
+	 <!--This is typically the first sentences from biographical note and scope and content note, as appropriate.-->
+	 <abstract label="Abstract:" encodinganalog="520$a">The report by geologist
+		J. J. Galloway is concerned with the geology of Southern Mexico and the
+		possibility of finding and harvesting oil from that region.</abstract> 
+  </did> 
+  <bioghist encodinganalog="545"> 
+	 <!--If an individual, heading should read Biographical Note, for an entity it should read Historical Note.-->
+	 <head>Biographical Note</head><p>Geologist Jesse James (J. J.) Galloway was
+		born in Noble County, Indiana on August 23, 1882. After completing his
+		doctorate in geology at Indiana University, Galloway became a leader in his
+		field for his penetrating studies of Bryozoa, Foraminifera and
+		Stromatoporoidea. By the time of his retirement from teaching in 1954, Galloway
+		was Geologist and Research Director of Paleontology and Stratigraphy for the
+		Indiana Department of Conservation. He was also a student, collaborator and
+		life-long friend of Dr. E. R. Cumings. Galloway died of a heart attack in his
+		home in Bloomington, Indiana on April 10, 1962.</p> 
+	 <p>Source: 
+	 <title render="italic">Journal of Paleontology</title>, July 1962, v. 36
+	 no. 4, p. 844-847.</p> 
+  </bioghist> 
+  <scopecontent encodinganalog="520"> 
+	 <head>Scope and Contents</head> 
+	 <p>The report by geologist J. J. Galloway is concerned with the geology of
+		Southern Mexico and the possibility of finding and harvesting oil from that
+		region. The report is based on a field examination of about two months in the
+		summer of 1924 in the company of T. W. Callahan, a study of rocks and fossils
+		from Southern Mexico, and cuttings from La Cruzada. It is supplementary to a
+		report by Callahan and references the maps and sections of that document. At
+		the time of the report’s writing, Galloway was a Professor of Geology at
+		Indiana University.</p> 
+  </scopecontent> 
+  <accessrestrict encodinganalog="506"> 
+	 <head>Access Restrictions</head><p>Unrestricted access.</p> 
+  </accessrestrict> 
+  <controlaccess> 
+	 <head>Index Terms</head> 
+	 <controlaccess> 
+		<head>Subjects (Persons)</head> 
+		<persname encodinganalog="600">Galloway, Jesse James</persname> 
+		<persname encodinganalog="600">Callahan, T. W.</persname> 
+	 </controlaccess> 
+	 <controlaccess> 
+		<head>Subjects</head> 
+		<subject encodinganalog="650">Geology -- Mexico.</subject> 
+		<subject encodinganalog="650">Petroleum industry and trade.</subject> 
+	 </controlaccess> 
+	 <controlaccess> 
+		<head>Places</head> 
+		<geogname encodinganalog="651" source="lcnaf">Palenque (Chiapas,
+		  Mexico)</geogname> 
+		<geogname encodinganalog="651" source="lcnaf">Quintana Roo (Mexico :
+		  State)</geogname> 
+		<geogname encodinganalog="651" source="lcnaf">Salto de Agua (Chiapas,
+		  Mexico)</geogname> 
+		<geogname encodinganalog="651" source="lcnaf">San Carlos
+		  (Mexico)</geogname> 
+		<geogname encodinganalog="651" source="lcnaf">Tehuantepec, Isthmus of
+		  (Mexico)</geogname> 
+		<geogname encodinganalog="651" source="lcnaf">Tenosique de Pino Suárez
+		  (Mexico)</geogname> 
+	 </controlaccess> 
+  </controlaccess> 
+  <prefercite encodinganalog="524"> 
+	 <head>Preferred Citation</head><p>J. J. Galloway Report, 1925, Dolph
+		Briscoe Center for American History, The University of Texas at Austin.</p> 
+  </prefercite> 
+	<processinfo>
+		<head>Processing Information</head>
+		<p>Basic processing and cataloging of this collection was supported with funds from the National Historical Publications and Records Commission (NHPRC) for the Briscoe Center’s "History Revealed: Bringing Collections to Light" project, 2009-2011.</p>
+	</processinfo>
+  <dsc type="in-depth"> 
+	 <head>Detailed Description of the Papers</head> 
+	 <c01 level="series" id="ser1"> 
+		<did> 
+		  <unittitle>Inventory: </unittitle> 
+		</did> 
+		<c02> 
+		  <did><container type="box">2L309</container> 
+			 <unittitle>“Report on the Geology and Oil Possibilities of Southern
+				Mexico,” 
+				<unitdate>April 30, 1925 </unitdate></unittitle> 
+		  </did> 
+		</c02> 
+	 </c01></dsc>
+</archdesc></ead>

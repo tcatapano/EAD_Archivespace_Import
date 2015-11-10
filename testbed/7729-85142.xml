@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+<eadheader 
+    id="a0" 
+    langencoding="iso639-2b" 
+    scriptencoding="iso15924" 
+    repositoryencoding="iso15511" 
+    countryencoding="iso3166-1" dateencoding="iso8601" 
+    relatedencoding="dc">
+<eadid 
+    countrycode="us" 
+    encodinganalog="identifier" 
+    mainagencycode="idbb" 
+    url="http://nwda.orbiscascade.org/ark:/80444/xv89050"     
+    identifier="80444/xv89050">oip_mss219.xml</eadid>
+<filedesc><titlestmt>
+<titleproper encodinganalog="title">Guide to the Dwight William Jensen Papers <date era="ce" calendar="gregorian" encodinganalog="date" normal="1977/1978">1977-1978</date></titleproper>
+<titleproper type="filing" altrender="nodisplay">Jensen (Dwight William) Papers</titleproper>
+<sponsor encodinganalog="contributor">Funding for encoding this finding aid was provided, in part, by a grant from the National Endowment for the Humanities</sponsor></titlestmt>
+<publicationstmt>
+<publisher encodinganalog="publisher">Boise State University Library, Special Collections and Archives<lb/><extptr actuate="onrequest" show="embed" href="http://library.boisestate.edu/images/dblogo125hx160w.jpg"></extptr></publisher>
+<address>
+    <addressline>1910 University Dr.</addressline>
+    <addressline>Boise, Idaho 83725-1430</addressline>
+    <addressline>208-426-3990</addressline>
+    <addressline>archives@boisestate.edu</addressline>
+    <addressline>http://library.boisestate.edu/Special/</addressline>
+</address>
+    <date normal="2003" era="ce" encodinganalog="date" calendar="gregorian">2003, revised 2006</date>
+</publicationstmt>
+</filedesc>
+<profiledesc><creation>Finding aid encoded by <emph render="italic"><emph render="underline">ArchProteus</emph></emph> <date era="ce" calendar="gregorian" normal="2012">2012</date></creation>
+<langusage>Finding aid written in <language langcode="eng" encodinganalog="language" scriptcode="latn">English</language></langusage>
+<descrules>Finding aid based on DACS (<title render="italic">Describing Archives: A Content Standard</title>)</descrules></profiledesc>
+</eadheader>
+<archdesc level="collection" type="inventory" relatedencoding="marc21">
+<did id="a1">
+<repository>
+    <corpname encodinganalog="852$a">Boise State University Library</corpname>
+    <subarea encodinganalog="852$b">Special Collections and Archives</subarea>
+<address>
+    <addressline>1910 University Dr.</addressline>
+    <addressline>Boise, Idaho 83725-1430</addressline>
+    <addressline>208-426-3990</addressline>
+    <addressline>archives@boisestate.edu</addressline>
+    <addressline>http://library.boisestate.edu/Special/</addressline>
+</address>
+</repository>
+<unitid encodinganalog="099" countrycode="us" repositorycode="idbb" type="collection">MSS 219</unitid>
+<origination><persname encodinganalog="100" role="creator" source="lcnaf">Jensen, Dwight William</persname>
+</origination>
+<unittitle encodinganalog="245$a" type="collection">Dwight William Jensen Papers</unittitle>
+<unitdate datechar="creation" era="ce" calendar="gregorian" encodinganalog="245$f" certainty="approximate" normal="1977/1978" type="inclusive">circa 1977-1978</unitdate>
+<physdesc><extent encodinganalog="300$a">.75 linear feet (2 boxes)</extent></physdesc>
+<abstract encodinganalog="5203_">Typescripts of Idaho author Dwight Jensen's books, <emph render="italic">Discovering Idaho</emph> (1977) and <emph render="italic">There Will Be a Road</emph> (1978), and galley proofs for <emph render="italic">There Will Be a Road</emph>.</abstract>
+<langmaterial encodinganalog="546">Collection materials are in <language langcode="eng">English</language></langmaterial></did>
+<bioghist id="a2" encodinganalog="5450_"><p>Dwight William Jensen was born in Malad, Idaho, in 1934. He received a bachelor's degree from Idaho State University and worked as a writer and journalist for both the print and broadcast media. In addition to the above books, Mr. Jensen was the author of <emph render="italic">Visiting Boise: A Personal Guide</emph> (Caxton, 1981). Additional biographical information can be found on page 320 of the typescript for <emph render="italic">There Will Be a Road</emph> (Box 1, Folder 11). Mr. Jensen died in 2006.</p></bioghist>
+<scopecontent id="a3" encodinganalog="5202_"><p>This collection consists of typescripts of two books by Dwight William Jensen, <emph render="italic">Discovering Idaho</emph> (Caxton, 1977) and <emph render="italic">There Will Be a Road</emph> (Doubleday, 1978), along with galley proofs of <emph render="italic">There Will Be a Road</emph>. <emph render="italic">Discovering Idaho</emph> is a history book for elementary students, widely used in the Idaho public schools; <emph render="italic">There Will Be a Road</emph> is a novel set in the Idaho mountains.</p><p>Forms part of the Idaho Writers Archive.</p></scopecontent>
+<accessrestrict id="a14" encodinganalog="506"><p>Collection is available for research.</p></accessrestrict>
+<prefercite id="a18" encodinganalog="524"><p>Boise State University, Albertsons Library, Special Collections and Archives, Dwight William Jensen Papers, MSS 219, [item description]</p></prefercite>
+<acqinfo id="a19" encodinganalog="541"><p>Transferred from the Idaho State Library, 1988.</p></acqinfo>
+<relatedmaterial id="a6" encodinganalog="5441_"><p>Additional clippings about Dwight Jensen's career are found in the Idaho Writers File (MSS 88), Folder 1304. Papers from his journalistic career in Idaho are located in the Idaho State History Society's Library and Archives.</p></relatedmaterial>
+<controlaccess id="a12">
+<controlaccess><subject encodinganalog="650" source="lcsh">Idaho--Description and travel</subject>
+</controlaccess><controlaccess>
+<subject altrender="nodisplay" encodinganalog="690" source="nwda">Idaho</subject>
+<subject altrender="nodisplay" encodinganalog="690" source="nwda">Literature</subject>
+</controlaccess></controlaccess>
+
+<dsc id="a23" type="combined">
+<c01 level="file">
+<did>
+<container type="box">1</container>
+<container type="folder">0</container>
+<unittitle encodinganalog="245$a">Obituary</unittitle></did>
+</c01><c01 level="file">
+<did>
+<container type="box">1</container>
+<container type="folder">1</container>
+<unittitle encodinganalog="245$a">Transcripts: Discovering Idaho, pp. 1-100</unittitle></did>
+</c01><c01 level="file">
+<did>
+<container type="box">1</container>
+<container type="folder">2</container>
+<unittitle encodinganalog="245$a">Transcripts: Discovering Idaho, pp. 101-198</unittitle></did>
+</c01><c01 level="file">
+<did>
+<container type="box">1</container>
+<container type="folder">3</container>
+<unittitle encodinganalog="245$a">Transcripts: Discovering Idaho, pp. 199-264</unittitle></did>
+</c01><c01 level="file">
+<did>
+<container type="box">1</container>
+<container type="folder">4</container>
+<unittitle encodinganalog="245$a">Transcripts: Discovering Idaho, pp. 101-198 (revised carbon)</unittitle></did>
+</c01><c01 level="file">
+<did>
+<container type="box">1</container>
+<container type="folder">5</container>
+<unittitle encodinganalog="245$a">Transcripts: Discovering Idaho: Teachers' Supplement [missing pp. 10-30]</unittitle></did>
+</c01><c01 level="file">
+<did>
+<container type="box">1</container>
+<container type="folder">6</container>
+<unittitle encodinganalog="245$a">Transcripts: Discovering Idaho: Teachers' Supplement Index</unittitle></did>
+</c01><c01 level="file">
+<did>
+<container type="box">1</container>
+<container type="folder">7</container>
+<unittitle encodinganalog="245$a">Transcripts: Discovering Idaho: Note cards</unittitle></did>
+</c01><c01 level="file">
+<did>
+<container type="box">1</container>
+<container type="folder">8</container>
+<unittitle encodinganalog="245$a">Transcripts: A History of Idaho (Discovering Idaho): Teachers' Guide</unittitle></did>
+</c01><c01 level="file">
+<did>
+<container type="box">1</container>
+<container type="folder">9</container>
+<unittitle encodinganalog="245$a">Transcripts: There Will Be a Road, pp. 1-88</unittitle></did>
+</c01><c01 level="file">
+<did>
+<container type="box">1</container>
+<container type="folder">10</container>
+<unittitle encodinganalog="245$a">Transcripts: There Will Be a Road, pp. 89-193</unittitle></did>
+</c01><c01 level="file">
+<did>
+<container type="box">1</container>
+<container type="folder">11</container>
+<unittitle encodinganalog="245$a">Transcripts: There Will Be a Road, pp. 194-320</unittitle></did>
+</c01><c01 level="file">
+<did>
+<container type="box">2</container>
+<container type="folder">1</container>
+<unittitle encodinganalog="245$a">Galley proofs: There Will Be a Road: Foundry proof</unittitle></did>
+</c01><c01 level="file">
+<did>
+<container type="box">2</container>
+<container type="folder">2</container>
+<unittitle encodinganalog="245$a">Galley proofs: There Will Be a Road: Final galley</unittitle></did>
+</c01></dsc></archdesc></ead>

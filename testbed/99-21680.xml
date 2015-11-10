@@ -1,0 +1,162 @@
+<?xml version="1.0"?>
+<ead>
+   <eadheader langencoding="iso639-2b" audience="external" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924" relatedencoding="MARC21">
+      <eadid xmlns:cdlpath="http://www.cdlib.org/path/" encodinganalog="856$u" mainagencycode="US-CDS" countrycode="US" identifier="ark:/13030/kt396nf0v9" cdlpath:parent="ark:/13030/tf4779p5jq" cdlpath:grandparent="ark:/13030/tf0p3009k6">MS-0158</eadid>
+      <filedesc>
+                  <titlestmt>
+               <titleproper encodinganalog="245">Guide to the Harry L. and Norma L. McCumber Collection</titleproper>
+               <titleproper type="filing">McCumber (Harry L. and Norma L.) Collection</titleproper>
+                  </titlestmt>
+         <publicationstmt>
+            <p> Copyright 2007 Special Collections  University Archives.  All rights reserved.</p>
+                           <date encodinganalog="260$c" type="publication" normal="2007-12-14">2007-12-14</date>
+
+                           <address>
+                  <addressline>5500 Campanile Dr. MC 8050</addressline>
+                                 <addressline>San Diego, CA, 92182-8050</addressline>
+                                 <addressline>URL: http://library.sdsu.edu/scua</addressline>
+                                 <addressline>Email: scref@rohan.sdsu.edu</addressline>
+                                 <addressline>Phone: 619-594-6791</addressline>
+                           </address>
+               
+         </publicationstmt>
+      </filedesc>
+
+      <profiledesc>
+         <creation encodinganalog="500">This finding aid was encoded in EAD by Archon 3.20 from an SQL database source on <date type="encoded" normal="2012-06-26">June 26th, 2012</date>.</creation>
+                           <langusage encodinganalog="546">The collection description/finding aid is written in <language encodinganalog="041" langcode="eng">English</language></langusage>
+                     </profiledesc>
+
+
+               
+      </eadheader>
+
+      <frontmatter>
+         <titlepage>
+            <titleproper encodinganalog="245">Guide to the Harry L. and Norma L. McCumber Collection
+                              <date normal="1946/1979" encodinganalog="260$c">1946/1979</date>
+                        </titleproper>
+               <publisher encodinganalog="260$b">Special Collections  University Archives</publisher>
+               </titlepage>
+            </frontmatter>
+
+            <archdesc level="collection" type="inventory" audience="external" relatedencoding="MARC21" id="archdesc-1.3">
+               <did id="did-1.3.1">
+                  <head>Overview of the Collection</head>
+                           <unittitle label="Collection Title" encodinganalog="245">Harry L. and Norma L. McCumber Collection</unittitle>                              <unitdate label="Dates" encodinganalog="245$f" type="inclusive" normal="1946/1979">1946-1979</unitdate>
+                              
+                  <unitid encodinganalog="035" label="Identification" repositorycode="US-CDS" countrycode="US">MS-0158</unitid>
+                     <origination label="Creator" encodinganalog="245$c">
+                     <persname encodinganalog="100" normal="McCumber, Norma L." source="lcnaf" role="Collector">McCumber, Norma L.</persname>
+                           </origination>
+                           <physdesc label="Physical Description"><extent encodinganalog="300" type="Linear Feet">0.42 linear ft</extent></physdesc>
+            
+               <langmaterial encodinganalog="546" label="Language of Materials">
+            		<language encodinganalog="041" langcode="eng">English</language>
+               </langmaterial>
+                        <repository encodinganalog="852$b" label="Repository">
+                              <corpname>Special Collections  University Archives</corpname>
+                              <address>
+                     <addressline>5500 Campanile Dr. MC 8050</addressline>
+                                       <addressline>San Diego, CA, 92182-8050</addressline>
+                                    <addressline>URL: http://library.sdsu.edu/scua</addressline>
+                                    <addressline>Email: scref@rohan.sdsu.edu</addressline>
+                                    <addressline>Phone: 619-594-6791</addressline>
+                              </address>
+            </repository>
+
+
+                        
+      </did>
+
+
+      
+
+
+            
+
+                        <controlaccess id="controlaccess-1.3.2">
+                     <head>Access Terms</head>
+
+                     <p>This collection is indexed under the following controlled access subject terms.</p>
+                                 <controlaccess>
+                              <head>Genre/Form of Material:</head>
+                                       <genreform encodinganalog="655" source="local">Personal Papers</genreform>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Geographic Name:</head>
+                                       <geogname encodinganalog="651" source="lcsh" role="subject">San Diego (Calif.) -- History</geogname>
+                                       <geogname encodinganalog="651" source="lcsh" role="subject">San Diego (Calif.) -- Miscellanea</geogname>
+                                 </controlaccess>
+                           <controlaccess>
+                              <head>Personal Name:</head>
+                                       <persname encodinganalog="600" source="lcnaf" role="subject">McCumber, Harry L. -- Archives</persname>
+                                       <persname encodinganalog="600" source="lcnaf" role="subject">McCumber, Harry L. -- Correspondence</persname>
+                                       <persname encodinganalog="600" source="lcnaf" role="subject">McCumber, Norma L. -- Archives</persname>
+                                       <persname encodinganalog="600" source="lcnaf" role="subject">McCumber, Norma L. -- Correspondence</persname>
+                                 </controlaccess>
+            </controlaccess>
+            
+
+         
+
+            
+            
+                              
+                     
+
+                  <descgrp id="descgrp-1.3.3">
+                     <head>Administrative Information</head>
+                              <userestrict encodinganalog="540">
+                           <head>Conditions Governing Use:</head>
+                                          <p>The copyright interests in these materials have not been transferred to San Diego State University. Copyright resides with the creators of materials contained in the collection or their heirs. The nature of historical archival and manuscript collections is such that copyright status may be difficult or even impossible to determine. Requests for permission to publish must be submitted to the Head of Special Collections, San Diego State University, Library and Information Access. When granted, permission is given on behalf of Special Collections as the owner of the physical item and is not intended to include or imply permission of the copyright holder(s), which must also be obtained in order to publish. Materials from our collections are made available for use in research, teaching, and private study. The user must assume full responsibility for any use of the materials, including but not limited to, infringement of copyright and publication rights of reproduced materials.</p>
+                              </userestrict>
+                     <accessrestrict encodinganalog="506">
+                        <head>Conditions Governing Access:</head>
+                                          <p>This collection is open for research.</p>
+                           </accessrestrict>
+                              <prefercite encodinganalog="524">
+                     <head>Preferred Citation:</head>
+                     <p>Identification of item, folder title, box number, Harry L. and Norma L. McCumber Collection, Special Collections and University Archives, Library and Information Access, San Diego State University.</p>
+                     </prefercite>
+                     </descgrp>
+
+                        <scopecontent id="scopecontent-1.3.4">
+               <head>Scope and Contents</head>
+                                 <p>This collection documents the origins of San Diego County place names. Norma L. McCumber (nee Hawkins) began collecting the information as a hobby in 1946. She addressed her inquiries to local chambers of commerce and post offices. The collection includes several responses, as well as Mrs. McCumber's notes on the subject.</p>
+                                 <p>Also included are two letters addressed to Harry L. McCumber, past president of the Conference of California Historical Societies.</p>
+                        </scopecontent>
+            
+
+
+         
+
+         
+
+                        
+            <dsc type="combined" id="dsc-1.3.5" score="1" C-ORDER="1" MAX-C-ORDER="4">
+               <head>Detailed List of Contents</head>
+               <c01 level="file" id="c01-1.3.5.2" score="1" C-ORDER="2"><did>
+      
+         	<container type="Box">1</container>
+	<container type="Folder">1</container>
+      <unittitle>Letters to Norma L. Hawkins re: San Diego County place names</unittitle>
+               </did></c01>
+   <c01 level="file" id="c01-1.3.5.3" score="1" C-ORDER="3"><did>
+      
+         	<container type="Box">1</container>
+	<container type="Folder">2</container>
+      <unittitle>Notes re: San Diego County place names</unittitle>
+               </did></c01>
+   <c01 level="file" id="c01-1.3.5.4" score="1" C-ORDER="4"><did>
+      
+         	<container type="Box">1</container>
+	<container type="Folder">3</container>
+      <unittitle>Letters to Harry L. McCumber from Don H. Clausen Representative in Congress June 26, 1979; Charles R. Taylor, Plymouth United Church of Christ October 11, 1969</unittitle>
+               </did></c01>
+   
+   
+            </dsc>
+               
+   </archdesc>
+</ead>

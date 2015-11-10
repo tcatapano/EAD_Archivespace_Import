@@ -1,0 +1,1380 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.library.yale.edu/facc/schemas/ead/ead.xsd"
+     id="mssa.ru.1091">
+   <eadheader findaidstatus="edited-full-draft" repositoryencoding="iso15511"
+              countryencoding="iso3166-1"
+              dateencoding="iso8601"
+              langencoding="iso639-2b"
+              audience="internal"
+              scriptencoding="iso15924">
+      <eadid countrycode="US" mainagencycode="US-CtY"
+             publicid="-//Yale University::Manuscripts and Archives//TEXT (US::CtY::::[General Accounting Services, Yale University, monthly accounting statements])//EN"
+             url="http://hdl.handle.net/10079/fa/mssa.ru.1091">mssa.ru.1091</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper type="formal">Guide to the General Accounting Services, Yale University, Monthly Accounting Statements
+                    </titleproper>
+            <titleproper type="filing" audience="internal">General Accounting Services, Yale University, Monthly Accounting Statements</titleproper>
+            <author>compiled by Daniel Hartwig</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>Yale University Library</publisher>
+            <publisher>Manuscripts and Archives</publisher>
+            <address>
+               <addressline>New Haven, Connecticut</addressline>
+            </address>
+            <date type="original" normal="2008-10">October 2008</date>
+            <p>
+               <extref ns2:type="simple" ns2:actuate="onRequest" ns2:show="new"
+                       ns2:href="http://hdl.handle.net/10079/9p8czk9">Copyright © <date type="copyright" normal="2012">2012</date> by the Yale University Library. </extref>
+            </p>
+         </publicationstmt>
+         <notestmt>
+            <note type="bpg">
+               <p>This encoded finding aid is compliant with the Yale EAD Best Practice Guidelines, Version 1.0.</p>
+            </note>
+         </notestmt>
+      </filedesc>
+      <profiledesc>
+         <creation>This finding aid was produced using the Archivists' Toolkit
+                </creation>
+         <langusage>Finding aid written in 
+                <language langcode="eng" scriptcode="Latn">English</language>.</langusage>
+         <descrules>Describing Archives: A Content Standard</descrules>
+      </profiledesc>
+   </eadheader>
+   <archdesc level="collection" relatedencoding="MARC21" type="register">
+      <did>
+         <head>Overview</head>
+         <unitid label="Call Number:" countrycode="US" repositorycode="US-CtY">RU 1091</unitid>
+         <origination label="Creator:">
+            <corpname rules="dacs" source="ingest">Yale University. Office of Finance and Administration..</corpname>
+         </origination>
+         <unittitle label="Title:">General Accounting Services, Yale University, monthly accounting statements</unittitle>
+         <unitdate normal="1976/1999" type="inclusive" label="Dates:" calendar="gregorian"
+                   era="ce"
+                   datechar="creation">1976-1999</unitdate>
+         <physdesc label="Physical Description:">
+            <extent>52.75 linear feet (158 boxes)</extent>
+         </physdesc>
+         <abstract label="Summary:">The materials consist of microfiche copies of monthly accounting statements from General Accounting Services.</abstract>
+         <langmaterial label="Language(s):">The materials are in <language langcode="eng" scriptcode="Latn">English</language>.</langmaterial>
+         <note label="Note:">
+            <p>Forms part of Yale Record Group 5-B (YRG 5-B), Accounting records and records of the Yale comptroller.</p>
+         </note>
+         <repository label="Repository:">
+            <corpname>Manuscripts and Archives</corpname>
+            <address>
+               <addressline>Sterling Memorial Library</addressline>
+               <addressline>128 Wall Street</addressline>
+               <addressline>P.O. Box 208240</addressline>
+               <addressline>New Haven, CT 06520</addressline>
+               <addressline altrender="web">Web: http://www.library.yale.edu/mssa/</addressline>
+               <addressline altrender="email">Email: mssa.assist@yale.edu</addressline>
+               <addressline altrender="phone">Phone: (203) 432-1735</addressline>
+               <addressline altrender="fax">Fax: (203) 432-7441</addressline>
+            </address>
+         </repository>
+      </did>
+      <descgrp type="admininfo" id="ai">
+         <head>Administrative Information</head>
+         <descgrp type="provenance" id="prov">
+            <head>Provenance</head>
+            <acqinfo id="ref4">
+               <p>The materials were transferred from General Accounting Services, 2008.</p>
+            </acqinfo>
+         </descgrp>
+         <accessrestrict id="ref5">
+            <head>Information about Access</head>
+            <p>Access to the materials is restricted. See Collection Contents for details.</p>
+         </accessrestrict>
+         <userestrict id="ref6">
+            <head>Ownership  Copyright</head>
+            <p>Copyright for materials authored or otherwise produced as official business of Yale University is retained by Yale University. Copyright status for other collection materials is unknown. Transmission or reproduction of materials protected by U.S. Copyright Law (Title 17, U.S.C.) beyond that allowed by fair use requires the written permission of the copyright owners. Works not in the public domain cannot be commercially exploited without permission of the copyright owners. Responsibility for any use rests exclusively with the user.</p>
+         </userestrict>
+         <prefercite id="ref7">
+            <head>Cite As</head>
+            <p>General Accounting Services, Yale University, Monthly Accounting Statements (RU 1091). Manuscripts and Archives, Yale University Library.</p>
+         </prefercite>
+         <processinfo id="ref8">
+            <head>Processing Notes</head>
+            <p>Yale University records are arranged and described at the accession level by the creating office. The University Archives creates collection level descriptive records, but typically does no further arrangement and description at the accession level.</p>
+         </processinfo>
+      </descgrp>
+      <bioghist id="ref9">
+         <head>Information about the Creator(s)</head>
+         <p>General Accounting Operations  Development is responsible for overseeing Labor Distribution, Grants Management, and Accounts Receivable, in addition to the General Ledger. The department is also responsible for establishing processes to ensure the proper integration of accounting. Additional responsibilities of GA Services include: establish the University's accounting calendar and oversee posting/closing activities; develop reconciliation processes/procedures that ensure effective integration of financial transactions; maintain COA values including PSOO and PTAEO; establish electronic transaction processing standards; and design quality assurance programs.</p>
+      </bioghist>
+      <scopecontent id="ref10">
+         <head>Description of the Papers</head>
+         <p>The materials consist of microfiche copies of monthly accounting statements from General Accounting Services.</p>
+      </scopecontent>
+      <arrangement id="ref11">
+         <head>Arrangement</head>
+         <p>The materials are arranged chronologically.</p>
+      </arrangement>
+      <dsc type="combined">
+         <head>Collection Contents</head>
+         <c01 id="ref12" level="series">
+            <did>
+               <unitid>Accession 2009-A-114</unitid>
+               <unittitle>Monthly accounting statements</unittitle>
+               <unitdate normal="1976/1999" type="inclusive">1976-1999</unitdate>
+            </did>
+            <accessrestrict>
+               <p>Restricted until Jan 1, 2035.</p>
+            </accessrestrict>
+            <c02 id="ref13" level="file">
+               <did>
+                  <container type="Box" label="39002075166158">1</container>
+                  <unittitle>
+                     <unitdate>1976 Dec - 1977Jun</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02 id="ref14" level="file">
+               <did>
+                  <container type="Box" label="39002075166166">2</container>
+                  <unittitle>
+                     <unitdate>1977 Jun - 1978 Jan</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02 id="ref15" level="file">
+               <did>
+                  <container type="Box" label="39002075166182">3</container>
+                  <unittitle>
+                     <unitdate>1978 Feb - Jul</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02 id="ref16" level="file">
+               <did>
+                  <container type="Box" label="39002075166174">4</container>
+                  <unittitle>
+                     <unitdate>1978 Aug - 1979 Mar</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02 id="ref17" level="file">
+               <did>
+                  <container type="Box" label="39002075166190">5</container>
+                  <unittitle>
+                     <unitdate>1979 Mar - Jul</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02 id="ref18" level="file">
+               <did>
+                  <container type="Box" label="39002075166208">6</container>
+                  <unittitle>
+                     <unitdate>1979 Aug - 1980 Jan</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02 id="ref19" level="file">
+               <did>
+                  <container type="Box" label="39002075166216">7</container>
+                  <unittitle>
+                     <unitdate>1980 Feb - Jul</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02 id="ref20" level="file">
+               <did>
+                  <container type="Box" label="39002075166224">8</container>
+                  <unittitle>
+                     <unitdate>1980 Jul - 1981 Jan</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02 id="ref21" level="file">
+               <did>
+                  <container type="Box" label="39002075166232">9</container>
+                  <unittitle>
+                     <unitdate>1981 Feb - Oct</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02 id="ref22" level="file">
+               <did>
+                  <container type="Box" label="39002075166240">10</container>
+                  <unittitle>
+                     <unitdate>1981 Nov - 1982 Jul</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02 id="ref23" level="file">
+               <did>
+                  <container type="Box" label="39002075166257">11</container>
+                  <unittitle>
+                     <unitdate>1982 Jul - Dec</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02 id="ref24" level="file">
+               <did>
+                  <container type="Box" label="39002075166265">12</container>
+                  <unittitle>
+                     <unitdate>1982 Dec - 1983 Jan</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02 id="ref25" level="file">
+               <did>
+                  <container type="Box" label="39002075166273">13</container>
+                  <unittitle>
+                     <unitdate>1983 Feb</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02 id="ref26" level="file">
+               <did>
+                  <container type="Box" label="39002075166281">14</container>
+                  <unittitle>
+                     <unitdate>1983 Mar - Apr</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02 id="ref27" level="file">
+               <did>
+                  <container type="Box" label="39002075166299">15</container>
+                  <unittitle>
+                     <unitdate>1983 Apr - Aug</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02 id="ref28" level="file">
+               <did>
+                  <container type="Box" label="39002075166307">16</container>
+                  <unittitle>
+                     <unitdate>1983 Sep - 1984 Feb</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02 id="ref29" level="file">
+               <did>
+                  <container type="Box" label="39002075166315">17</container>
+                  <unittitle>
+                     <unitdate>1984 Mar - Jun</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02 id="ref30" level="file">
+               <did>
+                  <container type="Box" label="39002075166323">18</container>
+                  <unittitle>
+                     <unitdate>1984 Jun - Dec</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02 id="ref31" level="file">
+               <did>
+                  <container type="Box" label="39002075166331">19</container>
+                  <unittitle>
+                     <unitdate>1985 Jan - Feb</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02 id="ref32" level="file">
+               <did>
+                  <container type="Box" label="39002075166349">20</container>
+                  <unittitle>
+                     <unitdate>1985 Mar - Apr</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02 id="ref33" level="file">
+               <did>
+                  <container type="Box" label="39002075166356">21</container>
+                  <unittitle>
+                     <unitdate>1985 May - Jun</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02 id="ref34" level="file">
+               <did>
+                  <container type="Box" label="39002075166364">22</container>
+                  <unittitle>
+                     <unitdate>1985 Jun</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02 id="ref35" level="file">
+               <did>
+                  <container type="Box" label="39002075166372">23</container>
+                  <unittitle>
+                     <unitdate>1985 Jun - Jul</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02 id="ref36" level="file">
+               <did>
+                  <container type="Box" label="39002075166380">24</container>
+                  <unittitle>
+                     <unitdate>1985 Aug - Sep</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02 id="ref37" level="file">
+               <did>
+                  <container type="Box" label="39002075166398">25</container>
+                  <unittitle>
+                     <unitdate>1985 Oct - Nov</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02 id="ref38" level="file">
+               <did>
+                  <container type="Box" label="39002075166406">26</container>
+                  <unittitle>
+                     <unitdate>1985 Nov - Dec</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02 id="ref39" level="file">
+               <did>
+                  <container type="Box" label="39002075166414">27</container>
+                  <unittitle>
+                     <unitdate>1986 Jan - Jun</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02 id="ref40" level="file">
+               <did>
+                  <container type="Box" label="39002075166422">28</container>
+                  <unittitle>
+                     <unitdate>1986 Jun - Sep</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02 id="ref41" level="file">
+               <did>
+                  <container type="Box" label="39002075166430">29</container>
+                  <unittitle>
+                     <unitdate>1986 Oct</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02 id="ref42" level="file">
+               <did>
+                  <container type="Box" label="39002075166448">30</container>
+                  <unittitle>
+                     <unitdate>1986 Nov - Dec</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02 id="ref43" level="file">
+               <did>
+                  <container type="Box" label="39002075166463">31</container>
+                  <unittitle>
+                     <unitdate>1986 Dec - 1987 Apr</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02 id="ref44" level="file">
+               <did>
+                  <container type="Box" label="39002075166455">32</container>
+                  <unittitle>
+                     <unitdate>1987 May - Jun</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02 id="ref45" level="file">
+               <did>
+                  <container type="Box" label="39002075166471">33</container>
+                  <unittitle>
+                     <unitdate>1987 Jun - Oct</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02 id="ref46" level="file">
+               <did>
+                  <container type="Box" label="39002075166489">34</container>
+                  <unittitle>
+                     <unitdate>1987 Oct - 1988 Feb</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02 id="ref47" level="file">
+               <did>
+                  <container type="Box" label="39002075166497">35</container>
+                  <unittitle>
+                     <unitdate>1988 Feb - May</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02 id="ref48" level="file">
+               <did>
+                  <container type="Box" label="39002075166505">36</container>
+                  <unittitle>
+                     <unitdate>1988 May - Jul</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02 id="ref49" level="file">
+               <did>
+                  <container type="Box" label="39002075166513">37</container>
+                  <unittitle>
+                     <unitdate>1988 Aug - Sep</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02 id="ref50" level="file">
+               <did>
+                  <container type="Box" label="39002075166521">38</container>
+                  <unittitle>
+                     <unitdate>1988 Oct - Nov</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02 id="ref51" level="file">
+               <did>
+                  <container type="Box" label="39002075166539">39</container>
+                  <unittitle>
+                     <unitdate>1988 Nov - Dec</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02 id="ref52" level="file">
+               <did>
+                  <container type="Box" label="39002075166547">40</container>
+                  <unittitle>
+                     <unitdate>1989 Jan - May</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02 id="ref53" level="file">
+               <did>
+                  <container type="Box" label="39002075166554">41</container>
+                  <unittitle>
+                     <unitdate>1989 Jun - Aug</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02 id="ref54" level="file">
+               <did>
+                  <container type="Box" label="39002075166562">42</container>
+                  <unittitle>
+                     <unitdate>1989 Aug - 1990 Jan</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02 id="ref55" level="file">
+               <did>
+                  <container type="Box" label="39002075166570">43</container>
+                  <unittitle>
+                     <unitdate>1990 Feb - May</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02 id="ref56" level="file">
+               <did>
+                  <container type="Box" label="39002075166588">44</container>
+                  <unittitle>
+                     <unitdate>1990 Jun - 1991 Mar</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02 id="ref57" level="file">
+               <did>
+                  <container type="Box" label="39002075166596">45</container>
+                  <unittitle>
+                     <unitdate>1991 Apr - Dec</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02 id="ref58" level="file">
+               <did>
+                  <container type="Box" label="39002075166612">46</container>
+                  <unittitle>
+                     <unitdate>1992 Jan - Apr</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02 id="ref59" level="file">
+               <did>
+                  <container type="Box" label="39002075166604">47</container>
+                  <unittitle>
+                     <unitdate>1992 May - Jun</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02 id="ref60" level="file">
+               <did>
+                  <container type="Box" label="39002075166620">48</container>
+                  <unittitle>
+                     <unitdate>1992 Jul</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02 id="ref61" level="file">
+               <did>
+                  <container type="Box" label="39002075166638">49</container>
+                  <unittitle>
+                     <unitdate>1992 Aug</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02 id="ref62" level="file">
+               <did>
+                  <container type="Box" label="39002075166646">50</container>
+                  <unittitle>
+                     <unitdate>1992 Sep</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02 id="ref63" level="file">
+               <did>
+                  <container type="Box" label="39002075166653">51</container>
+                  <unittitle>
+                     <unitdate>1992 Oct</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02 id="ref64" level="file">
+               <did>
+                  <container type="Box" label="39002075166661">52</container>
+                  <unittitle>
+                     <unitdate>1992 Nov</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02 id="ref65" level="file">
+               <did>
+                  <container type="Box" label="39002075166679">53</container>
+                  <unittitle>
+                     <unitdate>1992 Dec</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02 id="ref66" level="file">
+               <did>
+                  <container type="Box" label="39002075166687">54</container>
+                  <unittitle>
+                     <unitdate>1993 Jan</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02 id="ref67" level="file">
+               <did>
+                  <container type="Box" label="39002075166695">55</container>
+                  <unittitle>
+                     <unitdate>1993 Feb</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02 id="ref68" level="file">
+               <did>
+                  <container type="Box" label="39002075166703">56</container>
+                  <unittitle>
+                     <unitdate>1993 Mar</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02 id="ref69" level="file">
+               <did>
+                  <container type="Box" label="39002075166711">57</container>
+                  <unittitle>
+                     <unitdate>1993 Apr</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02 id="ref70" level="file">
+               <did>
+                  <container type="Box" label="39002075166729">58</container>
+                  <unittitle>
+                     <unitdate>1993 May</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02 id="ref71" level="file">
+               <did>
+                  <container type="Box" label="39002075166737">59</container>
+                  <unittitle>
+                     <unitdate>1993 Jun</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02 id="ref72" level="file">
+               <did>
+                  <container type="Box" label="39002075166745">60</container>
+                  <unittitle>
+                     <unitdate>1993 Jun - 1st balance</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02 id="ref73" level="file">
+               <did>
+                  <container type="Box" label="39002075166752">61</container>
+                  <unittitle>
+                     <unitdate>1993 Jun - 2nd balance</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02 id="ref74" level="file">
+               <did>
+                  <container type="Box" label="39002075166760">62</container>
+                  <unittitle>
+                     <unitdate>1993 Jun - 3rd balance</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02 id="ref75" level="file">
+               <did>
+                  <container type="Box" label="39002075166778">63</container>
+                  <unittitle>
+                     <unitdate>1993 Jun - 4th balance</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02 id="ref76" level="file">
+               <did>
+                  <container type="Box" label="39002075166885">74</container>
+                  <unittitle>
+                     <unitdate>1993 Jul</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02 id="ref77" level="file">
+               <did>
+                  <container type="Box" label="39002075166786">64</container>
+                  <unittitle>
+                     <unitdate>1993 Aug</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02 id="ref78" level="file">
+               <did>
+                  <container type="Box" label="39002075166794">65</container>
+                  <unittitle>
+                     <unitdate>1993 Sep</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02 id="ref79" level="file">
+               <did>
+                  <container type="Box" label="39002075166802">66</container>
+                  <unittitle>
+                     <unitdate>1993 Oct</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02 id="ref80" level="file">
+               <did>
+                  <container type="Box" label="39002075166810">67</container>
+                  <unittitle>
+                     <unitdate>1993 Nov</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02 id="ref81" level="file">
+               <did>
+                  <container type="Box" label="39002075166828">68</container>
+                  <unittitle>
+                     <unitdate>1993 Dec</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02 id="ref82" level="file">
+               <did>
+                  <container type="Box" label="39002075166836">69</container>
+                  <unittitle>
+                     <unitdate>1994 Jan</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02 id="ref83" level="file">
+               <did>
+                  <container type="Box" label="39002075166844">70</container>
+                  <unittitle>
+                     <unitdate>1994 Feb</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02 id="ref84" level="file">
+               <did>
+                  <container type="Box" label="39002075166851">71</container>
+                  <unittitle>
+                     <unitdate>1994 Mar</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02 id="ref85" level="file">
+               <did>
+                  <container type="Box" label="39002075166869">72</container>
+                  <unittitle>
+                     <unitdate>1994 Apr</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02 id="ref86" level="file">
+               <did>
+                  <container type="Box" label="39002075166877">73</container>
+                  <unittitle>
+                     <unitdate>1994 May</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02 id="ref87" level="file">
+               <did>
+                  <container type="Box" label="39002075166893">75</container>
+                  <unittitle>
+                     <unitdate>1994 Jun</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02 id="ref88" level="file">
+               <did>
+                  <container type="Box" label="39002075166901">76</container>
+                  <unittitle>
+                     <unitdate>1994 Jun - 1st balance</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02 id="ref89" level="file">
+               <did>
+                  <container type="Box" label="39002075166919">77</container>
+                  <unittitle>
+                     <unitdate>1994 Jun - 2nd balance</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02 id="ref90" level="file">
+               <did>
+                  <container type="Box" label="39002075166927">78</container>
+                  <unittitle>
+                     <unitdate>1994 Jun - 3rd - 4th balance</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02 id="ref91" level="file">
+               <did>
+                  <container type="Box" label="39002075166935">79</container>
+                  <unittitle>
+                     <unitdate>1994 Jul</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02 id="ref92" level="file">
+               <did>
+                  <container type="Box" label="39002075166943">80</container>
+                  <unittitle>
+                     <unitdate>1994 Aug</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02 id="ref93" level="file">
+               <did>
+                  <container type="Box" label="39002075166950">81</container>
+                  <unittitle>
+                     <unitdate>1994 Sep</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02 id="ref94" level="file">
+               <did>
+                  <container type="Box" label="39002075166968">82</container>
+                  <unittitle>
+                     <unitdate>1994 Oct</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02 id="ref95" level="file">
+               <did>
+                  <container type="Box" label="39002075166976">83</container>
+                  <unittitle>
+                     <unitdate>1994 Nov</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02 id="ref96" level="file">
+               <did>
+                  <container type="Box" label="39002075166984">84</container>
+                  <unittitle>
+                     <unitdate>1994 Dec</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02 id="ref97" level="file">
+               <did>
+                  <container type="Box" label="39002075166992">85</container>
+                  <unittitle>
+                     <unitdate>1995 Jan</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02 id="ref98" level="file">
+               <did>
+                  <container type="Box" label="39002075167008">86</container>
+                  <unittitle>
+                     <unitdate>1995 Feb</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02 id="ref99" level="file">
+               <did>
+                  <container type="Box" label="39002075167016">87</container>
+                  <unittitle>
+                     <unitdate>1995 Mar</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02 id="ref100" level="file">
+               <did>
+                  <container type="Box" label="39002075167024">88</container>
+                  <unittitle>
+                     <unitdate>1995 Apr</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02 id="ref101" level="file">
+               <did>
+                  <container type="Box" label="39002075167032">89</container>
+                  <unittitle>
+                     <unitdate>1995 May</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02 id="ref102" level="file">
+               <did>
+                  <container type="Box" label="39002075167040">90</container>
+                  <unittitle>
+                     <unitdate>1995 Jun</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02 id="ref103" level="file">
+               <did>
+                  <container type="Box" label="39002075167057">91</container>
+                  <unittitle>
+                     <unitdate>1995 Jun - 1st balance</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02 id="ref104" level="file">
+               <did>
+                  <container type="Box" label="39002075167065">92</container>
+                  <unittitle>
+                     <unitdate>1995 Jun - 2nd balance</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02 id="ref105" level="file">
+               <did>
+                  <container type="Box" label="39002075167073">93</container>
+                  <unittitle>
+                     <unitdate>1995 Jun - 3rd - 4th balance</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02 id="ref106" level="file">
+               <did>
+                  <container type="Box" label="39002075167081">94</container>
+                  <unittitle>
+                     <unitdate>1995 Jul</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02 id="ref107" level="file">
+               <did>
+                  <container type="Box" label="39002075167099">95</container>
+                  <unittitle>
+                     <unitdate>1995 Aug</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02 id="ref108" level="file">
+               <did>
+                  <container type="Box" label="39002075167107">96</container>
+                  <unittitle>
+                     <unitdate>1995 Sep</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02 id="ref109" level="file">
+               <did>
+                  <container type="Box" label="39002075167115">97</container>
+                  <unittitle>
+                     <unitdate>1995 Oct</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02 id="ref110" level="file">
+               <did>
+                  <container type="Box" label="39002075167123">98</container>
+                  <unittitle>
+                     <unitdate>1995 Nov</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02 id="ref111" level="file">
+               <did>
+                  <container type="Box" label="39002075167131">99</container>
+                  <unittitle>
+                     <unitdate>1995 Dec</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02 id="ref112" level="file">
+               <did>
+                  <container type="Box" label="39002075167156">100</container>
+                  <unittitle>
+                     <unitdate>1996 Jan</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02 id="ref113" level="file">
+               <did>
+                  <container type="Box" label="39002075167149">101</container>
+                  <unittitle>
+                     <unitdate>1996 Feb</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02 id="ref114" level="file">
+               <did>
+                  <container type="Box" label="39002075167164">102</container>
+                  <unittitle>
+                     <unitdate>1996 Mar</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02 id="ref115" level="file">
+               <did>
+                  <container type="Box" label="39002075167172">103</container>
+                  <unittitle>
+                     <unitdate>1996 Apr</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02 id="ref116" level="file">
+               <did>
+                  <container type="Box" label="39002075167180">104</container>
+                  <unittitle>
+                     <unitdate>1996 May</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02 id="ref117" level="file">
+               <did>
+                  <container type="Box" label="39002075167198">105</container>
+                  <unittitle>
+                     <unitdate>1996 Jun</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02 id="ref118" level="file">
+               <did>
+                  <container type="Box" label="39002075167206">106</container>
+                  <unittitle>
+                     <unitdate>1996 Jun - 1st balance</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02 id="ref119" level="file">
+               <did>
+                  <container type="Box" label="39002075167214">107</container>
+                  <unittitle>
+                     <unitdate>1996 Jun - 2nd balance</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02 id="ref120" level="file">
+               <did>
+                  <container type="Box" label="39002075167222">108</container>
+                  <unittitle>
+                     <unitdate>1996 Jun - 3rd - 4th balance</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02 id="ref121" level="file">
+               <did>
+                  <container type="Box" label="39002075167230">109</container>
+                  <unittitle>
+                     <unitdate>1996 Jul</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02 id="ref122" level="file">
+               <did>
+                  <container type="Box" label="39002075167248">110</container>
+                  <unittitle>
+                     <unitdate>1996 Aug</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02 id="ref123" level="file">
+               <did>
+                  <container type="Box" label="39002075167255">111</container>
+                  <unittitle>
+                     <unitdate>1996 Sep</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02 id="ref124" level="file">
+               <did>
+                  <container type="Box" label="39002075167263">112</container>
+                  <unittitle>
+                     <unitdate>1996 Oct</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02 id="ref125" level="file">
+               <did>
+                  <container type="Box" label="39002075167271">113</container>
+                  <unittitle>
+                     <unitdate>1996 Nov</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02 id="ref126" level="file">
+               <did>
+                  <container type="Box" label="39002075167289">114</container>
+                  <unittitle>
+                     <unitdate>1996 Dec</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02 id="ref127" level="file">
+               <did>
+                  <container type="Box" label="39002075167297">115</container>
+                  <unittitle>
+                     <unitdate>1997 Jan</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02 id="ref128" level="file">
+               <did>
+                  <container type="Box" label="39002075167305">116</container>
+                  <unittitle>
+                     <unitdate>1997 Feb</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02 id="ref129" level="file">
+               <did>
+                  <container type="Box" label="39002075167313">117</container>
+                  <unittitle>
+                     <unitdate>1997 Mar</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02 id="ref130" level="file">
+               <did>
+                  <container type="Box" label="39002075167321">118</container>
+                  <unittitle>
+                     <unitdate>1997 Apr</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02 id="ref131" level="file">
+               <did>
+                  <container type="Box" label="39002075167339">119</container>
+                  <unittitle>
+                     <unitdate>1997 May</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02 id="ref132" level="file">
+               <did>
+                  <container type="Box" label="39002075167347">120</container>
+                  <unittitle>
+                     <unitdate>1997 Jun</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02 id="ref133" level="file">
+               <did>
+                  <container type="Box" label="39002075167354">121</container>
+                  <unittitle>
+                     <unitdate>1997 Jun - 1st balance</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02 id="ref134" level="file">
+               <did>
+                  <container type="Box" label="39002075167362">122</container>
+                  <unittitle>
+                     <unitdate>1997 Jun - 2nd balance</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02 id="ref135" level="file">
+               <did>
+                  <container type="Box" label="39002075167370">123</container>
+                  <unittitle>
+                     <unitdate>1997 Jun - 3rd balance</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02 id="ref136" level="file">
+               <did>
+                  <container type="Box" label="39002075167388">124</container>
+                  <unittitle>
+                     <unitdate>1997 Jun - 4th balance</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02 id="ref137" level="file">
+               <did>
+                  <container type="Box" label="39002075167396">125</container>
+                  <unittitle>
+                     <unitdate>1997 Jul</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02 id="ref138" level="file">
+               <did>
+                  <container type="Box" label="39002075167404">126</container>
+                  <unittitle>
+                     <unitdate>1997 Aug</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02 id="ref139" level="file">
+               <did>
+                  <container type="Box" label="39002075167412">127</container>
+                  <unittitle>
+                     <unitdate>1997 Sep</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02 id="ref140" level="file">
+               <did>
+                  <container type="Box" label="39002075167420">128</container>
+                  <unittitle>
+                     <unitdate>1997 Oct</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02 id="ref141" level="file">
+               <did>
+                  <container type="Box" label="39002075167438">129</container>
+                  <unittitle>
+                     <unitdate>1997 Nov</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02 id="ref142" level="file">
+               <did>
+                  <container type="Box" label="39002075167446">130</container>
+                  <unittitle>
+                     <unitdate>1997 Dec</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02 id="ref143" level="file">
+               <did>
+                  <container type="Box" label="39002075167453">131</container>
+                  <unittitle>
+                     <unitdate>1998 Jan</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02 id="ref144" level="file">
+               <did>
+                  <container type="Box" label="39002075167461">132</container>
+                  <unittitle>
+                     <unitdate>1998 Feb</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02 id="ref145" level="file">
+               <did>
+                  <container type="Box" label="39002075167479">133</container>
+                  <unittitle>
+                     <unitdate>1998 Mar</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02 id="ref146" level="file">
+               <did>
+                  <container type="Box" label="39002075167487">134</container>
+                  <unittitle>
+                     <unitdate>1998 Apr</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02 id="ref147" level="file">
+               <did>
+                  <container type="Box" label="39002075167495">135</container>
+                  <unittitle>
+                     <unitdate>1998 May</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02 id="ref148" level="file">
+               <did>
+                  <container type="Box" label="39002075167503">136</container>
+                  <unittitle>
+                     <unitdate>1998 Jun</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02 id="ref149" level="file">
+               <did>
+                  <container type="Box" label="39002075167511">137</container>
+                  <unittitle>
+                     <unitdate>1998 Jun - 1st balance</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02 id="ref150" level="file">
+               <did>
+                  <container type="Box" label="39002075167529">138</container>
+                  <unittitle>
+                     <unitdate>1998 Jun - 2nd balance</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02 id="ref151" level="file">
+               <did>
+                  <container type="Box" label="39002075167537">139</container>
+                  <unittitle>
+                     <unitdate>1998 Jun - 3rd balance</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02 id="ref152" level="file">
+               <did>
+                  <container type="Box" label="39002075167545">140</container>
+                  <unittitle>
+                     <unitdate>1998 Jun - 4th balance</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02 id="ref153" level="file">
+               <did>
+                  <container type="Box" label="39002075167552">141</container>
+                  <unittitle>
+                     <unitdate>1998 Jul</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02 id="ref154" level="file">
+               <did>
+                  <container type="Box" label="39002075167560">142</container>
+                  <unittitle>
+                     <unitdate>1998 Aug</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02 id="ref155" level="file">
+               <did>
+                  <container type="Box" label="39002075167578">143</container>
+                  <unittitle>
+                     <unitdate>1998 Sep</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02 id="ref156" level="file">
+               <did>
+                  <container type="Box" label="39002075167586">144</container>
+                  <unittitle>
+                     <unitdate>1998 Oct</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02 id="ref157" level="file">
+               <did>
+                  <container type="Box" label="39002075167594">145</container>
+                  <unittitle>
+                     <unitdate>1998 Nov</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02 id="ref158" level="file">
+               <did>
+                  <container type="Box" label="39002075167602">146</container>
+                  <unittitle>
+                     <unitdate>1998 Dec</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02 id="ref159" level="file">
+               <did>
+                  <container type="Box" label="39002075167610">147</container>
+                  <unittitle>
+                     <unitdate>1999 Jan</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02 id="ref160" level="file">
+               <did>
+                  <container type="Box" label="39002075167628">148</container>
+                  <unittitle>
+                     <unitdate>1999 Feb</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02 id="ref161" level="file">
+               <did>
+                  <container type="Box" label="39002075167636">149</container>
+                  <unittitle>
+                     <unitdate>1999 Mar</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02 id="ref162" level="file">
+               <did>
+                  <container type="Box" label="39002075167644">150</container>
+                  <unittitle>
+                     <unitdate>1999 Apr</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02 id="ref163" level="file">
+               <did>
+                  <container type="Box" label="39002075167669,39002075167677">151-152</container>
+                  <unittitle>
+                     <unitdate>1999 May</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02 id="ref164" level="file">
+               <did>
+                  <container type="Box" label="39002075167651,39002075167685">153-154</container>
+                  <unittitle>
+                     <unitdate>1998 Jun</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02 id="ref165" level="file">
+               <did>
+                  <container type="Box" label="39002075167693">155</container>
+                  <unittitle>
+                     <unitdate>1998 Jun - 1st balance</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02 id="ref166" level="file">
+               <did>
+                  <container type="Box" label="39002075167701">156</container>
+                  <unittitle>
+                     <unitdate>1998 Jun - 2nd balance</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02 id="ref167" level="file">
+               <did>
+                  <container type="Box" label="39002075167719">157</container>
+                  <unittitle>
+                     <unitdate>1998 Jun - 3rd balance</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+            <c02 id="ref168" level="file">
+               <did>
+                  <container type="Box" label="39002075167727">158</container>
+                  <unittitle>
+                     <unitdate>1998 Jun - 4th balance</unitdate>
+                  </unittitle>
+               </did>
+            </c02>
+         </c01>
+      </dsc>
+   </archdesc>
+</ead>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead relatedencoding="marc21">
+	<eadheader audience="internal">
+		<eadid countrycode="US" mainagencycode="TxU-TH" encodinganalog="852$a"
+			>urn:taro:utexas.cah.02281</eadid>
+		<filedesc>
+			<titlestmt>
+				<titleproper>A Guide to the Curtis Kirk/Tyler Publishing Company Audio Archives, 1963-1983</titleproper>
+			</titlestmt>
+		</filedesc>
+		<profiledesc>
+			<creation>Original EAD encoding by Bethany Anderson according to TARO 2
+				EAD 2002 Editing Instructions.
+				<date>February 2011</date></creation>
+			<langusage>Finding aid written in <language>English.</language></langusage>
+		</profiledesc>
+	</eadheader>
+	<archdesc type="inventory" level="collection">
+		<did>
+			<head>Descriptive Summary</head>
+			<origination label="Creator:">
+				<persname encodinganalog="100">Kirk, Curtis, 1929-1985</persname>
+			</origination>
+			<unittitle encodinganalog="245" label="Title:"
+				>Kirk, Curtis, Tyler Publishing Company Audio Archives</unittitle>
+			<unitdate type="inclusive" encodinganalog="245" label="Dates:"
+				>1963-1983</unitdate>
+			<langmaterial label="Language:">Materials are written in <language langcode="eng"
+					>English.</language></langmaterial>
+			<unitid label="Accession No.:">90-374</unitid>
+			<physdesc label="Extent:" encodinganalog="300$a"
+				>34 ft.</physdesc>
+			<repository label="Repository:" encodinganalog="852$a">
+				<extref href="http://www.cah.utexas.edu" show="new" actuate="onrequest">
+					<corpname><subarea>Dolph Briscoe Center for American History, </subarea>The
+						University of Texas at Austin</corpname></extref></repository>
+			<abstract label="Abstract:" encodinganalog="520$a"
+				>Comprised of printed programs, artwork, posters, and photographs, as well as audiocassette tapes and phonodiscs, the Curtis Kirk/Tyler Publishing Company Audio Archives, 1963-1983, document Kirk’s career as the owner, music producer, and sound engineer for Tyler Publishing Company and Custom Records.</abstract>
+		</did>
+		<bioghist encodinganalog="545">
+			<head>Biographical Note</head>
+			<p>Musician, music producer, and sound engineer Curtis Kirk (1929-1985) was born in Grand Saline, Texas. The owner of Tyler Publishing Company and Custom Records in Tyler, Texas, Kirk was active from about the 1950s to 1980s, producing a number of songs and albums for local Texas musicians. In addition, Kirk worked as a sound engineer at various bluegrass festivals in Texas and Oklahoma during the 1970s.</p>
+			<p>Source:</p>
+			<p><emph render="italic">Wired for Sound Blog</emph>. Accessed February 7, 2011. <extref actuate="onrequest" show="new" href="http://wired-for-sound.blogspot.com/2009/12/curtis-kirk-1951-acetate.html">http://wired-for-sound.blogspot.com/2009/12/curtis-kirk-1951-acetate.html</extref>.</p>
+		</bioghist>
+		<scopecontent encodinganalog="520">
+			<head>Scope and Contents</head>
+			<p>Comprised of printed programs, artwork, posters, and photographs, as well as audiocassette tapes and phonodiscs, the Curtis Kirk/Tyler Publishing Company Audio Archives, 1963-1983, document Kirk’s career as the owner, music producer, and sound engineer for Tyler Publishing Company and Custom Records. Audiocassette tapes contain live performances recorded at various bluegrass festivals in Texas and Oklahoma and “sound-alike” recordings, while phonodiscs consist of custom 45 rpm and LP releases of country songs, gospel music, and commercial jingles. Artwork, posters, and photographs illustrate bluegrass festivals and musicians in Texas.</p>
+		</scopecontent>
+		<accessrestrict encodinganalog="506">
+			<head>Access Restrictions</head>
+			<p>This collection is open for research use.</p>
+			<p>Use of audio materials by appointment only; please contact sound archivist for more information</p>
+			<p>Donor maintains copyright of unpublished materials.</p>
+		</accessrestrict>
+		<controlaccess>
+			<head>Index Terms</head>
+			<controlaccess>
+				<head>Subjects (Persons)</head>
+				<persname encodinganalog="600">Kirk, Curtis, 1929-1985 -- Archives</persname>
+			</controlaccess>
+			<controlaccess>
+				<head>Subjects (Organizations)</head>
+				<corpname encodinganalog="610">Tyler Publishing Company and Custom Records</corpname>
+			</controlaccess>
+			<controlaccess>
+				<head>Subjects</head>
+				<subject encodinganalog="650">Bluegrass festivals -- Oklahoma -- History -- 20th century</subject>
+				<subject encodinganalog="650">Bluegrass festivals -- Texas -- History -- 20th century</subject>
+				<subject encodinganalog="650">Bluegrass music -- Texas -- History -- 20th century</subject>
+				<subject encodinganalog="650">Country music -- Texas -- History -- 20th century</subject>
+				<subject encodinganalog="650">Gospel music -- Texas -- History -- 20th century</subject>
+				<subject encodinganalog="650">Musicians -- Texas -- History -- 20th century</subject>
+				<subject encodinganalog="650">Sound studios -- Texas -- History -- 20th century</subject>
+			</controlaccess>
+			<controlaccess>
+				<head>Places</head>
+				<geogname encodinganalog="651" source="lcnaf"
+					>Tyler (Tex.) -- History -- 20th century</geogname>
+			</controlaccess>
+		</controlaccess>
+		<prefercite encodinganalog="524">
+			<head>Preferred Citation</head>
+			<p>Curtis Kirk/Tyler Publishing Company Audio Archives, 1963-1983, Dolph Briscoe Center for American History, The
+				University of Texas at Austin.</p>
+		</prefercite>
+		<dsc type="in-depth">
+			<head>Detailed Description of the Papers</head>
+			<c01 level="series" id="ser1">
+				<did>
+					<unittitle>Inventory</unittitle>
+				</did>
+				<c02>
+					<did>
+						<container type="box">Sound archives</container>
+						<unittitle>Audiocassette tapes, phonodiscs, artwork, posters, and photographs, 
+							<unitdate>1963-1983</unitdate></unittitle>
+					</did>
+				</c02>
+			</c01>
+		</dsc>
+	</archdesc>
+</ead>

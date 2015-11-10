@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<!--Template updated 20080408 by J. Allison-Bunnell-->
+<!--Remember to name and save documents using the OCLC code + local filename. Documents that are revised/updated after initial submission much be submitted with precisely the same filename.-->
+<ead> 
+<!--The following section is header information that describes the finding aid-->
+<eadheader langencoding="iso639-2b" scriptencoding="iso15924"
+ relatedencoding="dc" repositoryencoding="iso15511" countryencoding="iso3166-1"
+ dateencoding="iso8601" id="a0"> 
+<eadid countrycode="us" encodinganalog="identifier" mainagencycode="OPV"
+ identifier="80444/xv66171"
+ url="http://nwda.orbiscascade.org/ark:/80444/xv66171">
+OPVELCA7a4_168</eadid> <filedesc> <titlestmt> 
+<titleproper encodinganalog="title">Guide to the Emmanuel Lutheran Church,
+Cornelius, Oregon, Records 
+<date encodinganalog="date" era="ce" calendar="gregorian"
+ normal="1906/2012">1906-2012</date> </titleproper> 
+<titleproper type="filing" altrender="nodisplay">Emanuel Lutheran Church,
+Cornelius, Oregon, Records</titleproper> <author
+encodinganalog="creator">Finding aid prepared by Jerilynn Harris</author> 
+<sponsor encodinganalog="contributor">Funding for encoding this finding aid was
+provided through a grant awarded by the National Endowment for the
+Humanities.Processing funded by the National Historical Publications and
+Records Commission</sponsor> </titlestmt> <publicationstmt> 
+<publisher encodinganalog="publisher">Pacific Lutheran University</publisher> 
+<date encodinganalog="date" era="ce" calendar="gregorian" normal="2012">©
+2012</date> <address> <addressline>12180 Park Avenue South</addressline> 
+<addressline>Tacoma, WA 98444</addressline> </address> </publicationstmt>
+</filedesc> <profiledesc> <creation>Finding aid encoded by
+<emph render="italic"> <emph render="underline">P. Dearinger</emph></emph> 
+<date era="ce" calendar="gregorian" normal="2012"
+ encodinganalog="date">2012</date> </creation> <langusage>Finding aid written in
+<language langcode="eng" encodinganalog="language"
+ scriptcode="latn">English</language></langusage> <descrules>Finding aid based
+on DACS <title render="italic">(Describing Archives: A Content
+Standard)</title></descrules> </profiledesc> </eadheader> 
+<archdesc level="collection" type="inventory" relatedencoding="marc21"> 
+<did id="a1"> <repository> <corpname encodinganalog="852$a"
+source="lcsh">Pacific Lutheran University</corpname>
+<subarea encodinganalog="852$b"> Archives and Special Collections</subarea>
+<subarea encodinganalog="852$b"> ELCA Region 1 Archives</subarea> <address> 
+<addressline>12180 Park Avenue South</addressline> <addressline>Tacoma, WA
+98447</addressline> <addressline>253-535-7586</addressline> <addressline>Email:
+archives@plu.edu</addressline> 
+<addressline>http://www.plu.edu/archives/</addressline> </address>
+</repository> 
+<unitid encodinganalog="099" countrycode="us" repositorycode="opv"
+ type="collection">OPVELCA 7a.4_168</unitid> <physdesc>
+<extent encodinganalog="300$a">1 file</extent> </physdesc><physloc>Box 3 File
+8</physloc><origination> 
+<corpname encodinganalog="110" role="creator" rules="dacs">Emanuel Lutheran
+Church (Cornelius, Or.)</corpname> </origination> 
+<unittitle encodinganalog="245$a">Emanuel Lutheran Church, Cornelius, Oregon,
+Records</unittitle> 
+<unitdate type="inclusive" encodinganalog="245$f" era="ce" calendar="gregorian"
+ normal="1906/2012">1906-2012</unitdate> <physdesc>
+<extent encodinganalog="300$a"></extent> <extent
+encodinganalog="300$a"></extent> </physdesc> <abstract
+encodinganalog="5203_">Collection contains the records of Emanuel Lutheran
+Church in Cornelius, Oregon.</abstract> <langmaterial><language
+encodinganalog="546" langcode="eng">English</language></langmaterial> </did> 
+<bioghist encodinganalog="5451" id="a2"> <head>Historical Note</head><p>This
+congregation organized on November 11, 1906. The first church was constructed
+in 1908, and the parsonage in 1910. In 1917 a house was moved on to the
+property for parish hall use. A new parish hall was dedicated in 1958. Several
+improvements were made in the church, and a service of dedication and
+reconsecration was held in 1965. The 60th anniversary of the congregation was
+celebrated in 1966. Excavation for a new church took place in 1975, and the
+fist service in the new sanctuary was held on June 4, 1978.</p> </bioghist> 
+<scopecontent encodinganalog="5202_" id="a3"> <p>This folder contains a
+congregational historical record, booklets from their 60th anniversary, a
+congregational statistical records, correspondence from Siefkes and Stolte,
+75th anniversary booklet, church constitution, bulletin from installation
+service in 1990 for Ray E. Venghaus.</p> </scopecontent> 
+<accessrestrict encodinganalog="506" id="a14"> <p>Collection is available for
+research</p> </accessrestrict> <userestrict encodinganalog="540" id="a15"> 
+<p>Property rights reside with Archives and Special Collections Department at
+Pacific Lutheran University. Copyright resides with the creator of the
+documents or their heirs. All requests for permission to publish or quote from
+manuscripts must be submitted to the University Archivist. The reader must also
+obtain permission of the copyright holder</p> </userestrict> 
+<prefercite encodinganalog="524" id="a18"> <p>From the Emanuel Lutheran Church,
+Cornelius, Oregon, Records, OPVELCA7a4_168, Archives and Special Collections,
+ELCA Region I Archives, Pacific Lutheran University, 12180 Park Avenue South,
+Tacoma, WA 98447</p> </prefercite> <acqinfo encodinganalog="541" id="a19"> 
+<p>Transferred to ELCA Region I Archives. .</p> </acqinfo> 
+<relatedmaterial id="a6" encodinganalog="544"> <p>To search and view digitized
+images of congregations, visit our <extref
+href="http://chili.plu.edu/pluindex">Digital Assets Website</extref></p>
+</relatedmaterial> <bibliography encodinganalog="581" id="a11"> <p> <bibref> 
+<persname>Nesvig, Swanson, Nordquist, Emerson </persname> 
+<title render="italic">New Partners. Old Roots.</title> <imprint> 
+<geogname source="lcsh" role="subject" encodinganalog="651">Tacoma
+(Wash.)</geogname> <publisher>ALC, LCA, and ELC</publisher> 
+<date type="publication" era="ce" calendar="gregorian" normal="1986">1986
+</date></imprint></bibref> </p> </bibliography> <controlaccess id="a12"> 
+<p>This collection is indexed under the following headings in the online
+catalog. Researchers desiring materials about related topics, persons, or
+places should search the catalog using these headings.</p> <controlaccess> 
+<persname role="subject" encodinganalog="600" rules="dacs">Buechler, C.,
+1906-1908 </persname> 
+<persname role="subject" encodinganalog="600" rules="dacs">Doescher, J. F.,
+1908-1912</persname> <persname role="subject" encodinganalog="600"
+rules="dacs"> Berthold, E., 1912-1917 </persname> 
+<persname role="subject" encodinganalog="600" rules="dacs">Karpenstein, J. H.,
+1917-1922</persname> <persname role="subject" encodinganalog="600"
+rules="dacs">Rhode, William, 1922-1924</persname> 
+<persname role="subject" encodinganalog="600" rules="dacs">Timmcke, H.,
+1924-1930 </persname> 
+<persname role="subject" encodinganalog="600" rules="dacs">Koehler, George,
+1930-1936 </persname> 
+<persname role="subject" encodinganalog="600" rules="dacs">Wolff, A. F.,
+1936-1941 </persname> 
+<persname role="subject" encodinganalog="600" rules="dacs">Kraxberger, W. R.,
+1941-1945 </persname> 
+<persname role="subject" encodinganalog="600" rules="dacs">Zielsdorf, David,
+1945-1946 </persname> 
+<persname role="subject" encodinganalog="600" rules="dacs">Reitz, Armin,
+1946-1949 </persname> 
+<persname role="subject" encodinganalog="600" rules="dacs">Jahr, Erwin,
+1949-1954</persname> <persname role="subject" encodinganalog="600"
+rules="dacs"> Schmidt, Sherwin, 1954-1957</persname> 
+<persname role="subject" encodinganalog="600" rules="dacs"> Stolte, Emil,
+1957-1971</persname> <persname role="subject" encodinganalog="600"
+rules="dacs"> Bash, William, 1972- </persname> 
+<persname role="subject" encodinganalog="600" rules="dacs"> Pishaw, Karl
+J.</persname></controlaccess> <controlaccess> 
+<corpname role="subject" encodinganalog="610" source="lcsh">Evangelical
+Lutheran Church--History</corpname> 
+<corpname role="subject" encodinganalog="610" rules="dacs">Evangelical Lutheran
+Church--Oregon Synod</corpname></controlaccess> <controlaccess> 
+<geogname role="subject" encodinganalog="651" source="lcsh">Cornelius (Or.)
+</geogname> </controlaccess> <controlaccess> 
+<subject encodinganalog="650" rules="dacs">Lutherans--Oregon--History</subject>
+<subject encodinganalog="650" source="lcsh">Evangelical Lutheran Church
+History</subject> </controlaccess> <controlaccess> 
+<subject source="nwda" altrender="nodisplay"
+ encodinganalog="690">Religion</subject> </controlaccess> <controlaccess> 
+<occupation encodinganalog="656" source="lcsh">Clergy</occupation>
+</controlaccess> </controlaccess> </archdesc> </ead> 
