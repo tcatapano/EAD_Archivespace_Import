@@ -14,12 +14,17 @@ Issues
 * Requirements: What is minimum necessary for import?
 
 * Error reporting an diagnostics
-
+*  verbose logging to to report successful import operations
+*  https://github.com/archivesspace/archivesspace/blob/master/backend/spec/lib_ead_converter_spec.rb
+* locationb of relevant logs?
+* Identifying "silent" failures
 * Known Problems: What will not import?
  
 * Recursive notes
- 
-* Alternative Import Scenarios
+* `<did>` model: not same as p
+
+Alternative Import Scenarios
+----------------------------
 
  * csv-based import of container data, controlaccess?
  * MARC, XML. other based import of Collection data
