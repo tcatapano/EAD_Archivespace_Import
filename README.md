@@ -28,3 +28,8 @@ Alternative Import Scenarios
 
  * csv-based import of container data, controlaccess?
  * MARC, XML. other based import of Collection data
+
+
+Batch imports for testing:
+--------------------------
+<https://archivesspace.github.io/archivesspace/api/#post-repositories-repo_id-batch_imports>
