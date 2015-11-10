@@ -5,6 +5,8 @@ Resources
  * Mark Custer's Schematron file: https://github.com/fordmadox/schematrons/blob/master/ArchivesSpace-EAD-validator.sch
  * Harvard's ArchivesSpace Checker: https://github.com/harvard-library/archivesspace-checker
  * Harvard's schematronium (gem that runs schematron over 1 or more xml): https://github.com/harvard-library/schematronium
+ * Google Drive:
+
 Issues
 ------
 * What is target EAD profile?
