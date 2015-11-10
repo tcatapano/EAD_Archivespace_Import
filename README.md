@@ -19,9 +19,11 @@ Issues
 * locationb of relevant logs?
 * Identifying "silent" failures
 * Known Problems: What will not import?
- 
-* Recursive notes
-* `<did>` model: not same as p
+ * Recursive notes
+ * `<did>` model: not same as p
+ * Repetition
+ * granularity refinement
+ * mixed content
 
 Alternative Import Scenarios
 ----------------------------
