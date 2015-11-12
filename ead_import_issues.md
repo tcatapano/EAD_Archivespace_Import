@@ -13,7 +13,7 @@ EAD Importer Issues
 * [AR-1282](https://archivesspace.atlassian.net/browse/AR-1282): include eadheader/@findaidstatus; map to Finding Aid Status
 * [AR-1264](https://archivesspace.atlassian.net/browse/AR-1264): index/indexentry import is wonky, name and ref are imported as separate indexentry
 * 💀!? [AR-1270?](https://archivesspace.atlassian.net/browse/AR-1270); [AR-1134](https://archivesspace.atlassian.net/browse/AR-1134): ead/did/physdesc/dimension|physfacet element is loaded twice, once as a Note w/Type=Physical Description and again as a Note with Type=Dimensions. 
-Maybe the real problem here is that elements that are children of did are being represented as notes -- they have a wrap-in-tag functionality that allows for all of the elements in `<p>`, but really should be disallowed in this case. 💀
+Maybe the real problem here is that elements that are children of did are being represented as notes -- they have a wrap-in-tag functionality that allows for all of the elements in `<p>`, but really should be disallowed in this case.
 * 💀💀💀 in the case of multiple unittitles or unitids, behavior is “last wins” rather than “multiple unittitles.” Esp problematic for records with names in multiple languages
 * language code needs to be repeatable 
 * langmaterial/language elements stripped during import (e.g. <langmaterial> We've got <language>one</language>, <language>two</language>, <language>three</language></langmaterial>
