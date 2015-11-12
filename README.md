@@ -7,3 +7,4 @@ Resources
  * Harvard's schematronium (gem that runs schematron over 1 or more xml): https://github.com/harvard-library/schematronium
  * [EAD-Import-Export-Mapping-20130831.xls](https://github.com/tcatapano/EAD_Archivespace_Import/blob/master/EAD-Import-Export-Mapping-20130831.xls)
  * [EAD Import Issues] (ead_import_issues.md)
+  * Also see AS Jira: https://archivesspace.atlassian.net/browse/
