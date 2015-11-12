@@ -10,9 +10,9 @@ EAD Importer Issues
 * allow subject/name matching based on pre-existing ASpace ids….  also allow matching based on other values?  we’d prefer to use an attribute that matches the ASpace URL, since the agent/subject record in ASpace could be pre-subdivided, which ead2002 won’t be able to retain.
 * ALL notes should default to published, unless there’s an @audience=”internal attribute present.
 * @audience=‘internal’ should be an option, as well, at the collection-level.
-* AR-1282: include eadheader/@findaidstatus; map to Finding Aid Status
-* AR-1264: index/indexentry import is wonky, name and ref are imported as separate indexentry
-* 💀!? AR-1270?; AR-1134: ead/did/physdesc/dimension|physfacet element is loaded twice, once as a Note w/Type=Physical Description and again as a Note with Type=Dimensions. 
+* [AR-1282](https://archivesspace.atlassian.net/browse/AR-1282): include eadheader/@findaidstatus; map to Finding Aid Status
+* [AR-1264](https://archivesspace.atlassian.net/browse/AR-1264): index/indexentry import is wonky, name and ref are imported as separate indexentry
+* 💀!? [AR-1270?](https://archivesspace.atlassian.net/browse/AR-1270); [AR-1134]((https://archivesspace.atlassian.net/browse/AR-1134)): ead/did/physdesc/dimension|physfacet element is loaded twice, once as a Note w/Type=Physical Description and again as a Note with Type=Dimensions. 
 Maybe the real problem here is that elements that are children of did are being represented as notes -- they have a wrap-in-tag functionality that allows for all of the elements in `<p>`, but really should be disallowed in this case. 💀
 * 💀💀💀 in the case of multiple unittitles or unitids, behavior is “last wins” rather than “multiple unittitles.” Esp problematic for records with names in multiple languages
 * language code needs to be repeatable 
