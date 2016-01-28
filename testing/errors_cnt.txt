@@ -1,0 +1,43 @@
+ 120189 In order to ensure that your container elements import properly, you should assign id attributes for each container grouping per archival component
+  49500 You must specify a level attribute at every level of description
+   5766 The extent statement should contain more than just an extent number since ArchivesSpace will not import any extent attribute values. If you're making use of the @unit attribute, you would probably be safe in copying that value to the end of the extent's text node (e.g. @unit=&quot;Linear Feet&quot;, 5... could be changed to @unit=&quot;Linear Feet&quot;, 5 Linear Feet)
+   5461 The ArchivesSpace EAD importer will silently drop note elements. Please convert these to &quot;odd&quot; elements.
+   3090 If the value of a level attribute is &quot;otherlevel', then you must specify the value of the otherlevel attribute
+   1589 You must specify either a title or a date when describing archival components (this is a requirement enforced by the AchivesSpace data model, not by EAD)
+   1244 'did' elements must contain a either a 'unitdate' element, a 'unittitle' element or both.
+    578 'descgrp' is deprecated, and must be removed. Element children of the following types must be reparented into 'descgrp's parent element: 'accessrestrict', 'accruals', 'acquinfo', 'altformavail', 'appraisal', 'custodhist', 'note', 'prefercite', 'processinfo', 'userestrict', 'accessrestrict', 'accruals', 'acquinfo', 'altformavail', 'appraisal', 'custodhist', 'note', 'prefercite', 'processinfo', 'userestrict'
+    362 'extent' element content should not start with non-numeric character.
+    291 The extent statement must start with a number and it must also have at least one space present. (e.g. &quot;5 Linear Feet&quot; is a valid value, but &quot;5items&quot; is not).
+    220 The extent statement must contain more than just an extent number. If you're making use of the @unit attribute, you would probably be safe in copying that value to the end of the extent's text node (e.g. @unit=&quot;Linear Feet&quot;, 5... could be changed to @unit=&quot;Linear Feet&quot;, 5 Linear Feet)
+    205 You must supply an extent statement at the resource level. This should be formatted with an extent number and an extent type, like so: &quot;3.25 cubic meters&quot;
+    201 'head' element should be dropped from descgrp
+    170 Collection level 'did' element must contain 'physdesc' element with 'extent' child.
+     57 You must supply an identifier at the resource level
+     39 Collection level 'did' element must contain a 'unitid' element.
+     18 You must supply a date at the resource level (including as child of unittitle)
+     16 403 Forbidden for: http://www.lib.uchicago.edu/bus/EAD/2002/dtds/ead.dtd
+     14 /home/thc4/Github/EAD_Archivespace_Import/testbed/ead.dtd (No such file or directory)
+     13 'descgrp' is deprecated, and must be removed. 'descgrp' element with type 'add' requires manual review and intervention.
+     10 Collection level 'unitid' element must not be empty.
+     10 Collection level 'did' element must contain a 'unitdate' element.
+      9 'table' element is deprecated and must be removed.
+      8 /eadcb/shared/ead/ead.dtd (No such file or directory)
+      5 Collection level 'physdesc/extent' element must not be empty.
+      4 /home/thc4/Github/EAD_Archivespace_Import/testbed/entities/xmlchars.ent (No such file or directory)
+      3 You must supply a title at the resource level
+      2 XML document structures must start and end within the same entity.
+      2 /home/thc4/Github/EAD_Archivespace_Import/shared/ead/ead.dtd (No such file or directory)
+      2 'descgrp' is deprecated, and must be removed. 'address', 'blockquote', 'chronlist', 'list', and 'p' children of 'descgrp' must be reparented into a new 'note' element in the 'descgrp's parent element
+      1 The date normalization value for this field needs to be updated. The first date, circa 1967, is encoded as occurring before the end date, 1984
+      1 The date normalization value for this field needs to be updated. The first date, circa 1920, is encoded as occurring before the end date, 1959
+      1 The date normalization value for this field needs to be updated. The first date, circa 1890, is encoded as occurring before the end date, 1895
+      1 The date normalization value for this field needs to be updated. The first date, circa 1850, is encoded as occurring before the end date, 1989
+      1 The date normalization value for this field needs to be updated. The first date, circa 1830, is encoded as occurring before the end date, 1846
+      1 The date normalization value for this field needs to be updated. The first date, circa 1820, is encoded as occurring before the end date, 1973
+      1 The date normalization value for this field needs to be updated. The first date, 4939, is encoded as occurring before the end date, 2003
+      1 The date normalization value for this field needs to be updated. The first date, 19840203, is encoded as occurring before the end date, 19540205
+      1 The date normalization value for this field needs to be updated. The first date, 1970, is encoded as occurring before the end date, 1071
+      1 The date normalization value for this field needs to be updated. The first date, 1949-05-06, is encoded as occurring before the end date, 1945-05-07
+      1 The date normalization value for this field needs to be updated. The first date, 1938, is encoded as occurring before the end date, 1930
+      1 The date normalization value for this field needs to be updated. The first date, [1885, is encoded as occurring before the end date, 1985]
+      1 Collection level 'unitdate' element must not be empty.
