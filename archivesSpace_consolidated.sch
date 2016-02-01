@@ -35,5 +35,10 @@
                 C1: The must be level designation for every component
             </sch:assert>
         </sch:rule>
+        <sch:rule context="*:c/*:did | *[matches(local-name(), '^c0 | ^c1')]/*did">
+            <sch:assert test="*:unittitle | descendant::*:unitdate">
+                C2: The must be a title or date for every component
+            </sch:assert>
+        </sch:rule>
     </sch:pattern>
 </sch:schema>
