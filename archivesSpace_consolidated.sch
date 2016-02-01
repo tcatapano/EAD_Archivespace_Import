@@ -20,5 +20,12 @@
             <sch:assert test="matches(., '\S')">R1.4: There must be a unitid at the resource level
             </sch:assert>
         </sch:rule>
+        <sch:rule id="R1.5" context="ead:archdesc/ead:did/ead:physdesc">
+            <sch:assert test="exists(ead:extent)">R1.5: There must be an extent element at the resource level
+            </sch:assert>
+            <sch:assert test="ead:extent[matches(normalize-space(.), '\s')][matches(normalize-space(.), '^\d')]">
+                The extent statement must start with a number and it must also have at least one space present. (e.g. "5 Linear Feet" is a valid value, but "5items" is not).
+            </sch:assert>
+        </sch:rule>
     </sch:pattern>
 </sch:schema>
