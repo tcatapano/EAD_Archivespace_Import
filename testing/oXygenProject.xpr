@@ -1,13 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project version="17.1">
+<project version="17.0">
     <meta>
         <filters directoryPatterns="" filePatterns="" positiveFilePatterns="" showHiddenFiles="false"/>
         <options>
-            <serialized version="17.1" xml:space="preserve">
-                <map>
+            <serialized version="17.0" xml:space="preserve">
+                <serializableOrderedMap>
                     <entry>
                         <String>validation.scenario.associations</String>
                         <scenarioAssociation-array>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>../testbed/1000-123701.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>EAD_IMPORT_RULES</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>Validation_scenario</String>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
                                     <String>../testbed/</String>
@@ -108,13 +123,13 @@
                                                         <null/>
                                                     </field>
                                                     <field name="schematronPhase">
-                                                        <String>#ALL</String>
+                                                        <null/>
                                                     </field>
                                                     <field name="type">
                                                         <Integer>7</Integer>
                                                     </field>
                                                     <field name="uri">
-                                                        <String>file:/home/thc4/Github/archivesspace-checker/schematron/archivesspace_checker_sch.xml</String>
+                                                        <String>file:/media/KINGSTON8/Work/ASpace/archivesspace-checker/schematron/archivesspace_checker_sch.xml</String>
                                                     </field>
                                                 </validationUnitSchema>
                                             </field>
@@ -130,7 +145,7 @@
                             </validationScenario>
                         </validationScenario-array>
                     </entry>
-                </map>
+                </serializableOrderedMap>
             </serialized>
         </options>
     </meta>
