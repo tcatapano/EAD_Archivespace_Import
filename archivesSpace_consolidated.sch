@@ -35,9 +35,14 @@
                 C1: The must be a level designation for every component
             </sch:assert>
         </sch:rule>
-        <sch:rule context="*:c/*:did | *[matches(local-name(), '^c0 | ^c1')]/*:                                                                                                                                     did">
+        <sch:rule context="*:c/*:did | *[matches(local-name(), '^c0 | ^c1')]/*:did">
             <sch:assert test="*:unittitle | descendant::*:unitdate">
                 C2: There must be a title or date for every component
+            </sch:assert>
+        </sch:rule>
+        <sch:rule context="*:c/*:did/*:physdesc/*:extent | *[matches(local-name(), '^c0 | ^c1')]/*:did/*:physdesc/*:extent">
+            <sch:assert test="matches(normalize-space(.), '\D')">
+                C3: An extent statement at the component level must contain more that just a number
             </sch:assert>
         </sch:rule>
     </sch:pattern>
