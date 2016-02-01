@@ -21,11 +21,13 @@
             </sch:assert>
         </sch:rule>
         <sch:rule id="R1.5" context="*:archdesc/*:did/*:physdesc">
-            <!--<sch:assert test="exists(*:extent)">R1.5: There must be an extent element at the resource level
-            </sch:assert>-->
-            <sch:assert test="*:extent[matches(normalize-space(.), '\s')][matches(normalize-space(.), '^\d')]">
-                The extent statement must start with a number and it must also have at least one space present. (e.g. "5 Linear Feet" is a valid value, but "5items" is not).
+            <sch:assert test="exists(*:extent)">R1.5.1: There must be an extent statement at the resource level
             </sch:assert>
+            <!-- this may be too strict; consider case of ".25 cubic feet" -->
+            <sch:assert test="*:extent[matches(normalize-space(.), '\s')][matches(normalize-space(.), '^\d')]">
+                R1.5.2: The extent statement at the resource level must start with a number and it must also have at least one space present. (e.g. "5 Linear Feet" is a valid value, but "5items" is not).
+            </sch:assert>
+            
         </sch:rule>
     </sch:pattern>
 </sch:schema>
