@@ -26,8 +26,14 @@
             <!-- this may be too strict; consider case of ".25 cubic feet" -->
             <sch:assert test="*:extent[matches(normalize-space(.), '\s')][matches(normalize-space(.), '^\d')]">
                 R1.5.2: The extent statement at the resource level must start with a number and it must also have at least one space present. (e.g. "5 Linear Feet" is a valid value, but "5items" is not).
+            </sch:assert>            
+        </sch:rule>
+    </sch:pattern>
+    <sch:pattern id="component-level">
+        <sch:rule id="C1" context="*:c | *[matches(local-name(), '^c0 | ^c1')]">
+            <sch:assert test="matches(@level, '\S')">
+                C1: The must be level designation for every component
             </sch:assert>
-            
         </sch:rule>
     </sch:pattern>
 </sch:schema>
