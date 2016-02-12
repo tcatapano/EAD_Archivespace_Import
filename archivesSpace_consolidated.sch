@@ -46,4 +46,15 @@
             </sch:assert>
         </sch:rule>
     </sch:pattern>
+    <sch:pattern id="dates">
+        <sch:rule id="D1" context="*:unitdate[contains(@normal, '/')]">
+            <let name="begin_date" value="substring-before(@normal, '/')"/>
+            <let name="end_date" value="substring-after(@normal, '/')"/>
+            <assert test="replace($end_date, '-', '') >= replace($begin_date, '-', '')">The date
+                normalization value for this field needs to be updated. The first date, <value-of
+                    select="$begin_date"/>, is encoded as occurring <span class="italic"
+                        >before</span> the end date, <value-of select="$end_date"/>
+            </assert>
+        </sch:rule>
+    </sch:pattern>
 </sch:schema>
