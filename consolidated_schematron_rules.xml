@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <row>
+        <SCHEMATRON>CUSTER</SCHEMATRON>
+        <CONTEXT>*:archdesc</CONTEXT>
+        <TESTTYPE>assert</TESTTYPE>
+        <TEST>@level</TEST>
+        <RULETEXT>You must supply a level attribute at the resource level</RULETEXT>
+        <DIAGNOSTICS></DIAGNOSTICS>
+    </row>
+    <row>
+        <SCHEMATRON>CUSTER</SCHEMATRON>
+        <CONTEXT>*:archdesc/*:did</CONTEXT>
+        <TESTTYPE>assert</TESTTYPE>
+        <TEST>*:unittitle[normalize-space()]</TEST>
+        <RULETEXT>You must supply a title at the resource level</RULETEXT>
+        <DIAGNOSTICS></DIAGNOSTICS>
+    </row>
+    <row>
+        <SCHEMATRON>CUSTER</SCHEMATRON>
+        <CONTEXT>*:archdesc/*:did</CONTEXT>
+        <TESTTYPE>assert</TESTTYPE>
+        <TEST>descendant::*:unitdate[normalize-space()] or descendant::*:unitdate[@normal]</TEST>
+        <RULETEXT>You must supply a date at the resource level (including as child of unittitle)</RULETEXT>
+        <DIAGNOSTICS></DIAGNOSTICS>
+    </row>
+    <row>
+        <SCHEMATRON>CUSTER</SCHEMATRON>
+        <CONTEXT>*:archdesc/*:did</CONTEXT>
+        <TESTTYPE>assert</TESTTYPE>
+        <TEST>*:unitid[normalize-space()][1]</TEST>
+        <RULETEXT>You must supply an identifier at the resource level</RULETEXT>
+        <DIAGNOSTICS></DIAGNOSTICS>
+    </row>
+    <row>
+        <SCHEMATRON>CUSTER</SCHEMATRON>
+        <CONTEXT>*:archdesc/*:did</CONTEXT>
+        <TESTTYPE>assert</TESTTYPE>
+        <TEST>*:physdesc/*:extent[normalize-space()][1]</TEST>
+        <RULETEXT>You must supply an extent statement at the resource level. This should be formatted with an extent number and an extent type, like so: "3.25 cubic meters"</RULETEXT>
+        <DIAGNOSTICS></DIAGNOSTICS>
+    </row>
+    <row>
+        <SCHEMATRON>CUSTER</SCHEMATRON>
+        <CONTEXT>*:archdesc/*:did</CONTEXT>
+        <TESTTYPE>assert</TESTTYPE>
+        <TEST>*:physdesc/*:extent[1][matches(normalize-space(.), '\D')]</TEST>
+        <RULETEXT>The extent statement must contain more than just an extent number. If you're making use of the @unit attribute, you would probably be safe in copying that value to the end of the extent's text node (e.g. @unit="Linear Feet", 5... could be changed to @unit="Linear Feet", 5 Linear Feet)</RULETEXT>
+        <DIAGNOSTICS></DIAGNOSTICS>
+    </row>
+    <row>
+        <SCHEMATRON>CUSTER</SCHEMATRON>
+        <CONTEXT>*:archdesc/*:did</CONTEXT>
+        <TESTTYPE>assert</TESTTYPE>
+        <TEST>*:physdesc/*:extent[1][matches(normalize-space(.), '\s')][matches(normalize-space(.), '^\d')]</TEST>
+        <RULETEXT>The extent statement must start with a number and it must also have at least one space present. (e.g. "5 Linear Feet" is a valid value, but "5items" is not).</RULETEXT>
+        <DIAGNOSTICS></DIAGNOSTICS>
+    </row>
+    <row>
+        <SCHEMATRON>CUSTER</SCHEMATRON>
+        <CONTEXT>*:unitdate[contains(@normal, '/')]</CONTEXT>
+        <TESTTYPE>assert</TESTTYPE>
+        <TEST>replace($end_date, '-', '') >= replace($begin_date, '-', '')</TEST>
+        <RULETEXT>The date normalization value for this field needs to be updated. The first date, {$begin_date} , is encoded as occurring before the end date, {$end_date}</RULETEXT>
+        <DIAGNOSTICS></DIAGNOSTICS>
+    </row>
+    <row>
+        <SCHEMATRON>CUSTER</SCHEMATRON>
+        <CONTEXT>*[@level ='otherlevel']</CONTEXT>
+        <TESTTYPE>assert</TESTTYPE>
+        <TEST>@otherlevel</TEST>
+        <RULETEXT>If the value of a level attribute is "otherlevel', then you must specify the value of the otherlevel attribute</RULETEXT>
+        <DIAGNOSTICS></DIAGNOSTICS>
+    </row>
+    <row>
+        <SCHEMATRON>CUSTER</SCHEMATRON>
+        <CONTEXT>*:c/*:did | *[matches(local-name(), '^c0|^c1')]/*:did</CONTEXT>
+        <TESTTYPE>assert</TESTTYPE>
+        <TEST>parent::*/@level</TEST>
+        <RULETEXT>You must specify a level attribute at every level of description</RULETEXT>
+        <DIAGNOSTICS></DIAGNOSTICS>
+    </row>
+    <row>
+        <SCHEMATRON>CUSTER</SCHEMATRON>
+        <CONTEXT>*:c/*:did | *[matches(local-name(), '^c0|^c1')]/*:did</CONTEXT>
+        <TESTTYPE>assert</TESTTYPE>
+        <TEST>*:unittitle[normalize-space()] or descendant::*:unitdate[normalize-space()] or descendant::*:unitdate[@normal]</TEST>
+        <RULETEXT>You must specify either a title or a date when describing archival components (this is a requirement enforced by the AchivesSpace data model, not by EAD)</RULETEXT>
+        <DIAGNOSTICS></DIAGNOSTICS>
+    </row>
+    <row>
+        <SCHEMATRON>CUSTER</SCHEMATRON>
+        <CONTEXT>*:c/*:did/*:physdesc/*:extent[1] | *[matches(local-name(), '^c0|^c1')]/*:did/*:physdesc/*:extent[1]</CONTEXT>
+        <TESTTYPE>assert</TESTTYPE>
+        <TEST>matches(normalize-space(.), '\D')</TEST>
+        <RULETEXT>The extent statement should contain more than just an extent number since ArchivesSpace will not import any extent attribute values. If you're making use of the @unit attribute, you would probably be safe in copying that value to the end of the extent's text node (e.g. @unit="Linear Feet", 5... could be changed to @unit="Linear Feet", 5 Linear Feet)</RULETEXT>
+        <DIAGNOSTICS></DIAGNOSTICS>
+    </row>
+    <row>
+        <SCHEMATRON>CUSTER</SCHEMATRON>
+        <CONTEXT>*:container[not(@parent)]</CONTEXT>
+        <TESTTYPE>assert</TESTTYPE>
+        <TEST>@id</TEST>
+        <RULETEXT>In order to ensure that your container elements import properly, you should assign id attributes for each container grouping per archival component</RULETEXT>
+        <DIAGNOSTICS></DIAGNOSTICS>
+    </row>
+    <row>
+        <SCHEMATRON>HARVARD</SCHEMATRON>
+        <CONTEXT>//extent</CONTEXT>
+        <TESTTYPE>assert</TESTTYPE>
+        <TEST>matches(., '^[0123456789]')</TEST>
+        <RULETEXT>'extent' element content should not start with non-numeric character.</RULETEXT>
+        <DIAGNOSTICS>Ref-number: 18 Content: Value is " {.} "</DIAGNOSTICS>
+    </row>
+    <row>
+        <SCHEMATRON>HARVARD</SCHEMATRON>
+        <CONTEXT>//descgrp[@type and @type != 'add']/head</CONTEXT>
+        <TESTTYPE>assert</TESTTYPE>
+        <TEST>not(.)</TEST>
+        <RULETEXT>'head' element should be dropped from descgrp</RULETEXT>
+        <DIAGNOSTICS>Ref-number: 11</DIAGNOSTICS>
+    </row>
+    <row>
+        <SCHEMATRON>HARVARD</SCHEMATRON>
+        <CONTEXT>//descgrp[@type and @type != 'add']/address| //descgrp[@type and @type != 'add']/blockquote| //descgrp[@type and @type != 'add']/chronlist| //descgrp[@type and @type != 'add']/list| //descgrp[@type and @type != 'add']/p</CONTEXT>
+        <TESTTYPE>assert</TESTTYPE>
+        <TEST>not(.)</TEST>
+        <RULETEXT>'descgrp' is deprecated, and must be removed. 'address', 'blockquote', 'chronlist', 'list', and 'p' children of 'descgrp' must be reparented into a new 'note' element in the 'descgrp's parent element</RULETEXT>
+        <DIAGNOSTICS>Ref-number: 11 Content: ' {local-name(.)} ' element can be moved out of 'descgrp' element into a new 'note' element in surrounding ' {local-name(./../..)} '</DIAGNOSTICS>
+    </row>
+    <row>
+        <SCHEMATRON>HARVARD</SCHEMATRON>
+        <CONTEXT>//descgrp[@type and @type != 'add']/accessrestrict| //descgrp[@type and @type != 'add']/accruals| //descgrp[@type and @type != 'add']/acquinfo| //descgrp[@type and @type != 'add']/altformavail| //descgrp[@type and @type != 'add']/appraisal| //descgrp[@type and @type != 'add']/custodhist| //descgrp[@type and @type != 'add']/note| //descgrp[@type and @type != 'add']/prefercite| //descgrp[@type and @type != 'add']/processinfo| //descgrp[@type and @type != 'add']/userestrict| //descgrp[@type and @type != 'add']/accessrestrict| //descgrp[@type and @type != 'add']/accruals| //descgrp[@type and @type != 'add']/acquinfo| //descgrp[@type and @type != 'add']/altformavail| //descgrp[@type and @type != 'add']/appraisal| //descgrp[@type and @type != 'add']/custodhist| //descgrp[@type and @type != 'add']/note| //descgrp[@type and @type != 'add']/prefercite| //descgrp[@type and @type != 'add']/processinfo| //descgrp[@type and @type != 'add']/userestrict</CONTEXT>
+        <TESTTYPE>assert</TESTTYPE>
+        <TEST>not(.)</TEST>
+        <RULETEXT>'descgrp' is deprecated, and must be removed. Element children of the following types must be reparented into 'descgrp's parent element: 'accessrestrict', 'accruals', 'acquinfo', 'altformavail', 'appraisal', 'custodhist', 'note', 'prefercite', 'processinfo', 'userestrict', 'accessrestrict', 'accruals', 'acquinfo', 'altformavail', 'appraisal', 'custodhist', 'note', 'prefercite', 'processinfo', 'userestrict'</RULETEXT>
+        <DIAGNOSTICS>Ref-number: 11 Content: ' {local-name(.)} ' element can be moved out of 'descgrp element into surrounding ' {local-name(./../..)} '</DIAGNOSTICS>
+    </row>
+    <row>
+        <SCHEMATRON>HARVARD</SCHEMATRON>
+        <CONTEXT>//descgrp[@type]</CONTEXT>
+        <TESTTYPE>assert</TESTTYPE>
+        <TEST>not(@type='add')</TEST>
+        <RULETEXT>'descgrp' is deprecated, and must be removed. 'descgrp' element with type 'add' requires manual review and intervention.</RULETEXT>
+        <DIAGNOSTICS>Ref-number: 11</DIAGNOSTICS>
+    </row>
+    <row>
+        <SCHEMATRON>HARVARD</SCHEMATRON>
+        <CONTEXT>/ead/archdesc/did</CONTEXT>
+        <TESTTYPE>assert</TESTTYPE>
+        <TEST>.[unitid]</TEST>
+        <RULETEXT>Collection level 'did' element must contain a 'unitid' element.</RULETEXT>
+        <DIAGNOSTICS>Ref-number: 12</DIAGNOSTICS>
+    </row>
+    <row>
+        <SCHEMATRON>HARVARD</SCHEMATRON>
+        <CONTEXT>/ead/archdesc/did</CONTEXT>
+        <TESTTYPE>assert</TESTTYPE>
+        <TEST>.[unittitle]</TEST>
+        <RULETEXT>Collection level 'did' element must contain a 'unittitle' element.</RULETEXT>
+        <DIAGNOSTICS>Ref-number: 13</DIAGNOSTICS>
+    </row>
+    <row>
+        <SCHEMATRON>HARVARD</SCHEMATRON>
+        <CONTEXT>/ead/archdesc/did</CONTEXT>
+        <TESTTYPE>assert</TESTTYPE>
+        <TEST>.[unitdate or unittitle/unitdate]</TEST>
+        <RULETEXT>Collection level 'did' element must contain a 'unitdate' element.</RULETEXT>
+        <DIAGNOSTICS>Ref-number: 14</DIAGNOSTICS>
+    </row>
+    <row>
+        <SCHEMATRON>HARVARD</SCHEMATRON>
+        <CONTEXT>/ead/archdesc/did</CONTEXT>
+        <TESTTYPE>assert</TESTTYPE>
+        <TEST>.[physdesc/extent]</TEST>
+        <RULETEXT>Collection level 'did' element must contain 'physdesc' element with 'extent' child.</RULETEXT>
+        <DIAGNOSTICS>Ref-number: 16</DIAGNOSTICS>
+    </row>
+    <row>
+        <SCHEMATRON>HARVARD</SCHEMATRON>
+        <CONTEXT>/ead/archdesc/*[not(local-name(.) = 'did')]//did</CONTEXT>
+        <TESTTYPE>assert</TESTTYPE>
+        <TEST>count(./unitdate|./unittitle) > 0</TEST>
+        <RULETEXT>'did' elements must contain a either a 'unitdate' element, a 'unittitle' element or both.</RULETEXT>
+        <DIAGNOSTICS>Ref-number: 15</DIAGNOSTICS>
+    </row>
+    <row>
+        <SCHEMATRON>HARVARD</SCHEMATRON>
+        <CONTEXT>/ead/archdesc/did/unitid</CONTEXT>
+        <TESTTYPE>assert</TESTTYPE>
+        <TEST>./text()[normalize-space(.)]</TEST>
+        <RULETEXT>Collection level 'unitid' element must not be empty.</RULETEXT>
+        <DIAGNOSTICS>Ref-number: 12</DIAGNOSTICS>
+    </row>
+    <row>
+        <SCHEMATRON>HARVARD</SCHEMATRON>
+        <CONTEXT>/ead/archdesc/did/unittitle</CONTEXT>
+        <TESTTYPE>assert</TESTTYPE>
+        <TEST>./text()[normalize-space(.)]</TEST>
+        <RULETEXT>Collection level 'unittitle' element must not be empty.</RULETEXT>
+        <DIAGNOSTICS>Ref-number: 13</DIAGNOSTICS>
+    </row>
+    <row>
+        <SCHEMATRON>HARVARD</SCHEMATRON>
+        <CONTEXT>/ead/archdesc/did/unitdate| /ead/archdesc/did/unittitle/unitdate</CONTEXT>
+        <TESTTYPE>assert</TESTTYPE>
+        <TEST>./text()[normalize-space(.)]</TEST>
+        <RULETEXT>Collection level 'unitdate' element must not be empty.</RULETEXT>
+        <DIAGNOSTICS>Ref-number: 14</DIAGNOSTICS>
+    </row>
+    <row>
+        <SCHEMATRON>HARVARD</SCHEMATRON>
+        <CONTEXT>/ead/archdesc/did/physdesc/extent</CONTEXT>
+        <TESTTYPE>assert</TESTTYPE>
+        <TEST>./text()[normalize-space(.)]</TEST>
+        <RULETEXT>Collection level 'physdesc/extent' element must not be empty.</RULETEXT>
+        <DIAGNOSTICS>Ref-number: 16</DIAGNOSTICS>
+    </row>
+    <row>
+        <SCHEMATRON>HARVARD</SCHEMATRON>
+        <CONTEXT>//table</CONTEXT>
+        <TESTTYPE>assert</TESTTYPE>
+        <TEST>not(.)</TEST>
+        <RULETEXT>'table' element is deprecated and must be removed.</RULETEXT>
+        <DIAGNOSTICS>Ref-number: 25</DIAGNOSTICS>
+    </row>
+    <row>
+        <SCHEMATRON>HARVARD</SCHEMATRON>
+        <CONTEXT>//date</CONTEXT>
+        <TESTTYPE>assert</TESTTYPE>
+        <TEST>not(.[@startYear or @endYear])</TEST>
+        <RULETEXT>'date' element must not contain 'startYear' or 'endYear' attributes.</RULETEXT>
+        <DIAGNOSTICS>Ref-number: 38 Content: Content from ' {local-name(.)} ' element's 'startYear' ( {./@startYear} ) and 'endYear' ( {./@endYear} ) attributes should be combined into a single 'normal' attribute separated by '/' ( {./@startYear} / {./@endYear} )</DIAGNOSTICS>
+    </row>
+    <row>
+        <SCHEMATRON>HARVARD</SCHEMATRON>
+        <CONTEXT>//unitdate</CONTEXT>
+        <TESTTYPE>assert</TESTTYPE>
+        <TEST>not(.[@startYear or @endYear])</TEST>
+        <RULETEXT>'unitdate' element must not contain 'startYear' or 'endYear' attributes.</RULETEXT>
+        <DIAGNOSTICS>Ref-number: 38 Content: Content from ' {local-name(.)} ' element's 'startYear' ( {./@startYear} ) and 'endYear' ( {./@endYear} ) attributes should be combined into a single 'normal' attribute separated by '/' ( {./@startYear} / {./@endYear} )</DIAGNOSTICS>
+    </row>
+</root>
