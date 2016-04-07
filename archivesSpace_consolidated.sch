@@ -24,17 +24,17 @@
         </sch:rule>
     </sch:pattern>
     <sch:pattern id="component-level">
-        <sch:rule id="C1" context="*:c | *[matches(local-name(), '^c0 | ^c1')]">
+        <sch:rule id="C1" context="*:c | *[matches(local-name(), '^c\d')]">
             <sch:assert test="matches(@level, '\S')">
                 C1: The must be a level designation for every component
             </sch:assert>
         </sch:rule>
-        <sch:rule context="*:c/*:did | *[matches(local-name(), '^c0 | ^c1')]/*:did">
-            <sch:assert test="*:unittitle | descendant::*:unitdate">
+        <sch:rule context="*:dsc//*:did">
+            <sch:assert test="matches(*:unittitle[1], '\S') or  matches(descendant::*:unitdate[1], '\S')">
                 C2: There must be a title or date for every component
             </sch:assert>
         </sch:rule>
-        <sch:rule context="*:c/*:did/*:physdesc/*:extent | *[matches(local-name(), '^c0 | ^c1')]/*:did/*:physdesc/*:extent">
+        <sch:rule context="*:dsc//*:did/*:physdesc/*:extent">
             <sch:assert test="matches(normalize-space(.), '\D')">
                 C3: An extent statement at the component level must contain more that just a number
             </sch:assert>
